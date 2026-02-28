@@ -197,22 +197,13 @@ def run():
         logger.error("MINIMAX_API_KEY not set. Set it as an environment variable.")
         sys.exit(1)
 
-    # Test mode: limit to one region, 3 articles
+    # Test mode: limit to 3 articles per region
     test_mode = os.environ.get("TEST_MODE", "").lower() in ("1", "true", "yes")
     if test_mode:
-        logger.info("*** TEST MODE: 1 region, 3 articles ***")
+        logger.info("*** TEST MODE: 3 articles per region ***")
 
     # Load sources
     sources = load_sources()
-    if test_mode:
-        # Keep only the first region
-        regions = sources.get("regions", {})
-        first_key = next(iter(regions))
-        first_region = regions[first_key]
-        # Keep only the first source in that region
-        if first_region.get("sources"):
-            first_region["sources"] = first_region["sources"][:1]
-        sources["regions"] = {first_key: first_region}
     logger.info(f"Loaded {sum(len(r.get('sources', [])) for r in sources.get('regions', {}).values())} sources")
 
     # ── Step 1: Fetch articles ──
