@@ -1,12 +1,12 @@
 import Header from "@/components/Header";
 import NewsFeed from "@/components/NewsFeed";
-import AttackMapClient from "@/components/AttackMapClient";
 import {
   getArticlesByRegion,
   getAttackArticles,
   getThreatLevel,
 } from "@/lib/data";
 import type { RegionKey } from "@/lib/types";
+import HomeAttackMap from "@/components/HomeAttackMap";
 
 export default function HomePage() {
   const regions: RegionKey[] = ["iran", "russia", "israel", "gulf", "proxies"];
@@ -55,7 +55,7 @@ export default function HomePage() {
               — last {attacks.length} classified incidents
             </span>
           </h2>
-          <AttackMapClient attacks={attacks} />
+          <HomeAttackMap attacks={attacks} />
           {/* Legend */}
           <div
             style={{

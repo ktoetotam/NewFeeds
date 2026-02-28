@@ -1,12 +1,20 @@
+import { forwardRef } from "react";
 import type { Article } from "@/lib/types";
 import { REGIONS, SEVERITY_COLORS } from "@/lib/types";
 import { formatTimeAgo } from "@/lib/utils";
 
 interface AttackCardProps {
   article: Article;
+  index?: number;
+  isSelected?: boolean;
+  onSelect?: () => void;
+  onCircleClick?: () => void;
 }
 
-export default function AttackCard({ article }: AttackCardProps) {
+const AttackCard = forwardRef<HTMLElement, AttackCardProps>(function AttackCard(
+  { article, index, isSelected, onSelect, onCircleClick },
+  ref
+) {
   const classification = article.classification;
   if (!classification) return null;
 
@@ -34,14 +42,58 @@ export default function AttackCard({ article }: AttackCardProps) {
 
   return (
     <article
+      ref={ref}
+      onClick={onSelect}
       style={{
-        background: "var(--color-surface)",
-        border: `1px solid ${severityColor}40`,
+        background: isSelected
+          ? `${severityColor}08`
+          : "var(--color-surface)",
+        border: isSelected
+          ? `2px solid ${severityColor}`
+          : `1px solid ${severityColor}40`,
         borderLeft: `4px solid ${severityColor}`,
         borderRadius: 10,
         padding: 16,
+        cursor: onSelect ? "pointer" : undefined,
+        transition: "all 0.2s ease",
+        display: "flex",
+        gap: 12,
+        alignItems: "flex-start",
       }}
     >
+      {/* Numbered circle */}
+      {index != null && (
+        <div
+          onClick={(e) => {
+            e.stopPropagation();
+            onCircleClick?.();
+          }}
+          title="Show on map"
+          style={{
+            flexShrink: 0,
+            width: 32,
+            height: 32,
+            borderRadius: "50%",
+            background: severityColor,
+            color: "#fff",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            fontWeight: 700,
+            fontSize: 14,
+            cursor: "pointer",
+            boxShadow: isSelected
+              ? `0 0 0 3px ${severityColor}40`
+              : "0 1px 3px rgba(0,0,0,0.15)",
+            transition: "box-shadow 0.2s ease",
+            marginTop: 2,
+          }}
+        >
+          {index}
+        </div>
+      )}
+
+      <div style={{ flex: 1, minWidth: 0 }}>
       {/* Top row: severity + category + source + time */}
       <div
         style={{
@@ -176,6 +228,9 @@ export default function AttackCard({ article }: AttackCardProps) {
           </span>
         ))}
       </div>
+      </div>
     </article>
   );
-}
+});
+
+export default AttackCard;
