@@ -318,6 +318,22 @@ def run():
         existing_attacks, str(DATA_DIR / "threat_level.json")
     )
 
+    # ── Step 7: Generate executive summary ──
+    logger.info("── Step 7: Generating executive summary ──")
+
+    try:
+        from generate_summary import generate_and_save
+
+        summary = generate_and_save(
+            attacks=existing_attacks,
+            threat=threat,
+        )
+        logger.info(
+            f"  Executive summary generated at {summary.get('generated_at', '?')}"
+        )
+    except Exception as e:
+        logger.warning(f"Executive summary generation failed: {e}")
+
     # ── Summary ──
     logger.info("=" * 60)
     logger.info("Pipeline complete!")

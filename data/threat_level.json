@@ -1,31 +1,30 @@
 {
   "current": {
-    "score": 565,
+    "score": 557,
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "incident_count": 176,
     "severity_breakdown": {
-      "major": 6,
-      "high": 74,
-      "medium": 39,
-      "low": 7,
-      "critical": 50
+      "major": 56,
+      "high": 76,
+      "medium": 41,
+      "low": 3
     },
     "window_hours": 24,
-    "computed_at": "2026-02-28T16:48:18.548639+00:00"
+    "computed_at": "2026-02-28T17:06:28.528994+00:00"
   },
   "short_term_6h": {
-    "score": 516,
+    "score": 504,
     "level": 1,
     "label": "MAJOR",
-    "incident_count": 159
+    "incident_count": 157
   },
   "medium_term_48h": {
-    "score": 569,
+    "score": 559,
     "level": 1,
     "label": "MAJOR",
-    "incident_count": 178
+    "incident_count": 177
   },
   "trend": "stable",
   "history": [
@@ -39,108 +38,108 @@
     {
       "timestamp": "2026-02-28T11:45:00.332178+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 112,
       "incident_count": 20
     },
     {
       "timestamp": "2026-02-28T13:26:51.946407+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 200,
       "incident_count": 34
     },
     {
       "timestamp": "2026-02-28T13:39:37.056928+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 224,
       "incident_count": 39
     },
     {
       "timestamp": "2026-02-28T13:56:37.614528+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 269,
       "incident_count": 48
     },
     {
       "timestamp": "2026-02-28T14:05:50.150762+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 298,
       "incident_count": 53
     },
     {
       "timestamp": "2026-02-28T14:19:45.500254+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 388,
       "incident_count": 66
     },
     {
       "timestamp": "2026-02-28T14:35:28.979496+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 423,
       "incident_count": 72
     },
     {
       "timestamp": "2026-02-28T14:52:42.854250+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 514,
       "incident_count": 86
     },
     {
       "timestamp": "2026-02-28T15:01:02.347056+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 565,
       "incident_count": 96
     },
     {
       "timestamp": "2026-02-28T15:08:08.932305+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 593,
       "incident_count": 103
     },
     {
       "timestamp": "2026-02-28T15:23:57.830368+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 647,
       "incident_count": 112
     },
     {
       "timestamp": "2026-02-28T15:37:47.041856+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 679,
       "incident_count": 117
     },
     {
       "timestamp": "2026-02-28T15:53:49.481726+00:00",
       "level": 1,
-      "label": "CRITICAL",
+      "label": "MAJOR",
       "score": 753,
       "incident_count": 129
     },
     {
       "timestamp": "2026-02-28T16:28:10.557442+00:00",
       "level": 1,
-      "label": "CRITICAL",
-      "score": 893,
-      "incident_count": 150
+      "label": "MAJOR",
+      "score": 855,
+      "incident_count": 146
     },
     {
-      "timestamp": "2026-02-28T16:48:18.548964+00:00",
+      "timestamp": "2026-02-28T17:06:28.529373+00:00",
       "level": 1,
       "label": "MAJOR",
-      "score": 565,
+      "score": 557,
       "incident_count": 176
     }
   ],
-  "updated_at": "2026-02-28T16:48:18.548991+00:00"
+  "updated_at": "2026-02-28T17:06:28.529402+00:00"
 }

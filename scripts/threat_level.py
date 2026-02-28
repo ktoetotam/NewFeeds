@@ -18,6 +18,7 @@ logger = logging.getLogger(__name__)
 # Severity weights
 SEVERITY_WEIGHTS = {
     "major": 10,
+    "critical": 10,   # LLM sometimes returns "critical"; treat as "major"
     "high": 5,
     "medium": 2,
     "low": 1,

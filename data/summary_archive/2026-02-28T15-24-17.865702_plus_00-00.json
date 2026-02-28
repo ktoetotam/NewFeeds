@@ -2,16 +2,16 @@
   "generated_at": "2026-02-28T15:24:17.865702+00:00",
   "threat_snapshot": {
     "level": 1,
-    "label": "CRITICAL",
+    "label": "MAJOR",
     "color": "#DC2626",
     "trend": "escalating",
     "incident_count_24h": 112,
     "incident_count_6h": 106,
     "severity_breakdown": {
-      "critical": 34,
       "high": 51,
       "medium": 25,
-      "low": 2
+      "low": 2,
+      "major": 34
     }
   },
   "source_count": {
