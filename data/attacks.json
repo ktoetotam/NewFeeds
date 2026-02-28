@@ -39,43 +39,6 @@
     "lng": 55.27
   },
   {
-    "id": "c525bbc307362e59",
-    "title_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
-    "content_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
-    "url": "https://ria.ru/20260228/ataka-2077503182.html",
-    "published": "2026-02-28T19:48:38+03:00",
-    "source_name": "RIA Novosti",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Drone strike casualties in Belgorod village rise to two",
-    "relevant": true,
-    "summary_en": "An attack involving drones in Belgorod, Russia, has resulted in two casualties. This incident is likely linked to the ongoing conflict, highlighting the potential for escalation beyond the primary war zones. The strategic significance lies in the spillover effects of the conflict into Russian territory.",
-    "translated": true,
-    "keyword_matches": 6,
-    "matched_keywords": [
-      "drone",
-      "war",
-      "conflict",
-      "strike",
-      "attack"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "drone_strike",
-      "severity": "medium",
-      "parties_involved": [
-        "Russia",
-        "Unidentified attackers"
-      ],
-      "location": "Belgorod, Russia",
-      "brief": "The drone strike in Belgorod, Russia, highlights potential escalation risks as the Iran–US conflict's effects spill over into neighboring regions, though direct involvement of Iran or the US remains unconfirmed."
-    },
-    "lat": 50.5955595,
-    "lng": 36.5873394
-  },
-  {
     "id": "a94bfadf58306feb",
     "title_original": "МИД Ирана считает удары США и Израиля объявлением войны",
     "content_original": "Официальный представитель иранского МИД Эсмаил Багаи отметил, что Тегеран не начинал этот конфликт",
@@ -519,40 +482,6 @@
     },
     "lat": 24.0,
     "lng": 54.0
-  },
-  {
-    "id": "e01ddd4e4a11855a",
-    "title_original": "Над Белгородом отразили ракетную атаку",
-    "content_original": "Над Белгородом отразили ракетную атаку",
-    "url": "https://ria.ru/20260228/ataka-2077491041.html",
-    "published": "2026-02-28T18:50:20+03:00",
-    "source_name": "RIA Novosti",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Missile attack intercepted over Belgorod",
-    "relevant": true,
-    "summary_en": "An unknown party launched a missile attack targeting Belgorod, Russia, which was successfully intercepted. This incident is significant as it indicates potential escalation or spillover of regional conflicts into Russian territory, though attribution and motives remain unclear.",
-    "translated": true,
-    "keyword_matches": 4,
-    "matched_keywords": [
-      "attack",
-      "missile"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "other",
-      "severity": "medium",
-      "parties_involved": [
-        "Russia",
-        "Unknown"
-      ],
-      "location": "Belgorod, Russia",
-      "brief": "The missile attack on Belgorod, while not directly related to the Iran–US conflict, suggests potential regional escalation and spillover risks that could indirectly impact the conflict dynamics."
-    },
-    "lat": 50.5955595,
-    "lng": 36.5873394
   },
   {
     "id": "9bfdb82aa457164f",
