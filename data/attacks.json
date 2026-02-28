@@ -3128,6 +3128,38 @@
     "lng": 51.2295295
   },
   {
+    "id": "b946e2fed44a6710",
+    "title_original": "Death toll from attack on Iranian girls school rises to 85, says judiciary",
+    "content_original": "Death toll from attack on Iranian girls school rises to 85, says judiciary The death toll from an attack on a girls school in&nbsp;Iran's south has risen to 85, the Iranian judiciary said.&nbsp; The attack on Saturday morning hit Shajareh Tayyebeh school in Minab in the southern Hormozgan province. Almost all of those killed were young girls.&nbsp;",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-attack-iranian-girls-school-rises-85-says-judiciary",
+    "published": "2026-02-28T15:36:12+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Death toll from attack on Iranian girls school rises to 85, says judiciary",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The attack on an Iranian girls school resulting in 85 casualties is a significant incident that could provoke domestic instability and potentially escalate tensions within the region."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "e1880caac684cd43",
     "title_original": "یک شهید و ۳۵ مجروح در آذربایجان شرقی بر اثر تهاجم اسرائیل و آمریکا",
     "content_original": "یک شهید و ۳۵ مجروح در آذربایجان شرقی بر اثر تهاجم اسرائیل و آمریکا",
@@ -3164,6 +3196,39 @@
     "lng": 45.6252101
   },
   {
+    "id": "b4686f24dbdb4763",
+    "title_original": "⚡️  Kuwait Airport after an Iranian drone attack",
+    "content_original": "⚡️ Kuwait Airport after an Iranian drone attack",
+    "url": "https://t.me/warmonitors/40051",
+    "published": "2026-02-28T15:29:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "⚡️  Kuwait Airport after an Iranian drone attack",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Kuwait"
+      ],
+      "location": "Kuwait Airport",
+      "brief": "The drone strike on Kuwait Airport by Iran signifies a significant escalation in regional hostilities and direct targeting of civilian infrastructure, posing a threat to US interests in the Gulf region."
+    },
+    "lat": 29.2027154,
+    "lng": 47.9881418
+  },
+  {
     "id": "a4f6b5b1da15cd37",
     "title_original": "اصابت موفق موشک‌های ایران به اسرائیل + فیلم",
     "content_original": "اصابت موفق موشک‌های ایران به اسرائیل + فیلم",
@@ -3196,6 +3261,39 @@
     },
     "lat": 30.8124247,
     "lng": 34.8594762
+  },
+  {
+    "id": "39e953a907c65d55",
+    "title_original": "⚡️  An American radar in Qatar was completely destroyed today in an Iranian drone strike.",
+    "content_original": "⚡️ An American radar in Qatar was completely destroyed today in an Iranian drone strike.",
+    "url": "https://t.me/warmonitors/40048",
+    "published": "2026-02-28T15:19:10+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "⚡️  An American radar in Qatar was completely destroyed today in an Iranian drone strike.",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "critical",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Qatar",
+      "brief": "The destruction of a US radar system in Qatar by an Iranian drone strike represents a direct escalation in the Iran-US conflict with significant strategic implications."
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "e57493a7b51656a2",
@@ -3510,6 +3608,38 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "3b59377c8b8049b9",
+    "title_original": "Death toll in Iranian girls' school attack rises to 63",
+    "content_original": "Death toll in Iranian girls' school attack rises to 63 The death toll from an air strike on a girls' school in Iran has risen to 63, according to Mehr news agency.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-iranian-girls-school-attack-rises-63",
+    "published": "2026-02-28T14:46:20+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Death toll in Iranian girls' school attack rises to 63",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The attack on an Iranian girls' school, resulting in a high death toll, indicates significant internal instability but is not directly linked to US-Iran military conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "0625bf4ead308506",
@@ -3853,6 +3983,39 @@
       ],
       "location": "Iran",
       "brief": "The US airstrikes resulting in the deaths of a senior IRGC commander and the Iranian Defense Minister represent a critical escalation, directly targeting Iran's military leadership and potentially destabilizing its command structure."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "f377fc81b6d2583c",
+    "title_original": "Report: Iran's defence minister and IRGC commander 'believed to have been killed'",
+    "content_original": "Report: Iran's defence minister and IRGC commander 'believed to have been killed' Iran’s Defence Minister, Amir Nasirzadeh, and Revolutionary Guards commander, Mohammed Pakpour, are believed to have been killed in Israeli air attacks, Reuters reported citing two sources familiar with Israel’s military operations and one regional official. The reports have not been independently verified.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-irans-defence-minister-and-irgc-commander-believed-have-been",
+    "published": "2026-02-28T14:01:19+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Report: Iran's defence minister and IRGC commander 'believed to have been killed'",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The reported killing of Iran's defence minister and IRGC commander represents a critical escalation with direct impact on Iranian military leadership and potential for immediate retaliation in the Iran-US conflict."
     },
     "lat": 32.65,
     "lng": 54.56
@@ -4607,6 +4770,73 @@
     "lng": 54.0
   },
   {
+    "id": "ca2474bf4360aa85",
+    "title_original": "At least 40 killed in Israeli strike on girls’ school in southern Iran",
+    "content_original": "At least 40 people, including students, were killed and 48 others injured after Israeli strikes targeted a girls’ primary school in the city of Minab in southern Iran’s Hormozgan province, Iranian media reported on Saturday, Anadolu reports. Quoting a provincial official, Iranian broadcaster IRIB said the school was hit during the attacks earlier in the day. Further details were not immediately available. The US and Israel launched a joint attack on Iran early Saturday, claiming it was meant to remove &#8220;threats&#8221; posed by the Iranian &#8220;regime.&#8221; Separate video statements were released by Israeli Prime Minister Benjamin Netanyahu and US President Donald Trump, which also hinted at supporting efforts for a change in government in Tehran. Iran termed the strikes a [&#8230;]",
+    "url": "https://www.middleeastmonitor.com/20260228-at-least-40-killed-in-israeli-strike-on-girls-school-in-southern-iran/",
+    "published": "2026-02-28T12:25:03+00:00",
+    "source_name": "Middle East Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "At least 40 killed in Israeli strike on girls’ school in southern Iran",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "southern Iran",
+      "brief": "The Israeli strike on a civilian target in Iran, resulting in significant casualties, represents a direct escalation in regional hostilities with potential implications for US-Iran tensions."
+    },
+    "lat": 29.0,
+    "lng": 54.0
+  },
+  {
+    "id": "d45ce86033d46bfa",
+    "title_original": "Khamenei targeted, IRGC commander and defence chief 'killed'",
+    "content_original": "Th e joint Israeli-US strikes on Iran on Saturday targeted Supreme Leader Ayatollah Ali Khamenei and President Masoud Pezeshkian in the first wave of attacks, Israel's public broadcaster reported, with questions over their fate. \"Iranian Supreme Leader Khamenei and President Masoud Pezeshkian were among the targets of the attack,\" Kan reported on its X account, citing an Israeli source. A journalist on air also mentioned Ali Shamkhani, adviser to the supreme leader and former defence minister, while noting that he did not know whether the objectives of the strikes had been achieved. \"In our opening salvo, we went after targets that are high-profile, people involved in the plans to destroy Israel,\" an Israeli security source told journalists, speaking on condition of anonymity. An official had told Reuters that Khamenei is not in Tehran and has been transferred to a secure location. Later, Israel's Channel 12 said that sources believe the Supreme Leader could have been killed in the str...",
+    "url": "https://www.newarab.com/news/khamenei-targeted-irgc-commander-and-defence-chief-killed",
+    "published": "2026-02-28T11:23:05+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Khamenei targeted, IRGC commander and defence chief 'killed'",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US"
+      ],
+      "location": "Iran",
+      "brief": "The targeted killing of Iran's Supreme Leader Khamenei and senior military leadership marks a significant escalation in the Iran-US conflict, likely triggering a major retaliatory response from Iran."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "0202aac3e45b4695",
     "title_original": "الرئيس الأمريكي يعلن انطلاق عملية عسكرية أمريكية واسعة ضد إيران",
     "content_original": "واشنطن في 28 فبراير /قنا/ أعلن الرئيس الأمريكي دونالد ترامب، أن الجيش الأمريكي بدأ صباح اليوم \"عملية قتالية كبيرة\" داخل إيران، مؤكدا أن التحرك يأتي ردا على ما وصفه بمحاولات طهران إعادة بناء برنامجها النووي وتطوير قدرات صاروخية بعيدة المدى تهدد الولايات المتحدة ودولا أخرى.",
@@ -4896,6 +5126,40 @@
     },
     "lat": 32.6475314,
     "lng": 54.5643516
+  },
+  {
+    "id": "c9d1c0f689aeae38",
+    "title_original": "Iran launches retaliatory missile strike on Israel",
+    "content_original": "Israel’s military said its air defense systems intercepted several missiles over Jerusalem on Saturday, following reports of a retaliatory strike from Iran, Anadolu reports. Air-raid sirens sounded across the city as the missiles were detected and destroyed mid-air, with smoke visible in the sky after the interceptions. Earlier Saturday, Israel launched the &#8220;preemptive&#8221; attack under the name ‘Lion’s Roar,’ declaring a “special and immediate” state of emergency across the country. US President Donald Trump also confirmed &#8220;major combat operations&#8221; in Iran aimed at defending the American people by &#8220;eliminating imminent threats from the Iranian regime.&#8221; READ: Trump announces ‘major combat operations’ in Iran to ‘protect Americans’",
+    "url": "https://www.middleeastmonitor.com/20260228-iran-launches-retaliatory-missile-strike-on-israel/",
+    "published": "2026-02-28T09:48:58+00:00",
+    "source_name": "Middle East Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran launches retaliatory missile strike on Israel",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Israel",
+      "brief": "Iran's direct missile strike on Israel marks a significant escalation with potential for US involvement, given US-Israeli defense agreements and strategic interests in the region."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "71bae25a767d67f6",

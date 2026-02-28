@@ -5,8 +5,8 @@ Levels:
   5 - LOW (Green)      : 0-1 low-severity incidents in 24h
   4 - GUARDED (Blue)   : 2-5 low/medium incidents
   3 - ELEVATED (Yellow) : Any high-severity OR >5 medium
-  2 - HIGH (Orange)    : Multiple high-severity OR any critical
-  1 - CRITICAL (Red)   : Multiple critical incidents, active large-scale conflict
+  2 - HIGH (Orange)    : Multiple high-severity OR any major
+  1 - MAJOR (Red)      : Multiple major incidents, active large-scale conflict
 """
 
 import json
@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 # Severity weights
 SEVERITY_WEIGHTS = {
-    "critical": 10,
+    "major": 10,
     "high": 5,
     "medium": 2,
     "low": 1,
@@ -25,7 +25,7 @@ SEVERITY_WEIGHTS = {
 
 # Threat level thresholds (cumulative score over 24h)
 THREAT_LEVELS = [
-    {"level": 1, "label": "CRITICAL", "color": "#DC2626", "min_score": 30},
+    {"level": 1, "label": "MAJOR",    "color": "#DC2626", "min_score": 30},
     {"level": 2, "label": "HIGH",     "color": "#EA580C", "min_score": 15},
     {"level": 3, "label": "ELEVATED", "color": "#CA8A04", "min_score": 6},
     {"level": 4, "label": "GUARDED",  "color": "#2563EB", "min_score": 2},
@@ -61,7 +61,7 @@ def compute_threat_score(attack_articles: list[dict], hours: int = 24) -> dict:
 
     # Calculate score
     total_score = 0
-    severity_counts = {"critical": 0, "high": 0, "medium": 0, "low": 0}
+    severity_counts = {"major": 0, "high": 0, "medium": 0, "low": 0}
 
     for article in recent:
         severity = article.get("classification", {}).get("severity", "low")

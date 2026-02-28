@@ -21,7 +21,7 @@
   --color-threat-guarded: #2563eb;
   --color-threat-elevated: #ca8a04;
   --color-threat-high: #ea580c;
-  --color-threat-critical: #dc2626;
+  --color-threat-major: #dc2626;
 }
 
 * {

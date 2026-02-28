@@ -2,6 +2,7 @@ import "server-only";
 import fs from "fs";
 import path from "path";
 import type { Article, ThreatLevel, RegionKey, ExecutiveSummaryData, ArchiveEntry } from "./types";
+import { REGIONS } from "./types";
 import { cpSync, existsSync, mkdirSync } from "fs";
 
 const DATA_DIR = path.join(process.cwd(), "..", "data");
@@ -24,7 +25,7 @@ export function getArticlesByRegion(region: RegionKey): Article[] {
 }
 
 export function getAllArticles(): Article[] {
-  const regions: RegionKey[] = ["iran", "russia", "israel", "gulf", "proxies", "middle_east", "china", "turkey", "south_asia"];
+  const regions: RegionKey[] = REGIONS.map((r) => r.key);
   const all: Article[] = [];
   for (const region of regions) {
     all.push(...getArticlesByRegion(region));
@@ -50,7 +51,7 @@ export function getThreatLevel(): ThreatLevel {
       label: "LOW",
       color: "#16a34a",
       incident_count: 0,
-      severity_breakdown: { critical: 0, high: 0, medium: 0, low: 0 },
+      severity_breakdown: { major: 0, high: 0, medium: 0, low: 0 },
       window_hours: 24,
     },
     short_term_6h: { score: 0, level: 5, label: "LOW", incident_count: 0 },

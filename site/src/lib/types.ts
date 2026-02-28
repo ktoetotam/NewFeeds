@@ -24,7 +24,7 @@ export interface Article {
 export interface AttackClassification {
   is_attack: boolean;
   category: string;
-  severity: "critical" | "high" | "medium" | "low";
+  severity: "major" | "high" | "medium" | "low";
   parties_involved: string[];
   location: string;
   brief: string;
@@ -79,14 +79,14 @@ export const REGIONS: RegionConfig[] = [
 ];
 
 export const SEVERITY_COLORS: Record<string, string> = {
-  critical: "#dc2626",
+  major: "#dc2626",
   high: "#ea580c",
   medium: "#ca8a04",
   low: "#16a34a",
 };
 
 export const THREAT_LEVEL_COLORS: Record<string, string> = {
-  CRITICAL: "#dc2626",
+  MAJOR: "#dc2626",
   HIGH: "#ea580c",
   ELEVATED: "#ca8a04",
   GUARDED: "#2563eb",

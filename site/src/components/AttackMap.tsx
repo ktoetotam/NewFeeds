@@ -20,7 +20,7 @@ interface AttackMapProps {
 }
 
 const severityColor: Record<string, string> = {
-  critical: "#ef4444",
+  major: "#ef4444",
   high: "#f97316",
   medium: "#eab308",
   low: "#22c55e",

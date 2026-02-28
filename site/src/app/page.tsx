@@ -6,10 +6,11 @@ import {
   getThreatLevel,
 } from "@/lib/data";
 import type { RegionKey } from "@/lib/types";
+import { REGIONS } from "@/lib/types";
 import HomeAttackMap from "@/components/HomeAttackMap";
 
 export default function HomePage() {
-  const regions: RegionKey[] = ["iran", "russia", "israel", "gulf", "proxies"];
+  const regions: RegionKey[] = REGIONS.map((r) => r.key);
   const articlesByRegion: Record<string, ReturnType<typeof getArticlesByRegion>> = {};
 
   for (const region of regions) {
@@ -68,7 +69,7 @@ export default function HomePage() {
             }}
           >
             {[
-              { label: "Critical", color: "#ef4444" },
+              { label: "Major", color: "#ef4444" },
               { label: "High", color: "#f97316" },
               { label: "Medium", color: "#eab308" },
               { label: "Low", color: "#22c55e" },

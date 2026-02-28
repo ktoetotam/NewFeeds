@@ -96,14 +96,14 @@ Respond with ONLY valid JSON (no markdown, no extra text):
 {{
   "is_attack": true or false,
   "category": "us_strike_on_iran|iran_strike_on_us|ballistic_missile|drone_strike|airstrike|naval_incident|houthi_attack|hezbollah_action|proxy_operation|nuclear_development|irgc_action|cyber_attack|threat_statement|escalation|military_deployment|sanctions|ceasefire_violation|other",
-  "severity": "critical|high|medium|low",
+  "severity": "major|high|medium|low",
   "parties_involved": ["list of countries, commands, or groups directly involved"],
   "location": "specific location, base, or region",
   "brief": "One sentence on military/strategic significance for the Iran–US conflict"
 }}
 
 Severity guidelines:
-- critical: Direct US-Iran state engagement, ballistic missile attack, nuclear escalation, carrier group threatened, mass casualties
+- major: Direct US-Iran state engagement, ballistic missile attack, nuclear escalation, carrier group threatened, mass casualties
 - high: Significant strikes with confirmed casualties or damage, major IRGC/US operations, direct threats by heads of state or CENTCOM
 - medium: Proxy clashes, drone/rocket attacks without major casualties, official threat statements, military mobilization
 - low: Sanctions, minor incidents, routine deployments, diplomatic posturing, unconfirmed reports"""
