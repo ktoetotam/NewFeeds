@@ -1,0 +1,275 @@
+# Sources Configuration
+# type: rss | scrape
+# engine (for scrape): beautifulsoup | playwright
+# language: ISO 639-1 code
+
+regions:
+  iran:
+    label: "Iran"
+    sources:
+      - name: "IRNA"
+        type: rss
+        language: fa
+        url: "https://www.irna.ir/rss"
+        category: state
+
+      - name: "Tasnim News"
+        type: rss
+        language: fa
+        url: "https://www.tasnimnews.com/fa/rss/most-visited"
+        category: state
+
+      - name: "Fars News"
+        type: rss
+        language: fa
+        url: "https://www.farsnews.ir/rss"
+        category: state
+
+      - name: "Press TV"
+        type: rss
+        language: en
+        url: "https://www.presstv.ir/rss.xml"
+        category: state
+        skip_translation: true
+
+      - name: "Tasnim News English"
+        type: rss
+        language: en
+        url: "https://www.tasnimnews.com/en/rss/"
+        category: state
+        skip_translation: true
+
+      - name: "Mehr News Agency"
+        type: rss
+        language: en
+        url: "https://en.mehrnews.com/rss"
+        category: state
+        skip_translation: true
+
+      - name: "Al Alam"
+        type: rss
+        language: ar
+        url: "https://www.alalam.ir/rss"
+        category: state
+
+  russia:
+    label: "Russia"
+    sources:
+      - name: "TASS"
+        type: rss
+        language: ru
+        url: "https://tass.ru/rss/v2.xml"
+        category: state
+
+      - name: "RIA Novosti"
+        type: rss
+        language: ru
+        url: "https://ria.ru/export/rss2/archive/index.xml"
+        category: state
+
+  israel:
+    label: "Israel"
+    sources:
+      - name: "Ynet"
+        type: rss
+        language: he
+        url: "https://www.ynet.co.il/Integration/StoryRss2.xml"
+        category: state-aligned
+
+      - name: "Maariv"
+        type: rss
+        language: he
+        url: "https://www.maariv.co.il/Rss/RssChad498"
+        category: state-aligned
+
+  gulf:
+    label: "Gulf States"
+    sources:
+      - name: "QNA Qatar (Arabic)"
+        type: rss
+        language: ar
+        url: "https://qna.org.qa/ar-QA/Pages/RSS-Feeds/Qatar"
+        category: state
+
+      - name: "QNA General (Arabic)"
+        type: rss
+        language: ar
+        url: "https://qna.org.qa/ar-QA/Pages/RSS-Feeds/General"
+        category: state
+
+      - name: "BNA (Bahrain)"
+        type: rss
+        language: ar
+        url: "https://www.bna.bh/GenerateRssFeed.aspx?categoryId=155"
+        category: state
+
+      - name: "Al Arabiya"
+        type: rss
+        language: ar
+        url: "https://www.alarabiya.net/feed/rss2/ar.xml"
+        category: state-aligned
+
+      - name: "SPA Arabic (Saudi)"
+        type: rss
+        language: ar
+        url: "https://www.spa.gov.sa/rss.xml"
+        category: state
+
+      - name: "SPA English (Saudi)"
+        type: rss
+        language: en
+        url: "https://www.spa.gov.sa/en/rss.xml"
+        category: state
+        skip_translation: true
+
+      - name: "WAM Arabic (UAE)"
+        type: rss
+        language: ar
+        url: "https://www.wam.ae/ar/rss/all"
+        category: state
+
+      - name: "WAM English (UAE)"
+        type: rss
+        language: en
+        url: "https://www.wam.ae/en/rss/all"
+        category: state
+        skip_translation: true
+
+      - name: "QNA Qatar (English)"
+        type: rss
+        language: en
+        url: "https://qna.org.qa/en/Pages/RSS-Feeds/Qatar"
+        category: state
+        skip_translation: true
+
+      - name: "QNA General (English)"
+        type: rss
+        language: en
+        url: "https://qna.org.qa/en/Pages/RSS-Feeds/General"
+        category: state
+        skip_translation: true
+
+      - name: "ONA (Oman)"
+        type: rss
+        language: en
+        url: "https://omannews.gov.om/rss/news"
+        category: state
+        skip_translation: true
+
+      - name: "BNA English (Bahrain)"
+        type: rss
+        language: en
+        url: "https://www.bna.bh/en/RSSFeeds.aspx"
+        category: state
+        skip_translation: true
+
+      - name: "KUNA (Kuwait)"
+        type: rss
+        language: en
+        url: "https://www.kuna.net.kw/RSS.aspx?language=en"
+        category: state
+        skip_translation: true
+
+  proxies:
+    label: "Proxy Actors"
+    sources:
+      - name: "Al Manar (Hezbollah)"
+        type: rss
+        language: ar
+        url: "https://www.almanar.com.lb/rss.php"
+        category: proxy
+
+      - name: "Al Manar English (Hezbollah)"
+        type: rss
+        language: en
+        url: "https://www.almanar.com.lb/english/rss.php"
+        category: proxy
+        skip_translation: true
+
+      - name: "Al Ahed News (Hezbollah)"
+        type: rss
+        language: ar
+        url: "https://www.alahednews.com.lb/arabic/rss"
+        category: proxy
+
+      - name: "Al Ahed News English (Hezbollah)"
+        type: rss
+        language: en
+        url: "https://www.alahednews.com.lb/english/rss"
+        category: proxy
+        skip_translation: true
+
+      - name: "Islamic Resistance"
+        type: rss
+        language: ar
+        url: "https://moqawama.org/rss.php"
+        category: proxy
+
+      - name: "Al Masirah (Houthis)"
+        type: rss
+        language: ar
+        url: "https://www.almasirah.net.ye/rss/"
+        category: proxy
+
+      - name: "SABA News Arabic (Houthis)"
+        type: rss
+        language: ar
+        url: "https://www.saba.ye/ar/rss.php"
+        category: proxy
+
+      - name: "SABA News English (Houthis)"
+        type: rss
+        language: en
+        url: "https://www.saba.ye/en/rss.php"
+        category: proxy
+        skip_translation: true
+
+      - name: "Ansarollah Official"
+        type: rss
+        language: ar
+        url: "https://ansarollah.com.ye/feed/"
+        category: proxy
+
+      - name: "Hamas (Palestine Info)"
+        type: rss
+        language: en
+        url: "https://www.palinfo.com/rss"
+        category: proxy
+        skip_translation: true
+
+      - name: "Al-Mayadeen English"
+        type: rss
+        language: en
+        url: "https://english.almayadeen.net/rss"
+        category: proxy
+        skip_translation: true
+
+      # ── Telegram channels ──
+      # Only channels with public web preview (t.me/s/) work without a Bot API token.
+      # @C_Media_h, @M_Media_Y, @Qassam_English have preview disabled —
+      # to enable them, set up a Telegram Bot (see README) and uncomment below.
+
+      - name: "Islamic Resistance Iraq (TG)"
+        type: telegram
+        channel: "Saberin_News"
+        language: ar
+        category: proxy
+
+      # - name: "Hezbollah Military Media (TG)"
+      #   type: telegram
+      #   channel: "C_Media_h"
+      #   language: ar
+      #   category: proxy
+
+      # - name: "Houthi Military Media (TG)"
+      #   type: telegram
+      #   channel: "M_Media_Y"
+      #   language: ar
+      #   category: proxy
+
+      # - name: "Hamas Qassam Brigades (TG)"
+      #   type: telegram
+      #   channel: "Qassam_English"
+      #   language: en
+      #   category: proxy
+      #   skip_translation: true
