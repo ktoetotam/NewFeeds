@@ -1,0 +1,9 @@
+# Default: ktoetotam must approve all changes
+* @ktoetotam
+
+# Critical pipeline and config files
+scripts/sources.yaml @ktoetotam
+scripts/run_pipeline.py @ktoetotam
+site/src/lib/types.ts @ktoetotam
+data/feeds/ @ktoetotam
+.github/ @ktoetotam
