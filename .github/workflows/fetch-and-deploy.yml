@@ -64,7 +64,7 @@ jobs:
             echo "No data changes to commit"
             exit 0
           fi
-          BRANCH="auto/update-feeds-$(date -u +%Y%m%d-%H%M%S)"
+          BRANCH="auto/update-feeds-$(date -u +%Y%m%d-%H%M%S)-${GITHUB_RUN_ID}"
           git checkout -b "$BRANCH"
           git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           git push origin "$BRANCH"
@@ -75,11 +75,21 @@ jobs:
             --body "Automated feed data update from pipeline run.")
           echo "Created PR: $PR_URL"
           # Try auto-merge first (requires repo setting enabled), fall back to direct merge
-          if gh pr merge "$PR_URL" --squash --auto --delete-branch 2>/dev/null; then
+          AUTO_MERGE_OUTPUT=$(gh pr merge "$PR_URL" --squash --auto --delete-branch 2>&1)
+          AUTO_MERGE_STATUS=$?
+          if [ "$AUTO_MERGE_STATUS" -eq 0 ]; then
+            echo "$AUTO_MERGE_OUTPUT"
             echo "Auto-merge enabled on PR"
           else
-            echo "Auto-merge not available, merging directly..."
-            gh pr merge "$PR_URL" --squash --delete-branch
+            echo "$AUTO_MERGE_OUTPUT" >&2
+            # Only fall back when we can positively identify that auto-merge is not enabled
+            if echo "$AUTO_MERGE_OUTPUT" | grep -Eqi "auto-merge.*not enabled|not enabled.*auto-merge"; then
+              echo "Auto-merge not available, merging directly..."
+              gh pr merge "$PR_URL" --squash --delete-branch
+            else
+              echo "gh pr merge --auto failed with an unexpected error; aborting."
+              exit "$AUTO_MERGE_STATUS"
+            fi
           fi
 
       # ── Next.js Build & Deploy ──
