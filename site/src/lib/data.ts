@@ -24,7 +24,7 @@ export function getArticlesByRegion(region: RegionKey): Article[] {
 }
 
 export function getAllArticles(): Article[] {
-  const regions: RegionKey[] = ["iran", "russia", "israel", "gulf", "proxies"];
+  const regions: RegionKey[] = ["iran", "russia", "israel", "gulf", "proxies", "middle_east", "china", "turkey", "south_asia"];
   const all: Article[] = [];
   for (const region of regions) {
     all.push(...getArticlesByRegion(region));
