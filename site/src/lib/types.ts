@@ -120,3 +120,13 @@ export interface ExecutiveSummaryData {
     de_escalation_pathways: string;
   };
 }
+
+export interface ArchiveEntry {
+  filename: string;
+  generated_at: string;
+  threat_label: string;
+  threat_level: number;
+  trend: "escalating" | "de-escalating" | "stable";
+  incident_count_24h: number;
+  summary_preview: string;
+}

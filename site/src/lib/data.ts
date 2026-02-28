@@ -1,10 +1,11 @@
 import "server-only";
 import fs from "fs";
 import path from "path";
-import type { Article, ThreatLevel, RegionKey, ExecutiveSummaryData } from "./types";
+import type { Article, ThreatLevel, RegionKey, ExecutiveSummaryData, ArchiveEntry } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "..", "data");
 const FEEDS_DIR = path.join(DATA_DIR, "feeds");
+const ARCHIVE_DIR = path.join(DATA_DIR, "summary_archive");
 
 function readJSON<T>(filePath: string, fallback: T): T {
   try {
@@ -62,6 +63,25 @@ export function getThreatLevel(): ThreatLevel {
 export function getExecutiveSummary(): ExecutiveSummaryData | null {
   return readJSON<ExecutiveSummaryData | null>(
     path.join(DATA_DIR, "executive_summary.json"),
+    null
+  );
+}
+
+export function getArchiveIndex(): ArchiveEntry[] {
+  return readJSON<ArchiveEntry[]>(
+    path.join(ARCHIVE_DIR, "index.json"),
+    []
+  );
+}
+
+export function getArchivedSummary(filename: string): ExecutiveSummaryData | null {
+  // Sanitize filename to prevent directory traversal
+  const safeName = path.basename(filename);
+  if (!safeName.endsWith(".json") || safeName === "index.json") {
+    return null;
+  }
+  return readJSON<ExecutiveSummaryData | null>(
+    path.join(ARCHIVE_DIR, safeName),
     null
   );
 }
