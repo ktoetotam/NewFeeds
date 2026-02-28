@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-02-28T15:38:08.803620+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "escalating",
+    "incident_count_24h": 117,
+    "incident_count_6h": 111,
+    "severity_breakdown": {
+      "high": 53,
+      "medium": 26,
+      "low": 2,
+      "major": 36
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 117,
+    "articles_analyzed": 1055,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "proxies",
+      "russia"
+    ]
+  },
+  "executive_summary": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated airstrikes by the US and Israel on Iran, ballistic missile attacks by Iran on Israel and US bases, and retaliatory strikes by both sides. The conflict has expanded geographically, with significant implications for regional stability and international security.",
+  "whats_new": [
+    "US and Israel launched coordinated airstrikes on over 20 Iranian provinces, targeting IRGC infrastructure.",
+    "Iran retaliated with ballistic missile strikes on Israel and US military bases in Kuwait and Saudi Arabia.",
+    "IRGC claims to have killed 200 US military personnel in strikes on American bases.",
+    "Iran deployed the hypersonic missile 'Fattah', escalating its military capabilities."
+  ],
+  "confirmed_events": [
+    "US and Israel conducted a large-scale airstrike on Iran, causing mass casualties among IRGC forces.",
+    "Iran launched ballistic missiles targeting Israel, with at least 35 missiles successfully hitting Israeli territory.",
+    "Iran struck US military bases in Qatar, Erbil, Riyadh, and Eastern Saudi Arabia.",
+    "IRGC missile attacks targeted a US Navy support ship in the Gulf or Arabian Sea region.",
+    "Missile strikes hit Dubai, likely conducted by Iranian-backed groups."
+  ],
+  "unverified_emerging": [
+    "Unspecified actors reportedly conducted a surprise strike targeting Iran's Supreme Leader Ali Khamenei, potentially eliminating him (source: Ynet).",
+    "Iranian Foreign Minister claims Supreme Leader Ali Khamenei and most officials are safe, dismissing assassination rumors (source: Ynet).",
+    "IRGC claims to have killed 63 people in a strike on an Iranian girls' school, though the responsible party is unclear (source: IRNA)."
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Civilian air travel in the region is severely disrupted due to the closure of airspace and ongoing hostilities.",
+      "Panic-buying of supplies in Israel indicates growing concerns over potential supply chain disruptions."
+    ],
+    "supply_chain": [
+      "The conflict has led to the suspension of maritime routes in the Gulf region, impacting global oil and trade flows.",
+      "Qatar's shift to distance learning suggests concerns over civilian safety and potential disruptions to education."
+    ],
+    "market_macro": [
+      "Oil prices have surged due to the conflict's impact on regional energy infrastructure and supply routes.",
+      "Stock markets in the Middle East and globally are experiencing volatility amid heightened geopolitical tensions."
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is likely to continue escalating, with both Iran and the US engaging in retaliatory strikes. The involvement of regional proxies and the deployment of advanced weaponry, such as hypersonic missiles, increase the risk of further direct military engagements. The international community's efforts to de-escalate the situation are unlikely to succeed in the short term given the current trajectory of hostilities.",
+    "escalation_risks": [
+      "Direct military confrontation between US and Iranian forces could expand to other theaters, such as the Persian Gulf or Syria.",
+      "The use of advanced weaponry, including ballistic missiles and hypersonic missiles, raises the risk of miscalculation and unintended escalation.",
+      "The potential elimination of Iran's Supreme Leader could lead to internal power struggles and further destabilize the region."
+    ],
+    "de_escalation_pathways": "De-escalation would require a coordinated diplomatic effort involving key regional and global powers, potentially under the auspices of the UN or a neutral mediator. Immediate steps could include a ceasefire agreement, followed by negotiations on regional security arrangements and Iran's nuclear program. However, given the current hostilities and lack of trust between the parties, such an outcome appears unlikely without significant external pressure."
+  }
+}

@@ -39,6 +39,41 @@
     "lng": 55.27
   },
   {
+    "id": "8c0984eb1e8a20ec",
+    "title_original": "CENTCOM: военные США отразили сотни атак иранских ракет и беспилотников",
+    "content_original": "Информации о жертвах и ранениях среди американцев в связи с боевыми действиями не поступало",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26592929",
+    "published": "2026-02-28T21:16:20+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "CENTCOM: US Military Repels Hundreds of Iranian Missile and Drone Attacks",
+    "relevant": true,
+    "summary_en": "US CENTCOM reports that American forces have successfully defended against hundreds of Iranian missile and drone attacks. No casualties or injuries among US personnel have been reported. This highlights the ongoing escalation and defensive measures in the region amid the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "drone",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "CENTCOM region",
+      "brief": "The coordinated Iranian missile and drone attack on US forces represents a significant escalation in the conflict, despite no casualties being reported."
+    },
+    "lat": 10.3357315,
+    "lng": 123.9011738
+  },
+  {
     "id": "a94bfadf58306feb",
     "title_original": "МИД Ирана считает удары США и Израиля объявлением войны",
     "content_original": "Официальный представитель иранского МИД Эсмаил Багаи отметил, что Тегеран не начинал этот конфликт",
@@ -66,6 +101,41 @@
       "location": "Unknown",
       "brief": "Classified by keyword matching (LLM unavailable)"
     }
+  },
+  {
+    "id": "4cf080bb6af70c02",
+    "title_original": "Mild Injuries as Drone Targets Kuwait International Airport",
+    "content_original": "Kuwait City, February 28 (QNA) - The Kuwait Civil Aviation Authority announced on Saturday that a drone had targeted Kuwait International Airport, resulting in mild injuries among several operators, along with limited material damage to the Passenger Terminal (T1) amid the current regional developments.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/mild-injuries-as-drone-targets-kuwait-international-airport",
+    "published": "2026-02-28T19:44:50+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Drone Targets Kuwait International Airport, Causing Mild Injuries",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A drone strike targeted Kuwait International Airport, resulting in mild injuries to several operators and limited damage to Terminal 1. This incident occurred amid escalating regional tensions, highlighting the potential for broader conflict spillover into Gulf states.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran-backed group (suspected)"
+      ],
+      "location": "Kuwait International Airport",
+      "brief": "The drone strike on Kuwait International Airport demonstrates the potential for regional escalation as Iran-backed groups expand their targeting of Gulf state infrastructure amid heightened tensions."
+    },
+    "lat": 29.2202681,
+    "lng": 47.9551556
   },
   {
     "id": "78d72355e864a693",
@@ -377,6 +447,42 @@
     "lng": 54.0
   },
   {
+    "id": "6485f92e527760ea",
+    "title_original": "Israeli Air Force conducts its largest-ever attack as over 200 aircraft strike 500 targets in Iran",
+    "content_original": "In the Tabriz area, the IDF struck a major site from which the Islamic Republic has fired dozens of ballistic missiles at Israel.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888293",
+    "published": "2026-02-28T18:57:32+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Israeli Air Force conducts its largest-ever attack on Iran with over 200 aircraft striking 500 targets",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Israeli Air Force launched its largest-ever attack on Iran, deploying over 200 aircraft to strike 500 targets, including a major ballistic missile site near Tabriz from which Iran had launched attacks on Israel. This operation signifies a significant escalation in Israeli operations against Iranian military infrastructure and is a direct response to Iran's missile attacks on Israel.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "ballistic",
+      "strike",
+      "missile",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tabriz, Iran",
+      "brief": "Israel's largest-ever airstrike on Iran, targeting 500 sites including a ballistic missile facility, marks a significant escalation in regional conflict dynamics."
+    },
+    "lat": 38.08,
+    "lng": 46.29
+  },
+  {
     "id": "be03129ba334a6b1",
     "title_original": "В центральном штабе войск ПВО Ирана подтвердили удары по 14 военным базам США",
     "content_original": "В центральном штабе войск ПВО Ирана подтвердили удары по 14 военным базам США",
@@ -622,6 +728,112 @@
     "lng": -1.8692099
   },
   {
+    "id": "ee59ccd48364fd8e",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷   Before launching “Operation Epic Fury,” Trump was warned the attack on Iran was a “high-risk, high-reward”...",
+    "content_original": "🇺🇸 ⚔️ 🇮🇷 Before launching “Operation Epic Fury,” Trump was warned the attack on Iran was a “high-risk, high-reward” move that could cause major U.S. casualties but might reshape the Middle East in America’s favor. Officials briefed him on risks including missile strikes on U.S. bases, proxy attacks in Iraq and Syria, and limits to regional air defenses. One official said the operation carried “no guaranteed outcome.” Trump acknowledged the stakes, saying “the lives of courageous American heroes may be lost,” but called it “a noble mission,” vowing to “destroy their missiles,” “raze their missile industry,” and “annihilate their navy.” Source: Reuters 🔗 Clash Report",
+    "url": "https://t.me/CIG_telegram/69663",
+    "published": "2026-02-28T18:41:58+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Trump warned of high risks before launching 'Operation Epic Fury' against Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Before initiating 'Operation Epic Fury', Trump was cautioned about the significant risks involved, including potential missile strikes on US bases, proxy attacks in Iraq and Syria, and limitations in regional air defenses. Despite acknowledging the possibility of major US casualties, Trump emphasized the mission's importance, vowing to destroy Iran's missile capabilities, missile industry, and navy, highlighting the operation's strategic significance in reshaping the Middle East.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The initiation of 'Operation Epic Fury' represents a major escalation in the Iran–US conflict, aiming to cripple Iran's missile and naval capabilities with significant strategic implications for the Middle East."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "87ac46c795807e6d",
+    "title_original": "Girls are always paying the price A significant number of Iranian victims of US-Israeli attacks ordered by US Preside...",
+    "content_original": "Girls are always paying the price A significant number of Iranian victims of US-Israeli attacks ordered by US President Donald Trump, Jeffrey Epstein's close friend who is accused of raping girls and killing children, have so far been girls. 📌 18 to 20 female volleyball players killed in Israeli attack on a gym in Lamerd, Fars province. 📌 Earlier, dozens of girls were killed in an attack on an elementary school in Minab, Hormozgan Province. How many more girls have to die before the world pays attention?",
+    "url": "https://t.me/presstv/177271",
+    "published": "2026-02-28T18:40:56+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian girls killed in US-Israeli attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article claims that US-Israeli attacks have resulted in the deaths of numerous Iranian girls, including 18 to 20 female volleyball players killed in an attack on a gym in Lamerd, Fars province, and several girls in an attack on an elementary school in Minab, Hormozgan Province. This highlights the human cost of the conflict and the targeting of civilian infrastructure.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "killed",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lamerd, Fars province and Minab, Hormozgan province, Iran",
+      "brief": "The reported airstrikes on civilian infrastructure in Iran, if confirmed, indicate a significant escalation in the conflict with direct US-Israeli involvement and potential for increased regional tensions."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
+    "id": "3d142e8fda1cf354",
+    "title_original": "WATCH: Another successful attack against US base in Bahrain  @PressTV",
+    "content_original": "WATCH: Another successful attack against US base in Bahrain @PressTV",
+    "url": "https://t.me/presstv/177270",
+    "published": "2026-02-28T18:39:58+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Another successful attack against US base in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Unidentified attackers targeted a US base in Bahrain, marking another successful strike. The attack's details are not fully disclosed, but it signifies an escalation in hostilities against US forces in the region. This incident underscores the vulnerability of US bases in the Gulf amid ongoing Iran-linked conflicts.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Unidentified attackers"
+      ],
+      "location": "Bahrain",
+      "brief": "The attack on a US base in Bahrain highlights the ongoing threat to US forces in the Gulf region and suggests Iran-linked groups are escalating operations against US assets."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "8b17bc1cdfe604c1",
     "title_original": "Системы ПВО работают по целям в небе над Тегераном, сообщают СМИ",
     "content_original": "Системы ПВО работают по целям в небе над Тегераном, сообщают СМИ",
@@ -692,6 +904,114 @@
     "lng": 54.5643516
   },
   {
+    "id": "67b1dfc98a441d31",
+    "title_original": "Iran suicide drone smashes into skyscraper in Bahrain hours after blitz on Dubai hit famous Palm Jumeirah hotel - follow live updates",
+    "content_original": "Iran suicide drone smashes into skyscraper in Bahrain hours after blitz on Dubai hit famous Palm Jumeirah hotel - follow live updates",
+    "url": "https://www.dailymail.co.uk/news/article-15601019/Iran-attacks-LIVE-Israel-US-launch-pre-emptive-strikes-Iran-explosions-heard-downtown-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-02-28T18:36:39+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iranian suicide drone hits skyscraper in Bahrain after attack on Dubai's Palm Jumeirah hotel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian suicide drone struck a skyscraper in Bahrain, following a previous attack that targeted the Palm Jumeirah hotel in Dubai. The incidents occurred within hours of each other, indicating a coordinated escalation by Iran against Gulf states allied with the US. These attacks demonstrate Iran's intent to expand the conflict beyond its immediate borders and target critical infrastructure in the region.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "drone",
+      "suicide",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "UAE",
+        "US allies in the Gulf"
+      ],
+      "location": "Bahrain, Dubai",
+      "brief": "Iran's coordinated drone strikes on high-profile targets in Bahrain and Dubai signal a significant escalation targeting US-allied Gulf states, expanding the conflict beyond its borders."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "dcd9399dd9fd9563",
+    "title_original": "00:00 The Lancet loitering munition crew of the Zapad Group of Forces  burned down the AFU engineering equipment and ...",
+    "content_original": "00:00 The Lancet loitering munition crew of the Zapad Group of Forces burned down the AFU engineering equipment and thwarted the enemy attempt to restore a strategic crossing means in Krasny Liman direction. 00:17 The Sever Group's FPV drone operator destroyed a signal amplifier to control enemy UAVs in Kharkov region. 00:27 The Yuzhnaya Group's servicemen of the volunteer corps neutralised the AFU manpower, hardware, and drone control systems in Kramatorsk-Druzhkovka direction. 00:40 Tsentr Group's attack UAV teams eliminated enemy manpower in Dobropolye direction. The drones also hit dugouts with AFU personnel in Krasnoarmeysk direction. 🔹 Russian Defence Ministry",
+    "url": "https://t.me/mod_russia_en/25904",
+    "published": "2026-02-28T18:34:55+00:00",
+    "source_name": "Russian MoD English (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Russian Forces Use Drones to Target Ukrainian Military Equipment and Personnel in Multiple Regions",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Russian military units, including the Zapad, Sever, Yuzhnaya, and Tsentr Groups, conducted coordinated drone strikes targeting Ukrainian engineering equipment, UAV control systems, and personnel in Krasny Liman, Kharkov, Kramatorsk-Druzhkovka, and Dobropolye directions. These attacks disrupted Ukrainian efforts to restore strategic crossings and control UAV operations, showcasing Russia's continued use of drone warfare in the conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [
+        "Russia",
+        "Ukraine"
+      ],
+      "location": "Krasny Liman, Kharkov, Kramatorsk-Druzhkovka, Dobropolye",
+      "brief": "The article describes a regional conflict involving drone strikes by Russia against Ukraine, which is unrelated to the Iran–US conflict and has no direct strategic implications for it."
+    },
+    "lat": 49.9923181,
+    "lng": 36.2310146
+  },
+  {
+    "id": "4d26c40b6dbc351b",
+    "title_original": "US and Israel launch major attack on Iran to trigger regime change as Tehran retaliates across the Middle East – live",
+    "content_original": "Iran’s foreign minister says Donald Trump’s aim of regime change is ‘mission impossible’; 201 people killed in Iran, media reports say Full report: US and Israel attack Iran Analysis: Trump’s attack has no mandate A visual guide to the US-Israeli strikes on Iran – and Tehran’s response Blasts have been heard in several cities, including the capital, Tehran, and Isfahan in central Iran. Reuters reports there are long queues at petrol stations in the capital, as many people try to leave. An unnamed Iranian official who spoke to the news agency said several ministries in southern Tehran had been targeted. Continue reading...",
+    "url": "https://www.theguardian.com/world/live/2026/feb/28/israel-attacks-iran-as-blasts-heard-in-tehran-live-updates",
+    "published": "2026-02-28T18:34:54+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "US and Israel launch major attack on Iran triggering widespread retaliation",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel have launched a significant attack targeting Iran, aiming for regime change, while Iran retaliates with strikes across the Middle East. The conflict has resulted in at least 201 reported deaths in Iran, with strikes hitting multiple cities including Tehran and Isfahan. The attacks have caused disruption and panic, with long queues at petrol stations as civilians attempt to flee.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "deaths",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Isfahan, Iran",
+      "brief": "The US and Israel have launched a significant coordinated attack on Iran, escalating the conflict to a direct state engagement with widespread retaliatory strikes, marking a major escalation in the Iran–US war."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "8e6a296a940a13b5",
     "title_original": "Число погибших при ударе по школе в Иране выросло до 85",
     "content_original": "Число погибших при ударе по школе в Иране выросло до 85",
@@ -728,6 +1048,264 @@
     },
     "lat": 32.6475314,
     "lng": 54.5643516
+  },
+  {
+    "id": "485bab8573fbf710",
+    "title_original": "Terror of Western tourists and influencers in Dubai as they are hit by Iran missile and suicide drone blitz in retaliation for US air strikes",
+    "content_original": "Terror of Western tourists and influencers in Dubai as they are hit by Iran missile and suicide drone blitz in retaliation for US air strikes",
+    "url": "https://www.dailymail.co.uk/news/article-15601293/moment-Iranian-missiles-skies-Dubai-westerners.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-02-28T18:31:08+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran launches missile and suicide drone attacks on Dubai targeting Western tourists and influencers",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran retaliated against US air strikes by launching missile and suicide drone attacks on Dubai, hitting areas frequented by Western tourists and influencers. The attacks demonstrate Iran's capability to strike US allies in the region and disrupt civilian life in urban centers. This escalation poses a significant threat to regional stability and tourism in Dubai.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "suicide",
+      "strike",
+      "threat",
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "Iran's missile and suicide drone attacks on Dubai, targeting Western civilians, demonstrate a direct escalation against US allies and a significant threat to regional stability."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "4c11c92a869bfb69",
+    "title_original": "Almost 20 female volleyball players martyred in a US-Israeli airstrike in the Iranian city of Lamerd @PressTV",
+    "content_original": "Almost 20 female volleyball players martyred in a US-Israeli airstrike in the Iranian city of Lamerd @PressTV",
+    "url": "https://t.me/presstv/177269",
+    "published": "2026-02-28T18:31:08+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "US-Israeli airstrike kills nearly 20 female volleyball players in Lamerd, Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A US-Israeli airstrike reportedly targeted the Iranian city of Lamerd, resulting in the deaths of nearly 20 female volleyball players. This incident highlights the ongoing conflict's impact on civilian populations and infrastructure within Iran. The strike's strategic significance remains unclear, but it could escalate tensions and provoke further Iranian retaliation.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "airstrike",
+      "conflict",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lamerd, Iran",
+      "brief": "The US-Israeli airstrike resulting in civilian casualties in Iran could significantly escalate the conflict and provoke direct Iranian retaliation against US or Israeli assets."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "8fb7d89087d9159e",
+    "title_original": "Iran Says Dozens Killed in Strike on School",
+    "content_original": "The strike on an elementary school in the southern Iran town of Minab was one of two attacks that appear to have hit schools during U.S. and Israeli strikes on Iran on Saturday.",
+    "url": "https://www.nytimes.com/2026/02/28/world/middleeast/iran-school-strike-us-israel.html",
+    "published": "2026-02-28T18:30:56+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran Says Dozens Killed in Strike on School",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A strike on an elementary school in Minab, southern Iran, resulted in dozens of casualties during U.S. and Israeli attacks on Iran on Saturday. The incident is one of two reported attacks on schools, highlighting the impact on civilian infrastructure. This raises concerns about the escalation and potential targeting of non-military sites in the conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, southern Iran",
+      "brief": "The strike on a school in Minab, resulting in dozens of casualties, indicates a significant escalation with direct targeting of civilian infrastructure, raising concerns about the conflict's expansion and impact on non-military sites."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
+    "id": "9b307cef76fe594f",
+    "title_original": "🇮🇱 🇺🇸 🇮🇷 ❗️ A burning Iranian frigate at an Iranian Navy base in Khorramshahr after airstrikes by the US and Israeli ...",
+    "content_original": "🇮🇱 🇺🇸 🇮🇷 ❗️ A burning Iranian frigate at an Iranian Navy base in Khorramshahr after airstrikes by the US and Israeli air forces.",
+    "url": "https://t.me/CIG_telegram/69657",
+    "published": "2026-02-28T18:29:18+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "US and Israeli airstrikes hit Iranian Navy base in Khorramshahr, destroying a frigate",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israeli air forces conducted a joint airstrike on an Iranian Navy base in Khorramshahr, resulting in a burning Iranian frigate. This strike signifies a significant escalation in direct military action against Iranian naval assets and infrastructure. The attack demonstrates increased coordination between the US and Israel against Iran amid the ongoing conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "airstrike",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Khorramshahr, Iran",
+      "brief": "The joint US-Israeli airstrike on an Iranian naval base marks a significant escalation in direct military engagement against Iran, showcasing increased coordination and targeting of Iranian naval assets."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "8bc1e682a86da401",
+    "title_original": "At least 80 children dead as missile reportedly hits school in southern Iran",
+    "content_original": "The building appears to be among many devastated in Trump’s ‘major combat operations’ as long expected attacks arrive US-Israeli attack on Iran – live updates US and Israel strikes on Iran: what we know so far Iran’s parents had just dropped their children off for class on Saturday morning when they found themselves racing back to school gates, as bombs began to fall across the country in a joint US-Israel attack. At one elementary school, according to Iran’s state-controlled media, they arrived to find devastation. At least 80 children had been killed in the strike on Shajareh Tayyebeh all girls’ school in Minab, southern Iran, the IRNA news agency reported, with dozens more unaccounted for. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/feb/28/children-dead-as-missile-hits-elementary-school-in-southern-iran",
+    "published": "2026-02-28T18:28:58+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Missile reportedly hits school in southern Iran, killing at least 80 children",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A missile strike, attributed to a joint US-Israel attack, hit Shajareh Tayyebeh all girls' school in Minab, southern Iran, resulting in at least 80 children killed and dozens more unaccounted for. This incident highlights the direct impact on civilian infrastructure and the human cost of the ongoing conflict. The attack is part of escalating hostilities between the US-Israel alliance and Iran.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "strike",
+      "killed",
+      "missile",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, southern Iran",
+      "brief": "The attack on a civilian school resulting in mass casualties represents a significant escalation in the conflict, highlighting the direct involvement of the US-Israel alliance in strikes against Iranian infrastructure."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
+    "id": "fd9dd417690d62cf",
+    "title_original": "Hofit Golan, Vicky Pattison and Laura Anderson are among the celebrities and influencers caught up in Iranian missile strikes on Dubai's famous Palm Jumeirah",
+    "content_original": "Hofit Golan, Vicky Pattison and Laura Anderson are among the celebrities and influencers caught up in Iranian missile strikes on Dubai's famous Palm Jumeirah",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-15601683/Hofit-Golan-footage-explosions-Dubai-celebrities-Iranian-missile-strikes-Palm-Jumeirah.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-02-28T18:28:30+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iranian missile strikes hit Dubai's Palm Jumeirah, affecting celebrities and influencers",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile strikes on Dubai's Palm Jumeirah, a famous landmark. The attack impacted several celebrities and influencers, including Hofit Golan, Vicky Pattison, and Laura Anderson. This incident signifies an escalation in the conflict, with potential implications for regional stability and civilian safety in the UAE.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "Iran's missile strikes on Dubai's Palm Jumeirah represent a significant escalation, directly targeting a high-profile civilian area in the UAE, a key US ally, with potential for broader regional implications."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "5a9f3c9bf4f88e3b",
+    "title_original": "🇮🇱 🇺🇸 ⚔️ 🇮🇷  20 volleyball players were killed in the city of Lamerd, Fars Province, by an Israeli or American cruise...",
+    "content_original": "🇮🇱 🇺🇸 ⚔️ 🇮🇷 20 volleyball players were killed in the city of Lamerd, Fars Province, by an Israeli or American cruise missile which hit the sports hall they were playing in. — Fars News Agency. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69656",
+    "published": "2026-02-28T18:27:34+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "20 volleyball players killed in Lamerd by Israeli or American missile strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Israeli or American cruise missile struck a sports hall in Lamerd, Fars Province, Iran, killing 20 civilians, including volleyball players. This incident highlights the ongoing risk to civilian infrastructure and raises concerns about potential escalation in the conflict. The strike's military significance is unclear but could provoke further Iranian retaliation.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "conflict",
+      "killed",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Lamerd, Fars Province, Iran",
+      "brief": "The strike on a civilian sports hall in Lamerd, while of unclear military significance, risks provoking Iranian retaliation and escalating the conflict due to the high civilian death toll."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "bf169749561085b9",
@@ -799,6 +1377,112 @@
     "lng": 47.9551556
   },
   {
+    "id": "7fe9511778169cd7",
+    "title_original": "US and Israel launch strikes on Iran: what we know so far",
+    "content_original": "Joint operation prompts Tehran to retaliate with missile attacks on bases across Middle East Full report US-Israeli attack on Iran – live updates A visual guide to US-Israeli strikes on Iran – and Tehran’s response The US and Israel have launched a joint military operation against Iran, prompting Tehran to fire retaliatory strikes against Israeli and US bases across the Middle East. Explosions rocked the Iranian capital, Tehran, with satellite imagery showing extensive damage at the secure compound of the country’s supreme leader, Ayatollah Ali Khamenei, though his whereabouts remained unclear. Dozens of students were reportedly killed in a strike on a primary school in the south-east. Iranian media is reporting 201 people have been killed and 747 injured. Israel said its strikes targeted the Iranian regime’s leadership and military commanders, including Khamenei and the president, Masoud Pezeshkian. Iranian state media, citing Iran’s senior officials, reported that Khamenei was not in...",
+    "url": "https://www.theguardian.com/world/2026/feb/28/us-israel-launch-strikes-attack-iran-what-we-know-so-far-latest",
+    "published": "2026-02-28T18:26:08+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "US and Israel launch strikes on Iran, prompting retaliatory missile attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel conducted a joint military operation targeting Iran, resulting in retaliatory missile strikes by Tehran against US and Israeli bases across the Middle East. The strikes caused significant damage, including at the compound of Iran's Supreme Leader Ayatollah Ali Khamenei, and reportedly killed dozens of students in a southeast Iranian school. This escalation signifies a dangerous intensification of the conflict with potential regional implications.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "conflict",
+      "military operation",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran, Middle East bases",
+      "brief": "The joint US-Israeli strikes on Iran and the subsequent retaliatory missile attacks mark a significant escalation, involving direct state engagement and causing significant damage and casualties, signaling a dangerous intensification of the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "c22adad517a69b6d",
+    "title_original": "⚡️  US military reports no American casualties and minimal damage so far in 'hundreds of Iranian missile and drone at...",
+    "content_original": "⚡️ US military reports no American casualties and minimal damage so far in 'hundreds of Iranian missile and drone attacks'",
+    "url": "https://t.me/warmonitors/40075",
+    "published": "2026-02-28T18:24:06+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US reports no casualties, minimal damage from Iranian missile and drone attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US military has reported that there have been no American casualties and only minimal damage sustained from the hundreds of missile and drone attacks launched by Iran. This indicates that US defenses have been largely effective in mitigating the impact of the Iranian strikes. The ongoing attacks highlight the intensity of the conflict and the continued threat under which US forces are operating in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "drone",
+      "missile",
+      "threat",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East",
+      "brief": "Iran's missile and drone attacks on US forces demonstrate ongoing hostilities but have been largely mitigated by US defenses, highlighting the persistent threat under which US forces operate."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "ba072e23bdae6b52",
+    "title_original": "بیشتر شهدای حادثه تروریستی لامرد کودک هستند؛ آماده‌باش کامل مراکز درمانی جنوب فارس",
+    "content_original": "بیشتر شهدای حادثه تروریستی لامرد کودک هستند؛ آماده‌باش کامل مراکز درمانی جنوب فارس",
+    "url": "https://www.irna.ir/news/86089797/%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C-%D9%84%D8%A7%D9%85%D8%B1%D8%AF-%DA%A9%D9%88%D8%AF%DA%A9-%D9%87%D8%B3%D8%AA%D9%86%D8%AF-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B4-%DA%A9%D8%A7%D9%85%D9%84-%D9%85%D8%B1%D8%A7%DA%A9%D8%B2",
+    "published": "2026-02-28T18:24:03+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Terrorist Attack in Lamard Kills Mostly Children; Southern Fars Medical Centers on High Alert",
+    "relevant": true,
+    "summary_en": "A terrorist attack in Lamard, Iran, resulted in multiple casualties, predominantly children. Southern Fars medical centers have been placed on high alert to handle the influx of patients. This incident highlights the ongoing security challenges and potential escalation of violence within Iran amidst the broader conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Lamard, Southern Fars, Iran",
+      "brief": "The attack, while not directly linked to the US-Iran conflict, exacerbates internal instability within Iran and could influence regional dynamics amid broader hostilities."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "af71ac79a083d38a",
     "title_original": "פצועים בדובאי, מלון נפגע מכטב\"ם איראני | תיעוד",
     "content_original": "איראן שיגרה טילים וכטב\"מים למדינות המפרץ, ופגעה במלון בדובאי. התקשורת האמירתית דיווחה על ארבעה פצועים. מוקדם יותר דווח על הרוג באבו דאבי",
@@ -834,6 +1518,73 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "d64a79db277d30d0",
+    "title_original": "سخنگوی جمعیت هلال‌ احمر از ۷۴۷ مصدوم و ۲۰۱ شهید خبر داد",
+    "content_original": "سخنگوی جمعیت هلال‌ احمر از ۷۴۷ مصدوم و ۲۰۱ شهید خبر داد",
+    "url": "https://www.irna.ir/news/86089790/%D8%B3%D8%AE%D9%86%DA%AF%D9%88%DB%8C-%D8%AC%D9%85%D8%B9%DB%8C%D8%AA-%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D8%AD%D9%85%D8%B1-%D8%A7%D8%B2-%DB%B7%DB%B4%DB%B7-%D9%85%D8%B5%D8%AF%D9%88%D9%85-%D9%88-%DB%B2%DB%B0%DB%B1-%D8%B4%D9%87%DB%8C%D8%AF-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF",
+    "published": "2026-02-28T18:21:07+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Red Crescent Reports 747 Injured and 201 Killed",
+    "relevant": true,
+    "summary_en": "The Red Crescent spokesperson announced that 747 people were injured and 201 were killed, likely in the ongoing conflict between Iran and the US. This suggests significant casualties from recent military strikes or retaliatory attacks in the region. The figures highlight the human cost of the escalating conflict and the need for humanitarian assistance.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "region unspecified",
+      "brief": "The high casualty figures reported by the Red Crescent indicate a significant escalation in the Iran-US conflict, likely involving direct military strikes with severe humanitarian consequences."
+    }
+  },
+  {
+    "id": "b380efefa92bdca9",
+    "title_original": "🇮🇷 ‼️ ⚠️ 🔴 🇧🇭 🇺🇸 🇮🇱 So far, suicide attacks continue to pour towards the headquarters of the main US naval command in...",
+    "content_original": "🇮🇷 ‼️ ⚠️ 🔴 🇧🇭 🇺🇸 🇮🇱 So far, suicide attacks continue to pour towards the headquarters of the main US naval command in Bahrain. 🔴 @alsaa_plus_EN",
+    "url": "https://t.me/CIG_telegram/69654",
+    "published": "2026-02-28T18:17:29+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Suicide Attacks Target US Naval Command Headquarters in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Unidentified attackers are carrying out ongoing suicide attacks targeting the main US naval command headquarters in Bahrain. This is a significant escalation indicating a direct threat to US naval operations in the Gulf region and raises concerns about the security of US military assets in Bahrain.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "suicide",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Unidentified attackers"
+      ],
+      "location": "Bahrain",
+      "brief": "The ongoing suicide attacks on the US naval command headquarters in Bahrain represent a direct threat to US naval operations in the Gulf region, indicating a significant escalation in the Iran–US conflict."
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "401b5f3f5ff055e7",
@@ -5276,6 +6027,43 @@
     },
     "lat": 24.4538352,
     "lng": 54.3774014
+  },
+  {
+    "id": "4cfecf1a40ca009f",
+    "title_original": "Israel's largest ever military flyover hammers Iranian military targets",
+    "content_original": "Israel pummeled Iranian targets with simultaneous airstrikes from roughly 200 fighter jets in what the Israeli military dubbed its largest ever military flyover in its history. The Israel Defense Forces (IDF) on Saturday published video of its airstrike on missile launchers in western Iran as Israel and the U.S. take part in a joint effort against Tehran. The IDF said the fighter jets flew under the direction of IDF intelligence and the Israeli Air Force and executed an \"extensive attack\" against the Iranian regime's missile and defense systems in western and central Iran. \"This is the largest military flyover in the history of the Israeli Air Force (IAF), conducted following accurate planning and based on high-quality intelligence, while synchronizing hundreds of fighter jets at the same time,\" the IDF said. TRUMP TELLS IRANIANS 'THE HOUR OF YOUR FREEDOM IS AT HAND' AS US-ISRAEL LAUNCH STRIKES AGAINST IRAN Fighter jets dropped hundreds of munitions on about 500 targets, including aeri...",
+    "url": "https://www.foxnews.com/world/israels-largest-ever-military-flyover-hammers-iranian-military-targets",
+    "published": "2026-02-28T13:14:51-05:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Israel's largest ever military flyover targets Iranian military sites",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel conducted its largest-ever military flyover, with approximately 200 fighter jets striking missile launchers and defense systems in western and central Iran. The operation, directed by IDF intelligence and the Israeli Air Force, represents a significant escalation in joint Israeli-US efforts against Tehran. This extensive attack on Iranian military infrastructure highlights the deepening conflict between Israel and Iran.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "United States (indirect involvement)"
+      ],
+      "location": "Western and Central Iran",
+      "brief": "Israel's largest-ever airstrike on Iranian military sites marks a significant escalation in the conflict, showcasing deepening Israeli-US cooperation against Tehran."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "81220457cdb6f0b2",
