@@ -53,6 +53,7 @@ jobs:
         run: python run_pipeline.py
 
       - name: Commit data changes
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -61,6 +62,7 @@ jobs:
             echo "No data changes to commit"
           else
             git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase origin main
             git push
           fi
 
