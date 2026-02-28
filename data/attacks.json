@@ -1,5 +1,41 @@
 [
   {
+    "id": "410779dd5e6ff377",
+    "title_original": "Al Khamenei to Amir Nasirzadeh: List of top Iran leaders killed in US-Israel strikes",
+    "content_original": "Israeli and US airstrikes in Iran reportedly killed top Iranian officials, including the Defence Minister and Revolutionary Guard commander.&nbsp;",
+    "url": "https://www.hindustantimes.com/world-news/al-khamenei-to-amir-nasirzadeh-list-of-top-iran-leaders-killed-in-us-israel-strikes-101772314862134.html",
+    "published": "2026-03-01T04:01:22+05:30",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Top Iranian leaders killed in US-Israel strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US and Israeli airstrikes reportedly killed high-ranking Iranian officials, including the Defence Minister and a Revolutionary Guard commander, in Iran. This signifies a significant escalation in the conflict, targeting Iran's military leadership. The strikes demonstrate the ongoing efforts by the US and Israel to degrade Iran's military capabilities.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The targeted killing of top Iranian military leadership by US and Israeli airstrikes marks a significant escalation in the conflict, directly targeting Iran's military command structure."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "d3b5961515cde64d",
     "title_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
     "content_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
@@ -143,6 +179,76 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "826c44d5e741510e",
+    "title_original": "بدء الموجتين 3 و 4 من عمليات الوعد الصادق-4 ضد الاهداف الاميركية والصهيونية",
+    "content_original": "بدات الموجتان 3 و 4 من عمليات \"الوعد الصادق 4\" بصورة مستمرة ضد الاهداف العسكرية والامنية لاميركا والكيان الصهيوني بصواريخ اكثر تطورا من صواريخ \"الوعد...",
+    "url": "https://www.alalam.ir/news/7420153",
+    "published": "2026-03-01T01:03:54+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Phases 3 and 4 of 'True Promise 4' Operations Launched Against US and Israeli Targets",
+    "relevant": true,
+    "summary_en": "Iran-backed forces have initiated phases 3 and 4 of 'True Promise 4' operations, targeting US and Israeli military and security assets with more advanced missiles. This escalation indicates ongoing proxy warfare and direct confrontations with US and Israeli interests in the region. The use of more sophisticated weaponry suggests an effort to increase the operational impact and strategic pressure on adversaries.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Iran-backed forces",
+        "US",
+        "Israel"
+      ],
+      "location": "Middle East region",
+      "brief": "The escalation of 'True Promise 4' operations with advanced missile strikes against US and Israeli targets signifies a significant increase in proxy warfare and direct confrontation by Iran-backed forces, posing heightened risks to regional stability."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "24c6473e85a267cf",
+    "title_original": "201 شهيد و 747 جريحا جراء العدوان الصهيوني الامريكي حتى الان",
+    "content_original": "اعلن المتحدث باسم الهلال الاحمر الايراني مجتبى خالدي ان 24 محافظة ايرانية شهدت وقوع هجمات من قبل الكين الصهيوني واميركا وان عدد الشهداء جراء هذا العد...",
+    "url": "https://www.alalam.ir/news/7420148",
+    "published": "2026-03-01T01:03:07+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iran Reports 201 Dead and 747 Injured from US-Israeli Aggression",
+    "relevant": true,
+    "summary_en": "Iran's Red Crescent reports casualties across 24 provinces due to US and Israeli attacks, highlighting the widespread impact of the conflict within Iran. This indicates ongoing escalation and significant damage to Iranian infrastructure and civilian populations. The reported casualties underscore the severity of the conflict and potential humanitarian concerns.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "dead"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (24 provinces)",
+      "brief": "The reported casualties and widespread damage across Iran indicate a significant escalation with direct US and Israeli involvement, posing a major threat to regional stability and highlighting the severity of the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "5022558df46a214d",
@@ -468,6 +574,117 @@
     "lng": 54.56
   },
   {
+    "id": "670b71dcd2704cd1",
+    "title_original": "🚨  اسرائیل: موج حملات جدید رو شروع میکنیم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و ...",
+    "content_original": "🚨 اسرائیل: موج حملات جدید رو شروع میکنیم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44898",
+    "published": "2026-02-28T22:35:43+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israel Announces Start of New Wave of Attacks",
+    "relevant": true,
+    "summary_en": "Israel has declared the initiation of a new wave of attacks, likely targeting Iranian-linked assets or infrastructure. This development signifies an escalation in regional hostilities and could impact ongoing conflicts involving Iran, Hezbollah, and Hamas. The strategic significance includes potential retaliatory actions from Iranian proxies and an increase in regional instability.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "hamas",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Hezbollah",
+        "Hamas"
+      ],
+      "location": "Middle East",
+      "brief": "Israel's new wave of attacks against Iranian-linked assets raises the risk of retaliatory actions by Iranian proxies, escalating regional instability."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "f24f4f706e3486df",
+    "title_original": "‼️ 🇮🇱 ❌ 🇮🇷  - Fox Correspondent Trey Yingst in Tel Aviv: “There's a lot of incoming fire right now. The city is getti...",
+    "content_original": "‼️ 🇮🇱 ❌ 🇮🇷 - Fox Correspondent Trey Yingst in Tel Aviv: “There's a lot of incoming fire right now. The city is getting hit hard.” 🔗 Acyn",
+    "url": "https://t.me/CIG_telegram/69724",
+    "published": "2026-02-28T22:34:34+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Incoming fire hits Tel Aviv amid conflict",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Tel Aviv is experiencing heavy incoming fire, indicating a significant escalation in hostilities. This suggests potential rocket or missile attacks from Iranian-backed groups like Hezbollah or Hamas. The situation underscores the ongoing conflict's impact on Israeli urban centers and the broader regional tensions.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hamas",
+      "hezbollah",
+      "rocket",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran (indirect)"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "The attack on Tel Aviv signifies a significant escalation by Iranian-backed Hezbollah, posing a direct threat to Israeli urban centers and reflecting heightened regional tensions in the context of the Iran–US conflict."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "553e0d1eaab2fb33",
+    "title_original": "Moment Iranian missile hit US base in Jordan @PressTV",
+    "content_original": "Moment Iranian missile hit US base in Jordan @PressTV",
+    "url": "https://t.me/presstv/177322",
+    "published": "2026-02-28T22:33:36+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian missile hits US base in Jordan",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile struck a US base in Jordan, marking a direct attack on American forces in the region. This incident signifies an escalation in the ongoing conflict and highlights the expanding geographic scope of hostilities. The strike is likely to provoke a swift response from the US military.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Jordan"
+      ],
+      "location": "US base in Jordan",
+      "brief": "The direct missile strike on a US base in Jordan by Iran represents a significant escalation, highlighting the expanding geographic scope of the conflict and the potential for swift US military retaliation."
+    },
+    "lat": 31.17,
+    "lng": 36.94
+  },
+  {
     "id": "3b32a134f5f98eb7",
     "title_original": "Израиль заявил о перехвате нескольких беспилотников, запущенных из Ирана",
     "content_original": "Израиль заявил о перехвате нескольких беспилотников, запущенных из Ирана",
@@ -501,6 +718,80 @@
     },
     "lat": 30.8124247,
     "lng": 34.8594762
+  },
+  {
+    "id": "15c2b4348f3d427b",
+    "title_original": "Dubai airport terminal damaged in Iranian rocket strike, four wounded",
+    "content_original": "Dubai airport terminal damaged in Iranian rocket strike, four wounded Emirati authorities have confirmed that Dubai International Airport was struck during Iran’s retaliatory attacks against the United States and Israel. Video circulating online shows visible damage to part of a terminal building. The Government of Dubai Media Office said four airport staff members were injured and are receiving medical treatment. Officials described the impact as causing “minor damage” and said the situation has been contained. Dubai International is one of the world’s busiest airports and serves as the main hub for Emirates airline. Dubai airport has reportedly been hit in the latest Iranian attack against the UAE pic.twitter.com/EmAwNxGKEw — Michael A. Horowitz (@michaelh992) February 28, 2026",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dubai-airport-terminal-damaged-iranian-rocket-strike-four-wounded",
+    "published": "2026-02-28T22:31:21+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Dubai airport terminal damaged in Iranian rocket strike, four wounded",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a rocket strike targeting Dubai International Airport, causing damage to a terminal and injuring four airport staff members. This attack is part of Iran's retaliatory actions against the United States and Israel. The incident highlights the regional escalation and potential risks to civilian infrastructure amidst the ongoing conflict.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "rocket",
+      "strike",
+      "conflict",
+      "wounded",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "United States"
+      ],
+      "location": "Dubai International Airport, United Arab Emirates",
+      "brief": "Iran's rocket strike on Dubai International Airport demonstrates a direct escalation targeting civilian infrastructure in a US-aligned country, posing significant regional security risks."
+    },
+    "merged_source_count": 5,
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "cf04a67a70bf422d",
+    "title_original": "New footage from occupied territories following Iranian missile strikes @PressTV",
+    "content_original": "New footage from occupied territories following Iranian missile strikes @PressTV",
+    "url": "https://t.me/presstv/177321",
+    "published": "2026-02-28T22:30:10+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "New footage from occupied territories following Iranian missile strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The footage likely shows the aftermath of Iranian missile strikes on occupied territories, indicating ongoing hostilities and potential escalation in the conflict. This suggests Iranian retaliation against US or allied forces in the region, impacting the military situation. The release of such footage by PressTV, an Iranian state media outlet, may serve propaganda purposes to demonstrate Iranian capabilities and resolve.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "PressTV"
+      ],
+      "location": "occupied territories",
+      "brief": "The missile strikes indicate a direct Iranian attack on US or allied forces, showcasing Iran's willingness to escalate hostilities and inflict damage in the region."
+    },
+    "lat": 50.429608,
+    "lng": 30.4558968
   },
   {
     "id": "1d6cf58bdaa97e4b",
@@ -3130,6 +3421,39 @@
     "lat": 29.0,
     "lng": 47.0,
     "merged_source_count": 2
+  },
+  {
+    "id": "251c0d904e51238f",
+    "title_original": "Dozens of top Iranian regime officials, supreme leader killed in Israeli strikes",
+    "content_original": "The Israeli military on Saturday said it had killed dozens of members of Iran’s leadership during sweeping, coordinated strikes in Iran, including Supreme Leader Ayatollah Ali Khamenei. The Israel Defense Forces (IDF) said it had targeted a number of locations across Tehran \"in which senior officials of the Iranian defense establishment had gathered.\" More than 40 senior Iranian security and regime figures were eliminated in the strikes, a senior Israeli security official told Fox News. It was one of the largest regime \"decapitation operations\" conducted in modern warfare history, the official added. Israeli intelligence managed to infiltrate the Iranian security echelon, making the strikes possible, the official explained. IRAN FIRES MISSILES AT US BASES ACROSS MIDDLE EAST AFTER AMERICAN STRIKES ON NUCLEAR, IRGC SITES Among those killed, according to the IDF, were Ali Shamkhani, secretary of the Iranian Security Council who was also a personal advisor to the Iranian Supreme Leader. Mo...",
+    "url": "https://www.foxnews.com/world/dozens-top-iranian-regime-officials-supreme-leader-killed-israeli-strikes",
+    "published": "2026-02-28T17:24:24-05:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Dozens of top Iranian regime officials, supreme leader killed in Israeli strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel conducted coordinated strikes in Tehran, killing dozens of senior Iranian officials, including Supreme Leader Ayatollah Ali Khamenei and over 40 security and regime figures. The strikes targeted locations where Iranian defense establishment officials had gathered. This operation represents a significant escalation and is one of the largest regime 'decapitation' efforts in modern warfare.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The targeted killing of Iran's Supreme Leader and dozens of senior officials by Israel represents a critical escalation in the conflict with potential for direct Iran-Israel and indirect Iran-US military confrontation."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "cd4d4c04ee2d1eff",
