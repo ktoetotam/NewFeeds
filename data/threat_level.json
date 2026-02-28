@@ -12,7 +12,7 @@
       "low": 2
     },
     "window_hours": 24,
-    "computed_at": "2026-02-28T22:14:25.928805+00:00"
+    "computed_at": "2026-02-28T22:15:56.948729+00:00"
   },
   "short_term_6h": {
     "score": 408,
@@ -202,7 +202,14 @@
       "label": "MAJOR",
       "score": 786,
       "incident_count": 130
+    },
+    {
+      "timestamp": "2026-02-28T22:15:56.948936+00:00",
+      "level": 1,
+      "label": "MAJOR",
+      "score": 786,
+      "incident_count": 130
     }
   ],
-  "updated_at": "2026-02-28T22:14:25.929079+00:00"
+  "updated_at": "2026-02-28T22:15:56.948972+00:00"
 }
