@@ -88,3 +88,35 @@ export const THREAT_LEVEL_COLORS: Record<string, string> = {
   GUARDED: "#2563eb",
   LOW: "#16a34a",
 };
+
+export interface ExecutiveSummaryData {
+  generated_at: string;
+  threat_snapshot: {
+    level: number;
+    label: string;
+    color: string;
+    trend: "escalating" | "de-escalating" | "stable";
+    incident_count_24h: number;
+    incident_count_6h: number;
+    severity_breakdown: Record<string, number>;
+  };
+  source_count: {
+    attacks_analyzed: number;
+    articles_analyzed: number;
+    regions_covered: string[];
+  };
+  executive_summary: string;
+  whats_new: string[];
+  confirmed_events: string[];
+  unverified_emerging: string[];
+  operational_impacts: {
+    people_travel: string[];
+    supply_chain: string[];
+    market_macro: string[];
+  };
+  outlook_24_72h: {
+    base_case: string;
+    escalation_risks: string[];
+    de_escalation_pathways: string;
+  };
+}
