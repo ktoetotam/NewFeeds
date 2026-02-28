@@ -272,7 +272,7 @@ regions:
       - name: "ONA (Oman)"
         type: rss
         language: en
-        url: "https://omannews.gov.om/rss/news"
+        url: "https://www.omannews.gov.om/rss.ona"
         category: state
         skip_translation: true
 
