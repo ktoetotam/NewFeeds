@@ -1,5 +1,331 @@
 [
   {
+    "id": "ca8e48621b467b66",
+    "title_original": "Fars: при ударе по школе на юге Ирана погибли около 70 человек",
+    "content_original": "Fars: при ударе по школе на юге Ирана погибли около 70 человек",
+    "url": "https://ria.ru/20260228/fars-2077468692.html",
+    "published": "2026-02-28T17:12:49+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Strike on school in southern Iran kills around 70 people",
+    "relevant": true,
+    "summary_en": "An attack on a school in southern Iran resulted in approximately 70 casualties. The incident's details, including the perpetrator and the nature of the strike, are not specified but are likely to be linked to ongoing hostilities. This event could escalate tensions and provoke a response from Iranian authorities amidst the conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "southern Iran",
+      "brief": "The attack on a school in southern Iran resulting in approximately 70 casualties is likely to provoke a significant response from Iranian authorities, escalating regional tensions amidst the ongoing conflict."
+    }
+  },
+  {
+    "id": "de8839b840750f46",
+    "title_original": "В США назвали решение Трампа нанести удары по Ирану повторением ошибки Буша",
+    "content_original": "В США назвали решение Трампа нанести удары по Ирану повторением ошибки Буша",
+    "url": "https://ria.ru/20260228/ssha-2077468502.html",
+    "published": "2026-02-28T17:12:34+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Critics Call Trump's Strikes on Iran a Repeat of Bush's Mistakes",
+    "relevant": true,
+    "summary_en": "The article discusses US criticism of Trump's decision to launch strikes on Iran, comparing it to past mistakes made by the Bush administration. This is relevant as it pertains to US military actions against Iran and the strategic implications of such decisions in the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The article highlights US military strikes on Iran, reflecting direct engagement and potential escalation in the ongoing conflict."
+    }
+  },
+  {
+    "id": "1a8c3f15b4df8c6d",
+    "title_original": "Иран сообщил о возможной потере нескольких командиров при ударах США",
+    "content_original": "Иран сообщил о возможной потере нескольких командиров при ударах США",
+    "url": "https://ria.ru/20260228/iran-2077468336.html",
+    "published": "2026-02-28T17:11:31+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Reports Potential Loss of Several Commanders in US Strikes",
+    "relevant": true,
+    "summary_en": "Iran has acknowledged the potential loss of multiple commanders as a result of US strikes, indicating significant casualties within the IRGC leadership. This development highlights the ongoing intensity of the conflict and the direct targeting of Iran's military command structure by US forces. The loss of key commanders could impact Iran's operational capabilities and decision-making in the conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "critical",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The US strikes resulting in the potential loss of multiple IRGC commanders signify a direct and significant escalation in the conflict, impacting Iran's military leadership and operational capabilities."
+    }
+  },
+  {
+    "id": "cd4d4c04ee2d1eff",
+    "title_original": "Al Jazeera: иранская ракета поразила радар дальнего радиуса действия на севере Катара",
+    "content_original": "Пострадавших нет",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590405",
+    "published": "2026-02-28T17:09:58+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Missile Strikes Long-Range Radar in Northern Qatar",
+    "relevant": true,
+    "summary_en": "An Iranian missile hit a long-range radar system in northern Qatar. There were no casualties reported. This incident is significant as it targets US-allied infrastructure in the Gulf region, potentially escalating tensions and posing a threat to US military operations in Qatar.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Northern Qatar",
+      "brief": "Iran's missile strike on a US-allied radar system in Qatar directly threatens US military infrastructure and operations in the Gulf region, escalating regional tensions."
+    }
+  },
+  {
+    "id": "81f6c9b2818cecef",
+    "title_original": "Число погибших после удара по начальной школе для девочек в Иране достигло 63",
+    "content_original": "Число погибших после удара по начальной школе для девочек в Иране достигло 63",
+    "url": "https://tass.ru/proisshestviya/26590401",
+    "published": "2026-02-28T17:08:45+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Death toll from strike on Iranian girls' school rises to 63",
+    "relevant": true,
+    "summary_en": "An airstrike targeted an Iranian girls' school, resulting in at least 63 fatalities. The incident occurred within Iran, indicating potential escalation in the conflict. The strike's origin and responsible party are not specified, but it signifies increased targeting of civilian infrastructure.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "death",
+      "airstrike",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The airstrike on a civilian Iranian school, resulting in significant casualties, represents a severe escalation in the conflict with potential for direct state engagement."
+    }
+  },
+  {
+    "id": "e752fd1c16876497",
+    "title_original": "Жители Хайфы сидят в убежищах из-за ракетных атак Ирана",
+    "content_original": "Жители Хайфы сидят в убежищах из-за ракетных атак Ирана",
+    "url": "https://ria.ru/20260228/khayfa-2077466741.html",
+    "published": "2026-02-28T17:07:16+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Haifa Residents Shelter in Place Due to Iranian Rocket Attacks",
+    "relevant": true,
+    "summary_en": "Iran has launched rocket attacks targeting Haifa, Israel, prompting residents to seek shelter. This escalation highlights the ongoing conflict between Iran and its regional adversaries, including Israel. The attacks demonstrate Iran's continued efforts to target Israeli cities and infrastructure amid broader regional hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "rocket",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Haifa, Israel",
+      "brief": "Iran's rocket attacks on Haifa, Israel, signal a direct escalation in the regional conflict, posing a significant threat to US interests and allies in the Middle East."
+    }
+  },
+  {
+    "id": "f890b98e6667438c",
+    "title_original": "ОАЭ не знали заранее об операции против Ирана, сообщают СМИ",
+    "content_original": "ОАЭ не знали заранее об операции против Ирана, сообщают СМИ",
+    "url": "https://ria.ru/20260228/iran-2077466105.html",
+    "published": "2026-02-28T17:05:41+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE reportedly unaware of operation against Iran in advance",
+    "relevant": true,
+    "summary_en": "Media reports indicate that the UAE was not informed beforehand about a military operation targeting Iran. This suggests a lack of coordination between the US and its regional allies, potentially impacting future operations and diplomatic relations. The UAE's exclusion from prior knowledge could strain its security cooperation with the US.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Iran",
+      "brief": "The UAE's lack of prior knowledge about a US military operation against Iran highlights potential strains in regional coordination and raises concerns about the impact on future US-led operations in the Middle East."
+    }
+  },
+  {
+    "id": "ae680dcbbdfab77d",
+    "title_original": "Reuters: глава МО Ирана и командующий КСИР могли погибнуть при ударах Израиля",
+    "content_original": "Reuters: глава МО Ирана и командующий КСИР могли погибнуть при ударах Израиля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590355",
+    "published": "2026-02-28T17:03:36+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Defense Minister and IRGC Commander Possibly Killed in Israeli Strikes",
+    "relevant": true,
+    "summary_en": "Israel reportedly conducted strikes targeting senior Iranian military leadership, including the Defense Minister and IRGC Commander. If confirmed, this would be a significant escalation in the conflict, potentially weakening Iran's military command structure. The strikes highlight the ongoing tensions and direct confrontation between Israel and Iran.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The potential killing of Iran's Defense Minister and IRGC Commander in Israeli strikes marks a significant escalation in the conflict, posing a direct threat to Iran's military leadership and potentially weakening its command structure."
+    }
+  },
+  {
+    "id": "a8e76dbe6ce49b16",
+    "title_original": "Силы ПВО Катара отразили четыре новых ракетных удара из Ирана",
+    "content_original": "Силы ПВО Катара отразили четыре новых ракетных удара из Ирана",
+    "url": "https://ria.ru/20260228/katar-2077464585.html",
+    "published": "2026-02-28T17:02:38+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Qatari Air Defenses Intercept Four New Missile Strikes from Iran",
+    "relevant": true,
+    "summary_en": "Qatari air defenses intercepted four missile strikes launched from Iran. The attacks targeted Qatari territory, likely in response to US-Qatari military cooperation. This incident highlights the escalating regional tensions and Iran's willingness to target US allies in the Gulf.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "intercept",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Qatar",
+      "brief": "Iran's missile strikes on Qatar, a key US ally, signal direct escalation and willingness to target US partners in the region, highlighting the risk of broader regional conflict."
+    }
+  },
+  {
+    "id": "5c1ed913cf808b8c",
+    "title_original": "SNN: три мирных жителя погибли в одном из районов Тегерана из-за ударов США и Израиля",
+    "content_original": "SNN: три мирных жителя погибли в одном из районов Тегерана из-за ударов США и Израиля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590341",
+    "published": "2026-02-28T17:01:07+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Three civilians killed in Tehran due to US and Israeli strikes",
+    "relevant": true,
+    "summary_en": "Three civilians were killed in a Tehran district as a result of strikes attributed to the US and Israel. This incident highlights the ongoing conflict's impact on civilian populations within Iran's capital. The strikes signify an escalation in targeting Iranian territory by US and Israeli forces amid the broader conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The airstrikes on Tehran by US and Israeli forces mark a significant escalation in direct targeting of Iranian territory, indicating heightened conflict intensity and potential for further escalation."
+    }
+  },
+  {
     "id": "a93f7972acc3fd30",
     "title_original": "Россиянка из Дохи рассказала об обстановке в городе на фоне иранских ударов",
     "content_original": "Россиянка из Дохи рассказала об обстановке в городе на фоне иранских ударов",
@@ -360,6 +686,38 @@
     }
   },
   {
+    "id": "5e6278ad4d2a1826",
+    "title_original": "אופטימיות זהירה: מסתמן שחמינאי חוסל במכת הפתע על איראן",
+    "content_original": "אופטימיות זהירה: מסתמן שחמינאי חוסל במכת הפתע על איראן",
+    "url": "https://www.ynet.co.il/news/article/sjwpvuey11e",
+    "published": "2026-02-28T16:08:20+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Cautious Optimism: Signs Suggest Khamenei Eliminated in Surprise Strike on Iran",
+    "relevant": true,
+    "summary_en": "Unspecified actors reportedly conducted a surprise strike targeting Iran's Supreme Leader Ali Khamenei, potentially eliminating him. This development, if confirmed, could have significant implications for Iran's command structure and the ongoing conflict. The strategic impact on Iran's military operations and decision-making processes remains uncertain.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Unspecified Actors"
+      ],
+      "location": "Iran",
+      "brief": "The potential elimination of Iran's Supreme Leader Ali Khamenei could severely disrupt Iran's command structure and decision-making processes, significantly impacting the ongoing Iran-US conflict."
+    }
+  },
+  {
     "id": "997ced139c5bc1b1",
     "title_original": "КСИР: 200 военных США стали жертвами ударов Ирана по американским базам",
     "content_original": "КСИР: 200 военных США стали жертвами ударов Ирана по американским базам",
@@ -583,6 +941,73 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct drone strikes against Israel signal an escalation in regional tensions and demonstrate Iran's evolving use of unmanned aerial capabilities in military operations."
+    }
+  },
+  {
+    "id": "6a68520b14e12627",
+    "title_original": "🚨 اصابت موشک به کویت  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SAB...",
+    "content_original": "🚨 اصابت موشک به کویت ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44833",
+    "published": "2026-02-28T14:10:10+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile Strikes Kuwait",
+    "relevant": true,
+    "summary_en": "A missile struck Kuwait, likely as part of the ongoing Iran-US conflict. This indicates an escalation in the regional theater, potentially involving Iranian-backed groups or Iranian forces targeting US interests or regional allies. The incident highlights the risk of the conflict spreading beyond current active fronts.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "Iranian-backed proxies"
+      ],
+      "location": "Kuwait",
+      "brief": "The missile strike on Kuwait represents a significant escalation as Iranian-backed proxies expand the conflict zone, targeting US allies in the region."
+    }
+  },
+  {
+    "id": "dbb3eb67404e664a",
+    "title_original": "באיראן מאבדים שליטה - ומנהיגים: רשימת הבכירים שחוסלו עד כה | דיווח",
+    "content_original": "בסוכנות הידיעות רויטרס דיווחי כי מפקד משמרות המהפכה ושר ההגנה האיראני נהרגו במכת הפתיחה של חיל האוויר באיראן וגם מפקד משמרות המהפכה נהרג",
+    "url": "https://www.maariv.co.il/news/politics/article-1290199",
+    "published": "2026-02-28T14:05:37+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran Loses Control - Senior Leaders Killed in Airstrikes",
+    "relevant": true,
+    "summary_en": "US airstrikes in Iran reportedly killed a senior IRGC commander and the Iranian Defense Minister, marking a significant escalation in the conflict. The loss of high-ranking officials could further destabilize Iran's military leadership and decision-making capabilities. This development highlights the ongoing strategic targeting of Iran's command structure by US forces.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The US airstrikes resulting in the deaths of a senior IRGC commander and the Iranian Defense Minister represent a critical escalation, directly targeting Iran's military leadership and potentially destabilizing its command structure."
     }
   },
   {
