@@ -1,5 +1,343 @@
 [
   {
+    "id": "0c4ba8dd9e032963",
+    "title_original": "'Side pe ho jao, bhaago': Man screams as missile falls in Qatar amid US-Iran conflict",
+    "content_original": "Residents of Barwa City in Doha witnessed a missile strike and loud explosion after Iran launched attacks.&nbsp;",
+    "url": "https://www.hindustantimes.com/world-news/side-pe-ho-jao-bhaago-man-screams-as-missile-falls-in-qatar-amid-us-iran-conflict-101772291924248.html",
+    "published": "2026-02-28T22:12:40+05:30",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Missile falls in Qatar amid US-Iran conflict",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A missile struck Doha's Barwa City in Qatar following Iranian attacks, causing a loud explosion. This incident highlights the regional escalation and potential threat to Gulf states amid the US-Iran conflict. The strike underscores the risk of collateral damage and regional instability as hostilities continue.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "explosion",
+      "strike",
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "c525bbc307362e59",
+    "title_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
+    "content_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
+    "url": "https://ria.ru/20260228/ataka-2077503182.html",
+    "published": "2026-02-28T19:48:38+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drone strike casualties in Belgorod village rise to two",
+    "relevant": true,
+    "summary_en": "An attack involving drones in Belgorod, Russia, has resulted in two casualties. This incident is likely linked to the ongoing conflict, highlighting the potential for escalation beyond the primary war zones. The strategic significance lies in the spillover effects of the conflict into Russian territory.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "drone",
+      "war",
+      "conflict",
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Russia",
+        "Unidentified attackers"
+      ],
+      "location": "Belgorod, Russia",
+      "brief": "The drone strike in Belgorod, Russia, highlights potential escalation risks as the Iran–US conflict's effects spill over into neighboring regions, though direct involvement of Iran or the US remains unconfirmed."
+    },
+    "lat": 50.5955595,
+    "lng": 36.5873394
+  },
+  {
+    "id": "a94bfadf58306feb",
+    "title_original": "МИД Ирана считает удары США и Израиля объявлением войны",
+    "content_original": "Официальный представитель иранского МИД Эсмаил Багаи отметил, что Тегеран не начинал этот конфликт",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26592279",
+    "published": "2026-02-28T19:46:53+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Foreign Ministry Calls US and Israeli Strikes a Declaration of War",
+    "relevant": true,
+    "summary_en": "Iran's Foreign Ministry spokesperson Esmail Baghaei stated that Tehran did not initiate the conflict and characterized recent US and Israeli strikes as a declaration of war. This highlights the escalating tensions and Iran's framing of the situation as defensive, potentially signaling further escalation in the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "78d72355e864a693",
+    "title_original": "В Иране ракетному удару подвергся город Бушер, где расположена АЭС",
+    "content_original": "В Иране ракетному удару подвергся город Бушер, где расположена АЭС",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26592227",
+    "published": "2026-02-28T19:42:15+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile Strike Hits Bushehr, Home to Nuclear Power Plant",
+    "relevant": true,
+    "summary_en": "An unidentified party launched a missile strike on the city of Bushehr in Iran, which hosts a nuclear power plant. The attack's impact on the facility and surrounding areas is currently unclear. This incident is significant due to the potential for escalation involving Iran's nuclear infrastructure and the risk of radiological consequences.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "attack",
+      "nuclear",
+      "missile",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "unknown_attacker",
+        "iran"
+      ],
+      "location": "Bushehr, Iran",
+      "brief": "The missile strike on Bushehr, home to a nuclear power plant, raises the risk of nuclear escalation and potential radiological consequences, posing a direct threat to Iran's nuclear infrastructure."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "0631ee8afe5d2b11",
+    "title_original": "До 85 выросло число погибших при ударе по иранской школе",
+    "content_original": "При ударе США и Израиля по школе для девочек в иранском Минабе погибли 85 человек. Об этом сообщило Tasnim со ссылкой на местные власти.",
+    "url": "https://www.kommersant.ru/doc/8477218",
+    "published": "2026-02-28T19:34:57+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Death Toll Rises to 85 in US-Israel Strike on Iranian School",
+    "relevant": true,
+    "summary_en": "A joint US-Israel strike targeted a girls' school in Minab, Iran, resulting in the deaths of 85 people according to local authorities cited by Tasnim. This incident highlights the ongoing escalation of attacks on civilian infrastructure and the increasing involvement of US and Israeli forces in direct strikes against Iranian targets.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "death",
+      "deaths",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "77161864b08f03d6",
+    "title_original": "КСИР: число сбитых Ираном израильских БПЛА Hermes выросло до пяти",
+    "content_original": "Их уничтожили в небе над Исфаханом",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26592113",
+    "published": "2026-02-28T19:31:19+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC: Number of Israeli Hermes UAVs shot down by Iran increased to five",
+    "relevant": true,
+    "summary_en": "The IRGC reported that Iran shot down five Israeli Hermes UAVs over Isfahan. This incident highlights ongoing tensions and military engagements between Iran and Israel amid the broader conflict. The shootdowns demonstrate Iran's air defense capabilities and Israel's continued surveillance or strike operations against Iranian targets.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "air defense",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Isfahan, Iran",
+      "brief": "Iran's shootdown of Israeli Hermes UAVs demonstrates ongoing surveillance and defensive engagements between the two nations, highlighting the regional proxy conflict's escalation potential."
+    },
+    "lat": 32.65,
+    "lng": 51.68
+  },
+  {
+    "id": "15f37702e3b56620",
+    "title_original": "Petra: ВС Иордании перехватили и сбили 49 иранских баллистических ракет и БПЛА",
+    "content_original": "Иорданские системы ПВО успешно перехватили 13 баллистических ракет, уточняет агентство",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26592087",
+    "published": "2026-02-28T19:30:39+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Jordanian Air Defenses Intercept and Shoot Down 49 Iranian Ballistic Missiles and Drones",
+    "relevant": true,
+    "summary_en": "Jordanian armed forces intercepted and destroyed 49 Iranian ballistic missiles and drones, including 13 ballistic missiles, over their territory. This incident highlights the ongoing threat posed by Iranian missile and drone attacks in the region and the critical role of regional air defenses in countering these threats.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "missile",
+      "shoot down",
+      "ballistic",
+      "intercept",
+      "drone",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Jordan",
+        "Iran"
+      ],
+      "location": "Jordan",
+      "brief": "The incident underscores the escalating regional threat from Iranian ballistic missile and drone attacks, highlighting the critical role of allied air defenses in countering Iranian aggression."
+    },
+    "lat": 31.17,
+    "lng": 36.94
+  },
+  {
+    "id": "280e5588c2b95d64",
+    "title_original": "Военно-политический кабинет Израиля принял решение об атаке на Иран 28 февраля",
+    "content_original": "Промедление позволило бы иранскому режиму достичь \"зоны неуязвимости\" для ядерной программы, отметил израильский министр иностранных дел Гидеон Саар",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591859",
+    "published": "2026-02-28T19:20:50+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel's Security Cabinet Decides to Attack Iran on February 28",
+    "relevant": true,
+    "summary_en": "Israel's Security Cabinet has decided to launch an attack on Iran on February 28, with Israeli Foreign Minister Gideon Saar stating that delaying the attack would allow Iran to reach a 'zone of invulnerability' for its nuclear program. This signifies a significant escalation in the ongoing conflict and highlights Israel's urgency to prevent Iran from advancing its nuclear capabilities.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "nuclear",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "32a3883095755f7a",
+    "title_original": "Опубликовано видео удара иранских ракет по базе ВМС США в Бахрейне",
+    "content_original": "Удар пришелся на пустой склад",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591839",
+    "published": "2026-02-28T19:20:17+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian missiles strike US Navy base in Bahrain",
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting a US Navy base in Bahrain. The strike hit an empty warehouse, causing no casualties but highlighting Iran's continued offensive operations against US military assets in the region. This incident underscores the escalating tensions and direct confrontations between Iran and the US in the Gulf.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "offensive",
+      "missile",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US Navy",
+        "US Central Command"
+      ],
+      "location": "Bahrain",
+      "brief": "Iran's direct missile strike on a US Navy base in Bahrain, despite causing no casualties, represents a significant escalation in direct military confrontation between the two nations in the Gulf region."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "e0b9944dbeb5ddb9",
+    "title_original": "Конгрессмен назвал удары США по Ирану войной по собственному выбору",
+    "content_original": "Конгрессмен назвал удары США по Ирану войной по собственному выбору",
+    "url": "https://ria.ru/20260228/udary-2077495755.html",
+    "published": "2026-02-28T19:18:32+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Congressman Calls US Strikes on Iran a War of Choice",
+    "relevant": true,
+    "summary_en": "A US Congressman has characterized the recent US strikes on Iran as a war initiated by choice. This statement reflects ongoing debates within the US government about the justification and strategic implications of the military actions against Iran. The comment underscores the complex political dimensions of the conflict and its potential ramifications for US policy in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The strikes represent a significant escalation in direct US military action against Iran, with potential strategic implications for regional stability and ongoing conflict dynamics."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "3b45989e68e29eef",
     "title_original": "ОАЭ успешно отразили третью за день волну иранских ракет",
     "content_original": "ОАЭ успешно отразили третью за день волну иранских ракет",
@@ -627,6 +965,43 @@
     },
     "lat": 29.2202681,
     "lng": 47.9551556
+  },
+  {
+    "id": "af71ac79a083d38a",
+    "title_original": "פצועים בדובאי, מלון נפגע מכטב\"ם איראני | תיעוד",
+    "content_original": "איראן שיגרה טילים וכטב\"מים למדינות המפרץ, ופגעה במלון בדובאי. התקשורת האמירתית דיווחה על ארבעה פצועים. מוקדם יותר דווח על הרוג באבו דאבי",
+    "url": "https://www.ynet.co.il/news/article/bytom5lk11x",
+    "published": "2026-02-28T18:22:34+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian missile and drone strike hits Dubai hotel, causing casualties",
+    "relevant": true,
+    "summary_en": "Iran launched missiles and drones targeting Gulf states, striking a hotel in Dubai and injuring four people. Earlier reports indicated one fatality in Abu Dhabi. This attack demonstrates Iran's continued efforts to strike at regional US allies and disrupt Gulf stability.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "US allies in the Gulf region"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "Iran's missile and drone strike on a Dubai hotel demonstrates a direct attack on a US-allied state, posing a significant threat to regional stability and signaling Iran's intent to target US interests through regional proxies and direct action."
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "401b5f3f5ff055e7",
@@ -2224,6 +2599,219 @@
     "lng": 36.29
   },
   {
+    "id": "39a7a20997273e6d",
+    "title_original": "🇧🇭 🇮🇷 ⚡️ - Scenes from Manama, Bahrain showing an Iranian suicide drone hitting an apartment building.",
+    "content_original": "🇧🇭 🇮🇷 ⚡️ - Scenes from Manama, Bahrain showing an Iranian suicide drone hitting an apartment building.",
+    "url": "https://t.me/CIG_telegram/69634",
+    "published": "2026-02-28T16:50:09+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian suicide drone hits apartment building in Manama, Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian suicide drone struck an apartment building in Manama, Bahrain, marking an escalation of hostilities in the Gulf region. This attack demonstrates Iran's willingness to target civilian infrastructure in areas with significant US military presence. The incident is likely to prompt a swift response from US forces stationed in Bahrain and escalate regional tensions.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "suicide",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Bahrain"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "The Iranian drone strike on a civilian apartment building in Bahrain, a location with significant US military presence, represents a direct escalation targeting US interests and infrastructure in the Gulf region."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "0c8082592534aca8",
+    "title_original": "IRGC launches new wave of retaliatory missile strikes on US bases across region",
+    "content_original": "IRGC launches new wave of retaliatory missile strikes on US bases across region",
+    "url": "https://presstv.ir/Detail/2026/02/28/764837/irgc-launches-new-wave-attacks-us-bases-region",
+    "published": "2026-02-28T16:49:46.314784+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC launches new wave of retaliatory missile strikes on US bases across region",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC has initiated another round of missile attacks targeting US military bases in the region, likely in response to previous US strikes on Iranian assets. This escalation indicates ongoing hostilities and direct engagement between Iran and US forces. The strategic significance includes heightened risks of further escalation and potential impacts on regional stability.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "US military bases across the region",
+      "brief": "The IRGC's missile strikes on US bases mark a direct escalation in hostilities, posing significant risks of further escalation and regional instability."
+    },
+    "lat": 45.6577432,
+    "lng": -68.7105289
+  },
+  {
+    "id": "43046d6de195efea",
+    "title_original": "⚡️ #BREAKING  Iranian strike hits building in Bahrain",
+    "content_original": "⚡️ #BREAKING Iranian strike hits building in Bahrain",
+    "url": "https://t.me/warmonitors/40064",
+    "published": "2026-02-28T16:49:08+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian strike hits building in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a strike targeting a building in Bahrain, marking an escalation of hostilities in the Gulf region. This attack directly involves Bahrain, a key US ally hosting American naval assets. The strike signifies Iran's intent to expand the conflict beyond its immediate borders and target US interests in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Bahrain",
+      "brief": "Iran's strike on a building in Bahrain, a key US ally hosting American naval assets, signifies an escalation targeting US interests in the Gulf region."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "e6d56a51b9ce6f8e",
+    "title_original": "🚨  ویدیویی با عنوان حمله موشکی به زنجان ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و ...",
+    "content_original": "🚨 ویدیویی با عنوان حمله موشکی به زنجان ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44856",
+    "published": "2026-02-28T16:47:57+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile Attack on Zanjan",
+    "relevant": true,
+    "summary_en": "An unspecified missile attack has reportedly targeted Zanjan, a city in Iran. This incident is significant as it suggests ongoing hostilities within Iranian territory amidst the broader US-Iran conflict. The attack's impact on infrastructure, casualties, and Iran's response will be critical to monitor for further escalation.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Iraqi proxies"
+      ],
+      "location": "Zanjan, Iran",
+      "brief": "The missile attack on Zanjan, likely conducted by Iranian proxies, signals an escalation in internal hostilities and potential instability within Iran amid the broader US-Iran conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "eda3d5eba421d264",
+    "title_original": "🇺🇸 🇮🇷 ⚡️ - Scences from Zanjan, north western Iran shows strikes against ballistic missile infrastructure.",
+    "content_original": "🇺🇸 🇮🇷 ⚡️ - Scences from Zanjan, north western Iran shows strikes against ballistic missile infrastructure.",
+    "url": "https://t.me/CIG_telegram/69633",
+    "published": "2026-02-28T16:47:33+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "US strikes target ballistic missile infrastructure in Zanjan, northwestern Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US has conducted strikes against ballistic missile infrastructure in Zanjan, northwestern Iran. This action is part of ongoing efforts to degrade Iran's missile capabilities amid the conflict. The strikes on missile facilities are strategically significant as they aim to limit Iran's ability to launch further attacks against US forces and interests in the region.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Zanjan, northwestern Iran",
+      "brief": "The US strikes on ballistic missile infrastructure in Zanjan are a strategic move to degrade Iran's missile capabilities and reduce the threat to US forces and interests in the region."
+    },
+    "lat": 36.515854,
+    "lng": 48.4777616
+  },
+  {
+    "id": "f6b3863fdcd8431a",
+    "title_original": "— ❗️ 🇮🇷 / 🇺🇸 / 🇧🇭  NEW:  New Iranian missile impacts in Bahrain @Middle_East_Spectator",
+    "content_original": "— ❗️ 🇮🇷 / 🇺🇸 / 🇧🇭 NEW: New Iranian missile impacts in Bahrain @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69632",
+    "published": "2026-02-28T16:46:00+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "New Iranian missile impacts in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has launched missiles impacting Bahrain, marking an escalation in the conflict as Bahrain hosts US military assets. This attack signifies Iran's intent to target US allies and regional bases. The incident will likely prompt a swift response from US CENTCOM and its regional partners.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US CENTCOM"
+      ],
+      "location": "Bahrain",
+      "brief": "Iran's ballistic missile attack on Bahrain, which hosts US military assets, represents a significant escalation targeting US regional presence and allies."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "ebd09be775d3274a",
     "title_original": "Армия Израиля сообщила о новом залпе ракет со стороны Ирана",
     "content_original": "В нескольких районах страны объявлена воздушная тревога",
@@ -2293,6 +2881,73 @@
     },
     "lat": 32.79,
     "lng": 34.99
+  },
+  {
+    "id": "8476a14474505957",
+    "title_original": "Explosions in Dubai  @PressTV",
+    "content_original": "Explosions in Dubai @PressTV",
+    "url": "https://t.me/presstv/177251",
+    "published": "2026-02-28T16:36:34+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Explosions in Dubai reported by PressTV",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Explosions have occurred in Dubai, a major city in the UAE. This is significant as the UAE hosts US military bases and is a critical ally in the ongoing conflict with Iran. The incident could indicate an escalation or retaliatory attack by Iranian proxies or IRGC elements.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The explosions in Dubai, a city hosting US military bases and a key ally in the Iran–US conflict, suggest a potential escalation or retaliatory attack by Iranian proxies or IRGC elements, posing a significant threat to regional stability and US interests."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "c30f11cdc5743cb6",
+    "title_original": "🇮🇷 ⚔️ 🇮🇱  Iran claims to have shot down 5 Israeli Hermes-900 drones @CIG_telegram",
+    "content_original": "🇮🇷 ⚔️ 🇮🇱 Iran claims to have shot down 5 Israeli Hermes-900 drones @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69628",
+    "published": "2026-02-28T16:34:55+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iran claims to have shot down 5 Israeli Hermes-900 drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran asserts it has downed five Israeli Hermes-900 drones, indicating ongoing tensions and potential escalation between Iran and Israel. This incident likely occurred in or near Iranian airspace, showcasing Iran's air defense capabilities and its readiness to counter Israeli surveillance or strike operations. The strategic significance involves the ongoing shadow war between the two nations, with potential implications for regional stability and the broader conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "war",
+      "air defense",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "71ef81df54fc6bb9",
@@ -2433,6 +3088,71 @@
     },
     "lat": 29.0,
     "lng": 54.0
+  },
+  {
+    "id": "ce46fda2b2688cb3",
+    "title_original": "Israel's Channel 15: Iran has targeted Tel Aviv with multi-warhead missiles @PressTV",
+    "content_original": "Israel's Channel 15: Iran has targeted Tel Aviv with multi-warhead missiles @PressTV",
+    "url": "https://t.me/presstv/177248",
+    "published": "2026-02-28T16:25:29+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran targets Tel Aviv with multi-warhead missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has launched multi-warhead missiles targeting Tel Aviv, Israel. This represents a significant escalation in the conflict, demonstrating Iran's capability to strike deep into Israeli territory. The attack is likely to prompt a strong Israeli response and raises concerns about regional escalation.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "warhead",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strike on Tel Aviv marks a significant escalation, demonstrating advanced missile capabilities and posing a direct threat to Israeli territory, with high potential for regional escalation."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "c622c06c54fd23e6",
+    "title_original": "برخورد پهپاد ایرانی به منطقه ای در دوبی",
+    "content_original": "برخورد پهپاد ایرانی به منطقه ای در دوبی",
+    "url": "https://www.irna.ir/news/86089712/%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%88%D8%A8%DB%8C",
+    "published": "2026-02-28T16:19:02+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iranian Drone hits area in Dubai",
+    "relevant": true,
+    "summary_en": "An Iranian drone struck a location in Dubai, likely escalating tensions in the Gulf region. This incident directly involves UAE territory and could provoke a response from US forces stationed in the area. The strike demonstrates Iran's continued use of drones to target regional adversaries and US allies.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "528fc23bcffdd1cb",
@@ -4801,6 +5521,36 @@
     },
     "lat": 29.0,
     "lng": 54.0
+  },
+  {
+    "id": "d580087824341479",
+    "title_original": "Explosion at Dubai landmark The Palm: witnesses",
+    "content_original": "Two witnesses told AFP they heard an explosion and saw a plume of smoke rising from Dubai's famed man-made island The Palm as authorities reported four injured. The attack came as Iran carried out retaliatory strikes in the oil-rich Gulf following US and Israeli attacks -- rattling a region long seen as a haven of peace and security. One of the witnesses said he saw thick black smoke rising from a hotel on the Palm and heard ambulances rushing towards the scene.",
+    "url": "https://www.al-monitor.com/originals/2026/02/explosion-dubai-landmark-palm-witnesses",
+    "published": "2026-02-28T11:30:20-05:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Explosion at Dubai landmark The Palm",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An explosion occurred at Dubai's Palm Jumeirah, injuring four people. This incident comes amid escalating tensions as Iran retaliates against US and Israeli attacks in the Gulf region. The attack highlights the potential for regional instability and the spillover of the Iran-US conflict into areas previously considered secure.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "d45ce86033d46bfa",
