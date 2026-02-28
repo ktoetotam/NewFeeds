@@ -1,10 +1,12 @@
 import Header from "@/components/Header";
 import ExecutiveSummary from "@/components/ExecutiveSummary";
-import { getExecutiveSummary, getThreatLevel } from "@/lib/data";
+import { getExecutiveSummary, getThreatLevel, getArchiveIndex } from "@/lib/data";
+import Link from "next/link";
 
 export default function SummaryPage() {
   const summary = getExecutiveSummary();
   const threatLevel = getThreatLevel();
+  const archiveCount = getArchiveIndex().length;
 
   return (
     <>
@@ -19,15 +21,44 @@ export default function SummaryPage() {
           padding: "24px 24px 48px",
         }}
       >
-        <h2
+        <div
           style={{
-            fontSize: 24,
-            fontWeight: 700,
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+            flexWrap: "wrap",
+            gap: 12,
             marginBottom: 6,
           }}
         >
-          Executive Summary
-        </h2>
+          <h2
+            style={{
+              fontSize: 24,
+              fontWeight: 700,
+            }}
+          >
+            Executive Summary
+          </h2>
+          {archiveCount > 0 && (
+            <Link
+              href="/summary/archives"
+              style={{
+                fontSize: 13,
+                fontWeight: 600,
+                color: "var(--color-text-muted)",
+                textDecoration: "none",
+                padding: "6px 14px",
+                border: "1px solid var(--color-border)",
+                borderRadius: 6,
+                display: "flex",
+                alignItems: "center",
+                gap: 6,
+              }}
+            >
+              🗄️ Archives ({archiveCount})
+            </Link>
+          )}
+        </div>
         <p
           style={{
             fontSize: 13,

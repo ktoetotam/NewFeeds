@@ -13,6 +13,7 @@ Or called from run_pipeline.py as Step 7.
 import json
 import logging
 import os
+import shutil
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -33,6 +34,9 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_DIR = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_DIR / "data"
 FEEDS_DIR = DATA_DIR / "feeds"
+ARCHIVE_DIR = DATA_DIR / "summary_archive"
+
+MAX_ARCHIVE_FILES = 100  # keep last 100 versions
 
 SYSTEM_PROMPT = """You are a senior intelligence analyst producing an executive briefing on the Iran–United States armed conflict (2026) and all connected fronts (Israel, Houthis, Hezbollah, IRGC proxies, Gulf states).
 
@@ -386,6 +390,86 @@ def build_fallback_summary(attacks: list[dict], threat: dict) -> dict:
     }
 
 
+def archive_current_summary(output_path: Path, archive_dir: Path | None = None) -> Path | None:
+    """Archive the current executive_summary.json before overwriting.
+
+    Files are stored as summary_archive/YYYY-MM-DDTHH-MM-SS.json.
+    Old archives beyond MAX_ARCHIVE_FILES are pruned.
+    """
+    if not output_path.exists():
+        return None
+
+    ad = archive_dir or ARCHIVE_DIR
+    ad.mkdir(parents=True, exist_ok=True)
+
+    try:
+        with open(output_path, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+        ts = existing.get("generated_at", "")
+    except (json.JSONDecodeError, IOError):
+        ts = ""
+
+    if ts:
+        # Sanitize ISO timestamp for filename: replace colons, strip microseconds
+        safe_ts = ts.replace(":", "-").replace("+", "_plus_")
+        archive_name = f"{safe_ts}.json"
+    else:
+        archive_name = f"{datetime.now(timezone.utc).strftime('%Y-%m-%dT%H-%M-%S')}.json"
+
+    dest = ad / archive_name
+    if dest.exists():
+        logger.debug(f"Archive already exists: {dest}")
+        return dest
+
+    shutil.copy2(output_path, dest)
+    logger.info(f"Archived previous summary to {dest}")
+
+    # Prune old archives
+    archives = sorted(ad.glob("*.json"))
+    while len(archives) > MAX_ARCHIVE_FILES:
+        old = archives.pop(0)
+        old.unlink()
+        logger.info(f"Pruned old archive: {old.name}")
+
+    return dest
+
+
+def build_archive_index(archive_dir: Path | None = None, output_path: Path | None = None) -> list[dict]:
+    """Build an index of all archived summaries for the frontend.
+
+    Saves a summary_archive/index.json with lightweight metadata per version.
+    Returns the index list.
+    """
+    ad = archive_dir or ARCHIVE_DIR
+    if not ad.exists():
+        return []
+
+    index = []
+    for fp in sorted(ad.glob("*.json"), reverse=True):
+        if fp.name == "index.json":
+            continue
+        try:
+            with open(fp, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            index.append({
+                "filename": fp.name,
+                "generated_at": data.get("generated_at", ""),
+                "threat_label": data.get("threat_snapshot", {}).get("label", ""),
+                "threat_level": data.get("threat_snapshot", {}).get("level", 0),
+                "trend": data.get("threat_snapshot", {}).get("trend", ""),
+                "incident_count_24h": data.get("threat_snapshot", {}).get("incident_count_24h", 0),
+                "summary_preview": (data.get("executive_summary", "") or "")[:200],
+            })
+        except (json.JSONDecodeError, IOError):
+            continue
+
+    idx_path = output_path or ad / "index.json"
+    with open(idx_path, "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+    logger.info(f"Archive index ({len(index)} entries) saved to {idx_path}")
+    return index
+
+
 def generate_and_save(
     attacks: list[dict] | None = None,
     threat: dict | None = None,
@@ -411,6 +495,9 @@ def generate_and_save(
         output_path = DATA_DIR / "executive_summary.json"
 
     output_path = Path(output_path)
+
+    # Archive existing summary before overwriting
+    archive_current_summary(output_path)
 
     logger.info(
         f"Generating executive summary from {len(attacks)} attacks, "
@@ -454,6 +541,9 @@ def generate_and_save(
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(summary_data, f, ensure_ascii=False, indent=2)
     logger.info(f"Executive summary saved to {output_path}")
+
+    # Rebuild archive index
+    build_archive_index()
 
     return summary_data
 
