@@ -29,19 +29,18 @@ export default function AttackMonitor({
           (a) => a.classification?.severity === severityFilter
         );
 
-  // Build numberedAttacks: only geocoded attacks get a 1-based map number
+  // Build numberedAttacks: every attack gets a sequential number so the list is never missing badges.
+  // Attacks with coordinates will also appear on the map with the same number.
   const numberedAttacks: NumberedAttack[] = useMemo(() => {
-    let mapNum = 0;
-    return filtered.map((a) => {
-      const hasCoords =
-        a.lat != null && a.lng != null && a.classification?.is_attack;
-      return { attack: a, index: hasCoords ? ++mapNum : undefined! };
-    });
+    return filtered.map((a, i) => ({ attack: a, index: i + 1 }));
   }, [filtered]);
 
-  // Subset that actually appears on the map (has index)
+  // Subset that actually appears on the map (has coordinates)
   const mappedAttacks = useMemo(
-    () => numberedAttacks.filter((na) => na.index != null),
+    () =>
+      numberedAttacks.filter(
+        (na) => na.attack.lat != null && na.attack.lng != null
+      ),
     [numberedAttacks]
   );
 
@@ -178,10 +177,14 @@ export default function AttackMonitor({
                 else cardRefs.current.delete(na.attack.id);
               }}
               article={na.attack}
-              index={na.index != null ? na.index : undefined}
+              index={na.index}
               isSelected={na.attack.id === selectedAttackId}
               onSelect={() => handleSelectFromList(na.attack.id)}
-              onCircleClick={na.index != null ? () => handleCircleClick(na.attack.id) : undefined}
+              onCircleClick={
+                na.attack.lat != null && na.attack.lng != null
+                  ? () => handleCircleClick(na.attack.id)
+                  : undefined
+              }
             />
           ))
         ) : (

@@ -204,46 +204,64 @@ def geocode_location(loc: str) -> tuple[float, float] | None:
     return None
 
 
-def main():
-    attacks_path = pathlib.Path(__file__).parent.parent / "data" / "attacks.json"
-    attacks = json.loads(attacks_path.read_text())
-    
+def geocode_attacks(attacks: list[dict], logger=None) -> list[dict]:
+    """Add lat/lng to attacks that have a location but no coordinates yet.
+
+    This is the main entry-point used by run_pipeline.py.
+    Returns the same list with coordinates filled in where possible.
+    """
+    import logging as _logging
+    log = logger or _logging.getLogger("geocode")
+
     total = len(attacks)
     already = sum(1 for a in attacks if a.get("lat") is not None)
-    print(f"Total attacks: {total}, already geocoded: {already}")
-    
+    log.info(f"Geocoder: {total} attacks, {already} already have coords")
+
     geocoded = 0
     failed = []
-    
+
     for attack in attacks:
         if attack.get("lat") is not None and attack.get("lng") is not None:
             continue
-        
+
         location = (attack.get("classification") or {}).get("location", "").strip()
         if not location or location.lower() in SKIP:
             failed.append(("(no location)", attack))
             continue
-        
+
         coords = geocode_location(location)
         if coords:
             attack["lat"] = coords[0]
             attack["lng"] = coords[1]
-            print(f"OK: '{location}' -> {coords[0]:.4f}, {coords[1]:.4f}")
+            log.info(f"Geocoded '{location}' -> {coords[0]:.4f}, {coords[1]:.4f}")
             geocoded += 1
         else:
-            print(f"MISS: '{location}'")
+            log.warning(f"Geocode MISS: '{location}'")
             failed.append((location, attack))
-    
-    attacks_path.write_text(json.dumps(attacks, ensure_ascii=False, indent=2))
-    
-    print(f"\nDone. Geocoded {geocoded} new attacks.")
-    print(f"Total with coords now: {already + geocoded}/{total}")
-    
+
+    log.info(f"Geocoded {geocoded} new attacks. Total with coords: {already + geocoded}/{total}")
+
     if failed:
-        print(f"\nStill missing ({len(failed)}):")
+        log.info(f"Still missing coords ({len(failed)}):")
         for loc, a in failed:
             title = (a.get("title_en") or a.get("title_original", ""))[:70]
-            print(f"  '{loc}' -- {title}")
+            log.info(f"  '{loc}' -- {title}")
+
+    return attacks
+
+
+def main():
+    """Standalone CLI entry-point."""
+    import logging as _logging
+    _logging.basicConfig(level=_logging.INFO, format="%(message)s")
+
+    attacks_path = pathlib.Path(__file__).parent.parent / "data" / "attacks.json"
+    attacks = json.loads(attacks_path.read_text())
+
+    attacks = geocode_attacks(attacks)
+
+    attacks_path.write_text(json.dumps(attacks, ensure_ascii=False, indent=2))
+    print("Done.")
 
 
 if __name__ == "__main__":
