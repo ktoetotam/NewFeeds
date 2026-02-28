@@ -1,10 +1,10 @@
 name: Fetch News & Deploy
 
 on:
-  schedule:
-    # Every 15 minutes
-    - cron: '*/15 * * * *'
-  workflow_dispatch: # Manual trigger
+  # schedule:
+  #   # Every 15 minutes
+  #   - cron: '*/15 * * * *'
+  workflow_dispatch: # Manual trigger only
 
 concurrency:
   group: fetch-and-deploy
