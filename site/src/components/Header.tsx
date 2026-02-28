@@ -35,28 +35,64 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
           gap: 12,
         }}
       >
-        <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
-          <h1 style={{ fontSize: 20, fontWeight: 700, letterSpacing: -0.5 }}>
-            <span style={{ color: "#ef4444" }}>&#9673;</span> Iran &amp; Region
-            Monitor
-          </h1>
-          <nav style={{ display: "flex", gap: 16, fontSize: 14 }}>
-            <Link href="/" style={{ color: "var(--color-text-muted)" }}>
-              News Feed
-            </Link>
-            <Link
-              href="/attacks"
-              style={{ color: "var(--color-text-muted)" }}
-            >
-              Attack Monitor
-            </Link>
-            <Link
-              href="/summary"
-              style={{ color: "var(--color-text-muted)" }}
-            >
-              Executive Summary
-            </Link>
-          </nav>
+        <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
+          <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
+            <h1 style={{ fontSize: 20, fontWeight: 700, letterSpacing: -0.5 }}>
+              <span style={{ color: "#ef4444" }}>&#9673;</span> Iran &amp; Region
+              Monitor
+            </h1>
+            <nav style={{ display: "flex", gap: 16, fontSize: 14 }}>
+              <Link href="/" style={{ color: "var(--color-text-muted)" }}>
+                News Feed
+              </Link>
+              <Link
+                href="/attacks"
+                style={{ color: "var(--color-text-muted)" }}
+              >
+                Attack Monitor
+              </Link>
+              <Link
+                href="/summary"
+                style={{ color: "var(--color-text-muted)" }}
+              >
+                Executive Summary
+              </Link>
+            </nav>
+          </div>
+          {/* Attribution & support */}
+          <div
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: 8,
+              fontSize: 13,
+              color: "var(--color-text-muted)",
+            }}
+          >
+            <span>
+              Created by{" "}
+              <a
+                href="https://www.airealist.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: "#f97316", fontWeight: 600, textDecoration: "none" }}
+              >
+                AI Realist
+              </a>
+            </span>
+            <span style={{ color: "var(--color-border)" }}>|</span>
+            <span>
+              To support this project{" "}
+              <a
+                href="https://msukhareva.substack.com/subscribe"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ color: "#f97316", fontWeight: 600, textDecoration: "none" }}
+              >
+                subscribe to AI Realist newsletter
+              </a>
+            </span>
+          </div>
         </div>
 
         <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
@@ -110,6 +146,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
           )}
         </div>
       </div>
+
     </header>
   );
 }
