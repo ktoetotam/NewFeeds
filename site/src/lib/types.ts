@@ -7,7 +7,7 @@ export interface Article {
   url: string;
   published: string;
   source_name: string;
-  source_category: "state" | "state-aligned" | "proxy" | "unknown";
+  source_category: "state" | "state-aligned" | "proxy" | "independent" | "unknown";
   language: string;
   region: string;
   translated: boolean;

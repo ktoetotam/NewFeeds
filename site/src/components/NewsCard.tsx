@@ -14,6 +14,7 @@ export default function NewsCard({ article }: NewsCardProps) {
     state: "State",
     "state-aligned": "State-aligned",
     proxy: "Proxy",
+    independent: "Independent",
   };
 
   return (

@@ -454,7 +454,7 @@ regions:
       # ── Telegram channels ──
       # Only channels with public web preview (t.me/s/) work without a Bot API token.
       # @C_Media_h, @M_Media_Y, @Qassam_English have preview disabled —
-      # to enable them, upgrade to Telethon (see README) and uncomment below.
+      # to enable them, set up a Telegram Bot (see README) and uncomment below.
 
       - name: "Islamic Resistance Iraq (TG)"
         type: telegram
@@ -493,7 +493,7 @@ regions:
       - name: "Xinhua English"
         type: rss
         language: en
-        url: "http://www.xinhuanet.com/english/rss/worldrss.xml"
+        url: "https://www.xinhuanet.com/english/rss/worldrss.xml"
         category: state
         skip_translation: true
 
