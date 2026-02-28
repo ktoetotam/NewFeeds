@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-02-28T21-13-31.399957_plus_00-00.json",
+    "generated_at": "2026-02-28T21:13:31.399957+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 114,
+    "summary_preview": "The Iran–US conflict has escalated to a critical level, with direct military engagements between Iran, the US, and Israel, including missile barrages, airstrikes, and naval incidents. The conflict has"
+  },
+  {
     "filename": "2026-02-28T20-18-55.771562_plus_00-00.json",
     "generated_at": "2026-02-28T20:18:55.771562+00:00",
     "threat_label": "MAJOR",
