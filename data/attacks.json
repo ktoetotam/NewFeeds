@@ -1,5 +1,355 @@
 [
   {
+    "id": "3b45989e68e29eef",
+    "title_original": "ОАЭ успешно отразили третью за день волну иранских ракет",
+    "content_original": "ОАЭ успешно отразили третью за день волну иранских ракет",
+    "url": "https://ria.ru/20260228/oae-2077493868.html",
+    "published": "2026-02-28T19:07:00+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE Successfully Repel Third Wave of Iranian Missiles in One Day",
+    "relevant": true,
+    "summary_en": "The UAE intercepted and repelled a third wave of Iranian missiles targeting their territory within a single day. This incident highlights the ongoing escalation of hostilities in the Gulf region, with Iran continuing its missile campaign against the UAE. The successful defense by UAE air defenses underscores the critical role of missile defense systems in protecting critical infrastructure and population centers amidst the conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "Iran's missile attacks on the UAE signal an escalation in regional hostilities, demonstrating Iran's willingness to target US allies in the Gulf despite active missile defense systems."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "ccff552bf282dd72",
+    "title_original": "Четыре человека пострадали при падении иранской ракеты в Дубае",
+    "content_original": "Власти Дубая подтвердили информацию о пожаре в курортном районе Палм-Джумейра. По предварительным данным, там упала иранская ракета или БПЛА.",
+    "url": "https://www.kommersant.ru/doc/8477214",
+    "published": "2026-02-28T19:05:32+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Four injured as Iranian missile or drone crashes in Dubai",
+    "relevant": true,
+    "summary_en": "An Iranian missile or drone struck the Palm Jumeirah resort area in Dubai, causing a fire and injuring four people. This incident highlights the risk to civilian infrastructure as the conflict escalates, with potential implications for regional stability and international response.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "The incident demonstrates Iran's willingness to target civilian infrastructure in the region, escalating tensions and posing a risk to regional stability."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "1130c66318baedfc",
+    "title_original": "При ударе по школе на юге Ирана могли погибнуть до 160 человек",
+    "content_original": "При ударе по школе на юге Ирана могли погибнуть до 160 человек",
+    "url": "https://ria.ru/20260228/shkola-2077492550.html",
+    "published": "2026-02-28T19:02:44+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Up to 160 killed in strike on school in southern Iran",
+    "relevant": true,
+    "summary_en": "An attack on a school in southern Iran resulted in up to 160 casualties. The incident's details, including the perpetrator and the nature of the strike, are not specified but are likely linked to ongoing hostilities. This event could escalate tensions and provoke a response from Iran, impacting the conflict's trajectory.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "southern Iran",
+      "brief": "The attack on a school in southern Iran, resulting in up to 160 casualties, is likely to escalate regional tensions and provoke a response from Iran, impacting the conflict's trajectory."
+    },
+    "lat": 29.0,
+    "lng": 54.0
+  },
+  {
+    "id": "a3f372db4ae5656c",
+    "title_original": "МИД Ирана: после удара по школе на юге страны могли погибнуть до 160 человек",
+    "content_original": "МИД Ирана: после удара по школе на юге страны могли погибнуть до 160 человек",
+    "url": "https://tass.ru/proisshestviya/26591651",
+    "published": "2026-02-28T18:58:12+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Foreign Ministry reports up to 160 casualties in school strike in southern Iran",
+    "relevant": true,
+    "summary_en": "The Iranian Foreign Ministry stated that a strike on a school in southern Iran resulted in up to 160 casualties. This incident highlights the ongoing conflict's impact on civilian infrastructure and raises concerns about potential escalation. The specific perpetrator of the strike remains unclear, but it adds to the humanitarian consequences of the conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Unknown (perpetrator)"
+      ],
+      "location": "southern Iran",
+      "brief": "The strike on a school in southern Iran resulting in up to 160 casualties signifies a significant escalation with direct impact on civilian infrastructure, potentially leading to heightened tensions and retaliatory actions in the Iran–US conflict."
+    },
+    "lat": 29.0,
+    "lng": 54.0
+  },
+  {
+    "id": "a2c620a932a01cc2",
+    "title_original": "ТАСС показал видео последствий падения ракеты рядом с отелем в Дубае",
+    "content_original": "На кадрах видно сильное возгорание и столб черного дыма",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591505",
+    "published": "2026-02-28T18:55:55+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile Strike Causes Fire Near Hotel in Dubai",
+    "relevant": true,
+    "summary_en": "A missile strike resulted in a large fire and a plume of black smoke near a hotel in Dubai. This incident highlights the ongoing regional instability and potential escalation of hostilities affecting civilian infrastructure. The strategic significance lies in the potential impact on international perceptions and the safety of civilians in the UAE amidst the conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthi/Ansar Allah",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The missile strike on Dubai, likely by Houthi forces, demonstrates the regional spillover of the Iran–US conflict and the potential for increased instability in the UAE, a key US ally."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "be03129ba334a6b1",
+    "title_original": "В центральном штабе войск ПВО Ирана подтвердили удары по 14 военным базам США",
+    "content_original": "В центральном штабе войск ПВО Ирана подтвердили удары по 14 военным базам США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591611",
+    "published": "2026-02-28T18:53:33+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Air Defense Command Confirms Strikes on 14 US Military Bases",
+    "relevant": true,
+    "summary_en": "The Iranian Air Defense Command has confirmed that Iran launched strikes targeting 14 US military bases. This indicates a significant escalation in the ongoing conflict, showcasing Iran's continued offensive operations against US assets in the region. The strikes likely involved ballistic missiles and drones, reflecting Iran's capability to target US military infrastructure across multiple locations.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "offensive",
+      "conflict",
+      "ballistic",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "14 US military bases",
+      "brief": "Iran's coordinated ballistic missile and drone strikes on 14 US military bases mark a critical escalation, demonstrating significant offensive capability and intent to target US military infrastructure directly."
+    },
+    "lat": 42.9663688,
+    "lng": -0.0852324
+  },
+  {
+    "id": "a893beaaf3ed1d21",
+    "title_original": "Удары США и Израиля по Ирану и атаки на базы Вашингтона. Эскалация на Ближнем Востоке",
+    "content_original": "Израильский МИД утром заявил, что еврейское государство нанесло \"превентивный удар по Ирану с целью устранения угрозы\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591537",
+    "published": "2026-02-28T18:52:39+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israel Strike Iran Amid Escalation in Middle East",
+    "relevant": true,
+    "summary_en": "Israel's Foreign Ministry announced a 'preventive strike' on Iran to eliminate threats, indicating a significant escalation in the ongoing conflict. The US is also involved in coordinated attacks on Iranian targets. This development marks a dangerous expansion of hostilities with potential regional implications.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The coordinated airstrikes by the US and Israel on Iran mark a critical escalation, indicating direct state engagement and a significant expansion of the conflict with potential regional implications."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "ee545b4772ea82fc",
+    "title_original": "Аэропорт Шарджи в ОАЭ прекратил работу из-за ракетной атаки Ирана",
+    "content_original": "Международный аэропорт Шарджи в ОАЭ остановил прием и отправку рейсов «до дальнейшего уведомления в рамках действующих превентивных мер». Об этом сообщили в Ассоциации туроператоров (АТОР).",
+    "url": "https://www.kommersant.ru/doc/8477210",
+    "published": "2026-02-28T18:50:31+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Sharjah Airport in UAE Suspends Operations Due to Iranian Missile Attack",
+    "relevant": true,
+    "summary_en": "Iran launched a missile attack targeting Sharjah Airport in the UAE, prompting the airport to halt flight operations indefinitely as a precautionary measure. This incident highlights the escalating regional tensions and direct threats to critical infrastructure in the UAE amidst the ongoing Iran-US conflict. The attack's strategic significance lies in disrupting civilian aviation and potentially deterring further international engagement in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "US (indirect)"
+      ],
+      "location": "Sharjah Airport, UAE",
+      "brief": "Iran's missile attack on Sharjah Airport in the UAE demonstrates direct targeting of critical infrastructure in a US-aligned nation, escalating regional tensions and posing a strategic threat to international engagement."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "e01ddd4e4a11855a",
+    "title_original": "Над Белгородом отразили ракетную атаку",
+    "content_original": "Над Белгородом отразили ракетную атаку",
+    "url": "https://ria.ru/20260228/ataka-2077491041.html",
+    "published": "2026-02-28T18:50:20+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile attack intercepted over Belgorod",
+    "relevant": true,
+    "summary_en": "An unknown party launched a missile attack targeting Belgorod, Russia, which was successfully intercepted. This incident is significant as it indicates potential escalation or spillover of regional conflicts into Russian territory, though attribution and motives remain unclear.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Russia",
+        "Unknown"
+      ],
+      "location": "Belgorod, Russia",
+      "brief": "The missile attack on Belgorod, while not directly related to the Iran–US conflict, suggests potential regional escalation and spillover risks that could indirectly impact the conflict dynamics."
+    },
+    "lat": 50.5955595,
+    "lng": 36.5873394
+  },
+  {
+    "id": "9bfdb82aa457164f",
+    "title_original": "Иран нанес ракетный удар по Тель-Авиву, пишет Tasnim",
+    "content_original": "Иран нанес ракетный удар по Тель-Авиву, пишет Tasnim",
+    "url": "https://ria.ru/20260228/tasnim-2077490437.html",
+    "published": "2026-02-28T18:48:15+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran launches missile strike on Tel Aviv",
+    "relevant": true,
+    "summary_en": "Iran's IRGC reportedly launched a missile strike targeting Tel Aviv, Israel. This represents a significant escalation in the conflict, demonstrating Iran's willingness to directly target Israeli population centers. The strike will likely prompt a strong Israeli military response and draw further international attention to the escalating regional conflict.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "irgc",
+      "missile",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's direct missile strike on Tel Aviv marks a significant escalation, demonstrating Iran's intent to target Israeli population centers and escalating the regional conflict."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
     "id": "791bbbd603cddbd8",
     "title_original": "Tasnim: Иран ударил ракетами по Тель-Авиву",
     "content_original": "Tasnim: Иран ударил ракетами по Тель-Авиву",
@@ -377,7 +727,9 @@
       ],
       "location": "Middle East US military bases",
       "brief": "The IRGC's announcement of missile attacks on US bases in the Middle East marks a critical escalation, posing a direct threat to US assets and signaling potential for expanded military engagement."
-    }
+    },
+    "lat": 39.3014159,
+    "lng": -76.5888477
   },
   {
     "id": "84f4f49c9df9bb54",
@@ -767,6 +1119,40 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "ec0c5b3835099d0c",
+    "title_original": "איראן טוענת: \"85 נהרגו בתקיפת בית ספר\" | דיווחים על כאוס בטהרן ומחסור במזון",
+    "content_original": "הרשויות הודיעו כי בית ספר לבנות בדרום איראן נפגע בתקיפות וטענו כי עשרות נהרגו - בישראל בודקים את הדיווחים. במערב דווח על כאוס בטהרן ועל תורי ענק בתחנות הדלק, בשל רצון של תושבים לעזוב. במקביל: הפגנות תמיכה במשטר",
+    "url": "https://www.ynet.co.il/news/article/rjgqnvlkzx",
+    "published": "2026-02-28T17:51:22+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran claims 85 killed in school attack | Reports of chaos in Tehran and fuel shortages",
+    "relevant": true,
+    "summary_en": "Iran alleges that a girls' school in southern Iran was hit in an attack, claiming dozens were killed, with Israel investigating the reports. Chaos is reported in Tehran with long lines at fuel stations as residents attempt to flee, while pro-regime demonstrations occur simultaneously.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "southern Iran",
+      "brief": "The alleged attack on a school in southern Iran, resulting in significant casualties, could escalate tensions between Iran and Israel, with potential implications for regional stability and the broader Iran-US conflict."
+    },
+    "lat": 29.0,
+    "lng": 54.0
   },
   {
     "id": "626772f263b78896",
@@ -2049,6 +2435,74 @@
     "lng": 54.0
   },
   {
+    "id": "528fc23bcffdd1cb",
+    "title_original": "🚨  انفجار شدید تهران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SABE...",
+    "content_original": "🚨 انفجار شدید تهران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44854",
+    "published": "2026-02-28T16:17:30+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosion in Tehran",
+    "relevant": true,
+    "summary_en": "An explosion occurred in Tehran, Iran. The context and details of the explosion are not provided, but given the ongoing conflict, it could be related to military or strategic developments. This event is significant as it may impact the current state of hostilities between Iran and the US.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "An explosion in Tehran, potentially linked to the ongoing conflict, could indicate internal instability or strategic developments affecting the Iran-US hostilities."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "6cc16f1863b76743",
+    "title_original": "שאגת הארי: איראן קיבלה מהלומה מישראל וארה\"ב | סיכום חדשות השבת",
+    "content_original": "ישראל וארה\"ב יצאו במתקפה נרחבת באיראן, שכללה מטרות שלטון - כולל הארמון הנשיאותי של עלי חמינאי | דיווחים על כך שהמנהיג העליון האיראני נפגע במתקפה | טראמפ לעם האיראני: \"שעת החירות שלכם הגיע\"",
+    "url": "https://www.maariv.co.il/news/israel/article-1290232",
+    "published": "2026-02-28T16:15:29+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israel and US Launch Major Attack on Iran, Targeting Leadership Including Khamenei's Palace",
+    "relevant": true,
+    "summary_en": "Israel and the US conducted a large-scale attack on Iran, targeting government sites including Supreme Leader Ali Khamenei's presidential palace. Reports indicate that the Iranian Supreme Leader may have been injured in the attack. This represents a significant escalation in the conflict, directly targeting Iran's top leadership.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The joint US-Israel airstrike targeting Iran's Supreme Leader's palace marks a critical escalation, directly engaging with the Iranian regime's core leadership."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "a1baa85c5207de4a",
     "title_original": "Аналитик рассказал, чего лишится рынок нефти из-за ударов по Ирану",
     "content_original": "Аналитик рассказал, чего лишится рынок нефти из-за ударов по Ирану",
@@ -2185,6 +2639,41 @@
     "lng": 34.47
   },
   {
+    "id": "dcd1eeb36ef91911",
+    "title_original": "At least two killed in attack on Iraq military base as Iran-Israel conflict escalates",
+    "content_original": "A source from Kataeb Hezbollah told AFP that \"there are two martyrs from Kataeb and another five wounded in the aggression on the Jurf al-Nasr base.\"",
+    "url": "https://www.hindustantimes.com/world-news/at-least-two-killed-in-attack-on-iraq-military-base-as-iran-israel-conflict-escalates-101772274199841.html",
+    "published": "2026-02-28T16:00:05+05:30",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "At least two killed in attack on Iraq military base as Iran-Israel conflict escalates",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iraqi military"
+      ],
+      "location": "Iraq military base",
+      "brief": "The attack on an Iraqi military base, likely by Iranian proxies, signals escalating tensions in the broader Iran-Israel conflict, with potential implications for US interests in the region."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
     "id": "3c04ffe49087bbda",
     "title_original": "Tasnim: Иран нанес новый удар по базе США в Кувейте",
     "content_original": "Tasnim: Иран нанес новый удар по базе США в Кувейте",
@@ -2221,6 +2710,42 @@
     "lng": 47.54
   },
   {
+    "id": "3310a841b02aa594",
+    "title_original": "شهادت بیش از ۱۵ شهروند در حمله رژیم صهیونیستی و آمریکا به لامرد فارس",
+    "content_original": "شهادت بیش از ۱۵ شهروند در حمله رژیم صهیونیستی و آمریکا به لامرد فارس",
+    "url": "https://www.irna.ir/news/86089703/%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B5-%D8%B4%D9%87%D8%B1%D9%88%D9%86%D8%AF-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
+    "published": "2026-02-28T15:56:50+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Over 15 civilians killed in US and Israeli attack on Lamerd, Fars",
+    "relevant": true,
+    "summary_en": "US and Israeli forces conducted a joint attack on Lamerd in the Fars province of Iran, resulting in the deaths of more than 15 civilians. This incident highlights the escalation of hostilities and the direct targeting of Iranian territory by US and Israeli forces, raising concerns about civilian casualties and regional stability.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lamerd, Fars province, Iran",
+      "brief": "The joint US-Israeli airstrike on Iranian territory marks a significant escalation with direct targeting of Iran, causing mass civilian casualties and raising regional tensions."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "ded8752c4768e5f7",
     "title_original": "Tasnim: Иран нанес новую серию ракетных ударов по Израилю",
     "content_original": "По данным агентства, иранская армия осуществила \"очередную массированную атаку\" по израильской территории",
@@ -2253,6 +2778,75 @@
     },
     "lat": 31.5,
     "lng": 34.8
+  },
+  {
+    "id": "a0acde39521f852e",
+    "title_original": "🚨 گروه های مقاومت عراق، پایگاه های تروریست های آمریکایی در اربیل را زیر آتش قرار داده‌اند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ...",
+    "content_original": "🚨 گروه های مقاومت عراق، پایگاه های تروریست های آمریکایی در اربیل را زیر آتش قرار داده‌اند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44852",
+    "published": "2026-02-28T15:54:59+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iraqi Resistance Groups Attack US Terrorist Bases in Erbil",
+    "relevant": true,
+    "summary_en": "Iraqi Resistance Groups have targeted US bases in Erbil, Iraq. This action represents an escalation in the ongoing conflict between US forces and Iranian-backed militias in the region. The attack signifies continued hostilities and instability around US military installations in Iraq.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "US",
+        "Iraqi Resistance Groups",
+        "Iranian-backed militias"
+      ],
+      "location": "Erbil, Iraq",
+      "brief": "The attack on US bases in Erbil by Iranian-backed Iraqi militias indicates ongoing proxy hostilities and regional instability, posing a continued threat to US forces in Iraq."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "c1bb53d3a647bc4c",
+    "title_original": "اصابت موشک‌های ایران به تل‌آویو + فیلم",
+    "content_original": "اصابت موشک‌های ایران به تل‌آویو + فیلم",
+    "url": "https://www.irna.ir/news/86089681/%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D9%85%D9%88%D8%B4%DA%A9-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D9%81%DB%8C%D9%84%D9%85",
+    "published": "2026-02-28T15:52:53+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iranian missiles hit Tel Aviv",
+    "relevant": true,
+    "summary_en": "Iran launched missiles targeting Tel Aviv, Israel. This represents a significant escalation in the conflict, demonstrating Iran's willingness to directly target Israeli population centers. The attack will likely prompt a strong Israeli military response and draw further international attention to the ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strike on Tel Aviv marks a direct attack on an Israeli population center, escalating regional hostilities and posing a critical threat to regional stability."
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "6d8e0779418f10c5",
@@ -2388,7 +2982,9 @@
       ],
       "location": "Iranian airspace",
       "brief": "The incident highlights Iran's use of air defense systems against foreign drones, reflecting ongoing surveillance and potential escalation in unmanned system engagements."
-    }
+    },
+    "lat": 30.3354128,
+    "lng": 48.2896822
   },
   {
     "id": "20a8d0c2a2a5414c",
@@ -2423,7 +3019,9 @@
       ],
       "location": "Israel's northern border",
       "brief": "The continuous strikes and persistent air raid sirens indicate a major offensive by Hezbollah, a key Iranian proxy, posing a significant threat to regional stability and potentially drawing in broader Iran-US conflict dynamics."
-    }
+    },
+    "lat": 31.0501487,
+    "lng": 34.3312446
   },
   {
     "id": "63677fc60448dd7e",
@@ -4517,5 +5115,39 @@
     },
     "lat": 32.6475314,
     "lng": 54.5643516
+  },
+  {
+    "id": "c3266bc753d20477",
+    "title_original": "How a drone strike on a tribal leader may reshape Sudan war",
+    "content_original": "On 22 February, Sudan's influential tribal chief, Musal Hilal, met with friends and relatives to break their Ramadan fast in Misteriha, a village in North Darfur. They didn't expect a drone to strike their gathering after sundown. The attack reportedly killed 28 civilians —men, women and children—and injured one of Hilal's sons, according to the Sudan Doctors Network, a local monitor. Another of his sons was captured after the RSF seized the town the next day. Hilal reportedly escaped from Darfur and reached areas controlled by the regular army, known as the Sudan Armed Forces (SAF). \"Nobody until now knows exactly where he has gone, but it seems the RSF decided to attack his area since it was the last town in Darfur outside of its control,\" said Mohamed el-Fatih Yousef, a journalist from the region and the founder of the local outlet Darfur24. Tribal rivalry Since an all-out civil war erupted between SAF and the RSF in April 2023, Hilal and his tribal loyalists have sided with the for...",
+    "url": "https://www.newarab.com/news/how-drone-strike-tribal-leader-may-reshape-sudan-war",
+    "published": "2026-02-27T10:42:50+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "How a drone strike on a tribal leader may reshape Sudan war",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war",
+      "strike",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Sudan",
+        "tribal groups"
+      ],
+      "location": "Sudan",
+      "brief": "The drone strike on a tribal leader in Sudan could impact regional dynamics and potentially influence proxy activities linked to the Iran–US conflict."
+    },
+    "lat": 14.5844444,
+    "lng": 29.4917691
   }
 ]
