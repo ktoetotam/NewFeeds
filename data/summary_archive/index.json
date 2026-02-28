@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-02-28T23-14-27.898178_plus_00-00.json",
+    "generated_at": "2026-02-28T23:14:27.898178+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 160,
+    "summary_preview": "The Iran–US conflict has escalated significantly, with a coordinated US-Israeli attack on Iran and retaliatory strikes by Iran on US bases and regional allies. The situation remains highly volatile, w"
+  },
+  {
     "filename": "2026-02-28T23-02-34.418908_plus_00-00.json",
     "generated_at": "2026-02-28T23:02:34.418908+00:00",
     "threat_label": "MAJOR",
