@@ -72,6 +72,145 @@
     "lng": 54.56
   },
   {
+    "id": "3ec2f6cf3dcf62e3",
+    "title_original": "В столице Бахрейна был атакован жилой дом",
+    "content_original": "В столице Бахрейна был атакован жилой дом",
+    "url": "https://ria.ru/20260301/dom-2077568727.html",
+    "published": "2026-03-01T02:36:09+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Residential Building Attacked in Bahrain's Capital",
+    "relevant": true,
+    "summary_en": "An attack targeted a residential building in Bahrain's capital, Manama. This incident is significant due to Bahrain's proximity to active conflict zones and its hosting of US naval assets. The attack could be linked to regional tensions or proxy activities amid the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "The attack on a residential building in Bahrain, home to US naval assets, suggests potential escalation in proxy activities amid the Iran-US conflict, posing a threat to US regional interests and stability."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "76d5a6cabc3c0727",
+    "title_original": "Один человек погиб при атаке БПЛА на аэропорт в Абу-Даби",
+    "content_original": "В результате атаки дрона на международный аэропорт Зайед в Абу-Даби, еще семеро получили ранения, сообщила пресс-служба аэропорта в соцсети Х.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a37b1d9a794746fb2a1295",
+    "published": "2026-03-01T02:35:50+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drone Attack on Abu Dhabi Airport Kills One, Injures Seven",
+    "relevant": true,
+    "summary_en": "A drone attack targeted Abu Dhabi International Airport, resulting in one fatality and seven injuries. The attack occurred at the Zayed International Airport, as confirmed by the airport's press service on social media. This incident highlights the ongoing threat of drone attacks in the UAE, likely linked to regional hostilities involving Iran-backed groups.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "threat",
+      "attack",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran-backed groups",
+        "United Arab Emirates"
+      ],
+      "location": "Abu Dhabi International Airport, UAE",
+      "brief": "The drone attack on Abu Dhabi Airport, while not directly involving US or Iranian forces, highlights the persistent threat of regional proxy attacks linked to Iran-backed groups and their potential to escalate regional tensions."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "64af704bd7dfdf17",
+    "title_original": "Постпред США попытался оправдать атаку на Иран якобы покушением на Трампа",
+    "content_original": "Постпред США попытался оправдать атаку на Иран якобы покушением на Трампа",
+    "url": "https://ria.ru/20260301/ataka-2077568057.html",
+    "published": "2026-03-01T02:27:27+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US envoy attempts to justify attack on Iran citing alleged assassination attempt on Trump",
+    "relevant": true,
+    "summary_en": "The US envoy justified the attack on Iran by linking it to an alleged assassination attempt on former President Trump. This suggests a potential US narrative framing the conflict as a response to threats against US leadership. The statement indicates ongoing efforts to legitimize military actions against Iran amidst the escalating conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "threat_statement",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Not specified",
+      "brief": "The US envoy's justification for the attack on Iran, citing an alleged assassination attempt on Trump, indicates a potential escalation in the narrative framing of the conflict."
+    }
+  },
+  {
+    "id": "672817236e6f37af",
+    "title_original": "В Тель-Авиве погиб один человек и пострадали 25 при ударе Ирана",
+    "content_original": "При ударе Ирана по Тель-Авиву погибла женщина в возрасте около 40 лет, сообщает израильский телеканал «Кан 11». Еще 25 человек получили ранения.",
+    "url": "https://www.kommersant.ru/doc/8477261",
+    "published": "2026-03-01T02:26:49+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian strike on Tel Aviv kills one and injures 25",
+    "relevant": true,
+    "summary_en": "Iran launched an attack on Tel Aviv, Israel, resulting in the death of a woman in her 40s and injuring 25 others. This incident highlights the ongoing escalation of the conflict between Iran and Israel, with direct attacks on Israeli territory. The strike signifies a significant escalation in the regional conflict and raises concerns about further retaliatory actions.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "death",
+      "attack",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "The Iranian strike on Tel Aviv represents a direct attack on Israeli territory, escalating regional tensions and posing a significant risk of further retaliatory actions within the broader Iran–US conflict."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
     "id": "281e41467addec27",
     "title_original": "СМИ: США не ожидают сильного изменения цен на нефть после удара по Ирану",
     "content_original": "СМИ: США не ожидают сильного изменения цен на нефть после удара по Ирану",
@@ -784,6 +923,43 @@
     }
   },
   {
+    "id": "42fc364bf0ac1c93",
+    "title_original": "⚡️ Renewed launches detected from Iran",
+    "content_original": "⚡️ Renewed launches detected from Iran",
+    "url": "https://t.me/warmonitors/40148",
+    "published": "2026-02-28T23:39:03+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Renewed missile/drone launches detected from Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has initiated a new round of missile and/or drone launches, likely targeting US forces or regional allies. This development signifies a potential escalation in hostilities and poses a direct threat to US assets and regional stability. The launches could provoke immediate retaliatory strikes from the US and its allies.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "threat",
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "regional allies"
+      ],
+      "location": "Iran, potentially targeting US forces or regional allies",
+      "brief": "Iran's renewed missile and drone launches directly threaten US forces and regional stability, signaling a potential escalation in the Iran–US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "a5e22cd35e7dc2de",
     "title_original": "Кувейт заявил об успешном перехвате БПЛА при атаке на базу на юге страны",
     "content_original": "Кувейт заявил об успешном перехвате БПЛА при атаке на базу на юге страны",
@@ -818,6 +994,333 @@
     },
     "lat": 29.38,
     "lng": 47.99
+  },
+  {
+    "id": "8dcd06a2081cd88c",
+    "title_original": "🚨 🇺🇸 🇧🇭  - BBC: Iran retaliation raises questions about US air defences  Iran has targeted the US Navy base in Bahrai...",
+    "content_original": "🚨 🇺🇸 🇧🇭 - BBC: Iran retaliation raises questions about US air defences Iran has targeted the US Navy base in Bahrain, highlighting gaps in air defences, which will worry Washington and its allies in the region. Videos appear to show missiles and drones striking…",
+    "url": "https://t.me/CIG_telegram/69733",
+    "published": "2026-02-28T23:38:41+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iran retaliation raises questions about US air defences in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has targeted the US Navy base in Bahrain with missiles and drones, highlighting potential gaps in US air defenses. This attack raises concerns for Washington and its regional allies about the effectiveness of defensive measures. The incident underscores the ongoing threat posed by Iranian retaliation in the Gulf region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "threat",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "US Navy"
+      ],
+      "location": "Bahrain",
+      "brief": "Iran's missile and drone attack on a US Navy base in Bahrain highlights potential vulnerabilities in US air defenses and escalates regional tensions."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "650dc8132bc704d0",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في منطقة حيفا ومحيط بحيرة طبريا. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في منطقة حيفا ومحيط بحيرة طبريا. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156228",
+    "published": "2026-02-28T23:38:11+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Haifa and Lake Tiberias Area",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Haifa and the Lake Tiberias region in northern Israel. This indicates a potential threat or attack, likely linked to ongoing hostilities with Hezbollah or other Iranian-backed groups. The incident underscores the continued escalation and threat of attacks on Israeli territory amid the broader conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "conflict",
+      "raid",
+      "threat",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Haifa and Lake Tiberias region, Israel",
+      "brief": "The activation of air raid sirens in northern Israel highlights the persistent threat of Hezbollah attacks, reflecting Iran's ongoing efforts to pressure Israel amid the broader conflict."
+    },
+    "lat": 32.79,
+    "lng": 34.99
+  },
+  {
+    "id": "b56d68e23fef2084",
+    "title_original": "#سوريا   جماعة تسمي نفسها هيئة انصار التوحيد في سوريا تتبنى استهداف اسرائيل بعدة صواريخ",
+    "content_original": "#سوريا جماعة تسمي نفسها هيئة انصار التوحيد في سوريا تتبنى استهداف اسرائيل بعدة صواريخ",
+    "url": "https://t.me/Electrohizbullah/156227",
+    "published": "2026-02-28T23:36:52+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Syrian Group Claims Missile Attack on Israel",
+    "relevant": true,
+    "summary_en": "A group calling itself 'Ansar al-Tawhid in Syria' has claimed responsibility for launching multiple missiles at Israel from Syria. This incident highlights ongoing tensions and potential proxy attacks against Israel amid the broader Iran-US conflict. The strategic significance lies in potential Israeli retaliation and the involvement of non-state actors in the regional conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "proxy",
+      "attack",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Ansar al-Tawhid in Syria",
+        "Israel",
+        "Iran (indirect)"
+      ],
+      "location": "Syria/Israel border region",
+      "brief": "The missile attack by a Syrian proxy group highlights the use of non-state actors by Iran, escalating regional tensions and prompting potential Israeli retaliation within the broader Iran-US conflict."
+    },
+    "lat": 34.8,
+    "lng": 38.99
+  },
+  {
+    "id": "724b8c43eb77dbf4",
+    "title_original": "#قطر انفجار يهز القاعدة الامريكية في الدوحة",
+    "content_original": "#قطر انفجار يهز القاعدة الامريكية في الدوحة",
+    "url": "https://t.me/Electrohizbullah/156226",
+    "published": "2026-02-28T23:36:13+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosion rocks US base in Doha, Qatar",
+    "relevant": true,
+    "summary_en": "An explosion occurred at the US base in Doha, Qatar, potentially impacting US military assets in the region. This incident comes amid heightened tensions in the Middle East due to the ongoing Iran-US conflict. The strategic significance lies in the potential disruption of US operations and the possible escalation of hostilities in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "explosion",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Hezbollah Electronic Army (proxy)"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "The explosion at a US base in Doha, Qatar, signifies a potential escalation in proxy operations targeting US military assets amid heightened Iran-US tensions in the Middle East."
+    },
+    "lat": 25.29,
+    "lng": 51.53
+  },
+  {
+    "id": "236cf0b2de53732c",
+    "title_original": "#الإمارات   انفجارات متعددة في ميناء جبل علي في الامارات",
+    "content_original": "#الإمارات انفجارات متعددة في ميناء جبل علي في الامارات",
+    "url": "https://t.me/Electrohizbullah/156225",
+    "published": "2026-02-28T23:35:41+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Multiple Explosions at Jebel Ali Port in the UAE",
+    "relevant": true,
+    "summary_en": "Multiple explosions occurred at Jebel Ali Port in the UAE. This is significant as Jebel Ali is one of the largest ports in the region and a critical logistics hub for US and coalition forces. The incident could indicate an escalation in the conflict with potential targeting by Iranian proxies or IRGC elements.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Hezbollah",
+        "UAE",
+        "US"
+      ],
+      "location": "Jebel Ali Port, UAE",
+      "brief": "The attack on Jebel Ali Port, a critical logistics hub for US and coalition forces, suggests an escalation in the conflict with potential Iranian proxy involvement."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "28284f1a1424bcd6",
+    "title_original": "What to know about Iran’s Supreme Leader Ayatollah Ali Khamenei",
+    "content_original": "When targeted by nationwide protests early this year, Iran’s Supreme Leader Ayatollah Ali Khamenei unleashed the bloodiest crackdown of his nearly four decades in power. But now a US or Israeli military strike may have ended his rule. There was no immediate Iranian comment about him Saturday after US President Donald Trump said Khamenei was dead. Israeli officials also told reporters earlier that he was killed in a major new attack by US and Israeli forces. The 86-year-old Khamenei tried to...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3345002/what-know-about-irans-supreme-leader-ayatollah-ali-khamenei?utm_source=rss_feed",
+    "published": "2026-02-28T23:30:55+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true,
+    "title_en": "Reports on the potential death of Iran's Supreme Leader Ayatollah Ali Khamenei",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Unconfirmed reports suggest that Iran's Supreme Leader Ayatollah Ali Khamenei may have been killed in a US and Israeli military strike. This development comes amid ongoing conflict, with US President Donald Trump and Israeli officials commenting on his potential death. The impact on Iranian leadership and the conflict remains uncertain.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "death",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Unspecified",
+      "brief": "Unconfirmed reports of a US-Israeli strike targeting Iran's Supreme Leader could dramatically shift the conflict dynamics if verified."
+    }
+  },
+  {
+    "id": "af8c21f28ff6c242",
+    "title_original": "#إعلام_العدو   منصة إعلامية إسرائيلية:الطائرة المسيرة التي أطلقت من إيران تواصل التقدم إلى قلب الجليل الأعلى",
+    "content_original": "#إعلام_العدو منصة إعلامية إسرائيلية:الطائرة المسيرة التي أطلقت من إيران تواصل التقدم إلى قلب الجليل الأعلى",
+    "url": "https://t.me/Electrohizbullah/156218",
+    "published": "2026-02-28T23:30:42+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Drone Advances Towards Upper Galilee",
+    "relevant": true,
+    "summary_en": "An Iranian drone has been reported to be advancing towards Upper Galilee in Israel. This incident is significant as it indicates potential escalation in the conflict between Iran and Israel, with direct threats to Israeli territory. The military significance lies in the potential for increased tensions and retaliatory actions by Israel against Iran-linked targets.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Upper Galilee, Israel",
+      "brief": "The incident signifies an escalation in the Iran-Israel conflict through the use of Iranian drones, posing a direct threat to Israeli territory and potentially triggering retaliatory actions."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "944c9d059579c9cd",
+    "title_original": "ضربة صاروخية تستهدف القواعد الأمريكية في الامارات وقطر",
+    "content_original": "ضربة صاروخية تستهدف القواعد الأمريكية في الامارات وقطر",
+    "url": "https://t.me/Electrohizbullah/156217",
+    "published": "2026-02-28T23:29:35+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile strikes target US bases in UAE and Qatar",
+    "relevant": true,
+    "summary_en": "Missile strikes have targeted US military bases in the UAE and Qatar. This attack is likely part of ongoing Iranian or Iran-backed proxy operations against US assets in the region. The strikes signify an escalation in hostilities and pose a direct threat to US forces and regional stability.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "threat",
+      "proxy",
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Hezbollah",
+        "UAE",
+        "Qatar"
+      ],
+      "location": "UAE, Qatar",
+      "brief": "Missile strikes on US bases in the UAE and Qatar represent a significant escalation by Iran or its proxies, directly threatening US forces and regional stability."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "de12ceb436cab5fa",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في الشمال في الغجر والمطلة ومسكاف عام",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في الشمال في الغجر والمطلة ومسكاف عام",
+    "url": "https://t.me/Electrohizbullah/156214",
+    "published": "2026-02-28T23:27:48+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Northern Israel in Ghajar, Metula, and Misgav Am",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in the northern Israeli towns of Ghajar, Metula, and Misgav Am. This indicates a potential security incident or threat in the area, likely linked to ongoing regional tensions. The activation of sirens suggests a possible escalation or incident involving Hezbollah or other Iran-backed groups along Israel's northern border.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "hezbollah",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Northern Israel (Ghajar, Metula, Misgav Am)",
+      "brief": "The activation of air raid sirens in northern Israel suggests a potential escalation by Hezbollah, a key Iran-backed proxy, posing a direct threat to Israeli security and potentially drawing in US support."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "1c96a30a3b5cc1d4",
