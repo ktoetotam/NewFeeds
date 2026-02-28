@@ -212,8 +212,26 @@ def translate_articles(
     if api_key is None:
         api_key = get_api_key()
 
+    # English / skip_translation articles don't need LLM for translation.
+    # Set title_en and mark translated so they don't stay "pending".
+    # They still go through the LLM for relevance + summary if not yet classified.
+    for a in articles:
+        if a.get("translated") is None and a.get("skip_translation"):
+            a["title_en"] = a.get("title_original", "")
+            a["translated"] = True
+            logger.debug(f"Auto-completed skip_translation article {a.get('id')}")
+
     already_done = [a for a in articles if a.get("translated") is not None]
+
+    # Among already-done, find skip_translation articles still needing relevance
+    need_relevance = [a for a in already_done if a.get("skip_translation") and a.get("relevant") is None]
+    need_relevance_ids = {a["id"] for a in need_relevance}
+    # Remove need_relevance from already_done to avoid duplicates after processing
+    already_done = [a for a in already_done if a["id"] not in need_relevance_ids]
     to_process = [a for a in articles if a.get("translated") is None]
+
+    # Include English articles needing relevance classification in this run
+    to_process = need_relevance + to_process
 
     if not to_process:
         logger.info("No new articles to process")
