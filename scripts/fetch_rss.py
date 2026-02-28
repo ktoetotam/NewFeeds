@@ -7,8 +7,11 @@ import os
 import feedparser
 import hashlib
 import logging
+import requests
 from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
+
+FEED_TIMEOUT = 15  # seconds per feed download
 
 logger = logging.getLogger(__name__)
 
@@ -68,7 +71,18 @@ def fetch_rss_source(source: dict, region: str) -> list[dict]:
 
     try:
         logger.info(f"Fetching RSS: {name} ({url})")
-        feed = feedparser.parse(url)
+
+        # Download feed content with a strict timeout (feedparser has none)
+        try:
+            resp = requests.get(url, timeout=FEED_TIMEOUT, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; NewFeeds/1.0)",
+                "Accept": "application/rss+xml, application/xml, text/xml, */*",
+            })
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+        except requests.RequestException as req_err:
+            logger.warning(f"Feed download failed for {name}: {req_err}")
+            return []
 
         if feed.bozo and not feed.entries:
             logger.warning(f"Feed error for {name}: {feed.bozo_exception}")
