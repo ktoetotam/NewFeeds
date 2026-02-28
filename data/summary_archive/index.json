@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-02-28T19-29-09.414023_plus_00-00.json",
+    "generated_at": "2026-02-28T19:29:09.414023+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "escalating",
+    "incident_count_24h": 222,
+    "summary_preview": "The Iran–US conflict has escalated to a critical phase with direct military engagements, including coordinated US-Israeli strikes on Iran and retaliatory attacks by Iran on US and allied assets. The s"
+  },
+  {
     "filename": "2026-02-28T18-57-28.899416_plus_00-00.json",
     "generated_at": "2026-02-28T18:57:28.899416+00:00",
     "threat_label": "MAJOR",

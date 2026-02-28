@@ -1,5 +1,178 @@
 [
   {
+    "id": "ae1144b4d76284e5",
+    "title_original": "При ракетном ударе по Кувейту пострадали трое военнослужащих",
+    "content_original": "При ракетном ударе по Кувейту пострадали трое военнослужащих",
+    "url": "https://ria.ru/20260228/kuvejt-2077536664.html",
+    "published": "2026-02-28T22:33:46+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile Strike on Kuwait Injures Three Military Personnel",
+    "relevant": true,
+    "summary_en": "Unidentified attackers launched a missile strike on Kuwait, injuring three military personnel. This incident highlights the escalating tensions and potential threats to US allies in the Gulf region amid the ongoing Iran-US conflict. The strategic significance lies in the possible implications for US forces and installations in Kuwait and the broader Gulf area.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran (suspected)",
+        "US (indirect)"
+      ],
+      "location": "Kuwait",
+      "brief": "The missile strike on Kuwait, injuring three military personnel, signals escalating tensions and potential threats to US allies and installations in the Gulf region amidst the Iran-US conflict."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "3b32a134f5f98eb7",
+    "title_original": "Израиль заявил о перехвате нескольких беспилотников, запущенных из Ирана",
+    "content_original": "Израиль заявил о перехвате нескольких беспилотников, запущенных из Ирана",
+    "url": "https://ria.ru/20260228/armija-2077536443.html",
+    "published": "2026-02-28T22:32:28+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Reports Interception of Multiple Drones Launched from Iran",
+    "relevant": true,
+    "summary_en": "Israel intercepted multiple drones launched from Iran. This incident occurred in Israeli airspace, highlighting ongoing tensions and potential escalation between Israel and Iran. The interception underscores the persistent threat of Iranian drone operations and Israel's active air defense measures.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "air defense",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Israeli airspace",
+      "brief": "The drone interception highlights ongoing tensions and escalation risks between Israel and Iran, with potential implications for US regional interests."
+    },
+    "lat": 30.8124247,
+    "lng": 34.8594762
+  },
+  {
+    "id": "2f98e16617c096fe",
+    "title_original": "Красный Полумесяц назвал число погибших после ударов по Ирану",
+    "content_original": "В результате атаки США и Израиля на Иран погибли 201 человек, более 740 получили ранения, сообщила представитель Красного Полумесяца Моджтаба Халиди, передает иранское агентство ISNA.",
+    "url": "https://www.rbc.ru/politics/28/02/2026/69a3417a9a79471d533c0f6a",
+    "published": "2026-02-28T22:31:32+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Red Crescent Reports Casualties from US-Israel Strikes on Iran",
+    "relevant": true,
+    "summary_en": "The Iranian Red Crescent reported that 201 people were killed and over 740 injured in US and Israeli strikes on Iran. This highlights the significant humanitarian impact of the ongoing conflict and the escalation of hostilities between Iran and the US-Israel alliance.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The airstrikes by the US and Israel on Iran indicate a significant escalation in direct military engagement, resulting in a high number of casualties and increased regional tensions."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "1d6cf58bdaa97e4b",
+    "title_original": "Нетаньяху заявил о разрушении резиденции Хаменеи",
+    "content_original": "Нетаньяху заявил о разрушении резиденции Хаменеи",
+    "url": "https://ria.ru/20260228/ssha-2077535507.html",
+    "published": "2026-02-28T22:29:26+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Netanyahu Claims Destruction of Khamenei's Residence",
+    "relevant": true,
+    "summary_en": "Israeli Prime Minister Netanyahu announced the destruction of Iranian Supreme Leader Khamenei's residence, likely referring to an airstrike. This represents a significant escalation in Israeli operations targeting Iranian leadership and infrastructure. The strategic significance includes potential Iranian retaliation and increased regional tensions.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "airstrike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (specific location not provided)",
+      "brief": "The destruction of Iranian Supreme Leader Khamenei's residence by Israel represents a significant escalation in regional tensions and increases the likelihood of direct Iranian retaliation against Israel or US interests."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "99d8a05d32edcf84",
+    "title_original": "ОАЭ осудили ракетные удары Ирана по региону",
+    "content_original": "Тегеран, Иран",
+    "url": "https://www.rbc.ru/rbcfreenews/69a331759a7947b46e7f017a",
+    "published": "2026-02-28T22:28:41+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE Condemns Iran's Missile Strikes on the Region",
+    "relevant": true,
+    "summary_en": "The UAE has condemned Iran's missile strikes targeting the region, highlighting the escalating tensions and potential threats to regional stability. This condemnation comes amid ongoing hostilities between Iran and the US, with the UAE expressing concerns over the impact on their security and interests. The statement underscores the UAE's alignment with efforts to de-escalate the conflict and maintain regional peace.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE"
+      ],
+      "location": "UAE region",
+      "brief": "Iran's missile strikes on the UAE region signal a direct escalation in the Iran-US conflict, posing a significant threat to regional stability and US interests in the Gulf."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "10d883ceb8c47592",
     "title_original": "Нетаньяху заявил о множестве признаков смерти Хаменеи после ударов",
     "content_original": "Есть множество признаков того, что верховного лидера Ирана Али Хаменеи больше нет в живых, заявил премьер-министр Израиля Биньямин Нетаньяху.",
@@ -204,6 +377,43 @@
     "lng": 54.56
   },
   {
+    "id": "913ea6781894ee01",
+    "title_original": "🇮🇷 💥 🇰🇼  Explosion reported in Kuwait, likely as a result of Iranian drones. @CIG_telegram",
+    "content_original": "🇮🇷 💥 🇰🇼 Explosion reported in Kuwait, likely as a result of Iranian drones. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69681",
+    "published": "2026-02-28T19:35:19+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Explosion in Kuwait likely caused by Iranian drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An explosion occurred in Kuwait, reportedly due to Iranian drones. This incident highlights Iran's continued use of drone strikes in the region and poses a direct threat to US allies like Kuwait. The attack could escalate tensions and draw a response from US forces in the area.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "explosion",
+      "drone",
+      "threat",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "United States"
+      ],
+      "location": "Kuwait",
+      "brief": "The use of Iranian drones to strike Kuwait underscores Iran's willingness to target US allies in the region, posing a direct threat to US interests and potentially escalating regional tensions."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "0631ee8afe5d2b11",
     "title_original": "До 85 выросло число погибших при ударе по иранской школе",
     "content_original": "При ударе США и Израиля по школе для девочек в иранском Минабе погибли 85 человек. Об этом сообщило Tasnim со ссылкой на местные власти.",
@@ -232,6 +442,110 @@
       "location": "Unknown",
       "brief": "Classified by keyword matching (LLM unavailable)"
     }
+  },
+  {
+    "id": "2fb4db2d7bf51808",
+    "title_original": "🇮🇷 🇦🇪 ⚡️ - BREAKING: Initial reports that Iran has bombed the Jebel Ali port in the UAE.",
+    "content_original": "🇮🇷 🇦🇪 ⚡️ - BREAKING: Initial reports that Iran has bombed the Jebel Ali port in the UAE.",
+    "url": "https://t.me/CIG_telegram/69679",
+    "published": "2026-02-28T19:33:20+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iran reportedly bombs Jebel Ali port in UAE",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has reportedly launched an attack on the Jebel Ali port in the UAE, a major commercial port and logistics hub. This represents a significant escalation of hostilities, targeting critical infrastructure in a Gulf state allied with the US. The attack could disrupt regional trade and provoke further international response.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "Jebel Ali port, UAE",
+      "brief": "Iran's attack on the UAE's Jebel Ali port, a critical US-allied logistics hub, signifies a significant escalation in regional hostilities and threatens regional trade and stability."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "8440abab9f68dcd7",
+    "title_original": "🇺🇸 🇮🇷 ⚡️  — U.S. Central Command: CENTCOM's Task Force Scorpion Strike - for the first time in history - is using one...",
+    "content_original": "🇺🇸 🇮🇷 ⚡️ — U.S. Central Command: CENTCOM's Task Force Scorpion Strike - for the first time in history - is using one-way attack drones in combat during Operation Epic Fury. These low-cost drones, modeled after Iran's Shahed drones, are now delivering American-made retribution.",
+    "url": "https://t.me/CIG_telegram/69678",
+    "published": "2026-02-28T19:32:43+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "CENTCOM's Task Force Scorpion Strike deploys one-way attack drones in Operation Epic Fury for the first time",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The U.S. Central Command has initiated the use of one-way attack drones, modeled after Iran's Shahed drones, in Operation Epic Fury. This marks the first historical deployment of such low-cost drones in combat by Task Force Scorpion Strike, indicating a new phase in U.S. retaliation efforts against Iran-linked threats.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "CENTCOM",
+        "Task Force Scorpion Strike"
+      ],
+      "location": "Unspecified (likely Middle East region)",
+      "brief": "The deployment of one-way attack drones by the U.S. in Operation Epic Fury signifies a new phase in retaliatory operations against Iran-linked threats, highlighting evolving tactics in the conflict."
+    }
+  },
+  {
+    "id": "aa71349ce5e1deea",
+    "title_original": "🇮🇷 💥 🇧🇭  Iranian Shahed struck a target in Bahrain. @CIG_telegram",
+    "content_original": "🇮🇷 💥 🇧🇭 Iranian Shahed struck a target in Bahrain. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69677",
+    "published": "2026-02-28T19:31:58+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian Shahed drone strikes target in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian Shahed drone struck a target in Bahrain, marking an escalation in the conflict as Iranian forces target US allies in the Gulf region. This incident highlights the ongoing threat posed by Iranian drones and missiles to US interests and regional stability. Bahrain hosts a significant US naval presence, making this attack strategically significant.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "drone",
+      "conflict",
+      "threat",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Bahrain",
+      "brief": "The Iranian Shahed drone strike on Bahrain represents a direct attack on a US ally and host of a significant US naval presence, posing a threat to regional stability and US interests."
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "77161864b08f03d6",
@@ -306,6 +620,112 @@
     },
     "lat": 31.17,
     "lng": 36.94
+  },
+  {
+    "id": "3913cc1b7f08984f",
+    "title_original": "Explosions rock Bahrain, Dubai, Kuwait and Jordan as war spreads across Middle East",
+    "content_original": "War launched by US and Israel on Iran has quickly escalated prompting anxiety and concern in whole region Full report US-Israeli attack on Iran – live updates Iran struck the world-famous Fairmont hotel in Dubai, setting the hotel alight, as the war launched by the US and Israel on Iran quickly spread to the rest of the Middle East on Saturday. Residents watched in shock as an Iranian missile hit the five-star hotel in Dubai’s luxurious Palm Jumeirah area. Social media videos showed fires breaking out near the entrance of the hotel, which led to four people being injured. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/feb/28/dubais-famous-fairmont-hotel-in-flames-after-iranian-air-strike",
+    "published": "2026-02-28T19:27:36+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Explosions hit Bahrain, Dubai, Kuwait, and Jordan as Middle East conflict escalates",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile strikes on the Fairmont hotel in Dubai's Palm Jumeirah area, causing fires and injuring four people. The attacks signal a widening conflict as Iran retaliates against US and Israeli actions, with impacts spreading across the Middle East. The incidents highlight the escalating violence and regional instability as hostilities intensify.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "UAE",
+        "Bahrain",
+        "Kuwait",
+        "Jordan"
+      ],
+      "location": "Dubai, Bahrain, Kuwait, Jordan",
+      "brief": "Iran's missile strikes on multiple Gulf states, including a direct attack on a high-profile target in Dubai, signal a significant escalation in the regional conflict with direct implications for US interests and regional stability."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "4473005d36ea8fd4",
+    "title_original": "🇮🇷 ⚔️ 🇮🇱  Israel: Air defenses show signs of impotence Israeli defense systems fired at least 9 times trying to inter...",
+    "content_original": "🇮🇷 ⚔️ 🇮🇱 Israel: Air defenses show signs of impotence Israeli defense systems fired at least 9 times trying to intercept, without success, 2 Iranian missiles that reached their targets in Tel Aviv. Up to this moment on the first day of the war, Iran has fired fewer than 20 missiles and a few dozen drones toward Israel, but with a high success rate for the missiles, hitting various locations, some of them civilian areas. Footage: Misa Raumi 🔗 Patricia Marins (@pati_marins64)",
+    "url": "https://t.me/CIG_telegram/69676",
+    "published": "2026-02-28T19:27:16+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Israel's air defenses fail to intercept Iranian missiles in Tel Aviv",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missiles targeting Tel Aviv, with at least two missiles hitting their targets despite Israel's air defenses firing nine times in unsuccessful interception attempts. This event marks a high success rate for Iranian missiles amid ongoing hostilities, impacting civilian areas.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "intercept"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strike on Tel Aviv, with successful hits despite Israeli air defenses, signifies a direct and significant escalation in regional hostilities with potential implications for US-Iran tensions."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "19fb439887a81538",
+    "title_original": "مادران گرگانی در سوگ دختران میناب: کفنِ دشمن را دوخته‌ایم",
+    "content_original": "مادران گرگانی در سوگ دختران میناب: کفنِ دشمن را دوخته‌ایم",
+    "url": "https://www.irna.ir/news/86089842/%D9%85%D8%A7%D8%AF%D8%B1%D8%A7%D9%86-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%B3%D9%88%DA%AF-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%DA%A9%D9%81%D9%86-%D8%AF%D8%B4%D9%85%D9%86-%D8%B1%D8%A7-%D8%AF%D9%88%D8%AE%D8%AA%D9%87-%D8%A7%DB%8C%D9%85",
+    "published": "2026-02-28T19:25:50+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Mothers in Gorgan mourn daughters killed in Minab: 'We have sewn the enemy's shroud'",
+    "relevant": true,
+    "summary_en": "The article describes mothers in Gorgan mourning their daughters who were killed in Minab, likely due to the ongoing conflict. This suggests casualties among civilians or local forces in southern Iran, highlighting the human cost of the conflict and potential escalation in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US"
+      ],
+      "location": "Minab, Iran",
+      "brief": "The article suggests casualties among Iranian civilians or local forces in Minab, indicating a significant escalation in the region and highlighting the human cost of the conflict."
+    },
+    "lat": 27.1,
+    "lng": 57.08
   },
   {
     "id": "69e46cd9979ffe34",

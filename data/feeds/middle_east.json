@@ -1,5 +1,21 @@
 [
   {
+    "id": "5b132dd6cbaed991",
+    "title_original": "Norway advises against travel to Middle East states",
+    "content_original": "Norway advises against travel to Middle East states Norway has urged its citizens to avoid travel to several countries across the Middle East following the Israeli-US war on Iran. The foreign ministry advised against travelling to Israel, Palestine, Lebanon, Jordan, the United Arab Emirates, Saudi Arabia, Bahrain, Kuwait, Qatar and Iraq. Authorities said the guidance reflects the deteriorating security situation and heightened risk across the region.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/norway-advises-against-travel-middle-east-states",
+    "published": "2026-02-28T19:33:54+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Norway advises against travel to Middle East states",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Norway has advised its citizens to avoid travel to multiple Middle Eastern countries, including Israel, Palestine, Lebanon, Jordan, UAE, Saudi Arabia, Bahrain, Kuwait, Qatar, and Iraq, due to the deteriorating security situation and heightened risk amid the Israeli-US war on Iran. This advisory underscores the regional instability and potential threats to civilians from ongoing hostilities."
+  },
+  {
     "id": "69e46cd9979ffe34",
     "title_original": "Italy’s defence minister stranded in Dubai after strikes",
     "content_original": "Italy’s defence minister stranded in Dubai after strikes Italy’s Defence Minister Guido Crosetto was stranded in Dubai on Saturday after flight suspensions followed US and Israeli strikes on Iran, a source close to the ministry said, Reuters reported. Crosetto had travelled from Rome on Friday evening on a civilian flight to join his family, who were already in Dubai on holiday. He had been due to return to Italy on Saturday afternoon. Italian carrier ITA Airways confirmed it has suspended flights to and from Dubai until Sunday.",
@@ -1086,6 +1102,22 @@
     "relevant": true,
     "translated": true,
     "summary_en": "Unspecified air strikes targeted the Jurf Al-Nasr area in northern Babil province, Iraq, resulting in two fatalities and three injuries. The Joint Operations Command is expected to release further details. This incident is significant due to its potential connection to ongoing proxy conflicts or US-led operations in Iraq."
+  },
+  {
+    "id": "7a0a7a187eb09ec6",
+    "title_original": "Could the US-Israel war on Iran drag on?",
+    "content_original": "The US-Israeli strikes launched on Iran Saturday could become an extended operation, with strategic goals both multiple and complex -- aiming to decapitate the Islamic republic and eviscerate its security capabilities. In the 12-day war in June last year, the Israelis, backed by the Americans, carried out targeted strikes aimed at destroying key Iranian nuclear sites. This time \"we are embarking on an operation that is unfolding on a completely different scale, more complex and more complicated\" than in June, Israel's army chief Lieutenant General Eyal Zamir warned.",
+    "url": "https://www.al-monitor.com/originals/2026/02/could-us-israel-war-iran-drag",
+    "published": "2026-02-28T14:30:22-05:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US-Israel war on Iran could become extended operation",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel are considering an extended military operation against Iran, aiming to dismantle its nuclear capabilities and weaken its security infrastructure. This operation is expected to be more complex and larger in scale compared to the 12-day strikes in June last year, signaling a potential escalation in the ongoing conflict."
   },
   {
     "id": "e4030d11527d3378",
