@@ -503,6 +503,12 @@ regions:
         language: ar
         category: proxy
 
+      - name: "Hezbollah Electronic Army (TG)"
+        type: telegram
+        channel: "Electrohizbullah"
+        language: ar
+        category: proxy
+
       # - name: "Hezbollah Military Media (TG)"
       #   type: telegram
       #   channel: "C_Media_h"
