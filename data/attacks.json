@@ -1,5 +1,177 @@
 [
   {
+    "id": "791bbbd603cddbd8",
+    "title_original": "Tasnim: Иран ударил ракетами по Тель-Авиву",
+    "content_original": "Tasnim: Иран ударил ракетами по Тель-Авиву",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591477",
+    "published": "2026-02-28T18:44:13+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes Tel Aviv with Missiles",
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting Tel Aviv, Israel. This represents a significant escalation in the conflict, demonstrating Iran's willingness to directly target Israeli cities. The strikes will likely prompt a strong Israeli military response and further regional instability.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strikes on Tel Aviv mark a critical escalation, demonstrating direct targeting of Israeli cities and significantly raising the risk of broader regional conflict."
+    },
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  {
+    "id": "1d589c8ef99bcafb",
+    "title_original": "МИД Белоруссии осудил удары США и Израиля по школе в Иране",
+    "content_original": "МИД Белоруссии осудил удары США и Израиля по школе в Иране",
+    "url": "https://ria.ru/20260228/iran-2077489038.html",
+    "published": "2026-02-28T18:43:29+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Belarusian Foreign Ministry condemns US and Israeli strikes on an Iranian school",
+    "relevant": true,
+    "summary_en": "The Belarusian Foreign Ministry has condemned the US and Israeli strikes on an Iranian school, highlighting international criticism of the attacks. This condemnation adds to the diplomatic tensions surrounding the ongoing conflict between the US, Israel, and Iran. The incident underscores the broader geopolitical implications of the conflict and the involvement of various international actors.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "Belarus"
+      ],
+      "location": "Iran",
+      "brief": "The US and Israeli airstrike on an Iranian school escalates regional tensions and draws international criticism, highlighting the expanding geopolitical implications of the conflict."
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
+  },
+  {
+    "id": "9a12ebee24ca55d9",
+    "title_original": "МИД Ирана назвал актом самообороны атаки Тегерана против американских баз",
+    "content_original": "Глава иранского дипведомства Аббас Арагчи уведомил об этом страны Персидского залива",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590905",
+    "published": "2026-02-28T18:42:47+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Foreign Ministry Calls Tehran's attacks on US bases an act of self-defense",
+    "relevant": true,
+    "summary_en": "Iran's Foreign Minister, Abbas Araghchi, informed Gulf countries that Tehran's attacks on US bases were acts of self-defense. This statement highlights Iran's justification for its military actions amidst ongoing hostilities with the US, signaling potential escalation or continued conflict in the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "US bases in the region",
+      "brief": "Iran's justification of its attacks on US bases as self-defense indicates ongoing direct military engagement, posing a significant escalation risk in the conflict."
+    },
+    "lat": 52.4577754,
+    "lng": -1.8692099
+  },
+  {
+    "id": "8b17bc1cdfe604c1",
+    "title_original": "Системы ПВО работают по целям в небе над Тегераном, сообщают СМИ",
+    "content_original": "Системы ПВО работают по целям в небе над Тегераном, сообщают СМИ",
+    "url": "https://ria.ru/20260228/smi-2077488147.html",
+    "published": "2026-02-28T18:38:01+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Air Defense Systems Active Over Tehran Sky",
+    "relevant": true,
+    "summary_en": "Air defense systems are engaging targets over Tehran, according to media reports. This suggests ongoing threats to Iran's capital, likely from US or allied airstrikes or missile attacks. The development indicates heightened military activity targeting Iran's core infrastructure.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The activation of air defense systems over Tehran suggests a direct US or allied strike targeting Iran's capital, representing a significant escalation in the conflict with potential for broader regional implications."
+    },
+    "lat": 35.6892523,
+    "lng": 51.3896004
+  },
+  {
+    "id": "0aa974aea159a95c",
+    "title_original": "Число погибших после удара по школе для девочек на юге Ирана возросло до 85",
+    "content_original": "Число погибших после удара по школе для девочек на юге Ирана возросло до 85",
+    "url": "https://tass.ru/proisshestviya/26591391",
+    "published": "2026-02-28T18:37:31+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Death toll from strike on girls' school in southern Iran rises to 85",
+    "relevant": true,
+    "summary_en": "An airstrike targeted a girls' school in southern Iran, resulting in at least 85 fatalities. The incident occurred in a region of Iran, though the specific perpetrators are not identified in the provided context. This event signifies a potential escalation in the conflict with significant civilian casualties, drawing international attention and potential condemnation.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "airstrike",
+      "death",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "unknown",
+        "Iran"
+      ],
+      "location": "southern Iran",
+      "brief": "The airstrike on a girls' school in southern Iran, resulting in at least 85 fatalities, represents a significant escalation with substantial civilian casualties, likely to provoke international condemnation and potential retaliatory measures by Iran."
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
+  },
+  {
     "id": "8e6a296a940a13b5",
     "title_original": "Число погибших при ударе по школе в Иране выросло до 85",
     "content_original": "Число погибших при ударе по школе в Иране выросло до 85",
@@ -33,7 +205,9 @@
       ],
       "location": "Iran",
       "brief": "The airstrike on an Iranian school resulting in at least 85 fatalities represents a significant escalation with potential direct involvement of US or Israeli forces, posing a critical threat to regional stability."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "bf169749561085b9",
@@ -64,7 +238,9 @@
       ],
       "location": "Iran",
       "brief": "Israel's strikes on Iranian missile launchers represent a significant escalation in direct military action against Iran, impacting regional missile capabilities and escalating hostilities."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "ca8ec83c06972f42",
@@ -98,7 +274,9 @@
       ],
       "location": "Kuwait International Airport, Kuwait",
       "brief": "The drone strike on Kuwait International Airport, a critical civilian infrastructure hub allied with the US, suggests an expansion of the Iran-US conflict zone and potential escalation through proxy warfare."
-    }
+    },
+    "lat": 29.2202681,
+    "lng": 47.9551556
   },
   {
     "id": "401b5f3f5ff055e7",
@@ -130,7 +308,9 @@
       ],
       "location": "Doha, Qatar",
       "brief": "Explosions in Doha, home to key US military bases, suggest a potential escalation targeting US regional operations amid the Iran conflict, with significant implications for US military infrastructure and regional stability."
-    }
+    },
+    "lat": 25.3108807,
+    "lng": 51.5081812
   },
   {
     "id": "67c323fdf548098a",
@@ -162,7 +342,9 @@
       ],
       "location": "Dubai, UAE",
       "brief": "The missile landing near a major civilian infrastructure site in Dubai demonstrates an escalation in the conflict with potential to disrupt international business and tourism, highlighting the threat to regional stability and global economic interests."
-    }
+    },
+    "lat": 25.0742823,
+    "lng": 55.1885387
   },
   {
     "id": "2c641097cb2206c3",
@@ -226,7 +408,9 @@
       ],
       "location": "Iran",
       "brief": "The US announcement of large-scale combat operations in Iran marks a critical escalation, indicating direct state engagement and potential for regional instability."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "90b2f159796e6c8f",
@@ -329,7 +513,9 @@
       ],
       "location": "Kuwait International Airport, Kuwait",
       "brief": "The drone strike on Kuwait International Airport, a critical logistics hub for US operations in the Gulf, represents an expansion of conflict zones and could impact US military logistics in the region."
-    }
+    },
+    "lat": 29.2202681,
+    "lng": 47.9551556
   },
   {
     "id": "5c1a52016ee93894",
@@ -360,7 +546,9 @@
       ],
       "location": "Iran",
       "brief": "The US military operation against Iran, despite ongoing negotiations, signifies a significant escalation in direct hostilities and a potential breakdown in diplomatic efforts."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "e58cf297c160f54c",
@@ -2067,6 +2255,177 @@
     "lng": 34.8
   },
   {
+    "id": "6d8e0779418f10c5",
+    "title_original": "🚨 گزارش های مردمی از شنیده شدن صدای انفجار مهیب در بندر عباس ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات ...",
+    "content_original": "🚨 گزارش های مردمی از شنیده شدن صدای انفجار مهیب در بندر عباس ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44850",
+    "published": "2026-02-28T15:47:04+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosion Heard in Bandar Abbas, Iran",
+    "relevant": true,
+    "summary_en": "An explosion has been reported in Bandar Abbas, Iran, with local reports indicating a loud blast. This is significant as Bandar Abbas is a major port city and home to significant IRGC naval assets, suggesting potential military targeting by US forces or a related incident amidst ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "irgc",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Bandar Abbas, Iran",
+      "brief": "The explosion in Bandar Abbas, home to significant IRGC naval assets, suggests a potential US airstrike targeting critical military infrastructure, escalating ongoing hostilities."
+    },
+    "lat": 27.1901938,
+    "lng": 56.2842212
+  },
+  {
+    "id": "df774bb04eab5616",
+    "title_original": "Iran’s retaliatory attack completely destroys sophisticated US radar system in Qatar",
+    "content_original": "Iran’s retaliatory attack completely destroys sophisticated US radar system in Qatar",
+    "url": "https://presstv.ir/Detail/2026/02/28/764835/iran-retaliatory-attack-completely-destorys-sophisticated-us-radar-system-qatar",
+    "published": "2026-02-28T15:46:58.076327+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran’s retaliatory attack completely destroys sophisticated US radar system in Qatar",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Qatar"
+      ],
+      "location": "Qatar",
+      "brief": "Iran's direct attack on a US radar system in Qatar marks a significant escalation, demonstrating Iran's capability to target US military assets in the region."
+    },
+    "lat": 25.3336984,
+    "lng": 51.2295295
+  },
+  {
+    "id": "0bf22a45212319a2",
+    "title_original": "🚨 شلیک موشک های سجیل به سرزمین اشغالی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آم...",
+    "content_original": "🚨 شلیک موشک های سجیل به سرزمین اشغالی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44849",
+    "published": "2026-02-28T15:46:27+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile Strikes on Occupied Territories",
+    "relevant": true,
+    "summary_en": "Iranian forces have launched Sajil missiles targeting occupied territories, likely referring to Israeli positions. This represents a significant escalation in the ongoing conflict, demonstrating Iran's continued willingness to engage in direct military action against its adversaries in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Islamic Resistance Iraq"
+      ],
+      "location": "Occupied Territories (likely Israeli positions)",
+      "brief": "Iran's ballistic missile strikes on Israeli positions signal a significant escalation, demonstrating direct military engagement and increased regional instability."
+    },
+    "lat": 50.429608,
+    "lng": 30.4558968
+  },
+  {
+    "id": "dac58ef9de664840",
+    "title_original": "سپاه پاسداران از انهدام سه پهپاد هرمس در آسمان کشور خبر داد",
+    "content_original": "سپاه پاسداران از انهدام سه پهپاد هرمس در آسمان کشور خبر داد",
+    "url": "https://www.irna.ir/news/86089695/%D8%B3%D9%BE%D8%A7%D9%87-%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A7%D9%86%D9%87%D8%AF%D8%A7%D9%85-%D8%B3%D9%87-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF-%D9%87%D8%B1%D9%85%D8%B3-%D8%AF%D8%B1-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%DA%A9%D8%B4%D9%88%D8%B1-%D8%AE%D8%A8%D8%B1-%D8%AF%D8%A7%D8%AF",
+    "published": "2026-02-28T15:44:41+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC Claims Destruction of Three Hermes Drones Over Iran",
+    "relevant": true,
+    "summary_en": "The IRGC announced the destruction of three Hermes drones in Iranian airspace. This incident highlights ongoing tensions and the use of unmanned aerial systems in the conflict. The strategic significance involves Iran's air defense capabilities and potential foreign involvement in surveillance or attacks.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iranian airspace",
+      "brief": "The incident highlights Iran's use of air defense systems against foreign drones, reflecting ongoing surveillance and potential escalation in unmanned system engagements."
+    }
+  },
+  {
+    "id": "20a8d0c2a2a5414c",
+    "title_original": "اسرائیل در شوک؛ اصابت‌های پیاپی و آژیرهایی که خاموش نمی‌شوند",
+    "content_original": "اسرائیل در شوک؛ اصابت‌های پیاپی و آژیرهایی که خاموش نمی‌شوند",
+    "url": "https://www.irna.ir/news/86089685/%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%AF%D8%B1-%D8%B4%D9%88%DA%A9-%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D9%87%D8%A7%DB%8C-%D9%BE%DB%8C%D8%A7%D9%BE%DB%8C-%D9%88-%D8%A2%DA%98%DB%8C%D8%B1%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%AE%D8%A7%D9%85%D9%88%D8%B4-%D9%86%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
+    "published": "2026-02-28T15:44:29+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Israel in Shock: Continuous Strikes and Unending Sirens",
+    "relevant": true,
+    "summary_en": "The article likely describes a significant escalation in attacks on Israel, with ongoing strikes and persistent air raid sirens. This suggests a major offensive by Hezbollah or other Iranian-backed groups, indicating heightened conflict on Israel's northern border and potential strategic implications for regional stability.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "offensive",
+      "raid",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel's northern border",
+      "brief": "The continuous strikes and persistent air raid sirens indicate a major offensive by Hezbollah, a key Iranian proxy, posing a significant threat to regional stability and potentially drawing in broader Iran-US conflict dynamics."
+    }
+  },
+  {
     "id": "63677fc60448dd7e",
     "title_original": "Более 20 провинций Ирана подверглись атакам США и Израиля",
     "content_original": "Данные привели представители Красного Полумесяца Ирана",
@@ -2102,6 +2461,75 @@
     "lng": 54.56
   },
   {
+    "id": "caed700fa6f9b8f7",
+    "title_original": "ادامه فعالیت رادیو مقاومت دزفول با وجود اصابت موشک",
+    "content_original": "ادامه فعالیت رادیو مقاومت دزفول با وجود اصابت موشک",
+    "url": "https://www.irna.ir/news/86089654/%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%AA-%D8%AF%D8%B2%D9%81%D9%88%D9%84-%D8%A8%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D9%85%D9%88%D8%B4%DA%A9",
+    "published": "2026-02-28T15:40:50+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Radio Resistance Dezful Continues Broadcasting Despite Missile Strike",
+    "relevant": true,
+    "summary_en": "An unidentified party launched a missile strike targeting Radio Resistance Dezful in Iran, but the station remains operational. This incident highlights ongoing efforts to disrupt local media and communication channels amid the conflict. The strategic significance lies in attempts to undermine information dissemination within Iran during the war.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "war",
+      "missile",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "unknown"
+      ],
+      "location": "Dezful, Iran",
+      "brief": "The missile strike on Radio Resistance Dezful demonstrates ongoing efforts to disrupt Iranian communication channels, impacting information dissemination within Iran during the conflict."
+    },
+    "lat": 32.3780257,
+    "lng": 48.4032064
+  },
+  {
+    "id": "159d060c2aaa0636",
+    "title_original": "🚨 آسیب های شدید به رادار های آمریکایی در قطر توسط پهپاد شاهد ۱۳۶ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحو...",
+    "content_original": "🚨 آسیب های شدید به رادار های آمریکایی در قطر توسط پهپاد شاهد ۱۳۶ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44848",
+    "published": "2026-02-28T15:40:41+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US radars in Qatar severely damaged by Shahed-136 drones",
+    "relevant": true,
+    "summary_en": "Unidentified actors targeted US radar installations in Qatar using Shahed-136 drones, causing severe damage. This incident highlights the vulnerability of US military assets in the region to drone attacks and could escalate tensions between Iran and the US. The strategic significance lies in the potential disruption of US surveillance and defense capabilities in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Islamic Resistance Iraq (proxy)"
+      ],
+      "location": "Qatar",
+      "brief": "The drone strike on US radar installations in Qatar by Iranian proxies demonstrates a significant escalation in the use of unmanned systems to target critical US military infrastructure in the Gulf region."
+    },
+    "lat": 25.3336984,
+    "lng": 51.2295295
+  },
+  {
     "id": "e1880caac684cd43",
     "title_original": "یک شهید و ۳۵ مجروح در آذربایجان شرقی بر اثر تهاجم اسرائیل و آمریکا",
     "content_original": "یک شهید و ۳۵ مجروح در آذربایجان شرقی بر اثر تهاجم اسرائیل و آمریکا",
@@ -2133,7 +2561,9 @@
       ],
       "location": "East Azerbaijan, Iran",
       "brief": "The incident represents a significant escalation with direct US and Israeli involvement in Iran, resulting in casualties and potential regional spillover of the conflict."
-    }
+    },
+    "lat": 38.9376054,
+    "lng": 45.6252101
   },
   {
     "id": "a4f6b5b1da15cd37",
@@ -2165,7 +2595,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct ballistic missile strike on Israel represents a significant escalation, posing a critical threat to regional stability and potentially drawing in US forces."
-    }
+    },
+    "lat": 30.8124247,
+    "lng": 34.8594762
   },
   {
     "id": "e57493a7b51656a2",
@@ -2198,7 +2630,9 @@
       ],
       "location": "Iraq, Syria, and the Gulf region",
       "brief": "The missile attacks on US military bases in multiple strategic locations represent a direct and significant escalation by Iran, posing a critical threat to US forces and regional stability."
-    }
+    },
+    "lat": 36.3832089,
+    "lng": 42.9927784
   },
   {
     "id": "f44625121eb8835d",
