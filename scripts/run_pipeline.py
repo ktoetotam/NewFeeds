@@ -197,8 +197,22 @@ def run():
         logger.error("MINIMAX_API_KEY not set. Set it as an environment variable.")
         sys.exit(1)
 
+    # Test mode: limit to one region, 3 articles
+    test_mode = os.environ.get("TEST_MODE", "").lower() in ("1", "true", "yes")
+    if test_mode:
+        logger.info("*** TEST MODE: 1 region, 3 articles ***")
+
     # Load sources
     sources = load_sources()
+    if test_mode:
+        # Keep only the first region
+        regions = sources.get("regions", {})
+        first_key = next(iter(regions))
+        first_region = regions[first_key]
+        # Keep only the first source in that region
+        if first_region.get("sources"):
+            first_region["sources"] = first_region["sources"][:1]
+        sources["regions"] = {first_key: first_region}
     logger.info(f"Loaded {sum(len(r.get('sources', [])) for r in sources.get('regions', {}).values())} sources")
 
     # ── Step 1: Fetch articles ──
@@ -270,7 +284,7 @@ def run():
 
     from translate_summarize import translate_articles
 
-    max_per_region = int(os.environ.get("MAX_PER_REGION", "80"))
+    max_per_region = int(os.environ.get("MAX_PER_REGION", "3" if test_mode else "80"))
 
     all_translated = {}
     for region, (existing, new_articles) in new_by_region.items():
