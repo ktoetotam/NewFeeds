@@ -36,6 +36,109 @@
     "lng": 54.56
   },
   {
+    "id": "33e6319088189932",
+    "title_original": "После удара дрона по гостинице в Дубае никто не пострадал",
+    "content_original": "После удара дрона по гостинице в Дубае никто не пострадал",
+    "url": "https://ria.ru/20260301/udar-2077565103.html",
+    "published": "2026-03-01T01:48:44+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drone Strikes Hotel in Dubai, No Casualties Reported",
+    "relevant": true,
+    "summary_en": "A drone strike targeted a hotel in Dubai, United Arab Emirates. No casualties were reported from the incident. The attack highlights the vulnerability of civilian infrastructure in the region amid ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "The drone strike on a civilian hotel in Dubai demonstrates the potential for escalation in regional hostilities and highlights the vulnerability of critical infrastructure amid the Iran–US conflict."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "56669be7fe24f323",
+    "title_original": "В Иране заявили о 100 убитых детей при ударе Израиля и США по школе",
+    "content_original": "В Иране заявили о 100 убитых детей при ударе Израиля и США по школе",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594803",
+    "published": "2026-03-01T01:40:46+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran claims 100 children killed in US-Israel strike on school",
+    "relevant": true,
+    "summary_en": "Iran has reported that a US-Israel strike on a school resulted in the deaths of 100 children. This incident, if confirmed, would represent a significant escalation in civilian casualties and could provoke international condemnation and further complicate the conflict dynamics between Iran, the US, and Israel.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "deaths",
+      "strike",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "unspecified school in Iran",
+      "brief": "The reported US-Israel strike resulting in mass civilian casualties, particularly the deaths of 100 children, represents a significant escalation with potential for international condemnation and increased regional tensions."
+    }
+  },
+  {
+    "id": "247214b85c937581",
+    "title_original": "Израиль отчитался о серии ударов по ракетным комплексам и системам ПВО в Иране",
+    "content_original": "Израиль отчитался о серии ударов по ракетным комплексам и системам ПВО в Иране",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594791",
+    "published": "2026-03-01T01:39:14+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel reports series of strikes on missile and air-defense systems in Iran",
+    "relevant": true,
+    "summary_en": "Israel conducted a series of strikes targeting missile complexes and air-defense systems in Iran. This operation demonstrates Israel's ongoing efforts to degrade Iran's military capabilities and retaliatory infrastructure. The strikes are strategically significant as they aim to hinder Iran's ability to launch attacks against Israel or its allies in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel's strikes on Iranian missile and air-defense systems represent a significant escalation in regional hostilities, directly targeting Iran's retaliatory capabilities and posing a risk of broader conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "d3b5961515cde64d",
     "title_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
     "content_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
@@ -572,6 +675,75 @@
     "merged_source_count": 4,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "f782f83215024969",
+    "title_original": "⚡️  Witnesses told Reuters that some Iranians in several areas of Tehran celebrated in the streets after Trump said K...",
+    "content_original": "⚡️ Witnesses told Reuters that some Iranians in several areas of Tehran celebrated in the streets after Trump said Khamenei was killed in airstrikes",
+    "url": "https://t.me/warmonitors/40143",
+    "published": "2026-02-28T22:39:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranians in Tehran celebrated after reports of Khamenei being killed in airstrikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Some Iranians in Tehran reportedly celebrated in the streets following claims that Supreme Leader Khamenei was killed in US airstrikes. This indicates potential instability within Iran and the impact of leadership targeting on public sentiment. The situation's veracity and implications for the conflict remain uncertain.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Reports of a US strike targeting Iran's Supreme Leader Khamenei suggest a significant escalation in the conflict with potential for major instability within Iran."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "12fb1814c3e9e0d5",
+    "title_original": "‼️ 🇺🇸 🇮🇱  - Do Gulf Allies Have Enough Interceptors to Defend Their Ports and Cities?  Iran fired so many missiles th...",
+    "content_original": "‼️ 🇺🇸 🇮🇱 - Do Gulf Allies Have Enough Interceptors to Defend Their Ports and Cities? Iran fired so many missiles that US interceptor stocks could run dry within days. Each THAAD costs $15M. We're using them faster than Lockheed can build them. Iran has thousands…",
+    "url": "https://t.me/CIG_telegram/69725",
+    "published": "2026-02-28T22:37:35+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Gulf Allies' Interceptor Stock Concerns Amid Iranian Missile Barrage",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses concerns over the adequacy of missile interceptors possessed by Gulf allies to defend against Iran's extensive missile attacks. The US is reportedly depleting its stocks of interceptors, including costly THAAD systems, faster than they can be replenished, raising strategic concerns about defense capabilities in the region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Gulf Allies"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran's missile barrage depleting US and Gulf allies' interceptor stocks raises concerns over regional defense capabilities and strategic imbalance."
+    },
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "670b71dcd2704cd1",

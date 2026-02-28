@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-02-28T22-39-29.972599_plus_00-00.json",
+    "generated_at": "2026-02-28T22:39:29.972599+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 150,
+    "summary_preview": "The Iran–US conflict has escalated dramatically with a surge in direct military engagements, including coordinated airstrikes by the US and Israel on Iran, retaliatory missile attacks by Iran on US ba"
+  },
+  {
     "filename": "2026-02-28T22-30-08.312767_plus_00-00.json",
     "generated_at": "2026-02-28T22:30:08.312767+00:00",
     "threat_label": "MAJOR",
