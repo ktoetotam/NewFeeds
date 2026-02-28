@@ -1,5 +1,198 @@
 [
   {
+    "id": "b2ff067902dc7c16",
+    "title_original": "Fox news: США впервые применили в боевых условиях дроны-камикадзе",
+    "content_original": "Fox news: США впервые применили в боевых условиях дроны-камикадзе",
+    "url": "https://ria.ru/20260228/ssha-2077480574.html",
+    "published": "2026-02-28T17:52:18+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Uses Kamikaze Drones in Combat for the First Time",
+    "relevant": true,
+    "summary_en": "The US has deployed kamikaze drones in combat operations, marking their first use in the ongoing conflict with Iran. This development signifies an escalation in the types of weaponry being utilized by US forces in the region. The strategic significance lies in the potential for more precise and lethal strikes against Iranian and proxy targets.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Middle East region",
+      "brief": "The deployment of kamikaze drones by the US marks an escalation in precision strike capabilities against Iranian and proxy targets, signaling a shift in combat tactics."
+    }
+  },
+  {
+    "id": "626772f263b78896",
+    "title_original": "Fox: США при ударах по Ирану впервые применили дроны-камикадзе",
+    "content_original": "Fox: США при ударах по Ирану впервые применили дроны-камикадзе",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590885",
+    "published": "2026-02-28T17:49:34+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Uses Kamikaze Drones for the First Time in Strikes on Iran",
+    "relevant": true,
+    "summary_en": "The US has deployed kamikaze drones for the first time in its strikes against Iran, marking a new phase in the conflict. This development signifies an escalation in the use of unmanned aerial systems by the US military against Iranian targets. The strategic significance lies in the potential for more precise and sustained attacks on Iranian infrastructure and military assets.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The use of kamikaze drones by the US marks a significant escalation in the conflict, demonstrating a new capability for precise and sustained attacks on Iranian infrastructure and military assets."
+    }
+  },
+  {
+    "id": "52c3ffa7abb5923f",
+    "title_original": "В Израиле в очередной раз объявили воздушную тревогу",
+    "content_original": "Сирены работают в районе Тель-Авива",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590873",
+    "published": "2026-02-28T17:49:11+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Air Raid Alert Declared in Israel Again",
+    "relevant": true,
+    "summary_en": "Air raid sirens have been activated in the Tel Aviv area of Israel, indicating a potential threat from missile or drone attacks. This is the latest in a series of alerts amid ongoing regional tensions and conflicts involving Israel and Iran-linked groups. The alert underscores the persistent security challenges faced by Israel on its northern borders and from Iranian-backed proxies.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "raid",
+      "drone",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Hezbollah"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "The activation of air raid sirens in Tel Aviv highlights the persistent threat of missile or drone attacks by Iranian-backed Hezbollah, escalating regional tensions and posing a strategic challenge to Israel's security."
+    }
+  },
+  {
+    "id": "f07646c5b3585cc0",
+    "title_original": "Одной из целей атак Израиля по Ирану стала система ПВО",
+    "content_original": "Одной из целей атак Израиля по Ирану стала система ПВО",
+    "url": "https://ria.ru/20260228/iran-2077478837.html",
+    "published": "2026-02-28T17:44:39+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Targets Iranian Air Defense Systems in Airstrikes",
+    "relevant": true,
+    "summary_en": "Israel conducted airstrikes targeting Iranian air defense systems within Iran. This action is part of ongoing hostilities between Israel and Iran, aimed at degrading Iran's defensive capabilities. The strikes have significant military implications for Iran's ability to protect its airspace and respond to future attacks.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel's airstrikes on Iranian air defense systems represent a significant escalation in regional hostilities, directly targeting Iran's military infrastructure and potentially weakening its defensive capabilities."
+    }
+  },
+  {
+    "id": "39a9f27e5bf1f8dc",
+    "title_original": "Израиль зафиксировал еще новый ракетный запуск со стороны Ирана",
+    "content_original": "Израиль зафиксировал еще новый ракетный запуск со стороны Ирана",
+    "url": "https://ria.ru/20260228/izrail-2077478712.html",
+    "published": "2026-02-28T17:43:35+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Detects New Missile Launch from Iran",
+    "relevant": true,
+    "summary_en": "Israel has detected another missile launch originating from Iran. This incident highlights ongoing tensions and the potential for escalation between Iran and Israel. The strategic significance lies in the continued missile activity amid the broader conflict involving Iran and its adversaries.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The missile launch from Iran towards Israel signifies a direct escalation in regional hostilities, posing a significant threat to Israeli security and potentially drawing in broader US involvement."
+    }
+  },
+  {
+    "id": "36c29ca588123eea",
+    "title_original": "Fars: жители Шираза на юге Ирана сообщают об ударах с воздуха",
+    "content_original": "Fars: жители Шираза на юге Ирана сообщают об ударах с воздуха",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590769",
+    "published": "2026-02-28T17:43:20+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Reports of Airstrikes in Shiraz, Southern Iran",
+    "relevant": true,
+    "summary_en": "Unspecified airstrikes have reportedly hit Shiraz in southern Iran, according to local residents. This incident is significant as Shiraz is a major city and its targeting could indicate a shift in US targeting strategy or a potential escalation in the conflict. The military significance will depend on the extent of damage and casualties, which are currently unknown.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Shiraz, Southern Iran",
+      "brief": "The airstrikes on Shiraz, a major Iranian city, suggest a potential escalation in the conflict and a shift in US targeting strategy, with significant strategic implications."
+    }
+  },
+  {
     "id": "0459183ef8304656",
     "title_original": "Fars сообщило о воздушной атаке на иранский Шираз",
     "content_original": "Fars сообщило о воздушной атаке на иранский Шираз",
@@ -1304,6 +1497,40 @@
     }
   },
   {
+    "id": "220851ee3ee1917c",
+    "title_original": "🚨 موج جدید حملات موشکی سپاه ایران به پایگاه های آمریکا آغاز شد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولا...",
+    "content_original": "🚨 موج جدید حملات موشکی سپاه ایران به پایگاه های آمریکا آغاز شد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44845",
+    "published": "2026-02-28T14:54:51+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "New Wave of IRGC Missile Attacks on US Bases Begins",
+    "relevant": true,
+    "summary_en": "The IRGC has initiated a fresh series of missile strikes targeting US military bases, marking an escalation in hostilities. This development signifies a direct confrontation with US forces and underscores the ongoing conflict's intensification. The strategic significance lies in the potential for further escalation and retaliatory measures by the US.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "US military bases",
+      "brief": "The IRGC's missile strikes on US military bases represent a direct and significant escalation in the Iran–US conflict, posing a critical threat to regional stability and increasing the likelihood of retaliatory measures by the US."
+    }
+  },
+  {
     "id": "8b1a196641be8f92",
     "title_original": "Иранская армия сообщила об использовании БПЛА против Израиля",
     "content_original": "Иранская армия сообщила об использовании БПЛА против Израиля",
@@ -1333,6 +1560,73 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct drone strikes against Israel signal an escalation in regional tensions and demonstrate Iran's evolving use of unmanned aerial capabilities in military operations."
+    }
+  },
+  {
+    "id": "d86f61565cbb85d2",
+    "title_original": "۴۲۴ نقطه در مرکز فلسطین اشغالی زیر آژیر قرمز؛ تل‌آویو در وضعیت اضطراری",
+    "content_original": "۴۲۴ نقطه در مرکز فلسطین اشغالی زیر آژیر قرمز؛ تل‌آویو در وضعیت اضطراری",
+    "url": "https://www.irna.ir/news/86089635/%DB%B4%DB%B2%DB%B4-%D9%86%D9%82%D8%B7%D9%87-%D8%AF%D8%B1-%D9%85%D8%B1%DA%A9%D8%B2-%D9%81%D9%84%D8%B3%D8%B7%DB%8C%D9%86-%D8%A7%D8%B4%D8%BA%D8%A7%D9%84%DB%8C-%D8%B2%DB%8C%D8%B1-%D8%A2%DA%98%DB%8C%D8%B1-%D9%82%D8%B1%D9%85%D8%B2-%D8%AA%D9%84-%D8%A2%D9%88%DB%8C%D9%88-%D8%AF%D8%B1-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA",
+    "published": "2026-02-28T14:49:38+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "424 locations in central occupied Palestine under red alert; Tel Aviv in emergency state",
+    "relevant": true,
+    "summary_en": "A significant number of locations in central occupied Palestine have been placed under a red alert, indicating a potential security threat. Tel Aviv has been put in an emergency state, likely due to escalating tensions or security incidents. This development highlights the ongoing volatility and security challenges in the region amid the broader conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "threat",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran (indirect)"
+      ],
+      "location": "Central occupied Palestine, Tel Aviv",
+      "brief": "The escalation in central occupied Palestine and the emergency state in Tel Aviv indicate a significant Hezbollah action, likely supported by Iran, posing a direct threat to Israeli security and potentially drawing in broader regional actors."
+    }
+  },
+  {
+    "id": "5947d0ac61e2a831",
+    "title_original": "השלום שהתפוצץ בלילה: המתווך העומאני חלם על היסטוריה - והתעורר למלחמה אזורית",
+    "content_original": "בדר אל-בוסעידי, שר החוץ של עומאן, היה מאוד אופטימי לאחר סבב השיחות בז'נבה בסוף השבוע. החלום שלו התנפץ עם פתיחת המלחמה באיראן על ידי ישראל וארצות הברית",
+    "url": "https://www.maariv.co.il/news/world/article-1290213",
+    "published": "2026-02-28T14:48:01+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Omani Peace Initiative Derailed by US-Israel Attack on Iran",
+    "relevant": true,
+    "summary_en": "Oman's Foreign Minister Badr Al-Busaidi's optimism for peace following Geneva talks was shattered by the outbreak of war in Iran initiated by Israel and the US. This highlights the escalating regional conflict and the failure of diplomatic efforts to prevent military escalation between Iran and the US-Israel alliance.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The US-Israel attack on Iran represents a direct military escalation, shattering diplomatic efforts and signaling a critical phase in the conflict with significant strategic implications."
     }
   },
   {
@@ -1399,6 +1693,38 @@
       ],
       "location": "Tabriz, Khomein, Ahvaz, Iran",
       "brief": "The downing of Israeli Hermes drones by Iran demonstrates ongoing intelligence or military operations within Iranian territory, escalating tensions in the broader conflict."
+    }
+  },
+  {
+    "id": "70b5cdb3aefa443a",
+    "title_original": "تصاویری از حمله جنایتکارانه دشمن به رادیو دزفول",
+    "content_original": "تصاویری از حمله جنایتکارانه دشمن به رادیو دزفول",
+    "url": "https://www.irna.ir/news/86089626/%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D9%87-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA%DA%A9%D8%A7%D8%B1%D8%A7%D9%86%D9%87-%D8%AF%D8%B4%D9%85%D9%86-%D8%A8%D9%87-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%D8%AF%D8%B2%D9%81%D9%88%D9%84",
+    "published": "2026-02-28T14:44:09+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Enemy Attack on Dezful Radio Station",
+    "relevant": true,
+    "summary_en": "An enemy attack targeted the radio station in Dezful, Iran. This incident is significant as it indicates ongoing efforts to disrupt Iranian communication infrastructure amidst the conflict. The strategic importance lies in the potential impact on Iranian domestic and military communications in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "unknown enemy forces"
+      ],
+      "location": "Dezful, Iran",
+      "brief": "The attack on the Dezful radio station signifies an escalation in efforts to disrupt Iranian communication infrastructure, impacting both domestic and military communications in the region."
     }
   },
   {

@@ -1,5 +1,37 @@
 [
   {
+    "id": "bf6549280dce0525",
+    "title_original": "עשרת הכללים להתנהלות נכונה במלחמת התודעה",
+    "content_original": "להתעדכן רק ממקורות רשמיים, לא להפיץ מידע לא מאומת, לדווח על תוכן מסית ולשתף תוכן מאחד: כך נצלח בשלום את המלחמה בזירה הווירטואלית",
+    "url": "https://www.ynet.co.il/news/article/rkitjugkwl",
+    "published": "2026-02-28T16:48:17+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Ten Rules for Proper Conduct in the War of Consciousness",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "7fd9ec65d602b268",
+    "title_original": "\"חוסלו אולי שני מפקדים, זו משימה בלתי אפשרית\": המסר של איראן לטראמפ",
+    "content_original": "בריאיון ל-NBC, שר החוץ האיראני עבאס עראקצ'י צינן את האופטימיות הישראליות, טען ש\"ככל שידוע\" לו המנהיג העליון עלי חמינאי לא חוסל וכי \"רוב הפקידים בריאים ובטוחים\". עוד הבהיר כי חילופי משטר באיראן הם בגדר \"משימה בלתי אפשרית\" והביע רצון לשוב למו\"מ - בתנאי שייפסקו התקיפות",
+    "url": "https://www.ynet.co.il/news/article/r14uo00lfwl",
+    "published": "2026-02-28T16:47:22+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian Foreign Minister Dismisses Claims of Leadership Assassinations, Calls Regime Change 'Impossible'",
+    "relevant": true,
+    "summary_en": "Iranian Foreign Minister Abbas Araghchi refuted Israeli optimism about the assassination of Iranian leaders, stating that Supreme Leader Ali Khamenei and most officials are safe. He emphasized that regime change in Iran is impossible and expressed willingness to return to negotiations if attacks cease, signaling Iran's stance on the ongoing conflict and potential diplomatic solutions.",
+    "translated": true
+  },
+  {
     "id": "5e6278ad4d2a1826",
     "title_original": "אופטימיות זהירה: מסתמן שחמינאי חוסל במכת הפתע על איראן",
     "content_original": "אופטימיות זהירה: מסתמן שחמינאי חוסל במכת הפתע על איראן",
@@ -45,6 +77,22 @@
     "title_en": "World Reacts to Escalation of Iran-US Conflict; Oman Mediator Calls for De-escalation",
     "relevant": true,
     "summary_en": "The international community is responding to the escalation of the Iran-US conflict, with Moscow condemning US actions as unprovoked aggression. Tehran has called for a UN Security Council meeting, while France's president aligns with the US and Israel, urging Iran to stop destabilizing the region. The Omani mediator is calling on the US to avoid further escalation.",
+    "translated": true
+  },
+  {
+    "id": "5947d0ac61e2a831",
+    "title_original": "השלום שהתפוצץ בלילה: המתווך העומאני חלם על היסטוריה - והתעורר למלחמה אזורית",
+    "content_original": "בדר אל-בוסעידי, שר החוץ של עומאן, היה מאוד אופטימי לאחר סבב השיחות בז'נבה בסוף השבוע. החלום שלו התנפץ עם פתיחת המלחמה באיראן על ידי ישראל וארצות הברית",
+    "url": "https://www.maariv.co.il/news/world/article-1290213",
+    "published": "2026-02-28T14:48:01+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Omani Peace Initiative Derailed by US-Israel Attack on Iran",
+    "relevant": true,
+    "summary_en": "Oman's Foreign Minister Badr Al-Busaidi's optimism for peace following Geneva talks was shattered by the outbreak of war in Iran initiated by Israel and the US. This highlights the escalating regional conflict and the failure of diplomatic efforts to prevent military escalation between Iran and the US-Israel alliance.",
     "translated": true
   },
   {
