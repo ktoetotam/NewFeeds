@@ -1,5 +1,79 @@
 [
   {
+    "id": "949b815c3ef400f8",
+    "title_original": "WSJ: США ранее не сталкивались с таким числом атак на базы за рубежом",
+    "content_original": "WSJ: США ранее не сталкивались с таким числом атак на базы за рубежом",
+    "url": "https://ria.ru/20260228/ssha-2077540398.html",
+    "published": "2026-02-28T22:54:27+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "WSJ: US Faces Unprecedented Number of Attacks on Overseas Bases",
+    "relevant": true,
+    "summary_en": "The Wall Street Journal reports that the US is experiencing an unprecedented number of attacks on its overseas bases, likely referring to the ongoing Iran-US conflict and related proxy attacks. This highlights the escalating military pressure on US forces in the Middle East and the challenges faced by US CENTCOM in protecting personnel and assets. The situation underscores the strategic significance of the conflict's impact on US military presence and operations in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC",
+        "US CENTCOM"
+      ],
+      "location": "Middle East, unspecified US overseas bases",
+      "brief": "The unprecedented number of attacks on US overseas bases signifies a significant escalation in proxy operations by Iran and its allies, posing a high-level threat to US military assets and personnel in the region."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "8f4301d3e104d979",
+    "title_original": "Reuters: верховный лидер Ирана Али Хаменеи погиб",
+    "content_original": "Верховный лидер Ирана Али Хаменеи погиб в результате израильского удара по его резиденции сегодня утром. Тело аятоллы нашли в руинах разрушенной резиденции.",
+    "url": "https://www.kommersant.ru/doc/8477239",
+    "published": "2026-02-28T22:46:51+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Supreme Leader Ali Khamenei killed in Israeli strike",
+    "relevant": true,
+    "summary_en": "Israel reportedly conducted a strike on the residence of Iran's Supreme Leader Ali Khamenei, resulting in his death. The attack took place this morning, and Khamenei's body was found in the ruins of his destroyed residence. This is a significant escalation in the conflict with potentially major implications for Iran's leadership and decision-making.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "death",
+      "killed",
+      "attack",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran, residence of Ali Khamenei",
+      "brief": "The assassination of Iran's Supreme Leader Ali Khamenei by Israel marks a critical escalation, potentially triggering a direct military confrontation between Israel and Iran and destabilizing Iran's command structure."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "3b32a134f5f98eb7",
     "title_original": "Израиль заявил о перехвате нескольких беспилотников, запущенных из Ирана",
     "content_original": "Израиль заявил о перехвате нескольких беспилотников, запущенных из Ирана",
@@ -102,6 +176,41 @@
     "lng": 54.0
   },
   {
+    "id": "92872722ed90ed57",
+    "title_original": "Israeli officials informed Khamenei assassinated in Iran strike, body said to be found in rubble",
+    "content_original": "The body of Ali Khamenei, Iran’s supreme leader since 1989, was reportedly found under the rubble in Tehran. His death marks a major turning point for the Islamic Republic’s leadership.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888283",
+    "published": "2026-02-28T21:39:17+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Khamenei reportedly killed in Israeli strike in Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli officials claim that Ali Khamenei, Iran's supreme leader, was assassinated in a strike on Tehran, with his body reportedly found under rubble. This event marks a significant escalation and potential turning point in the ongoing conflict, as it targets the highest authority in Iran's government.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The assassination of Iran's Supreme Leader Ali Khamenei by Israel marks a critical escalation, potentially triggering a direct and severe response from Iran against Israel and its allies in the region."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "8c0984eb1e8a20ec",
     "title_original": "CENTCOM: военные США отразили сотни атак иранских ракет и беспилотников",
     "content_original": "Информации о жертвах и ранениях среди американцев в связи с боевыми действиями не поступало",
@@ -135,6 +244,367 @@
     },
     "lat": 10.3357315,
     "lng": 123.9011738
+  },
+  {
+    "id": "b2e550010865f577",
+    "title_original": "🎥  The moment an Iranian missile struck a US military base in Erbil, Iraq @PressTV",
+    "content_original": "🎥 The moment an Iranian missile struck a US military base in Erbil, Iraq @PressTV",
+    "url": "https://t.me/presstv/177279",
+    "published": "2026-02-28T20:03:04+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian missile strikes US military base in Erbil, Iraq",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile hit a US military base in Erbil, Iraq, showcasing ongoing Iranian retaliation against US forces in the region. This attack highlights the active conflict and direct engagement between Iran and US military assets in Iraq. The strike signifies an escalation in hostilities and the persistent threat under which US bases in the area operate.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "threat",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "Erbil, Iraq",
+      "brief": "The missile strike on a US military base in Erbil represents a direct escalation by Iran, showcasing the direct engagement between Iranian forces and US military assets in Iraq."
+    },
+    "merged_source_count": 2,
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "58493e45bdf1d4ab",
+    "title_original": "Images show the wreckage of an Israeli Hermes drone, reportedly shot down today by Iranian air defenses over Khomein ...",
+    "content_original": "Images show the wreckage of an Israeli Hermes drone, reportedly shot down today by Iranian air defenses over Khomein in Markazi Province. @PressTV",
+    "url": "https://t.me/presstv/177278",
+    "published": "2026-02-28T20:02:05+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian air defenses shoot down Israeli Hermes drone over Khomein",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian air defenses reportedly shot down an Israeli Hermes drone in Khomein, Markazi Province. This incident highlights ongoing tensions and potential escalation between Israel and Iran, with both sides engaging in surveillance and countermeasures. The strategic significance lies in the continued intelligence gathering and disruption efforts in the region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "shoot down",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Khomein, Markazi Province, Iran",
+      "brief": "The downing of an Israeli Hermes drone by Iran demonstrates ongoing intelligence warfare and escalation risks between Israel and Iran, with potential implications for US regional interests."
+    },
+    "lat": 33.64,
+    "lng": 50.08
+  },
+  {
+    "id": "496333fc7e41a306",
+    "title_original": "۲ افسر ارتشی قزوین در حملات پهپادی دشمن به شهادت رسیدند",
+    "content_original": "۲ افسر ارتشی قزوین در حملات پهپادی دشمن به شهادت رسیدند",
+    "url": "https://www.irna.ir/news/86089875/%DB%B2-%D8%A7%D9%81%D8%B3%D8%B1-%D8%A7%D8%B1%D8%AA%D8%B4%DB%8C-%D9%82%D8%B2%D9%88%DB%8C%D9%86-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%BE%D9%87%D9%BE%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B4%D9%85%D9%86-%D8%A8%D9%87-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%B1%D8%B3%DB%8C%D8%AF%D9%86%D8%AF",
+    "published": "2026-02-28T20:02:00+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Two Qazvin Army Officers Killed in Enemy Drone Attacks",
+    "relevant": true,
+    "summary_en": "Two officers from the Qazvin Army were killed in enemy drone strikes. The attacks occurred in Qazvin, Iran, and highlight the ongoing threat of drone warfare within Iranian territory. This incident underscores the escalating conflict and the use of unmanned aerial systems as a primary tool for targeted attacks.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "killed",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Unspecified enemy (likely US or allied forces)"
+      ],
+      "location": "Qazvin, Iran",
+      "brief": "Drone strikes killing Iranian military officers in Qazvin highlight the use of unmanned systems in targeted attacks within Iran, signaling escalation in the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "70217a833c68981b",
+    "title_original": "تعداد شهدای حملات آمریکا - صهیونی در آذربایجان شرقی  به ۶ نفر رسید/حمله موشکی به ۲۰ نقطه",
+    "content_original": "تعداد شهدای حملات آمریکا - صهیونی در آذربایجان شرقی  به ۶ نفر رسید/حمله موشکی به ۲۰ نقطه",
+    "url": "https://www.irna.ir/news/86089854/%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%A8%D9%87-%DB%B6-%D9%86%D9%81%D8%B1",
+    "published": "2026-02-28T20:00:40+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Casualties in Azerbaijan from US-Israeli attacks rise to 6; missile strikes hit 20 locations",
+    "relevant": true,
+    "summary_en": "Six people have been killed in Azerbaijan's East Azerbaijan province as a result of US-Israeli attacks, with missile strikes targeting 20 locations. This indicates an escalation in the conflict's reach into Azerbaijan, potentially involving US or Israeli operations against Iranian-linked assets in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "Azerbaijan"
+      ],
+      "location": "East Azerbaijan province, Azerbaijan",
+      "brief": "The escalation of US-Israeli attacks in Azerbaijan targeting Iranian-linked assets signifies a significant expansion of the conflict's geographic scope and potential for direct confrontation with Iran."
+    },
+    "lat": 38.073621,
+    "lng": 46.3000401
+  },
+  {
+    "id": "f353536d3c3c46f2",
+    "title_original": "A high-rise building in Bahrain was engulfed in flames after being hit by an Iranian Shahed drone. @PressTV",
+    "content_original": "A high-rise building in Bahrain was engulfed in flames after being hit by an Iranian Shahed drone. @PressTV",
+    "url": "https://t.me/presstv/177277",
+    "published": "2026-02-28T19:58:48+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian Shahed drone hits high-rise building in Bahrain causing fire",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian Shahed drone struck a high-rise building in Bahrain, causing it to be engulfed in flames. This incident represents an escalation of Iranian attacks into the Gulf region, targeting infrastructure in Bahrain, a key US ally. The attack highlights the ongoing threat to US interests and regional stability as hostilities continue.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Bahrain",
+      "brief": "The drone strike on Bahrain by Iran represents a significant escalation targeting US ally infrastructure, posing a direct threat to regional stability and US interests in the Gulf."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "4ccf1c49563bb2fe",
+    "title_original": "فیلم | فاجعه خونین لامرد؛ ۱۸ شهید و ۱۰۰ مجروح در حمله موشکی رژیم صهیونیستی و آمریکا",
+    "content_original": "فیلم | فاجعه خونین لامرد؛ ۱۸ شهید و ۱۰۰ مجروح در حمله موشکی رژیم صهیونیستی و آمریکا",
+    "url": "https://www.irna.ir/news/86089874/%D9%81%DB%8C%D9%84%D9%85-%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D8%AE%D9%88%D9%86%DB%8C%D9%86-%D9%84%D8%A7%D9%85%D8%B1%D8%AF-%DB%B1%DB%B8-%D8%B4%D9%87%DB%8C%D8%AF-%D9%88-%DB%B1%DB%B0%DB%B0-%D9%85%D8%AC%D8%B1%D9%88%D8%AD-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%B1%DA%98%DB%8C%D9%85",
+    "published": "2026-02-28T19:58:34+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "18 Killed and 100 Injured in Missile Attack by Israeli and US Forces in Lamard",
+    "relevant": true,
+    "summary_en": "Israeli and US forces conducted a missile attack in Lamard, Iran, resulting in 18 fatalities and 100 injuries. This incident signifies an escalation in the ongoing conflict, highlighting the direct military engagement on Iranian soil by US and Israeli forces.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lamard, Iran",
+      "brief": "The airstrike by US and Israeli forces on Iranian soil marks a significant escalation, demonstrating direct military engagement and potential for broader conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "f799fbaba42c93e9",
+    "title_original": "'Dubai's nightmare': Iranian strikes shatter calm of UAE business hub",
+    "content_original": "'Dubai's nightmare': Iranian strikes shatter calm of UAE business hub Iran &nbsp;unleashed a furious missile and drone assault across the Arabian Gulf on Saturday in response to a surprise&nbsp; US-Israeli attack , but one city in particular appeared to bear the&nbsp; brunt &nbsp;of it: Dubai. The Gulf emirate, one of seven in the&nbsp; UAE , is the region’s good-time capital, where lucrative business deals can be sealed and celebrated. On Saturday, it was engulfed in billowing smoke and flames as missiles and drones rained down on it. The strikes have more than just geopolitical significance, denting Dubai's reputation for being an oasis of calm and commerce in the Middle East. Dubai has benefited potentially more than any other city in the world from the post-Covid boom of soaring asset prices, cryptocurrency, and remote work. Capitalising on its low tax rate and smooth bureaucracy, Dubai has become a magnet for London bankers and American “finance bros.\" Its financial institutions h...",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/dubais-nightmare-iranian-strikes-shatter-calm-uae-business-hub",
+    "published": "2026-02-28T19:53:17+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian strikes hit UAE's Dubai, shattering calm of business hub",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile and drone attacks on the UAE, specifically targeting Dubai, in retaliation for a US-Israeli strike. The attacks caused significant damage and disrupted the city's reputation as a stable business center. This escalation has serious geopolitical and economic implications for the region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US",
+        "Israel"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran's missile and drone strikes on Dubai, a major UAE city and international business hub, signal a significant escalation in the conflict with potential for direct US involvement due to the UAE's close alliance with the US."
+    },
+    "merged_source_count": 3,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "34c4122e431a6406",
+    "title_original": "حمله رژیم صهیونیستی به قم تلفات جانی نداشت",
+    "content_original": "حمله رژیم صهیونیستی به قم تلفات جانی نداشت",
+    "url": "https://www.irna.ir/news/86089861/%D8%AD%D9%85%D9%84%D9%87-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87-%D9%82%D9%85-%D8%AA%D9%84%D9%81%D8%A7%D8%AA-%D8%AC%D8%A7%D9%86%DB%8C-%D9%86%D8%AF%D8%A7%D8%B4%D8%AA",
+    "published": "2026-02-28T19:51:20+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Israeli regime attack on Qom results in no casualties",
+    "relevant": true,
+    "summary_en": "Israel launched an attack on Qom, Iran, but there were no reported casualties. This incident highlights ongoing tensions and direct confrontations between Israel and Iran amidst the broader conflict. The lack of casualties may influence Iran's response, but the attack itself signifies escalation by Israel.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Qom, Iran",
+      "brief": "Israel's airstrike on Qom, despite causing no casualties, represents a direct escalation in the Israel-Iran conflict, posing potential risks of broader regional escalation within the Iran-US war context."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "1f8fd031b197e47f",
+    "title_original": "🇮🇱 🇺🇸 🇮🇷   On the Iran-Israel War:  /CIG/  #commentary Main takeaway is that the Iranian response was timely, instead...",
+    "content_original": "🇮🇱 🇺🇸 🇮🇷 On the Iran-Israel War: /CIG/ #commentary Main takeaway is that the Iranian response was timely, instead of the 24-48 hour wait last time. Pretty decent day one for Iran. Expected performance by the US et al. Global shipping might be the main casualty here. Unknown what will happen to oil & gas. The main damage caused by Iran et al in recent years was by shutting down the Suez. The US also appears to be shifting towards lower-cost kamikaze drones, taking a page out of Iran's book. Iran focused on radars and anything which aids interceptions. This is better than hitting symbolic buildings like last time. They're taking taking big hits and their leadership may or may not be dead, but they prepared for decentralized military coordination. So it's like a unit by unit basis of commanders making self authorized decisions. Main US military impact is that this will functionally use up the remainder of munitions that would have been used on China. Also the US is not invading Iran shock...",
+    "url": "https://t.me/CIG_telegram/69683",
+    "published": "2026-02-28T19:48:26+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iran's Timely Response in Conflict with Israel and US",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses Iran's swift response in the ongoing conflict, contrasting it with a previous 24-48 hour delay. Iran focused on targeting radars and interception systems, showcasing a more strategic approach. The conflict's impact on global shipping and potential disruptions to oil and gas are highlighted, with concerns over the Suez Canal being a major casualty. The US is also noted to be adopting Iran's kamikaze drone tactics, reflecting a shift in military strategy.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Suez Canal region",
+      "brief": "Iran's strategic use of kamikaze drones to target radars and interception systems, coupled with the US adopting similar tactics, escalates the conflict and threatens global shipping through the Suez Canal."
+    },
+    "lat": -33.5358697,
+    "lng": -70.6723944
+  },
+  {
+    "id": "f319fc605c50a854",
+    "title_original": "⚡ #UPDATE  Israeli ambassador to Washington Yechiel Leiter told U.S. officials that Iran's supreme leader Ali Khamene...",
+    "content_original": "⚡ #UPDATE Israeli ambassador to Washington Yechiel Leiter told U.S. officials that Iran's supreme leader Ali Khamenei has been killed in the Israeli strike on his compound, a source with knowledge said No statement or confirmation from the Iranian side as of now. We will wait.",
+    "url": "https://t.me/warmonitors/40089",
+    "published": "2026-02-28T19:44:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israeli ambassador claims Iran’s Supreme Leader Khamenei killed in Israeli strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel's ambassador to the US, Yechiel Leiter, informed US officials that Iran's Supreme Leader Ali Khamenei may have been killed in an Israeli strike on his compound. This has not been confirmed by Iranian sources. If true, this would be a significant escalation with major implications for Iran's leadership and the ongoing conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (specific location not confirmed)",
+      "brief": "The potential killing of Iran's Supreme Leader Khamenei by an Israeli strike would represent a significant escalation in the conflict with major implications for regional stability and Iranian leadership continuity."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "78d72355e864a693",
