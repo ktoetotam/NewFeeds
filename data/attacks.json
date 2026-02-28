@@ -1,5 +1,43 @@
 [
   {
+    "id": "fba049d48efaf0d4",
+    "title_original": "КСИР: Иран нанес ракетный удар по авиабазе Рамат-Давид и Министерству обороны Израиля",
+    "content_original": "КСИР: Иран нанес ракетный удар по авиабазе Рамат-Давид и Министерству обороны Израиля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594135",
+    "published": "2026-03-01T00:11:44+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC: Iran launches missile strike on Ramat David Airbase and Israeli Defense Ministry",
+    "relevant": true,
+    "summary_en": "The IRGC has reported that Iran launched missile attacks targeting Ramat David Airbase and the Israeli Defense Ministry in Israel. This strike signifies a significant escalation in the conflict, demonstrating Iran's willingness to directly target Israeli military infrastructure. The attack could provoke further retaliatory actions from Israel and potentially draw other regional actors into the conflict.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "irgc",
+      "missile",
+      "strike",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|irgc_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Ramat David Airbase, Israeli Defense Ministry, Israel",
+      "brief": "Iran's direct missile strike on Israeli military infrastructure marks a significant escalation, highlighting potential for broader regional conflict and direct engagement with US allies."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "4b3ef006f920408a",
     "title_original": "Опубликовано видео авиаудара Израиля и США по Зенджану",
     "content_original": "По словам корреспондента израильского канала I24 Ариэля Осерана, вторичные взрывы указывают на вероятность нанесения удара по ракетному комплексу",
@@ -10,138 +48,30 @@
     "language": "ru",
     "region": "russia",
     "skip_translation": false,
-    "title_en": "Israel and US Airstrike on Zanjan Reported",
+    "title_en": "Israel and US Airstrike on Zanjan",
     "relevant": true,
     "summary_en": "Israel and the US conducted a joint airstrike on Zanjan, Iran. Secondary explosions suggest the target may have been a missile complex. This strike is significant as it indicates continued escalation in direct military action against Iranian assets.",
     "translated": true,
     "keyword_matches": 4,
     "matched_keywords": [
-      "missile",
       "strike",
+      "missile",
       "airstrike"
     ],
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "high",
+      "severity": "major",
       "parties_involved": [
         "Israel",
         "United States",
         "Iran"
       ],
       "location": "Zanjan, Iran",
-      "brief": "The joint airstrike by Israel and the US on a suspected missile complex in Zanjan, Iran, signifies a significant escalation in direct military action against Iranian assets."
+      "brief": "The joint US-Israel airstrike on Zanjan, targeting a missile complex, represents a significant escalation in direct military action against Iranian assets."
     },
     "lat": 32.65,
     "lng": 54.56
-  },
-  {
-    "id": "63ab7dc7f12ed4e5",
-    "title_original": "Израиль заявил о ликвидации секретаря Совета по обороне Ирана, глав МО и КСИР",
-    "content_original": "ЦАХАЛ утверждает, что высокопоставленные иранские чиновники были уничтожены во время первого удара ВВС",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26593769",
-    "published": "2026-02-28T23:41:10+03:00",
-    "source_name": "TASS",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Israel Claims to Have Eliminated Iran's Defense Council Secretary and IRGC Chiefs",
-    "relevant": true,
-    "summary_en": "Israel's IDF reportedly conducted strikes that killed high-ranking Iranian officials, including the Secretary of the Supreme National Security Council and heads of the Ministry of Defense and IRGC. This operation signifies a significant escalation in the conflict and targets Iran's military leadership directly. The strategic impact could disrupt Iran's command and control capabilities in the ongoing conflict.",
-    "translated": true,
-    "keyword_matches": 6,
-    "matched_keywords": [
-      "conflict",
-      "killed",
-      "irgc",
-      "idf"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "airstrike",
-      "severity": "high",
-      "parties_involved": [
-        "Israel",
-        "Iran",
-        "IRGC"
-      ],
-      "location": "Iran",
-      "brief": "Israel's airstrike targeting Iran's top military leadership, including the Secretary of the Supreme National Security Council and IRGC chiefs, significantly disrupts Iran's command structure and escalates regional tensions."
-    },
-    "lat": 32.65,
-    "lng": 54.56
-  },
-  {
-    "id": "e60d3d9330cb4107",
-    "title_original": "Израиль заявил, что в ходе атаки погиб командующий КСИР",
-    "content_original": "Израиль заявил, что в ходе атаки погиб командующий КСИР",
-    "url": "https://ria.ru/20260228/iran-2077549684.html",
-    "published": "2026-02-28T23:41:02+03:00",
-    "source_name": "RIA Novosti",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Israel claims senior IRGC commander killed in strike",
-    "relevant": true,
-    "summary_en": "Israel announced that a senior IRGC commander was killed during an attack, likely referring to a recent operation targeting Iranian military leadership. This development signifies a significant escalation in Israel's campaign against Iran-linked targets and could provoke further retaliatory actions from Iran and its proxies.",
-    "translated": true,
-    "keyword_matches": 6,
-    "matched_keywords": [
-      "attack",
-      "killed",
-      "strike",
-      "irgc"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "airstrike",
-      "severity": "high",
-      "parties_involved": [
-        "Israel",
-        "Iran",
-        "IRGC"
-      ],
-      "location": "Unspecified, likely Iran or Syria",
-      "brief": "The killing of a senior IRGC commander by Israel marks a significant escalation in regional tensions and could provoke direct retaliatory actions from Iran or its proxies against US or allied interests."
-    }
-  },
-  {
-    "id": "a5e22cd35e7dc2de",
-    "title_original": "Кувейт заявил об успешном перехвате БПЛА при атаке на базу на юге страны",
-    "content_original": "Кувейт заявил об успешном перехвате БПЛА при атаке на базу на юге страны",
-    "url": "https://ria.ru/20260228/bpla-2077549433.html",
-    "published": "2026-02-28T23:38:41+03:00",
-    "source_name": "RIA Novosti",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Kuwait Reports Successful Interception of Drone Attack on Southern Base",
-    "relevant": true,
-    "summary_en": "Kuwait announced the successful interception of a drone targeting a military base in the southern part of the country. This incident highlights the ongoing regional tensions and potential threats to US allies in the Gulf amid the Iran-US conflict. The strategic significance lies in the potential implications for the security of US assets and personnel in Kuwait.",
-    "translated": true,
-    "keyword_matches": 4,
-    "matched_keywords": [
-      "drone",
-      "attack",
-      "conflict"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "drone_strike",
-      "severity": "medium",
-      "parties_involved": [
-        "Kuwait",
-        "Iran (suspected)",
-        "US (indirect)"
-      ],
-      "location": "southern Kuwait",
-      "brief": "The drone attack on a Kuwaiti military base raises concerns for US assets and personnel security in the region amid ongoing Iran-US tensions."
-    },
-    "lat": 29.38,
-    "lng": 47.99
   },
   {
     "id": "949b815c3ef400f8",
@@ -320,6 +250,42 @@
     "lng": 54.0
   },
   {
+    "id": "db3fc188503c57b6",
+    "title_original": "Israel’s strike on Iran echoes past wars but marks a new doctrine - analysis",
+    "content_original": "Israel’s joint strike with the United States against Iran echoes past wars, but reflects a new doctrine shaped by October 7 and the conclusion that deterrence and containment have failed.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888314",
+    "published": "2026-02-28T22:08:09+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Israel's strike on Iran reflects new doctrine amid ongoing conflict",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel and the United States conducted a joint strike on Iran, marking a shift in military doctrine influenced by recent events like the October 7 attacks. This signifies a move away from deterrence and containment strategies, indicating a more aggressive approach in the ongoing conflict. The strike likely aims to degrade Iran's military capabilities and deter further aggression.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The joint strike by Israel and the United States marks a significant escalation, indicating a shift towards a more aggressive military doctrine aimed at degrading Iran's capabilities."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "07d2e7a7c4a0ac65",
     "title_original": "‘We can suffer to help the Iranian people’: Reservist has home damaged by Iranian missile fragment",
     "content_original": "As the missile hit the ground, fragmented pieces of metal were broken off and launched into his home, burning holes into the ceiling and smashing his windows.",
@@ -330,26 +296,25 @@
     "language": "en",
     "region": "israel",
     "skip_translation": true,
-    "title_en": "Iranian missile fragment damages reservist's home in retaliatory strike",
+    "title_en": "Iranian missile fragment damages reservist's home",
     "translated": true,
     "relevant": true,
-    "summary_en": "An Iranian missile attack resulted in fragments damaging a reservist's home, causing structural damage and highlighting the direct impact on civilians. The incident occurred in an unspecified location, likely within range of Iranian missile capabilities. This underscores the risk under which military personnel and civilians live amidst ongoing hostilities.",
-    "keyword_matches": 5,
+    "summary_en": "An Iranian missile fragment struck a reservist's home in an unspecified location, causing damage to the ceiling and windows. This incident highlights the risks faced by civilians in areas targeted by missile attacks amid the ongoing conflict. The event underscores the potential for collateral damage from Iranian retaliatory strikes against US and allied forces.",
+    "keyword_matches": 4,
     "matched_keywords": [
-      "attack",
-      "strike",
-      "missile"
+      "missile",
+      "conflict"
     ],
     "classification": {
       "is_attack": true,
-      "category": "ballistic_missile",
+      "category": "iran_strike_on_us",
       "severity": "medium",
       "parties_involved": [
         "Iran",
-        "Israel"
+        "US"
       ],
-      "location": "Unspecified location within range of Iranian missile capabilities",
-      "brief": "The incident highlights Iran's continued use of ballistic missiles in retaliatory strikes, posing a direct threat to civilian populations and military personnel in the region."
+      "location": "Unspecified location",
+      "brief": "The incident demonstrates Iran's continued use of missile strikes targeting US and allied forces, posing risks of collateral damage and escalating tensions."
     }
   },
   {
@@ -423,63 +388,56 @@
     "lng": 123.9011738
   },
   {
-    "id": "fa1eb59ffd5005e3",
-    "title_original": "Residence of US soldiers in Bahrain engulfed in flames following an Iranian drone attack  @PressTV",
-    "content_original": "Residence of US soldiers in Bahrain engulfed in flames following an Iranian drone attack @PressTV",
-    "url": "https://t.me/presstv/177297",
-    "published": "2026-02-28T20:58:53+00:00",
-    "source_name": "Press TV (TG)",
-    "source_category": "state",
+    "id": "4339353e37c43dcb",
+    "title_original": "#BREAKING ⚡️ 🇮🇷 🇮🇷 ❌ 🇮🇱 🇺🇸  - The IRGC has announced targeting an IDF's Naval Base in the  Haifa  port and a shipyard...",
+    "content_original": "#BREAKING ⚡️ 🇮🇷 🇮🇷 ❌ 🇮🇱 🇺🇸 - The IRGC has announced targeting an IDF's Naval Base in the Haifa port and a shipyard in the area, the Ramat David Airbase, the \" Kirya \" Ministry of War building , the \" Beit Shemesh \" military-industrial complex, and the Ashdod military industrial complex. The IRGC has stated it used missiles \"more advanced\" and \"precise\" than that of Operation \"True Promise III\".",
+    "url": "https://t.me/CIG_telegram/69716",
+    "published": "2026-02-28T21:12:06+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
     "language": "en",
-    "region": "iran",
+    "region": "russia",
     "skip_translation": true,
-    "title_en": "Iranian drone attack sets US soldiers' residence in Bahrain ablaze",
+    "title_en": "IRGC claims attacks on multiple Israeli military targets including Haifa naval base and Ramat David Airbase",
     "translated": true,
     "relevant": true,
-    "summary_en": "Iran launched a drone attack targeting a US military residence in Bahrain, causing a fire. This incident signifies an escalation in Iranian operations against US assets in the Gulf region. The attack demonstrates Iran's intent to target US military infrastructure outside of direct conflict zones.",
-    "keyword_matches": 6,
+    "summary_en": "The IRGC announced it targeted several Israeli military facilities, including the Haifa naval base, Ramat David Airbase, Kirya Ministry of War building, and military-industrial complexes in Beit Shemesh and Ashdod. The IRGC claims to have used more advanced and precise missiles than in previous operations, indicating a potential escalation in missile capabilities and targeting strategy.",
+    "keyword_matches": 5,
     "matched_keywords": [
-      "drone",
-      "attack",
-      "conflict"
+      "irgc",
+      "missile",
+      "war"
     ],
     "classification": {
       "is_attack": true,
-      "category": "drone_strike",
+      "category": "other",
       "severity": "high",
-      "parties_involved": [
-        "Iran",
-        "United States",
-        "US military in Bahrain"
-      ],
-      "location": "Bahrain",
-      "brief": "The Iranian drone strike on a US military residence in Bahrain marks a significant escalation, demonstrating Iran's willingness to target US assets in the Gulf region outside of direct conflict zones."
-    },
-    "merged_source_count": 2,
-    "lat": 26.07,
-    "lng": 50.55
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
-    "id": "c7110406597b4705",
-    "title_original": "Live coverage captures the moment an Iranian missile hit Tel Aviv  @PressTV",
-    "content_original": "Live coverage captures the moment an Iranian missile hit Tel Aviv @PressTV",
-    "url": "https://t.me/presstv/177294",
-    "published": "2026-02-28T20:53:58+00:00",
-    "source_name": "Press TV (TG)",
-    "source_category": "state",
+    "id": "58fd6350ff9d46f8",
+    "title_original": "Explosion rocks central Israel after Iran missile barrage",
+    "content_original": "Explosion rocks central Israel after Iran missile barrage Loud explosions have been heard in central Israel following what Israeli media describe as a fresh missile barrage from Iran. Channel 12 reported the blast as sirens sounded across Tel Aviv. Israel Hayom said a missile struck the city, though officials have not yet released full details. Haaretz, citing a police source, said five people were wounded at the site of the impact in central Israel. Emergency crews have deployed to the area as authorities assess the damage.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-rocks-central-israel-after-iran-missile-barrage",
+    "published": "2026-02-28T21:11:52+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
     "language": "en",
-    "region": "iran",
+    "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Iranian missile strikes Tel Aviv",
+    "title_en": "Explosion rocks central Israel after Iran missile barrage",
     "translated": true,
     "relevant": true,
-    "summary_en": "An Iranian missile hit Tel Aviv, marking a significant escalation in the conflict as it directly targets a major Israeli city. This attack is likely in retaliation for previous Israeli strikes on Iranian targets and demonstrates Iran's willingness to escalate hostilities against Israel. The strike has significant military and strategic implications, potentially drawing Israel further into the broader US-Iran conflict.",
-    "keyword_matches": 6,
+    "summary_en": "Iran launched a missile barrage targeting central Israel, causing loud explosions heard in Tel Aviv and resulting in at least five injuries. Israeli emergency crews are responding, and authorities are assessing the damage. This attack signifies a significant escalation in the ongoing conflict between Iran and Israel.",
+    "keyword_matches": 5,
     "matched_keywords": [
+      "missile",
       "attack",
       "conflict",
-      "strike",
-      "missile"
+      "explosion"
     ],
     "classification": {
       "is_attack": true,
@@ -487,15 +445,127 @@
       "severity": "major",
       "parties_involved": [
         "Iran",
-        "Israel",
-        "United States"
+        "Israel"
+      ],
+      "location": "central Israel",
+      "brief": "Iran's ballistic missile attack on central Israel marks a significant escalation, demonstrating Tehran's willingness to directly target Israeli population centers and escalating the regional conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "33be436b48a5f6a4",
+    "title_original": "⚡️ Massive destruction in Tel Aviv following Iranian missile strike",
+    "content_original": "⚡️ Massive destruction in Tel Aviv following Iranian missile strike",
+    "url": "https://t.me/warmonitors/40122",
+    "published": "2026-02-28T21:04:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Massive destruction in Tel Aviv following Iranian missile strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike on Tel Aviv, causing massive destruction. This attack is a significant escalation in the conflict, demonstrating Iran's capability to target Israeli population centers. The strike will likely prompt a strong Israeli military response and draw further international attention to the conflict.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "strike",
+      "missile",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
       ],
       "location": "Tel Aviv, Israel",
-      "brief": "Iran's ballistic missile strike on Tel Aviv represents a significant escalation, directly involving Israel and potentially drawing the US further into the conflict."
+      "brief": "Iran's ballistic missile strike on Tel Aviv marks a significant escalation, demonstrating direct engagement capability against Israeli population centers and increasing the risk of broader regional conflict."
     },
-    "merged_source_count": 14,
+    "merged_source_count": 13,
     "lat": 32.08,
     "lng": 34.78
+  },
+  {
+    "id": "dfe027351445eb7b",
+    "title_original": "— ❗️ 🇮🇱 / 🇮🇷  Tel Aviv  @Middle_East_Spectator",
+    "content_original": "— ❗️ 🇮🇱 / 🇮🇷 Tel Aviv @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69709",
+    "published": "2026-02-28T21:03:28+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "IDF Strikes IRGC Targets in Southern Syria",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) conducted airstrikes targeting IRGC assets in southern Syria. The strikes are in response to recent missile launches by Iranian-backed groups towards Israel. This escalation highlights the ongoing tensions and proxy conflict between Israel and Iran in the region.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "irgc",
+      "missile",
+      "conflict",
+      "proxy",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "IRGC"
+      ],
+      "location": "southern Syria",
+      "brief": "The airstrikes by Israel on IRGC targets in southern Syria reflect ongoing proxy conflict escalation between Israel and Iran, with potential regional implications for the Iran–US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 34.8,
+    "lng": 38.99
+  },
+  {
+    "id": "ac90b78910cf65a3",
+    "title_original": "— ❗️ 🇮🇷 / 🇧🇭 / 🇦🇪  BREAKING:  Iranian ballistic missiles towards Bahrain and the UAE @Middle_East_Spectator",
+    "content_original": "— ❗️ 🇮🇷 / 🇧🇭 / 🇦🇪 BREAKING: Iranian ballistic missiles towards Bahrain and the UAE @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69708",
+    "published": "2026-02-28T21:03:28+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian ballistic missiles target Bahrain and the UAE",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has launched ballistic missiles towards Bahrain and the UAE, escalating regional tensions and directly threatening US allies and interests in the Gulf. This attack could provoke a significant military response from the US and its regional partners, further intensifying the ongoing conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "UAE",
+        "United States"
+      ],
+      "location": "Bahrain, UAE",
+      "brief": "Iran's ballistic missile attack on Bahrain and the UAE represents a direct escalation targeting US allies, posing a significant threat to regional stability and prompting potential US military intervention."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "c7b32a12086ed624",
@@ -508,28 +578,26 @@
     "language": "fa",
     "region": "iran",
     "skip_translation": false,
-    "title_en": "Iran launches third and fourth waves of attacks with advanced missiles from Sajjil-3",
+    "title_en": "Iran Launches Third and Fourth Waves with Advanced Missiles from Sajjil-3 Promise",
     "relevant": true,
-    "summary_en": "Iran has initiated new waves of missile attacks using more advanced variants of the Sajjil-3 missile system. This escalation targets US bases and interests in the region, demonstrating Iran's continued capability to strike back against US forces. The use of advanced missile technology signifies a potential shift in Iran's strategy, aiming to overwhelm defenses and inflict greater damage.",
+    "summary_en": "Iran has initiated new waves of attacks using more advanced missiles than the previously promised Sajjil-3 against unspecified targets. This signifies an escalation in Iran's missile capabilities and ongoing offensive operations amidst the conflict. The development is strategically significant as it indicates Iran's continued commitment to advancing its missile program and deploying it in active hostilities.",
     "translated": true,
     "keyword_matches": 4,
     "matched_keywords": [
-      "strike",
-      "missile"
+      "offensive",
+      "missile",
+      "conflict"
     ],
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
       "severity": "major",
       "parties_involved": [
-        "Iran",
-        "United States"
+        "Iran"
       ],
-      "location": "US bases and interests in the region",
-      "brief": "Iran's use of advanced Sajjil-3 missiles to target US bases signifies a significant escalation with potential for high casualties and strategic impact."
-    },
-    "lat": 40.8472515,
-    "lng": -73.8322691
+      "location": "unspecified targets",
+      "brief": "Iran's use of advanced Sajjil-3 missiles signifies a significant escalation in missile capabilities and offensive operations, posing a major strategic threat in the conflict."
+    }
   },
   {
     "id": "130332feba7e28bf",
@@ -545,13 +613,13 @@
     "title_en": "Explosions reported over Haifa, Israel",
     "translated": true,
     "relevant": true,
-    "summary_en": "Explosions have been reported over Haifa, Israel, likely indicating a military strike or attack. This event is significant as it suggests potential escalation in the conflict involving Israel, potentially linked to regional tensions with Hezbollah or other Iran-backed groups. The military and strategic implications could involve Israeli defensive measures and potential retaliatory actions.",
+    "summary_en": "Explosions have been reported over Haifa, Israel, likely indicating a military strike or attack. This development is significant as it suggests potential escalation in the conflict involving Israel, potentially linked to Hezbollah or other Iran-backed groups. The military and strategic implications could involve Israeli retaliation and further regional instability.",
     "keyword_matches": 4,
     "matched_keywords": [
-      "attack",
       "hezbollah",
-      "conflict",
-      "strike"
+      "strike",
+      "attack",
+      "conflict"
     ],
     "classification": {
       "is_attack": true,
@@ -563,84 +631,10 @@
         "Iran"
       ],
       "location": "Haifa, Israel",
-      "brief": "The explosions over Haifa suggest a potential escalation in regional tensions, likely involving Hezbollah as an Iran-backed proxy, with implications for Israeli defensive measures and potential retaliatory actions."
+      "brief": "The explosions over Haifa indicate a potential escalation in regional hostilities, with implications for Israeli security and potential retaliatory actions linked to Iran-backed groups."
     },
     "lat": 32.79,
     "lng": 34.99
-  },
-  {
-    "id": "6bbfb8d9a428239c",
-    "title_original": "🇮🇷 🇮🇱 ⚡️ - Another visual confirmation of an Iranian missile impact in central Israel.",
-    "content_original": "🇮🇷 🇮🇱 ⚡️ - Another visual confirmation of an Iranian missile impact in central Israel.",
-    "url": "https://t.me/CIG_telegram/69698",
-    "published": "2026-02-28T20:49:34+00:00",
-    "source_name": "Conflict Intelligence Team (TG)",
-    "source_category": "independent",
-    "language": "en",
-    "region": "russia",
-    "skip_translation": true,
-    "title_en": "Iranian missile strikes central Israel, confirmed by visual evidence",
-    "translated": true,
-    "relevant": true,
-    "summary_en": "Iran has launched missiles targeting central Israel, with visual confirmation of impacts. This represents a significant escalation in the conflict, demonstrating Iran's willingness to directly engage Israel from a distance. The strikes likely aim to pressure Israel and test its air defense capabilities amidst the broader US-Iran conflict.",
-    "keyword_matches": 4,
-    "matched_keywords": [
-      "conflict",
-      "air defense",
-      "missile"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "ballistic_missile",
-      "severity": "major",
-      "parties_involved": [
-        "Iran",
-        "Israel"
-      ],
-      "location": "central Israel",
-      "brief": "Iran's ballistic missile strikes on central Israel mark a direct engagement and significant escalation in the broader US-Iran conflict, demonstrating Iran's capability and willingness to target Israel from a distance."
-    },
-    "merged_source_count": 2,
-    "lat": 31.9,
-    "lng": 34.8
-  },
-  {
-    "id": "907c6c96e9dff841",
-    "title_original": "🚨 اصابت موشک به اسرائیل  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SA...",
-    "content_original": "🚨 اصابت موشک به اسرائیل ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
-    "url": "https://t.me/saberin_news/44879",
-    "published": "2026-02-28T20:45:28+00:00",
-    "source_name": "Islamic Resistance Iraq (TG)",
-    "source_category": "proxy",
-    "language": "ar",
-    "region": "proxies",
-    "skip_translation": false,
-    "title_en": "Missile Strikes Israel",
-    "relevant": true,
-    "summary_en": "A missile has struck Israel, likely from Iranian-backed groups such as Hezbollah or Hamas. This attack is part of the ongoing escalation in the region, with potential implications for Israeli operations against Iran-linked targets and broader regional stability.",
-    "translated": true,
-    "keyword_matches": 5,
-    "matched_keywords": [
-      "attack",
-      "hamas",
-      "hezbollah",
-      "missile"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "hezbollah_action",
-      "severity": "medium",
-      "parties_involved": [
-        "Israel",
-        "Hezbollah",
-        "Iran"
-      ],
-      "location": "Israel",
-      "brief": "Missile strike by Iranian-backed Hezbollah on Israel escalates regional tensions and threatens to widen the conflict."
-    },
-    "merged_source_count": 3,
-    "lat": 31.5,
-    "lng": 34.8
   },
   {
     "id": "b2e550010865f577",
