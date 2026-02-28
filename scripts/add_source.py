@@ -160,7 +160,7 @@ def validate_url_reachable(url: str, source_type: str) -> bool:
             "User-Agent": "Mozilla/5.0 (compatible; NewsFeedBot/1.0)"
         })
         resp.raise_for_status()
-    except Exception as exc:
+    except requests.RequestException as exc:
         log.error("URL unreachable: %s — %s", url, exc)
         return False
 
@@ -174,7 +174,7 @@ def validate_url_reachable(url: str, source_type: str) -> bool:
             else:
                 log.info("RSS OK — %d entries found.", n)
         except Exception as exc:
-            log.warning("feedparser error: %s", exc)
+            log.warning("feedparser error: %s", exc, exc_info=True)
     return True
 
 

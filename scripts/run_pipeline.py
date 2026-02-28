@@ -378,7 +378,7 @@ def run():
             f"  Executive summary generated at {summary.get('generated_at', '?')}"
         )
     except Exception as e:
-        logger.warning(f"Executive summary generation failed: {e}")
+        logger.warning("Executive summary generation failed: %s", e, exc_info=True)
 
     # ── Summary ──
     logger.info("=" * 60)

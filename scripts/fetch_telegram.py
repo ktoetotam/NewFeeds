@@ -135,9 +135,9 @@ def fetch_telegram_channel(source: dict, region: str) -> list[dict]:
         logger.info(f"Fetched {len(articles)} messages from @{channel}")
 
     except requests.exceptions.RequestException as e:
-        logger.error(f"Failed to fetch Telegram @{channel}: {e}")
+        logger.error("Failed to fetch Telegram @%s: %s", channel, e)
     except Exception as e:
-        logger.error(f"Error parsing Telegram @{channel}: {e}")
+        logger.error("Error parsing Telegram @%s: %s", channel, e, exc_info=True)
 
     return articles
 

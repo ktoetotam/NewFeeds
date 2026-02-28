@@ -211,7 +211,7 @@ def _event_key(article: dict) -> str:
         dt = datetime.fromisoformat(pub)
         utc = dt.astimezone(timezone.utc)
         bucket = utc.strftime("%Y-%m-%d-") + ("AM" if utc.hour < 12 else "PM")
-    except Exception:
+    except (ValueError, TypeError):
         bucket = "unknown"
 
     return f"{loc}|{bucket}"

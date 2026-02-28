@@ -5,7 +5,9 @@ Handles vague/multi-part location strings that Nominatim can't resolve directly.
 Uses a fallback dictionary for common country & city names and cleans up
 verbose location descriptions before querying.
 """
-import json, time, re, requests, pathlib
+import json, time, re, requests, pathlib, logging
+
+logger = logging.getLogger(__name__)
 
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
 HEADERS = {"User-Agent": "NewFeedsApp/1.0 (geocoder)"}
@@ -171,8 +173,8 @@ def lookup_nominatim(query: str) -> tuple[float, float] | None:
         results = r.json()
         if results:
             return float(results[0]["lat"]), float(results[0]["lon"])
-    except Exception as e:
-        print(f"  ERR querying '{query}': {e}")
+    except (requests.RequestException, ValueError, KeyError) as e:
+        logger.warning("ERR querying '%s': %s", query, e)
     return None
 
 

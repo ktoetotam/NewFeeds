@@ -171,7 +171,7 @@ def scrape_with_beautifulsoup(source: dict, region: str) -> list[dict]:
         logger.info(f"Scraped {len(articles)} articles from {name} (BS4)")
 
     except Exception as e:
-        logger.error(f"Failed to scrape {name} (BS4): {e}")
+        logger.error("Failed to scrape %s (BS4): %s", name, e, exc_info=True)
 
     return articles
 
@@ -278,7 +278,7 @@ async def scrape_with_playwright(source: dict, region: str) -> list[dict]:
         logger.info(f"Scraped {len(articles)} articles from {name} (Playwright)")
 
     except Exception as e:
-        logger.error(f"Failed to scrape {name} (Playwright): {e}")
+        logger.error("Failed to scrape %s (Playwright): %s", name, e, exc_info=True)
 
     return articles
 

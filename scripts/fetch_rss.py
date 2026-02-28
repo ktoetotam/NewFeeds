@@ -142,7 +142,7 @@ def fetch_rss_source(source: dict, region: str) -> list[dict]:
         logger.info(f"Fetched {len(articles)} articles from {name}")
 
     except Exception as e:
-        logger.error(f"Failed to fetch {name}: {e}")
+        logger.error("Failed to fetch %s: %s", name, e, exc_info=True)
 
     return articles
 

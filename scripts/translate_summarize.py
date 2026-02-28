@@ -187,7 +187,7 @@ def process_article(article: dict, api_key: str) -> dict:
             article["summary_en"] = f"[Parse error — {lang_name} source]"
             article["translated"] = False
     except Exception as e:
-        logger.error(f"Processing failed for {article.get('id', '?')}: {e}")
+        logger.exception("Processing failed for %s", article.get("id", "?"))
         article["title_en"] = title
         article["summary_en"] = f"[Error: {str(e)[:100]}]"
         article["translated"] = False

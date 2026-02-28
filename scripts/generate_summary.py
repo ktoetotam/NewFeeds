@@ -89,8 +89,8 @@ def load_attacks(filepath: str | Path | None = None) -> list[dict]:
         try:
             with open(fp, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except (json.JSONDecodeError, IOError):
-            pass
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning("Failed to load attacks from %s: %s", fp, e)
     return []
 
 
@@ -101,8 +101,8 @@ def load_threat_level(filepath: str | Path | None = None) -> dict:
         try:
             with open(fp, "r", encoding="utf-8") as f:
                 return json.load(f)
-        except (json.JSONDecodeError, IOError):
-            pass
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning("Failed to load threat level from %s: %s", fp, e)
     return {}
 
 
@@ -122,9 +122,9 @@ def load_feed_articles(feeds_dir: str | Path | None = None) -> list[dict]:
                 if a.get("relevant") is True and a.get("translated") is True
             ]
             all_articles.extend(relevant)
-        except (json.JSONDecodeError, IOError):
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning("Failed to load feed articles from %s: %s", fp, e)
             continue
-    # Sort by published date, newest first
     all_articles.sort(key=lambda a: a.get("published", ""), reverse=True)
     return all_articles
 
@@ -406,7 +406,8 @@ def archive_current_summary(output_path: Path, archive_dir: Path | None = None) 
         with open(output_path, "r", encoding="utf-8") as f:
             existing = json.load(f)
         ts = existing.get("generated_at", "")
-    except (json.JSONDecodeError, IOError):
+    except (json.JSONDecodeError, IOError) as e:
+        logger.warning("Failed to read existing summary for archiving from %s: %s", output_path, e)
         ts = ""
 
     if ts:
@@ -460,7 +461,8 @@ def build_archive_index(archive_dir: Path | None = None, output_path: Path | Non
                 "incident_count_24h": data.get("threat_snapshot", {}).get("incident_count_24h", 0),
                 "summary_preview": (data.get("executive_summary", "") or "")[:200],
             })
-        except (json.JSONDecodeError, IOError):
+        except (json.JSONDecodeError, IOError) as e:
+            logger.warning("Failed to read archive file %s: %s", fp, e)
             continue
 
     idx_path = output_path or ad / "index.json"
