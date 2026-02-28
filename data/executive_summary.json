@@ -1,70 +1,81 @@
 {
-  "generated_at": "2026-02-28T15:38:08.803620+00:00",
+  "generated_at": "2026-02-28T18:57:28.899416+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
-    "trend": "escalating",
-    "incident_count_24h": 117,
-    "incident_count_6h": 111,
+    "trend": "stable",
+    "incident_count_24h": 207,
+    "incident_count_6h": 166,
     "severity_breakdown": {
-      "high": 53,
-      "medium": 26,
-      "low": 2,
-      "major": 36
+      "major": 68,
+      "high": 84,
+      "medium": 48,
+      "low": 7
     }
   },
   "source_count": {
-    "attacks_analyzed": 117,
-    "articles_analyzed": 1055,
+    "attacks_analyzed": 208,
+    "articles_analyzed": 1079,
     "regions_covered": [
+      "china",
       "gulf",
       "iran",
       "israel",
+      "middle_east",
       "proxies",
-      "russia"
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
     ]
   },
-  "executive_summary": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated airstrikes by the US and Israel on Iran, ballistic missile attacks by Iran on Israel and US bases, and retaliatory strikes by both sides. The conflict has expanded geographically, with significant implications for regional stability and international security.",
+  "executive_summary": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated US-Israeli airstrikes on Iran, retaliatory missile attacks by Iran on Israel and US assets, and significant regional instability affecting Gulf states and beyond. The situation remains highly volatile with a major threat level and no immediate signs of de-escalation.",
   "whats_new": [
-    "US and Israel launched coordinated airstrikes on over 20 Iranian provinces, targeting IRGC infrastructure.",
-    "Iran retaliated with ballistic missile strikes on Israel and US military bases in Kuwait and Saudi Arabia.",
-    "IRGC claims to have killed 200 US military personnel in strikes on American bases.",
-    "Iran deployed the hypersonic missile 'Fattah', escalating its military capabilities."
+    "US and Israel launched coordinated airstrikes on Iran, causing mass casualties and targeting IRGC infrastructure.",
+    "Iran retaliated with ballistic missile attacks on Israel, striking multiple cities including Haifa and Tel Aviv.",
+    "Iran launched missile strikes on US military bases in Qatar, Saudi Arabia, and Iraq, directly targeting US assets.",
+    "A US Navy support ship was struck by IRGC missiles in the Gulf region, marking a direct naval engagement.",
+    "Qatar's airspace was disrupted after an Iranian drone strike destroyed a US radar system."
   ],
   "confirmed_events": [
-    "US and Israel conducted a large-scale airstrike on Iran, causing mass casualties among IRGC forces.",
-    "Iran launched ballistic missiles targeting Israel, with at least 35 missiles successfully hitting Israeli territory.",
-    "Iran struck US military bases in Qatar, Erbil, Riyadh, and Eastern Saudi Arabia.",
-    "IRGC missile attacks targeted a US Navy support ship in the Gulf or Arabian Sea region.",
-    "Missile strikes hit Dubai, likely conducted by Iranian-backed groups."
+    "US and Israel conducted a major airstrike on Iran, causing thousands of IRGC casualties.",
+    "Iran launched ballistic missile barrages targeting Israel, with at least 35 missiles hitting Israeli territory.",
+    "Iran struck US military facilities in Qatar, Saudi Arabia, and Iraq, escalating attacks on US regional assets.",
+    "A US Navy support ship was attacked by Iranian missiles in the Gulf, indicating direct naval hostilities.",
+    "Qatar's Fairmont Palm Jumeirah hotel and Kuwait International Airport were targeted in Iranian attacks."
   ],
   "unverified_emerging": [
-    "Unspecified actors reportedly conducted a surprise strike targeting Iran's Supreme Leader Ali Khamenei, potentially eliminating him (source: Ynet).",
-    "Iranian Foreign Minister claims Supreme Leader Ali Khamenei and most officials are safe, dismissing assassination rumors (source: Ynet).",
-    "IRGC claims to have killed 63 people in a strike on an Iranian girls' school, though the responsible party is unclear (source: IRNA)."
+    "Reports claim Iranian Defense Minister Amir Nasirzadeh and IRGC Commander Pakpour were killed (source: Jerusalem Post).",
+    "An Iranian drone strike reportedly destroyed a US radar system in Qatar (source: Press TV).",
+    "Rumors suggest Iran closed the Strait of Hormuz, though this is not independently confirmed (source: Islamic Resistance Iraq).",
+    "Speculation on potential leadership changes in Iran following strikes on key officials (source: Hindustan Times World)."
   ],
   "operational_impacts": {
     "people_travel": [
-      "Civilian air travel in the region is severely disrupted due to the closure of airspace and ongoing hostilities.",
-      "Panic-buying of supplies in Israel indicates growing concerns over potential supply chain disruptions."
+      "Airlines have canceled flights and airspace over Iran, Iraq, Kuwait, Israel, and Bahrain is nearly empty.",
+      "UK government warns British nationals in the Middle East to take immediate shelter.",
+      "Thousands of flights canceled across the Middle East due to airspace closures."
     ],
     "supply_chain": [
-      "The conflict has led to the suspension of maritime routes in the Gulf region, impacting global oil and trade flows.",
-      "Qatar's shift to distance learning suggests concerns over civilian safety and potential disruptions to education."
+      "The closure of the Strait of Hormuz, if confirmed, would severely disrupt global oil shipments.",
+      "Qatar suspends public events and gatherings, impacting logistics and supply chains in the region.",
+      "Disruptions to maritime traffic in the Gulf region due to naval hostilities."
     ],
     "market_macro": [
-      "Oil prices have surged due to the conflict's impact on regional energy infrastructure and supply routes.",
-      "Stock markets in the Middle East and globally are experiencing volatility amid heightened geopolitical tensions."
+      "Oil prices likely to surge due to regional instability and potential disruptions in the Strait of Hormuz.",
+      "Global aviation markets affected by flight cancellations and airspace closures in the Middle East.",
+      "Increased geopolitical risk premiums on energy and commodities."
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The conflict is likely to continue escalating, with both Iran and the US engaging in retaliatory strikes. The involvement of regional proxies and the deployment of advanced weaponry, such as hypersonic missiles, increase the risk of further direct military engagements. The international community's efforts to de-escalate the situation are unlikely to succeed in the short term given the current trajectory of hostilities.",
+    "base_case": "The conflict is expected to intensify with further direct military engagements between Iran, the US, and Israel. Iran is likely to continue retaliatory strikes on US assets and regional allies, while the US and Israel may escalate attacks on Iranian infrastructure. Regional instability will deepen, with potential for additional actors to be drawn into the conflict.",
     "escalation_risks": [
-      "Direct military confrontation between US and Iranian forces could expand to other theaters, such as the Persian Gulf or Syria.",
-      "The use of advanced weaponry, including ballistic missiles and hypersonic missiles, raises the risk of miscalculation and unintended escalation.",
-      "The potential elimination of Iran's Supreme Leader could lead to internal power struggles and further destabilize the region."
+      "Direct military confrontation between US and Iranian naval forces in the Gulf.",
+      "Escalation of attacks on civilian infrastructure and urban centers.",
+      "Further missile strikes on US bases and allied countries in the region.",
+      "Potential use of chemical, biological, or cyber warfare tactics."
     ],
-    "de_escalation_pathways": "De-escalation would require a coordinated diplomatic effort involving key regional and global powers, potentially under the auspices of the UN or a neutral mediator. Immediate steps could include a ceasefire agreement, followed by negotiations on regional security arrangements and Iran's nuclear program. However, given the current hostilities and lack of trust between the parties, such an outcome appears unlikely without significant external pressure."
+    "de_escalation_pathways": "De-escalation could be pursued through urgent diplomatic intervention by major powers such as China, Russia, and European states. A UN-brokered ceasefire or regional peace conference might offer a path to negotiations, but given the current hostilities and lack of trust between parties, this remains challenging. Third-party mediation and confidence-building measures, such as humanitarian pauses, could help reduce tensions."
   }
 }
