@@ -107,35 +107,21 @@ def deduplicate(existing: list[dict], new: list[dict]) -> list[dict]:
 
 
 def filter_since_last_fetch(existing: list[dict], fetched: list[dict]) -> list[dict]:
-    """Drop fetched articles published before the newest existing article."""
-    if not existing:
-        return fetched
-    # Find the newest published timestamp in existing data
-    newest_ts = None
-    for a in existing:
-        try:
-            dt = datetime.fromisoformat(a.get("published", ""))
-            if dt.tzinfo is None:
-                dt = dt.replace(tzinfo=timezone.utc)
-            if newest_ts is None or dt > newest_ts:
-                newest_ts = dt
-        except (ValueError, TypeError):
-            pass
-    if newest_ts is None:
-        return fetched
+    """Drop fetched articles published more than 30 minutes ago."""
+    cutoff = datetime.now(timezone.utc) - timedelta(minutes=30)
     filtered = []
     for a in fetched:
         try:
             dt = datetime.fromisoformat(a.get("published", ""))
             if dt.tzinfo is None:
                 dt = dt.replace(tzinfo=timezone.utc)
-            if dt > newest_ts:
+            if dt >= cutoff:
                 filtered.append(a)
         except (ValueError, TypeError):
             filtered.append(a)  # keep if date is unparseable
     skipped = len(fetched) - len(filtered)
     if skipped:
-        logger.info(f"Skipped {skipped} articles older than newest existing ({newest_ts.isoformat()})")
+        logger.info(f"Skipped {skipped} articles older than 30min cutoff ({cutoff.isoformat()})")
     return filtered
 
 
