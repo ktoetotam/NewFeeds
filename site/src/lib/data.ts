@@ -2,6 +2,7 @@ import "server-only";
 import fs from "fs";
 import path from "path";
 import type { Article, ThreatLevel, RegionKey, ExecutiveSummaryData, ArchiveEntry } from "./types";
+import { cpSync, existsSync, mkdirSync } from "fs";
 
 const DATA_DIR = path.join(process.cwd(), "..", "data");
 const FEEDS_DIR = path.join(DATA_DIR, "feeds");
@@ -74,16 +75,17 @@ export function getArchiveIndex(): ArchiveEntry[] {
   );
 }
 
-export function getArchivedSummary(filename: string): ExecutiveSummaryData | null {
-  // Sanitize filename to prevent directory traversal
-  const safeName = path.basename(filename);
-  if (!safeName.endsWith(".json") || safeName === "index.json") {
-    return null;
-  }
-  return readJSON<ExecutiveSummaryData | null>(
-    path.join(ARCHIVE_DIR, safeName),
-    null
-  );
+/**
+ * Copy archive JSON files into public/archives/ so they are served as static assets.
+ * Called at build time from data reads (server components).
+ */
+export function syncArchivesToPublic(): void {
+  const publicArchives = path.join(process.cwd(), "public", "archives");
+  if (!existsSync(ARCHIVE_DIR)) return;
+  mkdirSync(publicArchives, { recursive: true });
+  cpSync(ARCHIVE_DIR, publicArchives, { recursive: true });
 }
+
+
 
 

@@ -1,9 +1,10 @@
 import Header from "@/components/Header";
-import { getArchiveIndex, getThreatLevel } from "@/lib/data";
+import { getArchiveIndex, getThreatLevel, syncArchivesToPublic } from "@/lib/data";
 import { THREAT_LEVEL_COLORS } from "@/lib/types";
 import Link from "next/link";
 
 export default function ArchivesPage() {
+  syncArchivesToPublic();
   const archives = getArchiveIndex();
   const threatLevel = getThreatLevel();
 
@@ -177,7 +178,7 @@ export default function ArchivesPage() {
 
                   {/* Download link */}
                   <a
-                    href={`/api/archives/${encodeURIComponent(entry.filename)}`}
+                    href={`${process.env.NODE_ENV === "production" ? "/NewFeeds" : ""}/archives/${encodeURIComponent(entry.filename)}`}
                     download={entry.filename}
                     style={{
                       fontSize: 12,
