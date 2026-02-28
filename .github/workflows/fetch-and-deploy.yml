@@ -52,7 +52,7 @@ jobs:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: python run_pipeline.py
 
-      - name: Commit & push data changes
+      - name: Commit & merge data changes
         if: always()
         run: |
           git config user.name "github-actions[bot]"
@@ -62,8 +62,16 @@ jobs:
             echo "No data changes to commit"
             exit 0
           fi
+          BRANCH="auto/update-feeds-$(date -u +%Y%m%d-%H%M%S)"
+          git checkout -b "$BRANCH"
           git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push origin "$BRANCH"
+          # Merge the branch back into main and push
+          git checkout main
+          git merge "$BRANCH" --no-ff -m "Merge $BRANCH into main"
           git push origin main
+          # Clean up the remote branch
+          git push origin --delete "$BRANCH" || true
 
       # ── Next.js Build & Deploy ──
       - name: Setup Node.js
