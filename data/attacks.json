@@ -72,6 +72,77 @@
     "lng": 54.56
   },
   {
+    "id": "281e41467addec27",
+    "title_original": "СМИ: США не ожидают сильного изменения цен на нефть после удара по Ирану",
+    "content_original": "СМИ: США не ожидают сильного изменения цен на нефть после удара по Ирану",
+    "url": "https://ria.ru/20260301/ssha-2077567567.html",
+    "published": "2026-03-01T02:21:24+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US does not expect significant oil price changes after strike on Iran",
+    "relevant": true,
+    "summary_en": "US officials anticipate minimal impact on global oil prices following recent strikes on Iran. This assessment suggests a strategic focus on military objectives rather than economic disruption. The statement indicates confidence in mitigating potential oil market shocks amidst ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The US strikes on Iran, despite minimal anticipated oil market impact, signify ongoing military engagement and strategic targeting without escalation to broader economic disruption."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "afe25eba75e658e0",
+    "title_original": "При атаке на аэропорт Абу-Даби погиб человек",
+    "content_original": "При атаке на аэропорт Абу-Даби погиб человек",
+    "url": "https://ria.ru/20260301/aeroport-2077566960.html",
+    "published": "2026-03-01T02:13:50+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Person killed in attack on Abu Dhabi airport",
+    "relevant": true,
+    "summary_en": "An attack on Abu Dhabi airport resulted in at least one fatality. This incident likely involves Houthi or Iran-backed militants targeting UAE infrastructure. The attack highlights the regional escalation and threat to Gulf state security amid the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "houthi",
+      "threat",
+      "attack",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthi/Ansar Allah",
+        "United Arab Emirates",
+        "Iran (suspected backing)"
+      ],
+      "location": "Abu Dhabi, United Arab Emirates",
+      "brief": "The attack on Abu Dhabi airport demonstrates the Houthi threat to Gulf state security and the potential for regional escalation in the Iran–US conflict."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
     "id": "6d708d7961a9770a",
     "title_original": "Al Mayadeen: в Манаме в районе центра обслуживания 5-го флота США произошли взрывы",
     "content_original": "Al Mayadeen: в Манаме в районе центра обслуживания 5-го флота США произошли взрывы",
@@ -747,6 +818,282 @@
     },
     "lat": 29.38,
     "lng": 47.99
+  },
+  {
+    "id": "1c96a30a3b5cc1d4",
+    "title_original": "#إعلام_العدو   اختراق مسيّرة في الشمال - كريات شمونة والجوار",
+    "content_original": "#إعلام_العدو اختراق مسيّرة في الشمال - كريات شمونة والجوار",
+    "url": "https://t.me/Electrohizbullah/156213",
+    "published": "2026-02-28T23:26:46+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Drone Infiltration in Northern Israel - Kiryat Shmona and Surrounding Areas",
+    "relevant": true,
+    "summary_en": "An unidentified drone has reportedly infiltrated northern Israel, specifically around Kiryat Shmona and nearby areas. This incident likely involves Hezbollah or another Iran-backed group operating from Lebanon. The infiltration represents a potential escalation in the ongoing tensions along Israel's northern border.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "hezbollah",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Kiryat Shmona, Northern Israel",
+      "brief": "The drone infiltration near Kiryat Shmona represents a potential escalation by Hezbollah, a key Iran-backed proxy, in ongoing tensions along Israel's northern border."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "7d47a42044ae3d3d",
+    "title_original": "#قطر سماع دوي انفجارات في العاصمة القطرية",
+    "content_original": "#قطر سماع دوي انفجارات في العاصمة القطرية",
+    "url": "https://t.me/Electrohizbullah/156212",
+    "published": "2026-02-28T23:26:30+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosions Heard in Qatar's Capital",
+    "relevant": true,
+    "summary_en": "Explosions were reported in Doha, Qatar. This raises concerns given Qatar's hosting of US military bases, including Al Udeid Air Base, a critical hub for US operations in the region. The cause of the explosions is currently unknown, but it could potentially be linked to the ongoing Iran-US conflict given the strategic importance of Qatar's military facilities.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Hezbollah",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Explosions in Doha, Qatar, home to the critical US Al Udeid Air Base, raise concerns of potential proxy attacks linked to the Iran-US conflict."
+    },
+    "lat": 25.29,
+    "lng": 51.53
+  },
+  {
+    "id": "c8767ddd5bce8825",
+    "title_original": "#قطر مشاهد اثناء الهجوم الايراني على قاعدة العديد الأمريكية في قطر",
+    "content_original": "#قطر مشاهد اثناء الهجوم الايراني على قاعدة العديد الأمريكية في قطر",
+    "url": "https://t.me/Electrohizbullah/156208",
+    "published": "2026-02-28T23:18:25+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian attack on Al Udeid Air Base in Qatar",
+    "relevant": true,
+    "summary_en": "Iran launched an attack on Al Udeid Air Base in Qatar, a major US military facility in the region. The attack signifies an escalation in hostilities as Iran targets US assets outside its immediate vicinity. This incident highlights the vulnerability of US bases in the Gulf region and the potential for broader regional conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Qatar"
+      ],
+      "location": "Al Udeid Air Base, Qatar",
+      "brief": "Iran's direct attack on a major US military facility in Qatar marks a significant escalation, highlighting the vulnerability of US assets in the Gulf region and increasing the risk of broader regional conflict."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "37b562d5081d8207",
+    "title_original": "#فلسطين_المحتلة   فلسطين المحتلة: المتحدث باسم نجمة داوود الحمراء: نعالج 90 إصابة من جراء الهجمات الإيرانية",
+    "content_original": "#فلسطين_المحتلة فلسطين المحتلة: المتحدث باسم نجمة داوود الحمراء: نعالج 90 إصابة من جراء الهجمات الإيرانية",
+    "url": "https://t.me/Electrohizbullah/156203",
+    "published": "2026-02-28T23:12:07+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Red Star of David treating 90 injuries from Iranian attacks",
+    "relevant": true,
+    "summary_en": "The Israeli Red Star of David is treating 90 injuries sustained from Iranian attacks in the occupied Palestinian territories. This indicates ongoing hostilities and direct engagement between Iran and Israeli forces or assets in the region. The attacks and subsequent casualties highlight the escalating conflict and its impact on civilian populations.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "occupied Palestinian territories",
+      "brief": "The incident signifies ongoing proxy hostilities between Iran and Israel, with direct engagement through Hezbollah, escalating regional tensions."
+    },
+    "lat": 31.5197847,
+    "lng": 35.0494777
+  },
+  {
+    "id": "5be830a6dd7b051c",
+    "title_original": "🔴  باسم حيدر الكرّار عليه السلام.. ▫️  قل لفرعون: إن موسى لآتِ ▫️  يفلق البحر في عصا المعجزاتِ ▫️  وكذا ذو الفقارِ هم...",
+    "content_original": "🔴 باسم حيدر الكرّار عليه السلام.. ▫️ قل لفرعون: إن موسى لآتِ ▫️ يفلق البحر في عصا المعجزاتِ ▫️ وكذا ذو الفقارِ همَّ يُفرِّي ▫️ هامَ صهيونَ، حاسمَ الضرَباتِ ☑️ في أعقاب الضربات القاسية التي وجّهتها القوات المسلحة لجمهورية إيران الإسلامية إلى العدوّ الأمريكي-الصهيوني الخبيث. ➕ t.me/Khamenei_arabi",
+    "url": "https://t.me/Electrohizbullah/156201",
+    "published": "2026-02-28T23:09:22+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Armed Forces Strike US-Zionist Enemy",
+    "relevant": true,
+    "summary_en": "The Iranian Armed Forces have launched retaliatory strikes against the US and Israel following previous attacks. This signifies an escalation in the ongoing conflict between Iran and the US-Israel alliance, highlighting the continued engagement of Iranian forces against their adversaries.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Unspecified",
+      "brief": "Iran's direct retaliatory strikes against the US and Israel mark a significant escalation, indicating heightened direct military engagement between Iran and the US-Israel alliance."
+    }
+  },
+  {
+    "id": "8d4642377ad72e8a",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: في حصيلة اليوم الأول من الحرب، سقط قتيل وأصيب 121 آخرين نتيجة الصواريخ الإيراني...",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: في حصيلة اليوم الأول من الحرب، سقط قتيل وأصيب 121 آخرين نتيجة الصواريخ الإيرانية. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156200",
+    "published": "2026-02-28T23:08:56+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Media Reports One Killed and 121 Injured by Iranian Missiles on First Day of War",
+    "relevant": true,
+    "summary_en": "Iranian missiles struck Israel, resulting in one fatality and 121 injuries on the first day of the conflict. This highlights the direct military engagement between Iran and Israel, with significant casualties reported in Israeli territory.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran's ballistic missile strike on Israel marks a direct military engagement with significant casualties, escalating regional tensions."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "76e4a30c2a4deb15",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: ارتفاع عدد الإصابات نتيجة سقوط صواريخ ايرانية في تل أبيب ليل أمس إلى 25 إصابة. ...",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: ارتفاع عدد الإصابات نتيجة سقوط صواريخ ايرانية في تل أبيب ليل أمس إلى 25 إصابة. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156194",
+    "published": "2026-02-28T23:02:54+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian missile strikes in Tel Aviv injure 25 people",
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks on Tel Aviv, Israel, resulting in 25 injuries. This escalation highlights the direct targeting of Israeli population centers by Iran amid ongoing hostilities. The incident underscores the risk of regional conflict escalation and potential Israeli retaliation.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strikes on Tel Aviv mark a significant escalation in regional hostilities, demonstrating direct targeting of Israeli population centers and increasing the risk of broader conflict."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "f008a800e987e7a0",
+    "title_original": "#الجمهورية_الإسلامية   إيران: النيابة العامة في محافظة هرمزكان جنوبي إيران: ارتفاع عدد شهداء مدرسة ميناب الابتدائية ل...",
+    "content_original": "#الجمهورية_الإسلامية إيران: النيابة العامة في محافظة هرمزكان جنوبي إيران: ارتفاع عدد شهداء مدرسة ميناب الابتدائية للبنات إلى 118 شهيدة",
+    "url": "https://t.me/Electrohizbullah/156193",
+    "published": "2026-02-28T23:01:52+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran: Death toll in Minab elementary school attack rises to 118",
+    "relevant": true,
+    "summary_en": "The death toll from an attack on Minab elementary school for girls in Hormozgan province, southern Iran, has increased to 118. This incident is likely linked to ongoing hostilities in the region, potentially involving US or allied forces, and highlights the impact on civilian infrastructure and lives.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Hezbollah Electronic Army (proxy)"
+      ],
+      "location": "Minab, Hormozgan province, Iran",
+      "brief": "The attack on a girls' elementary school in Iran, resulting in mass casualties, demonstrates the severe impact of ongoing hostilities on civilian infrastructure and highlights the potential for escalation in the Iran–US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 27.1,
+    "lng": 57.08
   },
   {
     "id": "246cb35a42afbe06",
