@@ -1,9 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useCallback, useMemo, createRef } from "react";
 import type { Article, ThreatLevel } from "@/lib/types";
 import ThreatLevelDisplay from "./ThreatLevelDisplay";
 import AttackCard from "./AttackCard";
+import AttackMapClient from "./AttackMapClient";
+import type { NumberedAttack } from "./AttackMap";
 
 interface AttackMonitorProps {
   attackArticles: Article[];
@@ -18,6 +20,7 @@ export default function AttackMonitor({
 }: AttackMonitorProps) {
   const [severityFilter, setSeverityFilter] =
     useState<SeverityFilter>("all");
+  const [selectedAttackId, setSelectedAttackId] = useState<string | null>(null);
 
   const filtered =
     severityFilter === "all"
@@ -25,6 +28,46 @@ export default function AttackMonitor({
       : attackArticles.filter(
           (a) => a.classification?.severity === severityFilter
         );
+
+  // Build numberedAttacks: only geocoded attacks get a 1-based map number
+  const numberedAttacks: NumberedAttack[] = useMemo(() => {
+    let mapNum = 0;
+    return filtered.map((a) => {
+      const hasCoords =
+        a.lat != null && a.lng != null && a.classification?.is_attack;
+      return { attack: a, index: hasCoords ? ++mapNum : undefined! };
+    });
+  }, [filtered]);
+
+  // Subset that actually appears on the map (has index)
+  const mappedAttacks = useMemo(
+    () => numberedAttacks.filter((na) => na.index != null),
+    [numberedAttacks]
+  );
+
+  // Refs for each card to scroll into view
+  const cardRefs = useRef<Map<string, HTMLElement>>(new Map());
+
+  const handleSelectFromMap = useCallback((id: string) => {
+    setSelectedAttackId(id);
+    // Scroll the card into view
+    const el = cardRefs.current.get(id);
+    if (el) {
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  }, []);
+
+  const mapRef = useRef<HTMLDivElement>(null);
+
+  const handleSelectFromList = useCallback((id: string) => {
+    setSelectedAttackId((prev) => (prev === id ? null : id));
+  }, []);
+
+  const handleCircleClick = useCallback((id: string) => {
+    setSelectedAttackId(id);
+    // Scroll up to the map
+    mapRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }, []);
 
   const severityCounts = {
     all: attackArticles.length,
@@ -54,6 +97,16 @@ export default function AttackMonitor({
     <div>
       <ThreatLevelDisplay threatLevel={threatLevel} />
 
+      {/* Map */}
+      <div ref={mapRef} style={{ marginBottom: 20 }}>
+        <AttackMapClient
+          numberedAttacks={mappedAttacks}
+          selectedId={selectedAttackId}
+          onSelectAttack={handleSelectFromMap}
+          onScrollToCard={handleSelectFromMap}
+        />
+      </div>
+
       {/* Severity filter tabs */}
       <div
         style={{
@@ -68,7 +121,10 @@ export default function AttackMonitor({
         ).map((sev) => (
           <button
             key={sev}
-            onClick={() => setSeverityFilter(sev)}
+            onClick={() => {
+              setSeverityFilter(sev);
+              setSelectedAttackId(null);
+            }}
             style={{
               padding: "8px 16px",
               borderRadius: 8,
@@ -114,8 +170,19 @@ export default function AttackMonitor({
       {/* Attack articles list */}
       <div style={{ display: "grid", gap: 12 }}>
         {filtered.length > 0 ? (
-          filtered.map((article) => (
-            <AttackCard key={article.id} article={article} />
+          numberedAttacks.map((na) => (
+            <AttackCard
+              key={na.attack.id}
+              ref={(el: HTMLElement | null) => {
+                if (el) cardRefs.current.set(na.attack.id, el);
+                else cardRefs.current.delete(na.attack.id);
+              }}
+              article={na.attack}
+              index={na.index != null ? na.index : undefined}
+              isSelected={na.attack.id === selectedAttackId}
+              onSelect={() => handleSelectFromList(na.attack.id)}
+              onCircleClick={na.index != null ? () => handleCircleClick(na.attack.id) : undefined}
+            />
           ))
         ) : (
           <div

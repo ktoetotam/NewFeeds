@@ -2,6 +2,7 @@
 
 import dynamic from "next/dynamic";
 import type { Article } from "@/lib/types";
+import type { NumberedAttack } from "./AttackMap";
 
 const AttackMap = dynamic(() => import("./AttackMap"), {
   ssr: false,
@@ -24,6 +25,25 @@ const AttackMap = dynamic(() => import("./AttackMap"), {
   ),
 });
 
-export default function AttackMapClient({ attacks }: { attacks: Article[] }) {
-  return <AttackMap attacks={attacks} />;
+interface AttackMapClientProps {
+  numberedAttacks: NumberedAttack[];
+  selectedId: string | null;
+  onSelectAttack: (id: string) => void;
+  onScrollToCard: (id: string) => void;
+}
+
+export default function AttackMapClient({
+  numberedAttacks,
+  selectedId,
+  onSelectAttack,
+  onScrollToCard,
+}: AttackMapClientProps) {
+  return (
+    <AttackMap
+      numberedAttacks={numberedAttacks}
+      selectedId={selectedId}
+      onSelectAttack={onSelectAttack}
+      onScrollToCard={onScrollToCard}
+    />
+  );
 }

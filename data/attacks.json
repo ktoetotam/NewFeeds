@@ -33,7 +33,9 @@
       ],
       "location": "Central Israel",
       "brief": "The incident underscores ongoing regional tensions and the potential for escalation as Iranian-backed groups like Hezbollah continue to threaten Israeli security."
-    }
+    },
+    "lat": 31.9,
+    "lng": 34.8
   },
   {
     "id": "913f6708457a58b7",
@@ -67,7 +69,9 @@
       ],
       "location": "Dubai, UAE",
       "brief": "The incident signifies a dangerous escalation as missile debris lands in a civilian area of a US ally, highlighting the risk of regional spillover from the Iran-US conflict."
-    }
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "f5b85faf854dde95",
@@ -102,7 +106,9 @@
       ],
       "location": "Iran",
       "brief": "The killing of security personnel for a former Iranian president in an airstrike raises concerns about targeted attacks on Iranian leadership and potential escalation within the conflict."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "01ee98b7230d44b5",
@@ -135,7 +141,9 @@
       ],
       "location": "Iranian airspace or borders",
       "brief": "The downing of Israeli Hermes drones by Iran highlights ongoing military tensions and engagements between the two nations, contributing to regional instability amid the broader Iran–US conflict."
-    }
+    },
+    "lat": 31.0661316,
+    "lng": 46.2428192
   },
   {
     "id": "7faee10b219c6959",
@@ -170,7 +178,9 @@
       ],
       "location": "Tel Aviv, Israel",
       "brief": "The rocket attacks on Tel Aviv highlight the ongoing threat posed by Iran-backed Hezbollah, posing a significant risk of escalation in the Israel-Iran conflict."
-    }
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "b2ff067902dc7c16",
@@ -203,7 +213,9 @@
       ],
       "location": "Middle East region",
       "brief": "The deployment of kamikaze drones by the US marks an escalation in precision strike capabilities against Iranian and proxy targets, signaling a shift in combat tactics."
-    }
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "626772f263b78896",
@@ -234,7 +246,9 @@
       ],
       "location": "Iran",
       "brief": "The use of kamikaze drones by the US marks a significant escalation in the conflict, demonstrating a new capability for precise and sustained attacks on Iranian infrastructure and military assets."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "52c3ffa7abb5923f",
@@ -269,7 +283,9 @@
       ],
       "location": "Tel Aviv, Israel",
       "brief": "The activation of air raid sirens in Tel Aviv highlights the persistent threat of missile or drone attacks by Iranian-backed Hezbollah, escalating regional tensions and posing a strategic challenge to Israel's security."
-    }
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "f07646c5b3585cc0",
@@ -300,7 +316,9 @@
       ],
       "location": "Iran",
       "brief": "Israel's airstrikes on Iranian air defense systems represent a significant escalation in regional hostilities, directly targeting Iran's military infrastructure and potentially weakening its defensive capabilities."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "39a9f27e5bf1f8dc",
@@ -332,7 +350,9 @@
       ],
       "location": "Iran",
       "brief": "The missile launch from Iran towards Israel signifies a direct escalation in regional hostilities, posing a significant threat to Israeli security and potentially drawing in broader US involvement."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "36c29ca588123eea",
@@ -363,7 +383,9 @@
       ],
       "location": "Shiraz, Southern Iran",
       "brief": "The airstrikes on Shiraz, a major Iranian city, suggest a potential escalation in the conflict and a shift in US targeting strategy, with significant strategic implications."
-    }
+    },
+    "lat": 29.59,
+    "lng": 52.58
   },
   {
     "id": "0459183ef8304656",
@@ -395,7 +417,9 @@
       ],
       "location": "Shiraz, Iran",
       "brief": "The airstrike on Shiraz represents a significant escalation as it involves direct attacks on an Iranian urban center, potentially indicating a new phase in the conflict with heightened risks of direct state engagement."
-    }
+    },
+    "lat": 29.59,
+    "lng": 52.58
   },
   {
     "id": "9baff01d20380af9",
@@ -426,7 +450,9 @@
       ],
       "location": "Iran",
       "brief": "The Pentagon's notification to Congress about strikes on Iran signifies direct US military engagement and potential escalation in the conflict."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "d47b7798a50e788b",
@@ -460,7 +486,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's missile attack on Israel signifies a direct escalation in the regional conflict, posing a significant threat to regional stability and potentially drawing in US forces."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "bff6b55f22193810",
@@ -493,7 +521,9 @@
       ],
       "location": "multiple US military bases in Iraq, Syria, and the Gulf",
       "brief": "Iran's coordinated ballistic missile and drone strikes on 14 US bases mark a critical escalation, demonstrating significant offensive capability and posing a direct threat to US regional operations."
-    }
+    },
+    "lat": 34.8,
+    "lng": 38.99
   },
   {
     "id": "48e4cefc25711758",
@@ -525,7 +555,9 @@
       ],
       "location": "Iran",
       "brief": "The strike on a school in Iran raises international attention and potential calls for de-escalation, highlighting the conflict's impact on civilian infrastructure."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "cf84e40c6a2f1808",
@@ -558,7 +590,9 @@
       ],
       "location": "Gulf or Red Sea",
       "brief": "The IRGC's strike on a US naval target represents a direct escalation in the maritime domain, posing a significant threat to US forces and regional stability."
-    }
+    },
+    "lat": 23.0,
+    "lng": 43.0
   },
   {
     "id": "7a6cce0d83425578",
@@ -593,7 +627,9 @@
       ],
       "location": "Iran",
       "brief": "Israel's large-scale strike on Iran's strategic defense systems represents a significant escalation in the conflict, targeting Iran's air defense and missile capabilities."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "4fbe4b4112e25541",
@@ -624,7 +660,9 @@
       ],
       "location": "Middle East",
       "brief": "Iran's simultaneous strikes on 14 US military bases across the Middle East mark a critical escalation, showcasing Iran's capacity for large-scale attacks on US assets and likely triggering a significant US military response."
-    }
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "4cb8d83dd17f0865",
@@ -657,7 +695,9 @@
       ],
       "location": "Iran",
       "brief": "Israel's strike on Iran's strategic defenses, including the SA-65 system, represents a significant escalation with potential implications for regional military operations and Iran's air defense capabilities."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "d26c26dd8bf96b45",
@@ -690,7 +730,9 @@
       ],
       "location": "Iran",
       "brief": "The US strikes resulting in the potential loss of multiple IRGC commanders signify a direct escalation targeting Iran's military leadership, impacting operational capabilities."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "e2c161338ba67f40",
@@ -723,7 +765,9 @@
       ],
       "location": "Iran",
       "brief": "The article highlights ongoing joint US-Israeli military operations against Iran, signaling a significant escalation in the conflict with potential for broader regional implications."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "9d109f590b8911c4",
@@ -755,7 +799,9 @@
       ],
       "location": "Iran",
       "brief": "The strikes resulting in the potential loss of several IRGC commanders indicate significant disruption to Iran's military leadership and command structure, escalating the conflict."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "ca8e48621b467b66",
@@ -787,7 +833,9 @@
       ],
       "location": "southern Iran",
       "brief": "The attack on a school in southern Iran resulting in approximately 70 casualties is likely to provoke a significant response from Iranian authorities, escalating regional tensions amidst the ongoing conflict."
-    }
+    },
+    "lat": 29.0,
+    "lng": 54.0
   },
   {
     "id": "de8839b840750f46",
@@ -818,7 +866,9 @@
       ],
       "location": "Iran",
       "brief": "The article highlights US military strikes on Iran, reflecting direct engagement and potential escalation in the ongoing conflict."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "1a8c3f15b4df8c6d",
@@ -851,7 +901,9 @@
       ],
       "location": "Iran",
       "brief": "The US strikes resulting in the potential loss of multiple IRGC commanders signify a direct and significant escalation in the conflict, impacting Iran's military leadership and operational capabilities."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "cd4d4c04ee2d1eff",
@@ -884,7 +936,9 @@
       ],
       "location": "Northern Qatar",
       "brief": "Iran's missile strike on a US-allied radar system in Qatar directly threatens US military infrastructure and operations in the Gulf region, escalating regional tensions."
-    }
+    },
+    "lat": 25.98,
+    "lng": 51.38
   },
   {
     "id": "81f6c9b2818cecef",
@@ -917,7 +971,9 @@
       ],
       "location": "Iran",
       "brief": "The airstrike on a civilian Iranian school, resulting in significant casualties, represents a severe escalation in the conflict with potential for direct state engagement."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "e752fd1c16876497",
@@ -949,7 +1005,9 @@
       ],
       "location": "Haifa, Israel",
       "brief": "Iran's rocket attacks on Haifa, Israel, signal a direct escalation in the regional conflict, posing a significant threat to US interests and allies in the Middle East."
-    }
+    },
+    "lat": 32.79,
+    "lng": 34.99
   },
   {
     "id": "f890b98e6667438c",
@@ -981,7 +1039,9 @@
       ],
       "location": "Iran",
       "brief": "The UAE's lack of prior knowledge about a US military operation against Iran highlights potential strains in regional coordination and raises concerns about the impact on future US-led operations in the Middle East."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "ae680dcbbdfab77d",
@@ -1015,7 +1075,9 @@
       ],
       "location": "Iran",
       "brief": "The potential killing of Iran's Defense Minister and IRGC Commander in Israeli strikes marks a significant escalation in the conflict, posing a direct threat to Iran's military leadership and potentially weakening its command structure."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "a8e76dbe6ce49b16",
@@ -1048,7 +1110,9 @@
       ],
       "location": "Qatar",
       "brief": "Iran's missile strikes on Qatar, a key US ally, signal direct escalation and willingness to target US partners in the region, highlighting the risk of broader regional conflict."
-    }
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "5c1ed913cf808b8c",
@@ -1081,7 +1145,9 @@
       ],
       "location": "Tehran, Iran",
       "brief": "The airstrikes on Tehran by US and Israeli forces mark a significant escalation in direct targeting of Iranian territory, indicating heightened conflict intensity and potential for further escalation."
-    }
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "a93f7972acc3fd30",
@@ -1113,7 +1179,9 @@
       ],
       "location": "Doha, Qatar",
       "brief": "Iranian strikes near Qatar, where US has strategic military presence, indicate escalating regional tensions and potential threats to US assets in the area."
-    }
+    },
+    "lat": 25.29,
+    "lng": 51.53
   },
   {
     "id": "a79acec2db2a2eca",
@@ -1144,7 +1212,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's ballistic missile attack on Israel marks a critical escalation, posing direct threats to regional stability and prompting potential for further direct military engagement."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "aaaea944afcd6018",
@@ -1177,7 +1247,9 @@
       ],
       "location": "near Bahrain's capital",
       "brief": "Explosions near Bahrain's capital threaten a critical US naval base, indicating potential escalation in the Gulf region."
-    }
+    },
+    "lat": 26.2171775,
+    "lng": 50.6089975
   },
   {
     "id": "776ae1b0bf459fcf",
@@ -1210,7 +1282,9 @@
       ],
       "location": "Damascus and Daraa provinces, Syria",
       "brief": "Explosions in strategically important areas of Syria suggest ongoing proxy operations, potentially involving Iranian-backed forces, impacting regional stability and US interests."
-    }
+    },
+    "lat": 33.51,
+    "lng": 36.29
   },
   {
     "id": "ebd09be775d3274a",
@@ -1245,7 +1319,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's missile barrage against Israel marks a significant escalation in regional hostilities, posing a direct threat to Israeli security and potentially drawing in US support."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "6fbcfa2d6acb67fd",
@@ -1277,7 +1353,9 @@
       ],
       "location": "Haifa, Israel",
       "brief": "The activation of air raid sirens in Haifa suggests a potential escalation of hostilities by Hezbollah, highlighting the ongoing security tensions in northern Israel and the potential for broader regional conflict."
-    }
+    },
+    "lat": 32.79,
+    "lng": 34.99
   },
   {
     "id": "71ef81df54fc6bb9",
@@ -1309,7 +1387,9 @@
       ],
       "location": "Iran",
       "brief": "The missile launch from Iran towards Israel signals a direct escalation in regional hostilities, posing a significant threat to Israeli security and potentially drawing in broader international involvement."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "6600730c56a8f17d",
@@ -1344,7 +1424,9 @@
       ],
       "location": "southern Iran",
       "brief": "The mass casualty attack on a school in southern Iran, resulting in at least 60 children killed, is likely to provoke significant international condemnation and escalate regional tensions, though direct US involvement is not confirmed."
-    }
+    },
+    "lat": 29.0,
+    "lng": 54.0
   },
   {
     "id": "8fec10127e840e44",
@@ -1374,7 +1456,9 @@
       ],
       "location": "Chabahar, Iran",
       "brief": "Explosions at the strategic Iranian port of Chabahar could impact regional maritime operations and Iran's infrastructure, signaling potential escalation amid ongoing conflict."
-    }
+    },
+    "lat": 25.29,
+    "lng": 60.64
   },
   {
     "id": "c5d0adb51ac71edb",
@@ -1409,7 +1493,9 @@
       ],
       "location": "southern Iran",
       "brief": "The airstrike resulting in the deaths of at least 60 children in southern Iran represents a significant escalation with potential international repercussions, posing a critical risk of further complicating the conflict dynamics and provoking broader regional instability."
-    }
+    },
+    "lat": 29.0,
+    "lng": 54.0
   },
   {
     "id": "a1baa85c5207de4a",
@@ -1441,7 +1527,9 @@
       ],
       "location": "Iran",
       "brief": "The strikes on Iran by the US and its allies have the potential to significantly disrupt global oil markets, indicating a high level of escalation in the conflict."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "5e6278ad4d2a1826",
@@ -1473,7 +1561,9 @@
       ],
       "location": "Iran",
       "brief": "The potential elimination of Iran's Supreme Leader Ali Khamenei could severely disrupt Iran's command structure and decision-making processes, significantly impacting the ongoing Iran-US conflict."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "997ced139c5bc1b1",
@@ -1507,7 +1597,9 @@
       ],
       "location": "American bases in the region",
       "brief": "The IRGC claims to have inflicted mass casualties on US forces, indicating a significant escalation in direct hostilities between Iran and the United States."
-    }
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "913d2f47c61de258",
@@ -1537,7 +1629,9 @@
       ],
       "location": "Gaza",
       "brief": "The article describes an ongoing conflict between Israel and Hamas in Gaza, which could indirectly affect the Iran–US conflict if Iran decides to escalate tensions in support of Hamas."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.47
   },
   {
     "id": "3c04ffe49087bbda",
@@ -1571,7 +1665,9 @@
       ],
       "location": "US military base in Kuwait",
       "brief": "Iran's direct strike on a US military base in Kuwait marks a significant escalation, posing a direct threat to US forces and regional stability."
-    }
+    },
+    "lat": 29.39,
+    "lng": 47.54
   },
   {
     "id": "ded8752c4768e5f7",
@@ -1603,7 +1699,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's ballistic missile strikes on Israel represent a significant escalation in regional hostilities, posing a direct threat to Israeli security and potentially drawing in US support for its ally."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "63677fc60448dd7e",
@@ -1636,7 +1734,9 @@
       ],
       "location": "Iran (over 20 provinces)",
       "brief": "The coordinated US and Israeli airstrikes on over 20 Iranian provinces mark a critical escalation, indicating direct targeting of IRGC infrastructure and a significant expansion of the conflict's geographic scope."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "f44625121eb8835d",
@@ -1667,7 +1767,9 @@
       ],
       "location": "Bahrain",
       "brief": "The interception of an Iranian missile by Bahrain Defense Forces highlights Iran's willingness to target US allies in the Gulf, escalating regional tensions."
-    }
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "6f5876af6a2d383c",
@@ -1698,7 +1800,9 @@
       ],
       "location": "Unspecified maritime location",
       "brief": "The IRGC Navy's missile attack on a US MST ship represents a direct engagement between Iranian and US military forces, posing a significant escalation risk in the conflict."
-    }
+    },
+    "lat": 26.0,
+    "lng": 56.0
   },
   {
     "id": "778b5e882401d512",
@@ -1732,7 +1836,9 @@
       ],
       "location": "Qatar",
       "brief": "Missile attacks on Qatar, a key US ally hosting CENTCOM forward headquarters, represent a significant escalation in the Iran-US conflict with direct threats to US military assets and regional stability."
-    }
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "220851ee3ee1917c",
@@ -1766,7 +1872,9 @@
       ],
       "location": "US military bases",
       "brief": "The IRGC's missile strikes on US military bases represent a direct and significant escalation in the Iran–US conflict, posing a critical threat to regional stability and increasing the likelihood of retaliatory measures by the US."
-    }
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "8b1a196641be8f92",
@@ -1798,7 +1906,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct drone strikes against Israel signal an escalation in regional tensions and demonstrate Iran's evolving use of unmanned aerial capabilities in military operations."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "d86f61565cbb85d2",
@@ -1831,7 +1941,9 @@
       ],
       "location": "Central occupied Palestine, Tel Aviv",
       "brief": "The escalation in central occupied Palestine and the emergency state in Tel Aviv indicate a significant Hezbollah action, likely supported by Iran, posing a direct threat to Israeli security and potentially drawing in broader regional actors."
-    }
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "5947d0ac61e2a831",
@@ -1865,7 +1977,9 @@
       ],
       "location": "Iran",
       "brief": "The US-Israel attack on Iran represents a direct military escalation, shattering diplomatic efforts and signaling a critical phase in the conflict with significant strategic implications."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "ff520e8411eb899c",
@@ -1899,7 +2013,9 @@
       ],
       "location": "Dubai, UAE",
       "brief": "Missile strikes on Dubai by Iranian-backed groups mark a critical escalation, directly threatening a major economic hub and risking broader regional instability."
-    }
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "0625bf4ead308506",
@@ -1931,7 +2047,9 @@
       ],
       "location": "Tabriz, Khomein, Ahvaz, Iran",
       "brief": "The downing of Israeli Hermes drones by Iran demonstrates ongoing intelligence or military operations within Iranian territory, escalating tensions in the broader conflict."
-    }
+    },
+    "lat": 38.08,
+    "lng": 46.29
   },
   {
     "id": "70b5cdb3aefa443a",
@@ -1963,7 +2081,9 @@
       ],
       "location": "Dezful, Iran",
       "brief": "The attack on the Dezful radio station signifies an escalation in efforts to disrupt Iranian communication infrastructure, impacting both domestic and military communications in the region."
-    }
+    },
+    "lat": 32.38,
+    "lng": 48.4
   },
   {
     "id": "4f54b520c78fd99a",
@@ -1997,7 +2117,9 @@
       ],
       "location": "Dubai, UAE",
       "brief": "The explosion in Dubai suggests an escalation in proxy operations within the UAE, highlighting Iran's potential use of regional proxies to target US allies amidst the conflict."
-    }
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "fb04d937e8b0f8a1",
@@ -2029,7 +2151,9 @@
       ],
       "location": "Iran",
       "brief": "The destruction of Iran's air defense system by the US significantly alters the military balance and increases vulnerability of Iranian assets to future attacks."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "d7b94a70d30211f7",
@@ -2063,7 +2187,9 @@
       ],
       "location": "Riyadh and Eastern Saudi Arabia",
       "brief": "Iran's direct strike on US military bases in Saudi Arabia marks a significant escalation, demonstrating Iran's capability and willingness to target US assets in the region."
-    }
+    },
+    "lat": 24.71,
+    "lng": 46.68
   },
   {
     "id": "823876c44245df84",
@@ -2094,7 +2220,9 @@
       ],
       "location": "Gulf region",
       "brief": "The direct engagement between US and Iranian forces with the use of Iranian missiles against a US military support ship marks a significant escalation in the maritime domain of the conflict."
-    }
+    },
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "590e05d3defa8bd6",
@@ -2127,7 +2255,9 @@
       ],
       "location": "Gulf or Arabian Sea region",
       "brief": "The IRGC's direct missile attack on a US Navy support ship marks a significant escalation in the maritime domain, posing a direct threat to US forces and increasing the risk of broader military confrontation."
-    }
+    },
+    "lat": 24.0,
+    "lng": 58.0
   },
   {
     "id": "29928b7521dcde80",
@@ -2158,7 +2288,9 @@
       ],
       "location": "Iran",
       "brief": "The attack on Iran during significant progress in negotiations underscores the persistent escalation and disconnect between military actions and diplomatic efforts in the Iran–US conflict."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "6a68520b14e12627",
@@ -2191,7 +2323,9 @@
       ],
       "location": "Kuwait",
       "brief": "The missile strike on Kuwait represents a significant escalation as Iranian-backed proxies expand the conflict zone, targeting US allies in the region."
-    }
+    },
+    "lat": 29.38,
+    "lng": 47.99
   },
   {
     "id": "dbb3eb67404e664a",
@@ -2225,7 +2359,9 @@
       ],
       "location": "Iran",
       "brief": "The US airstrikes resulting in the deaths of a senior IRGC commander and the Iranian Defense Minister represent a critical escalation, directly targeting Iran's military leadership and potentially destabilizing its command structure."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "54ebf8d78b410d05",
@@ -2258,7 +2394,9 @@
       ],
       "location": "Iran",
       "brief": "The assassination of Iran's Defense Minister and IRGC Commander would represent a critical escalation, directly targeting the Iranian military leadership and potentially destabilizing the country's command structure."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "b03c540c5943e9b3",
@@ -2290,7 +2428,9 @@
       ],
       "location": "Abiyek, Iran",
       "brief": "The incident highlights the impact of the conflict on civilian infrastructure and raises concerns about potential escalation, though direct attribution to the Iran-US conflict is unclear."
-    }
+    },
+    "lat": 36.04,
+    "lng": 50.52
   },
   {
     "id": "12a3b0e8e058fbb7",
@@ -2359,7 +2499,9 @@
       ],
       "location": "Israel-Lebanon border region",
       "brief": "Israel's strikes on missile launchers highlight ongoing efforts to neutralize missile threats from Iran-backed Hezbollah, escalating regional tensions."
-    }
+    },
+    "lat": 33.1,
+    "lng": 35.3
   },
   {
     "id": "c846e6a6c716a1af",
@@ -2392,7 +2534,9 @@
       ],
       "location": "Iran",
       "brief": "The killing of individuals linked to former Iranian President Ahmadinejad could indicate internal power struggles but has unclear direct implications for the US-Iran conflict at this stage."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "54cf4e21314b855e",
@@ -2425,7 +2569,9 @@
       ],
       "location": "Minab and 24 provinces, Iran",
       "brief": "The coordinated attacks across Iran, including a deadly school assault, indicate significant domestic instability and potential escalation of internal conflict, which could distract Iranian resources from external military engagements."
-    }
+    },
+    "lat": 27.1,
+    "lng": 57.08
   },
   {
     "id": "22983b9dde063f7f",
@@ -2459,7 +2605,9 @@
       ],
       "location": "Abu Dhabi, UAE and Doha, Qatar",
       "brief": "Explosions in Abu Dhabi and Doha, which host critical US military bases, suggest a significant escalation in proxy operations targeting US regional interests."
-    }
+    },
+    "lat": 24.45,
+    "lng": 54.38
   },
   {
     "id": "d9add5980663ed6d",
@@ -2491,7 +2639,9 @@
       ],
       "location": "Minab, Iran",
       "brief": "The killing of 53 elementary school students in Minab underscores the severe humanitarian impact of the conflict and Iran's mobilization of resources to address the crisis."
-    }
+    },
+    "lat": 27.1,
+    "lng": 57.08
   },
   {
     "id": "dfcab930de2f42f7",
@@ -2637,7 +2787,9 @@
       ],
       "location": "Minab, Iran",
       "brief": "The attack on a girls' school in Minab, while condemned by the Iranian government, is not directly linked to the Iran-US conflict and has unclear strategic significance at this time."
-    }
+    },
+    "lat": 27.1,
+    "lng": 57.08
   },
   {
     "id": "0a9235e5cb075e85",
@@ -2668,7 +2820,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct missile attacks on Israel represent a significant escalation with potential for broader regional conflict and increased US involvement."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "1f97a7892432ab79",
@@ -2701,7 +2855,9 @@
       ],
       "location": "Israel",
       "brief": "Missile attacks on Israel by Iranian-backed groups signal a potential escalation in regional hostilities, increasing the risk of direct confrontation between Iran and Israel."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "e38e9dc0ed6216c6",
@@ -2736,7 +2892,9 @@
       ],
       "location": "Erbil, Iraq",
       "brief": "Iran's missile strikes on a US base in Erbil mark a critical escalation, demonstrating direct engagement and posing a significant threat to regional stability."
-    }
+    },
+    "lat": 36.19,
+    "lng": 44.01
   },
   {
     "id": "3b139a5d83d823d4",
@@ -2771,7 +2929,9 @@
       ],
       "location": "Iran",
       "brief": "The joint US-Israel attack on Iran signifies a significant escalation in the conflict, with potential for broader regional and global repercussions amid ongoing nuclear and ballistic missile tensions."
-    }
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "2ddcb99fc73dc7c4",
@@ -2805,7 +2965,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's ballistic missile strike on Israel marks a critical escalation, demonstrating direct offensive capability and posing a significant threat to regional stability, likely prompting a strong US-backed Israeli response."
-    }
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "d972faab95afc667",
@@ -2875,7 +3037,9 @@
       ],
       "location": "US military base in Qatar",
       "brief": "The drone strike on a US base in Qatar by an Iranian Shahed drone marks a direct escalation in the conflict, posing a significant threat to US operations and logistics in the Middle East."
-    }
+    },
+    "lat": 25.12,
+    "lng": 51.32
   },
   {
     "id": "0f141ff84910f1dc",
@@ -2909,7 +3073,9 @@
       ],
       "location": "Bahrain",
       "brief": "The missile attack from Iran on Bahrain highlights escalating regional tensions and direct aggression by Iran, posing a significant threat to US allies in the Gulf."
-    }
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "3f6d7b10232cb274",
@@ -2942,7 +3108,9 @@
       ],
       "location": "United Arab Emirates",
       "brief": "Iran's ballistic missile attack on the UAE demonstrates the persistent threat of Iranian missile capabilities in the Gulf region, escalating regional tensions."
-    }
+    },
+    "lat": 24.0,
+    "lng": 54.0
   },
   {
     "id": "0202aac3e45b4695",
@@ -3270,7 +3438,9 @@
       ],
       "location": "Middle East",
       "brief": "Iran's declaration of 'no red lines' and initiation of missile and drone attacks against US and Israeli assets marks a significant escalation in the conflict."
-    }
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "8c0ffea0f88472e6",
@@ -3307,7 +3477,9 @@
       ],
       "location": "Haifa, Galilee region, Israel",
       "brief": "Iran's ballistic missile barrage against Israel marks a critical escalation, directly involving Iran in the conflict and posing significant regional security risks."
-    }
+    },
+    "lat": 32.79,
+    "lng": 34.99
   },
   {
     "id": "9fd3872aa08b23e9",
