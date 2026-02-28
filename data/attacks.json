@@ -1,5 +1,148 @@
 [
   {
+    "id": "1289605e21d77429",
+    "title_original": "США и Израиль хотят бомбить Иран минимум пять дней, пишет Axios",
+    "content_original": "США и Израиль хотят бомбить Иран минимум пять дней, пишет Axios",
+    "url": "https://ria.ru/20260228/ssha-2077537513.html",
+    "published": "2026-02-28T22:36:56+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israel Plan to Bomb Iran for at Least Five Days: Axios",
+    "relevant": true,
+    "summary_en": "The US and Israel are reportedly planning a sustained bombing campaign against Iran lasting a minimum of five days, according to Axios. This indicates a potential escalation in the ongoing conflict, with both nations coordinating a significant military operation against Iranian targets. The strategic significance involves a heightened risk of regional escalation and a direct confrontation with Iran's military and nuclear infrastructure.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "nuclear",
+      "military operation",
+      "bomb",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The reported US-Israel joint bombing campaign against Iran signals a significant escalation with direct targeting of Iranian military and nuclear infrastructure, posing a high risk of regional conflict expansion."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "ae1144b4d76284e5",
+    "title_original": "При ракетном ударе по Кувейту пострадали трое военнослужащих",
+    "content_original": "При ракетном ударе по Кувейту пострадали трое военнослужащих",
+    "url": "https://ria.ru/20260228/kuvejt-2077536664.html",
+    "published": "2026-02-28T22:33:46+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Three military personnel injured in missile strike on Kuwait",
+    "relevant": true,
+    "summary_en": "Unidentified attackers launched a missile strike on Kuwait, injuring three military personnel. This incident highlights the escalating tensions and potential threats to US allies in the Gulf region amid the ongoing Iran-US conflict. The strategic significance involves the security of US bases and interests in Kuwait and the surrounding area.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran",
+        "US"
+      ],
+      "location": "Kuwait",
+      "brief": "The missile strike on Kuwait, injuring three military personnel, underscores escalating threats to US allies and interests in the Gulf amid the Iran-US conflict."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "2f98e16617c096fe",
+    "title_original": "Красный Полумесяц назвал число погибших после ударов по Ирану",
+    "content_original": "В результате атаки США и Израиля на Иран погибли 201 человек, более 740 получили ранения, сообщил&nbsp;представитель Красного Полумесяца Моджтаба Халиди, передает иранское агентство ISNA.",
+    "url": "https://www.rbc.ru/politics/28/02/2026/69a3417a9a79471d533c0f6a",
+    "published": "2026-02-28T22:31:32+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Red Crescent Reports Casualties from US-Israel Strikes on Iran",
+    "relevant": true,
+    "summary_en": "The Iranian Red Crescent reported that 201 people were killed and over 740 injured in US and Israeli strikes on Iran. This highlights the significant humanitarian impact and escalating casualties in the ongoing conflict, underscoring the intensity of recent military operations.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The strikes indicate a significant escalation with direct US and Israeli involvement, resulting in high casualties and increased humanitarian impact, signaling intensified military operations against Iran."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "99d8a05d32edcf84",
+    "title_original": "ОАЭ осудили ракетные удары Ирана по региону",
+    "content_original": "Тегеран, Иран",
+    "url": "https://www.rbc.ru/rbcfreenews/69a331759a7947b46e7f017a",
+    "published": "2026-02-28T22:28:41+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE Condemns Iran's Missile Strikes on the Region",
+    "relevant": true,
+    "summary_en": "The UAE has condemned Iran's missile strikes targeting the region, highlighting the escalating tensions and potential threats to regional stability. This condemnation follows recent missile and drone attacks by Iran on US bases and interests in the Gulf. The UAE's stance underscores the broader international concern over Iran's military actions and their impact on regional security.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "UAE"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran's missile strikes on US bases and interests in the Gulf signal direct military engagement, escalating regional tensions and prompting international concern."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "10d883ceb8c47592",
     "title_original": "Нетаньяху заявил о множестве признаков смерти Хаменеи после ударов",
     "content_original": "Есть множество признаков того, что верховного лидера Ирана Али Хаменеи больше нет в живых, заявил премьер-министр Израиля Биньямин Нетаньяху.",
@@ -67,6 +210,42 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "92872722ed90ed57",
+    "title_original": "Israeli officials informed Khamenei assassinated in Iran strike, body said to be found in rubble",
+    "content_original": "Ali Khamenei, Iran’s supreme leader since 1989, was killed in an Israeli strike, official confirmed. His death marks a major turning point for the Islamic Republic’s leadership.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888283",
+    "published": "2026-02-28T21:39:17+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Israeli officials claim Khamenei assassinated in Iran strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli officials reported that Iran's Supreme Leader Ali Khamenei was killed in an Israeli strike, marking a significant turning point for Iran's leadership. This development could lead to major instability within Iran's government and potentially escalate the ongoing conflict with Israel and its allies. The strategic implications are profound given Khamenei's central role in Iranian decision-making and IRGC operations.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "strike",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The assassination of Iran's Supreme Leader Ali Khamenei by Israel marks a significant escalation in the conflict, with profound implications for Iranian leadership and regional stability."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "8c0984eb1e8a20ec",
@@ -168,6 +347,111 @@
     "lng": 47.9551556
   },
   {
+    "id": "58d4c64b2040b702",
+    "title_original": "⚡️ Video from earlier today reportedly showing the moment of the attack on the compound of Iran's Supreme Leader Ali ...",
+    "content_original": "⚡️ Video from earlier today reportedly showing the moment of the attack on the compound of Iran's Supreme Leader Ali Khamenei",
+    "url": "https://t.me/warmonitors/40090",
+    "published": "2026-02-28T19:44:12+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Attack on Iran's Supreme Leader Ali Khamenei's compound reportedly captured on video",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An attack on the compound of Iran's Supreme Leader Ali Khamenei was reportedly captured on video earlier today. This incident signifies a significant escalation, targeting the highest authority in Iran. The strategic significance is high as it indicates a potential shift in the conflict's direct targeting of Iranian leadership and command structures.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Iranian leadership",
+        "Iranian Revolutionary Guard Corps"
+      ],
+      "location": "Iran, Supreme Leader Ali Khamenei's compound",
+      "brief": "The attack on Iran's Supreme Leader's compound represents a significant escalation, directly targeting the highest authority and potentially shifting the conflict dynamics."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "f319fc605c50a854",
+    "title_original": "⚡ #UPDATE  Israeli ambassador to Washington Yechiel Leiter told U.S. officials that Iran's supreme leader Ali Khamene...",
+    "content_original": "⚡ #UPDATE Israeli ambassador to Washington Yechiel Leiter told U.S. officials that Iran's supreme leader Ali Khamenei has been killed in the Israeli strike on his compound, a source with knowledge said No statement or confirmation from the Iranian side as of now. We will wait.",
+    "url": "https://t.me/warmonitors/40089",
+    "published": "2026-02-28T19:44:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israeli ambassador reports Khamenei killed in Israeli strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli ambassador Yechiel Leiter informed US officials that Iran's Supreme Leader Ali Khamenei may have been killed in an Israeli strike on his compound. This has not been confirmed by Iranian sources. The potential death of Khamenei would be a significant escalation and could dramatically impact Iran's command structure and decision-making during the conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "death",
+      "strike",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (Khamenei's compound)",
+      "brief": "The potential killing of Iran's Supreme Leader Ali Khamenei by an Israeli airstrike represents a critical escalation with profound implications for Iran's command structure and strategic decision-making in the ongoing conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "d964ebc7893a3c1b",
+    "title_original": "🇮🇱 ⚔️ 🇮🇷  Israeli Channel 12 can't make up its mind and decide if Ayatollah Ali Khamenei was killed or injured in the...",
+    "content_original": "🇮🇱 ⚔️ 🇮🇷 Israeli Channel 12 can't make up its mind and decide if Ayatollah Ali Khamenei was killed or injured in the opening strikes. No words on the status of Khamenei, predictably, from Iranian medias. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69682",
+    "published": "2026-02-28T19:42:44+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Conflicting reports on Ayatollah Khamenei's status after Israeli strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli media outlets are speculating about Ayatollah Ali Khamenei being either killed or injured during recent strikes, while Iranian media remains silent on his condition. This uncertainty has significant implications for Iran's leadership and decision-making during the ongoing conflict.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The potential killing or injury of Ayatollah Khamenei in Israeli strikes could lead to significant escalation and instability in Iran's command structure during the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "78d72355e864a693",
     "title_original": "В Иране ракетному удару подвергся город Бушер, где расположена АЭС",
     "content_original": "В Иране ракетному удару подвергся город Бушер, где расположена АЭС",
@@ -204,6 +488,75 @@
     "lng": 54.56
   },
   {
+    "id": "689edb13163fe6c7",
+    "title_original": "⚡️ New drone strike reportedly in Bahrain",
+    "content_original": "⚡️ New drone strike reportedly in Bahrain",
+    "url": "https://t.me/warmonitors/40087",
+    "published": "2026-02-28T19:39:07+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "New drone strike reportedly in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Unspecified actors reportedly launched a drone strike in Bahrain, targeting an area within the country. This incident is significant as Bahrain hosts a critical US naval base, the US Navy's 5th Fleet, and any attack on its territory could indicate an escalation in regional hostilities.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "drone",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "unknown actors",
+        "US Navy's 5th Fleet"
+      ],
+      "location": "Bahrain",
+      "brief": "The drone strike in Bahrain, home to the US Navy's 5th Fleet, indicates potential escalation in regional hostilities targeting critical US military assets."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "913ea6781894ee01",
+    "title_original": "🇮🇷 💥 🇰🇼  Explosion reported in Kuwait, likely as a result of Iranian drones. @CIG_telegram",
+    "content_original": "🇮🇷 💥 🇰🇼 Explosion reported in Kuwait, likely as a result of Iranian drones. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69681",
+    "published": "2026-02-28T19:35:19+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Explosion in Kuwait likely caused by Iranian drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An explosion occurred in Kuwait, reportedly due to Iranian drones. This incident suggests Iran is expanding its retaliatory attacks to include Gulf states like Kuwait, potentially escalating regional tensions and prompting a response from US forces in the area.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "United States"
+      ],
+      "location": "Kuwait",
+      "brief": "The use of Iranian drones to strike Kuwait suggests an expansion of Iran's retaliatory measures, posing a risk of escalating regional tensions and prompting a US response."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "0631ee8afe5d2b11",
     "title_original": "До 85 выросло число погибших при ударе по иранской школе",
     "content_original": "При ударе США и Израиля по школе для девочек в иранском Минабе погибли 85 человек. Об этом сообщило Tasnim со ссылкой на местные власти.",
@@ -232,6 +585,112 @@
       "location": "Unknown",
       "brief": "Classified by keyword matching (LLM unavailable)"
     }
+  },
+  {
+    "id": "2fb4db2d7bf51808",
+    "title_original": "🇮🇷 🇦🇪 ⚡️ - BREAKING: Initial reports that Iran has bombed the Jebel Ali port in the UAE.",
+    "content_original": "🇮🇷 🇦🇪 ⚡️ - BREAKING: Initial reports that Iran has bombed the Jebel Ali port in the UAE.",
+    "url": "https://t.me/CIG_telegram/69679",
+    "published": "2026-02-28T19:33:20+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iran bombs Jebel Ali port in UAE",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has reportedly launched an attack on the Jebel Ali port in the UAE, a major commercial port and logistics hub. This represents a significant escalation of hostilities as it targets critical infrastructure in a Gulf state not directly involved in the conflict. The attack could have major economic and strategic implications for the UAE and the broader region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Jebel Ali port, UAE",
+      "brief": "Iran's attack on a critical UAE port infrastructure represents a significant escalation targeting a major logistics hub in the Gulf region, with potential strategic implications for US interests and regional stability."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "8440abab9f68dcd7",
+    "title_original": "🇺🇸 🇮🇷 ⚡️  — U.S. Central Command: CENTCOM's Task Force Scorpion Strike - for the first time in history - is using one...",
+    "content_original": "🇺🇸 🇮🇷 ⚡️ — U.S. Central Command: CENTCOM's Task Force Scorpion Strike - for the first time in history - is using one-way attack drones in combat during Operation Epic Fury. These low-cost drones, modeled after Iran's Shahed drones, are now delivering American-made retribution.",
+    "url": "https://t.me/CIG_telegram/69678",
+    "published": "2026-02-28T19:32:43+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "CENTCOM's Task Force Scorpion Strike deploys one-way attack drones in Operation Epic Fury",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The U.S. Central Command has, for the first time, deployed one-way attack drones modeled after Iran's Shahed drones during Operation Epic Fury. This signifies a new phase in U.S. retaliation efforts, utilizing low-cost drones for combat operations. The deployment marks a strategic shift in how the U.S. is responding to Iranian drone threats in the region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "CENTCOM",
+        "Iran"
+      ],
+      "location": "Middle East region",
+      "brief": "The deployment of one-way attack drones by the U.S. in Operation Epic Fury marks a strategic shift in countering Iranian drone threats, escalating the use of unmanned systems in the conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "aa71349ce5e1deea",
+    "title_original": "🇮🇷 💥 🇧🇭  Iranian Shahed struck a target in Bahrain. @CIG_telegram",
+    "content_original": "🇮🇷 💥 🇧🇭 Iranian Shahed struck a target in Bahrain. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69677",
+    "published": "2026-02-28T19:31:58+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian Shahed drone strikes target in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian Shahed drone struck a target in Bahrain, marking an escalation in the conflict with potential implications for US interests in the region. Bahrain hosts a significant US naval base, the US Navy's 5th Fleet, making this incident strategically significant. The strike could provoke a US response and further regional instability.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Bahrain",
+      "brief": "The Iranian Shahed drone strike on Bahrain, home to the US Navy's 5th Fleet, represents a significant escalation with direct implications for US military assets in the region."
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "77161864b08f03d6",
@@ -306,6 +765,83 @@
     },
     "lat": 31.17,
     "lng": 36.94
+  },
+  {
+    "id": "3913cc1b7f08984f",
+    "title_original": "Explosions rock Bahrain, Dubai, Jordan and Kuwait as war spreads across Middle East",
+    "content_original": "War launched by US and Israel on Iran has quickly escalated prompting anxiety and concern in whole region Full report US-Israeli attack on Iran – live updates Iran struck the world-famous Fairmont hotel in Dubai, setting the hotel alight, as the war launched by the US and Israel on Iran quickly spread to the rest of the Middle East on Saturday. Residents watched in shock as an Iranian missile hit the five-star hotel in Dubai’s luxurious Palm Jumeirah area. Social media videos showed fires breaking out near the entrance of the hotel, which led to four people being injured. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/feb/28/dubais-famous-fairmont-hotel-in-flames-after-iranian-air-strike",
+    "published": "2026-02-28T19:27:36+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Explosions hit Bahrain, Dubai, Jordan, and Kuwait amid escalating Middle East conflict",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike on the Fairmont hotel in Dubai's Palm Jumeirah area, causing a fire and injuring four people. This attack is part of the escalating conflict between Iran and the US-Israel alliance, which has now spread to multiple countries in the Middle East, raising regional tensions and instability.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "UAE",
+        "Bahrain",
+        "Jordan",
+        "Kuwait"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran's missile strike on a hotel in Dubai marks a significant escalation, demonstrating Iran's willingness to target US-aligned states in the region with direct military action."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "4473005d36ea8fd4",
+    "title_original": "🇮🇷 ⚔️ 🇮🇱  Israel: Air defenses show signs of impotence Israeli defense systems fired at least 9 times trying to inter...",
+    "content_original": "🇮🇷 ⚔️ 🇮🇱 Israel: Air defenses show signs of impotence Israeli defense systems fired at least 9 times trying to intercept, without success, 2 Iranian missiles that reached their targets in Tel Aviv. Up to this moment on the first day of the war, Iran has fired fewer than 20 missiles and a few dozen drones toward Israel, but with a high success rate for the missiles, hitting various locations, some of them civilian areas. Footage: Misa Raumi 🔗 Patricia Marins (@pati_marins64)",
+    "url": "https://t.me/CIG_telegram/69676",
+    "published": "2026-02-28T19:27:16+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Israeli air defenses fail to intercept Iranian missiles in Tel Aviv",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missiles targeting Tel Aviv, with at least two missiles hitting their targets despite Israeli air defenses firing nine times in unsuccessful interception attempts. This event occurred on the first day of the war, highlighting the effectiveness of Iran's missile strikes and potential vulnerabilities in Israel's air defense systems.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "intercept",
+      "air defense",
+      "war",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strike on Tel Aviv demonstrates a direct escalation in the conflict, showcasing the effectiveness of Iranian missile capabilities and posing a significant threat to regional stability."
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "69e46cd9979ffe34",
@@ -5753,6 +6289,41 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "c041fe56e7edc374",
+    "title_original": "Israel's Netanyahu says many signs that Khamenei 'is no longer'",
+    "content_original": "JERUSALEM, Feb 28 (Reuters) - Israeli Prime Minister Benjamin Netanyahu said on Saturday that there were many signs suggesting Iranian Supreme Leader Ayatollah Ali Khamenei may have been killed in Israeli-U.S. strikes in Iran. \"This morning we destroyed the compound of the tyrant Khamenei,\" Netanyahu said in a video statement, adding that for more than 30 years Khamenei had \"dispatched terrorism across the world, made his own people miserable, and worked constantly and tirelessly on a program to annihilate the state of Israel\".",
+    "url": "https://www.al-monitor.com/originals/2026/02/israels-netanyahu-says-many-signs-khamenei-no-longer",
+    "published": "2026-02-28T14:36:44-05:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Netanyahu suggests Khamenei may have been killed in strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli Prime Minister Benjamin Netanyahu claimed there are signs that Iranian Supreme Leader Ayatollah Ali Khamenei may have been killed in recent Israeli-U.S. strikes on Iran. Netanyahu stated that they destroyed Khamenei's compound and accused him of terrorism, oppressing his people, and working to destroy Israel. This could indicate a significant escalation in the conflict and potential leadership turmoil within Iran.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israeli Prime Minister Netanyahu's claim of striking Ayatollah Khamenei's compound suggests a significant escalation in the conflict with potential leadership turmoil within Iran."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "fb04d937e8b0f8a1",
