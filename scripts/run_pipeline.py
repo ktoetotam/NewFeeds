@@ -84,9 +84,38 @@ def save_attacks(articles: list[dict]):
 
 def geocode_attacks(attacks: list[dict]) -> list[dict]:
     """Add lat/lng to attacks that have a location but no coordinates yet."""
+    import re
     import time
+    import requests
     headers = {"User-Agent": "iran-region-monitor/1.0 (github.com/ktoetotam/NewFeeds)"}
     skip_locations = {"unknown", "multiple locations", "middle east", "region", ""}
+
+    def _clean_location(loc: str) -> str:
+        """Simplify location strings for better geocoding results."""
+        # Remove parenthetical notes: "Iran (over 20 provinces)" → "Iran"
+        loc = re.sub(r"\s*\(.*?\)", "", loc)
+        # Remove leading descriptors: "US military base in Kuwait" → "Kuwait"
+        loc = re.sub(r"^(?:US |American |military )?(?:military )?(?:base[s]? (?:in|near) |bases (?:in|near) )", "", loc, flags=re.IGNORECASE)
+        # "southern Iran" → "Iran"
+        loc = re.sub(r"^(?:southern|northern|eastern|western|central)\s+", "", loc, flags=re.IGNORECASE)
+        # Remove "region" descriptor: "Haifa, Galilee region, Israel" → "Haifa, Galilee, Israel"
+        loc = re.sub(r"\s+region\b", "", loc, flags=re.IGNORECASE)
+        # Take first location if comma-separated countries: "Abu Dhabi, UAE and Doha, Qatar" → "Abu Dhabi, UAE"
+        if " and " in loc and loc.count(",") > 1:
+            loc = loc.split(" and ")[0]
+        return loc.strip()
+
+    def _geocode_query(query: str) -> dict | None:
+        """Try geocoding a query string; return {lat, lon} or None."""
+        resp = requests.get(
+            "https://nominatim.openstreetmap.org/search",
+            params={"q": query, "format": "json", "limit": 1},
+            headers=headers,
+            timeout=10,
+        )
+        results = resp.json()
+        return results[0] if results else None
+
     geocoded = 0
     for attack in attacks:
         if attack.get("lat") is not None:
@@ -94,19 +123,35 @@ def geocode_attacks(attacks: list[dict]) -> list[dict]:
         location = (attack.get("classification") or {}).get("location", "").strip()
         if not location or location.lower() in skip_locations:
             continue
+        clean_loc = _clean_location(location)
+        if not clean_loc or clean_loc.lower() in skip_locations:
+            continue
         try:
-            resp = requests.get(
-                "https://nominatim.openstreetmap.org/search",
-                params={"q": location, "format": "json", "limit": 1},
-                headers=headers,
-                timeout=10,
-            )
-            results = resp.json()
-            if results:
-                attack["lat"] = float(results[0]["lat"])
-                attack["lng"] = float(results[0]["lon"])
+            result = _geocode_query(clean_loc)
+            # Fallback: if cleaned query fails and has multiple comma parts, try simplifying
+            if not result and "," in clean_loc:
+                # "Haifa, Galilee, Israel" → try "Haifa, Israel" (first + last part)
+                parts = [p.strip() for p in clean_loc.split(",")]
+                if len(parts) > 2:
+                    fallback = f"{parts[0]}, {parts[-1]}"
+                    time.sleep(1.1)
+                    result = _geocode_query(fallback)
+                # If still no result, try just the country (last part)
+                if not result:
+                    time.sleep(1.1)
+                    result = _geocode_query(parts[-1])
+            # Fallback: try just the country part for "City, Country" that fails
+            if not result and "," in clean_loc:
+                parts = [p.strip() for p in clean_loc.split(",")]
+                time.sleep(1.1)
+                result = _geocode_query(parts[-1])
+            if result:
+                attack["lat"] = float(result["lat"])
+                attack["lng"] = float(result["lon"])
                 logger.info(f"Geocoded '{location}' → {attack['lat']:.4f}, {attack['lng']:.4f}")
                 geocoded += 1
+            else:
+                logger.debug(f"No geocoding results for '{clean_loc}' (original: '{location}')")
             time.sleep(1.1)  # Nominatim rate limit: 1 req/sec
         except Exception as e:
             logger.warning(f"Geocoding failed for '{location}': {e}")
@@ -345,27 +390,6 @@ def run():
     threat = compute_and_save_threat_level(
         existing_attacks, str(DATA_DIR / "threat_level.json")
     )
-
-    # ── Step 7: Generate executive summary ──
-    logger.info("── Step 7: Generating executive summary ──")
-
-    from generate_summary import generate_and_save as generate_executive_summary
-
-    try:
-        exec_summary = generate_executive_summary(
-            attacks=existing_attacks,
-            threat=threat,
-            articles=all_articles_flat,
-            api_key=api_key,
-            output_path=str(DATA_DIR / "executive_summary.json"),
-        )
-        logger.info(
-            f"Executive summary generated: "
-            f"{len(exec_summary.get('confirmed_events', []))} confirmed events, "
-            f"{len(exec_summary.get('whats_new', []))} new items"
-        )
-    except Exception as e:
-        logger.error(f"Executive summary generation failed: {e}")
 
     # ── Summary ──
     logger.info("=" * 60)
