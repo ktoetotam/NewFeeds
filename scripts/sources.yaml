@@ -73,6 +73,13 @@ regions:
         category: independent
         skip_translation: true
 
+      - name: "Shafaqna English"
+        type: rss
+        language: en
+        url: "https://en.shafaqna.com/feed/"
+        category: state-aligned
+        skip_translation: true
+
       # ── Telegram channels ──
 
       - name: "Press TV (TG)"
