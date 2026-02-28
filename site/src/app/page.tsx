@@ -68,7 +68,7 @@ export default function HomePage() {
             }}
           >
             {[
-              { label: "Critical", color: "#ef4444" },
+              { label: "Major", color: "#ef4444" },
               { label: "High", color: "#f97316" },
               { label: "Medium", color: "#eab308" },
               { label: "Low", color: "#22c55e" },

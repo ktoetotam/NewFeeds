@@ -50,7 +50,7 @@ export function getThreatLevel(): ThreatLevel {
       label: "LOW",
       color: "#16a34a",
       incident_count: 0,
-      severity_breakdown: { critical: 0, high: 0, medium: 0, low: 0 },
+      severity_breakdown: { major: 0, high: 0, medium: 0, low: 0 },
       window_hours: 24,
     },
     short_term_6h: { score: 0, level: 5, label: "LOW", incident_count: 0 },

@@ -12,7 +12,7 @@ interface AttackMonitorProps {
   threatLevel: ThreatLevel;
 }
 
-type SeverityFilter = "all" | "critical" | "high" | "medium" | "low";
+type SeverityFilter = "all" | "major" | "high" | "medium" | "low";
 
 export default function AttackMonitor({
   attackArticles,
@@ -70,8 +70,8 @@ export default function AttackMonitor({
 
   const severityCounts = {
     all: attackArticles.length,
-    critical: attackArticles.filter(
-      (a) => a.classification?.severity === "critical"
+    major: attackArticles.filter(
+      (a) => a.classification?.severity === "major"
     ).length,
     high: attackArticles.filter(
       (a) => a.classification?.severity === "high"
@@ -86,7 +86,7 @@ export default function AttackMonitor({
 
   const severityColors: Record<SeverityFilter, string> = {
     all: "#6366f1",
-    critical: "#dc2626",
+    major: "#dc2626",
     high: "#ea580c",
     medium: "#ca8a04",
     low: "#16a34a",
@@ -116,7 +116,7 @@ export default function AttackMonitor({
         }}
       >
         {(
-          ["all", "critical", "high", "medium", "low"] as SeverityFilter[]
+          ["all", "major", "high", "medium", "low"] as SeverityFilter[]
         ).map((sev) => (
           <button
             key={sev}

@@ -234,15 +234,15 @@ def run():
         existing_done = [a for a in existing if a.get("translated") is not None]
         to_translate = existing_untranslated + new_articles
 
-        # Pre-process skip_translation articles (already English, just need relevance/summary via LLM
-        # but skip_translation flag means we mark them without calling the API for translation)
-        skip_articles = [a for a in to_translate if a.get("skip_translation")]
-        to_translate = [a for a in to_translate if not a.get("skip_translation")]
-        for a in skip_articles:
-            if a.get("translated") is None:
+        # skip_translation articles are already in English — they don't need
+        # translation but DO need LLM relevance filtering + summarization.
+        # We only set title_en here; translate_articles() will detect them
+        # as needing relevance classification and send them through the LLM.
+        for a in to_translate:
+            if a.get("skip_translation") and a.get("translated") is None:
                 a["title_en"] = a.get("title_original", "")
-                a["relevant"] = True  # treat English-language sources as relevant by default
-                a["translated"] = True
+                # Don't set relevant or translated — let the LLM decide
+                # translate_articles() handles the rest
 
         if to_translate:
             def make_checkpoint(reg, done):
@@ -258,11 +258,11 @@ def run():
                 to_translate,
                 api_key,
                 max_articles=max_per_region,
-                checkpoint_fn=make_checkpoint(region, existing_done + skip_articles),
+                checkpoint_fn=make_checkpoint(region, existing_done),
             )
-            all_translated[region] = (existing_done, skip_articles + translated)
+            all_translated[region] = (existing_done, translated)
         else:
-            all_translated[region] = (existing_done, skip_articles)
+            all_translated[region] = (existing_done, to_translate)
 
     # ── Step 4: Merge and save ──
     logger.info("── Step 4: Merging and saving ──")

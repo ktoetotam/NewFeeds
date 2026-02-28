@@ -46,7 +46,7 @@ CRITICAL RULES:
 - Base your analysis STRICTLY on the data provided. Do not invent events or details.
 - Distinguish clearly between confirmed events and unverified claims.
 - When sources disagree or claims are unverified, say so explicitly.
-- Prioritize military/security events by severity (critical > high > medium > low).
+- Prioritize military/security events by severity (major > high > medium > low).
 - Use bullet points for clarity. Keep each bullet to 1-2 sentences.
 - Use 24h clock and CET timezone for all times.
 - Do NOT include any company-specific or organizational recommendations.
@@ -135,7 +135,7 @@ def build_attacks_block(attacks: list[dict]) -> str:
         return "No attack events recorded."
 
     # Sort by severity priority, then by recency
-    severity_order = {"critical": 0, "high": 1, "medium": 2, "low": 3}
+    severity_order = {"major": 0, "high": 1, "medium": 2, "low": 3}
     sorted_attacks = sorted(
         attacks,
         key=lambda a: (
@@ -188,7 +188,7 @@ def build_threat_block(threat: dict) -> str:
         f"Current threat level: {current.get('label', 'UNKNOWN')} "
         f"(Level {current.get('level', '?')}/5, Score {current.get('score', 0)})\n"
         f"24h window: {current.get('incident_count', 0)} incidents "
-        f"(Critical: {breakdown.get('critical', 0)}, High: {breakdown.get('high', 0)}, "
+        f"(Major: {breakdown.get('major', 0)}, High: {breakdown.get('high', 0)}, "
         f"Medium: {breakdown.get('medium', 0)}, Low: {breakdown.get('low', 0)})\n"
         f"6h window: {short.get('incident_count', 0)} incidents, "
         f"Level {short.get('label', '?')}\n"
@@ -337,7 +337,7 @@ def build_fallback_summary(attacks: list[dict], threat: dict) -> dict:
     top_categories = sorted(categories.items(), key=lambda x: x[1], reverse=True)[:5]
     cat_summary = "; ".join(f"{cat} ({n})" for cat, n in top_categories)
 
-    critical_count = breakdown.get("critical", 0)
+    major_count = breakdown.get("major", 0)
     high_count = breakdown.get("high", 0)
     total = current.get("incident_count", 0)
 
@@ -345,7 +345,7 @@ def build_fallback_summary(attacks: list[dict], threat: dict) -> dict:
         "executive_summary": (
             f"Threat level is {current.get('label', 'UNKNOWN')} "
             f"(Level {current.get('level', '?')}) with {total} incidents in the last 24 hours "
-            f"({critical_count} critical, {high_count} high). "
+            f"({major_count} major, {high_count} high). "
             f"Trend: {trend}. "
             f"Top event categories: {cat_summary}."
         ),
@@ -356,7 +356,7 @@ def build_fallback_summary(attacks: list[dict], threat: dict) -> dict:
         "confirmed_events": [
             f"{a.get('title_en', 'Unknown event')} — {a.get('classification', {}).get('brief', '')}"
             for a in attacks[:8]
-            if a.get("classification", {}).get("severity") in ("critical", "high")
+            if a.get("classification", {}).get("severity") in ("major", "high")
         ],
         "unverified_emerging": [
             "Automated fallback — LLM summary unavailable. "

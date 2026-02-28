@@ -122,14 +122,14 @@ export default function ThreatLevelDisplay({
             fontSize: 13,
           }}
         >
-          {(["critical", "high", "medium", "low"] as const).map((sev) => (
+          {(["major", "high", "medium", "low"] as const).map((sev) => (
             <div
               key={sev}
               style={{
                 padding: "4px 12px",
                 borderRadius: 6,
                 background: `${
-                  sev === "critical"
+                  sev === "major"
                     ? "#dc2626"
                     : sev === "high"
                       ? "#ea580c"
@@ -138,7 +138,7 @@ export default function ThreatLevelDisplay({
                         : "#16a34a"
                 }15`,
                 color:
-                  sev === "critical"
+                  sev === "major"
                     ? "#dc2626"
                     : sev === "high"
                       ? "#ea580c"

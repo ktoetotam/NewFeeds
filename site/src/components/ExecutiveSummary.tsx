@@ -168,7 +168,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
 
         {/* Severity breakdown pills */}
         <div style={{ display: "flex", gap: 8, flexWrap: "wrap" }}>
-          {(["critical", "high", "medium", "low"] as const).map((sev) => {
+          {(["major", "high", "medium", "low"] as const).map((sev) => {
             const count = breakdown[sev] || 0;
             const color = SEVERITY_COLORS[sev] || "#888";
             return (
