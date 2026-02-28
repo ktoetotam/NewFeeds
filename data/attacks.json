@@ -1,5 +1,134 @@
 [
   {
+    "id": "a93f7972acc3fd30",
+    "title_original": "Россиянка из Дохи рассказала об обстановке в городе на фоне иранских ударов",
+    "content_original": "Россиянка из Дохи рассказала об обстановке в городе на фоне иранских ударов",
+    "url": "https://ria.ru/20260228/dokha-2077462995.html",
+    "published": "2026-02-28T16:58:43+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian woman in Doha describes the situation in the city amid Iranian strikes",
+    "relevant": true,
+    "summary_en": "A Russian woman residing in Doha, Qatar, has provided insights into the city's atmosphere as Iranian strikes occur in the region. This highlights the regional impact of the ongoing conflict and potential concerns for civilians in areas near US military bases and strategic locations. The account underscores the broader implications of the conflict on regional stability and civilian life.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "US"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Iranian strikes near Qatar, where US has strategic military presence, indicate escalating regional tensions and potential threats to US assets in the area."
+    }
+  },
+  {
+    "id": "a79acec2db2a2eca",
+    "title_original": "Tasnim: новая волна иранских ракет направляется в сторону Израиля",
+    "content_original": "Tasnim: новая волна иранских ракет направляется в сторону Израиля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590303",
+    "published": "2026-02-28T16:58:35+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "New Wave of Iranian Missiles Headed Towards Israel",
+    "relevant": true,
+    "summary_en": "Iran has launched a new wave of missiles targeting Israel, indicating a significant escalation in the conflict. This action by Iran is likely a direct response to previous Israeli operations against Iranian-linked targets. The development raises concerns about further regional destabilization and potential Israeli retaliation.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran's ballistic missile attack on Israel marks a critical escalation, posing direct threats to regional stability and prompting potential for further direct military engagement."
+    }
+  },
+  {
+    "id": "aaaea944afcd6018",
+    "title_original": "Недалеко от столицы Бахрейна продолжают греметь взрывы",
+    "content_original": "Недалеко от столицы Бахрейна продолжают греметь взрывы",
+    "url": "https://ria.ru/20260228/bakhreyn-2077461344.html",
+    "published": "2026-02-28T16:54:55+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions Continue Near Bahrain's Capital",
+    "relevant": true,
+    "summary_en": "Explosions are occurring near Bahrain's capital, likely indicating ongoing hostilities or attacks in the vicinity of a critical US naval base in the Gulf region. This could involve Houthi or Iranian-backed elements targeting US or coalition assets in Bahrain. The situation is significant due to Bahrain's importance as a hub for US Navy operations in the Middle East.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "houthi"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Houthi/Ansar Allah",
+        "Bahrain"
+      ],
+      "location": "near Bahrain's capital",
+      "brief": "Explosions near Bahrain's capital threaten a critical US naval base, indicating potential escalation in the Gulf region."
+    }
+  },
+  {
+    "id": "776ae1b0bf459fcf",
+    "title_original": "Al Ikhbaria: в провинциях Дамаск и Дераа произошли взрывы",
+    "content_original": "Al Ikhbaria: в провинциях Дамаск и Дераа произошли взрывы",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590253",
+    "published": "2026-02-28T16:51:25+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions reported in Damascus and Daraa provinces",
+    "relevant": true,
+    "summary_en": "Explosions occurred in the Damascus and Daraa provinces of Syria. This is significant as these areas are strategically important and have seen conflict related to the ongoing Iran-US war, potentially involving Iranian proxies or other actors. The incidents could indicate escalating tensions or attacks impacting regional stability.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Syrian forces",
+        "Iranian proxy groups"
+      ],
+      "location": "Damascus and Daraa provinces, Syria",
+      "brief": "Explosions in strategically important areas of Syria suggest ongoing proxy operations, potentially involving Iranian-backed forces, impacting regional stability and US interests."
+    }
+  },
+  {
     "id": "ebd09be775d3274a",
     "title_original": "Армия Израиля сообщила о новом залпе ракет со стороны Ирана",
     "content_original": "В нескольких районах страны объявлена воздушная тревога",
@@ -454,6 +583,39 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct drone strikes against Israel signal an escalation in regional tensions and demonstrate Iran's evolving use of unmanned aerial capabilities in military operations."
+    }
+  },
+  {
+    "id": "54ebf8d78b410d05",
+    "title_original": "🚨 رسانه‌های عبری مدعی ترور موفق امیر نصیرزاده وزیر دفاع و سردار پاکپور فرمانده سپاه هستند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ...",
+    "content_original": "🚨 رسانه‌های عبری مدعی ترور موفق امیر نصیرزاده وزیر دفاع و سردار پاکپور فرمانده سپاه هستند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44830",
+    "published": "2026-02-28T13:59:09+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Media Claims Successful Assassination of Iranian Defense Minister Amir Nasirzadeh and IRGC Commander Pakpour",
+    "relevant": true,
+    "summary_en": "Israeli media outlets are reporting the successful assassination of Iran's Defense Minister Amir Nasirzadeh and IRGC Commander Mohammad Reza Pakpour. This development, if confirmed, would represent a significant escalation in the conflict, targeting high-ranking Iranian military leadership and potentially impacting Iran's military strategy and command structure.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "assassination",
+      "severity": "critical",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The assassination of Iran's Defense Minister and IRGC Commander would represent a critical escalation, directly targeting the Iranian military leadership and potentially destabilizing the country's command structure."
     }
   },
   {
