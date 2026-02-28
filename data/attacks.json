@@ -63,7 +63,9 @@
       ],
       "location": "Erbil Airport, Iraqi Kurdistan",
       "brief": "The missile attack on Erbil Airport, likely by Iranian-backed groups, demonstrates the persistent threat to US assets in Iraq and the potential for escalation in proxy conflicts."
-    }
+    },
+    "lat": 36.2404123,
+    "lng": 43.9465692
   },
   {
     "id": "dfcab930de2f42f7",
@@ -98,7 +100,9 @@
       ],
       "location": "Qatar",
       "brief": "The missile strike on Qatar, intercepted by Qatari forces, underscores escalating regional tensions and direct threats to US interests and allies amid the Iran-US conflict."
-    }
+    },
+    "lat": 25.3336984,
+    "lng": 51.2295295
   },
   {
     "id": "ade01bf3ad52be34",
@@ -135,7 +139,9 @@
       ],
       "location": "Abu Dhabi, UAE",
       "brief": "The missile strike in Abu Dhabi by Iran demonstrates a direct escalation and threat to US allies in the Gulf region, likely prompting a response from the US and its partners."
-    }
+    },
+    "lat": 24.4538352,
+    "lng": 54.3774014
   },
   {
     "id": "81220457cdb6f0b2",
@@ -171,7 +177,9 @@
       ],
       "location": "Iraq",
       "brief": "The attack on PMF positions in Iraq, linked to Iran, could escalate regional tensions amid the ongoing US-Iran conflict."
-    }
+    },
+    "lat": 33.0955793,
+    "lng": 44.1749775
   },
   {
     "id": "d972faab95afc667",
@@ -204,7 +212,9 @@
       ],
       "location": "Iran",
       "brief": "The targeted killing of an IRGC commander by Israel represents a significant escalation in direct military operations against Iran's military leadership."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "0202aac3e45b4695",
@@ -238,7 +248,9 @@
       ],
       "location": "Iran",
       "brief": "The US has launched a major military operation inside Iran, marking a critical escalation in the conflict with direct state engagement and significant implications for regional stability."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "6b7cf8761b7856f9",
@@ -272,7 +284,9 @@
       ],
       "location": "United Arab Emirates",
       "brief": "Iran's ballistic missile attack on the UAE demonstrates the direct threat posed by Iranian missile capabilities and the potential for regional escalation in the Iran–US conflict."
-    }
+    },
+    "lat": 24.0002488,
+    "lng": 53.9994829
   },
   {
     "id": "73ceba22645da477",
@@ -306,7 +320,9 @@
       ],
       "location": "Jordan",
       "brief": "The interception of ballistic missiles over Jordan highlights the regional spillover of the Iran–US conflict and the persistent threat to neighboring countries' security."
-    }
+    },
+    "lat": 31.1667049,
+    "lng": 36.941628
   },
   {
     "id": "7023f3f26f7711bf",
@@ -341,7 +357,9 @@
       ],
       "location": "Baghdad, Iraq",
       "brief": "The US airstrike on a PMF headquarters in Baghdad demonstrates ongoing efforts to counter Iran-backed militias, escalating tensions in Iraq."
-    }
+    },
+    "lat": 33.3061701,
+    "lng": 44.3872213
   },
   {
     "id": "13874fe1729330a4",
@@ -376,7 +394,9 @@
       ],
       "location": "Qatar, Al Udeid Air Base",
       "brief": "Iran's missile strike on Qatar, home to a major US military base, represents a direct attack on a US ally and critical strategic asset, posing a severe escalation risk in the conflict."
-    }
+    },
+    "lat": 25.1173171,
+    "lng": 51.3221836
   },
   {
     "id": "be2546c3fb607bff",
@@ -411,7 +431,9 @@
       ],
       "location": "Iran",
       "brief": "The killing of multiple senior IRGC officers and Iranian government officials represents a significant escalation in the conflict, potentially impacting Iran's command and control capabilities."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "80e96ba90ee434c0",
@@ -445,7 +467,9 @@
       ],
       "location": "UAE",
       "brief": "Iran's missile attack on the UAE, a key US ally, represents a direct escalation in regional hostilities and raises the risk of broader conflict in the Gulf region."
-    }
+    },
+    "lat": 24.0002488,
+    "lng": 53.9994829
   },
   {
     "id": "4a77566f1ac4f49f",
@@ -479,7 +503,9 @@
       ],
       "location": "Iran",
       "brief": "The coordinated surprise airstrike by Israel and the US on Iran marks a significant escalation, indicating direct military engagement and posing a critical threat to the Iranian regime."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   },
   {
     "id": "71bae25a767d67f6",
@@ -587,7 +613,9 @@
       ],
       "location": "Israel",
       "brief": "Iran's ballistic missile attack on Israel marks a critical escalation, posing a direct threat to regional stability and potentially drawing in US forces."
-    }
+    },
+    "lat": 30.8124247,
+    "lng": 34.8594762
   },
   {
     "id": "3a956bc35a06523b",
@@ -620,7 +648,9 @@
       ],
       "location": "Northern Israel",
       "brief": "Iran's ballistic missile launch towards Israel represents a significant escalation, posing a direct threat to Israeli territory and civilians."
-    }
+    },
+    "lat": 33.0601833,
+    "lng": 35.2448195
   },
   {
     "id": "c57d69035fc81a0a",
@@ -652,7 +682,9 @@
       ],
       "location": "southern Lebanon",
       "brief": "The IDF airstrikes on Hezbollah tunnels in southern Lebanon indicate ongoing tensions and potential escalation in the Israel-Lebanon border region, which could impact the broader Iran–US conflict through Hezbollah's role as an Iranian proxy."
-    }
+    },
+    "lat": 33.5393039,
+    "lng": 35.3716495
   },
   {
     "id": "57d8639051cc0794",
@@ -686,6 +718,8 @@
       ],
       "location": "Iran",
       "brief": "The US and Israel launched a coordinated airstrike on Iran targeting government facilities and IRGC centers, marking a significant escalation in the conflict with mass casualties reported."
-    }
+    },
+    "lat": 32.6475314,
+    "lng": 54.5643516
   }
 ]

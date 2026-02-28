@@ -82,6 +82,38 @@ def save_attacks(articles: list[dict]):
     logger.info(f"Saved {len(articles)} attack articles to {filepath}")
 
 
+def geocode_attacks(attacks: list[dict]) -> list[dict]:
+    """Add lat/lng to attacks that have a location but no coordinates yet."""
+    import time
+    headers = {"User-Agent": "iran-region-monitor/1.0 (github.com/ktoetotam/NewFeeds)"}
+    skip_locations = {"unknown", "multiple locations", "middle east", "region", ""}
+    geocoded = 0
+    for attack in attacks:
+        if attack.get("lat") is not None:
+            continue  # already geocoded
+        location = (attack.get("classification") or {}).get("location", "").strip()
+        if not location or location.lower() in skip_locations:
+            continue
+        try:
+            resp = requests.get(
+                "https://nominatim.openstreetmap.org/search",
+                params={"q": location, "format": "json", "limit": 1},
+                headers=headers,
+                timeout=10,
+            )
+            results = resp.json()
+            if results:
+                attack["lat"] = float(results[0]["lat"])
+                attack["lng"] = float(results[0]["lon"])
+                logger.info(f"Geocoded '{location}' → {attack['lat']:.4f}, {attack['lng']:.4f}")
+                geocoded += 1
+            time.sleep(1.1)  # Nominatim rate limit: 1 req/sec
+        except Exception as e:
+            logger.warning(f"Geocoding failed for '{location}': {e}")
+    logger.info(f"Geocoded {geocoded} new attack locations")
+    return attacks
+
+
 def deduplicate(existing: list[dict], new: list[dict]) -> list[dict]:
     """Merge new articles into existing, deduplicating by ID."""
     existing_ids = {a["id"] for a in existing}
@@ -253,6 +285,11 @@ def run():
     # Prune old attacks
     existing_attacks = prune_old_articles(existing_attacks)
     existing_attacks.sort(key=lambda a: a.get("published", ""), reverse=True)
+
+    # ── Step 5b: Geocode attack locations ──
+    logger.info("── Step 5b: Geocoding attack locations ──")
+    existing_attacks = geocode_attacks(existing_attacks)
+
     save_attacks(existing_attacks)
 
     # ── Step 6: Compute threat level ──

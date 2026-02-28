@@ -164,19 +164,6 @@ export default function NewsCard({ article }: NewsCardProps) {
             Relevant
           </span>
         )}
-        {article.relevant === false && (
-          <span
-            style={{
-              fontSize: 11,
-              padding: "1px 6px",
-              borderRadius: 4,
-              background: "var(--color-border)",
-              color: "var(--color-text-muted)",
-            }}
-          >
-            Not relevant
-          </span>
-        )}
       </div>
     </article>
   );

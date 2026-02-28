@@ -1,7 +1,9 @@
 import Header from "@/components/Header";
 import NewsFeed from "@/components/NewsFeed";
+import AttackMapClient from "@/components/AttackMapClient";
 import {
   getArticlesByRegion,
+  getAttackArticles,
   getThreatLevel,
 } from "@/lib/data";
 import type { RegionKey } from "@/lib/types";
@@ -15,6 +17,7 @@ export default function HomePage() {
   }
 
   const threatLevel = getThreatLevel();
+  const attacks = getAttackArticles();
 
   return (
     <>
@@ -29,6 +32,63 @@ export default function HomePage() {
           padding: "0 24px 48px",
         }}
       >
+        {/* Attack Map */}
+        <section style={{ marginBottom: 40 }}>
+          <h2
+            style={{
+              fontSize: 18,
+              fontWeight: 700,
+              marginBottom: 14,
+              display: "flex",
+              alignItems: "center",
+              gap: 8,
+            }}
+          >
+            🗺️ Attack Events Map
+            <span
+              style={{
+                fontSize: 13,
+                fontWeight: 400,
+                color: "var(--color-text-muted)",
+              }}
+            >
+              — last {attacks.length} classified incidents
+            </span>
+          </h2>
+          <AttackMapClient attacks={attacks} />
+          {/* Legend */}
+          <div
+            style={{
+              display: "flex",
+              gap: 16,
+              marginTop: 10,
+              flexWrap: "wrap",
+              fontSize: 12,
+              color: "var(--color-text-muted)",
+            }}
+          >
+            {[
+              { label: "Critical", color: "#ef4444" },
+              { label: "High", color: "#f97316" },
+              { label: "Medium", color: "#eab308" },
+              { label: "Low", color: "#22c55e" },
+            ].map(({ label, color }) => (
+              <span key={label} style={{ display: "flex", alignItems: "center", gap: 5 }}>
+                <span
+                  style={{
+                    width: 12,
+                    height: 12,
+                    borderRadius: "50%",
+                    background: color,
+                    display: "inline-block",
+                  }}
+                />
+                {label}
+              </span>
+            ))}
+          </div>
+        </section>
+
         <NewsFeed articlesByRegion={articlesByRegion} />
       </main>
     </>

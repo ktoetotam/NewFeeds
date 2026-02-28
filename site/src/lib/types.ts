@@ -13,6 +13,8 @@ export interface Article {
   translated: boolean;
   relevant?: boolean;
   skip_translation?: boolean;
+  lat?: number;
+  lng?: number;
   // Attack classification (only on attack articles)
   keyword_matches?: number;
   matched_keywords?: string[];
