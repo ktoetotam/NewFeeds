@@ -1,5 +1,139 @@
 [
   {
+    "id": "ebd09be775d3274a",
+    "title_original": "Армия Израиля сообщила о новом залпе ракет со стороны Ирана",
+    "content_original": "В нескольких районах страны объявлена воздушная тревога",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590115",
+    "published": "2026-02-28T16:38:12+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Reports New Missile Barrage from Iran",
+    "relevant": true,
+    "summary_en": "The Israeli military reported a new missile attack launched by Iran, triggering air raid sirens in multiple regions of the country. This incident signifies an escalation in hostilities between Iran and Israel, with potential implications for regional stability and ongoing conflicts. The Israeli air defense systems are likely on high alert to intercept incoming threats.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "raid",
+      "intercept",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran's missile barrage against Israel marks a significant escalation in regional hostilities, posing a direct threat to Israeli security and potentially drawing in US support."
+    }
+  },
+  {
+    "id": "6fbcfa2d6acb67fd",
+    "title_original": "В Хайфе звучит тревога, рассказал российский турист",
+    "content_original": "В Хайфе звучит тревога, рассказал российский турист",
+    "url": "https://ria.ru/20260228/hajfa-2077456427.html",
+    "published": "2026-02-28T16:37:10+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Haifa, Russian Tourist Reports",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Haifa, Israel, as reported by a Russian tourist. This indicates a potential escalation of hostilities in northern Israel, likely linked to Hezbollah activities or broader regional tensions. The incident highlights the ongoing security concerns for civilians in areas near the Israel-Lebanon border.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "hezbollah",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Haifa, Israel",
+      "brief": "The activation of air raid sirens in Haifa suggests a potential escalation of hostilities by Hezbollah, highlighting the ongoing security tensions in northern Israel and the potential for broader regional conflict."
+    }
+  },
+  {
+    "id": "71ef81df54fc6bb9",
+    "title_original": "Израиль зафиксировал очередной ракетный пуск со стороны Ирана",
+    "content_original": "Израиль зафиксировал очередной ракетный пуск со стороны Ирана",
+    "url": "https://ria.ru/20260228/tsakhal-2077455786.html",
+    "published": "2026-02-28T16:34:53+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Detects Another Missile Launch from Iran",
+    "relevant": true,
+    "summary_en": "Israel has detected another missile launch originating from Iran. This incident highlights the ongoing tensions and potential escalation between Iran and Israel amidst the broader conflict. The strategic significance lies in the potential for retaliatory strikes and the impact on regional stability.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Iran",
+      "brief": "The missile launch from Iran towards Israel signals a direct escalation in regional hostilities, posing a significant threat to Israeli security and potentially drawing in broader international involvement."
+    }
+  },
+  {
+    "id": "6600730c56a8f17d",
+    "title_original": "На юге Ирана не менее 60 детей погибли при ударе по школе",
+    "content_original": "На юге Ирана не менее 60 детей погибли при ударе по школе",
+    "url": "https://ria.ru/20260228/iran-2077455643.html",
+    "published": "2026-02-28T16:34:14+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "At least 60 children killed in school strike in southern Iran",
+    "relevant": true,
+    "summary_en": "An attack on a school in southern Iran resulted in the deaths of at least 60 children. The strike highlights the ongoing conflict's impact on civilian infrastructure and non-combatants. The incident is likely to provoke international condemnation and potentially escalate tensions in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "deaths",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Unknown attackers"
+      ],
+      "location": "southern Iran",
+      "brief": "The mass casualty attack on a school in southern Iran, resulting in at least 60 children killed, is likely to provoke significant international condemnation and escalate regional tensions, though direct US involvement is not confirmed."
+    }
+  },
+  {
     "id": "8fec10127e840e44",
     "title_original": "В иранском порту Чабахар прогремели взрывы",
     "content_original": "В иранском порту Чабахар прогремели взрывы",
@@ -389,6 +523,171 @@
     },
     "lat": 36.2404123,
     "lng": 43.9465692
+  },
+  {
+    "id": "2a51d25a5f0e549c",
+    "title_original": "🚨 ارتش اسرائیل ویدیو هایی منتشر کرده که در آن لانچر موشک آماده شلیک را هدف قرار میدهد  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
+    "content_original": "🚨 ارتش اسرائیل ویدیو هایی منتشر کرده که در آن لانچر موشک آماده شلیک را هدف قرار میدهد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44826",
+    "published": "2026-02-28T13:44:35+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli military releases videos targeting missile launchers ready for firing",
+    "relevant": true,
+    "summary_en": "The Israeli military has released videos showing strikes on missile launchers prepared for firing, likely in response to recent escalations. This indicates ongoing operations targeting missile threats, potentially from Hezbollah or other Iran-backed groups. The strikes highlight Israel's focus on neutralizing immediate threats along its borders amid regional tensions.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel-Lebanon border region",
+      "brief": "Israel's strikes on missile launchers highlight ongoing efforts to neutralize missile threats from Iran-backed Hezbollah, escalating regional tensions."
+    }
+  },
+  {
+    "id": "c846e6a6c716a1af",
+    "title_original": "🚨 #غیر_رسمی  محافظان محمود احمدی‌نژاد به شهادت رسیدند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار...",
+    "content_original": "🚨 #غیر_رسمی محافظان محمود احمدی‌نژاد به شهادت رسیدند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44825",
+    "published": "2026-02-28T13:43:58+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Former Iranian President Ahmadinejad's Guards Reportedly Killed",
+    "relevant": true,
+    "summary_en": "Unconfirmed reports indicate that individuals associated with former Iranian President Mahmoud Ahmadinejad have been killed. This development could have implications for internal Iranian politics and potentially impact the ongoing conflict if linked to current military or leadership factions. However, further verification is needed to assess its direct relevance to the US-Iran war.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "war",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "low",
+      "parties_involved": [
+        "Iran",
+        "Iranian proxies"
+      ],
+      "location": "Iran",
+      "brief": "The killing of individuals linked to former Iranian President Ahmadinejad could indicate internal power struggles but has unclear direct implications for the US-Iran conflict at this stage."
+    }
+  },
+  {
+    "id": "54cf4e21314b855e",
+    "title_original": "شهادت ۵۷ دانش‌آموز و معلم در حمله تروریستی به مدرسه میناب/ حمله به ۱۱۵ نقطه در ۲۴ استان",
+    "content_original": "شهادت ۵۷ دانش‌آموز و معلم در حمله تروریستی به مدرسه میناب/ حمله به ۱۱۵ نقطه در ۲۴ استان",
+    "url": "https://www.irna.ir/news/86089581/%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%DB%B5%DB%B7-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D9%88-%D9%85%D8%B9%D9%84%D9%85-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87-%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%D8%AD%D9%85%D9%84%D9%87",
+    "published": "2026-02-28T13:40:45+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "57 Students and Teachers Killed in Terrorist Attack on Minab School/Attacks on 115 Locations Across 24 Provinces",
+    "relevant": true,
+    "summary_en": "A terrorist attack on a school in Minab resulted in the deaths of 57 students and teachers. Concurrently, attacks occurred at 115 locations across 24 provinces in Iran. This escalation in domestic attacks could be linked to ongoing regional conflicts and may strain Iran's internal security apparatus.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "deaths",
+      "attack",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "unknown terrorist groups"
+      ],
+      "location": "Minab and 24 provinces, Iran",
+      "brief": "The coordinated attacks across Iran, including a deadly school assault, indicate significant domestic instability and potential escalation of internal conflict, which could distract Iranian resources from external military engagements."
+    }
+  },
+  {
+    "id": "22983b9dde063f7f",
+    "title_original": "🚨 صدای های انفجار قوی در ابوظبی و دوحه ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آ...",
+    "content_original": "🚨 صدای های انفجار قوی در ابوظبی و دوحه ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44824",
+    "published": "2026-02-28T13:40:22+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Loud Explosions Heard in Abu Dhabi and Doha",
+    "relevant": true,
+    "summary_en": "Unspecified explosions have been reported in Abu Dhabi and Doha, likely indicating potential attacks or incidents in UAE and Qatar. This is significant as both countries host US military bases and are critical nodes in the ongoing conflict between Iran and the US. The strategic importance of these locations suggests potential escalation in regional hostilities.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Islamic Resistance Iraq (TG)",
+        "UAE",
+        "Qatar"
+      ],
+      "location": "Abu Dhabi, UAE and Doha, Qatar",
+      "brief": "Explosions in Abu Dhabi and Doha, which host critical US military bases, suggest a significant escalation in proxy operations targeting US regional interests."
+    }
+  },
+  {
+    "id": "d9add5980663ed6d",
+    "title_original": "از شهادت ۵۳ دانش آموز دبستانی در میناب  تا آغاز به کار کارگروه‌های دولت در شرایط جنگ",
+    "content_original": "از شهادت ۵۳ دانش آموز دبستانی در میناب  تا آغاز به کار کارگروه‌های دولت در شرایط جنگ",
+    "url": "https://www.irna.ir/news/86089569/%D8%A7%D8%B2-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%DB%B5%DB%B3-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%D8%AA%D8%A7-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D9%88%D9%87-%D9%87%D8%A7%DB%8C",
+    "published": "2026-02-28T13:36:38+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "53 Elementary School Students Martyred in Minab; Government Task Forces Begin Work Amid War",
+    "relevant": true,
+    "summary_en": "53 elementary school students were killed in Minab, likely due to ongoing hostilities. The Iranian government has initiated special task forces to address the situation amid the war. This highlights the impact of the conflict on civilians and Iran's mobilization of resources to manage the crisis.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "war",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Minab, Iran",
+      "brief": "The killing of 53 elementary school students in Minab underscores the severe humanitarian impact of the conflict and Iran's mobilization of resources to address the crisis."
+    }
   },
   {
     "id": "dfcab930de2f42f7",
