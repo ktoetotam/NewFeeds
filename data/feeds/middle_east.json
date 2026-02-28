@@ -232,9 +232,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Journalists held for filming near airbase hosting US forces in Turkey",
+    "title_en": "UK forces active in Middle East defensive operations",
+    "translated": true,
     "relevant": true,
-    "translated": true
+    "summary_en": "UK Prime Minister Keir Starmer announced that British forces are conducting defensive operations in the Middle East to protect allies. This follows recent US and Israeli strikes on Iran. The involvement signifies increased Western military engagement in the region amid escalating Iran-US tensions."
   },
   {
     "id": "d068df8a105b50f8",
@@ -248,38 +249,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Israeli army kills Palestinian child, wounds another in Gaza despite ceasefire",
+    "translated": true,
     "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "36e90ce6f21b3102",
-    "title_original": "Recap: US and Israel bomb Iran",
-    "content_original": "Recap: US and Israel bomb Iran Good afternoon, Middle East Eye readers. If you’re just joining us, here’s a quick recap of the latest developments across the region: US-Israeli attack The US and Israel launched air strikes on Iran shortly after 9:30am local time (6am GMT). Israeli Prime Minister Benjamin Netanyahu said the objective was regime change, while US President Donald Trump called on Iranians to rise up and take control of their government. Eighty-five killed, mostly young girls, after a deadly strike on a school in southern Iran. Iran’s Supreme Leader, Ayatollah Ali Khamenei, has reportedly been moved to a secure location, according to a Reuters source. China condemns US and Israeli strikes on Iran, urges immediate ceasefire and return to talks. Iranian response Nearly&nbsp;an hour after the strikes began, Iran launched retaliatory rocket attacks. Explosions were heard across Israel, including in Tel Aviv, Jerusalem and Haifa, as air defence systems responded to incoming proj...",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/recap-us-and-israel-bomb-iran-0",
-    "published": "2026-02-28T16:08:13+00:00",
-    "source_name": "Middle East Eye",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "Recap: US and Israel bomb Iran",
-    "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "f7c179f2bbc561d0",
-    "title_original": "Are the US–Israeli strikes on Iran legal under international law?",
-    "content_original": "Are the US–Israeli strikes on Iran legal under international law? Submitted by Sondos Asem on Sat, 02/28/2026 - 14:01 Expert says attacks on Iran breach the UN's founding charter and the rules governing legitimate self-defence Smoke rises following an explosion in Tehran, after Israeli and US strikes on 28 February 2026 (Majid Asgaripour/West Asia News Agency via Reuters) Off The US-Israeli air and missile strikes across Iran on Saturday have raised renewed questions about the two nations’ alleged breaches of international legal norms.&nbsp;&nbsp; Legal experts have repeatedly denounced US and Israeli attacks over the past year, including those of last June, as illegal under international law.&nbsp; For Marko Milanovic, a professor of public international law at the University of Reading School of Law, who has written extensively on the topic , that argument still stands.&nbsp; “The strikes are clearly illegal, in that they are a breach of the UN Charter, which prohibits unilateral res...",
-    "url": "https://www.middleeasteye.net/explainers/are-us-israeli-strikes-iran-legal-under-international-law",
-    "published": "2026-02-28T16:06:59+00:00",
-    "source_name": "Middle East Eye",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "Are the US–Israeli strikes on Iran legal under international law?",
-    "relevant": true,
-    "translated": true
+    "summary_en": "Israeli artillery fire killed a 15-year-old Palestinian boy and wounded another teenager in Gaza, breaching the ceasefire. The incident occurred near Israeli-controlled areas east of Gaza City, with additional casualties reported from naval fire on fishing boats and a woman shot in the foot in Khan Younis. This escalation undermines the fragile ceasefire and increases regional tensions."
   },
   {
     "id": "6a012b5e2206c67c",
@@ -292,24 +264,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ The Revolutionary Guards closed the Strait of Hormuz.",
+    "title_en": "IRGC closes Strait of Hormuz",
     "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "a57f96039ec9805a",
-    "title_original": "Video: Intercepted missile falls on building in Syria's Sweida",
-    "content_original": "Video: Intercepted missile falls on building in Syria's Sweida Footage circulating online shows a damaged building after an Iranian missile that was intercepted by Israel over Syria’s Sweida province fell on it. The US and Israel launched a series of massive attacks on Iran on Saturday, targeting multiple locations across the country pic.twitter.com/uUePFmqIc9 — Middle East Eye (@MiddleEastEye) February 28, 2026",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-intercepted-missile-falls-building-syrias-sweida",
-    "published": "2026-02-28T16:02:09+00:00",
-    "source_name": "Middle East Eye",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "Video: Intercepted missile falls on building in Syria's Sweida",
-    "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The IRGC has closed the Strait of Hormuz, a critical maritime chokepoint for global oil shipments. This action directly threatens international naval traffic and energy security in the Gulf region. The closure represents a significant escalation in the conflict, potentially prompting a strong response from the US and its allies."
   },
   {
     "id": "1b52a4de0fa7b919",
@@ -322,9 +280,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ The moment an Iranian drone exploded in Dubai.",
+    "title_en": "Iranian drone explodes in Dubai",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An Iranian drone exploded in Dubai, likely indicating an escalation in regional hostilities as Iranian assets target areas beyond traditional conflict zones. This incident could provoke a response from the US and its allies, given Dubai's strategic importance and proximity to US interests in the UAE. The explosion highlights the potential for expanded conflict in the Gulf region."
   },
   {
     "id": "097db40b3af85492",
@@ -337,9 +296,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "IRGC says 'no ship allowed to pass Strait of Hormuz', according to EU official",
+    "title_en": "IRGC declares closure of Strait of Hormuz to all shipping",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The IRGC has reportedly issued a VHF transmission declaring that no ships are allowed to pass through the Strait of Hormuz, according to an EU official. This move, if enforced, would block a critical maritime chokepoint connecting the Persian Gulf to the Arabian Sea. The strategic significance is high as the Strait is a vital route for global oil shipments, and such an action could escalate tensions and provoke a military response from the US and its allies."
   },
   {
     "id": "075f2895a1e8bb7f",
@@ -352,9 +312,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡ Al Arabiya: Dubai: 4 injured after missile fragments fell on Palm Jumeirah area l",
+    "title_en": "Missile fragments injure 4 in Dubai's Palm Jumeirah area",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Four people were injured in Dubai's Palm Jumeirah area after missile fragments fell in the vicinity. This incident highlights the potential for collateral damage as the conflict increasingly affects civilian areas in the Gulf region. The origin of the missile and circumstances of the incident remain under investigation."
   },
   {
     "id": "5d4977227e0fd526",
@@ -367,9 +328,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ LIVE COVERING MIDDLE EAST WAR ⚡️ Donate: streamlabs.com/warmonitor/tip Stream: x.com/i/broadcasts/1…",
+    "title_en": "Live Coverage of Middle East War",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The provided content is a live stream announcement for ongoing coverage of the Middle East war, indicating active hostilities and the need for real-time updates. This suggests significant military developments are occurring, making the content relevant to tracking the conflict."
   },
   {
     "id": "50e1c5a8ef5aa246",
@@ -382,24 +344,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "COVERING MIDDLE EAST WAR  x.com/i/broadcasts/1…",
+    "title_en": "COVERING MIDDLE EAST WAR",
     "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "ba602b6d34044b6a",
-    "title_original": "How are Arab states are responding to US-Israel strikes on Iran?",
-    "content_original": "Arab states are reacting with fear and dismay at the unprovoked US and Israeli strikes on Iran, which threaten to drag the whole of the MENA region into the war . Since US-Israeli bombing of Iran began Saturday morning, Tehran has launched a series retaliatory strikes against US targets in the MENA region, but resulting in&nbsp; dire consequences for Gulf states , including civilian casualties. Explosions and interceptions have been reported in other regional states, including Iraq and Syria. Here is how the region is responding to the crisis. Saudi Arabia Saudi Arabia has called&nbsp;on the international community to condemn the Iranian strikes on Gulf states and take action against Tehran. \"The Kingdom of Saudi Arabia condemned and denounced in the strongest terms the blatant Iranian aggression and the flagrant violation of the sovereignty of the United Arab Emirates, the Kingdom of Bahrain, the State of Qatar, the State of Kuwait, and the Hashemite Kingdom of Jordan,\"&nbsp;the Saudi...",
-    "url": "https://www.newarab.com/news/how-are-arab-states-are-responding-us-israel-strikes-iran",
-    "published": "2026-02-28T15:52:08+00:00",
-    "source_name": "The New Arab",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "How are Arab states are responding to US-Israel strikes on Iran?",
-    "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The tweet indicates ongoing coverage of the Middle East war, likely involving updates on military actions, attacks, or developments in the region. This is significant as it suggests real-time reporting on the conflict between Iran and the US, including potential strikes, escalations, or reactions from involved parties."
   },
   {
     "id": "a84d4bae88dfb44e",
@@ -412,9 +360,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "'This will be a long war with unimaginable consequences,' says Walid Joumblatt",
+    "title_en": "Walid Joumblatt warns of a long war with unimaginable consequences",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Walid Joumblatt, a prominent Lebanese Druze leader, has stated that the current conflict could escalate into a long war with severe consequences. He expressed concerns that Hezbollah should avoid providing Israel with a reason to attack Lebanon. Joumblatt's remarks highlight the potential for regional escalation and the involvement of various actors in the ongoing US-Iran conflict."
   },
   {
     "id": "b946e2fed44a6710",
@@ -427,9 +376,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Death toll from attack on Iranian girls school rises to 85, says judiciary",
-    "relevant": true,
-    "translated": true
+    "title_en": "Death toll from attack on Iranian girls school rises to 85",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "020eb8bf082d37cf",
@@ -442,9 +392,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Khamenei is alive 'as far as I know', says minister amid reports of his killing",
+    "title_en": "Iranian minister confirms Khamenei and Pezeshkian alive amid reports of their killing",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iranian Foreign Minister Abbas Aragchi confirmed that Supreme Leader Ali Khamenei and President Masoud Pezeshkian are alive, addressing speculation after US-Israeli strikes on Tehran. The statement indicates the Iranian leadership remains intact despite recent attacks, highlighting the ongoing tensions and potential for further escalation in the conflict."
   },
   {
     "id": "3960ab02a5f4b025",
@@ -457,9 +408,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ Red alerts, centre",
+    "title_en": "Red alerts issued in central region",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Red alerts have been issued in a central region, likely indicating a potential threat or imminent attack. This suggests heightened military readiness or an active security situation, which could be related to the ongoing conflict with Iran and its proxies."
   },
   {
     "id": "3be9a333d7a75744",
@@ -472,9 +424,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️  The moment of the explosion in Dubai",
+    "title_en": "Explosion in Dubai",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An explosion occurred in Dubai, likely impacting regional security and potentially involving military or proxy elements given the ongoing conflict. The strategic significance depends on the target and perpetrator, which could affect UAE's involvement or neutrality in the Iran-US conflict."
   },
   {
     "id": "b4686f24dbdb4763",
@@ -487,9 +440,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️  Kuwait Airport after an Iranian drone attack",
+    "title_en": "Iranian drone attack hits Kuwait Airport",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran launched a drone attack targeting Kuwait Airport, likely aiming to disrupt US military logistics and regional stability. The attack signifies Iran's willingness to expand the conflict beyond its immediate borders and target Gulf states allied with the US. This incident will likely prompt increased security measures and US military presence in the region."
   },
   {
     "id": "d3fb0b241aee5b38",
@@ -502,9 +456,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Eyewitness tells MEE girls aged seven to 12 seen lying dead across school",
+    "title_en": "Attack on school in Minab kills at least 63, mostly young girls",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An attack on Shajareh Tayyebeh school in Minab, Hormozgan province, resulted in the deaths of at least 63 people, predominantly young girls aged seven to 12. The incident highlights the ongoing violence and its impact on civilians, particularly children, in the region amidst the conflict. The strategic significance lies in the potential implications for public outrage and international attention on the conduct of hostilities."
   },
   {
     "id": "888257c45fbcb83b",
@@ -517,9 +472,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️  Explosions heard in the Jerusalem and Ramallah areas",
+    "title_en": "Explosions heard in Jerusalem and Ramallah areas",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Explosions were reported in Jerusalem and Ramallah, likely indicating a significant escalation in the conflict. This suggests potential Israeli operations or Palestinian militant activity in these areas. The incidents could have broader implications for regional stability and the ongoing conflict."
   },
   {
     "id": "adbc94e2b1eaca91",
@@ -532,9 +488,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️  Effects of Iranian bombing in central occupied Palestine",
+    "title_en": "Effects of Iranian bombing in central occupied Palestine",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iranian forces conducted a bombing in central occupied Palestine, likely targeting Israeli positions or infrastructure. This represents an escalation in Iranian involvement in the conflict, potentially through proxies like Hamas or Hezbollah. The attack could provoke further Israeli retaliation and deepen regional tensions."
   },
   {
     "id": "39e953a907c65d55",
@@ -547,9 +504,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️  An American radar in Qatar was completely destroyed today in an Iranian drone strike.",
+    "title_en": "Iranian drone strike destroys US radar in Qatar",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran launched a drone strike targeting a US radar installation in Qatar, completely destroying it. This attack represents a significant escalation, demonstrating Iran's capability to strike US assets in the region. The incident will likely prompt a strong US response and raises concerns about the vulnerability of US bases in the Gulf."
   },
   {
     "id": "f17658966ef91c23",
@@ -562,9 +520,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡ A government official told Asharq: Israel has halted gas supplies to Egypt indefinitely starting this morning, foll...",
+    "title_en": "Israel halts gas supplies to Egypt indefinitely after strikes inside Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel has stopped gas exports to Egypt indefinitely following its strikes on Iranian targets. This decision comes amidst escalating tensions in the region due to the ongoing conflict between Israel and Iran. The move could strain Egypt-Israel relations and impact regional energy dynamics."
   },
   {
     "id": "07c0bafc9db649ae",
@@ -577,9 +536,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ Dubai skyline now, following Iranian strkes",
+    "title_en": "Dubai skyline following Iranian strikes",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran has launched strikes targeting Dubai, affecting the city's skyline. This indicates an escalation in the conflict as Iranian forces target a major city in the UAE, a US ally. The strikes likely involved missiles or drones and could prompt further US and coalition responses in the region."
   },
   {
     "id": "da5dba786496d3a1",
@@ -592,9 +552,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ #BREAKING  Kuwait airport reportedly damaged following Iranian strikes",
+    "title_en": "Iranian strikes damage Kuwait airport",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran reportedly launched strikes that damaged Kuwait airport. This occurred in Kuwait, likely in response to US-led coalition activities or as part of broader regional escalation. The incident signifies an expansion of the conflict's geographic scope and potential threats to Gulf state neutrality and infrastructure."
   },
   {
     "id": "4ccce028bb252e7b",
@@ -607,9 +568,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ Netanyahu and Trump spoke",
+    "title_en": "Netanyahu and Trump spoke",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Netanyahu and Trump, key figures in the Israel-US alliance, held a conversation. This is significant given Israel's active involvement in the conflict through operations in Gaza and against Iran-linked targets. The discussion likely involved strategic coordination and support amid the ongoing regional escalation."
   },
   {
     "id": "38fee248c5f5e26f",
@@ -624,7 +586,8 @@
     "skip_translation": true,
     "title_en": "Drone targets Kuwait's international airport, wounding workers",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An Iranian-linked drone strike targeted Kuwait's international airport, injuring several workers and causing limited damage. This incident occurred amidst ongoing Iranian strikes targeting US bases in the region, highlighting Iran's efforts to expand its retaliatory attacks beyond direct US military assets."
   },
   {
     "id": "a8b468c6bb2209dc",
@@ -637,9 +600,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ Palm hotel and resort in Dubai now",
-    "relevant": true,
-    "translated": true
+    "title_en": "Palm hotel and resort in Dubai now",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f36504ca4ecefd47",
@@ -652,9 +616,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ Iranian foreign minister tells NBC News that country's supreme leader and president are alive ‘as far as I know’",
+    "title_en": "Iranian foreign minister confirms supreme leader and president are alive",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran's foreign minister stated to NBC News that both the supreme leader and the president are alive, addressing recent speculation and rumors about their status. This comes amid ongoing conflict with the US, where leadership continuity is crucial for decision-making and strategic command. The statement aims to quell uncertainty and reinforce the regime's stability during hostilities."
   },
   {
     "id": "cf8c2d0489358945",
@@ -667,9 +632,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Loud bangs heard in Dubai and fire seen in Palm Island, says witness",
+    "title_en": "Explosion and fire reported in Dubai's Palm Island",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An explosion and fire were reported in Dubai's Palm Island, with multiple witnesses hearing loud bangs and seeing smoke rising from the area. The incident caused significant disruption, with ambulances rushing to the scene. This raises concerns about potential attacks on critical infrastructure in the UAE amid regional tensions."
   },
   {
     "id": "fb430e372cb73f1b",
@@ -682,9 +648,42 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "⚡️ Impact reportedly in Dubai",
+    "title_en": "Impact reportedly in Dubai",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An impact has been reported in Dubai, likely related to the ongoing conflict. This suggests potential missile or drone activity targeting or affecting the UAE, a critical US ally with significant US military presence. The incident could indicate an escalation in Iranian proxy or direct attacks on Gulf states."
+  },
+  {
+    "id": "8671c5037a5229f5",
+    "title_original": "⚡️ Unconfirmed pic reportedly from Dubai",
+    "content_original": "⚡️ Unconfirmed pic reportedly from Dubai",
+    "url": "https://t.me/warmonitors/40040",
+    "published": "2026-02-28T15:09:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Unconfirmed pic reportedly from Dubai",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
+  },
+  {
+    "id": "7cb08401fdf704dd",
+    "title_original": "⚡️ Iranian television: A statement by Khamenei will be broadcasted shortly.",
+    "content_original": "⚡️ Iranian television: A statement by Khamenei will be broadcasted shortly.",
+    "url": "https://t.me/warmonitors/40039",
+    "published": "2026-02-28T15:09:04+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Khamenei to broadcast statement on Iranian television",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Iran's Supreme Leader Ayatollah Khamenei is set to deliver a statement on Iranian television. This is significant as it may contain messages related to the ongoing conflict with the US, potentially indicating escalation, de-escalation, or strategic directives. Khamenei's statements are closely watched for signals affecting military operations and IRGC activities."
   },
   {
     "id": "0441d30ae8b0d36a",
@@ -697,9 +696,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Finance Ministry plans to issue local debt instruments worth EGP 1.044trn by March",
-    "relevant": true,
-    "translated": true
+    "title_en": "Egypt's Finance Ministry plans to issue local debt instruments worth EGP 1.044 trillion by March 2026",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "891876d7ae13deb8",
@@ -712,9 +712,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "British planes 'in the sky' to protect interests and allies, says Starmer",
+    "title_en": "British planes deployed for regional defense operations",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "UK Prime Minister Keir Starmer announced that British planes are conducting regional defensive operations to protect interests and allies in the Middle East. This includes strengthening defenses around UK bases in the region. The statement comes amid ongoing tensions with Iran, with Starmer urging Iran to halt its military actions and return to negotiations."
   },
   {
     "id": "7ac82103da30f817",
@@ -727,9 +728,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Opinion | How IMF Approval Shields Egypt’s Economy from Market Volatility",
-    "relevant": true,
-    "translated": true
+    "title_en": "IMF Approval Shields Egypt’s Economy from Market Volatility",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "35b84e4a58ad732b",
@@ -742,9 +744,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Suez Canal Bank, Alameda partner to integrate premium banking, healthcare services",
-    "relevant": true,
-    "translated": true
+    "title_en": "Suez Canal Bank partners with Alameda for premium banking and healthcare services",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "b23c61aa16766207",
@@ -758,8 +761,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "CBE highlights strong monetary easing transmission across money, debt markets",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "3b59377c8b8049b9",
@@ -774,7 +778,8 @@
     "skip_translation": true,
     "title_en": "Death toll in Iranian girls' school attack rises to 63",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An air strike on a girls' school in Iran has resulted in at least 63 fatalities. This incident highlights the ongoing conflict's impact on civilian infrastructure and raises concerns about potential escalation or changes in tactics by involved parties."
   },
   {
     "id": "942d3372d48c9ee7",
@@ -787,9 +792,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Egypt uncovers cache of coloured coffins of Amun chanters in Luxor",
-    "relevant": true,
-    "translated": true
+    "title_en": "Egypt uncovers cache of coloured coffins in Luxor",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "2032c1f4268186b6",
@@ -804,7 +810,8 @@
     "skip_translation": true,
     "title_en": "UN chief urges immediate de-escalation",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "UN Secretary-General Antonio Guterres has condemned the ongoing military escalation in the Middle East, particularly the US and Israeli strikes on Iran and Tehran's retaliatory attacks on American bases. He called for an immediate cessation of hostilities to prevent a wider regional conflict, emphasizing the importance of international law and the UN Charter."
   },
   {
     "id": "9deb2d157ddb15f3",
@@ -819,7 +826,8 @@
     "skip_translation": true,
     "title_en": "EgyptAir suspends flights to 13 Arab cities following US strikes on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "EgyptAir has suspended flights to 13 Middle Eastern cities due to the escalation of US and Israeli military operations against Iran. The decision affects routes to major hubs like Dubai, Doha, and Baghdad, reflecting the disruption caused by the conflict and airspace closures in neighboring countries. This suspension highlights the broader regional impact of the ongoing US-Iran conflict on civilian aviation and regional connectivity."
   },
   {
     "id": "034f0cd2173aa822",
@@ -834,7 +842,8 @@
     "skip_translation": true,
     "title_en": "Iraq Rejects Military Escalation After Attacks on Sites",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The Iraqi government, led by Prime Minister Mohammed Shia Al-Sudani, has condemned recent attacks on Iraqi sites that resulted in casualties and reaffirmed its rejection of military escalation and aggression. The security meeting discussed the situation in the aftermath of attacks on Iran, highlighting concerns over regional escalation. This stance is significant as Iraq seeks to avoid being drawn further into the ongoing US-Iran conflict."
   },
   {
     "id": "e5d88c599429ce20",
@@ -849,7 +858,8 @@
     "skip_translation": true,
     "title_en": "Air Strikes on Iraq Leave Two Dead, Three Injured",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Unspecified air strikes targeted the Jurf Al-Nasr area in northern Babil province, Iraq, resulting in two fatalities and three injuries. The Joint Operations Command is expected to release further details. This incident is significant due to its potential connection to ongoing proxy conflicts or US-led operations in Iraq."
   },
   {
     "id": "e4030d11527d3378",
@@ -862,9 +872,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Egypt maintains safe food, fuel reserves amid regional developments, ministers say",
+    "title_en": "Egypt maintains safe food, fuel reserves amid regional tensions",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Egypt's cabinet ministers confirmed the country has sufficient strategic reserves of essential food and petroleum products to last several months amid regional tensions. Prime Minister Mostafa Madbouly and key ministers reviewed the status of these reserves to ensure supply chain continuity. This move aims to mitigate potential disruptions caused by ongoing conflicts in the region."
   },
   {
     "id": "4069eec48a8bf4d8",
@@ -877,9 +888,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Opinion: War aims to entrap Iranians into unconditional submission",
+    "title_en": "War aims to entrap Iranians into unconditional submission",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The article discusses the strategic aims of the ongoing conflict, suggesting that the US seeks to force Iran's submission through military pressure. This is relevant as it touches on the broader objectives and potential escalation dynamics of the US-Iran war, including the role of US military strategy and its impact on Iran's leadership and population."
   },
   {
     "id": "0fd2ef3ba0a4cd51",
@@ -892,9 +904,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "China urges immediate ceasefire",
+    "title_en": "China urges immediate ceasefire in US-Iran conflict",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "China's foreign ministry has called for an immediate ceasefire in the ongoing US-Iran conflict, expressing deep concerns over US and Israeli military strikes against Iran. They emphasized the importance of respecting Iran's sovereignty and territorial integrity, urging all parties to avoid further escalation and return to dialogue and negotiations. This highlights China's diplomatic efforts to de-escalate the conflict and its potential influence on the situation."
   },
   {
     "id": "b56e089a79d6cef7",
@@ -907,9 +920,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Araghchi says Khamenei is alive 'as far as I know'",
+    "title_en": "Araghchi confirms Khamenei is alive 'as far as I know'",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iranian Foreign Minister Abbas Araghchi stated that Supreme Leader Ali Khamenei and President Masoud Pezeshkian are alive, according to his knowledge, while acknowledging that a few commanders were not safe. This comes amid Israeli media reports suggesting Khamenei may have been killed in recent strikes, highlighting the uncertainty and potential leadership instability within Iran during the conflict."
   },
   {
     "id": "fe14f5471aaf292f",
@@ -922,9 +936,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Egypt raises aviation alert level as regional airspace closures disrupt flights",
+    "title_en": "Egypt raises aviation alert level due to regional airspace closures",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Egypt has increased its aviation alert level as several neighboring countries have closed their airspace due to regional tensions. The move involves heightened operational readiness across all Egyptian airports and continuous monitoring by the Ministry of Civil Aviation. This development reflects the broader impact of the ongoing conflict on regional air travel and safety."
   },
   {
     "id": "bd33fb960ec75dae",
@@ -937,9 +952,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Egypt condemns Iranian targeting of Arab nations, warns of “comprehensive chaos”",
+    "title_en": "Egypt condemns Iranian attacks on Arab nations, warns of regional chaos",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Egypt has strongly condemned Iran's targeting of multiple Arab countries, including Saudi Arabia, Qatar, UAE, Bahrain, Kuwait, and Jordan, warning that the escalating military actions could lead to 'comprehensive chaos' in the region. This condemnation reflects Egypt's concern over the deteriorating security situation and its potential impact on international peace and security."
   },
   {
     "id": "b94722c799b79ebc",
@@ -952,9 +968,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Iran 'lost a few commanders but not a big problem', foreign minister tells NBC",
+    "title_en": "Iranian Foreign Minister downplays loss of commanders in US-Israeli attacks",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iranian Foreign Minister Abbas Araghchi acknowledged to NBC that Iran lost 'a few commanders' in recent US-Israeli attacks but stated it was 'not a big problem'. This suggests Iran is attempting to project resilience and minimize the impact of leadership losses amidst ongoing hostilities."
   },
   {
     "id": "7c0dca6f9eaad6e8",
@@ -969,7 +986,8 @@
     "skip_translation": true,
     "title_en": "Airlines suspend Middle East flights after US, Israel strikes on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Global airlines have suspended flights across the Middle East following US and Israeli strikes on Iran, leading to a significant military escalation in the region. The airspace over multiple countries, including Iran, Iraq, and Israel, has become virtually empty as Iran retaliated with missile attacks. The suspension has affected nearly 40% of flights to Israel and 6.7% of flights to the broader region, highlighting the impact on civilian aviation and regional stability."
   },
   {
     "id": "7c15431e3d4160b7",
@@ -984,7 +1002,8 @@
     "skip_translation": true,
     "title_en": "US Embassy urges citizens to leave Lebanon",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US Embassy in Beirut has advised American citizens to leave Lebanon immediately due to escalating regional tensions and security concerns. This warning comes amid ongoing conflicts involving Hezbollah and Israeli operations near Lebanon's borders, posing potential risks to US nationals in the area. The move underscores heightened concerns over the safety of Americans in Lebanon and the broader regional instability."
   },
   {
     "id": "f377fc81b6d2583c",
@@ -997,9 +1016,74 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Report: Iran's defence minister and IRGC commander 'believed to have been killed'",
+    "title_en": "Iran's defence minister and IRGC commander reportedly killed in Israeli strikes",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran's Defence Minister Amir Nasirzadeh and IRGC commander Mohammed Pakpour are believed to have been killed in Israeli air attacks. The report, citing sources familiar with Israeli military operations and a regional official, has not been independently verified. This potential loss of key leadership figures could significantly impact Iran's military command structure and decision-making during the ongoing conflict."
+  },
+  {
+    "id": "7607a3a85f8da261",
+    "title_original": "Trump-Netanyahu war aims to entrap Iranians into unconditional submission",
+    "content_original": "Trump-Netanyahu war aims to entrap Iranians into unconditional submission Submitted by Hamid Dabashi on Sat, 02/28/2026 - 11:53 The offensive intends to cause civil war in Iran on the model of Syria and Libya, with millions forced to flee their country People run for cover following an explosion in Tehran after Israel said it had launched an attack against Iran on 28 February 2026 (Reuters) On On Saturday, as President Donald Trump&nbsp; announced &nbsp;that&nbsp; the United States &nbsp;had launched a major attack on&nbsp; Iran , the&nbsp; Israeli &nbsp;military&nbsp; declared &nbsp;that the joint US-Israeli attack had targeted \"dozens of military targets\" in Iran. Trump&nbsp; said the operation was intended to devastate Iran's military, eliminate its nuclear programme and bring about a change in its government. Meanwhile, massive explosions were reported in Tehran, while residents said they were seeing smoke rising from districts believed to house senior Iranian officials. As the wor...",
+    "url": "https://www.middleeasteye.net/opinion/us-israel-war-iran-aims-entrap-iranians-unconditional-submission",
+    "published": "2026-02-28T13:57:50+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Trump-Netanyahu war aims to entrap Iranians into unconditional submission",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "The US and Israel launched a major joint attack targeting dozens of military sites in Iran, aiming to incite civil unrest and force millions to flee, similar to conflicts in Syria and Libya. This signifies a significant escalation in the ongoing conflict, with strategic implications for Iran's stability and regional security."
+  },
+  {
+    "id": "0bd7acddd4a87c6b",
+    "title_original": "Watch: Iranian drone hits headquarters of US Fifth Fleet in Bahrain",
+    "content_original": "Watch: Iranian drone hits headquarters of US Fifth Fleet in Bahrain Footage shared online showed an Iranian drone hitting the headquarters of the US Fifth Fleet in Bahrain. Footage shows Iranian drone hitting the headquarters of the Fifth Fleet in Bahrain. Iran’s Fars news agency said the country was targeting Al Udeid Air Base in Qatar, Ali Al Salem Air Base in Kuwait, Al Dhafra Air Base in the UAE and the US Fifth Fleet naval base in Bahrain pic.twitter.com/qtmgGYMcKN — Middle East Eye (@MiddleEastEye) February 28, 2026",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-iranian-drone-hits-headquarters-us-fifth-fleet-bahrain",
+    "published": "2026-02-28T13:51:07+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian drone strikes US Fifth Fleet headquarters in Bahrain",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "An Iranian drone hit the headquarters of the US Fifth Fleet in Bahrain, as confirmed by footage shared online. The attack was part of a broader Iranian operation targeting multiple US military facilities, including Al Udeid Air Base in Qatar, Ali Al Salem Air Base in Kuwait, and Al Dhafra Air Base in the UAE. This escalation signifies a significant increase in direct Iranian aggression against US military assets in the region."
+  },
+  {
+    "id": "95c1ea2177f508e0",
+    "title_original": "Exiled Iranian opponent of Islamic Republic condemns US-Israel attack",
+    "content_original": "Exiled Iranian opponent of Islamic Republic condemns US-Israel attack Behrouz Farahani, a political analyst and opponent of the Islamic Republic living in exile in France, condemned the US and Israeli military attack on Iran. He said the war would only bring destruction to Iran and more suffering for its people, and he called for an immediate ceasefire. Speaking to Middle East Eye about the reaction of political opponents of the Iranian establishment who also oppose the war, he said: “In this situation, we oppose both sides. This war is between an international imperialist power, the US, and its regional ally, Israel, on one side, and the reactionary regime of Iran on the other. We are against both sides and against this war.” 'It is clear that this attack has nothing to do with improving life in Iran or helping its people' -&nbsp;Behrouz Farahani, political analyst He added, “We are calling for an immediate ceasefire and are organising anti-war protests. This war will bring nothing bu...",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exiled-iranian-opponent-islamic-republic-condemns-us-israel-attack",
+    "published": "2026-02-28T13:47:58+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Exiled Iranian opponent condemns US-Israel attack on Iran",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Behrouz Farahani, an exiled Iranian political analyst living in France, condemned the US and Israeli military attack on Iran, calling for an immediate ceasefire. He stated that the war would lead to destruction and suffering for Iran and its people. His stance reflects opposition to both the US-Israel alliance and the Iranian regime amidst the ongoing conflict."
+  },
+  {
+    "id": "ebb13fe180fc2ae9",
+    "title_original": "Large oil companies and traders suspend shipments via Strait of Hormuz",
+    "content_original": "Large oil companies and traders suspend shipments via Strait of Hormuz Some large oil companies and top trading houses have suspended crude&nbsp;oil&nbsp;and fuel shipments via the Strait of Hormuz amid ongoing US and Israeli attacks on Iran and Tehran's retaliation in the region, four trading sources said on Saturday. \"Our ships will stay put for several days,\" one top executive at a major trading desk told Reuters. The Strait of Hormuz is a narrow maritime channel, around 33km at its narrowest point, between the Musandam peninsula in Oman and Iran.&nbsp; It connects the Persian Gulf to the Arabian Sea, via the Gulf of Oman.&nbsp; The strait is described as the most significant oil chokepoint in the world, with around&nbsp; a fifth of global oil output &nbsp;passing through it, and a third of global liquified natural gas (LNG).&nbsp; Roughly 20 million barrels of oil pass through the strait every day, in addition to more than 10 billion cubic feet of LNG.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/large-oil-companies-and-traders-suspend-shipments-strait-hormuz",
+    "published": "2026-02-28T13:45:03+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Large oil companies and traders suspend shipments via Strait of Hormuz",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Major oil companies and trading firms have halted crude oil and fuel shipments through the Strait of Hormuz due to ongoing US and Israeli attacks on Iran and Tehran's retaliatory actions in the region. The suspension highlights the impact of the conflict on global oil supply chains and the strategic importance of the Strait of Hormuz as a critical maritime chokepoint."
   },
   {
     "id": "e55b1efc4705d9e2",
@@ -1012,9 +1096,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Colombian leader says Trump ‘made a mistake’ by striking Iran",
+    "title_en": "Colombian leader criticizes Trump for striking Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Colombian President Gustavo Petro condemned US President Donald Trump's decision to launch attacks on Iran, calling it a 'mistake' that has provoked widespread Iranian retaliation. Petro urged the UN to convene and address the escalating conflict, emphasizing the importance of world peace and denuclearization. The statement reflects growing international concern over the expanding conflict in the Middle East."
   },
   {
     "id": "47bea1094d3c44d5",
@@ -1027,9 +1112,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israel and US's looming war on Iran finally comes to a head",
+    "title_en": "Israel and US launch massive strikes on Iran, escalating conflict",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel and the US launched a massive wave of strikes on Iran, targeting leadership and causing dozens of casualties, including children at a school. The attacks aimed to neutralize an 'existential threat' from Iran's regime and came amid ongoing indirect talks between Washington and Tehran, escalating the conflict significantly."
   },
   {
     "id": "20634a53ef03320d",
@@ -1042,9 +1128,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Madmen Trump and Netanyahu set the Middle East on fire",
+    "title_en": "Trump and Netanyahu Launch Unprovoked War on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Donald Trump and Benjamin Netanyahu initiated an unprovoked attack on Iran, aiming to decapitate the regime in Tehran. The initial strike reportedly failed to harm the top Iranian leaders. The situation remains volatile, with potential for escalation and significant regional impact."
   },
   {
     "id": "b36441d516ef50cb",
@@ -1057,9 +1144,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Russia condemns ‘unprovoked armed attack’ on Iran by US, Israel",
+    "title_en": "Russia condemns US and Israel for 'unprovoked armed attack' on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Russian Foreign Minister Sergey Lavrov condemned the US and Israel for their 'unprovoked armed attack' on Iran, calling it a violation of international law and a threat to regional and global stability. He emphasized Russia's readiness to facilitate peaceful solutions at the UN Security Council and urged an immediate cessation of attacks against Iran."
   },
   {
     "id": "363655b02b1022ea",
@@ -1072,9 +1160,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "UK should resist being drawn into Middle East conflict, says UK committee chair",
+    "title_en": "UK committee chair warns against involvement in Middle East conflict",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Emily Thornberry, chair of the UK Foreign Affairs Select Committee, urged the UK to avoid being drawn into the escalating Middle East conflict unless directly attacked. This comes after Israel launched 'Lion's Roar' attacks on Iran and declared a nationwide state of emergency. The UK government expressed concerns about further regional escalation following US-Israeli strikes on Iran."
   },
   {
     "id": "336d28c4dce15dcc",
@@ -1087,9 +1176,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Gulf countries condemn ‘Iranian’ attacks on UAE, Qatar, Bahrain, Kuwait, Jordan",
+    "title_en": "Gulf countries condemn Iranian attacks on UAE, Qatar, Bahrain, Kuwait, Jordan",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Saudi Arabia, Qatar, and Kuwait have condemned recent Iranian attacks targeting the UAE, Bahrain, Qatar, Kuwait, and Jordan, warning of serious consequences. The Saudi Foreign Ministry expressed strong solidarity with the affected countries and offered support for any retaliatory measures they might take. This condemnation highlights escalating tensions and potential regional instability due to the ongoing conflict."
   },
   {
     "id": "01afea09c0c5aae7",
@@ -1102,9 +1192,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israel, US launch war on Iran: What we know so far",
+    "title_en": "Israel, US launch strikes against Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel and the US have initiated joint strikes against Iran following failed indirect talks and escalating tensions over Iran's nuclear program. The strikes are part of 'Operation Epic Fury' and signify a significant escalation in the ongoing conflict, involving a large-scale US military buildup in the region. This action follows months of threats and warnings from US President Trump regarding Iran's nuclear ambitions."
   },
   {
     "id": "e4190c02f400f742",
@@ -1119,7 +1210,8 @@
     "skip_translation": true,
     "title_en": "US-linked sites targeted in Bahrain as Iran says it struck bases across Gulf",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran's Revolutionary Guards launched missile attacks on four major US bases in the Gulf region, including facilities in Qatar, Kuwait, and Bahrain, with a service center affiliated with the US Fifth Fleet in Bahrain being struck. The attacks follow Israel's strike on Iran and Tehran's retaliatory actions, indicating an escalation in hostilities across the Gulf. The incidents highlight the direct targeting of US military assets and the widening geographic scope of the conflict."
   },
   {
     "id": "ca2474bf4360aa85",
@@ -1132,9 +1224,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "At least 40 killed in Israeli strike on girls’ school in southern Iran",
+    "title_en": "Israeli strike kills at least 40 in girls' school in southern Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli forces conducted a strike on a girls' primary school in Minab, Hormozgan province, Iran, resulting in at least 40 deaths and 48 injuries. The attack was part of a joint US-Israeli operation targeting Iranian 'threats.' This incident signifies a significant escalation in the conflict with potential regional repercussions."
   },
   {
     "id": "b16dc75d682f6dc9",
@@ -1149,7 +1242,8 @@
     "skip_translation": true,
     "title_en": "Two killed in strikes on Iraq base, pro-Iran group threatens US",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Two people were killed in US and Israeli strikes on an Iraqi military base housing the pro-Iran group Kataeb Hezbollah in Jurf al-Nasr. The base belongs to the Popular Mobilisation Forces (PMF), and the group has threatened the US with an imminent response. This incident highlights escalating tensions and direct confrontations between US/Israeli forces and Iran-linked militias in Iraq."
   },
   {
     "id": "9d9fe652797369d0",
@@ -1162,9 +1256,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Spanish premier rejects ‘unilateral military action’ by US, Israel",
+    "title_en": "Spanish premier rejects US and Israeli unilateral military action against Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Spanish Prime Minister Pedro Sanchez condemned the unilateral military actions by the US and Israel against Iran, warning against further escalation and the risk of another devastating war in the Middle East. His statement reflects growing international concern over the ongoing conflict and its potential global impact."
   },
   {
     "id": "91339ea76c2704a7",
@@ -1179,7 +1274,8 @@
     "skip_translation": true,
     "title_en": "Gulf states on frontlines of Israel-US war on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran launched missile and drone strikes targeting US military bases across multiple Arab states, including Qatar, UAE, Bahrain, Kuwait, Jordan, Iraq, and Saudi Arabia, following coordinated US-Israeli attacks on Iranian territory. The escalation threatens to widen the conflict, involving at least six countries in the Gulf and Levant. The activation of air defenses and the death of at least one civilian in Abu Dhabi highlight the direct impact on regional stability and civilian populations."
   },
   {
     "id": "46f957372dfb5d51",
@@ -1192,9 +1288,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Death toll from US-Israel massacre in southern Iran rises to 85",
+    "title_en": "Death toll from US-Israel strikes in southern Iran rises to 85",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The death toll from US and Israeli strikes on a school in Minab, southern Iran, has risen to 85, with approximately 170 students reportedly inside the school at the time of the attack. This incident highlights the escalating conflict and its direct impact on civilian infrastructure, potentially escalating regional tensions further."
   },
   {
     "id": "deed52329c28f4db",
@@ -1255,9 +1352,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Khamenei targeted, IRGC commander and defence chief 'killed'",
+    "title_en": "Khamenei targeted, IRGC commander and defense chief 'killed'",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli-US strikes reportedly targeted Iran's Supreme Leader Ayatollah Ali Khamenei, President Masoud Pezeshkian, and adviser Ali Shamkhani in a high-profile attack. The operation aimed to eliminate key figures involved in planning actions against Israel and the US. This represents a significant escalation in the conflict, targeting Iran's top leadership."
   },
   {
     "id": "299aab4ff70882ae",
@@ -1270,39 +1368,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israel strikes on Gaza continue, as Iran war breaks out",
+    "title_en": "Israel continues strikes on Gaza amid escalating Iran conflict",
     "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "232758639449d13d",
-    "title_original": "UN Security Council to meet on Saturday on Iran conflict",
-    "content_original": "Feb 28 (Reuters) - The U.N. Security Council will meet on Saturday after the United States and Israel launched strikes on Iran, plunging the Middle East into a new conflict. U.N. diplomats said the 15-member body would meet at 4 p.m. local time in New York (2100 GMT). The meeting will be chaired by Britain, which holds the monthly council presidency. Russia's U.N. mission said Russia and China requested an emergency meeting \"in connection with the unprovoked act of armed aggression by the United States and Israel against the Islamic Republic of Iran.\"",
-    "url": "https://www.al-monitor.com/originals/2026/02/un-security-council-meet-saturday-iran-conflict",
-    "published": "2026-02-28T11:01:49-05:00",
-    "source_name": "Al-Monitor",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "UN Security Council to meet on Saturday on Iran conflict",
-    "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "657940fe347d9777",
-    "title_original": "Targeted by airstrikes, Ayatollah Khamenei has Iran in iron grip",
-    "content_original": "By Parisa Hafezi Feb 28 (Reuters) - Among the first targets in U.S. and Israeli strikes on Iran on Saturday was the headquarters of Supreme Leader Ayatollah Ali Khamenei, an inveterate foe of the West who has crushed internal opposition while supporting proxy forces across the region. A source with knowledge of the matter said Khamenei had been transferred in advance to a secure location outside Tehran, but Reuters could not immediately verify his status, as satellite images showed significant damage to his Tehran compound.",
-    "url": "https://www.al-monitor.com/originals/2026/02/targeted-airstrikes-ayatollah-khamenei-has-iran-iron-grip",
-    "published": "2026-02-28T11:01:49-05:00",
-    "source_name": "Al-Monitor",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "Targeted by airstrikes, Ayatollah Khamenei has Iran in iron grip",
-    "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel has intensified its strikes on Gaza, resulting in casualties and targeting areas around Gaza City, despite an existing ceasefire. This comes as Israel and the US launch a significant offensive against Iran, indicating a broader escalation in regional hostilities. The ongoing violence in Gaza, with at least 618 killed since last year's truce, adds to the complexity of the situation as multiple fronts are now active."
   },
   {
     "id": "212ed7d2cd147585",
@@ -1315,9 +1384,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Exclusive-Prior to Iran attacks, CIA assessed Khamenei would be replaced by IRCG elements if killed, sources say",
+    "title_en": "CIA assessed Khamenei would be replaced by IRGC if killed before Iran attacks",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The CIA reportedly assessed that if Iran's Supreme Leader Ayatollah Ali Khamenei was killed in U.S. and Israeli attacks, he would likely be replaced by hardline IRGC figures. This intelligence was shared prior to the recent operations against Iran. The assessment highlights potential leadership dynamics and the influence of the IRGC in Iran's power structure amidst escalating conflict."
   },
   {
     "id": "634698aa29f1af26",
@@ -1330,9 +1400,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Exclusive-Ahead of strikes, Trump was told Iran attack is high risk, high reward",
+    "title_en": "Trump briefed on high-risk, high-reward Iran attack before strikes",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Before ordering strikes on Iran, President Trump was informed of the significant risks of U.S. casualties and the potential for a strategic shift in the Middle East favoring U.S. interests. This highlights the high-stakes decision-making process during the conflict and the potential long-term implications of U.S. military actions against Iran."
   },
   {
     "id": "a572a14d153ee0bc",
@@ -1345,9 +1416,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Residents flee as Iran missiles stun peaceful Gulf cities",
+    "title_en": "Iranian missile strikes target Gulf cities, causing civilian panic and damage",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran launched missile attacks on US bases in Manama and Abu Dhabi, as well as striking a residential area in Qatar, causing civilian casualties and widespread panic. The attacks targeted strategic locations in the Gulf, escalating tensions and demonstrating Iran's willingness to strike at US assets and neighboring countries."
   },
   {
     "id": "71c39ded07406571",
@@ -1361,8 +1433,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Zelenskiy says next three-way peace talks depend on security situation, diplomacy",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "c581e8558c7f24ad",
@@ -1375,9 +1448,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Iran's supreme leader Khamenei to give speech within minutes after U.S., Israeli strikes on Iran, Al-Alam TV says",
+    "title_en": "Iran's Supreme Leader Khamenei to address nation after US-Israeli strikes on Iranian leadership",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran's Supreme Leader Ayatollah Ali Khamenei is set to speak shortly following US and Israeli strikes targeting top Iranian leaders. The speech comes amid heightened tensions and ongoing hostilities between Iran and the US-Israeli alliance. This development is significant as it may signal Iran's response to the recent attacks and its strategic stance moving forward."
   },
   {
     "id": "308d2c8c5f4f61e4",
@@ -1392,7 +1466,8 @@
     "skip_translation": true,
     "title_en": "Israelis shelter underground as Iran fires missiles",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran launched missiles targeting Israel, prompting widespread civilian sheltering and interception by air defenses. The US and Israel conducted retaliatory strikes against Iranian military targets, escalating the conflict. This marks the second major missile exchange between Iran and Israel in under a year, highlighting the ongoing tensions and potential for further escalation."
   },
   {
     "id": "bfbb240cb05f831b",
@@ -1407,7 +1482,8 @@
     "skip_translation": true,
     "title_en": "Streets empty and shops close as US strikes confirm Iranian fears",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "US strikes hit near Ayatollah Ali Khamenei's residence in Tehran, causing explosions and prompting security forces to flood the streets. The attacks shattered daily life in the city, confirming Iranian fears of escalation despite ongoing negotiations. This signifies a significant escalation in the conflict with direct targeting of Iran's leadership and infrastructure."
   },
   {
     "id": "c9d1c0f689aeae38",
@@ -1422,7 +1498,8 @@
     "skip_translation": true,
     "title_en": "Iran launches retaliatory missile strike on Israel",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran launched a retaliatory missile strike targeting Israel, with Israeli air defense systems intercepting several missiles over Jerusalem. The incident followed Israel's 'Lion's Roar' preemptive attack and declaration of a nationwide state of emergency. The exchange signifies escalating hostilities between Iran and Israel amid the broader US-Iran conflict."
   },
   {
     "id": "43f3ff6f4c3bf52c",
@@ -1435,9 +1512,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Netanyahu says joint Israel-US operation to reshape Iran’s future",
+    "title_en": "Netanyahu announces joint Israel-US operation targeting Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli Prime Minister Benjamin Netanyahu announced a joint operation with the US aimed at reshaping Iran's future and eliminating the perceived 'existential threat' posed by the Iranian regime. The operation's strategic significance lies in its potential to escalate tensions and provoke further military action between Iran and the US-Israel alliance. Netanyahu's call for Iranians to overthrow their government adds a political dimension to the conflict."
   },
   {
     "id": "3a9ff1ae9ccd3bfa",
@@ -1450,9 +1528,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Germany, France and UK tell Iran to stop attacks in region",
+    "title_en": "Germany, France, and UK urge Iran to halt regional attacks",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Germany, France, and the UK condemned Iran's military strikes on regional countries and called for an end to indiscriminate attacks and a return to negotiations. The joint statement by Macron, Merz, and Starmer highlights growing international pressure on Iran amid ongoing hostilities. This development underscores the diplomatic efforts to de-escalate the conflict and Iran's continued military actions in the region."
   },
   {
     "id": "758d3278c24da512",
@@ -1467,7 +1546,8 @@
     "skip_translation": true,
     "title_en": "Global reaction to Israeli, US attacks on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel and the US launched strikes on Iran, prompting Tehran to retaliate with missile attacks on Israel. The escalation has drawn condemnation from Germany, France, and Britain, who called on Iran to avoid indiscriminate military strikes. This signifies a significant regional escalation with potential for broader international involvement."
   },
   {
     "id": "ea6711cb4fbd1d71",
@@ -1480,9 +1560,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Ukraine's Zelenskiy says it is important that US act decisively on Iran",
+    "title_en": "Zelenskiy urges US to act decisively on Iran while avoiding wider war",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Ukrainian President Volodymyr Zelenskiy emphasized the importance of the US taking decisive action against Iran while cautioning against escalation into a broader conflict. His statement comes amid ongoing US strikes in Iran and reflects concerns about the potential impact on global security and the Russian invasion of Ukraine."
   },
   {
     "id": "774340854f7015c9",
@@ -1497,7 +1578,8 @@
     "skip_translation": true,
     "title_en": "Iranians in Istanbul jittery but jubilant at US, Israeli strikes",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iranians in exile in Istanbul, Turkey, are expressing mixed emotions of anxiety and happiness over US and Israeli airstrikes on Iran. This sentiment reflects a desire for regime change, with some Iranians viewing the attacks as a potential catalyst for political transformation despite concerns about the war's impact."
   },
   {
     "id": "14441ae83808be4c",
@@ -1510,9 +1592,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Lebanese PM warns against dragging country into Iran-Israel escalation",
+    "title_en": "Lebanese PM warns against involvement in Iran-Israel escalation",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Lebanese Prime Minister Nawaf Salam cautioned against Lebanon being pulled into the escalating conflict between Iran and Israel following US and Israeli attacks on Iran. Salam emphasized the need for wisdom and patriotism to prioritize Lebanon's security and unity. This highlights the risk of regional spillover and Lebanon's vulnerability to being drawn into the conflict."
   },
   {
     "id": "1380ac15db0617fa",
@@ -1527,7 +1610,8 @@
     "skip_translation": true,
     "title_en": "Global reaction to Israeli, US attacks on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel and the US launched strikes on Iran, escalating the Middle East conflict. President Trump aims to destroy Iran's missile arsenal and halt its nuclear program. The international community, including Russia, is reacting to the escalation."
   },
   {
     "id": "fc0faa5bad4c484c",
@@ -1540,9 +1624,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Russia says Trump and Israel are plunging the Middle East into the abyss with Iran attack",
+    "title_en": "Russia criticizes US and Israel for attacking Iran, escalating Middle East conflict",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Russia condemned the US and Israel for launching strikes on Iran targeting its leadership, escalating the Middle East conflict. The attacks were aimed at ending security threats to the US and potentially aiding regime change in Iran. This development is significant as it involves multiple global powers and further destabilizes the region."
   },
   {
     "id": "bea57825b520170a",
@@ -1555,9 +1640,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Brazilian government condemns strikes on Iran",
+    "title_en": "Brazilian government condemns US-Israel strikes on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The Brazilian government has condemned the US and Israeli attacks on Iranian targets, expressing grave concern over the military action. They urged all parties to respect international law and exercise restraint to prevent further escalation and protect civilians. This condemnation comes as the attacks occurred during ongoing negotiations, which Brazil views as the only path to peace."
   },
   {
     "id": "e2ce2139719d9596",
@@ -1570,9 +1656,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Iran pounds Gulf, regional states after US–Israel strikes: What to know",
+    "title_en": "Iran launches missile attacks on Gulf states and regional allies after US–Israel strikes",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran has retaliated against multiple Gulf states including Kuwait, the UAE, Saudi Arabia, Bahrain, Qatar, as well as Israel, Jordan, and Iraq, by launching missile attacks following US–Israel strikes. This escalation demonstrates Iran's capability to target a wide range of regional allies of the US and Israel. The attacks signify a significant escalation in the conflict with potential implications for regional stability and US military presence in the Gulf."
   },
   {
     "id": "257cbfd900415a15",
@@ -1587,7 +1674,8 @@
     "skip_translation": true,
     "title_en": "Lebanon refuses to be drawn into Iran conflict: PM",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Lebanese Prime Minister Nawaf Salam stated that Lebanon will not be drawn into the ongoing conflict after US and Israeli strikes on Iran, amid concerns that Hezbollah might get involved. Israel preemptively struck Hezbollah infrastructure in south Lebanon before the operation began. This highlights Lebanon's efforts to avoid escalation and the potential for regional spillover as the conflict intensifies."
   },
   {
     "id": "4dc10fac550709d5",
@@ -1600,9 +1688,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Trump announces ‘major combat operations’ in Iran to ‘protect Americans’",
+    "title_en": "Trump announces 'major combat operations' in Iran to 'protect Americans'",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "US President Donald Trump confirmed the launch of 'major combat operations' in Iran, citing the need to eliminate imminent threats and protect Americans. This announcement comes amid ongoing explosions in Tehran and preemptive strikes by Israel against Iranian targets. The escalation signifies a significant intensification of US military action in the region."
   },
   {
     "id": "a4818acb7b85a6d3",
@@ -1617,7 +1706,8 @@
     "skip_translation": true,
     "title_en": "Global reaction to Israeli, US attacks on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel and the US launched strikes on Iran, escalating regional tensions and prompting international reactions. The attacks aimed to destroy Iran's missile arsenal and halt its nuclear program, as stated by US President Donald Trump. The involvement of major powers like Russia indicates potential geopolitical ramifications and concerns over regional stability."
   },
   {
     "id": "e158f768d348c68d",
@@ -1630,9 +1720,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israeli strikes kill, wound Revolutionary Guard personnel as Iran vows response",
+    "title_en": "Israeli strikes kill and wound Revolutionary Guard personnel as Iran vows response",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli strikes targeted and killed or wounded numerous IRGC personnel and senior officials in multiple Iranian cities, including Tehran, Qom, Isfahan, Kermanshah, and Lorestan. Israel reportedly plans four days of intense joint attacks on Iran, while Iran vows a response. This escalation signifies a significant intensification of the conflict between Israel and Iran."
   },
   {
     "id": "93db57e05035db9a",
@@ -1645,9 +1736,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "From Munich to Tehran: Echoes of appeasement and lessons of power drift",
+    "title_en": "Echoes of appeasement and lessons of power drift in US-Iran negotiations",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The article discusses the historical context of negotiations between the US and Iran, drawing parallels to the pre-WWII era of appeasement. It highlights the risks of gradual escalation and delayed responses to provocations, which could lead to unintended conflict. This analysis is relevant to the ongoing conflict as it underscores the strategic implications of diplomatic decisions and the potential for miscalculation in the current US-Iran tensions."
   },
   {
     "id": "cfcbed89204fba39",
@@ -1662,7 +1754,40 @@
     "skip_translation": true,
     "title_en": "US strikes Iran military targets as Trump calls for overthrow of regime",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US conducted strikes on Iranian military targets, with operations potentially lasting several days depending on Iran's retaliation. This comes as former President Trump calls for the overthrow of the Iranian regime, indicating potential escalation in the conflict."
+  },
+  {
+    "id": "3e4f14fb2cb6fdec",
+    "title_original": "Airlines cancel flights after US and Israel strike Iran",
+    "content_original": "Feb 28 (Reuters) - Global airlines cancelled flights across the Middle East on Saturday after the United States and Israel launchedstrikes on Iran, plunging the region into a new conflict. Airspace over Iran, Iraq, Kuwait, United Arab Emirates, Lebanon, Bahrain and Jordan was empty early on Saturday, maps by flight-tracking service Flightradar24 showed. The European Union's aviation regulator recommended that its airlines stay out of the airspace affected by the military intervention. Below is the latest on flights listed by airline in alphabetical order:",
+    "url": "https://www.al-monitor.com/originals/2026/02/airlines-cancel-flights-after-us-and-israel-strike-iran",
+    "published": "2026-02-28T07:36:48-05:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Airlines cancel flights after US and Israel strike Iran",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Global airlines canceled flights across the Middle East after the US and Israel launched strikes on Iran, affecting airspace in Iran, Iraq, Kuwait, UAE, Lebanon, Bahrain, and Jordan. The EU aviation regulator advised its airlines to avoid the affected airspace. This development highlights the escalation of the conflict and its impact on regional and international travel."
+  },
+  {
+    "id": "b75e8d931beade68",
+    "title_original": "Israel shuts schools, bans gatherings as Iran launches retaliatory missiles",
+    "content_original": "By Alexander Cornwell TEL AVIV, Feb 28 (Reuters) - Israel banned public gatherings, shut schools and workplaces and moved hospital patients to underground facilities on Saturday as Tehran launched missiles towards Israel in retaliation for a joint U.S.-Israeli attack on Iran. Defence Minister Israel Katz declared a state of emergency across the country, warning the public of Iranian missile and drone attacks.",
+    "url": "https://www.al-monitor.com/originals/2026/02/israel-shuts-schools-bans-gatherings-iran-launches-retaliatory-missiles",
+    "published": "2026-02-28T07:36:48-05:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israel shuts schools, bans gatherings amid Iranian missile retaliation",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Israel has taken emergency measures, including closing schools and banning gatherings, as Iran launched retaliatory missiles following a joint U.S.-Israeli attack. The country declared a state of emergency, highlighting the threat of Iranian missile and drone attacks. This escalation underscores the ongoing conflict and potential for further regional instability."
   },
   {
     "id": "4ef08a5b5633d7fb",
@@ -1675,9 +1800,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "BREAKING: Israel launches ‘preemptive’ strike on Iran as explosions rock Tehran",
+    "title_en": "Israel launches 'preemptive' strike on Iran as explosions rock Tehran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel launched a 'preemptive' strike on Iran, with explosions reported in Tehran, as part of a joint operation with the US. The attack occurred amid ongoing diplomatic efforts for a nuclear deal between the US and Iran. Israel declared a nationwide state of emergency, suspending non-essential activities."
   },
   {
     "id": "a6f61f9e4a0c40e9",
@@ -1690,9 +1816,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "US, Israel attack Iran, Tehran strikes cities across Arab Gulf",
+    "title_en": "US and Israel launch strikes on Iran, Tehran retaliates with missile attacks on Gulf states and Israel",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US and Israel conducted strikes against Iran, reportedly targeting Supreme Leader Ayatollah Ali Khamenei. Iran retaliated by launching missile barrages at Gulf states and Israel, causing explosions in the capitals of Saudi Arabia, Bahrain, Qatar, the UAE, and Kuwait, as well as over Jerusalem. This escalation follows weeks of tensions and a significant US military build-up in the Middle East."
   },
   {
     "id": "865fedc89eeef191",
@@ -1705,9 +1832,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Security Chiefs \"Re-Emerge as Top Contenders to Lead Iraq\"",
-    "relevant": true,
-    "translated": true
+    "title_en": "Security Chiefs 'Re-Emerge as Top Contenders to Lead Iraq'",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "39a9ea04ea37ed60",
@@ -1721,8 +1849,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Power-Bid In Iraq: Will Maliki Return?",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "e5b9fce28de118b8",
@@ -1735,9 +1864,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Suspect held after pro-Palestinian graffiti on Churchill statue",
-    "relevant": true,
-    "translated": true
+    "title_en": "Pro-Palestinian graffiti on Churchill statue leads to arrest in London",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "fdad95cdf7ac9c4a",
@@ -1750,9 +1880,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Jailed PKK boss says laws needed in Turkey peace process",
-    "relevant": true,
-    "translated": true
+    "title_en": "Jailed PKK leader calls for laws to advance peace process in Turkey",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "6a07fb0f96d2f425",
@@ -1765,9 +1896,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "UN rights chief warns more Iranians face execution over protests",
-    "relevant": true,
-    "translated": true
+    "title_en": "UN rights chief warns of more executions in Iran over protests",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "83ba4604151f90ff",
@@ -1780,9 +1912,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Rubio designates Iran 'state sponsor of wrongful detention'",
+    "title_en": "US designates Iran 'state sponsor of wrongful detention'",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US has designated Iran as a 'state sponsor of wrongful detention,' potentially leading to a travel ban. This move comes amid escalating tensions and US military buildup near Iran over its nuclear program. The designation aims to pressure Iran to release detained Americans and could impact diplomatic relations."
   },
   {
     "id": "33016ed19bc19fa7",
@@ -1795,9 +1928,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israel Supreme Court freezes foreign aid organisations Gaza ban",
+    "title_en": "Israel Supreme Court freezes foreign aid groups' Gaza ban",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The Israeli Supreme Court has temporarily halted the government's ban on 37 foreign NGOs operating in Gaza and the West Bank, pending a final decision. This allows organizations like Doctors Without Borders and Oxfam to continue their work until a final ruling is issued. The decision has significant implications for humanitarian aid delivery and the ongoing Israeli-Palestinian conflict dynamics."
   },
   {
     "id": "1067bd6dcc82532b",
@@ -1811,8 +1945,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Trump asks Supreme Court to end protections for Syrians in US",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "66aa1a59033f1b35",
@@ -1827,7 +1962,8 @@
     "skip_translation": true,
     "title_en": "IAEA stresses 'urgency' to verify Iran's nuclear material",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The IAEA has emphasized the 'utmost urgency' to verify Iran's nuclear material amid escalating tensions, with the US threatening strikes and conducting its largest military build-up in the Middle East in decades. This comes as Oman-mediated talks between Iran and the US in Geneva aim to avert war, though Tehran warns Washington to drop 'excessive demands' for a deal."
   },
   {
     "id": "8c34f6cb3dac0af7",
@@ -1841,8 +1977,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Trump Orders Federal Agencies to Phase Out Anthropic AI Over Pentagon Dispute",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "83949a3fa1cc71ad",
@@ -1855,9 +1992,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israel issues precautionary directives to hospitals amid rising regional tensions: Media",
+    "title_en": "Israel issues precautionary directives to hospitals amid rising regional tensions",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel has instructed hospitals to prepare for potential reductions in patient numbers as a precautionary measure amid escalating regional tensions. This directive, while not linked to an immediate security event, is part of broader emergency preparedness plans. The move reflects concerns over possible escalation, particularly with ongoing conflicts involving Hezbollah and Iranian-linked groups."
   },
   {
     "id": "99e67a41548bfd70",
@@ -1870,9 +2008,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "OIC holds emergency meeting over Israel’s West Bank annexation plans",
+    "title_en": "OIC holds emergency meeting over Israel's West Bank annexation plans",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The Organization of Islamic Cooperation (OIC) convened an emergency meeting of foreign ministers to address Israel's plans to annex large areas of the occupied West Bank. The meeting, held in Jeddah, Saudi Arabia, involved high-level diplomatic engagements to discuss Israel's ongoing violations in Palestinian territories. This development is significant as it reflects regional opposition to Israel's actions and could escalate tensions in the Middle East."
   },
   {
     "id": "49eb777d2f12e1ee",
@@ -1885,9 +2024,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "UK withdraws embassy staff from Iran, Tel Aviv amid security concerns",
+    "title_en": "UK withdraws embassy staff from Iran and Tel Aviv due to security concerns",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The UK has temporarily withdrawn its diplomatic staff from Iran and relocated some staff and dependents from Tel Aviv to other locations within Israel due to heightened regional tensions and security concerns. The move includes continuing embassy operations in Tehran remotely and advising against travel to the region. This signifies escalating concerns over the safety of diplomatic personnel amid the ongoing Iran-US conflict and regional instability."
   },
   {
     "id": "821ba15a05e92cf6",
@@ -1900,9 +2040,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israel seeks 'permanent demographic change' to West Bank, Gaza",
+    "title_en": "Israel seeks 'permanent demographic change' in West Bank and Gaza",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "UN rights chief Volker Turk accused Israel of attempting 'permanent demographic change' in the West Bank and Gaza, raising concerns about ethnic cleansing. This includes a year-long military offensive in the northern West Bank displacing 32,000 Palestinians and harassment of Bedouin communities by Israeli settlers. The strategic significance involves ongoing tensions and potential escalation in the Israeli-Palestinian conflict."
   },
   {
     "id": "e9ac5807d9a06488",
@@ -1917,7 +2058,8 @@
     "skip_translation": true,
     "title_en": "Trump 'not thrilled' with Iran but undecided on attack",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "US President Trump expressed frustration with Iran's stance in negotiations and indicated that he has not yet decided on a threatened military attack. He emphasized that Iran cannot be allowed to have nuclear weapons and highlighted dissatisfaction with the negotiation process. This suggests potential escalation if diplomatic efforts fail."
   },
   {
     "id": "308d5cef9555c1c1",
@@ -1930,9 +2072,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "More than 50% of aid movements to Gaza impeded, denied by Israel: UN",
+    "title_en": "Over 50% of aid to Gaza impeded by Israel: UN",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The UN reported that Israeli authorities blocked or denied more than half of humanitarian aid movements to Gaza in February, exacerbating shortages for civilians. This includes the rejection of two-thirds of aid trucks from Egypt. The situation highlights the escalating humanitarian crisis in Gaza amidst ongoing conflict."
   },
   {
     "id": "9c9d6b4ce3e57803",
@@ -1945,9 +2088,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "New poll show US sympathies shift in Israel Palestinian conflict",
-    "relevant": true,
-    "translated": true
+    "title_en": "US public sympathy shifts towards Palestinians in Israel-Palestinian conflict",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "53fb0a5debfe5708",
@@ -1960,9 +2104,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Egypt man held after driving jeep with Israeli flag into crowd",
-    "relevant": true,
-    "translated": true
+    "title_en": "Egyptian man detained for driving jeep with Israeli flag into crowd",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "bc243663316ed36d",
@@ -1977,7 +2122,8 @@
     "skip_translation": true,
     "title_en": "Pro-govt Syrian Druze leader visits US for talks on Suweida",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "A pro-Syrian government Druze leader, Suleiman Abdul Baqi, met with US officials in Washington to discuss the situation in Suweida province. The talks focused on enforcing Syrian sovereignty amid control by anti-government militias sympathetic to Israel. This development is significant due to potential implications for regional stability and US policy on Syria."
   },
   {
     "id": "1b56f5dde5c55869",
@@ -1990,9 +2136,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Exclusive: Lebanon seeks $9bn for army ahead of Paris summit",
+    "title_en": "Lebanon seeks $9 billion for army ahead of Paris summit",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Lebanon is requesting $9 billion in military and security funding from international donors, including the US and European states, during a preparatory meeting in Cairo for a Paris summit. The funding aims to strengthen the Lebanese Armed Forces (LAF) and Internal Security Forces (ISF) and consolidate state control over weapons. This effort is supported by the Quintet group, which includes Egypt, Qatar, France, Saudi Arabia, and the US, highlighting regional and international interest in stabilizing Lebanon amid regional tensions."
   },
   {
     "id": "67ffe26140ee4f65",
@@ -2005,9 +2152,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Why Trump’s war on Iran will fail",
+    "title_en": "Analysis: Why Trump's war on Iran will fail",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The article discusses why a potential war with Iran led by the Trump administration would be unsuccessful and dangerous for the US. It highlights the lack of clear objectives, the limitations of military force, and the unsustainable nature of a strategy based on exhaustion. This analysis is relevant due to its focus on the military and strategic implications of US-Iran conflict escalation."
   },
   {
     "id": "e59ab876a43ab83c",
@@ -2021,8 +2169,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Algeria archbishop welcomes pope visit as 'dream come true'",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "2fd6386b2ac1d147",
@@ -2035,9 +2184,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "UK teacher ‘targeted and intimidated’ over pro-Palestine campaign",
-    "relevant": true,
-    "translated": true
+    "title_en": "UK teacher targeted over pro-Palestine campaign",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "d100ca51bd8a98b8",
@@ -2050,9 +2200,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "IQD in the Crossfire: What a Trump-Iran Conflict Could Mean for Iraq's Dinar",
-    "relevant": true,
-    "translated": true
+    "title_en": "What a Trump-Iran Conflict Could Mean for Iraq's Dinar",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "bc24419c64cbce3d",
@@ -2065,9 +2216,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Family of UN's Albanese sues Trump administration over sanctions",
+    "title_en": "Family of UN investigator sues Trump admin over sanctions for criticizing Israel",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The family of UN investigator Francesca Albanese has filed a lawsuit against the Trump administration over sanctions imposed for her criticism of Israel's Gaza policies. The lawsuit claims the sanctions violate the First Amendment and have severely impacted their lives. This case highlights the intersection of free speech, sanctions, and the Israeli-Palestinian conflict, potentially influencing future US responses to international criticism of its allies."
   },
   {
     "id": "2eb1a87a178953d6",
@@ -2082,7 +2234,8 @@
     "skip_translation": true,
     "title_en": "US State Department denies reports of evacuation order for Iraq, Kuwait",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US State Department refuted claims of ordering the evacuation of non-essential personnel from Iraq and Kuwait, calling the reports inaccurate. This comes amid ongoing security concerns in the region due to the conflict with Iran, while the department previously authorized departures from Israel due to safety risks. The denial suggests a cautious approach to personnel movements amid regional tensions."
   },
   {
     "id": "f54a36babb4c6848",
@@ -2096,8 +2249,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Newly revealed Israeli 1948 files expose 'genocidal' war orders",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "fab2f785e5020fb1",
@@ -2111,8 +2265,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Civilian death toll in Sudan war more than doubled in 2025: UN",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "2430cedd45c424ea",
@@ -2125,9 +2280,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Subjecting geography to power does not make history a coward",
-    "relevant": true,
-    "translated": true
+    "title_en": "Iraq-Kuwait tensions reopen historical wounds from 1990 invasion",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "16fc4305ff8d1c1e",
@@ -2141,8 +2297,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Kuwait mulls new taxes to lower budget deficit",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "c32edcf232d17ddc",
@@ -2155,9 +2312,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Awkward scenes as Modi visit to Israel ends in protocol row",
-    "relevant": true,
-    "translated": true
+    "title_en": "Modi visit to Israel ends in protocol row",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "1100af0d663f26fb",
@@ -2171,8 +2329,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Jordan's Islamic Action Front rejects order to change party name",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f650dc18438a880e",
@@ -2185,9 +2344,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Kataeb Hezbollah tells fighters to prepare for long Iran-US war",
+    "title_en": "Kataeb Hezbollah prepares fighters for potential long-term Iran-US war",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Kataeb Hezbollah, an Iran-backed Iraqi militia group, instructed its fighters to prepare for a prolonged conflict in Iran if the US launches strikes. The group warned of 'immense losses' for the US and indicated a high likelihood of intervention in the event of attacks, highlighting the strategic importance of Iran to their interests. This suggests potential escalation and increased involvement of regional militias in the ongoing conflict."
   },
   {
     "id": "0f716f37e9a53af3",
@@ -2200,9 +2360,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Lebanon's IMEC bid sparks fears of indirect Israel normalisation",
+    "title_en": "Lebanon's IMEC bid raises concerns over indirect Israel normalisation",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Lebanon has formally applied to join the US-backed India–Middle East–Europe Economic Corridor (IMEC), a move that has sparked debate over potential indirect normalisation with Israel, given Israel's central role in the project. President Joseph Aoun submitted the request to French President Emmanuel Macron, highlighting Lebanon's desire to overcome political isolation and participate in major regional economic initiatives. This development is significant as it could impact regional dynamics and Lebanon's longstanding policy of non-engagement with Israel."
   },
   {
     "id": "f55c16b4c802fdc7",
@@ -2215,9 +2376,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Despite tight Israeli restrictions, about 100,000 Palestinians pray at Al-Aqsa for 2nd Friday of Ramadan",
-    "relevant": true,
-    "translated": true
+    "title_en": "100,000 Palestinians pray at Al-Aqsa despite Israeli restrictions",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "808a342fb132681a",
@@ -2230,9 +2392,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "More than 7,600 migrants died or went missing in 2025, UN agency says",
-    "relevant": true,
-    "translated": true
+    "title_en": "UN reports over 7,600 migrant deaths or disappearances in 2025",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "22d9faff36ed9f51",
@@ -2245,9 +2408,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Landmark Winston Churchill statue in London defaced with ‘Zionist war criminal’ red graffiti",
-    "relevant": true,
-    "translated": true
+    "title_en": "Winston Churchill statue in London defaced with 'Zionist war criminal' graffiti",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "1cbe431e3bfd4364",
@@ -2260,9 +2424,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "‘Britain’s Index of Repression’ documents 964 incidents of anti-Palestinian crackdown",
-    "relevant": true,
-    "translated": true
+    "title_en": "Britain's Index of Repression documents 964 anti-Palestinian incidents",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "db58a5d0e5effbee",
@@ -2277,7 +2442,8 @@
     "skip_translation": true,
     "title_en": "Israel tightens access to Al-Aqsa Mosque for 2nd Friday of Ramadan",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel has deployed large forces and tightened restrictions on Palestinians attempting to pray at Al-Aqsa Mosque in Jerusalem for the second Friday of Ramadan. Thousands of Palestinians were prevented from entering, with many turned away at checkpoints despite arriving early. This move could escalate tensions in the region, particularly given the religious and political significance of Al-Aqsa Mosque during Ramadan."
   },
   {
     "id": "4548c42e04d122e3",
@@ -2291,8 +2457,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Time to boycott the World Cup, the most bloodstained in history",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "2312f78f55bc52a0",
@@ -2307,7 +2474,8 @@
     "skip_translation": true,
     "title_en": "US Embassy in Israel authorizes departure of non-essential personnel amid US-Iran tensions",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US Embassy in Israel has authorized the departure of non-essential personnel and their families due to escalating tensions with Iran, reflecting concerns over safety risks. This move underscores the heightened state of alert and potential for conflict between the US and Iran in the region."
   },
   {
     "id": "5907c4285b53b82a",
@@ -2321,8 +2489,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Bangladesh condemns Israeli land moves in occupied Palestinian territory",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "329d8b6e03779fbe",
@@ -2335,9 +2504,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Tunisia court blocks closure of factory blamed for pollution",
-    "relevant": true,
-    "translated": true
+    "title_en": "Tunisian court blocks closure of factory blamed for pollution",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f966f24869aeab59",
@@ -2351,8 +2521,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Royal Albert Hall to honour women of Arabic music’s Golden Era",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "d3c550ec509c0917",
@@ -2366,8 +2537,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Atlas of Palestine: Land Theft by the Jewish National Fund",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "ec04cf580e79229f",
@@ -2380,9 +2552,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Pro-Palestine organisers stand trial in landmark UK protest case",
-    "relevant": true,
-    "translated": true
+    "title_en": "Pro-Palestine organisers stand trial in UK protest case",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "24423f3016e21edf",
@@ -2395,9 +2568,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Crackdown on Morocco's Gen Z protest reaches disapora",
-    "relevant": true,
-    "translated": true
+    "title_en": "Crackdown on Morocco's Gen Z protest reaches diaspora",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f02adab15d26e3c1",
@@ -2410,9 +2584,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Oman FM flying to US as Trump is briefed on 'strikes on Iran'",
+    "title_en": "Oman FM to meet US officials amid Iran tensions",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Oman's Foreign Minister Sayyid Badr Al-Busaidi is traveling to Washington to discuss recent indirect talks between the US and Iran with senior US officials, aiming to avoid further escalation of the conflict. This visit follows Al-Busaidi's mediation efforts in Geneva, which reportedly showed significant progress on Iran's nuclear program."
   },
   {
     "id": "1a5659e1d169e03d",
@@ -2425,9 +2600,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Trump Iranian missile claim unsupported by US intelligence",
+    "title_en": "Trump's claim on Iranian missile capability not supported by US intelligence",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "US President Donald Trump claimed Iran is developing missiles capable of reaching the United States, but US intelligence reports do not support this, raising doubts about his justification for potential strikes on Iran. This discrepancy could impact public and international perceptions of the administration's rationale for military action against Iran."
   },
   {
     "id": "ea0c1bf66a3877f1",
@@ -2441,8 +2617,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Unpacking Complaint No. 713317 with Yasser Shafiey",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "9a7fde66a668f87a",
@@ -2456,8 +2633,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Saudi Arabia opens central kitchen in Gaza to produce 24,000 meals daily",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "3b2a66a4f29d8599",
@@ -2470,9 +2648,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "French court jails, deports Iranian woman for praising “Al-Aqsa Flood”",
+    "title_en": "French court jails and deports Iranian woman for praising 'Al-Aqsa Flood'",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "A French court sentenced Iranian national Mahdieh Esfandiari to four years in prison for 'glorifying terrorism' through social media posts related to the 'Al-Aqsa Flood' operation. The court also banned her from French territory and ordered her deportation. This case highlights the sensitivity of European countries to expressions of support for military operations by groups involved in the ongoing Middle East conflict."
   },
   {
     "id": "beb156e3fa8f25b1",
@@ -2485,9 +2664,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "At least six killed in Israeli strikes on Gaza police sites",
+    "title_en": "Israeli strikes kill at least six in Gaza police sites",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli forces conducted strikes targeting two police checkpoints in the Gaza Strip, resulting in at least six fatalities. The attacks occurred in the Al-Maslakh area and near the Al-Bureij refugee camp, with casualties reported by the Nasser Medical Complex. These strikes are part of ongoing tensions since the October ceasefire and have been condemned by Hamas as undermining mediation efforts."
   },
   {
     "id": "1a9c357cc41b050c",
@@ -2500,9 +2680,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Araghchi: Significant progress achieved in Geneva talks with US",
+    "title_en": "Significant progress in Geneva nuclear talks between Iran and US",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iranian Deputy Foreign Minister Abbas Araghchi announced significant progress in nuclear negotiations with the US in Geneva, hosted by Oman. The talks addressed crucial issues, with some understanding reached but differences remaining. This development is significant as it indicates potential progress in de-escalation efforts amid the ongoing conflict."
   },
   {
     "id": "a42f877c29abbd20",
@@ -2515,9 +2696,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Washington presses Syria to shift from Chinese telecom systems",
+    "title_en": "US pressures Syria to avoid Chinese telecom systems",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US has warned Syria against adopting Chinese telecommunications technology, citing threats to US national security and interests. The warning was delivered during a meeting between US State Department officials and Syrian Communications Minister Abdulsalam Haykal in San Francisco. This development is significant as it reflects ongoing US efforts to counter Chinese influence in the region and maintain strategic dominance."
   },
   {
     "id": "c3266bc753d20477",
@@ -2530,9 +2712,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "How a drone strike on a tribal leader may reshape Sudan war",
-    "relevant": true,
-    "translated": true
+    "title_en": "Drone strike on Sudanese tribal leader may reshape Sudan war",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "8b88c543cb403c8f",
@@ -2546,8 +2729,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Israeli law bars Palestinian university graduates from education sector jobs",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "ff6110e977434517",
@@ -2560,9 +2744,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Moroccan opposition leader criticises foreign minister over Gaza “Peace Council” role",
-    "relevant": true,
-    "translated": true
+    "title_en": "Moroccan opposition leader criticizes foreign minister over Gaza 'Peace Council' role",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "2271e0829dd999e8",
@@ -2575,9 +2760,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Improv, courage and survival in The Friend’s House is Here",
-    "relevant": true,
-    "translated": true
+    "title_en": "Iranian film 'The Friend’s House is Here' premieres at Sundance Festival",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "5c6e0dfb3945ca97",
@@ -2591,8 +2777,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Pakistan bombs Kabul in 'open war' on Afghanistan's Taliban",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "e25f1cd3bace14e5",
@@ -2605,9 +2792,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Activists plan 200-vessel “Freedom Flotilla” to Gaza in bid to break siege",
+    "title_en": "Activists plan 200-vessel “Freedom Flotilla” to Gaza to break siege",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Pro-Palestinian activists and civil society organizations are organizing a large maritime campaign involving around 200 vessels to sail from Mediterranean ports towards Gaza on April 12th. The initiative aims to break the ongoing Israeli blockade of Gaza and involves coordination with approximately 200 global civil society organizations. This action could escalate tensions in the region and provoke a response from Israel."
   },
   {
     "id": "65151e0dd70c633f",
@@ -2621,8 +2809,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "UK Greens stun Labour to win Gorton and Denton by-election",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "582b85c97a8d0a61",
@@ -2635,9 +2824,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Hamas accuses Israel of ignoring mediators amid continued bombardment of Gaza",
+    "title_en": "Hamas accuses Israel of ignoring mediators amid continued Gaza bombardment",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Hamas has accused Israel of disregarding international mediation efforts while continuing its bombardment of the Gaza Strip. This highlights ongoing tensions and violence in the region, with significant Palestinian casualties reported. The accusations suggest a lack of progress in ceasefire negotiations and a potential escalation in the conflict."
   },
   {
     "id": "f9bc4cdf62425f94",
@@ -2650,9 +2840,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Israel massacred far more Palestinians than anyone could imagine",
+    "title_en": "Israel's Gaza death toll far exceeds previous estimates",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The Lancet's study, based on interviews with 2,000 households, estimates nearly 90,000 deaths in Gaza between October 7 and January 2025, significantly higher than previous figures. The findings highlight both direct violence from Israeli forces and indirect causes like health crises and disease outbreaks. This has major implications for the ongoing conflict and international response."
   },
   {
     "id": "40ba2d2b5f1ee14d",
@@ -2666,8 +2857,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Egypt reaffirms support for Sudanese army and unity in joint statement",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "24478cc757bfde62",
@@ -2682,7 +2874,8 @@
     "skip_translation": true,
     "title_en": "Trump frustrated with Iran talks as US personnel leave Israel",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "US President Trump expressed frustration with Iran's stance in nuclear negotiations while US staff were authorized to leave Israel due to heightened risks. Trump ordered a significant military build-up in the Middle East, including deploying the USS Gerald R. Ford near Israel, as he demanded Iran agree to concessions on its nuclear program. The situation reflects escalating tensions and the potential for military action amid stalled negotiations."
   },
   {
     "id": "acc3025b27652f3e",
@@ -2696,8 +2889,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Melania Trump to chair UN Security Council meeting",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "68d045ff52e80df9",
@@ -2710,9 +2904,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Why are major malls opening up amid Gaza's rubble?",
-    "relevant": true,
-    "translated": true
+    "title_en": "Major malls opening in Gaza amidst destruction",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "0d512c5c843f2df9",
@@ -2726,8 +2921,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Jordan’s Islamic Action Front rejects call to drop ‘Islamic’ from name",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "b5394ed4c411b9cc",
@@ -2740,9 +2936,26 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "The price of truth: Tucker Carlson, Piers Morgan, and the Gaza reckoning",
-    "relevant": true,
-    "translated": true
+    "title_en": "Tucker Carlson and Piers Morgan shift from defending Israel to criticizing its actions in Gaza",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
+  },
+  {
+    "id": "ba4f76e131a049bc",
+    "title_original": "Iraqi parliament to review maritime maps after Kuwait protests",
+    "content_original": "Iraq's parliament will convene next week to review the government's recent submission of maritime coordinates to the United Nations , notably on the Khor Abdullah waterway, following a formal protest from Kuwait and concerns raised by other Arab countries, Iraqi lawmakers said.&nbsp; On Saturday, the Iraqi Foreign Ministry announced that it had submitted updated baseline coordinates and maritime boundaries in accordance with the 1982 United Nations Convention on the Law of the Sea. The filing defines Iraq's straight baselines, low-water lines, and the limits of its territorial sea, contiguous zone, exclusive economic zone, and continental shelf. The state-run Al-Sabah newspaper quoted MP Thaer al-Kaabi, who said parliament would invite government officials and legal experts to discuss the legal and political implications of the regional responses. Some lawmakers are calling for a special session on the Khor Abdullah waterway, which they consider a sovereignty and maritime border issue....",
+    "url": "https://www.newarab.com/news/iraqi-parliament-review-maritime-maps-after-kuwait-protests",
+    "published": "2026-02-27T08:07:34+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iraqi parliament to review maritime maps after Kuwait protests",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "6627ee4de0b083a4",
@@ -2757,7 +2970,8 @@
     "skip_translation": true,
     "title_en": "Vance rules out prolonged war in region if US strikes Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "US Vice President JD Vance stated that a potential US strike on Iran is unlikely to lead to a prolonged war in the Middle East. He emphasized the preference for a diplomatic solution but acknowledged the situation depends on Iran's actions. This statement is significant as it provides insight into the US administration's strategic thinking regarding potential escalation with Iran."
   },
   {
     "id": "427ae2f2fde846f2",
@@ -2771,8 +2985,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Umm Qasr Port Capacity to Rise 50% Under IFC Deal",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "088f2aaf2315a737",
@@ -2787,7 +3002,8 @@
     "skip_translation": true,
     "title_en": "If Trump Strikes Iran: Mapping the Oil Disruption Scenarios",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The article discusses potential US military strikes on Iran under the Trump administration, focusing on the risk of oil supply disruptions in the Middle East Gulf region. It highlights the strategic implications of such actions on global oil markets and regional stability."
   },
   {
     "id": "10b91270481046c9",
@@ -2801,8 +3017,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Iraq Stock Market Report",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f75502adaebc0096",
@@ -2815,9 +3032,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Over 300 Palestinian structures demolished by Israel in West Bank this year: Rights group",
+    "title_en": "Israel demolishes over 300 Palestinian structures in West Bank in 2026",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel demolished 312 Palestinian residential and agricultural structures in the West Bank from January to February 18, 2026, affecting around 21,000 Palestinians. The escalation in demolitions and settler attacks occurred primarily in Area C, which constitutes about 60% of the West Bank. This development has significant implications for the ongoing Israeli-Palestinian conflict and regional stability."
   },
   {
     "id": "ac9d3ffd118b88f3",
@@ -2830,9 +3048,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "6 additional US refueling aircraft heading to Israel amid tensions with Iran: Media",
+    "title_en": "6 additional US refueling aircraft heading to Israel amid tensions with Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US is deploying six additional KC-46 aerial refueling aircraft to Israel’s Ben Gurion Airport amid escalating tensions with Iran. This move is part of a broader military buildup in the Middle East. The deployment highlights the US commitment to enhancing its military capabilities in the region in response to the ongoing conflict."
   },
   {
     "id": "6639a93a5ea18992",
@@ -2847,7 +3066,8 @@
     "skip_translation": true,
     "title_en": "The ‘brinkmanship’ strategy with Iran: A calculated approach",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US and Israel are employing a brinkmanship strategy against Iran, threatening a new war if it does not comply with their demands to halt its nuclear program and ballistic missile development. This comes after recent conflicts in Gaza, Lebanon, Iran, and Yemen have somewhat subsided, allowing attention to shift towards Iran as a primary regional adversary. The strategy signifies a critical phase in ongoing tensions, with significant military and strategic implications for the region."
   },
   {
     "id": "44a6453b8fca9e3a",
@@ -2860,9 +3080,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "40+ international scholars and public figures issue urgent humanitarian appeal over detention and medical care of Imran Khan",
-    "relevant": true,
-    "translated": true
+    "title_en": "International figures call for urgent humanitarian action on Imran Khan's detention and medical care",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "60a39b4823d7b9e8",
@@ -2877,7 +3098,8 @@
     "skip_translation": true,
     "title_en": "Syrian teen killed in Israeli airstrike in eastern Lebanon",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An Israeli airstrike in eastern Lebanon killed a Syrian teenager and injured 29 others near Kfar Dan in Baalbek. The strikes targeted Hezbollah's 'Radwan Force' infrastructure in the area, violating the existing ceasefire deal since November 2024. This incident highlights ongoing tensions and potential escalation between Israel and Hezbollah despite the ceasefire."
   },
   {
     "id": "429babd615e0fdf8",
@@ -2891,8 +3113,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Israeli influence over German defense grows",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "d3cce1e7efa43bb4",
@@ -2906,8 +3129,25 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Poll shows new generation of Israeli voters more right-wing",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
+  },
+  {
+    "id": "37173e6d72e51c94",
+    "title_original": "Gaza: On The Ground with Motasem A Dalloul | Week 23 Feb",
+    "content_original": "MEMO spoke to Motasem A Dalloul, a survivor of Israel’s genocide in Gaza, in the first of a new series of regular updates from the ground. Dalloul describes the daily struggle to survive: hunger, cold, the collapse of healthcare, and ongoing Israeli violations despite the so-called ceasefire. WATCH: Gaza: On The Ground with Motasem A Dalloul &#124; Week 16 Feb",
+    "url": "https://www.middleeastmonitor.com/20260226-gaza-on-the-ground-with-motasem-a-dalloul-week-23-feb/",
+    "published": "2026-02-26T17:00:43+00:00",
+    "source_name": "Middle East Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Gaza: Survivor Describes Ongoing Struggles Amid Ceasefire",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Motasem A Dalloul, a survivor of the conflict in Gaza, discusses the ongoing hardships including hunger, lack of healthcare, and Israeli violations during the ceasefire. This report provides insights into the humanitarian situation and potential ceasefire violations by Israeli forces. The information is relevant due to its connection to the broader Israel-Hamas conflict and potential escalation triggers."
   },
   {
     "id": "7a79459b320c9be4",
@@ -2921,8 +3161,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Central Bank Advances Iraqi Banking Reform, Eases Foreign Transactions",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "882c34975f539ef5",
@@ -2935,9 +3176,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Investment Licence Granted for Addiction and Mental Health Hospital",
-    "relevant": true,
-    "translated": true
+    "title_en": "Investment Licence Granted for Addiction and Mental Health Hospital in Iraq",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "9b455a9add4db449",
@@ -2951,8 +3193,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Iraq announces Oil Exports for January",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "56aa72ce3280e31a",
@@ -2965,9 +3208,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Dinar Weakness: CBI \"Not Responsible\"",
-    "relevant": true,
-    "translated": true
+    "title_en": "Dinar Weakness: CBI 'Not Responsible'",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "5d4d0930df94f899",
@@ -2981,8 +3225,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Kapita Research and Iraq Business News Announce Strategic Partnership",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "5094c1813addf690",
@@ -2996,8 +3241,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "US Firm Cleared for Iraq Floating Gas Terminal",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "63311a93222eeeb5",
@@ -3011,8 +3257,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "$65bn Investment Planned for Al-Tayeb Economic City",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "fe8478f98fc801db",
@@ -3026,8 +3273,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Iraq Reimposes Vehicle Tariffs, Sparks Price Hikes",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "b3f7dbe1281ed267",
@@ -3041,8 +3289,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "MoneyHash Partners with Wayl to Enter Iraqi Payments Market",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "083d77c8b85a2162",
@@ -3057,7 +3306,8 @@
     "skip_translation": true,
     "title_en": "KBR Wins Majnoon Oilfield Management Contract",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "KBR has secured a major contract from Iraq's Basra Oil Company to manage the Majnoon oil field, one of the world's largest oil fields. This development is significant due to the strategic importance of oil infrastructure in Iraq and the potential impact on global oil markets amidst the ongoing US-Iran conflict. The contract includes the use of AI and digital technologies to optimize production, which could enhance Iraq's oil output and influence regional stability."
   },
   {
     "id": "09f39c090d32b6c9",
@@ -3070,9 +3320,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Chevron Signs Agreements for West Qurna 2, and Additional Fields",
+    "title_en": "Chevron Signs Oil Field Agreements in Iraq Amid Conflict",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Chevron has signed agreements with Iraqi oil companies to manage and develop multiple oil fields, including West Qurna 2, Nasiriyah, and Balad. This development is significant as it involves US interests in Iraq's oil sector during ongoing regional hostilities. The agreements could impact the strategic and economic landscape amid the Iran-US conflict, given the importance of oil infrastructure in the region."
   },
   {
     "id": "fea2f51ef700f0a9",
@@ -3086,8 +3337,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Iraq Deposits Maritime Zones Map; Kuwait Lodges Protest",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "e3035e82afae978e",
@@ -3101,8 +3353,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Maliki Confirms PM Bid; Says Backs Civilian Govt",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "a18abc5ecf05b33d",
@@ -3116,8 +3369,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Central Bank of Iraq Warns of Currency-Related Fraud Schemes",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "9f7da5a69fba1cbe",
@@ -3132,7 +3386,8 @@
     "skip_translation": true,
     "title_en": "Iraqi Banks Restricted from US Dollar Transactions: FULL LIST [Amended]",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The Central Bank of Iraq has updated the list of banks and companies prohibited from dealing in US dollars as part of ongoing banking reforms. This move is significant due to its potential impact on financial transactions linked to US sanctions and the ongoing conflict, particularly concerning Iranian and proxy operations that rely on Iraqi financial channels."
   },
   {
     "id": "4f586bfd9fbc2eda",
@@ -3146,8 +3401,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "IPBL Renews Agreement with Frankfurt School of Finance",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "a125b4d18a04dc9b",
@@ -3160,9 +3416,10 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Iraq wants Increased Business with Russia",
-    "relevant": true,
-    "translated": true
+    "title_en": "Iraq Seeks Enhanced Trade with Russia Amid Ongoing Conflicts",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "1646f7f5af8a55e8",
@@ -3176,8 +3433,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "Iraqi PM Pushes Sovereign Guarantees Initiative",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "e195837c2617bf79",
@@ -3191,8 +3449,9 @@
     "region": "middle_east",
     "skip_translation": true,
     "title_en": "UNDP to Support Iraq in Tackling Hazardous Pollutants",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "c5bc9f45550d3403",
@@ -3205,8 +3464,9 @@
     "language": "en",
     "region": "middle_east",
     "skip_translation": true,
-    "title_en": "Report: Migration, Governance and Local Resilience in Iraq",
-    "relevant": true,
-    "translated": true
+    "title_en": "Report on migration, governance, and resilience in Iraq",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   }
 ]

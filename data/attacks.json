@@ -348,6 +348,106 @@
     "language": "ru",
     "region": "russia",
     "skip_translation": false,
+    "title_en": "UAE Successfully Thwarts Third Wave of Iranian Missiles in a Day",
+    "relevant": true,
+    "summary_en": "The UAE intercepted a third wave of Iranian missiles targeting its territory, marking a significant escalation in hostilities. This incident highlights the ongoing threat under which Gulf states operate amidst the US-Iran conflict. The successful interception underscores the UAE's defensive capabilities but also the persistent risk of missile attacks in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "ccff552bf282dd72",
+    "title_original": "Четыре человека пострадали при падении иранской ракеты в Дубае",
+    "content_original": "Власти Дубая подтвердили информацию о пожаре в курортном районе Палм-Джумейра. По предварительным данным, там упала иранская ракета или БПЛА.",
+    "url": "https://www.kommersant.ru/doc/8477214",
+    "published": "2026-02-28T19:05:32+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Four injured as Iranian missile or drone crashes in Dubai",
+    "relevant": true,
+    "summary_en": "An Iranian missile or drone crashed in the Palm Jumeirah resort area of Dubai, causing a fire and injuring four people. This incident highlights the spillover of the Iran-US conflict into civilian areas and the vulnerability of Gulf cities to missile and drone threats. The strategic significance lies in the potential for further escalation as the UAE may respond to the breach of its territory.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "drone",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "The incident highlights the spillover of the Iran-US conflict into civilian areas and raises the risk of UAE involvement in the conflict."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "3137f5c312ddfa94",
+    "title_original": "В Николаеве произошел взрыв",
+    "content_original": "В Николаевской области действует воздушная тревога",
+    "url": "https://tass.ru/proisshestviya/26591689",
+    "published": "2026-02-28T19:01:56+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosion in Mykolaiv region, air raid alert active",
+    "relevant": true,
+    "summary_en": "An explosion occurred in the Mykolaiv region of Ukraine, with an active air raid alert in place. This is significant as the region has been a hotspot in the ongoing conflict between Ukraine and Russian-backed forces, indicating potential escalation or continued hostilities in the area.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "explosion",
+      "raid",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "location": "Mykolaiv region, Ukraine",
+      "brief": "The incident in Ukraine is unrelated to the Iran–US conflict and does not directly impact the strategic situation between the two countries."
+    },
+    "lat": 46.9405215,
+    "lng": 32.0635358
+  },
+  {
+    "id": "e3e573cd0e62c07a",
+    "title_original": "Удары США, Израиля и Ирана. Спецэфир телеканала РБК",
+    "content_original": "28 февраля США и Израиль объявили о военной операции против Ирана, по стране было нанесено множество ударов.",
+    "url": "https://www.rbc.ru/politics/28/02/2026/69a310339a794761bb1e52b7",
+    "published": "2026-02-28T19:00:18+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
     "title_en": "UAE Successfully Repel Third Wave of Iranian Missiles in One Day",
     "relevant": true,
     "summary_en": "The UAE intercepted and repelled a third wave of Iranian missiles targeting their territory within a single day. This incident highlights the ongoing escalation of hostilities in the Gulf region, with Iran continuing its missile campaign against the UAE. The successful defense by UAE air defenses underscores the critical role of missile defense systems in protecting critical infrastructure and population centers amidst the conflict.",
@@ -2984,6 +3084,42 @@
     "lng": 54.56
   },
   {
+    "id": "8496e7930b094ed5",
+    "title_original": "WARNING: VERY GRAPHIC CONTENT Images of elementary students killed in US-Israeli aggression in the Iranian city of Mi...",
+    "content_original": "WARNING: VERY GRAPHIC CONTENT Images of elementary students killed in US-Israeli aggression in the Iranian city of Minab @PressTV",
+    "url": "https://t.me/presstv/177249",
+    "published": "2026-02-28T16:34:36+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Images of elementary students killed in US-Israeli aggression in Minab, Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article claims that US-Israeli aggression resulted in the deaths of elementary students in Minab, Iran. This suggests a potential escalation in the conflict with allegations of civilian casualties. The strategic significance hinges on the international response to these allegations and potential retaliatory measures by Iran.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, Iran",
+      "brief": "The alleged US-Israeli airstrike resulting in civilian casualties, specifically the deaths of elementary students, represents a significant escalation with potential for direct military confrontation and international condemnation."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
     "id": "6600730c56a8f17d",
     "title_original": "На юге Ирана не менее 60 детей погибли при ударе по школе",
     "content_original": "На юге Ирана не менее 60 детей погибли при ударе по школе",
@@ -3051,6 +3187,35 @@
     },
     "lat": 25.29,
     "lng": 60.64
+  },
+  {
+    "id": "29caf991b2aeade1",
+    "title_original": "Jordan says it intercepted 13 ballistic missiles, downs drones",
+    "content_original": "Jordan says it intercepted 13 ballistic missiles, downs drones Jordan’s military says it intercepted 13 ballistic missiles and brought down several drones as they entered its airspace heading towards Israel. Jordan is one of the US’s closest Middle East allies.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-says-it-intercepted-13-ballistic-missiles-downs-drones",
+    "published": "2026-02-28T16:30:39+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Jordan intercepts 13 ballistic missiles and downs drones targeting Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Jordan's military intercepted 13 ballistic missiles and shot down several drones that were heading towards Israel. This incident highlights the ongoing regional tensions and the potential for escalation as Jordan, a US ally, defends against attacks targeting a neighboring country. The event underscores the broader conflict's impact on regional security and the role of US allies in the Middle East.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "ballistic",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "c5d0adb51ac71edb",
@@ -3167,60 +3332,126 @@
     "skip_translation": false,
     "title_en": "Explosion in Tehran",
     "relevant": true,
-    "summary_en": "An explosion occurred in Tehran, Iran. The context and details of the explosion are not provided, but given the ongoing conflict, it could be related to military or strategic developments. This event is significant as it may impact the current state of hostilities between Iran and the US.",
+    "summary_en": "An explosion occurred in Tehran, Iran. The incident's details and its connection to the ongoing conflict are not yet clear, but it could potentially be linked to US strikes or internal sabotage given the current hostilities. This event is significant as it may indicate an escalation or retaliatory action within Iranian territory.",
     "translated": true,
-    "keyword_matches": 4,
+    "keyword_matches": 3,
     "matched_keywords": [
-      "conflict",
-      "explosion"
+      "explosion",
+      "conflict"
     ],
     "classification": {
       "is_attack": true,
       "category": "other",
       "severity": "medium",
       "parties_involved": [
-        "Iran"
+        "Iran",
+        "potential US involvement (unconfirmed)"
       ],
       "location": "Tehran, Iran",
-      "brief": "An explosion in Tehran, potentially linked to the ongoing conflict, could indicate internal instability or strategic developments affecting the Iran-US hostilities."
+      "brief": "An explosion in Tehran raises concerns of escalation or retaliatory action within Iranian territory amid ongoing hostilities."
     },
     "lat": 35.69,
     "lng": 51.39
   },
   {
-    "id": "6cc16f1863b76743",
-    "title_original": "שאגת הארי: איראן קיבלה מהלומה מישראל וארה\"ב | סיכום חדשות השבת",
-    "content_original": "ישראל וארה\"ב יצאו במתקפה נרחבת באיראן, שכללה מטרות שלטון - כולל הארמון הנשיאותי של עלי חמינאי | דיווחים על כך שהמנהיג העליון האיראני נפגע במתקפה | טראמפ לעם האיראני: \"שעת החירות שלכם הגיע\"",
-    "url": "https://www.maariv.co.il/news/israel/article-1290232",
-    "published": "2026-02-28T16:15:29+00:00",
-    "source_name": "Maariv",
-    "source_category": "state-aligned",
-    "language": "he",
-    "region": "israel",
-    "skip_translation": false,
-    "title_en": "Israel and US Launch Major Attack on Iran, Targeting Leadership Including Khamenei's Palace",
-    "relevant": true,
-    "summary_en": "Israel and the US conducted a large-scale attack on Iran, targeting government sites including Supreme Leader Ali Khamenei's presidential palace. Reports indicate that the Iranian Supreme Leader may have been injured in the attack. This represents a significant escalation in the conflict, directly targeting Iran's top leadership.",
+    "id": "19b3dd0ccefac4c9",
+    "title_original": "IRGC Navy pounds US MST ship with a volley of missiles after Israeli-US aggression  As part of its retaliatory operat...",
+    "content_original": "IRGC Navy pounds US MST ship with a volley of missiles after Israeli-US aggression As part of its retaliatory operations against the latest Israeli-American aggression on the Islamic Republic of Iran, the Islamic Revolution Guards Corps (IRGC) launched a volley of missiles on Saturday at a US Maritime Strike Tomahawk (MST) support vessel. @PressTV",
+    "url": "https://t.me/presstv/177246",
+    "published": "2026-02-28T16:16:20+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC Navy attacks US MST ship with missiles in retaliation for Israeli-US aggression",
     "translated": true,
-    "keyword_matches": 4,
+    "relevant": true,
+    "summary_en": "The IRGC launched a missile attack on a US Maritime Strike Tomahawk support vessel in response to recent Israeli-American actions against Iran. This retaliatory strike by the IRGC Navy signifies an escalation in the conflict and demonstrates Iran's willingness to target US naval assets. The incident underscores the heightened tensions and direct military engagements between Iran and the US in the region.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "missile",
+      "irgc",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC Navy",
+        "United States"
+      ],
+      "location": "Maritime region (specific location not provided)",
+      "brief": "The IRGC Navy's missile attack on a US MST support vessel marks a significant escalation, demonstrating direct military engagement between Iran and the US and posing a direct threat to US naval assets."
+    },
+    "lat": 6.5175177,
+    "lng": 1.2045805
+  },
+  {
+    "id": "33c278f187a22b62",
+    "title_original": "⚠️ ⚠️ ⚠️   Graphic video of the recovery efforts at the Minab girls elementary school in Hormozgan province Rescuers ...",
+    "content_original": "⚠️ ⚠️ ⚠️ Graphic video of the recovery efforts at the Minab girls elementary school in Hormozgan province Rescuers are seen crying in the background as they pull out bodies from under the rubble. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69627",
+    "published": "2026-02-28T16:14:41+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Rescue efforts at Minab girls elementary school in Hormozgan province after an attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Rescue teams are conducting recovery operations at the Minab girls elementary school in Hormozgan province, Iran, following an attack that resulted in casualties. The graphic video shows rescuers in distress as they retrieve bodies from the rubble. This incident highlights the ongoing conflict's impact on civilian infrastructure and innocent lives.",
+    "keyword_matches": 3,
     "matched_keywords": [
       "conflict",
       "attack"
     ],
     "classification": {
       "is_attack": true,
-      "category": "airstrike",
-      "severity": "critical",
+      "category": "other",
+      "severity": "high",
       "parties_involved": [
-        "Israel",
-        "United States",
         "Iran"
       ],
-      "location": "Tehran, Iran",
-      "brief": "The joint US-Israel airstrike targeting Iran's Supreme Leader's palace marks a critical escalation, directly engaging with the Iranian regime's core leadership."
+      "location": "Minab, Hormozgan province, Iran",
+      "brief": "The attack on a civilian elementary school in Iran demonstrates the conflict's impact on non-military infrastructure and civilian casualties, potentially escalating domestic pressure and instability within Iran."
     },
-    "lat": 35.69,
-    "lng": 51.39
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
+    "id": "d3c1bdf76598b6c4",
+    "title_original": "فیلم| خروش مردم خرم‌آباد در محکومیت حمله آمریکایی صهیونیستی",
+    "content_original": "فیلم| خروش مردم خرم‌آباد در محکومیت حمله آمریکایی صهیونیستی",
+    "url": "https://www.irna.ir/news/86089673/%D9%81%DB%8C%D9%84%D9%85-%D8%AE%D8%B1%D9%88%D8%B4-%D9%85%D8%B1%D8%AF%D9%85-%D8%AE%D8%B1%D9%85-%D8%A2%D8%A8%D8%A7%D8%AF-%D8%AF%D8%B1-%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%D8%AD%D9%85%D9%84%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C",
+    "published": "2026-02-28T16:12:56+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "People of Khorramabad Protest US-Israeli Attack",
+    "relevant": true,
+    "summary_en": "Residents of Khorramabad, Iran, are protesting against a US-Israeli attack, demonstrating public condemnation of the military action. This indicates domestic unrest and disapproval of the ongoing conflict involving the US and its allies. The protests may be used by Iranian authorities to bolster anti-US sentiment and justify further military responses.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "a1baa85c5207de4a",
@@ -3257,6 +3488,79 @@
     "lng": 54.56
   },
   {
+    "id": "d068df8a105b50f8",
+    "title_original": "Israeli army kills Palestinian child, wounds another in Gaza despite ceasefire",
+    "content_original": "Israeli artillery fire killed a 15-year-old Palestinian boy and wounded another teenager east of Gaza City on Saturday, marking a fresh breach of the ceasefire in the enclave, Anadolu reports. Medical sources told Anadolu that Abed Raed Radi was killed near Israeli-controlled areas east of the Zeitoun neighborhood. Salman Yahya al-Malalha, 16, was wounded in the same shelling and remains in moderate condition. Earlier in the day, two Palestinians were wounded when Israeli naval forces opened fire on fishing boats off Gaza City and in the Sheikh Ajlin area. A Palestinian woman was also shot in the foot in the Mawasi area west of Khan Younis, the sources added. Israel has killed 618 Palestinians and wounded 1,663 since a ceasefire [&#8230;]",
+    "url": "https://www.middleeastmonitor.com/20260228-israeli-army-kills-palestinian-child-wounds-another-in-gaza-despite-ceasefire/",
+    "published": "2026-02-28T16:09:54+00:00",
+    "source_name": "Middle East Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israeli army kills Palestinian child, wounds another in Gaza despite ceasefire",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli artillery fire killed a 15-year-old Palestinian boy and wounded another teenager in Gaza, breaching the ceasefire. The incident occurred near Israeli-controlled areas east of Zeitoun neighborhood. Additional incidents involved Israeli naval forces firing on fishing boats off Gaza City and in the Sheikh Ajlin area, further escalating tensions.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ceasefire",
+      "wounded",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ceasefire_violation",
+      "severity": "low",
+      "parties_involved": [
+        "Israel",
+        "Palestinians in Gaza"
+      ],
+      "location": "Gaza City, Zeitoun neighborhood, Sheikh Ajlin area",
+      "brief": "The incident, while a ceasefire violation, does not directly involve US or Iranian forces and has limited direct impact on the Iran–US conflict."
+    },
+    "lat": 29.2696663,
+    "lng": 91.2419862
+  },
+  {
+    "id": "a9569eec68731e97",
+    "title_original": "🇮🇱 ❌ 🇮🇷  Death toll at the girls primary school in Minab, Hormozgan province, has risen to 57. 60 other pupils are in...",
+    "content_original": "🇮🇱 ❌ 🇮🇷 Death toll at the girls primary school in Minab, Hormozgan province, has risen to 57. 60 other pupils are injured. — Fars News Agency @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69626",
+    "published": "2026-02-28T16:08:34+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Death toll at girls' primary school in Minab rises to 57",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A missile or drone strike, likely from ongoing US-Iran hostilities, hit a girls' primary school in Minab, Hormozgan province, Iran, resulting in 57 fatalities and 60 injuries. This incident highlights the direct impact of the conflict on civilian infrastructure and raises concerns about escalation and potential war crimes.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "drone",
+      "conflict",
+      "missile",
+      "death",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Minab, Hormozgan province, Iran",
+      "brief": "The strike on a civilian school in Iran, resulting in significant casualties, represents a direct escalation in the US-Iran conflict with severe humanitarian and strategic implications."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
     "id": "5e6278ad4d2a1826",
     "title_original": "אופטימיות זהירה: מסתמן שחמינאי חוסל במכת הפתע על איראן",
     "content_original": "אופטימיות זהירה: מסתמן שחמינאי חוסל במכת הפתע על איראן",
@@ -3289,6 +3593,35 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "586d8051ae71ab44",
+    "title_original": "معاون استاندار لرستان: ایران آغازگر جنگ نیست اما به متجاوز پاسخ قاطع می‌دهد",
+    "content_original": "معاون استاندار لرستان: ایران آغازگر جنگ نیست اما به متجاوز پاسخ قاطع می‌دهد",
+    "url": "https://www.irna.ir/news/86089640/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D9%84%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A2%D8%BA%D8%A7%D8%B2%DA%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D9%86%DB%8C%D8%B3%D8%AA-%D8%A7%D9%85%D8%A7-%D8%A8%D9%87-%D9%85%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D9%BE%D8%A7%D8%B3%D8%AE",
+    "published": "2026-02-28T16:07:40+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iranian Official: Iran is Not the Initiator of War but Will Respond Decisively to Aggression",
+    "relevant": true,
+    "summary_en": "The deputy governor of Lorestan province stated that while Iran did not start the war, it will respond decisively to any aggression. This highlights Iran's defensive posture and its readiness to retaliate against attacks, which is significant given the ongoing conflict with the US and its allies.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "997ced139c5bc1b1",
@@ -3442,25 +3775,25 @@
     "skip_translation": false,
     "title_en": "Over 15 civilians killed in US and Israeli attack on Lamerd, Fars",
     "relevant": true,
-    "summary_en": "US and Israeli forces conducted a joint attack on Lamerd in the Fars province of Iran, resulting in the deaths of more than 15 civilians. This incident highlights the escalation of hostilities and the direct targeting of Iranian territory by US and Israeli forces, raising concerns about civilian casualties and regional stability.",
+    "summary_en": "US and Israeli forces conducted a joint attack on Lamerd in the Fars province of Iran, resulting in the deaths of more than 15 civilians. This incident highlights the escalation of direct military action against Iranian territory and the potential for increased regional tensions.",
     "translated": true,
     "keyword_matches": 4,
     "matched_keywords": [
       "killed",
-      "attack",
-      "deaths"
+      "deaths",
+      "attack"
     ],
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "US",
         "Israel",
         "Iran"
       ],
       "location": "Lamerd, Fars province, Iran",
-      "brief": "The joint US-Israeli airstrike on Iranian territory marks a significant escalation with direct targeting of Iran, causing mass civilian casualties and raising regional tensions."
+      "brief": "The joint US-Israeli airstrike on Iranian territory marks a significant escalation in direct military action against Iran, with potential for heightened regional tensions and further direct confrontations."
     },
     "lat": 32.65,
     "lng": 54.56
