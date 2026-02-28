@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-02-28T21:41:03.205450+00:00",
+  "generated_at": "2026-02-28T22:22:09.786500+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 130,
-    "incident_count_6h": 79,
+    "incident_count_24h": 136,
+    "incident_count_6h": 72,
     "severity_breakdown": {
-      "major": 48,
+      "major": 51,
       "high": 48,
-      "medium": 32,
+      "medium": 35,
       "low": 2
     }
   },
   "source_count": {
-    "attacks_analyzed": 131,
-    "articles_analyzed": 1422,
+    "attacks_analyzed": 137,
+    "articles_analyzed": 1519,
     "regions_covered": [
       "china",
       "gulf",
@@ -30,50 +30,49 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran–US conflict has escalated to a critical level with multiple direct military engagements, including missile strikes, drone attacks, and naval incidents. Recent developments indicate a significant expansion of hostilities across the Middle East, with both Iran and the US demonstrating a willingness to target critical infrastructure and military assets. The situation remains highly volatile, with a potential for further escalation in the coming hours.",
+  "executive_summary": "The Iran–US conflict has escalated significantly with coordinated airstrikes by the US and Israel on Iran, followed by retaliatory missile and drone attacks by Iran on US bases and regional allies. The situation has intensified with reports of mass casualties, direct targeting of civilian infrastructure, and disruption to regional stability. The conflict shows no signs of de-escalation and is poised to expand further.",
   "whats_new": [
-    "US and Israeli airstrikes hit Iranian Navy base in Khorramshahr, destroying a frigate.",
-    "Iran launches missile and suicide drone attacks on Dubai, targeting Western civilians and infrastructure.",
-    "IRGC announces a new wave of missile attacks on US bases in the Middle East.",
-    "Iranian missile strikes on US military bases in Saudi Arabia and Kuwait, demonstrating direct engagement.",
-    "US and Israeli attacks reportedly kill over 20 female volleyball players in Lamerd, Iran, escalating civilian casualties."
+    "US and Israel launched a major coordinated attack on Iran, reportedly targeting multiple provinces and critical infrastructure.",
+    "Iran retaliated with missile strikes on US military bases in Saudi Arabia, Kuwait, and the UAE, causing significant damage and casualties.",
+    "A US radar system in Qatar was destroyed by an Iranian drone strike, marking a direct escalation in the conflict.",
+    "Iran launched missile attacks on a US Navy support ship in the Gulf region, escalating hostilities in the maritime domain.",
+    "Reports indicate a school in southern Iran was struck, resulting in the deaths of at least 85 children, escalating humanitarian concerns."
   ],
   "confirmed_events": [
-    "US and Israel launched coordinated airstrikes on Iran, causing mass casualties and targeting IRGC centers.",
-    "Iran launched ballistic missile attacks on Israel, directly engaging in the conflict and escalating regional tensions.",
-    "IRGC missile strikes hit US military bases in Iraq, Syria, and the Gulf region, posing a direct threat to US forces.",
-    "IRGC Navy attacked US MST ships with missiles in retaliation for Israeli-US aggression, marking direct naval engagement.",
-    "Iranian missile strikes on Dubai airport and other critical infrastructure in the UAE, escalating tensions in the Gulf region."
+    "US and Israel conducted a large-scale airstrike on Iran, causing mass casualties among IRGC forces.",
+    "Iran launched ballistic missiles targeting Israel, with strikes reported in Haifa and the Galilee region.",
+    "Iran struck US military bases in Iraq, Syria, Saudi Arabia, and Kuwait with missiles and drones.",
+    "IRGC Navy attacked a US MST support ship with missiles in the Gulf region.",
+    "A US radar system in Qatar was destroyed by an Iranian drone strike."
   ],
   "unverified_emerging": [
-    "Claims of Supreme Leader Khamenei's death circulated by Israel and the US (Press TV (TG) denies these claims).",
-    "Unconfirmed reports of Iranian missiles hitting Dubai airport (War Monitors (TG)).",
-    "Former US President Trump suggests Ayatollah may be dead (Daily Mail).",
-    "Reports of US using Shahed-based drones for attacks on Iran (South China Morning Post)."
+    "Iranian media denies claims of Supreme Leader Khamenei's death, while US and Israeli sources claim he was killed (Press TV, Jerusalem Post).",
+    "Unconfirmed reports suggest Iranian missiles struck Dubai's Terminal 3, causing an emergency alert (Hindustan Times).",
+    "Former US President Trump claims Iran’s Supreme Leader Khamenei is dead and that many IRGC forces are unwilling to fight (Middle East Eye).",
+    "Syria condemns Iranian attacks on multiple Arab countries, signaling potential fragmentation of regional alliances (QNA General)."
   ],
   "operational_impacts": {
     "people_travel": [
-      "Flights suspended or rerouted across the Middle East, with thousands of cancellations reported.",
-      "Italian defense minister stranded in Dubai due to flight suspensions.",
-      "Increased security measures at major airports, causing delays and disruptions."
+      "Major airlines have canceled flights and issued travel warnings across the Middle East and beyond.",
+      "Flights to and from Dubai, Qatar, and other Gulf hubs are disrupted due to airspace closures and security concerns."
     ],
     "supply_chain": [
-      "Airspace closures in Iran, Iraq, Israel, Syria, Kuwait, and the UAE disrupt regional and international supply chains.",
-      "Maritime traffic in the Gulf and Arabian Sea regions faces heightened risks due to naval incidents."
+      "Maritime traffic in the Gulf and Arabian Sea is experiencing delays and rerouting due to military activity.",
+      "Ports in the Gulf region are on high alert, with potential disruptions to oil and container shipments."
     ],
     "market_macro": [
-      "Oil prices surge due to escalating tensions in the Middle East, with Brent crude reaching multi-year highs.",
-      "Global markets react negatively to the conflict, with stock indices experiencing volatility."
+      "Oil prices have surged due to fears of prolonged conflict and potential disruption to Gulf oil supplies.",
+      "Global financial markets are experiencing volatility as investors react to escalating tensions in the Middle East."
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The conflict is likely to continue escalating, with both Iran and the US demonstrating a willingness to engage in direct military action. The involvement of regional proxies and allies, such as Hezbollah and Gulf states, could further expand the conflict's geographic scope. The situation remains highly unpredictable, with a significant risk of miscalculation or unintended escalation.",
+    "base_case": "The conflict is likely to continue escalating, with further direct military engagements between Iran and the US, including potential strikes on additional strategic targets. Regional allies of both sides may become increasingly involved, exacerbating instability. The risk of miscalculation or unintended escalation remains high, particularly in the maritime domain and near critical infrastructure.",
     "escalation_risks": [
-      "Direct military engagement between US and Iranian naval forces in the Gulf.",
-      "Iran targeting additional US military bases or allied infrastructure in the region.",
-      "Escalation involving regional actors such as Israel, Hezbollah, and Houthi rebels.",
-      "Potential for cyberattacks or asymmetric warfare tactics by Iran."
+      "Direct military engagement between US and Iranian conventional forces.",
+      "Iran targeting additional US bases or allied assets in the Gulf region.",
+      "Escalation of cyberattacks and asymmetric warfare tactics by both sides.",
+      "Increased involvement of proxy groups, such as Hezbollah or Iraqi militias."
     ],
-    "de_escalation_pathways": "De-escalation would require urgent diplomatic intervention, potentially through a UN-led initiative or direct negotiations between the US and Iran. Regional powers such as Qatar, Russia, and France could play a mediating role. A ceasefire agreement, coupled with assurances on Iran's nuclear program and regional security, might offer a path to de-escalation, though the current climate of hostility makes this challenging."
+    "de_escalation_pathways": "De-escalation would require urgent diplomatic intervention, potentially through a UN-led mediation effort or direct negotiations between the US and Iran. Regional powers like Qatar, Jordan, and France could play a role in facilitating dialogue. However, given the current trajectory and lack of trust between the parties, a diplomatic resolution appears unlikely in the short term without significant external pressure or a mutual agreement to pause hostilities."
   }
 }
