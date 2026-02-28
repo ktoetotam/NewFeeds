@@ -5,8 +5,9 @@ Supports both BeautifulSoup (static) and Playwright (JavaScript-rendered) pages.
 
 import hashlib
 import logging
+import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin
 
 import requests
@@ -14,6 +15,8 @@ from bs4 import BeautifulSoup
 from dateutil import parser as dateparser
 
 logger = logging.getLogger(__name__)
+
+MAX_AGE_MINUTES = int(os.environ.get("MAX_NEW_ARTICLE_AGE_MINUTES", "30"))
 
 # Shared headers to mimic a real browser
 HEADERS = {
@@ -41,6 +44,17 @@ def parse_date(date_str: str) -> str:
         return dt.isoformat()
     except (ValueError, TypeError):
         return datetime.now(timezone.utc).isoformat()
+
+
+def _is_fresh(iso_date: str) -> bool:
+    """Return True if *iso_date* is within the last MAX_AGE_MINUTES."""
+    try:
+        dt = dateparser.parse(iso_date)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt >= datetime.now(timezone.utc) - timedelta(minutes=MAX_AGE_MINUTES)
+    except (ValueError, TypeError):
+        return True  # keep on parse failure
 
 
 def clean_text(text: str) -> str:
@@ -134,12 +148,18 @@ def scrape_with_beautifulsoup(source: dict, region: str) -> list[dict]:
             if len(content) > 1000:
                 content = content[:1000] + "..."
 
+            published = parse_date(date_str)
+
+            # ── Skip entries older than MAX_AGE_MINUTES ──
+            if not _is_fresh(published):
+                continue
+
             article = {
                 "id": make_article_id(link),
                 "title_original": title,
                 "content_original": content if content else title,
                 "url": link,
-                "published": parse_date(date_str),
+                "published": published,
                 "source_name": name,
                 "source_category": source.get("category", "unknown"),
                 "language": source.get("language", "unknown"),
@@ -235,12 +255,18 @@ async def scrape_with_playwright(source: dict, region: str) -> list[dict]:
             if len(content) > 1000:
                 content = content[:1000] + "..."
 
+            published = parse_date(date_str)
+
+            # ── Skip entries older than MAX_AGE_MINUTES ──
+            if not _is_fresh(published):
+                continue
+
             article = {
                 "id": make_article_id(link),
                 "title_original": title,
                 "content_original": content if content else title,
                 "url": link,
-                "published": parse_date(date_str),
+                "published": published,
                 "source_name": name,
                 "source_category": source.get("category", "unknown"),
                 "language": source.get("language", "unknown"),

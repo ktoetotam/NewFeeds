@@ -3,13 +3,18 @@ fetch_rss.py — Fetch articles from RSS/Atom feeds.
 Returns a list of raw article dicts ready for translation.
 """
 
+import os
 import feedparser
 import hashlib
 import logging
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from dateutil import parser as dateparser
 
 logger = logging.getLogger(__name__)
+
+# Only accept entries published within this window (minutes).
+# Override with env var MAX_NEW_ARTICLE_AGE_MINUTES.
+MAX_AGE_MINUTES = int(os.environ.get("MAX_NEW_ARTICLE_AGE_MINUTES", "30"))
 
 
 def make_article_id(url: str) -> str:
@@ -28,6 +33,20 @@ def parse_date(date_str: str) -> str:
         return dt.isoformat()
     except (ValueError, TypeError):
         return datetime.now(timezone.utc).isoformat()
+
+
+def _is_fresh(date_str: str, max_age_minutes: int = MAX_AGE_MINUTES) -> bool:
+    """Return True if *date_str* is within the last *max_age_minutes* minutes."""
+    if not date_str:
+        return True  # keep entries with no date (might be recent)
+    try:
+        dt = dateparser.parse(date_str)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        cutoff = datetime.now(timezone.utc) - timedelta(minutes=max_age_minutes)
+        return dt >= cutoff
+    except (ValueError, TypeError):
+        return True  # keep on parse failure
 
 
 def fetch_rss_source(source: dict, region: str) -> list[dict]:
@@ -87,6 +106,10 @@ def fetch_rss_source(source: dict, region: str) -> list[dict]:
                 published = entry.published
             elif hasattr(entry, "updated"):
                 published = entry.updated
+
+            # ── Skip entries older than MAX_AGE_MINUTES ──
+            if not _is_fresh(published):
+                continue
 
             article = {
                 "id": make_article_id(link),

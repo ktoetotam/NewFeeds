@@ -7,13 +7,16 @@ Each channel must be public. Messages are parsed from the server-rendered HTML.
 
 import hashlib
 import logging
+import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import requests
 from bs4 import BeautifulSoup
 
 logger = logging.getLogger(__name__)
+
+MAX_AGE_MINUTES = int(os.environ.get("MAX_NEW_ARTICLE_AGE_MINUTES", "30"))
 
 # Mimic a browser to avoid being blocked
 HEADERS = {
@@ -91,6 +94,18 @@ def fetch_telegram_channel(source: dict, region: str) -> list[dict]:
             published = datetime.now(timezone.utc).isoformat()
             if time_el and time_el.get("datetime"):
                 published = time_el["datetime"]
+
+            # ── Skip messages older than MAX_AGE_MINUTES ──
+            try:
+                from dateutil import parser as _dp
+                pub_dt = _dp.parse(published)
+                if pub_dt.tzinfo is None:
+                    pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+                cutoff = datetime.now(timezone.utc) - timedelta(minutes=MAX_AGE_MINUTES)
+                if pub_dt < cutoff:
+                    continue
+            except (ValueError, TypeError):
+                pass  # keep on parse failure
 
             # First line (or first 120 chars) as title
             first_line = text.split("\n")[0].strip()
