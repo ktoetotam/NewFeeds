@@ -58,7 +58,7 @@ export interface ThreatLevel {
   updated_at: string;
 }
 
-export type RegionKey = "iran" | "russia" | "israel" | "gulf" | "proxies" | "middle_east" | "china" | "turkey" | "south_asia";
+export type RegionKey = "iran" | "russia" | "israel" | "gulf" | "proxies" | "middle_east" | "china" | "turkey" | "south_asia" | "western";
 
 export interface RegionConfig {
   key: RegionKey;
@@ -76,6 +76,7 @@ export const REGIONS: RegionConfig[] = [
   { key: "china", label: "China", color: "#e11d48" },
   { key: "turkey", label: "Turkey", color: "#0ea5e9" },
   { key: "south_asia", label: "South Asia", color: "#8b5cf6" },
+  { key: "western", label: "Western", color: "#6366f1" },
 ];
 
 export const SEVERITY_COLORS: Record<string, string> = {

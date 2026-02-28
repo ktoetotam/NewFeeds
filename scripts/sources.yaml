@@ -52,6 +52,27 @@ regions:
         url: "https://www.alalam.ir/rss"
         category: state
 
+      - name: "Tehran Times"
+        type: rss
+        language: en
+        url: "https://www.tehrantimes.com/rss"
+        category: state
+        skip_translation: true
+
+      - name: "Iran News Daily"
+        type: rss
+        language: en
+        url: "https://irannewsdaily.com/feed/"
+        category: independent
+        skip_translation: true
+
+      - name: "Iran Herald"
+        type: rss
+        language: en
+        url: "https://feeds.iranherald.com/rss/1b76a2b4cf7810bd"
+        category: independent
+        skip_translation: true
+
       # ── Telegram channels ──
 
       - name: "Press TV (TG)"
@@ -598,5 +619,127 @@ regions:
         type: rss
         language: en
         url: "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml"
+        category: independent
+        skip_translation: true
+
+  western:
+    label: "Western"
+    sources:
+      - name: "New York Times – Iran"
+        type: rss
+        language: en
+        url: "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/topic/destination/iran/rss.xml"
+        category: independent
+        skip_translation: true
+
+      - name: "BBC World"
+        type: rss
+        language: en
+        url: "http://news.bbc.co.uk/rss/newsonline_world_edition/feeds.opml"
+        category: independent
+        skip_translation: true
+
+      - name: "HuffPost World News"
+        type: rss
+        language: en
+        url: "https://www.huffpost.com/section/world-news/feed"
+        category: independent
+        skip_translation: true
+
+      - name: "NYT Top Stories"
+        type: rss
+        language: en
+        url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+        category: independent
+        skip_translation: true
+
+      - name: "FOX News"
+        type: rss
+        language: en
+        url: "http://feeds.foxnews.com/foxnews/latest"
+        category: independent
+        skip_translation: true
+
+      - name: "Washington Post World"
+        type: rss
+        language: en
+        url: "http://feeds.washingtonpost.com/rss/world"
+        category: independent
+        skip_translation: true
+
+      - name: "WSJ World News"
+        type: rss
+        language: en
+        url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+        category: independent
+        skip_translation: true
+
+      - name: "LA Times World & Nation"
+        type: rss
+        language: en
+        url: "https://www.latimes.com/world-nation/rss2.0.xml"
+        category: independent
+        skip_translation: true
+
+      - name: "CNN International"
+        type: rss
+        language: en
+        url: "http://rss.cnn.com/rss/edition.rss"
+        category: independent
+        skip_translation: true
+
+      - name: "Yahoo News"
+        type: rss
+        language: en
+        url: "https://news.yahoo.com/rss/mostviewed"
+        category: independent
+        skip_translation: true
+
+      - name: "CNBC Top News"
+        type: rss
+        language: en
+        url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+        category: independent
+        skip_translation: true
+
+      - name: "Politico Playbook"
+        type: rss
+        language: en
+        url: "https://rss.politico.com/playbook.xml"
+        category: independent
+        skip_translation: true
+
+      - name: "BBC News"
+        type: rss
+        language: en
+        url: "http://feeds.bbci.co.uk/news/rss.xml"
+        category: independent
+        skip_translation: true
+
+      - name: "The Guardian World"
+        type: rss
+        language: en
+        url: "https://www.theguardian.com/world/rss"
+        category: independent
+        skip_translation: true
+
+      - name: "Daily Mail"
+        type: rss
+        language: en
+        url: "https://www.dailymail.co.uk/home/index.rss"
+        category: independent
+        skip_translation: true
+
+      - name: "The Independent"
+        type: rss
+        language: en
+        url: "http://www.independent.co.uk/news/uk/rss"
+        category: independent
+        skip_translation: true
+
+      - name: "Daily Express"
+        type: rss
+        language: en
+        url: "http://feeds.feedburner.com/daily-express-news-showbiz"
         category: independent
         skip_translation: true

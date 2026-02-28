@@ -35,6 +35,9 @@ FEEDS_DIR.mkdir(parents=True, exist_ok=True)
 # Max age for articles (days)
 MAX_ARTICLE_AGE_DAYS = 7
 
+# Max age for *new* articles to ingest (minutes)
+MAX_NEW_ARTICLE_AGE_MINUTES = 30
+
 
 def load_sources() -> dict:
     """Load sources configuration from YAML."""
@@ -147,6 +150,31 @@ def prune_old_articles(articles: list[dict], max_days: int = MAX_ARTICLE_AGE_DAY
     return pruned
 
 
+def filter_fresh_articles(
+    articles: list[dict], max_age_minutes: int = MAX_NEW_ARTICLE_AGE_MINUTES
+) -> list[dict]:
+    """Keep only articles published within the last `max_age_minutes` minutes."""
+    cutoff = datetime.now(timezone.utc) - timedelta(minutes=max_age_minutes)
+    fresh = []
+    for article in articles:
+        try:
+            pub_dt = datetime.fromisoformat(article.get("published", ""))
+            if pub_dt.tzinfo is None:
+                pub_dt = pub_dt.replace(tzinfo=timezone.utc)
+            if pub_dt >= cutoff:
+                fresh.append(article)
+        except (ValueError, TypeError):
+            # Keep articles with unparseable dates (might be recent)
+            fresh.append(article)
+
+    dropped = len(articles) - len(fresh)
+    if dropped:
+        logger.info(
+            f"Freshness filter: dropped {dropped}/{len(articles)} articles older than {max_age_minutes} min"
+        )
+    return fresh
+
+
 def run():
     """Main pipeline execution."""
     logger.info("=" * 60)
@@ -185,6 +213,14 @@ def run():
 
     total_fetched = sum(len(v) for v in all_fetched.values())
     logger.info(f"Total fetched: {total_fetched} articles across {len(all_fetched)} regions")
+
+    # ── Step 1b: Drop articles older than 30 minutes ──
+    logger.info(f"── Step 1b: Freshness filter ({MAX_NEW_ARTICLE_AGE_MINUTES} min) ──")
+    for region in list(all_fetched.keys()):
+        all_fetched[region] = filter_fresh_articles(all_fetched[region])
+
+    total_after_fresh = sum(len(v) for v in all_fetched.values())
+    logger.info(f"After freshness filter: {total_after_fresh} articles remain")
 
     # ── Step 2: Deduplicate against existing ──
     logger.info("── Step 2: Deduplicating ──")
