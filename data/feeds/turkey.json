@@ -12,7 +12,8 @@
     "skip_translation": true,
     "title_en": "UN Security Council to hold emergency meeting on Iran amid military escalation",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The UN Security Council will convene an emergency meeting on Saturday afternoon at the request of France, Bahrain, China, Russia, and Colombia to address the ongoing military escalation with Iran. This meeting reflects growing international concern over the conflict's impact on regional and global security. The involvement of multiple Security Council members highlights the complexity and potential for broader geopolitical implications of the situation."
   },
   {
     "id": "36704b2e35744bfe",
@@ -27,7 +28,8 @@
     "skip_translation": true,
     "title_en": "UN chief condemns 'military escalation' in Middle East",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "UN Secretary-General Antonio Guterres has condemned the ongoing military escalation in the Middle East, highlighting the use of force by the US and Israel against Iran and Iran's retaliatory actions across the region. His statement underscores the deteriorating international peace and security due to the ongoing conflict. This condemnation reflects growing global concern over the escalation and its potential for broader regional and international implications."
   },
   {
     "id": "0efe585351308fda",
@@ -40,9 +42,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Russia says it was signaled that Israel had no interest in military confrontation with Iran",
+    "title_en": "Russia says Israel signaled no interest in military confrontation with Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Russia has indicated that Israel communicated a lack of interest in direct military confrontation with Iran, highlighting potential de-escalation efforts amidst ongoing US-Israeli joint attacks on Iranian targets. This development underscores the complex geopolitical dynamics and the role of third parties like Russia in mediating the conflict. The statement gains significance as it may influence Iran's strategic calculus and regional power dynamics."
   },
   {
     "id": "842dc15ef24283c7",
@@ -57,7 +60,8 @@
     "skip_translation": true,
     "title_en": "UN agencies urge restraint after US, Israeli strikes on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "UN human rights, WHO, and Red Cross leaders have called for restraint following US and Israeli strikes on Iran, warning of the potential for civilian casualties and urging a return to dialogue. This highlights international concern over the escalating conflict and its humanitarian impact."
   },
   {
     "id": "3ffeae09c53fb7eb",
@@ -70,9 +74,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Russia condemns ‘unprovoked armed attack’ on Iran by US, Israel",
+    "title_en": "Russia condemns US and Israel for armed attack on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Russia's foreign minister condemned the US and Israel's armed attack on Iran and offered to facilitate a peaceful resolution during a call with his Iranian counterpart. This highlights Russia's diplomatic involvement and potential mediation role in the ongoing US-Iran conflict. The statement underscores the broader geopolitical implications and alliances involved in the conflict."
   },
   {
     "id": "3bcf7f44911e8909",
@@ -87,7 +92,8 @@
     "skip_translation": true,
     "title_en": "Spanish PM Sanchez rejects US-Israeli attacks against Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Spanish Prime Minister Pedro Sanchez has publicly criticized the unilateral military actions taken by the US and Israel against Iran. His statement highlights growing international concern over the escalation of the conflict and potential regional instability. This rejection may impact diplomatic relations and international support for ongoing military operations."
   },
   {
     "id": "e529a6d8163f4472",
@@ -102,7 +108,8 @@
     "skip_translation": true,
     "title_en": "Israeli-US strike on girls’ school in southern Iran kills 40",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli and US forces conducted a missile strike on a girls' school in southern Iran, resulting in at least 40 casualties. This attack is part of ongoing hostilities between the US-Israel alliance and Iran, highlighting the escalation of strikes on civilian infrastructure. The incident could further inflame regional tensions and provoke Iranian retaliation."
   },
   {
     "id": "851285c5ca2cccc3",
@@ -116,8 +123,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Zelenskyy imposes new sanctions on Russia",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "91ee910c700fc561",
@@ -130,9 +138,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "EU calls for maximum restraint, respecting international law following Israel-US attack on Iran",
+    "title_en": "EU calls for maximum restraint after Israel-US attack on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The EU has urged maximum restraint and adherence to international law following a joint Israel-US attack on Iran. This comes as the European Commission's Security College prepares to hold an extraordinary meeting on Monday to discuss the escalating conflict. The call reflects growing international concern over the potential for further escalation in the region."
   },
   {
     "id": "75eee86d9def6fb2",
@@ -147,7 +156,8 @@
     "skip_translation": true,
     "title_en": "US, Israel launch strikes on Iran, begin ‘major combat operations’",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US and Israel have initiated major combat operations against Iran, with explosions reported in Tehran and Israel declaring a state of emergency. Israeli media Channel 12 confirms US involvement in the strikes. This escalation signifies a significant intensification of the conflict, indicating direct military action by both the US and Israel against Iranian targets."
   },
   {
     "id": "74cb4194cb9aeadd",
@@ -162,7 +172,8 @@
     "skip_translation": true,
     "title_en": "Iran strikes US military facility in Bahrain",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran's military targeted a US military facility in Bahrain in retaliation for joint US and Israeli attacks across Iran. This represents an escalation in the conflict as Iran expands its retaliatory strikes to US bases in the Gulf region. The strike signifies Iran's intent to target US assets beyond its immediate neighbors in response to ongoing hostilities."
   },
   {
     "id": "fa4ca544a189c97f",
@@ -177,7 +188,8 @@
     "skip_translation": true,
     "title_en": "Iran fires missiles at Gulf states to counter Israeli, US attacks",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran launched missiles targeting several Gulf Arab states in retaliation for US and Israeli attacks, escalating the conflict in the region. This action demonstrates Iran's willingness to expand the conflict beyond its borders in response to pressure from the US and Israel. The strikes could provoke further military responses from the US and its allies in the Gulf."
   },
   {
     "id": "db28c254053e91ea",
@@ -192,7 +204,8 @@
     "skip_translation": true,
     "title_en": "Iran fires waves of missiles at Israel in retaliation",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran's IRGC launched a wave of missiles targeting Israel in retaliation for previous Israeli attacks. This escalation signifies direct military engagement between the two nations, heightening regional tensions and the risk of broader conflict."
   },
   {
     "id": "46e85bb1c3a8a7ac",
@@ -207,7 +220,8 @@
     "skip_translation": true,
     "title_en": "Netanyahu says US, Israel attacked Iran to ‘remove existential threat’",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli Prime Minister Benjamin Netanyahu stated that the joint attack by the US and Israel on Iran was aimed at eliminating an 'existential threat.' This highlights the strategic coordination between the US and Israel against Iran amidst ongoing hostilities and underscores the high-stakes nature of the conflict."
   },
   {
     "id": "3af186fd309dc565",
@@ -222,7 +236,8 @@
     "skip_translation": true,
     "title_en": "Israel issues nationwide warning after Iran strikes back",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel has issued a nationwide warning for citizens to seek shelter following retaliatory missile strikes by Iran. This escalation comes after coordinated attacks by the U.S. and Israel on Iranian targets. The development signifies a dangerous escalation in the ongoing conflict, with potential for further regional instability."
   },
   {
     "id": "a8b141b8ff2011e6",
@@ -235,9 +250,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Pakistan says airstrikes inside Afghanistan killed more than 331 Afghan forces",
-    "relevant": true,
-    "translated": true
+    "title_en": "Pakistan airstrikes kill over 331 Afghan forces in Afghanistan",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f7bf5190138ad04e",
@@ -252,7 +268,8 @@
     "skip_translation": true,
     "title_en": "US aims to annihilate Iran’s military, topple government: Trump",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Former US President Donald Trump declared that the US has initiated 'major combat operations' against Iran, with the stated goal of annihilating Iran's navy and missile sites. This escalation signals a significant intensification of hostilities and raises concerns about further destabilization in the region."
   },
   {
     "id": "300da3ff7bfbf938",
@@ -265,9 +282,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Iran gives dire warning after Israel, US attacks",
+    "title_en": "Iran threatens retaliation after US and Israel attacks",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran has warned of a 'crushing' response after Israel launched a 'preemptive' attack on Iranian targets. The threat comes amid ongoing hostilities between Iran and the US, with potential escalation in the region. This signifies a dangerous new phase in the conflict with direct threats from Iran against Israel and possibly the US."
   },
   {
     "id": "6a9e8fafbabfbe9c",
@@ -282,7 +300,8 @@
     "skip_translation": true,
     "title_en": "Israel, US launch joint attacks on Iran",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The United States and Israel conducted large-scale strikes across Iran following a call by US President Donald Trump for Iranians to 'take over your government.' This signifies a significant escalation in the conflict, involving direct military action by two major powers against Iranian territory."
   },
   {
     "id": "631a0c882172c1e0",
@@ -295,9 +314,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN chief says 'migration is not a crisis,' urges global cooperation",
-    "relevant": true,
-    "translated": true
+    "title_en": "UN chief calls for global cooperation on migration",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "b65d855c850f53b5",
@@ -310,9 +330,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Award-winning American actress says career blocked for 'speaking out' for Gaza",
-    "relevant": true,
-    "translated": true
+    "title_en": "American actress claims career blocked for supporting Gaza",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "7641281b600ebdab",
@@ -325,9 +346,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Russian drone violates Sweden's airspace near French carrier",
+    "title_en": "Russian drone violates Swedish airspace near French carrier",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "A Russian drone entered Swedish airspace without authorization near Malmö where a French aircraft carrier was docked. This incident highlights ongoing tensions and potential surveillance activities by Russia in the region. The violation is significant due to the presence of a NATO-aligned naval asset and raises concerns about airspace security."
   },
   {
     "id": "ce70f72ac76ec41f",
@@ -341,8 +363,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Trump hints at 'friendly takeover' of Cuba amid deepening crisis",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "76358ad7c3d1b267",
@@ -355,9 +378,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Trump says 'not happy' with Iran as more nuclear talks expected",
+    "title_en": "Trump expresses dissatisfaction with Iran amid ongoing nuclear talks",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "US President Donald Trump stated his dissatisfaction with Iran while indicating that negotiations on Tehran's nuclear program are expected to continue. This comes amid ongoing tensions in the armed conflict, highlighting the dual-track approach of potential diplomacy alongside military actions."
   },
   {
     "id": "6edf93e990d1f745",
@@ -370,9 +394,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Bill Clinton tells US Congress he knew nothing of Epstein's crimes",
-    "relevant": true,
-    "translated": true
+    "title_en": "Bill Clinton denies knowledge of Epstein's crimes before Congress",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "53866defbf195d38",
@@ -386,8 +411,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "World’s central banks brace for intense policy decisions in March",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f895d7e14cf1ca19",
@@ -401,8 +427,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Majority of Americans back Palestinian statehood: Survey",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "75d9574fcfd828ff",
@@ -416,8 +443,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Cease-fire agreed near Zaporizhzhia for power repairs: IAEA",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "788e61db6120176e",
@@ -430,9 +458,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Top Israeli court blocks gov't bid to ban aid groups in Gaza",
+    "title_en": "Israeli Supreme Court blocks government bid to ban aid groups in Gaza",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israel's Supreme Court has halted a government order that aimed to prevent dozens of international aid organizations from operating in the Gaza Strip and other Palestinian areas. This decision has significant implications for humanitarian efforts and the stability of the region amidst ongoing conflicts. The court's intervention reflects internal tensions within Israel regarding its policies towards Gaza and international involvement."
   },
   {
     "id": "cc8750e6ff0f0b36",
@@ -447,7 +476,8 @@
     "skip_translation": true,
     "title_en": "Urgent action needed as Gaza faces catastrophic humanitarian crisis: UN",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The UN Human Rights Council has called for urgent action to address the catastrophic humanitarian crisis in Gaza. This is significant as it highlights the escalating impact of the ongoing conflict on civilians in the region. The crisis could further complicate international efforts to manage the conflict and may prompt additional humanitarian interventions."
   },
   {
     "id": "755aefe397b4112d",
@@ -461,8 +491,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "South Sudan conflict fuels humanitarian emergency for survivors",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "5da4e15ef96a0f95",
@@ -476,8 +507,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Kazakhstan awards Serbian leader top state order for strengthening bilateral ties",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "70ed1174423b29b5",
@@ -490,9 +522,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Russia calls on Afghanistan, Pakistan to return to negotiating table amid border clashes",
-    "relevant": true,
-    "translated": true
+    "title_en": "Russia calls for Afghanistan, Pakistan to return to negotiating table amid border clashes",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "b5003b0f1e0f3f9d",
@@ -507,7 +540,8 @@
     "skip_translation": true,
     "title_en": "Israeli strikes kill 5 people in Gaza despite ceasefire",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli forces conducted strikes in Gaza, resulting in the deaths of five people, despite an ongoing U.S.-brokered ceasefire. This escalation in violence threatens the fragile peace agreement and highlights ongoing tensions in the region. The incident could provoke further retaliatory actions from Palestinian militant groups."
   },
   {
     "id": "4b4168d82234c57b",
@@ -520,9 +554,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Kenya arrests man behind scheme sending citizens to fight in Ukraine",
-    "relevant": true,
-    "translated": true
+    "title_en": "Kenya arrests man for recruiting citizens to fight in Ukraine",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "5f9d318455e5004f",
@@ -536,8 +571,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Cartel violence, politics shadow search for Mexico’s disappeared",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "e738b8d717d56e89",
@@ -550,9 +586,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN says civilian killings in Sudan more than double in 2025",
-    "relevant": true,
-    "translated": true
+    "title_en": "UN reports surge in civilian killings in Sudan in 2025",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "d0b4ce8156289497",
@@ -565,9 +602,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Pakistan pounds Kabul, declares ‘open war’ on Taliban govt",
+    "title_en": "Pakistan launches airstrikes on Kabul and Taliban strongholds, escalating tensions to 'open war'",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Pakistan conducted airstrikes on Kabul and Taliban strongholds in Afghanistan, leading to intense cross-border fighting. This escalation signifies a dangerous deterioration in Pakistan-Afghanistan relations, with potential regional security implications. The conflict could draw in other regional actors and further destabilize Afghanistan."
   },
   {
     "id": "e1e73e09d0ac63b6",
@@ -581,8 +619,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Labour loses safe Manchester seat to Greens in blow to Starmer",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "6c4a270549afd735",
@@ -595,9 +634,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN secretary-general calls for restraint amid cross-border clashes between Afghanistan and Pakistan",
-    "relevant": true,
-    "translated": true
+    "title_en": "UN chief calls for restraint amid Afghanistan-Pakistan border clashes",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "2f07f4e3d1f285c1",
@@ -612,7 +652,8 @@
     "skip_translation": true,
     "title_en": "Morning Briefing: Feb. 27, 2026",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "{\"h\":\"US Navy intercepts multiple Houthi missiles and drones in the Red Sea\",\"r\":true,\"s\":\"The US Navy intercepted several Houthi missiles and drones targeting its ships in the Red Sea. This incident highlights the ongoing threat under which US naval forces are operating in the region and the persistent efforts by Houthi forces to disrupt maritime traffic in the strategically vital waterway.\"}\n\n{\""
   },
   {
     "id": "7d698b9f8c081023",
@@ -625,9 +666,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Next Russia meeting soon, Zelenskyy says as US-Ukraine talks end",
-    "relevant": true,
-    "translated": true
+    "title_en": "Zelenskyy Announces Upcoming Russia Talks as US-Ukraine Discussions Conclude",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "4b54f07016378c92",
@@ -641,8 +683,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Pakistan, Afghanistan trade heavy cross-border strikes amid tensions",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "bbc31eda584b2b94",
@@ -657,7 +700,8 @@
     "skip_translation": true,
     "title_en": "3rd round of Iran-US indirect nuclear talks in Geneva concludes",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The third round of indirect nuclear talks between Iran and the US concluded in Geneva with Oman's foreign minister reporting 'significant progress.' This development is significant as it indicates potential diplomatic efforts to de-escalate tensions amidst the ongoing armed conflict, though its immediate impact on the military situation remains uncertain."
   },
   {
     "id": "1f53775898ff0ed6",
@@ -670,9 +714,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Russian, French embassies in Ankara target each other over Ukraine war on social media",
-    "relevant": true,
-    "translated": true
+    "title_en": "Russian, French embassies in Ankara clash on social media over Ukraine war",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "5ff1769d49324251",
@@ -685,9 +730,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "US, Iran make 'progress' in talks as Oman says negotiations to resume soon",
+    "title_en": "US and Iran make progress in Geneva talks, Oman announces resumption soon",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The US and Iran have reportedly made 'significant progress' in indirect negotiations held in Geneva, with Oman stating that talks will resume shortly. This development could signal a potential de-escalation in the ongoing conflict, as diplomatic efforts continue amid active hostilities."
   },
   {
     "id": "dc0946313644cc4a",
@@ -702,7 +748,8 @@
     "skip_translation": true,
     "title_en": "Israeli influence over German defense grows",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Germany has acquired the BlueWhale submarine, developed in collaboration with Israel Aerospace Industries, and has purchased $6.7 billion worth of Israeli Arrow 3 missiles. This signifies a deepening military partnership between Germany and Israel, potentially impacting regional security dynamics in Europe and the Middle East."
   },
   {
     "id": "691f08287284798e",
@@ -715,9 +762,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Muslim community building targeted in deliberate arson attack in UK",
-    "relevant": true,
-    "translated": true
+    "title_en": "Muslim community building targeted in arson attack in UK",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "59315bda9a4f77c3",
@@ -730,9 +778,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "North Korea warns it could 'completely destroy' South if threatened",
-    "relevant": true,
-    "translated": true
+    "title_en": "North Korea threatens to 'completely destroy' South Korea if threatened",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "c0389629267ba4a8",
@@ -745,9 +794,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Family of UN rapporteur critical of Israel sues Trump admin over sanctions",
-    "relevant": true,
-    "translated": true
+    "title_en": "Family of UN rapporteur sues Trump admin over sanctions",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "959c2c68cb09d5e9",
@@ -761,8 +811,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Hillary Clinton questioned in closed-door House probe on Epstein",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "a88aeb7bdf4de891",
@@ -776,8 +827,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "UN warns Israel’s actions aim to force demographic change in Palestine",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "2772eeb2509ed4ba",
@@ -791,8 +843,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "German court bars intelligence agency from labeling AfD as extremist",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "c9aadb0ed2402600",
@@ -806,8 +859,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Denmark sets election as Frederiksen’s Greenland stance boosts support",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "83e4257363ea9760",
@@ -820,9 +874,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Gaza ‘safe zone’ turns deadly as Palestinians hit by Israeli bullets",
+    "title_en": "Gaza 'safe zone' turns deadly as Palestinians hit by Israeli bullets",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Israeli forces shot and killed Palestinians, including Basma Banat, in a 'safe zone' in Gaza. This incident occurred during iftar, a significant religious meal, highlighting the ongoing conflict and its impact on civilians. The event underscores the volatility and dangers faced by civilians in conflict zones, despite designated safe areas."
   },
   {
     "id": "d4dd37e7120628f6",
@@ -835,9 +890,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Man critically hurt in illegal Israeli settlers' attack in West Bank",
+    "title_en": "Palestinian man critically injured in West Bank settler attack",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "An illegal Israeli settler attack in the West Bank resulted in a Palestinian man being critically injured near Hebron. This incident highlights ongoing tensions and violence in the occupied territories, which could further inflame the broader regional conflict involving Israel and Palestinian groups."
   },
   {
     "id": "b9782dbebf64d3f3",
@@ -851,8 +907,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Drone strikes rock eastern DRC in battle over key mining hub",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "54145349483254eb",
@@ -866,8 +923,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Disinformation floods Mexico after cartel leader killed",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "f41d98908b5d3908",
@@ -880,9 +938,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Images suggest Russia deployed 9M729 in Ukraine",
+    "title_en": "Russia deploys 9M729 cruise missile in Ukraine strikes",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Russia has reportedly used the 9M729 cruise missile in strikes on Ukraine, as evidenced by debris from the attacks. This development is significant as the missile's deployment was a factor in the U.S. withdrawal from the Intermediate-Range Nuclear Forces Treaty. The use of this missile could escalate tensions between Russia and NATO, given its strategic implications."
   },
   {
     "id": "3227a4ec198e48a0",
@@ -895,9 +954,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Oman says it is committed to supporting US-Iran dialogue on nuclear issue",
+    "title_en": "Oman committed to supporting US-Iran dialogue on nuclear issue",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Oman has announced its commitment to facilitating dialogue between the US and Iran regarding the nuclear issue. The Omani Foreign Ministry indicated that discussions included examining Iranian viewpoints and proposals aimed at securing an agreement. This development is significant as Oman acts as a key intermediary in the region, potentially influencing de-escalation efforts amidst the ongoing US-Iran conflict."
   },
   {
     "id": "022e137fc87c08b3",
@@ -910,9 +970,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "War‑battered Iran packs missile threat that keeps US on high alert",
+    "title_en": "Iran's missile capabilities keep US forces on high alert amid escalating tensions",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "The article highlights Iran's continued missile threat as a significant concern for US forces in the Middle East, which are on high alert due to the potential for Iranian strikes targeting US interests. This ongoing threat contributes to the escalating tensions between Iran and the US, as both sides prepare for potential military engagements."
   },
   {
     "id": "809f62ad02fedbfb",
@@ -927,7 +988,8 @@
     "skip_translation": true,
     "title_en": "Morning Briefing: Feb. 26, 2026",
     "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "{\"h\":\"US Navy intercepts multiple Houthi missiles and drones in the Red Sea\",\"r\":true,\"s\":\"The US Navy intercepted several Houthi-launched missiles and drones targeting US naval assets in the Red Sea. This incident highlights the ongoing threat posed by Houthi forces to international maritime traffic and US military operations in the region, underscoring the complexity of the conflict's naval dime"
   },
   {
     "id": "760a7909d13ea84c",
@@ -941,8 +1003,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "UN, US officials hold 3rd co-chaired meeting on Western Sahara in Washington",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "dbb83de1a2f71bb7",
@@ -955,9 +1018,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Algeria confirms 1st visit by Pope Leo to country in April",
-    "relevant": true,
-    "translated": true
+    "title_en": "Algeria confirms first visit by Pope Leo in April",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "baea2cd3b72d991a",
@@ -971,8 +1035,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Iceland to hold referendum on reviving EU accession talks",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "c0e8f352c8740e57",
@@ -986,8 +1051,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Ukraine expects talks with US, Russia to pave way for leaders’ meeting",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "8cf6dd237f2dc0e8",
@@ -1000,9 +1066,10 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Modi hails ties with Israel in 1st address by an Indian premier to Knesset",
-    "relevant": true,
-    "translated": true
+    "title_en": "Modi addresses Knesset, praises India-Israel ties and Trump's Gaza peace plan",
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "ff1afbd9fe4d0bed",
@@ -1016,8 +1083,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Pope announces extensive international travel plans",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "a0fa01480928dbaa",
@@ -1031,8 +1099,9 @@
     "region": "turkey",
     "skip_translation": true,
     "title_en": "Canada warns OpenAI to boost safety or face gov't action",
-    "relevant": true,
-    "translated": true
+    "relevant": false,
+    "translated": true,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
   },
   {
     "id": "d88ab0b6477c46a9",
@@ -1045,83 +1114,9 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Iran denies Trump’s claim of developing missiles capable of striking US",
+    "title_en": "Iran denies developing missiles capable of striking US",
     "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "4616caf566e128e9",
-    "title_original": "Military plane crashes in Kazakhstan",
-    "content_original": "Defense Ministry says crew ejected safely",
-    "url": "https://www.aa.com.tr/en/world/military-plane-crashes-in-kazakhstan/3839741",
-    "published": "2026-02-25T13:37:39+03:00",
-    "source_name": "Anadolu Agency",
-    "source_category": "state",
-    "language": "en",
-    "region": "turkey",
-    "skip_translation": true,
-    "title_en": "Military plane crashes in Kazakhstan",
-    "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "3ad6ffb8550c01d9",
-    "title_original": "Iran dismisses US, Israeli 'disinformation' about its nuclear program, ballistic missiles as 'repetition of big lies'",
-    "content_original": "Iranian remarks come after US president's 2026 State of Union speech during which he vowed not to let Tehran acquire nuclear weapons under any circumstances",
-    "url": "https://www.aa.com.tr/en/world/iran-dismisses-us-israeli-disinformation-about-its-nuclear-program-ballistic-missiles-as-repetition-of-big-lies/3839534",
-    "published": "2026-02-25T11:31:35+03:00",
-    "source_name": "Anadolu Agency",
-    "source_category": "state",
-    "language": "en",
-    "region": "turkey",
-    "skip_translation": true,
-    "title_en": "Iran dismisses US, Israeli 'disinformation' about its nuclear program, ballistic missiles as 'repetition of big lies'",
-    "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "524c54deb50e79bb",
-    "title_original": "Morning Briefing: Feb. 25, 2026",
-    "content_original": "Anadolu’s recap of top stories from around the globe",
-    "url": "https://www.aa.com.tr/en/world/morning-briefing-feb-25-2026/3839361",
-    "published": "2026-02-25T08:14:48+03:00",
-    "source_name": "Anadolu Agency",
-    "source_category": "state",
-    "language": "en",
-    "region": "turkey",
-    "skip_translation": true,
-    "title_en": "Morning Briefing: Feb. 25, 2026",
-    "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "92b716eaf9e44074",
-    "title_original": "Indonesian president arrives in Amman to meet Jordan’s king",
-    "content_original": "This is 2nd visit by Indonesian president to Jordan in less than a year",
-    "url": "https://www.aa.com.tr/en/world/indonesian-president-arrives-in-amman-to-meet-jordan-s-king/3839285",
-    "published": "2026-02-24T23:43:20+03:00",
-    "source_name": "Anadolu Agency",
-    "source_category": "state",
-    "language": "en",
-    "region": "turkey",
-    "skip_translation": true,
-    "title_en": "Indonesian president arrives in Amman to meet Jordan’s king",
-    "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "58294d87ccf3e1e8",
-    "title_original": "G7 leaders reaffirm support for Ukraine amid ongoing war",
-    "content_original": "'We express our continued support for President Trump’s efforts to achieve these objectives by initiating a peace process,' says statement",
-    "url": "https://www.aa.com.tr/en/world/g7-leaders-reaffirm-support-for-ukraine-amid-ongoing-war/3839213",
-    "published": "2026-02-24T21:50:09+03:00",
-    "source_name": "Anadolu Agency",
-    "source_category": "state",
-    "language": "en",
-    "region": "turkey",
-    "skip_translation": true,
-    "title_en": "G7 leaders reaffirm support for Ukraine amid ongoing war",
-    "relevant": true,
-    "translated": true
+    "translated": true,
+    "summary_en": "Iran's Foreign Minister stated that Iran has 'deliberately limited' its missile range to 2,000 kilometers, refuting claims by former US President Trump about Iran developing missiles that could reach the US. This denial comes amid heightened tensions in the ongoing conflict, with implications for Iran's strategic missile capabilities and regional deterrence."
   }
 ]
