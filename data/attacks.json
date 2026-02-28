@@ -1,5 +1,136 @@
 [
   {
+    "id": "4cb8d83dd17f0865",
+    "title_original": "Израиль заявил о массированном ударе по стратегической обороне Ирана",
+    "content_original": "Один из ударов был направлен по передовой системе ПВО СА-65",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590553",
+    "published": "2026-02-28T17:22:35+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Claims Massive Strike on Iran's Strategic Defenses",
+    "relevant": true,
+    "summary_en": "Israel reportedly launched a massive strike targeting Iran's strategic defenses, including the advanced SA-65 air defense system. This operation signifies a significant escalation in the ongoing conflict between Israel and Iran, potentially weakening Iran's air defense capabilities. The strike's success could have major implications for future military operations in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "air defense",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel's strike on Iran's strategic defenses, including the SA-65 system, represents a significant escalation with potential implications for regional military operations and Iran's air defense capabilities."
+    }
+  },
+  {
+    "id": "d26c26dd8bf96b45",
+    "title_original": "Иран сообщил о возможной потере нескольких командиров при ударах США",
+    "content_original": "Иран сообщил о возможной потере нескольких командиров при ударах США",
+    "url": "https://ria.ru/20260228/iran-2077471052.html",
+    "published": "2026-02-28T17:19:23+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Reports Potential Loss of Several Commanders in US Strikes",
+    "relevant": true,
+    "summary_en": "Iran has acknowledged the potential loss of multiple commanders as a result of US strikes, indicating significant damage to IRGC leadership. This development highlights the ongoing intensity of the conflict and the direct targeting of Iran's military leadership by US forces. The loss of key commanders could impact Iran's operational capabilities and decision-making in the conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The US strikes resulting in the potential loss of multiple IRGC commanders signify a direct escalation targeting Iran's military leadership, impacting operational capabilities."
+    }
+  },
+  {
+    "id": "e2c161338ba67f40",
+    "title_original": "Военная операция США и Израиля против Ирана: что дальше?",
+    "content_original": "Военная операция США и Израиля против Ирана: что дальше?",
+    "url": "https://ria.ru/20260228/iran-2077470232.html",
+    "published": "2026-02-28T17:16:20+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Military Operation by US and Israel Against Iran: What's Next?",
+    "relevant": true,
+    "summary_en": "The article discusses ongoing military operations by the US and Israel targeting Iran, indicating continued escalation in the conflict. It likely covers strategic implications, potential future actions, and the broader geopolitical context. This is highly relevant given the active hostilities and the involvement of multiple key parties.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The article highlights ongoing joint US-Israeli military operations against Iran, signaling a significant escalation in the conflict with potential for broader regional implications."
+    }
+  },
+  {
+    "id": "9d109f590b8911c4",
+    "title_original": "Арагчи заявил, что Иран, \"возможно, потерял несколько командиров\" после ударов",
+    "content_original": "Арагчи заявил, что Иран, \"возможно, потерял несколько командиров\" после ударов",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590485",
+    "published": "2026-02-28T17:14:10+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran 'Possibly Lost Several Commanders' After Strikes: Araghchi",
+    "relevant": true,
+    "summary_en": "Iranian official Araghchi acknowledged that Iran may have lost several commanders following recent strikes, indicating potential significant casualties within the IRGC leadership. This development highlights the impact of ongoing military operations on Iran's command structure and signals potential disruption in their military operations. The statement underscores the escalating conflict and its toll on Iran's military leadership.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The strikes resulting in the potential loss of several IRGC commanders indicate significant disruption to Iran's military leadership and command structure, escalating the conflict."
+    }
+  },
+  {
     "id": "ca8e48621b467b66",
     "title_original": "Fars: при ударе по школе на юге Ирана погибли около 70 человек",
     "content_original": "Fars: при ударе по школе на юге Ирана погибли около 70 человек",
@@ -941,6 +1072,70 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct drone strikes against Israel signal an escalation in regional tensions and demonstrate Iran's evolving use of unmanned aerial capabilities in military operations."
+    }
+  },
+  {
+    "id": "590e05d3defa8bd6",
+    "title_original": "🚨  ناو پشتیبانی رزمیMST آمریکا مورد هدف موشک های سپاه پاسداران انقلاب اسلامی قرار گرفت ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
+    "content_original": "🚨 ناو پشتیبانی رزمیMST آمریکا مورد هدف موشک های سپاه پاسداران انقلاب اسلامی قرار گرفت ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44835",
+    "published": "2026-02-28T14:19:01+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US Navy Support Ship Targeted by IRGC Missiles",
+    "relevant": true,
+    "summary_en": "The IRGC has launched missiles targeting a US Navy support ship, MST, in an escalation of hostilities. This incident occurred in an unspecified location, likely in the Gulf or Arabian Sea region. The attack signifies a direct engagement with US naval forces and raises the risk of further military escalation in the maritime domain.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "critical",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Gulf or Arabian Sea region",
+      "brief": "The IRGC's direct missile attack on a US Navy support ship marks a significant escalation in the maritime domain, posing a direct threat to US forces and increasing the risk of broader military confrontation."
+    }
+  },
+  {
+    "id": "29928b7521dcde80",
+    "title_original": "ایندیا تودی: ایران در حالی هدف قرار گرفت که مذاکرات شاهد پیشرفتی چشمگیر بود",
+    "content_original": "ایندیا تودی: ایران در حالی هدف قرار گرفت که مذاکرات شاهد پیشرفتی چشمگیر بود",
+    "url": "https://www.irna.ir/news/86089400/%D8%A7%DB%8C%D9%86%D8%AF%DB%8C%D8%A7-%D8%AA%D9%88%D8%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84%DB%8C-%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D8%A7%D8%B1-%DA%AF%D8%B1%D9%81%D8%AA-%DA%A9%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%B4%D8%A7%D9%87%D8%AF-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%DB%8C",
+    "published": "2026-02-28T14:14:34+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iran was targeted while negotiations showed significant progress",
+    "relevant": true,
+    "summary_en": "The article suggests that Iran was attacked despite ongoing negotiations making significant progress. This highlights the continued escalation of the conflict despite diplomatic efforts, indicating that military actions are proceeding independently of negotiation outcomes.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Unknown attacker (likely US or allied forces)"
+      ],
+      "location": "Iran",
+      "brief": "The attack on Iran during significant progress in negotiations underscores the persistent escalation and disconnect between military actions and diplomatic efforts in the Iran–US conflict."
     }
   },
   {
