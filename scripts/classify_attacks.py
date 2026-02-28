@@ -150,6 +150,11 @@ Severity guidelines:
             text = text.rsplit("```", 1)[0]
 
         classification = json.loads(text)
+
+        # Normalize: LLM sometimes returns "critical" instead of "major"
+        if classification.get("severity") == "critical":
+            classification["severity"] = "major"
+
         return classification
 
     except (json.JSONDecodeError, requests.RequestException) as e:

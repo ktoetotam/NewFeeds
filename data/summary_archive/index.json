@@ -2,7 +2,7 @@
   {
     "filename": "2026-02-28T15-24-17.865702_plus_00-00.json",
     "generated_at": "2026-02-28T15:24:17.865702+00:00",
-    "threat_label": "CRITICAL",
+    "threat_label": "MAJOR",
     "threat_level": 1,
     "trend": "escalating",
     "incident_count_24h": 112,
@@ -11,7 +11,7 @@
   {
     "filename": "2026-02-28T15-08-30.493785_plus_00-00.json",
     "generated_at": "2026-02-28T15:08:30.493785+00:00",
-    "threat_label": "CRITICAL",
+    "threat_label": "MAJOR",
     "threat_level": 1,
     "trend": "escalating",
     "incident_count_24h": 103,
@@ -20,7 +20,7 @@
   {
     "filename": "2026-02-28T14-47-51.495405_plus_00-00.json",
     "generated_at": "2026-02-28T14:47:51.495405+00:00",
-    "threat_label": "CRITICAL",
+    "threat_label": "MAJOR",
     "threat_level": 1,
     "trend": "escalating",
     "incident_count_24h": 39,

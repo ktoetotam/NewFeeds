@@ -399,7 +399,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us|ballistic_missile|drone_strike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States"
@@ -433,7 +433,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "US",
         "Israel",
@@ -540,7 +540,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel"
@@ -574,7 +574,7 @@
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel"
@@ -676,7 +676,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "United States",
         "Iran"
@@ -712,7 +712,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "unknown",
         "Iran"
@@ -750,7 +750,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "US or Israel (suspected)"
@@ -958,7 +958,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States",
@@ -992,7 +992,7 @@
     "classification": {
       "is_attack": true,
       "category": "escalation",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "United States",
         "Iran"
@@ -1690,7 +1690,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us|ballistic_missile|drone_strike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States"
@@ -1829,7 +1829,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States"
@@ -2003,7 +2003,7 @@
     "classification": {
       "is_attack": true,
       "category": "other",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran"
       ],
@@ -2069,7 +2069,7 @@
     "classification": {
       "is_attack": true,
       "category": "us_strike_on_iran",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "United States",
         "Iran",
@@ -2141,7 +2141,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran"
       ],
@@ -2381,7 +2381,7 @@
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel"
@@ -2909,7 +2909,7 @@
     "classification": {
       "is_attack": true,
       "category": "other",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Unknown attackers"
@@ -3008,7 +3008,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "unknown"
       ],
@@ -3347,7 +3347,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Unspecified Actors"
@@ -3411,7 +3411,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States",
@@ -3514,7 +3514,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States",
@@ -3618,7 +3618,7 @@
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel"
@@ -3685,7 +3685,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States",
@@ -3827,7 +3827,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "US",
         "Israel",
@@ -4000,7 +4000,7 @@
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel"
@@ -4033,7 +4033,7 @@
     "classification": {
       "is_attack": true,
       "category": "drone_strike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "United States",
         "Iran"
@@ -4068,7 +4068,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States"
@@ -4133,7 +4133,7 @@
     "classification": {
       "is_attack": true,
       "category": "naval_incident",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "IRGC Navy",
@@ -4205,7 +4205,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States",
@@ -4310,7 +4310,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "US",
         "Israel",
@@ -4345,7 +4345,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Iranian-backed proxies",
@@ -4517,7 +4517,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "United States",
         "Iran"
@@ -4552,7 +4552,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States",
@@ -4586,7 +4586,7 @@
     "classification": {
       "is_attack": true,
       "category": "naval_incident",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "US",
         "Iran"
@@ -4620,7 +4620,7 @@
     "classification": {
       "is_attack": true,
       "category": "naval_incident",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "United States",
         "Iran",
@@ -4724,7 +4724,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "US",
         "Iran",
@@ -4758,7 +4758,7 @@
     "classification": {
       "is_attack": true,
       "category": "irgc_action",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "IRGC"
@@ -4792,7 +4792,7 @@
     "classification": {
       "is_attack": true,
       "category": "assassination",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Israel",
         "Iran",
@@ -5039,7 +5039,7 @@
     "classification": {
       "is_attack": true,
       "category": "other",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran"
       ],
@@ -5290,7 +5290,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "United States",
@@ -5363,7 +5363,7 @@
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel",
@@ -5540,7 +5540,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Israel",
         "Iran"
@@ -5603,7 +5603,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "IRGC",
@@ -5640,7 +5640,7 @@
     "classification": {
       "is_attack": true,
       "category": "us_strike_on_iran",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "United States",
         "Iran"
@@ -5785,7 +5785,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Qatar",
@@ -5894,7 +5894,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Israel",
         "United States",
@@ -5928,7 +5928,7 @@
     "classification": {
       "is_attack": true,
       "category": "iran_strike_on_us",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel",
@@ -6005,7 +6005,7 @@
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel",
@@ -6043,7 +6043,7 @@
     "classification": {
       "is_attack": true,
       "category": "ballistic_missile",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "Iran",
         "Israel"
@@ -6147,7 +6147,7 @@
     "classification": {
       "is_attack": true,
       "category": "airstrike",
-      "severity": "critical",
+      "severity": "major",
       "parties_involved": [
         "US",
         "Israel",
