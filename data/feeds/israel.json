@@ -1,5 +1,53 @@
 [
   {
+    "id": "e6ea3422c2027cd5",
+    "title_original": "ימים היסטוריים",
+    "content_original": "האתגר האמריקאי כרגע מול איראן הוא לא רק לנהל מבצע, אלא לעצב מהפיכה. זה החזון המתחייב מגודל השעה: לפעול לאורך זמן, ללא הפסקה, בקנה מידה חסר תקדים, על מנת לגרום להפלת המשטר. זה המענה הראוי היחיד לאיום האיראני שמתפתח בעקביות מאז 1979",
+    "url": "https://www.ynet.co.il/news/article/bymvsref11e",
+    "published": "2026-02-28T13:17:51+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "US Faces Challenge of Regime Change in Iran",
+    "relevant": true,
+    "summary_en": "The article discusses the US's strategic challenge in the ongoing conflict with Iran, emphasizing the need for long-term, unprecedented operations aimed at regime change. This reflects a response to the persistent threat posed by Iran since 1979, highlighting the evolving military and political dimensions of the conflict.",
+    "translated": true
+  },
+  {
+    "id": "07837da33a1329d2",
+    "title_original": "רסיס חדר בקומה 20 ועצר ב-14: פצועים קל ונזקים לרכוש במטחים מאיראן | תיעוד",
+    "content_original": "\"קרה לנו נס גדול\", העיד תושב הבניין שנפגע בטירת הכרמל, שם נפצע אדם אחד קל. תושב אום אל-פחם נפגע מנפילת רסיס בחצר ביתו, פצועים קל ביישוב נוסף בצפון. דיווחים על נפילות ורסיסים בירושלים, בית שמש, כפר מנדא, כפר הרי\"ף ועוד. תושבי ישראל מתבקשים לשהות בקרבת מרחבים מוגנים",
+    "url": "https://www.ynet.co.il/news/article/rkcaxbxtbg",
+    "published": "2026-02-28T12:41:57+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian missile attack causes damage and injuries in Israel",
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting multiple locations in Israel, including Tirat Carmel, Umm al-Fahm, and other northern towns, resulting in minor injuries and property damage. The attacks also affected areas like Jerusalem and Beit Shemesh, prompting Israeli authorities to advise citizens to stay near protected spaces. This escalation highlights the ongoing conflict's reach into Israeli territory.",
+    "translated": true
+  },
+  {
+    "id": "d972faab95afc667",
+    "title_original": "הערכה בישראל: חוסל מפקד משמרות המהפכה - שנכנס לתפקיד ב\"עם כלביא\"",
+    "content_original": "מוחמד פאכפור נכנס לתפקידו במקום חוסיין סלאמי שחוסל במבצע \"עם כלביא\". על פי ההערכות בישראל, הוא חוסל במהלומת הפתיחה. באיראן הכחישו, אך מקור המקורב למשטר אמר לרויטרס: כמה מפקדים בכירים וגורמים פוליטיים נהרגו. גורמים ישראלים: \"גם עלי לריג'אני היה על הכוונת\"",
+    "url": "https://www.ynet.co.il/news/article/hjfs4heyzl",
+    "published": "2026-02-28T12:39:41+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli assessment: IRGC commander killed in 'With the Strength of a Lion' operation",
+    "relevant": true,
+    "summary_en": "An IRGC commander, Mohammed Fakhrpour, was reportedly killed in an Israeli operation named 'With the Strength of a Lion', which targeted senior IRGC and political figures in Iran. This follows the elimination of his predecessor, Hossein Salami, and suggests ongoing Israeli operations targeting high-level Iranian military leadership.",
+    "translated": true
+  },
+  {
     "id": "7bf81df750d6287a",
     "title_original": "השאלה שבמוקד - יציבות המשטר האיראני",
     "content_original": "המלחמה מוצאת את איראן במצבה הקשה ביותר מאז המהפכה האסלאמית ב-1979. קשה להעריך מה תהיה השפעתה של התקיפה הישראלית-אמריקאית על יציבות המשטר, אך ככל שהיא תכלול עריפה של בכירים בצמרת הפוליטית והביטחונית האיראנית, תחליש את יכולתם של כוחות הביטחון לדכא אתגרים פנימיים על יציבות המשטר כך גם יגבר הסיכוי להתערערות יסודותיו",
@@ -9,7 +57,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Impact of Israeli-American Attacks on Iranian Regime Stability",
+    "relevant": true,
+    "summary_en": "The ongoing conflict has put Iran in its most challenging situation since the 1979 Islamic Revolution. The article discusses how Israeli and American attacks targeting senior political and security leadership in Iran could weaken the regime's ability to suppress internal challenges, potentially leading to instability within the regime's foundations.",
+    "translated": true
   },
   {
     "id": "566a0afdd7659998",
@@ -21,7 +73,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Examination of Eastern Identity in Israel",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "69401de7edc0a1c3",
@@ -33,7 +89,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel Mobilizes 160,000 Reservists Amid Joint US-Israeli Strikes on Iran",
+    "relevant": true,
+    "summary_en": "Israel has mobilized 160,000 reservists primarily for border defense and rear command as the IDF and US Air Force collaborate in strikes on Iran, targeting missile and command systems. The IDF states the goal is to create conditions for regime change, indicating potential for increased regional escalation.",
+    "translated": true
   },
   {
     "id": "2f6aa9b4ab572704",
@@ -45,7 +105,75 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran Attacks US Bases in Gulf: One Killed in UAE | Footage",
+    "relevant": true,
+    "summary_en": "Iran launched 'Operation Pledge to the Truth 4', striking bases in Qatar, Kuwait, Bahrain, and the UAE, causing explosions in Dubai and Abu Dhabi. One Asian civilian was killed by shrapnel, and Iran claimed the right to retaliate. In Iraq, three pro-Iran militia commanders were killed. The Houthis threatened attacks in the Red Sea, and footage showed damage to the US Fifth Fleet headquarters in Bahrain.",
+    "translated": true
+  },
+  {
+    "id": "3fc16c999a47dee9",
+    "title_original": "\"זה יכול להיות קשה ותובעני, אבל זוהי השכונה שלנו ואין לנו לאן ללכת\" | אבי בניהו",
+    "content_original": "\"המערכה מול איראן דורשת ממלכתיות, חוסן אזרחי ואמון בצה\"ל - ואנחנו כולם 'חיילים ללא מדים' במערכה הזו\". תא\"ל מיל' אבי בניהו במסר חשוב לציבור וגם לפוליטיקאים",
+    "url": "https://www.maariv.co.il/news/opinions/article-1290112",
+    "published": "2026-02-28T11:03:50+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli Official Emphasizes National Resolve and Civilian Resilience in Confronting Iran",
+    "relevant": true,
+    "summary_en": "Avi Benayahu, a retired Israeli general, highlights the importance of national unity, civilian strength, and trust in the IDF while addressing the public and politicians. He describes the situation as a collective effort, referring to all citizens as 'soldiers without uniforms' in the struggle against Iran. This underscores Israel's focus on maintaining domestic resilience and preparedness amid ongoing regional tensions with Iran.",
+    "translated": true
+  },
+  {
+    "id": "2ed7b758a241dd3a",
+    "title_original": "הנוסעים הגיעו לנתב\"ג - וגילו בצ'ק-אין על הביטול: \"לא חשבתי שזה יקרה לי\"",
+    "content_original": "לקראת המתקפה האיראנית, ברשות שדות התעופה נערכו היטב והפעילו שאטלים משער 32 לחניונים. לאחר סגירת המרחב האווירי של ישראל, נוסעים רבים שעמדו לטוס, נתקעו בנתב\"ג וכעת מחפשים דרכים לשוב לבתיהם",
+    "url": "https://www.maariv.co.il/news/military/article-1290118",
+    "published": "2026-02-28T10:59:27+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Passengers stranded at Ben Gurion Airport after Iran attack alert",
+    "relevant": true,
+    "summary_en": "Following Iran's attack alert, Israel's airspace closure led to many passengers being stranded at Ben Gurion Airport. The airport activated emergency protocols, including shuttle services from gate 32 to parking lots. This incident highlights the disruption caused by the ongoing conflict and the immediate impact on civilian travel.",
+    "translated": true
+  },
+  {
+    "id": "2b07ed98fddae7de",
+    "title_original": "בעקבות המלחמה עם איראן: מערכת החינוך בישראל מושבתת",
+    "content_original": "הערכת משרד החינוך היא שהלימודים יושבתו לפחות עד אחרי פורים | בהנחיית פיקוד העורף נסגרות כל המסגרות בכל הגילים | במקביל נבחנת היערכות ללמידה מרחוק",
+    "url": "https://www.maariv.co.il/news/education/article-1290113",
+    "published": "2026-02-28T10:54:31+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israel's Education System Shuts Down Due to War with Iran",
+    "relevant": true,
+    "summary_en": "Israel's education system has been suspended following the ongoing war with Iran, with the Ministry of Education estimating that schools will remain closed at least until after the Purim holiday. The decision was made under the guidance of the Home Front Command, affecting all educational frameworks across all age groups. The situation is also being assessed for potential remote learning arrangements.",
+    "translated": true
+  },
+  {
+    "id": "f075461bf536522c",
+    "title_original": "בצה\"ל חושפים: שפל היסטורי לחמינאי - זו הסיבה לתקיפה באיראן",
+    "content_original": "במשך שנים משטר הטרור האיראני השקיע משאבים וכספים בקידום טרור, אלימות וערעור היציבות האזורית תוך התעלמות מוחלטת מרווחת האזרחים. הישגי 'עם כלביא', המחאות והלחצים הבינלאומיים הביאו אותם לשפל היסטורי",
+    "url": "https://www.maariv.co.il/news/military/article-1290101",
+    "published": "2026-02-28T10:52:00+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Reveals: Historic Low for Khamenei - Reason Behind Attack on Iran",
+    "relevant": true,
+    "summary_en": "The IDF has disclosed that Iran's Supreme Leader Khamenei is experiencing a historic low, which is linked to recent attacks on Iran. This is attributed to the success of 'Operation Lion Cubs', internal protests, and international pressure, which have weakened Iran's capacity to project power and fund regional instability.",
+    "translated": true
   },
   {
     "id": "acdae73e5779ecfa",
@@ -57,7 +185,27 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Nationwide Emergency Alerts Issued Amid Conflict with Iran",
+    "relevant": true,
+    "summary_en": "Israel has activated emergency alerts and issued updated safety instructions nationwide following the initiation of attacks on Iran. The Defense Minister has declared a special state of emergency in the home front, suspending schools and non-essential work while mandating sheltering in protected areas. This signifies a significant escalation in the conflict and highlights Israel's concern over potential retaliatory strikes from Iran or its proxies.",
+    "translated": true
+  },
+  {
+    "id": "800280ec25b604ef",
+    "title_original": "מה זכויות העובדים במצב חירום? כל השאלות והתשובות",
+    "content_original": "איך אני יודע אם אני עובד חיוני או לא? האם אני מחויב להגיע למקום העבודה? האם אני רשאי לעבוד מהבית? בעקבות מצב החירום שהוכרז בעורף משרד העבודה מפרסם שאלות ותשובות בנושא זכויות עובדים",
+    "url": "https://www.maariv.co.il/news/israel/article-1290108",
+    "published": "2026-02-28T10:48:15+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Rights of workers during emergency situations in Israel",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "133177a61bd09060",
@@ -69,7 +217,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Initial Attack Targets: Iranian Regime Leadership",
+    "relevant": true,
+    "summary_en": "Israeli security officials indicated to the New York Times that a multi-day attack is expected, primarily targeting high-ranking Iranian leadership, including President Masoud Pezeshkian. Israel remains cautiously optimistic but acknowledges the likelihood of success is not high.",
+    "translated": true
   },
   {
     "id": "60c18f854bcf19d2",
@@ -81,7 +233,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel's Multi-Layered Missile Defense Systems, with US Assistance, Prepare for Potential Escalation",
+    "relevant": true,
+    "summary_en": "Israel is bolstering its multi-layered missile defense, including the Arrow, David's Sling, and US systems, amid concerns of Iranian escalation. This preparation comes as Tehran continues to invest in its missile program, and the international coalition may also provide support. The strategic significance lies in Israel's readiness to defend against potential missile threats from Iran or its proxies.",
+    "translated": true
   },
   {
     "id": "43c2baba2ad79565",
@@ -93,7 +249,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Houthis Threaten to Renew Attacks on US and Israel After Iran Strike",
+    "relevant": true,
+    "summary_en": "The Houthi rebels, partially backed by Iran, have threatened to resume missile and drone attacks on commercial ships in the Red Sea. This follows recent strikes on Iran, indicating potential escalation in the maritime domain. The threat poses a direct risk to international shipping and US naval operations in the strategically vital Red Sea.",
+    "translated": true
   },
   {
     "id": "4a77566f1ac4f49f",
@@ -105,7 +265,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "IDF Reveals Operation: 'Attack on Iran Came as a Surprise'",
+    "relevant": true,
+    "summary_en": "The IDF, in coordination with the US, conducted a surprise attack on Iran aimed at weakening the regime and eliminating the existential threat to Israel. Tens of thousands of reservists have been called up, and forces have been reinforced across all fronts.",
+    "translated": true
   },
   {
     "id": "ea991446ad415e1a",
@@ -117,7 +281,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "בתי החולים עוברים לחירום: \"לשחרר חולים שלא זקוקים לאשפוז\" | כל קווי הסיוע",
+    "summary_en": "{\"h\":\"Hospitals Shift to Emergency Mode: \"Release Patients Not Requiring Hospitalization\" | All Support Lines Activated\",\"r\":true,\"s\":\"Israel's healthcare system has moved to its highest state of readiness, directing hospitals to discharge non-critical patients and move to protected underground facilities amid escalating regional tensions. Magen David Adom (MDA) has heightened its preparedness, op",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "cd16db50899f2302",
@@ -129,7 +297,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Trump and Netanyahu Address on War Aims and Regime Change in Iran",
+    "relevant": true,
+    "summary_en": "US President Trump and Israeli Prime Minister Netanyahu outlined their objectives in the ongoing conflict with Iran, including the destruction of missile capabilities, prevention of nuclear proliferation, and promoting regime change. Trump called on the Iranian people to stay indoors and take control after the conflict, while Netanyahu emphasized the need for perseverance and creating conditions for the Iranian people to overthrow the current regime. This signifies a potential escalation in the conflict with a focus on dismantling the current Iranian government.",
+    "translated": true
   },
   {
     "id": "c16fe124b9196495",
@@ -141,7 +313,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Gulf States Under Iranian Attack: Explosions in the Middle East",
+    "relevant": true,
+    "summary_en": "Iran has launched missile attacks targeting US interests in Gulf states following the initiation of Operation 'Lion's Roar' by Israel and the US against Iran. The operation has prompted retaliatory missile fire towards Israel and US targets in the Gulf region, resulting in explosions.",
+    "translated": true
   },
   {
     "id": "71bae25a767d67f6",
@@ -153,7 +329,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran Threatens Israel and US: 'No Red Lines'",
+    "relevant": true,
+    "summary_en": "A senior Iranian official declared that there are 'no red lines' and that all US and Israeli assets and interests in the Middle East are legitimate targets. The IRGC announced the start of a first wave of missile and drone attacks in response to a previous strike, indicating a significant escalation in the ongoing conflict.",
+    "translated": true
   },
   {
     "id": "e21b5c705d8d3c00",
@@ -165,7 +345,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "This is a War of Duty",
+    "relevant": true,
+    "summary_en": "The statement, likely from an Israeli official, emphasizes the necessity of engaging in military action as a moral and national obligation to prevent greater harm in the future. It reflects the ongoing conflict with Iran-linked groups and the strategic importance of proactive defense measures.",
+    "translated": true
   },
   {
     "id": "1bd50efc23c5b68b",
@@ -177,7 +361,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US and Israel Launch Attack on Iran Targeting Regime Leaders",
+    "relevant": true,
+    "summary_en": "The US and Israel have initiated a joint military operation named 'Lion's Roar' against Iran, striking targets in Tehran including the Presidential building and high-ranking regime officials. Iran's Supreme Leader Khamenei has reportedly been moved to a secure location outside the capital. Israel has closed its airspace and restricted public activities in anticipation of potential retaliatory missile and drone attacks.",
+    "translated": true
   },
   {
     "id": "7a37f42599e43e20",
@@ -189,7 +377,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel Initiates and US Enters with Full Force",
+    "relevant": true,
+    "summary_en": "Israel and the US have launched a joint military operation against Iran, with the US focusing on the southwest region of Iran. The preliminary attack in Lebanon aims to 'blind' Iranian forces near Israel's border, indicating a coordinated effort to neutralize threats and gain strategic advantage.",
+    "translated": true
   },
   {
     "id": "a468507727023ab4",
@@ -201,7 +393,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israeli Leadership Initiated 'Lion's Roar' Attack on Iran with Deception Tactics",
+    "relevant": true,
+    "summary_en": "Israeli senior officials, including the Prime Minister and Defense Minister, used deception by being at home when the 'Lion's Roar' attack on Iran began. The operation, launched on a Saturday morning, aimed to confuse Iranian defenses. Israeli leadership convened in bunkers, demonstrating full support for the IDF and expressing confidence in overcoming challenges posed by Iran's leadership.",
+    "translated": true
   },
   {
     "id": "01bf767b3b397844",
@@ -213,7 +409,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel Closes Airspace After Striking Iran",
+    "relevant": true,
+    "summary_en": "Israel has closed its airspace following its attack on Iran, with the Transportation Minister citing passenger safety as the top priority. This move indicates a potential escalation in the conflict and suggests concerns over possible Iranian retaliation against Israeli targets.",
+    "translated": true
   },
   {
     "id": "3bd1a990de794c5e",
@@ -225,7 +425,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran Prepares for Potential US Attack as Nuclear Talks Falter",
+    "relevant": true,
+    "summary_en": "Iranian state media has released a video identifying US military bases in the Middle East, including Al Dhafra in the UAE, as potential targets amid escalating tensions and the potential collapse of nuclear talks. The report highlights Iran's ballistic missile capabilities and the responses being prepared by Israel and the US, indicating a significant military escalation risk.",
+    "translated": true
   },
   {
     "id": "9fd3872aa08b23e9",
@@ -237,7 +441,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel Under Wide-Ranging Attack from Iran After Missile Barrage",
+    "relevant": true,
+    "summary_en": "Iran launched a widespread missile attack on Israel, triggering nationwide air raid sirens and prompting the Home Front Command to urge citizens to follow safety protocols. This represents a significant escalation in the ongoing conflict between Iran and Israel, with potential regional implications.",
+    "translated": true
   },
   {
     "id": "3a956bc35a06523b",
@@ -249,7 +457,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Missile Alerts in Northern Israel Triggered by Suspected Iranian Launch",
+    "relevant": true,
+    "summary_en": "Missile alerts were activated across northern Israel following the detection of missile launches from Iran towards Israeli territory. The Home Front Command urged citizens to follow safety protocols, emphasizing that they save lives. This incident signifies a significant escalation in the ongoing conflict between Israel and Iran, highlighting the direct threat under which Israeli civilians are placed.",
+    "translated": true
   },
   {
     "id": "756868a44dad5fa6",
@@ -261,7 +473,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Trump Delivers Historic War Speech Against Iran: 'Your Hour of Liberation Has Come'",
+    "relevant": true,
+    "summary_en": "In a significant escalation, US President Donald Trump delivered a forceful speech addressing recent attacks across Iran, emphasizing the goal of defending Americans by eliminating immediate threats from the Iranian regime. This marks the first direct response by the US to ongoing hostilities, signaling a potential shift in strategy or escalation in the conflict.",
+    "translated": true
   },
   {
     "id": "99692370f48fd3f9",
@@ -273,7 +489,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel Mobilizes Thousands of Reservists Amid Fears of Regional Escalation",
+    "relevant": true,
+    "summary_en": "Israel has called up thousands of reservists and increased readiness along its northern border due to concerns over potential regional escalation, with Israeli and US air forces operating in Iran. This move signals heightened tensions and the potential for broader conflict involving multiple fronts.",
+    "translated": true
   },
   {
     "id": "c57d69035fc81a0a",
@@ -285,7 +505,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "IDF strikes Hezbollah underground tunnels in southern Lebanon",
+    "relevant": true,
+    "summary_en": "The IDF targeted Hezbollah underground tunnels and launch positions in southern Lebanon, citing their use for 'terror activities.' The military warned that Hezbollah is attempting to rebuild and violating previous understandings, indicating ongoing tensions and potential escalation in the region.",
+    "translated": true
   },
   {
     "id": "78093e238982503e",
@@ -297,7 +521,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iranian Leadership Targeted in Recent Attack; Israel Satisfied with Outcome",
+    "relevant": true,
+    "summary_en": "Unspecified attacks in Iran reportedly targeted Supreme Leader Khamenei and other senior officials, causing concern within the regime. The strikes, which have not been officially claimed, indicate a significant escalation in efforts to destabilize Iran's leadership. Israel's satisfaction with the operation suggests potential involvement or intelligence support.",
+    "translated": true
   },
   {
     "id": "6e8cffa7cd064fb9",
@@ -309,7 +537,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iranian retaliation begins: Israeli Home Front Command issues stricter guidelines",
+    "relevant": true,
+    "summary_en": "Iran has initiated a response following an attack, prompting Israel's Home Front Command to issue heightened security directives across the country. This indicates increased regional tensions and potential threats to Israeli security amid escalating US-Iran hostilities.",
+    "translated": true
   },
   {
     "id": "ba534196cbf51eb6",
@@ -321,7 +553,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iranian Supreme Leader Ali Khamenei reportedly evacuated from Tehran",
+    "relevant": true,
+    "summary_en": "Reports indicate that Iran's Supreme Leader Ali Khamenei has been evacuated from Tehran amid ongoing US and Israeli attacks. This development suggests potential instability within Iran's leadership and raises questions about the regime's ability to coordinate its military response. The evacuation could have significant implications for the command and control of Iranian forces during the conflict.",
+    "translated": true
   },
   {
     "id": "ecbbf02be65280d5",
@@ -333,7 +569,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Local rain expected in Israel over the weekend",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "7d31e4e914df0728",
@@ -345,7 +585,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel's Health Ministry urges public to avoid hospitals",
+    "relevant": true,
+    "summary_en": "Israel's Health Ministry has instructed hospitals to begin transferring patients to protected areas and preparing for emergency readiness as a result of the escalating conflict with Iran. This indicates a significant concern over potential attacks on civilian infrastructure and the healthcare system.",
+    "translated": true
   },
   {
     "id": "57d8639051cc0794",
@@ -357,7 +601,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US and Israel Launch Preventive Attack on Iran: 'Thousands of IRGC Casualties'",
+    "relevant": true,
+    "summary_en": "The US and Israel have initiated a preventive attack on Iran, with Tehran's key centers, including government facilities, targeted. A state of emergency has been declared across Iran. The attack aims to prevent Iran's nuclear capabilities, with President Trump stating the objective is to ensure Iran does not acquire nuclear weapons.",
+    "translated": true
   },
   {
     "id": "57e4456a8f40a08a",
@@ -369,7 +617,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US Military's AI Revolution: Sam Altman Seals Deal with Pentagon",
+    "relevant": true,
+    "summary_en": "OpenAI has signed an agreement with the Pentagon to provide artificial intelligence for classified systems. This move comes shortly after Trump ordered the cessation of using competitor Anthropic's technology.",
+    "translated": true
   },
   {
     "id": "e4bb0be86167e423",
@@ -381,7 +633,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "20 Killed in Bolivia Plane Crash Carrying Cash",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "d845abc6d7b3dba6",
@@ -393,7 +649,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "The Plight of Ultra-Orthodox Soldier's Families When the Cameras Are Off",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "60bfeddbdf006347",
@@ -405,7 +665,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Bill Clinton Testifies in Epstein Case - Trump May Be Next",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "80d747d8ba719744",
@@ -417,7 +681,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Critical 24 Hours After Head Injury: What to Check Hourly",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "654f0e180020653f",
@@ -429,7 +697,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Bodyguard of Israeli PM implicated in death of Tal Nahum in Mexico",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "618e4525e6e6237d",
@@ -441,7 +713,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Police instructed not to arrest military deserters",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "824c9d3bcd742a1e",
@@ -453,7 +729,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US Secretary of State Blink from Tradition, Orders Diplomats Not to Disrupt Iran Talks",
+    "relevant": true,
+    "summary_en": "US Secretary of State Blink is breaking tradition by not bringing journalists to Israel, which some interpret as preparation for a potential attack. Amid tensions, there are reports of Trump growing frustrated with the US Ambassador to Israel over his interference in negotiations with Iran, highlighting the delicate balance in ongoing talks amid regional hostilities.",
+    "translated": true
   },
   {
     "id": "8ed1d0172d943e2a",
@@ -465,7 +745,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US President Trump Signals Potential Attack on Iran Amid Conflicting Signs of Peace and Escalation",
+    "relevant": true,
+    "summary_en": "US President Trump has not yet decided on attacking Iran's regime but has expressed dissatisfaction and threatened the use of force, stating 'sometimes you need to.' The US has called on its citizens to leave Iran again and threatened 'additional steps,' while Oman continues to promote optimism. The world is preparing for potential escalation.",
+    "translated": true
   },
   {
     "id": "dd87fe9eadf4cb89",
@@ -477,7 +761,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Bill Clinton Testifies in Congress on Epstein Ties",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "e199bbfc75557a8c",
@@ -489,7 +777,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Deadly Accident in Milan Fashion Week: Tram Crashes into Building, 2 Killed",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "fbb850aaba576419",
@@ -501,7 +793,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israeli-flagged vehicle runs over pedestrians in Gaza, Egypt",
+    "relevant": true,
+    "summary_en": "A vehicle displaying an Israeli flag was seen recklessly driving and running over pedestrians in the Gaza region of Egypt. The incident sparked a violent reaction from witnesses who attacked the driver upon noticing the flag. This event could escalate tensions in the region amid the ongoing conflict.",
+    "translated": true
   },
   {
     "id": "c92d0ca7a2ac913b",
@@ -513,7 +809,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Two fatal accidents reported in southern Israel and near Tiberias",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "c690f5a0ffbf8c98",
@@ -525,7 +825,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Trump's Night Speech: Ambiguous Messages on Iran",
+    "relevant": true,
+    "summary_en": "Former US President Trump expressed dissatisfaction with negotiations with Iran, hinting at a potential escalation or significant action against Iran. His remarks, while not explicitly detailing any plans, suggest ongoing tensions and potential future confrontations with Iran, which could impact the current conflict dynamics in the region.",
+    "translated": true
   },
   {
     "id": "c1b47611bb4582f8",
@@ -537,7 +841,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iranian regime prevents medical treatment for protesters",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "95fd7090fdc39d03",
@@ -549,7 +857,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Train Crash in Milan Kills Two and Injures 39",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "1cd97db4bfe97d59",
@@ -561,7 +873,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "OpenAI Seeks Major Deal with Pentagon Amid Crisis",
+    "relevant": true,
+    "summary_en": "Sam Altman is leveraging the current crisis between Anthropic and the Pentagon to push for a deal integrating OpenAI's models into the military under strict safety constraints. He emphasizes opposition to mass surveillance and autonomous weapons, proposing a framework for tight oversight. This development is significant as it indicates potential collaboration between AI companies and the US military amid ongoing conflicts.",
+    "translated": true
   },
   {
     "id": "42b7dd9fe26e69e7",
@@ -573,7 +889,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Trump: Does Not Want to Use Military Force Against Iran, But Sometimes Necessary",
+    "relevant": true,
+    "summary_en": "Former US President Trump stated that while he is 'not happy' with Iran, no final decision has been made on attacking the country. He emphasized the strength of the US military and suggested the potential use of force if necessary. This comes amid heightened tensions with Iran, as Omani Foreign Minister meets with Trump's deputy and declares that 'peace is within our reach'.",
+    "translated": true
   },
   {
     "id": "d9bb5c7b62b58c91",
@@ -585,7 +905,11 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Relative of Hamas captive killed in October 7 attack dies suddenly in Be'eri",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "1e9a3d1cbe846dd3",
@@ -597,6 +921,10 @@
     "source_category": "state-aligned",
     "language": "he",
     "region": "israel",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Countries Prepare for Escalation in Iran - Trump Sends Message",
+    "relevant": true,
+    "summary_en": "Multiple countries, including the US, China, and European nations, are taking precautionary measures as tensions rise in the Middle East due to the ongoing conflict with Iran. Despite US embassy staff being advised to leave Israel, Rubio is set to visit as planned. Trump expressed dissatisfaction with Iran but mentioned the possibility of further talks, indicating a desire for a deal.",
+    "translated": true
   }
 ]

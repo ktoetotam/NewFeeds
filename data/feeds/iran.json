@@ -1,5 +1,281 @@
 [
   {
+    "id": "2536e97433c51ee5",
+    "title_original": "پیام تسلیت جابری انصاری در پی درگذشت عکاس ایرنا",
+    "content_original": "پیام تسلیت جابری انصاری در پی درگذشت عکاس ایرنا",
+    "url": "https://www.irna.ir/news/86089460/%D9%BE%DB%8C%D8%A7%D9%85-%D8%AA%D8%B3%D9%84%DB%8C%D8%AA-%D8%AC%D8%A7%D8%A8%D8%B1%DB%8C-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA-%D8%B9%DA%A9%D8%A7%D8%B3-%D8%A7%DB%8C%D8%B1%D9%86%D8%A7",
+    "published": "2026-02-28T11:18:46+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "e09d0cb0b06f5b7e",
+    "title_original": "گزارش گاردین از تجاوز آمریکا در میانه مذاکرات؛ ایران دیگر ترامپ را جدی نمی‌گیرد",
+    "content_original": "گزارش گاردین از تجاوز آمریکا در میانه مذاکرات؛ ایران دیگر ترامپ را جدی نمی‌گیرد",
+    "url": "https://www.irna.ir/news/86089461/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%DA%AF%D8%A7%D8%B1%D8%AF%DB%8C%D9%86-%D8%A7%D8%B2-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%AF%D8%B1-%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D8%A7%D8%AA-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%DB%8C%DA%AF%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE",
+    "published": "2026-02-28T11:18:13+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "d028f1b3a4645cdf",
+    "title_original": "اخبار کوتاه خراسان رضوی؛ نهم اسفند ۱۴۰۴",
+    "content_original": "اخبار کوتاه خراسان رضوی؛ نهم اسفند ۱۴۰۴",
+    "url": "https://www.irna.ir/news/86089433/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%DA%A9%D9%88%D8%AA%D8%A7%D9%87-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%DB%8C-%D9%86%D9%87%D9%85-%D8%A7%D8%B3%D9%81%D9%86%D8%AF-%DB%B1%DB%B4%DB%B0%DB%B4",
+    "published": "2026-02-28T11:16:06+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "7aa441d549b90e14",
+    "title_original": "حملات رژیم صهیونیستی به مدرسه امام رضا (ع) آبیک/ شهادت یک دانش‌آموز",
+    "content_original": "حملات رژیم صهیونیستی به مدرسه امام رضا (ع) آبیک/ شهادت یک دانش‌آموز",
+    "url": "https://www.irna.ir/news/86089456/%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D8%A8%D9%87-%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7-%D8%B9-%D8%A2%D8%A8%DB%8C%DA%A9-%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%DB%8C%DA%A9-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2",
+    "published": "2026-02-28T11:12:19+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "b9771d4948c130c2",
+    "title_original": "یمن حملات هوایی به ایران را محکوم کرد",
+    "content_original": "یمن حملات هوایی به ایران را محکوم کرد",
+    "url": "https://www.irna.ir/news/86089443/%DB%8C%D9%85%D9%86-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%85%D8%AD%DA%A9%D9%88%D9%85-%DA%A9%D8%B1%D8%AF",
+    "published": "2026-02-28T11:11:49+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "0dc39f005ce2ec2f",
+    "title_original": "روسیه، حمله به ایران را محکوم کرد/ پیام‌های اسرائیل درباره عدم حمله، دروغ بود",
+    "content_original": "روسیه، حمله به ایران را محکوم کرد/ پیام‌های اسرائیل درباره عدم حمله، دروغ بود",
+    "url": "https://www.irna.ir/news/86089466/%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7-%D9%85%D8%AD%DA%A9%D9%88%D9%85-%DA%A9%D8%B1%D8%AF-%D9%BE%DB%8C%D8%A7%D9%85-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%B9%D8%AF%D9%85",
+    "published": "2026-02-28T11:11:24+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "37159d2de2da250e",
+    "title_original": "فرمانده قرارگاه خاتم: عملیات موشکی علیه منافع دشمنان تا شکست قطعی آن‌ها ادامه دارد",
+    "content_original": "فرمانده قرارگاه خاتم: عملیات موشکی علیه منافع دشمنان تا شکست قطعی آن‌ها ادامه دارد",
+    "url": "https://www.irna.ir/news/86089455/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87-%D9%82%D8%B1%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%D8%AE%D8%A7%D8%AA%D9%85-%D8%B9%D9%85%D9%84%DB%8C%D8%A7%D8%AA-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D9%85%D9%86%D8%A7%D9%81%D8%B9-%D8%AF%D8%B4%D9%85%D9%86%D8%A7%D9%86-%D8%AA%D8%A7-%D8%B4%DA%A9%D8%B3%D8%AA",
+    "published": "2026-02-28T11:07:35+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "470f342bcdd5cddc",
+    "title_original": "استفاده از مترو و اتوبوس در تهران رایگان شد",
+    "content_original": "استفاده از مترو و اتوبوس در تهران رایگان شد",
+    "url": "https://www.irna.ir/news/86089458/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%85%D8%AA%D8%B1%D9%88-%D9%88-%D8%A7%D8%AA%D9%88%D8%A8%D9%88%D8%B3-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B4%D8%AF",
+    "published": "2026-02-28T11:07:28+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "62221199ec0ce36c",
+    "title_original": "فرماندهی امنیت سایبری: تدابیر متعددی برای خنثی سازی تهاجم شناختی دشمن صورت گرفته است",
+    "content_original": "فرماندهی امنیت سایبری: تدابیر متعددی برای خنثی سازی تهاجم شناختی دشمن صورت گرفته است",
+    "url": "https://www.irna.ir/news/86089445/%D9%81%D8%B1%D9%85%D8%A7%D9%86%D8%AF%D9%87%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%B3%D8%A7%DB%8C%D8%A8%D8%B1%DB%8C-%D8%AA%D8%AF%D8%A7%D8%A8%DB%8C%D8%B1-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AE%D9%86%D8%AB%DB%8C-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%B4%D9%86%D8%A7%D8%AE%D8%AA%DB%8C",
+    "published": "2026-02-28T11:03:57+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "0895f77fe93f7e92",
+    "title_original": "بارش‌های پراکنده‌های در استان اردبیل ادامه می‌یابد",
+    "content_original": "بارش‌های پراکنده‌های در استان اردبیل ادامه می‌یابد",
+    "url": "https://www.irna.ir/news/86089405/%D8%A8%D8%A7%D8%B1%D8%B4-%D9%87%D8%A7%DB%8C-%D9%BE%D8%B1%D8%A7%DA%A9%D9%86%D8%AF%D9%87-%D9%87%D8%A7%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%A7%D8%B1%D8%AF%D8%A8%DB%8C%D9%84-%D8%A7%D8%AF%D8%A7%D9%85%D9%87-%D9%85%DB%8C-%DB%8C%D8%A7%D8%A8%D8%AF",
+    "published": "2026-02-28T11:02:24+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "e591efe869cb2fa7",
+    "title_original": "شهرداری مشهد در آماده‌باش است",
+    "content_original": "شهرداری مشهد در آماده‌باش است",
+    "url": "https://www.irna.ir/news/86089374/%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D9%85%D8%B4%D9%87%D8%AF-%D8%AF%D8%B1-%D8%A2%D9%85%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7%D8%B4-%D8%A7%D8%B3%D8%AA",
+    "published": "2026-02-28T11:01:45+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "2c7432f92b2184a4",
+    "title_original": "شورای اطلاع رسانی دولت: دولت خود را مکلف به حفاظت از ایران و ایرانیان می داند",
+    "content_original": "شورای اطلاع رسانی دولت: دولت خود را مکلف به حفاظت از ایران و ایرانیان می داند",
+    "url": "https://www.irna.ir/news/86089444/%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D9%84%D8%AA-%D8%AF%D9%88%D9%84%D8%AA-%D8%AE%D9%88%D8%AF-%D8%B1%D8%A7-%D9%85%DA%A9%D9%84%D9%81-%D8%A8%D9%87-%D8%AD%D9%81%D8%A7%D8%B8%D8%AA-%D8%A7%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88",
+    "published": "2026-02-28T10:59:38+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "ce905dd07b895b2e",
+    "title_original": "تاکید استاندار خراسان جنوبی بر تسریع در پرداخت معوقات کارگران و بازنشستگان",
+    "content_original": "تاکید استاندار خراسان جنوبی بر تسریع در پرداخت معوقات کارگران و بازنشستگان",
+    "url": "https://www.irna.ir/news/86089375/%D8%AA%D8%A7%DA%A9%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%A8%D8%B1-%D8%AA%D8%B3%D8%B1%DB%8C%D8%B9-%D8%AF%D8%B1-%D9%BE%D8%B1%D8%AF%D8%A7%D8%AE%D8%AA-%D9%85%D8%B9%D9%88%D9%82%D8%A7%D8%AA-%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86",
+    "published": "2026-02-28T10:57:07+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "9bf0eaaaa20a5684",
+    "title_original": "توصیه‌های اورژانس تهران به شهروندان پس از تهاجم دشمنان",
+    "content_original": "توصیه‌های اورژانس تهران به شهروندان پس از تهاجم دشمنان",
+    "url": "https://www.irna.ir/news/86089436/%D8%AA%D9%88%D8%B5%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%88%D8%B1%DA%98%D8%A7%D9%86%D8%B3-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%B4%D9%87%D8%B1%D9%88%D9%86%D8%AF%D8%A7%D9%86-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%AF%D8%B4%D9%85%D9%86%D8%A7%D9%86",
+    "published": "2026-02-28T10:55:22+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "f3460e168f9c7763",
+    "title_original": "بقائی: در قالب دفاع مشروع از ایران مجبوریم مبدا تجاوز را هدف قرار دهیم",
+    "content_original": "بقائی: در قالب دفاع مشروع از ایران مجبوریم مبدا تجاوز را هدف قرار دهیم",
+    "url": "https://www.irna.ir/news/86089450/%D8%A8%D9%82%D8%A7%D8%A6%DB%8C-%D8%AF%D8%B1-%D9%82%D8%A7%D9%84%D8%A8-%D8%AF%D9%81%D8%A7%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A7%D8%B2-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%AC%D8%A8%D9%88%D8%B1%DB%8C%D9%85-%D9%85%D8%A8%D8%AF%D8%A7-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%B1%D8%A7-%D9%87%D8%AF%D9%81",
+    "published": "2026-02-28T10:54:40+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "b33cdb5f2e405195",
+    "title_original": "روسای شورا و کمیسیون اروپا خواستار خویشتن‌داری در مقابل تجاوز رژیم صهیونیستی و آمریکا شدند",
+    "content_original": "روسای شورا و کمیسیون اروپا خواستار خویشتن‌داری در مقابل تجاوز رژیم صهیونیستی و آمریکا شدند",
+    "url": "https://www.irna.ir/news/86089446/%D8%B1%D9%88%D8%B3%D8%A7%DB%8C-%D8%B4%D9%88%D8%B1%D8%A7-%D9%88-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1-%D8%AE%D9%88%DB%8C%D8%B4%D8%AA%D9%86-%D8%AF%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2",
+    "published": "2026-02-28T10:53:45+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "8a31b49871a20c0e",
+    "title_original": "اتحادیه اروپا به ابراز نگرانی درباره تجاوز غیرقانونی آمریکا و اسرائیل علیه ایران اکتفا کرد",
+    "content_original": "اتحادیه اروپا به ابراز نگرانی درباره تجاوز غیرقانونی آمریکا و اسرائیل علیه ایران اکتفا کرد",
+    "url": "https://www.irna.ir/news/86089423/%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%DB%8C%D9%87-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%A7%D8%A8%D8%B1%D8%A7%D8%B2-%D9%86%DA%AF%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%BA%DB%8C%D8%B1%D9%82%D8%A7%D9%86%D9%88%D9%86%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88",
+    "published": "2026-02-28T10:53:42+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "a2601475efbc3d69",
+    "title_original": "شمار شهدای دبستان دخترانه میناب در حال افزایش؛ تاکنون ۲۴ نفر",
+    "content_original": "شمار شهدای دبستان دخترانه میناب در حال افزایش؛ تاکنون ۲۴ نفر",
+    "url": "https://www.irna.ir/news/86089439/%D8%B4%D9%85%D8%A7%D8%B1-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%D8%AF%D8%B1-%D8%AD%D8%A7%D9%84-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D8%A7%DA%A9%D9%86%D9%88%D9%86-%DB%B2%DB%B4-%D9%86%D9%81%D8%B1",
+    "published": "2026-02-28T10:53:38+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "9f3e963b31907b3f",
+    "title_original": "انتقاد سناتور آمریکایی از حمله ترامپ به ایران بدون اطلاع کنگره",
+    "content_original": "انتقاد سناتور آمریکایی از حمله ترامپ به ایران بدون اطلاع کنگره",
+    "url": "https://www.irna.ir/news/86089429/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%AF-%D8%B3%D9%86%D8%A7%D8%AA%D9%88%D8%B1-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%DA%A9%D9%86%DA%AF%D8%B1%D9%87",
+    "published": "2026-02-28T10:53:38+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "7a74e29d3500fc79",
+    "title_original": "قانونگذار روس:‌ حمله به ایران، متجاوزانه بود/ شورای امنیت جلسه فوری تشکیل دهد",
+    "content_original": "قانونگذار روس:‌ حمله به ایران، متجاوزانه بود/ شورای امنیت جلسه فوری تشکیل دهد",
+    "url": "https://www.irna.ir/news/86089431/%D9%82%D8%A7%D9%86%D9%88%D9%86%DA%AF%D8%B0%D8%A7%D8%B1-%D8%B1%D9%88%D8%B3-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%85%D8%AA%D8%AC%D8%A7%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%A8%D9%88%D8%AF-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%AC%D9%84%D8%B3%D9%87",
+    "published": "2026-02-28T10:53:34+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "aa5cb02aa98a65c8",
+    "title_original": "مدارس خوزستان تا اطلاع ثانوی غیرحضوری شد",
+    "content_original": "مدارس خوزستان تا اطلاع ثانوی غیرحضوری شد",
+    "url": "https://www.irna.ir/news/86089441/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%AE%D9%88%D8%B2%D8%B3%D8%AA%D8%A7%D9%86-%D8%AA%D8%A7-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9-%D8%AB%D8%A7%D9%86%D9%88%DB%8C-%D8%BA%DB%8C%D8%B1%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D8%AF",
+    "published": "2026-02-28T10:45:55+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "7f1d4ccce5b6a9fc",
+    "title_original": "آژیر خطر مجدد در مناطق مرکزی اسرائیل به صدا درآمد",
+    "content_original": "آژیر خطر مجدد در مناطق مرکزی اسرائیل به صدا درآمد",
+    "url": "https://www.irna.ir/news/86089437/%D8%A2%DA%98%DB%8C%D8%B1-%D8%AE%D8%B7%D8%B1-%D9%85%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B1-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%85%D8%B1%DA%A9%D8%B2%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D9%87-%D8%B5%D8%AF%D8%A7-%D8%AF%D8%B1%D8%A2%D9%85%D8%AF",
+    "published": "2026-02-28T10:45:40+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
+    "id": "e065b5008f4f309b",
+    "title_original": "مسابقه فوتبال ذوب آهن و پرسپولیس لغو شد",
+    "content_original": "مسابقه فوتبال ذوب آهن و پرسپولیس لغو شد",
+    "url": "https://www.irna.ir/news/86089442/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D9%87-%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84-%D8%B0%D9%88%D8%A8-%D8%A2%D9%87%D9%86-%D9%88-%D9%BE%D8%B1%D8%B3%D9%BE%D9%88%D9%84%DB%8C%D8%B3-%D9%84%D8%BA%D9%88-%D8%B4%D8%AF",
+    "published": "2026-02-28T10:44:38+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
+  },
+  {
     "id": "f2b2595a62eb99c5",
     "title_original": "Early retirement of US admiral Holsey paves way for warmongering: Analyst",
     "content_original": "Early retirement of US admiral Holsey paves way for warmongering: Analyst",
@@ -9,7 +285,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Early retirement of US admiral Holsey paves way for warmongering: Analyst",
+    "relevant": true,
+    "summary_en": "The early retirement of US Admiral Holsey is being analyzed as potentially paving the way for more aggressive military strategies in the ongoing conflict with Iran. This development could impact US CENTCOM operations and naval activities in the region, particularly in the Gulf and Red Sea. The strategic significance lies in the potential shift in US military leadership and decision-making during the conflict.",
+    "translated": true
   },
   {
     "id": "f7939949f8aa579f",
@@ -21,7 +301,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Foreign interference would worsen Thailand-Cambodia conflict",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "a7a3bfd8e01dc6e8",
@@ -33,7 +317,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran seeking ouster of US forces from West Asia region: Analyst",
+    "relevant": true,
+    "summary_en": "An analyst reports that Iran aims to expel US forces from the West Asia region. This objective is directly linked to the ongoing conflict and Iran's strategic goals. The attempt to remove US presence signifies Iran's persistent efforts to reduce Western influence in the region.",
+    "translated": true
   },
   {
     "id": "e83a96c40502d8c8",
@@ -45,7 +333,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Venezuela's interim president will continue same policies: Analyst",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "fd636ad579eba085",
@@ -57,7 +349,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "IRGC is part of Iran’s national army: Pundit",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "b6a7b70052207786",
@@ -69,7 +365,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Pro-Palestine Iranian activist detained in France",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "d64da853b18dc8a5",
@@ -81,7 +381,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Lebanon rises against US-backed plan to disarm Hezbollah",
+    "relevant": true,
+    "summary_en": "Lebanon is protesting against a US-backed initiative to disarm Hezbollah. This development is significant as it indicates potential escalation in regional tensions and resistance to US influence in Lebanon. Hezbollah's disarmament is a critical issue tied to the security and political dynamics of Lebanon and the broader Middle East.",
+    "translated": true
   },
   {
     "id": "c44016c42b3743ed",
@@ -93,7 +397,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran's security chief receives warm welcome in Lebanon",
+    "relevant": true,
+    "summary_en": "Iran's security chief visited Lebanon, likely to discuss coordination with Hezbollah and other Iran-backed groups amid the ongoing conflict. This visit underscores Iran's efforts to strengthen its alliances and proxy networks in the region. The meeting could signal plans for increased cooperation or escalation against US and Israeli interests.",
+    "translated": true
   },
   {
     "id": "e754f340248bcb64",
@@ -105,7 +413,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Hezbollah vows to keep weapons until Israeli occupation ends",
+    "relevant": true,
+    "summary_en": "Hezbollah has declared it will retain its weapons until Israel ends its occupation. This stance indicates ongoing tensions and potential for conflict on Israel's northern border. The statement underscores Hezbollah's role as a key adversary of Israel and its commitment to armed resistance.",
+    "translated": true
   },
   {
     "id": "81662fe01d5fc60f",
@@ -117,7 +429,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Leader emphasizes the importance of unity between people, officials, and Armed Forces",
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader stressed the critical need for unity among the populace, government officials, and the Armed Forces amidst the ongoing conflict with the US. This statement underscores the regime's focus on maintaining internal cohesion as a strategic priority during wartime. The emphasis on unity is likely aimed at countering potential internal dissent and ensuring resilience against external pressures.",
+    "translated": true
   },
   {
     "id": "4902318df5aba4d4",
@@ -129,7 +445,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran faces off with E3 over snapback sanctions as Russia and China back Tehran",
+    "relevant": true,
+    "summary_en": "Iran is in a diplomatic confrontation with the E3 (France, Germany, UK) over the potential reinstatement of UN sanctions (snapback sanctions). Russia and China are supporting Iran in this dispute. This development is significant as it indicates international diplomatic tensions linked to the ongoing conflict and could impact the enforcement of existing sanctions related to Iran's nuclear program and military activities.",
+    "translated": true
   },
   {
     "id": "d48c668395b720aa",
@@ -141,7 +461,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Isfahan: Where Iran’s rich history, culture, and industry unite",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "f981b5cedd35f7c6",
@@ -153,7 +477,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Gaza ceasefire reached after recent conflict",
+    "relevant": true,
+    "summary_en": "A ceasefire has been established in Gaza following recent hostilities. This development marks a fragile step towards healing and stability in the region. The ceasefire is significant as it aims to halt the ongoing violence and its impact on civilians amidst the broader US-Iran conflict and Israeli operations.",
+    "translated": true
   },
   {
     "id": "a80158e814e047d6",
@@ -165,7 +493,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Beyond the battlefield: General Soleimani’s strategic and diplomatic legacy",
+    "relevant": true,
+    "summary_en": "The article discusses the strategic and diplomatic legacy of General Qasem Soleimani, a key figure in Iran's military operations and IRGC leadership. It likely covers his influence on Iran's proxy networks and regional strategy, which remains relevant to the ongoing conflict. This is significant as it provides insight into Iran's military and diplomatic approach in the current war.",
+    "translated": true
   },
   {
     "id": "babada67317697e6",
@@ -177,7 +509,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Economic protests in Iran exploited by organized rioters",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "6aff8ecdc9b35854",
@@ -189,7 +525,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Democrats' secret report links Harris' 2024 loss to Gaza stance",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "37fd5bb7d986530b",
@@ -201,7 +541,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Carlson interview highlights US foreign policy prioritizing Israel over America",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "44e6e0eb5db923b8",
@@ -213,7 +557,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Participation shrinks at Israeli arms expo after Gaza conflict",
+    "relevant": true,
+    "summary_en": "The report indicates a decline in participation at an Israeli arms expo following the Gaza conflict. This could reflect international scrutiny or pressure on Israel due to the conflict. The development may impact Israel's arms trade and defense industry relations amid ongoing regional tensions.",
+    "translated": true
   },
   {
     "id": "41a70cc50b5c50ed",
@@ -225,7 +573,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Israel reportedly killed Gaza aid workers in execution-style massacre in 2025",
+    "relevant": true,
+    "summary_en": "The report claims that Israeli forces executed aid workers in Gaza in 2025, which could escalate tensions in the region and provoke international condemnation. This incident, if verified, would have significant implications for the ongoing conflict between Israel and Palestinian groups, potentially leading to increased violence and instability in Gaza.",
+    "translated": true
   },
   {
     "id": "4cb1b7a522c0aa4f",
@@ -237,7 +589,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Musk's xAI secures deal with Pentagon to power classified programs",
+    "relevant": true,
+    "summary_en": "Elon Musk's xAI has secured a deal with the Pentagon to provide AI services for classified programs. This partnership indicates growing collaboration between private tech companies and the US military amid the ongoing conflict with Iran. The strategic significance involves potential applications in intelligence analysis, cybersecurity, and military operations.",
+    "translated": true
   },
   {
     "id": "13c7395d12ed721f",
@@ -249,7 +605,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Freedom of speech, right to protest under assault in UK",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "db913912e8e0d660",
@@ -261,7 +621,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran achieves record gas output",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "8b64bff833a0a282",
@@ -273,7 +637,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "UK accused of suppressing pro-Palestine voices: Report",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "da9f7f61b5c9147d",
@@ -285,7 +653,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "UK envoy to US Peter Mandelson suspected of misconduct in public office",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "f3e3f32d3c31c0fe",
@@ -297,7 +669,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Trump calls for deportation of Muslim lawmakers after State of Union clash",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "3034818acfc79828",
@@ -309,7 +685,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Trump delivers longest-ever State of the Union address, claims US is 'winning' the conflict with Iran",
+    "relevant": true,
+    "summary_en": "In his longest-ever State of the Union address, former President Trump attempted to persuade the nation that the US is 'winning' the ongoing conflict with Iran. This statement comes amid ongoing hostilities and military operations in the Middle East, indicating the administration's focus on maintaining public support for its handling of the war. The speech's emphasis on 'winning' suggests potential strategic messaging to allies and adversaries during a critical phase of the conflict.",
+    "translated": true
   },
   {
     "id": "07164048a9863d79",
@@ -321,7 +701,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Paris silencing pro-Palestine voices",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "08ed903f734ca2e7",
@@ -333,7 +717,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Anthropic resists US War Department push for unrestricted AI access",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "d08e785c1a6bd00d",
@@ -345,7 +733,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Pro-Palestinian rally held in Sydney against Israeli president's visit",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "1d2ef60be475df8d",
@@ -357,7 +749,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Hundreds protest Israeli president's visit in Australia",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "bb75055f4c77400b",
@@ -369,7 +765,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Pro-Palestine protesters rally in Melbourne during Israeli president's visit",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "135ca851df9993db",
@@ -381,7 +781,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Protesters rally in Vienna against headscarf ban in schools",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "cc6fe42910460c54",
@@ -393,7 +797,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Mexico’s historic battle reenactment draws over 200,000 visitors",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "a5ddebeff2f57bcc",
@@ -405,7 +813,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Aerial shots of floods in western France's Maine-et-Loire department",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "bd1687881b68728e",
@@ -417,7 +829,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Police battle opposition protesters in Albanian capital",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "7e1afc828fc1b57a",
@@ -429,7 +845,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Gazans break Ramadan fast amid rubble of destroyed homes",
+    "relevant": true,
+    "summary_en": "Palestinians in Gaza are observing Ramadan amidst the destruction of their homes, highlighting the humanitarian impact of ongoing Israeli operations in the region. This situation underscores the broader conflict's toll on civilians and infrastructure in Gaza, which is linked to the wider Iran-US conflict through Iranian support for Hamas and other militant groups.",
+    "translated": true
   },
   {
     "id": "445f3fbef953e82e",
@@ -441,7 +861,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Gaza bakery supports displaced families ahead of Ramadan Iftar",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "6cd0a3c73a45b095",
@@ -453,7 +877,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Uba River floods destroy bridge and buildings, leave people missing in Brazil",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "0ed92e48dbccc881",
@@ -465,7 +893,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Normalization increases cost of defeating Israel, Yemeni leader warns",
+    "relevant": true,
+    "summary_en": "The leader of Yemen, likely from the Houthi movement, has warned that normalization efforts with Israel will increase the cost of any attempt to defeat Israel. This statement underscores the ongoing tensions and potential escalation in the region as alliances shift, impacting the strategic landscape for Israel and its adversaries.",
+    "translated": true
   },
   {
     "id": "f9f9415b6898109e",
@@ -477,7 +909,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Majority of Americans support Palestinian state as Israel backing declines sharply: Poll",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "e741599dbc1a889b",
@@ -489,7 +925,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "New Israeli strikes kill more Palestinians across Gaza in 'serious violation' of ceasefire",
+    "relevant": true,
+    "summary_en": "Israeli forces conducted new strikes in Gaza, resulting in Palestinian casualties, despite an existing ceasefire. This action is considered a serious violation of the ceasefire agreement. The escalation threatens regional stability and raises concerns about the potential for renewed conflict between Israel and Palestinian factions.",
+    "translated": true
   },
   {
     "id": "c3fd186cdff51e08",
@@ -501,7 +941,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran naval unit returns from drill, commander vows to defend borders to 'last breath'",
+    "relevant": true,
+    "summary_en": "An Iranian naval unit has returned from a military exercise, with the commander pledging to defend Iran's borders to the 'last breath'. This statement underscores Iran's readiness to respond to perceived threats amid ongoing hostilities with the US, highlighting potential escalation risks in the Gulf region.",
+    "translated": true
   },
   {
     "id": "cb148f889736f36a",
@@ -513,7 +957,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iraq's Kata’ib Hezbollah warns US of 'massive losses' in new war",
+    "relevant": true,
+    "summary_en": "Kata’ib Hezbollah, an Iraqi Shia militia with ties to Iran, has threatened the US with 'massive losses' in the event of a new conflict. This statement underscores ongoing tensions between US forces and Iran-backed militias in Iraq and Syria. The threat reflects the continued risk of escalation in the region as part of the broader Iran-US conflict.",
+    "translated": true
   },
   {
     "id": "4c27a9064e5a3581",
@@ -525,7 +973,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Vance expresses skepticism of military intervention following progress in Iran talks",
+    "relevant": true,
+    "summary_en": "US official Vance has stated his skepticism towards military intervention after recent progress in negotiations with Iran. This development suggests a potential shift towards diplomatic solutions in the ongoing conflict. The statement holds strategic significance as it may indicate de-escalation efforts amid the armed conflict.",
+    "translated": true
   },
   {
     "id": "9a9fc9ddf12dbb53",
@@ -537,7 +989,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "US intel debunks Trump's claim of Iran working on ICBMs",
+    "relevant": true,
+    "summary_en": "US intelligence has reportedly refuted former President Trump's claim that Iran is developing ICBMs. This is significant as it may influence current US policy and military strategy regarding Iran, particularly amid ongoing hostilities.",
+    "translated": true
   },
   {
     "id": "c84567eec9772ce8",
@@ -549,7 +1005,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "OIC welcomes Oman-mediated Geneva talks between Iran and US; warns against use of force",
+    "relevant": true,
+    "summary_en": "The Organization of Islamic Cooperation (OIC) has welcomed the Geneva talks between Iran and the US, mediated by Oman, while also warning against the use of force. This development is significant as it indicates diplomatic efforts to de-escalate the ongoing conflict between Iran and the US. The OIC's stance highlights international concerns over the potential for further military escalation in the region.",
+    "translated": true
   },
   {
     "id": "42e6f51cdd00b5ef",
@@ -561,7 +1021,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran calls for restraint and immediate ceasefire amid Afghanistan-Pakistan conflict escalation",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "7a06775d7550a803",
@@ -573,7 +1037,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Rubio warns US envoys against undermining pressure campaign on Iran",
+    "relevant": true,
+    "summary_en": "Senator Rubio cautioned US diplomats against undermining Trump's pressure campaign targeting Iran. This highlights internal US political dynamics influencing the Iran strategy during the conflict. The warning underscores the importance of maintaining a unified front against Iran amid ongoing hostilities.",
+    "translated": true
   },
   {
     "id": "f2c3bb9f0c94af1d",
@@ -585,7 +1053,11 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran and Qatar emphasize diplomatic efforts for regional peace and stability",
+    "relevant": true,
+    "summary_en": "Iran and Qatar are prioritizing diplomacy to maintain peace and stability in the region amidst the ongoing conflict. This indicates potential efforts to de-escalate tensions or mediate between conflicting parties. The strategic significance lies in diplomatic engagement as a means to prevent further regional destabilization.",
+    "translated": true
   },
   {
     "id": "9bbd9d9885cd404a",
@@ -597,7 +1069,23 @@
     "source_category": "state",
     "language": "en",
     "region": "iran",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Iran FM: Success of nuclear talks hinges on ‘seriousness’ of US",
+    "relevant": true,
+    "summary_en": "Iran's Foreign Minister stated that the success of nuclear talks depends on the US's seriousness. This is significant as it indicates ongoing diplomatic efforts amid the armed conflict and could influence the trajectory of the war if negotiations progress or fail.",
+    "translated": true
+  },
+  {
+    "id": "9a5e7a23b4c2e676",
+    "title_original": "مالزی حمله رژیم صهیونیستی و آمریکا را «اقدامی خبیثانه» خواند",
+    "content_original": "مالزی حمله رژیم صهیونیستی و آمریکا را «اقدامی خبیثانه» خواند",
+    "url": "https://www.irna.ir/news/86089397/%D9%85%D8%A7%D9%84%D8%B2%DB%8C-%D8%AD%D9%85%D9%84%D9%87-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%B1%D8%A7-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%DB%8C-%D8%AE%D8%A8%DB%8C%D8%AB%D8%A7%D9%86%D9%87-%D8%AE%D9%88%D8%A7%D9%86%D8%AF",
+    "published": "2026-02-28T10:43:33+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false
   },
   {
     "id": "7023f3f26f7711bf",
@@ -609,7 +1097,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US Strikes PMF Headquarters in Baghdad",
+    "relevant": true,
+    "summary_en": "The US has targeted a PMF (Popular Mobilization Forces) headquarters in Baghdad, Iraq. This strike is part of ongoing US operations against Iran-backed militias in the region. The attack signifies continued US efforts to counter proxy forces threatening its interests in Iraq.",
+    "translated": true
   },
   {
     "id": "90376bf642c8bf9d",
@@ -621,7 +1113,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Traffic Restrictions on Major Roads in Tehran",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "cb9f310655e44695",
@@ -633,7 +1129,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Salaries and benefits for South Khorasan government employees paid by end of February",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "d7089cea21ea2fa6",
@@ -645,7 +1145,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel's main airport has been closed",
+    "relevant": true,
+    "summary_en": "Israel's main international airport has been closed, likely due to security concerns amid the ongoing conflict with Iran and its proxies. This indicates a potential escalation or threat to Israeli airspace and civilian infrastructure. The closure will disrupt international travel and could signal heightened alert levels in Israel's defense apparatus.",
+    "translated": true
   },
   {
     "id": "ab49485bcd6ec8c7",
@@ -657,7 +1161,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iranian Army Chief of Staff Confirmed to be in Good Health",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "e9d891e20427f6c7",
@@ -669,7 +1177,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Italian Newspaper: US and Israel Planned Recent Attacks for Months",
+    "relevant": true,
+    "summary_en": "An Italian newspaper reports that the US and Israel had been planning their recent attacks for months. This suggests a high level of coordination and premeditation in their military operations against Iran-linked targets. The strategic significance is that it indicates a long-term, calculated approach to the ongoing conflict rather than reactive measures.",
+    "translated": true
   },
   {
     "id": "0bf36f440b009198",
@@ -681,7 +1193,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Tax Amnesty for Qazvin Guilds Extended to March 5",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "42b00540a5b15695",
@@ -693,7 +1209,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Airstrikes Target Areas in Tehran",
+    "relevant": true,
+    "summary_en": "Unspecified forces conducted airstrikes on locations in Tehran, Iran. This represents a significant escalation, targeting the capital city. The strikes could be part of ongoing US operations against Iranian military and nuclear infrastructure.",
+    "translated": true
   },
   {
     "id": "7e08f466ba586bdf",
@@ -705,7 +1225,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Enemy Attack on Isfahan Areas Without Casualties",
+    "relevant": true,
+    "summary_en": "Unspecified enemy forces launched an attack on areas in Isfahan, Iran. There were no reported casualties. The situation is likely linked to the ongoing conflict, indicating potential escalation in Iranian territory.",
+    "translated": true
   },
   {
     "id": "acd336a31deb83de",
@@ -717,7 +1241,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Emergency and Medical Centers in Mashhad Increase Staff by 50% and Are on High Alert",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "7b9a0e466af73f1c",
@@ -729,7 +1257,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iranian Official Reaffirms Self-Defense to Iraqi Counterpart",
+    "relevant": true,
+    "summary_en": "Iran's Foreign Minister Hossein Amir-Abdollahian communicated to his Iraqi counterpart that Iran will continue to defend itself amid ongoing hostilities. This underscores Iran's stance on maintaining its right to self-defense in the context of the conflict with the US and its allies. The call highlights the continued diplomatic engagement between Iran and Iraq amidst regional tensions.",
+    "translated": true
   },
   {
     "id": "20c1606d5611cf15",
@@ -741,7 +1273,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "IRGC Claims Strikes on US Military Bases in the Region",
+    "relevant": true,
+    "summary_en": "The IRGC has announced that US military bases in the region have been targeted. This indicates ongoing Iranian retaliation against US assets in response to previous US strikes on Iranian targets. The strategic significance involves escalating tensions and potential further escalation in the conflict.",
+    "translated": true
   },
   {
     "id": "b74ecb2aa3e6a512",
@@ -753,7 +1289,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Unveiling of a Plan to Plant One Billion Trees in Markazi Province",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "e6eac2497b177c37",
@@ -765,7 +1305,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Weather Warning Issued for Bushehr",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "09ef504221b6e530",
@@ -777,7 +1321,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "UK emphasizes negotiated solution on Iran's nuclear issue",
+    "relevant": true,
+    "summary_en": "The UK has reiterated the importance of a negotiated resolution to Iran's nuclear issue. This statement comes amid ongoing tensions in the region due to the armed conflict between Iran and the US. The emphasis on diplomacy is significant as it may influence international efforts to de-escalate the conflict and address concerns over Iran's nuclear program.",
+    "translated": true
   },
   {
     "id": "d2456c6823f82226",
@@ -789,7 +1337,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran reportedly strikes Tel Aviv; hits 9-story building in Ashkelon and Zionist settlement",
+    "relevant": true,
+    "summary_en": "Iran has reportedly launched attacks targeting Tel Aviv, with strikes hitting a 9-story building in Ashkelon and a Zionist settlement. This represents a significant escalation in the conflict, demonstrating Iran's capability to target major Israeli cities. The strikes could provoke further Israeli retaliation against Iranian assets and deepen regional instability.",
+    "translated": true
   },
   {
     "id": "3546d68242d807b8",
@@ -801,7 +1353,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US and Israeli attacks on Iran; Sweden calls for return to negotiations",
+    "relevant": true,
+    "summary_en": "The US and Israel have launched attacks on Iran, escalating the ongoing conflict. Sweden has urged a return to negotiations amidst the heightened military actions. This development highlights the international community's efforts to de-escalate the situation while military confrontations continue.",
+    "translated": true
   },
   {
     "id": "2c7192cef7274efd",
@@ -813,7 +1369,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Crisis Management Headquarters Established in Razavi Khorasan Province",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "db632fa0647bd3d1",
@@ -825,7 +1385,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Schools and universities in Razavi Khorasan province switch to remote learning",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "a8ee29ae61eda067",
@@ -837,7 +1401,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israeli regime Strikes Girls' School in Minab; 5 Students Martyred",
+    "relevant": true,
+    "summary_en": "The Israeli regime reportedly targeted a girls' school in Minab, Iran, resulting in the martyrdom of five students. This attack signifies a potential escalation in regional hostilities and highlights the targeting of civilian infrastructure. The incident could provoke further regional condemnation and retaliatory actions.",
+    "translated": true
   },
   {
     "id": "c2fe2dc12550eb28",
@@ -849,7 +1417,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Production Begins on 'Team of Freedom' Series Commemorating 12 Footballer Martyrs from Semnan",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "802736ee325f4d43",
@@ -861,7 +1433,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Afternoon Schools in Isfahan Province Closed",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "44447c299306b06f",
@@ -873,7 +1449,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran's Red Crescent mobilizes rapid response, logistics, and medical teams",
+    "relevant": true,
+    "summary_en": "Iran's Red Crescent has fully mobilized its rapid response, logistics, and medical teams, likely in preparation for potential escalation or humanitarian impact from the ongoing conflict with the US. This indicates heightened readiness for emergency response and support within Iran.",
+    "translated": true
   },
   {
     "id": "e086cc59ae4bb5a4",
@@ -885,7 +1465,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Distribution of 57,000 Seedlings in Kangavar During Natural Resources Week",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "79255bf46094cfce",
@@ -897,7 +1481,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Tree planting exercise for students in Gonbad",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "4036b2a3411f68af",
@@ -909,7 +1497,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran Armed Forces Spokesperson: We Will Teach the US and Israel a Major Lesson",
+    "relevant": true,
+    "summary_en": "The spokesperson for Iran's Armed Forces has issued a statement indicating that Iran plans to deliver a significant retaliatory response to the US and Israel. This suggests potential escalation in military actions by Iran against these adversaries, highlighting the ongoing tensions and the possibility of further conflict in the region.",
+    "translated": true
   },
   {
     "id": "292e4069e16244eb",
@@ -921,7 +1513,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Blood Transfusion Center in Bushehr Calls for Donors",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "defd836fce00d48b",
@@ -933,7 +1529,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "UK Anti-War Groups Condemn US and Israeli Aggression Against Iran",
+    "relevant": true,
+    "summary_en": "UK anti-war organizations have condemned the US and Israel for their aggressive actions against Iran. This condemnation reflects growing international criticism of the ongoing conflict and its escalation. The statement adds to the diplomatic pressure on the US and Israel amidst the military operations.",
+    "translated": true
   },
   {
     "id": "f29d9aabca1f2d98",
@@ -945,7 +1545,11 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "National Billion Tree Planting Project Successful in Zanjan",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "9b94ee7250bf10d4",
@@ -957,6 +1561,10 @@
     "source_category": "state",
     "language": "fa",
     "region": "iran",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Medvedev: US Revealed Its True Face by Attacking Iran",
+    "relevant": true,
+    "summary_en": "Dmitry Medvedev, a prominent Russian political figure, criticized the US for its military actions against Iran, suggesting that such attacks expose the true intentions and nature of the US. This statement underscores the ongoing tensions and geopolitical dynamics between Russia, the US, and Iran amidst the conflict. The remark is significant as it reflects Russia's position and potential alignment with Iran against US actions.",
+    "translated": true
   }
 ]

@@ -1,1 +1,691 @@
-[]
+[
+  {
+    "id": "b03c540c5943e9b3",
+    "title_original": "ISNA: в Иране результате удара по зданию школы в городе Абийек погиб ученик",
+    "content_original": "По данным агентства, еще несколько детей получили ранения",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26587531",
+    "published": "2026-02-28T13:54:48+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Student killed and several injured in school strike in Abiyek, Iran",
+    "relevant": true,
+    "summary_en": "A student was killed and several others injured after a strike hit a school building in Abiyek, Iran. The incident highlights the ongoing conflict's impact on civilian infrastructure and raises concerns about potential escalation. The responsible party for the strike is not specified, but it adds to the growing civilian casualties in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Abiyek, Iran",
+      "brief": "The incident highlights the impact of the conflict on civilian infrastructure and raises concerns about potential escalation, though direct attribution to the Iran-US conflict is unclear."
+    }
+  },
+  {
+    "id": "12a3b0e8e058fbb7",
+    "title_original": "Al Mayadeen: аэропорт Эрбиля в Иракском Курдистане подвергся ракетному обстрелу",
+    "content_original": "По данным телеканала, система ПВО перехватила ракеты",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26587469",
+    "published": "2026-02-28T13:53:50+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile Attack on Erbil Airport in Iraqi Kurdistan",
+    "relevant": true,
+    "summary_en": "Unidentified militants launched a missile attack on Erbil Airport in Iraqi Kurdistan, with air defenses intercepting the projectiles. This incident highlights the ongoing instability in northern Iraq and the potential threat to US assets and personnel in the region. The attack could be linked to Iranian-backed groups retaliating against US presence in Iraq.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "threat",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran-backed militants",
+        "US forces",
+        "Iraqi Kurdistan"
+      ],
+      "location": "Erbil Airport, Iraqi Kurdistan",
+      "brief": "The missile attack on Erbil Airport, likely by Iranian-backed groups, demonstrates the persistent threat to US assets in Iraq and the potential for escalation in proxy conflicts."
+    }
+  },
+  {
+    "id": "dfcab930de2f42f7",
+    "title_original": "ВС Катара отразили второй ракетный удар на страну",
+    "content_original": "ВС Катара отразили второй ракетный удар на страну",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26587195",
+    "published": "2026-02-28T13:32:42+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Qatari Armed Forces Intercept Second Missile Strike on Country",
+    "relevant": true,
+    "summary_en": "Qatari Armed Forces intercepted a second missile strike targeting the country. This incident highlights the escalating regional tensions and potential threats to US allies in the Gulf amid the ongoing Iran-US conflict. The strategic significance involves the security of US bases and interests in Qatar.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "intercept",
+      "conflict",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Qatar",
+        "Iran",
+        "US"
+      ],
+      "location": "Qatar",
+      "brief": "The missile strike on Qatar, intercepted by Qatari forces, underscores escalating regional tensions and direct threats to US interests and allies amid the Iran-US conflict."
+    }
+  },
+  {
+    "id": "ade01bf3ad52be34",
+    "title_original": "Минобороны ОАЭ: один человек погиб в Абу-Даби из-за иранского ракетного обстрела",
+    "content_original": "Минобороны ОАЭ: один человек погиб в Абу-Даби из-за иранского ракетного обстрела",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26587105",
+    "published": "2026-02-28T13:27:54+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "One Person Killed in Abu Dhabi by Iranian Missile Strike",
+    "relevant": true,
+    "summary_en": "An Iranian missile strike resulted in one fatality in Abu Dhabi, UAE. This incident highlights the direct threat under which Gulf states are operating due to the ongoing conflict. The attack is likely to escalate tensions and provoke a response from the UAE and its allies, including the US.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "killed",
+      "missile",
+      "strike",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "The missile strike in Abu Dhabi by Iran demonstrates a direct escalation and threat to US allies in the Gulf region, likely prompting a response from the US and its partners."
+    }
+  },
+  {
+    "id": "81220457cdb6f0b2",
+    "title_original": "В Ираке при атаке позиций шиитского ополчения  погибли два человека",
+    "content_original": "Трое получили ранения",
+    "url": "https://tass.ru/proisshestviya/26586713",
+    "published": "2026-02-28T13:04:30+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Two killed in attack on Shia militia positions in Iraq",
+    "relevant": true,
+    "summary_en": "Unidentified attackers targeted Shia militia positions in Iraq, resulting in two fatalities and three injuries. This incident is significant as it involves the Popular Mobilization Forces (PMF), which are linked to Iran, and could escalate tensions in the region amid the ongoing US-Iran conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "killed",
+      "pmf",
+      "militia"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Unidentified attackers",
+        "Popular Mobilization Forces (PMF)",
+        "Iran"
+      ],
+      "location": "Iraq",
+      "brief": "The attack on PMF positions in Iraq, linked to Iran, could escalate regional tensions amid the ongoing US-Iran conflict."
+    }
+  },
+  {
+    "id": "d972faab95afc667",
+    "title_original": "הערכה בישראל: חוסל מפקד משמרות המהפכה - שנכנס לתפקיד ב\"עם כלביא\"",
+    "content_original": "מוחמד פאכפור נכנס לתפקידו במקום חוסיין סלאמי שחוסל במבצע \"עם כלביא\". על פי ההערכות בישראל, הוא חוסל במהלומת הפתיחה. באיראן הכחישו, אך מקור המקורב למשטר אמר לרויטרס: כמה מפקדים בכירים וגורמים פוליטיים נהרגו. גורמים ישראלים: \"גם עלי לריג'אני היה על הכוונת\"",
+    "url": "https://www.ynet.co.il/news/article/hjfs4heyzl",
+    "published": "2026-02-28T12:39:41+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli assessment: IRGC commander killed in 'With the Strength of a Lion' operation",
+    "relevant": true,
+    "summary_en": "An IRGC commander, Mohammed Fakhrpour, was reportedly killed in an Israeli operation named 'With the Strength of a Lion', which targeted senior IRGC and political figures in Iran. This follows the elimination of his predecessor, Hossein Salami, and suggests ongoing Israeli operations targeting high-level Iranian military leadership.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "The targeted killing of an IRGC commander by Israel represents a significant escalation in direct military operations against Iran's military leadership."
+    }
+  },
+  {
+    "id": "0202aac3e45b4695",
+    "title_original": "الرئيس الأمريكي يعلن انطلاق عملية عسكرية أمريكية واسعة ضد إيران",
+    "content_original": "واشنطن في 28 فبراير /قنا/ أعلن الرئيس الأمريكي دونالد ترامب، أن الجيش الأمريكي بدأ صباح اليوم \"عملية قتالية كبيرة\" داخل إيران، مؤكدا أن التحرك يأتي ردا على ما وصفه بمحاولات طهران إعادة بناء برنامجها النووي وتطوير قدرات صاروخية بعيدة المدى تهدد الولايات المتحدة ودولا أخرى.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/الرييس-الامريكي-يعلن-انطلاق-عملية-عسكرية-امريكية-واسعة-ضد-ايران",
+    "published": "2026-02-28T11:22:10.251581+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "US President Announces Large-Scale Military Operation Against Iran",
+    "relevant": true,
+    "summary_en": "US President Donald Trump announced the launch of a major military operation inside Iran in response to Tehran's efforts to rebuild its nuclear program and develop long-range missile capabilities. The operation marks a significant escalation in the ongoing conflict between the US and Iran, with potential implications for regional stability and global security.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "military operation",
+      "nuclear",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "critical",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The US has launched a major military operation inside Iran, marking a critical escalation in the conflict with direct state engagement and significant implications for regional stability."
+    }
+  },
+  {
+    "id": "6b7cf8761b7856f9",
+    "title_original": "وزارة الدفاع الإماراتية تعلن التصدي لهجوم بصواريخ باليستية",
+    "content_original": "أبوظبي في 28 فبراير /قنا/ أعلنت وزارة الدفاع الإماراتية عن تعرض الإمارات، اليوم، لهجوم بصواريخ باليستية إيرانية، \"حيث تعاملت معها الدفاعات الجوية الإماراتية بكفاءة عالية وتم التصدي بنجاح لعدد من الصواريخ\".",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/وزارة-الدفاع-الاماراتية-تعلن-التصدي-لهجوم-بصواريخ-باليستية",
+    "published": "2026-02-28T11:22:10.251349+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "UAE Defense Ministry Reports Successful Interception of Iranian Ballistic Missile Attack",
+    "relevant": true,
+    "summary_en": "The UAE Defense Ministry announced that the UAE successfully intercepted multiple Iranian ballistic missiles targeting the country. UAE air defenses demonstrated high efficiency in countering the attack. This incident highlights the ongoing threat posed by Iranian missile capabilities in the region and the UAE's readiness to defend against such attacks.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "ballistic",
+      "threat",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "Iran's ballistic missile attack on the UAE demonstrates the direct threat posed by Iranian missile capabilities and the potential for regional escalation in the Iran–US conflict."
+    }
+  },
+  {
+    "id": "73ceba22645da477",
+    "title_original": "الأردن يعلن إسقاط صاروخين باليستيين فوق أراضيه",
+    "content_original": "عمان في 28 فبراير /قنا/ صرح مصدر عسكري مسؤول في القيادة العامة للقوات المسلحة الأردنية، بأنه تم اليوم، إسقاط صاروخين باليستيين استهدفا الأراضي الأردنية، مبينا أنه جرى التصدي لها بنجاح من قبل أنظمة الدفاع الجوي الأردنية.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/الاردن-يعلن-اسقاط-صاروخين-باليستيين-فوق-اراضيه",
+    "published": "2026-02-28T11:22:10.251252+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Jordan Announces Interception of Two Ballistic Missiles Over Its Territory",
+    "relevant": true,
+    "summary_en": "Jordanian armed forces successfully intercepted and downed two ballistic missiles targeting its territory. The incident highlights the ongoing threat to regional stability as the conflict between Iran and the US continues to spill over into neighboring countries. This event underscores the importance of air defense systems in protecting against potential threats in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "ballistic",
+      "threat",
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "medium",
+      "parties_involved": [
+        "Jordan",
+        "Iran"
+      ],
+      "location": "Jordan",
+      "brief": "The interception of ballistic missiles over Jordan highlights the regional spillover of the Iran–US conflict and the persistent threat to neighboring countries' security."
+    }
+  },
+  {
+    "id": "7023f3f26f7711bf",
+    "title_original": "رسانه های عراقی: آمریکا مقر الحشد الشعبی را در بغداد هدف قرار داد",
+    "content_original": "رسانه های عراقی: آمریکا مقر الحشد الشعبی را در بغداد هدف قرار داد",
+    "url": "https://www.irna.ir/news/86089424/%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7%DB%8C-%D8%B9%D8%B1%D8%A7%D9%82%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D9%82%D8%B1-%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%DB%8C-%D8%B1%D8%A7-%D8%AF%D8%B1-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D9%87%D8%AF%D9%81-%D9%82%D8%B1%D8%A7%D8%B1",
+    "published": "2026-02-28T10:39:31+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "US Strikes PMF Headquarters in Baghdad",
+    "relevant": true,
+    "summary_en": "The US has targeted a PMF (Popular Mobilization Forces) headquarters in Baghdad, Iraq. This strike is part of ongoing US operations against Iran-backed militias in the region. The attack signifies continued US efforts to counter proxy forces threatening its interests in Iraq.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "proxy",
+      "strike",
+      "pmf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "Popular Mobilization Forces (PMF)",
+        "Iran"
+      ],
+      "location": "Baghdad, Iraq",
+      "brief": "The US airstrike on a PMF headquarters in Baghdad demonstrates ongoing efforts to counter Iran-backed militias, escalating tensions in Iraq."
+    }
+  },
+  {
+    "id": "13874fe1729330a4",
+    "title_original": "🚨 اصابت موشک ایرانی به قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅  ...",
+    "content_original": "🚨 اصابت موشک ایرانی به قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44791",
+    "published": "2026-02-28T10:23:37+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missile Strikes in Qatar",
+    "relevant": true,
+    "summary_en": "Iran has launched a missile attack targeting Qatar, marking a significant escalation in the conflict. This action directly involves a US ally and host of a major US military base, Al Udeid Air Base. The strike raises concerns about regional stability and potential US military responses in defense of Qatar.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Qatar, Al Udeid Air Base",
+      "brief": "Iran's missile strike on Qatar, home to a major US military base, represents a direct attack on a US ally and critical strategic asset, posing a severe escalation risk in the conflict."
+    }
+  },
+  {
+    "id": "be2546c3fb607bff",
+    "title_original": "🚨 رویترز ادعا می‌کند چندین افسر ارشد سپاه پاسداران و مقام دولتی ایران به شهادت رسیدند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ...",
+    "content_original": "🚨 رویترز ادعا می‌کند چندین افسر ارشد سپاه پاسداران و مقام دولتی ایران به شهادت رسیدند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44788",
+    "published": "2026-02-28T10:10:42+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Reuters Claims Several Senior IRGC Officers and Iranian Government Officials Killed",
+    "relevant": true,
+    "summary_en": "Reuters reports that multiple senior IRGC officers and Iranian government officials have been killed. This development is significant as it indicates potential high-level casualties within Iran's military and government leadership amidst the ongoing conflict. The strategic impact could affect Iran's command and control capabilities and potentially influence decision-making in Tehran.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Iranian Government",
+        "Iranian Resistance Iraq (TG)"
+      ],
+      "location": "Iran",
+      "brief": "The killing of multiple senior IRGC officers and Iranian government officials represents a significant escalation in the conflict, potentially impacting Iran's command and control capabilities."
+    }
+  },
+  {
+    "id": "80e96ba90ee434c0",
+    "title_original": "🚨 امارات: از سوی ایران مورد حمله موشکی قرار گرفتیم / با موشک ها مقابله کردیم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
+    "content_original": "🚨 امارات: از سوی ایران مورد حمله موشکی قرار گرفتیم / با موشک ها مقابله کردیم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44787",
+    "published": "2026-02-28T10:05:35+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "UAE Reports Missile Attack from Iran and Intercepts",
+    "relevant": true,
+    "summary_en": "The UAE claims it was targeted by a missile attack from Iran and successfully intercepted the missiles. This incident signifies an escalation in regional hostilities and direct engagement between Iran and a US ally, raising concerns about further conflict in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "UAE",
+      "brief": "Iran's missile attack on the UAE, a key US ally, represents a direct escalation in regional hostilities and raises the risk of broader conflict in the Gulf region."
+    }
+  },
+  {
+    "id": "4a77566f1ac4f49f",
+    "title_original": "בצה\"ל חושפים את התרגיל: \"התקיפה באיראן הגיעה בהפתעה\"",
+    "content_original": "גורם בכיר בצה\"ל הבהיר כי מטרת המבצע באיראן היא לפגוע במשטר ולהסיר את האיום הקיומי מעל ישראל, בתיאום מלא עם ארה\"ב. במקביל גויסו עשרות אלפי מילואימניקים וכוחות תוגברו בכלל הגזרות",
+    "url": "https://www.maariv.co.il/news/military/article-1290091",
+    "published": "2026-02-28T10:03:55+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Reveals Operation: 'Attack on Iran Came as a Surprise'",
+    "relevant": true,
+    "summary_en": "The IDF, in coordination with the US, conducted a surprise attack on Iran aimed at weakening the regime and eliminating the existential threat to Israel. Tens of thousands of reservists have been called up, and forces have been reinforced across all fronts.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "threat",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The coordinated surprise airstrike by Israel and the US on Iran marks a significant escalation, indicating direct military engagement and posing a critical threat to the Iranian regime."
+    }
+  },
+  {
+    "id": "71bae25a767d67f6",
+    "title_original": "איראן משגרת איום ישיר לעבר ישראל וארה\"ב: \"אין קווים אדומים\"",
+    "content_original": "גורם איראני בכיר הצהיר כי \"אין קווים אדומים\" וכי כל הנכסים והאינטרסים האמריקאיים והישראליים במזרח התיכון הם מטרה לגיטימית. משמרות המהפכה הודיעו כי החל גל ראשון של מתקפות טילים וכטב\"מים כתגובה למתקפה",
+    "url": "https://www.maariv.co.il/news/military/article-1290077",
+    "published": "2026-02-28T09:17:53+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran Threatens Israel and US: 'No Red Lines'",
+    "relevant": true,
+    "summary_en": "A senior Iranian official declared that there are 'no red lines' and that all US and Israeli assets and interests in the Middle East are legitimate targets. The IRGC announced the start of a first wave of missile and drone attacks in response to a previous strike, indicating a significant escalation in the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "missile",
+      "strike",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "Iran's declaration of 'no red lines' and initiation of missile and drone attacks against US and Israeli assets marks a significant escalation in the conflict."
+    }
+  },
+  {
+    "id": "8c0ffea0f88472e6",
+    "title_original": "إيران ترد برشقات صاروخية على كيان الاحتلال",
+    "content_original": "المركز الفلسطيني للإعلام بدأت إيران الرد على العدوان الأمريكي الإسرائيلي، بإطلاق موجة من الصواريخ الباليستية صوب أهداف في كيان الاحتلال. وأعلن الحرس الثوري الإيراني في بيان: ردًا على عدوان العدو المعتدي والقاتل على الجمهورية الإسلامية الإيرانية، بدأت أول موجة من الهجمات الصاروخية والطائرات المسيرة الواسعة للجمهورية الإسلامية الإيرانية نحو الأراضي المحتلة. وقالت مواقع عبرية، إن صفارات الإنذار دوت في جميع مدن إسرائيل مع صدور تعليمات بالدخول إلى الملاجئ، بعد إعلان حالة &#8220;طوارئ خاصة&#8221;. وأورد موقع والا الإسرائيلي أن أصوات الانفجارات سُمعت في منطقة حيفا، كما ذكرت وسائل إعلام إسرائيلية أخرى دوي انفجارات قوية في منطقة الجليل شمال إسرائيل. وتحدثث وسائل إعلام عبرية عن إسقاط صاروخ في سماء تل أبيب، وسقوط صاروخين في منطقة مفتوحة أخرى شمال فلسطين المحتلة. ولاحقا أقرت وسائل إعلام عبرية باستهدف مبنى مباشرة في عسقلان ومبنى في تل أبيب. وفي تطور لاحق، رصدت وسائل إعلام انطلاق موجة صواريخ إيرانية جديدة على كيان الاحتلال. الحرب على إيران .. هجمات إسرائيلية وأميركية على طهران وفي أول تعليق على الحر...",
+    "url": "https://palinfo.com/news/2026/02/28/994398/",
+    "published": "2026-02-28T08:41:50+00:00",
+    "source_name": "Hamas (Palestine Info)",
+    "source_category": "proxy",
+    "language": "en",
+    "region": "proxies",
+    "skip_translation": true,
+    "title_en": "Iran launches ballistic missile barrage at Israel",
+    "relevant": true,
+    "summary_en": "Iran's IRGC launched ballistic missiles and drones targeting Israel in response to US-Israeli aggression against Iran. Air raid sirens sounded across Israeli cities, with reports of explosions in Haifa and the Galilee region. This escalation signifies a significant expansion of the conflict with potential regional implications.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "irgc",
+      "ballistic",
+      "conflict",
+      "raid",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IRGC",
+        "US"
+      ],
+      "location": "Haifa, Galilee region, Israel",
+      "brief": "Iran's ballistic missile barrage against Israel marks a critical escalation, directly involving Iran in the conflict and posing significant regional security risks."
+    }
+  },
+  {
+    "id": "9fd3872aa08b23e9",
+    "title_original": "כל המדינה במקלטים: אחרי מתקפת המנע - ישראל תחת מתקפה נרחבת מאיראן",
+    "content_original": "אזעקות נשמעו בכל הארץ בעקבות זיהוי שיגור טילים לעבר שטח המדינה. \"הציבור מתבקש לגלות אחריות ולפעול על פי ההנחיות - הן מצילות חיים\", מסר פיקוד העורף",
+    "url": "https://www.maariv.co.il/news/military/Blog-1290046",
+    "published": "2026-02-28T08:20:08+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israel Under Wide-Ranging Attack from Iran After Missile Barrage",
+    "relevant": true,
+    "summary_en": "Iran launched a widespread missile attack on Israel, triggering nationwide air raid sirens and prompting the Home Front Command to urge citizens to follow safety protocols. This represents a significant escalation in the ongoing conflict between Iran and Israel, with potential regional implications.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "raid",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran's ballistic missile attack on Israel marks a critical escalation, posing a direct threat to regional stability and potentially drawing in US forces."
+    }
+  },
+  {
+    "id": "3a956bc35a06523b",
+    "title_original": "אזעקות בישראל: התרעות נשמעו באזורים נרחבים בצפון בעקבות שיגור מאיראן",
+    "content_original": "אזעקות נשמעו באזורים נרחבים בצפון ישראל בעקבות זיהוי שיגור טילים לעבר שטח המדינה. \"הציבור מתבקש לגלות אחריות ולפעול על פי ההנחיות - הן מצילות חיים\", מסר פיקוד העורף",
+    "url": "https://www.maariv.co.il/news/military/article-1290043",
+    "published": "2026-02-28T08:16:44+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Missile Alerts in Northern Israel Triggered by Suspected Iranian Launch",
+    "relevant": true,
+    "summary_en": "Missile alerts were activated across northern Israel following the detection of missile launches from Iran towards Israeli territory. The Home Front Command urged citizens to follow safety protocols, emphasizing that they save lives. This incident signifies a significant escalation in the ongoing conflict between Israel and Iran, highlighting the direct threat under which Israeli civilians are placed.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Northern Israel",
+      "brief": "Iran's ballistic missile launch towards Israel represents a significant escalation, posing a direct threat to Israeli territory and civilians."
+    }
+  },
+  {
+    "id": "c57d69035fc81a0a",
+    "title_original": "תיעוד: הותקפו פירים תת-קרקעיים של חיזבאללה בדרום לבנון",
+    "content_original": "בצה\"ל אמרו כי עמדות השיגור שהותקפו לצד הפירים התת-קרקעיים של ארגון הטרור שימשו אותו ל\"קידום מתווי טרור\". בצבא הזהירו כי \"חיזבאללה פועל לשקם את הארגון - ומפר את ההבנות\"",
+    "url": "https://www.ynet.co.il/news/article/skl6l11gkzx",
+    "published": "2026-02-28T07:49:54+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF strikes Hezbollah underground tunnels in southern Lebanon",
+    "relevant": true,
+    "summary_en": "The IDF targeted Hezbollah underground tunnels and launch positions in southern Lebanon, citing their use for 'terror activities.' The military warned that Hezbollah is attempting to rebuild and violating previous understandings, indicating ongoing tensions and potential escalation in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "southern Lebanon",
+      "brief": "The IDF airstrikes on Hezbollah tunnels in southern Lebanon indicate ongoing tensions and potential escalation in the Israel-Lebanon border region, which could impact the broader Iran–US conflict through Hezbollah's role as an Iranian proxy."
+    }
+  },
+  {
+    "id": "57d8639051cc0794",
+    "title_original": "מתקפת המנע של ארה\"ב וישראל באיראן: \"אלפי הרוגים במשמרות המהפכה\"",
+    "content_original": "ישראל וארה\"ב פתחו במתקפת מנע נגד איראן - הוכרז מצב חירום מיוחד ומיידי בכל שטחי המדינה. הותקפו מוקדים משמעותיים בטהרן, כולל מוקדי שלטון. טראמפ: \"יצאנו למלחמה. לא יהיה נשק גרעיני\"",
+    "url": "https://www.maariv.co.il/news/military/article-1289990",
+    "published": "2026-02-28T06:16:12+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "US and Israel Launch Preventive Attack on Iran: 'Thousands of IRGC Casualties'",
+    "relevant": true,
+    "summary_en": "The US and Israel have initiated a preventive attack on Iran, with Tehran's key centers, including government facilities, targeted. A state of emergency has been declared across Iran. The attack aims to prevent Iran's nuclear capabilities, with President Trump stating the objective is to ensure Iran does not acquire nuclear weapons.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "irgc",
+      "attack",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The US and Israel launched a coordinated airstrike on Iran targeting government facilities and IRGC centers, marking a significant escalation in the conflict with mass casualties reported."
+    }
+  }
+]
