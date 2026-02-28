@@ -1,5 +1,178 @@
 [
   {
+    "id": "e58cf297c160f54c",
+    "title_original": "В центральной части Израиля упали обломки ракеты",
+    "content_original": "В центральной части Израиля упали обломки ракеты",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590989",
+    "published": "2026-02-28T17:59:38+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Rocket Debris Falls in Central Israel",
+    "relevant": true,
+    "summary_en": "Rocket debris fell in central Israel, likely as a result of an attempted attack or misfire from a regional adversary such as Hezbollah or Hamas. This incident highlights ongoing tensions and threats to Israeli security amid the broader conflict involving Iran-linked groups. The event may prompt further Israeli military responses or defensive measures.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hamas",
+      "hezbollah",
+      "conflict",
+      "rocket",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Central Israel",
+      "brief": "The incident underscores ongoing regional tensions and the potential for escalation as Iranian-backed groups like Hezbollah continue to threaten Israeli security."
+    }
+  },
+  {
+    "id": "913f6708457a58b7",
+    "title_original": "В Дубае обломки ракеты упали на жилой район Palm Jumeirah",
+    "content_original": "В Дубае обломки ракеты упали на жилой район Palm Jumeirah",
+    "url": "https://ria.ru/20260228/raketa-2077481877.html",
+    "published": "2026-02-28T17:58:42+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile Debris Falls on Dubai's Palm Jumeirah Residential Area",
+    "relevant": true,
+    "summary_en": "Missile debris landed in the Palm Jumeirah residential area in Dubai, indicating a potential security threat to the UAE amid the ongoing conflict. This incident highlights the risk of collateral damage from the Iran-US conflict spilling over into the Gulf region. The UAE's response and any subsequent actions by the US or Iran will be critical in determining further escalation or de-escalation.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The incident signifies a dangerous escalation as missile debris lands in a civilian area of a US ally, highlighting the risk of regional spillover from the Iran-US conflict."
+    }
+  },
+  {
+    "id": "f5b85faf854dde95",
+    "title_original": "Три сотрудника безопасности экс-президента Ирана погибли из-за авиаудара",
+    "content_original": "Три сотрудника безопасности экс-президента Ирана погибли из-за авиаудара",
+    "url": "https://ria.ru/20260228/iran-2077481779.html",
+    "published": "2026-02-28T17:58:21+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Three security personnel of former Iranian president killed in airstrike",
+    "relevant": true,
+    "summary_en": "Unspecified attackers conducted an airstrike targeting the security team of a former Iranian president, resulting in three casualties. The incident highlights the ongoing threat under which even former Iranian leadership operates amid the conflict. The strategic significance depends on whether this was a targeted attack by a party involved in the conflict, such as the US or Israel.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "airstrike",
+      "killed",
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "unknown_attackers",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The killing of security personnel for a former Iranian president in an airstrike raises concerns about targeted attacks on Iranian leadership and potential escalation within the conflict."
+    }
+  },
+  {
+    "id": "01ee98b7230d44b5",
+    "title_original": "Mehr: силы ПВО Ирана сбили три БПЛА Hermes ВВС Израиля",
+    "content_original": "Mehr: силы ПВО Ирана сбили три БПЛА Hermes ВВС Израиля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590969",
+    "published": "2026-02-28T17:57:51+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Air Defenses Shoot Down Three Israeli Hermes UAVs",
+    "relevant": true,
+    "summary_en": "Iranian air defense forces have shot down three Israeli Hermes drones. This incident occurred in an unspecified location, likely near Iranian borders or within Iranian airspace. The downing of the drones signifies ongoing tensions and military engagements between Iran and Israel amid the broader conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "shoot down",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Iranian airspace or borders",
+      "brief": "The downing of Israeli Hermes drones by Iran highlights ongoing military tensions and engagements between the two nations, contributing to regional instability amid the broader Iran–US conflict."
+    }
+  },
+  {
+    "id": "7faee10b219c6959",
+    "title_original": "Улицы Тель-Авива опустели на фоне ракетных обстрелов",
+    "content_original": "Улицы Тель-Авива опустели на фоне ракетных обстрелов",
+    "url": "https://ria.ru/20260228/ulitsy-2077480816.html",
+    "published": "2026-02-28T17:53:42+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tel Aviv Streets Empty Amid Rocket Attacks",
+    "relevant": true,
+    "summary_en": "The streets of Tel Aviv have emptied due to ongoing rocket attacks, indicating a significant security concern and potential escalation in hostilities affecting civilian populations in Israel. This development is likely linked to recent military operations between Israel and Iran-backed groups like Hezbollah or Hamas. The situation underscores the continued threat under which Israeli urban centers operate.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "threat",
+      "hamas",
+      "hezbollah",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "The rocket attacks on Tel Aviv highlight the ongoing threat posed by Iran-backed Hezbollah, posing a significant risk of escalation in the Israel-Iran conflict."
+    }
+  },
+  {
     "id": "b2ff067902dc7c16",
     "title_original": "Fox news: США впервые применили в боевых условиях дроны-камикадзе",
     "content_original": "Fox news: США впервые применили в боевых условиях дроны-камикадзе",
@@ -1494,6 +1667,71 @@
       ],
       "location": "Bahrain",
       "brief": "The interception of an Iranian missile by Bahrain Defense Forces highlights Iran's willingness to target US allies in the Gulf, escalating regional tensions."
+    }
+  },
+  {
+    "id": "6f5876af6a2d383c",
+    "title_original": "IRGC Navy pounds US MST ship with a volley of missiles after Israeli-US aggression",
+    "content_original": "IRGC Navy pounds US MST ship with a volley of missiles after Israeli-US aggression",
+    "url": "https://presstv.ir/Detail/2026/02/28/764832/irgc-navy-pounds-us-mst-ship-volley-missiles-after-israeli-us-aggression",
+    "published": "2026-02-28T15:04:50.397841+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC Navy pounds US MST ship with a volley of missiles after Israeli-US aggression",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "IRGC Navy",
+        "United States"
+      ],
+      "location": "Unspecified maritime location",
+      "brief": "The IRGC Navy's missile attack on a US MST ship represents a direct engagement between Iranian and US military forces, posing a significant escalation risk in the conflict."
+    }
+  },
+  {
+    "id": "778b5e882401d512",
+    "title_original": "🚨 حملات موشکی به قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SABE...",
+    "content_original": "🚨 حملات موشکی به قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44847",
+    "published": "2026-02-28T15:03:54+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile Attacks on Qatar",
+    "relevant": true,
+    "summary_en": "Missile attacks have been reported targeting Qatar, likely linked to the ongoing Iran-US conflict. This represents a significant escalation as Qatar hosts major US military bases, including CENTCOM forward headquarters. The strategic significance involves potential threats to US assets and regional stability, prompting urgent defensive measures and diplomatic responses.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "US",
+        "Islamic Resistance Iraq"
+      ],
+      "location": "Qatar",
+      "brief": "Missile attacks on Qatar, a key US ally hosting CENTCOM forward headquarters, represent a significant escalation in the Iran-US conflict with direct threats to US military assets and regional stability."
     }
   },
   {
