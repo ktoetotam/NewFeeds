@@ -201,6 +201,9 @@ def _event_key(article: dict) -> str:
     """
     cls = article.get("classification", {})
     loc_raw = cls.get("location", "unknown")
+    # LLM sometimes returns a list instead of a string
+    if isinstance(loc_raw, list):
+        loc_raw = loc_raw[0] if loc_raw else "unknown"
     # Take the first / primary location token
     loc = _normalize_location(loc_raw.split(",")[0])
 
