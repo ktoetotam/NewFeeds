@@ -50,6 +50,12 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
             >
               Attack Monitor
             </Link>
+            <Link
+              href="/summary"
+              style={{ color: "var(--color-text-muted)" }}
+            >
+              Executive Summary
+            </Link>
           </nav>
         </div>
 

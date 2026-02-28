@@ -346,6 +346,27 @@ def run():
         existing_attacks, str(DATA_DIR / "threat_level.json")
     )
 
+    # ── Step 7: Generate executive summary ──
+    logger.info("── Step 7: Generating executive summary ──")
+
+    from generate_summary import generate_and_save as generate_executive_summary
+
+    try:
+        exec_summary = generate_executive_summary(
+            attacks=existing_attacks,
+            threat=threat,
+            articles=all_articles_flat,
+            api_key=api_key,
+            output_path=str(DATA_DIR / "executive_summary.json"),
+        )
+        logger.info(
+            f"Executive summary generated: "
+            f"{len(exec_summary.get('confirmed_events', []))} confirmed events, "
+            f"{len(exec_summary.get('whats_new', []))} new items"
+        )
+    except Exception as e:
+        logger.error(f"Executive summary generation failed: {e}")
+
     # ── Summary ──
     logger.info("=" * 60)
     logger.info("Pipeline complete!")

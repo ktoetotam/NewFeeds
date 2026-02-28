@@ -1,7 +1,7 @@
 import "server-only";
 import fs from "fs";
 import path from "path";
-import type { Article, ThreatLevel, RegionKey } from "./types";
+import type { Article, ThreatLevel, RegionKey, ExecutiveSummaryData } from "./types";
 
 const DATA_DIR = path.join(process.cwd(), "..", "data");
 const FEEDS_DIR = path.join(DATA_DIR, "feeds");
@@ -57,6 +57,13 @@ export function getThreatLevel(): ThreatLevel {
     history: [],
     updated_at: new Date().toISOString(),
   });
+}
+
+export function getExecutiveSummary(): ExecutiveSummaryData | null {
+  return readJSON<ExecutiveSummaryData | null>(
+    path.join(DATA_DIR, "executive_summary.json"),
+    null
+  );
 }
 
 
