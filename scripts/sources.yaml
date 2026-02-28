@@ -757,3 +757,10 @@ regions:
         url: "http://feeds.feedburner.com/daily-express-news-showbiz"
         category: independent
         skip_translation: true
+
+      - name: "Bellingcat"
+        type: rss
+        language: en
+        url: "https://media.rss.com/bellingcatstagetalk/feed.xml"
+        category: independent
+        skip_translation: true
