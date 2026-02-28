@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-02-28T15-08-30.493785_plus_00-00.json",
+    "generated_at": "2026-02-28T15:08:30.493785+00:00",
+    "threat_label": "CRITICAL",
+    "threat_level": 1,
+    "trend": "escalating",
+    "incident_count_24h": 103,
+    "summary_preview": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated airstrikes, ballistic missile attacks, and naval confrontations. The situation has dete"
+  },
+  {
     "filename": "2026-02-28T14-47-51.495405_plus_00-00.json",
     "generated_at": "2026-02-28T14:47:51.495405+00:00",
     "threat_label": "CRITICAL",

@@ -1,5 +1,267 @@
 [
   {
+    "id": "401b5f3f5ff055e7",
+    "title_original": "В Дохе произошла новая волна взрывов",
+    "content_original": "В городе работает ПВО",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591141",
+    "published": "2026-02-28T18:15:15+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "New Wave of Explosions in Doha",
+    "relevant": true,
+    "summary_en": "Explosions have occurred in Doha, Qatar, with air defenses active in the city. This is significant as Doha hosts key US military bases and is a critical hub for US operations in the region amid the ongoing conflict with Iran.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Qatar",
+        "United States",
+        "Iran (suspected)"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Explosions in Doha, home to key US military bases, suggest a potential escalation targeting US regional operations amid the Iran conflict, with significant implications for US military infrastructure and regional stability."
+    }
+  },
+  {
+    "id": "67c323fdf548098a",
+    "title_original": "Ракета упала рядом с пятизвездочным отелем Fairmont The Palm в Дубае",
+    "content_original": "Ракета упала рядом с пятизвездочным отелем Fairmont The Palm в Дубае",
+    "url": "https://tass.ru/proisshestviya/26591111",
+    "published": "2026-02-28T18:12:31+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile Lands Near Fairmont The Palm Hotel in Dubai",
+    "relevant": true,
+    "summary_en": "A missile landed near the luxury Fairmont The Palm Hotel in Dubai, UAE. This incident highlights the escalating threat to civilian infrastructure and international interests in the region amid ongoing hostilities between Iran and the US. The strategic significance lies in the potential disruption of tourism and international business in Dubai, a major global hub.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The missile landing near a major civilian infrastructure site in Dubai demonstrates an escalation in the conflict with potential to disrupt international business and tourism, highlighting the threat to regional stability and global economic interests."
+    }
+  },
+  {
+    "id": "2c641097cb2206c3",
+    "title_original": "КСИР объявил о начале новой волны ракетных атак по американским базам на Ближнем Востоке",
+    "content_original": "КСИР объявил о начале новой волны ракетных атак по американским базам на Ближнем Востоке",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591105",
+    "published": "2026-02-28T18:11:55+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Announces New Wave of Missile Attacks on US Bases in the Middle East",
+    "relevant": true,
+    "summary_en": "The IRGC has declared the commencement of a fresh wave of missile attacks targeting US military bases in the Middle East. This escalation signifies an intensification of hostilities by Iran against US assets in the region. The strategic significance lies in the potential for increased military engagement and retaliatory measures by the US.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "Middle East US military bases",
+      "brief": "The IRGC's announcement of missile attacks on US bases in the Middle East marks a critical escalation, posing a direct threat to US assets and signaling potential for expanded military engagement."
+    }
+  },
+  {
+    "id": "84f4f49c9df9bb54",
+    "title_original": "От Эйзенхауэра до Трампа. История американо-иранского противостояния",
+    "content_original": "Президент США Дональд Трамп 28 февраля 2026 года заявил, что Соединенные Штаты начали \"масштабные боевые действия\" в Иране",
+    "url": "https://tass.ru/info/26318299",
+    "published": "2026-02-28T18:10:00+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US President Trump Announces 'Large-Scale Combat Operations' in Iran",
+    "relevant": true,
+    "summary_en": "On February 28, 2026, US President Donald Trump declared that the United States had initiated 'large-scale combat operations' in Iran, indicating a significant escalation in the ongoing armed conflict. This statement highlights the intensifying military engagement between the US and Iran, with potential implications for regional stability and global security. The announcement underscores the seriousness of the situation and the potential for further escalation in the conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "critical",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The US announcement of large-scale combat operations in Iran marks a critical escalation, indicating direct state engagement and potential for regional instability."
+    }
+  },
+  {
+    "id": "90b2f159796e6c8f",
+    "title_original": "КСИР заявил о новой ракетной атаке на базы США",
+    "content_original": "КСИР заявил о новой ракетной атаке на базы США",
+    "url": "https://ria.ru/20260228/ssha-2077483249.html",
+    "published": "2026-02-28T18:08:24+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Claims New Missile Attack on US Bases",
+    "relevant": true,
+    "summary_en": "The IRGC has announced a new missile attack targeting US bases, likely in Iraq or Syria. This represents a continuation of Iranian retaliatory strikes against US military assets in the region. The attack signifies ongoing escalation and direct engagement between Iran and US forces amidst the conflict.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US Military"
+      ],
+      "location": "Iraq or Syria",
+      "brief": "The IRGC's missile attack on US bases in Iraq or Syria represents a significant escalation in direct military engagement between Iran and the US, posing a heightened risk of further regional conflict."
+    }
+  },
+  {
+    "id": "a5fa432707446dd5",
+    "title_original": "Иранские системы ПВО сбили беспилотники HERMES, пишут СМИ",
+    "content_original": "Иранские системы ПВО сбили беспилотники HERMES, пишут СМИ",
+    "url": "https://ria.ru/20260228/pvo-2077483083.html",
+    "published": "2026-02-28T18:07:56+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Air Defense Systems Shoot Down HERMES Drones",
+    "relevant": true,
+    "summary_en": "Iranian air defense systems intercepted and shot down HERMES drones, as reported by media outlets. This incident likely occurred within Iranian territory or near its borders. The downing of drones is significant as it reflects ongoing tensions and potential surveillance or attack attempts amid the conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "shoot down",
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US (potential involvement through drone operations)"
+      ],
+      "location": "Iran or near Iranian borders",
+      "brief": "Iran's successful interception of HERMES drones highlights ongoing surveillance or strike attempts, reflecting heightened tensions and potential escalation in the Iran–US conflict."
+    }
+  },
+  {
+    "id": "0c1e4e9cc4e3aeab",
+    "title_original": "Международный аэропорт Кувейта подвергся удару беспилотника",
+    "content_original": "Международный аэропорт Кувейта подвергся удару беспилотника",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591073",
+    "published": "2026-02-28T18:07:45+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Kuwait International Airport hit by drone strike",
+    "relevant": true,
+    "summary_en": "Unidentified attackers struck Kuwait International Airport with a drone, likely escalating regional tensions. The incident occurred in Kuwait, a key US ally, and could impact US military logistics in the Gulf. This represents an expansion of conflict zones beyond traditional fronts.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "unknown attackers",
+        "US (indirectly)"
+      ],
+      "location": "Kuwait International Airport, Kuwait",
+      "brief": "The drone strike on Kuwait International Airport, a critical logistics hub for US operations in the Gulf, represents an expansion of conflict zones and could impact US military logistics in the region."
+    }
+  },
+  {
+    "id": "5c1a52016ee93894",
+    "title_original": "Арагчи: США начали военную операцию против Ирана, несмотря на прогресс переговоров",
+    "content_original": "Министр иностранных дел исламской республики отметил, что в этот раз стороны смогли добиться большого прогресса",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591039",
+    "published": "2026-02-28T18:07:38+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Initiated Military Operation Against Iran Despite Progress in Negotiations",
+    "relevant": true,
+    "summary_en": "The Iranian Foreign Minister stated that the US has launched a military operation against Iran despite significant progress in negotiations. This highlights the escalating tensions and potential breakdown in diplomatic efforts between the two nations amidst ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The US military operation against Iran, despite ongoing negotiations, signifies a significant escalation in direct hostilities and a potential breakdown in diplomatic efforts."
+    }
+  },
+  {
     "id": "e58cf297c160f54c",
     "title_original": "В центральной части Израиля упали обломки ракеты",
     "content_original": "В центральной части Израиля упали обломки ракеты",
@@ -1636,6 +1898,39 @@
       ],
       "location": "Iran (over 20 provinces)",
       "brief": "The coordinated US and Israeli airstrikes on over 20 Iranian provinces mark a critical escalation, indicating direct targeting of IRGC infrastructure and a significant expansion of the conflict's geographic scope."
+    }
+  },
+  {
+    "id": "e57493a7b51656a2",
+    "title_original": "موج جدید حملات موشکی علیه پایگاه های آمریکایی آغاز شد",
+    "content_original": "موج جدید حملات موشکی علیه پایگاه های آمریکایی آغاز شد",
+    "url": "https://www.irna.ir/news/86089661/%D9%85%D9%88%D8%AC-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D9%88%D8%B4%DA%A9%DB%8C-%D8%B9%D9%84%DB%8C%D9%87-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A2%D8%BA%D8%A7%D8%B2-%D8%B4%D8%AF",
+    "published": "2026-02-28T15:16:08+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "New wave of missile attacks on US bases begins",
+    "relevant": true,
+    "summary_en": "Iranian forces have initiated a fresh series of missile attacks targeting US military bases in the region. The strikes are likely aimed at US installations in Iraq, Syria, and the Gulf, escalating ongoing hostilities. This development signifies a significant escalation in the conflict and poses a direct threat to US personnel and assets in the area.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "threat",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Iraq, Syria, and the Gulf region",
+      "brief": "The missile attacks on US military bases in multiple strategic locations represent a direct and significant escalation by Iran, posing a critical threat to US forces and regional stability."
     }
   },
   {
