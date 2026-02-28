@@ -1,5 +1,35 @@
 [
   {
+    "id": "10d883ceb8c47592",
+    "title_original": "Нетаньяху заявил о множестве признаков смерти Хаменеи после ударов",
+    "content_original": "Есть множество признаков того, что верховного лидера Ирана Али Хаменеи больше нет в живых, заявил премьер-министр Израиля Биньямин Нетаньяху.",
+    "url": "https://www.rbc.ru/politics/28/02/2026/69a33e249a7947377ecbc555",
+    "published": "2026-02-28T22:20:04+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Netanyahu Claims Multiple Signs Indicating Khamenei's Death After Strikes",
+    "relevant": true,
+    "summary_en": "Israeli Prime Minister Benjamin Netanyahu stated there are multiple signs suggesting that Iran's Supreme Leader Ali Khamenei is dead following recent strikes. This claim, if true, would have significant implications for Iran's leadership and command structure amidst the ongoing conflict. The strategic impact could lead to further escalation or internal power struggles within Iran.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "dead",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
     "id": "cef057eda3088594",
     "title_original": "VIDEO: Exact moment Dubai's Fairmont Palm Jumeirah was hit amid US-Iran conflict",
     "content_original": "Authorities on Saturday responded to an incident in a building in the Palm Jumeirah area",
@@ -278,6 +308,158 @@
     "lng": 36.94
   },
   {
+    "id": "69e46cd9979ffe34",
+    "title_original": "Italy’s defence minister stranded in Dubai after strikes",
+    "content_original": "Italy’s defence minister stranded in Dubai after strikes Italy’s Defence Minister Guido Crosetto was stranded in Dubai on Saturday after flight suspensions followed US and Israeli strikes on Iran, a source close to the ministry said, Reuters reported. Crosetto had travelled from Rome on Friday evening on a civilian flight to join his family, who were already in Dubai on holiday. He had been due to return to Italy on Saturday afternoon. Italian carrier ITA Airways confirmed it has suspended flights to and from Dubai until Sunday.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/italys-defence-minister-stranded-dubai-after-strikes",
+    "published": "2026-02-28T19:24:44+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Italy's defence minister stranded in Dubai after US and Israeli strikes on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Italy's Defence Minister Guido Crosetto was stranded in Dubai after US and Israeli strikes on Iran led to flight suspensions. Crosetto was unable to return to Italy as scheduled, and ITA Airways has suspended flights to and from Dubai until Sunday. This incident highlights the disruption in civilian air travel due to the ongoing conflict.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "f0f17f44ab2ad240",
+    "title_original": "⚡️ #BREAKING  INSANE video reportedly from Al Udeid Air Base in Qatar supposedly showing Air defence failing to inter...",
+    "content_original": "⚡️ #BREAKING INSANE video reportedly from Al Udeid Air Base in Qatar supposedly showing Air defence failing to intercept an Iranian missile, which ends up striking the base (unconfirmed)",
+    "url": "https://t.me/warmonitors/40085",
+    "published": "2026-02-28T19:24:06+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian missile reportedly strikes Al Udeid Air Base in Qatar, air defense fails to intercept",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile reportedly hit Al Udeid Air Base in Qatar, with local reports suggesting that air defense systems failed to intercept the missile. This incident, if confirmed, signifies a significant escalation in the conflict and direct targeting of a major US military facility in the region.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "conflict",
+      "air defense",
+      "intercept",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "95b5b9f8c6fe1ec8",
+    "title_original": "Israel Targeted Top Iranian Leaders in Attack’s Opening Strikes",
+    "content_original": "At least one gathering of senior officials and military leaders was hit, but it was not immediately clear whether the effort to kill them had succeeded.",
+    "url": "https://www.nytimes.com/2026/02/28/world/middleeast/israel-iran-assassination-khamenei.html",
+    "published": "2026-02-28T19:23:45+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Israel Targeted Top Iranian Leaders in Attack’s Opening Strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel launched strikes targeting senior Iranian officials and military leaders in an apparent assassination attempt. The attacks hit at least one gathering of high-ranking personnel, though their success in killing the targets remains unconfirmed. This represents a significant escalation in Israeli operations against Iran amid the ongoing conflict.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel's targeted airstrikes against senior Iranian leadership mark a significant escalation in regional hostilities, posing a direct threat to Iran's command structure."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "ebd00ec0c6c857b4",
+    "title_original": "🇶🇦 🇺🇸 🇮🇷 ⚡️  — WATCH:  U.S. servicemembers capture the moment a Patriot air defense system failed to intercept an Ira...",
+    "content_original": "🇶🇦 🇺🇸 🇮🇷 ⚡️ — WATCH: U.S. servicemembers capture the moment a Patriot air defense system failed to intercept an Iranian missile over Al Udeid Air Base in Qatar.",
+    "url": "https://t.me/CIG_telegram/69675",
+    "published": "2026-02-28T19:21:34+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Patriot air defense system fails to intercept Iranian missile over Al Udeid Air Base in Qatar",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile was not intercepted by a Patriot air defense system at Al Udeid Air Base in Qatar, highlighting potential vulnerabilities in US air defenses in the region. This incident occurred amid ongoing hostilities between the US and Iran, raising concerns about the effectiveness of missile defense systems protecting critical US assets. The failure could prompt a review of air defense strategies and capabilities in the Gulf region.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "air defense",
+      "intercept",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "d8348c6a3806c020",
+    "title_original": "🔥 🇧🇭  A tall apartment building in Bahrain caught fire after being struck by Iranian drones. @CIG_telegram",
+    "content_original": "🔥 🇧🇭 A tall apartment building in Bahrain caught fire after being struck by Iranian drones. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69673",
+    "published": "2026-02-28T19:20:54+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian drones strike and set fire to apartment building in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian drones targeted and struck a tall apartment building in Bahrain, causing a fire. This incident highlights the expanding scope of Iranian retaliatory attacks beyond traditional military targets into civilian infrastructure within the Gulf region. The attack on Bahrain, home to a significant US naval base, suggests an escalation in Iran's efforts to pressure US allies in the region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
     "id": "280e5588c2b95d64",
     "title_original": "Военно-политический кабинет Израиля принял решение об атаке на Иран 28 февраля",
     "content_original": "Промедление позволило бы иранскому режиму достичь \"зоны неуязвимости\" для ядерной программы, отметил израильский министр иностранных дел Гидеон Саар",
@@ -344,6 +526,97 @@
     "lng": 50.55
   },
   {
+    "id": "e078daf91bfafe47",
+    "title_original": "⚡ ⚡ 🇮🇷 🇧🇭  Additional footage of Iranian drones entering Bahrain and striking US assets, much to the happiness of Bah...",
+    "content_original": "⚡ ⚡ 🇮🇷 🇧🇭 Additional footage of Iranian drones entering Bahrain and striking US assets, much to the happiness of Bahraini observers. @medmannews",
+    "url": "https://t.me/CIG_telegram/69672",
+    "published": "2026-02-28T19:19:56+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian drones strike US assets in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian drones reportedly entered Bahrain and targeted US assets, as evidenced by additional footage. The strikes have been met with approval from some Bahraini observers, highlighting regional tensions and the vulnerability of US assets in the Gulf.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Bahrain"
+      ],
+      "location": "Bahrain",
+      "brief": "Iranian drone strikes on US assets in Bahrain represent a significant escalation in direct attacks on US military infrastructure in the Gulf region."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "1994165d381fd582",
+    "title_original": "People in the Iranian city of Shiraz rallied and condemned recent US-Israeli aggression against Iran  @PressTV",
+    "content_original": "People in the Iranian city of Shiraz rallied and condemned recent US-Israeli aggression against Iran @PressTV",
+    "url": "https://t.me/presstv/177274",
+    "published": "2026-02-28T19:19:43+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Rally in Shiraz condemns US-Israeli aggression against Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Residents of Shiraz, Iran, held a rally to condemn recent US-Israeli aggression against their country. This indicates ongoing public support for Iran's stance in the conflict and opposition to US-Israeli actions. The rally could signal domestic mobilization amid escalating regional tensions.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "21f04d580bb675ac",
+    "title_original": "⚡️  Reports of new explosions in Kuwait, Bahrain and Qatar",
+    "content_original": "⚡️ Reports of new explosions in Kuwait, Bahrain and Qatar",
+    "url": "https://t.me/warmonitors/40083",
+    "published": "2026-02-28T19:19:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Explosions reported in Kuwait, Bahrain, and Qatar",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Explosions have been reported in Kuwait, Bahrain, and Qatar, likely indicating a potential escalation in the conflict. These incidents could involve Iranian proxies or direct IRGC operations targeting US bases or infrastructure in these Gulf states. The strategic significance involves heightened tensions and potential threats to US and allied assets in the region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
     "id": "e0b9944dbeb5ddb9",
     "title_original": "Конгрессмен назвал удары США по Ирану войной по собственному выбору",
     "content_original": "Конгрессмен назвал удары США по Ирану войной по собственному выбору",
@@ -376,6 +649,127 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "9114b6ff2d7a8b00",
+    "title_original": "🚨 صدای انفجار متعدد در تبریز ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅...",
+    "content_original": "🚨 صدای انفجار متعدد در تبریز ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44871",
+    "published": "2026-02-28T19:17:11+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Multiple Explosions Heard in Tabriz, Iran",
+    "relevant": true,
+    "summary_en": "Multiple explosions have been reported in Tabriz, Iran, indicating potential military activity or attacks within the country. This development is significant as it suggests possible escalation or retaliatory strikes amid the ongoing conflict between Iran and the US. The strategic importance of Tabriz, being close to the Azerbaijan border and a key industrial city, adds to the potential implications of this incident.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "228f21cb47ea24b1",
+    "title_original": "Iran requests IAEA meeting over 'wrongful acts of aggressors'",
+    "content_original": "Iran called Saturday for an emergency meeting of the UN nuclear watchdog to discuss \"baseless\" US and Israeli claims that Tehran's atomic programme partly justified their military action against it. \"In light of ongoing acts of aggression by the US and Israeli regimes ... (Iran) called for an urgent extraordinary meeting\" of the International Atomic Energy Agency's board of governors, Iran's mission to the Vienna-based agency said on X. The post included an image of its formal request letter, addressed to IAEA chief Rafael Grossi. \"Baseless claims, vicious threats and wrongful acts of aggressors against Iran's peaceful nuclear program shall be addressed by the Board immediately,\" it added. Grossi took part in the US-Iranian talks on February 17 and 26, which some observers saw as the last chances to avoid a conflict. The UN nuclear watchdog stressed on Friday the \"utmost urgency\" of its request to verify all nuclear material in Iran, according to a confidential report seen by AFP . Wes...",
+    "url": "https://www.newarab.com/news/iran-requests-iaea-meeting-over-wrongful-acts-aggressors",
+    "published": "2026-02-28T19:16:00+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran requests IAEA meeting over 'wrongful acts of aggressors'",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has called for an emergency meeting of the IAEA to address US and Israeli claims about its nuclear program, which Tehran claims are baseless and used to justify military aggression. This move highlights Iran's attempt to leverage international bodies to counter accusations and potentially de-escalate tensions amid ongoing conflict. The request underscores the diplomatic dimension of the conflict as Iran seeks to challenge its adversaries' justifications for military actions.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "0f5bf73ce0279539",
+    "title_original": "Netanyahu says Iran war to continue ‘as long as necessary’, claims Khamenei likely killed",
+    "content_original": "Netanyahu says Iran war to continue ‘as long as necessary’, claims Khamenei likely killed Israeli Prime Minister Benjamin Netanyahu has issued his first statement since launching the war on Iran. “This fateful operation will continue as long as necessary - patience is needed. This war will bring about true peace,” Netanyahu claimed on Saturday evening. He also appeared to reference reports of an attempt on the life of Iran’s Supreme Leader, Ayatollah Ali Khamenei. “We destroyed the compound of the dictator Khamenei. There are many signs that this dictator is gone,” he said. In a direct message to Iranians, Netanyahu urged public unrest. “To the citizens of Iran - do not miss the opportunity. Your moment will soon come to take to the streets, complete the task, and overthrow the regime that is making your lives miserable.”",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-says-iran-war-continue-long-necessary-claims-khamenei-likely",
+    "published": "2026-02-28T19:15:59+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Netanyahu says Iran war to continue ‘as long as necessary’, claims Khamenei likely killed",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli Prime Minister Benjamin Netanyahu announced that the war against Iran will continue until deemed necessary and suggested that Iran’s Supreme Leader Ayatollah Ali Khamenei may have been killed in an attack on his compound. He also called for public unrest within Iran, signaling a strategic escalation in the conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "war",
+      "conflict",
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (reportedly at Khamenei's compound)",
+      "brief": "Israeli Prime Minister Netanyahu's declaration of continued war against Iran and suggestion of a potential strike on Ayatollah Khamenei signals a significant escalation in the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "eae0dac0ee6bffe8",
+    "title_original": "Mapping the U.S.-Led Attacks on Iran",
+    "content_original": "Maps show where U.S. and Israel have struck Iran, and where Iran has retaliated.",
+    "url": "https://www.nytimes.com/2026/02/28/world/middleeast/mapping-the-us-led-attacks-on-iran.html",
+    "published": "2026-02-28T19:11:02+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Mapping the U.S.-Led Attacks on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article provides maps detailing locations where the U.S. and Israel have conducted strikes on Iran and areas where Iran has retaliated. This highlights the geographical scope of the conflict and the strategic implications of the attacks on both sides. The maps likely cover key military and infrastructure targets in Iran and retaliatory actions by Iran against U.S. and Israeli interests in the region.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "ccff552bf282dd72",
@@ -5464,6 +5858,35 @@
     "lng": 52.0
   },
   {
+    "id": "6605b8263c197db4",
+    "title_original": "Dubai hotel fire appears to be caused by Iranian strike; injuries reported",
+    "content_original": "Four people were injured in a hotel fire in Palm Jumeirah area of Dubai after a loud explosion was reportedly heard as the Iranian regime launched retaliatory strikes in the Middle East. The Dubai Media Office, a government entity, said in a statement Saturday that the site was secured and the fire had been contained. \"The safety and wellbeing of residents and visitors remain the highest priority. Authorities continue to take all necessary measures to safeguard the public. The public is urged to remain calm, rely solely on verified information from official sources, and refrain from circulating videos or images on social media,\" the media office wrote on X . Dubai authorities confirmed that \"an incident\" occurred in a building in the Palm Jumeirah area and emergency response teams responded, although they did not elaborate on what caused the incident. TOMAHAWKS SPEARHEADED US STRIKE ON IRAN -- WHY PRESIDENTS REACH FOR THIS MISSILE FIRST Reports suggest United Arab Emirates forces inter...",
+    "url": "https://www.foxnews.com/world/dubai-hotel-fire-appears-caused-iranian-strike-injuries-reported",
+    "published": "2026-02-28T14:21:36-05:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Dubai hotel fire appears to be caused by Iranian strike; injuries reported",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An explosion, reportedly linked to Iranian retaliatory strikes in the Middle East, caused a fire at a hotel in Dubai's Palm Jumeirah area, injuring four people. Dubai authorities secured the site and contained the fire, urging the public to rely on official information. This incident highlights the regional escalation and potential for collateral damage as hostilities continue.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "explosion",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
     "id": "590e05d3defa8bd6",
     "title_original": "🚨  ناو پشتیبانی رزمیMST آمریکا مورد هدف موشک های سپاه پاسداران انقلاب اسلامی قرار گرفت ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
     "content_original": "🚨 ناو پشتیبانی رزمیMST آمریکا مورد هدف موشک های سپاه پاسداران انقلاب اسلامی قرار گرفت ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
@@ -5527,6 +5950,41 @@
       ],
       "location": "Iran",
       "brief": "The attack on Iran during significant progress in negotiations underscores the persistent escalation and disconnect between military actions and diplomatic efforts in the Iran–US conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "c24425af5bf49f6f",
+    "title_original": "Longtime Trump critic George Conway suggests US is 'terrorist state' after Iran strikes",
+    "content_original": "Former conservative lawyer and outspoken critic of President Donald Trump , George Conway, suggested Saturday that the United States is a \"terrorist state\" hours after it joined Israel in carrying out military strikes against Iran. \"Perhaps the terrorist state with nuclear weapons is …. {checks notes} … the United States of America?\" Conway wrote on X. The U.S. and Israel launched a joint military offensive against Iran on Saturday, dubbed \" Operation Epic Fury ,\" after Trump warned of possible U.S. intervention if Tehran refused a sweeping nuclear deal and as deadly anti-regime protests unfolded. IRAN'S TERROR PROXIES FROM IRAQ-TO-LEBANON SAY READY TO RESPOND TO US-ISRAEL ATTACKS Before Conway suggested his own country was acting as a \"terrorist state,\" he posted similar criticisms of the U.S. on X. In one post, Conway said he was \"hopeful\" that the \"war in Iran will bring needed democratic change to … the United States of America.\" \"Remember, the dim-witted megalomaniacal narcissisti...",
+    "url": "https://www.foxnews.com/media/longtime-trump-critic-george-conway-suggests-us-terrorist-state-after-iran-strikes",
+    "published": "2026-02-28T14:14:32-05:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "George Conway calls US a 'terrorist state' after US-Israel strikes on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "George Conway, a longtime critic of Donald Trump, labeled the United States a 'terrorist state' following its joint military strikes with Israel against Iran. The strikes, named 'Operation Epic Fury,' occurred after Trump warned of potential US intervention if Iran rejected a nuclear deal amid ongoing anti-regime protests. The operation signifies a significant escalation in the conflict and highlights the deepening involvement of the US and Israel against Iran.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The joint US-Israel strikes, codenamed 'Operation Epic Fury,' mark a significant escalation in the conflict, indicating direct military engagement against Iran."
     },
     "lat": 32.65,
     "lng": 54.56
