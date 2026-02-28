@@ -150,6 +150,33 @@ export default function NewsCard({ article }: NewsCardProps) {
             Translation pending
           </span>
         )}
+        {article.relevant === true && (
+          <span
+            style={{
+              fontSize: 11,
+              padding: "1px 6px",
+              borderRadius: 4,
+              background: "#16a34a20",
+              color: "#16a34a",
+              fontWeight: 600,
+            }}
+          >
+            Relevant
+          </span>
+        )}
+        {article.relevant === false && (
+          <span
+            style={{
+              fontSize: 11,
+              padding: "1px 6px",
+              borderRadius: 4,
+              background: "var(--color-border)",
+              color: "var(--color-text-muted)",
+            }}
+          >
+            Not relevant
+          </span>
+        )}
       </div>
     </article>
   );
