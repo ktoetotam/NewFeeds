@@ -52,7 +52,7 @@ jobs:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: python run_pipeline.py
 
-      - name: Commit data changes
+      - name: Commit & push data changes
         if: always()
         run: |
           git config user.name "github-actions[bot]"
@@ -60,13 +60,17 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "No data changes to commit"
-          else
-            git fetch origin main
-            git rebase origin/main
-            git add data/
-            git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
+            exit 0
           fi
+          git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          # Retry loop: pull --rebase then push, handles concurrent runs
+          for attempt in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push failed (attempt $attempt), retrying in 5s..."
+            sleep 5
+          done
+          echo "Failed to push after 5 attempts"
+          exit 1
 
       # ── Next.js Build & Deploy ──
       - name: Setup Node.js

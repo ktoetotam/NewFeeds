@@ -29,9 +29,9 @@ LANGUAGE_NAMES = {
 }
 
 # Rate limiting
-MAX_RETRIES = 3
-RETRY_DELAY = 2  # seconds
-BATCH_DELAY = 0.5  # seconds between requests
+MAX_RETRIES = 5
+RETRY_DELAY = 5   # seconds base for rate-limit backoff
+BATCH_DELAY = 2.5  # seconds between requests (~24 RPM, under 30 RPM limit)
 
 SYSTEM_PROMPT = """
 You are an intelligence analyst running a real-time war monitor for the ongoing Iran–United States armed conflict (2026) and all its connected fronts.
@@ -101,6 +101,14 @@ def call_minimax(prompt: str, system_prompt: str, api_key: str) -> str:
 
             resp.raise_for_status()
             data = resp.json()
+
+            # Handle MiniMax's own rate-limit response (HTTP 200 but status_code 1002)
+            base_resp = data.get("base_resp", {})
+            if base_resp.get("status_code") == 1002:
+                wait = RETRY_DELAY * (2 ** attempt)
+                logger.warning(f"MiniMax RPM rate limit (1002), waiting {wait}s...")
+                time.sleep(wait)
+                continue
 
             # Extract response text from MiniMax format
             choices = data.get("choices", [])
