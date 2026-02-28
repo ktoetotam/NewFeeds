@@ -122,6 +122,39 @@ def deduplicate(existing: list[dict], new: list[dict]) -> list[dict]:
     return unique_new
 
 
+def filter_since_last_fetch(existing: list[dict], fetched: list[dict]) -> list[dict]:
+    """Drop fetched articles published before the newest existing article."""
+    if not existing:
+        return fetched
+    # Find the newest published timestamp in existing data
+    newest_ts = None
+    for a in existing:
+        try:
+            dt = datetime.fromisoformat(a.get("published", ""))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            if newest_ts is None or dt > newest_ts:
+                newest_ts = dt
+        except (ValueError, TypeError):
+            pass
+    if newest_ts is None:
+        return fetched
+    filtered = []
+    for a in fetched:
+        try:
+            dt = datetime.fromisoformat(a.get("published", ""))
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            if dt > newest_ts:
+                filtered.append(a)
+        except (ValueError, TypeError):
+            filtered.append(a)  # keep if date is unparseable
+    skipped = len(fetched) - len(filtered)
+    if skipped:
+        logger.info(f"Skipped {skipped} articles older than newest existing ({newest_ts.isoformat()})")
+    return filtered
+
+
 def prune_old_articles(articles: list[dict], max_days: int = MAX_ARTICLE_AGE_DAYS) -> list[dict]:
     """Remove articles older than max_days."""
     cutoff = datetime.now(timezone.utc) - timedelta(days=max_days)
@@ -188,7 +221,8 @@ def run():
     new_by_region = {}
     for region, articles in all_fetched.items():
         existing = load_existing_articles(region)
-        new_articles = deduplicate(existing, articles)
+        recent_articles = filter_since_last_fetch(existing, articles)
+        new_articles = deduplicate(existing, recent_articles)
         new_by_region[region] = (existing, new_articles)
 
     total_new = sum(len(new) for _, new in new_by_region.values())
