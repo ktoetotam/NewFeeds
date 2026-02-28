@@ -52,10 +52,8 @@ jobs:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: python run_pipeline.py
 
-      - name: Commit & push data changes via PR
+      - name: Commit & push data changes
         if: always()
-        env:
-          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -64,33 +62,8 @@ jobs:
             echo "No data changes to commit"
             exit 0
           fi
-          BRANCH="auto/update-feeds-$(date -u +%Y%m%d-%H%M%S)"
-          git checkout -b "$BRANCH"
           git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push origin "$BRANCH"
-          PR_URL=$(gh pr create \
-            --base main \
-            --head "$BRANCH" \
-            --title "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
-            --body "Automated feed data update from pipeline run.")
-          echo "Created PR: $PR_URL"
-          # Try auto-merge first (requires repo setting enabled), fall back to direct merge
-          AUTO_MERGE_OUTPUT=$(gh pr merge "$PR_URL" --squash --auto --delete-branch 2>&1)
-          AUTO_MERGE_STATUS=$?
-          if [ "$AUTO_MERGE_STATUS" -eq 0 ]; then
-            echo "$AUTO_MERGE_OUTPUT"
-            echo "Auto-merge enabled on PR"
-          else
-            echo "$AUTO_MERGE_OUTPUT" >&2
-            # Only fall back when we can positively identify that auto-merge is not enabled
-            if echo "$AUTO_MERGE_OUTPUT" | grep -qi "auto-merge" && echo "$AUTO_MERGE_OUTPUT" | grep -qi "not enabled"; then
-              echo "Auto-merge not available, merging directly..."
-              gh pr merge "$PR_URL" --squash --delete-branch
-            else
-              echo "gh pr merge --auto failed with an unexpected error; aborting."
-              exit "$AUTO_MERGE_STATUS"
-            fi
-          fi
+          git push origin main
 
       # ── Next.js Build & Deploy ──
       - name: Setup Node.js
