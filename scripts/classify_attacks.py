@@ -185,6 +185,83 @@ def default_classification(article: dict) -> dict:
     }
 
 
+def _normalize_location(loc: str) -> str:
+    """Normalize a location string for dedup comparison."""
+    loc = loc.lower().strip()
+    # Remove common filler words
+    for word in ["international", "airport", "military", "base", "region", "province", "area"]:
+        loc = loc.replace(word, "")
+    return re.sub(r"\s+", " ", loc).strip()
+
+
+def _event_key(article: dict) -> str:
+    """
+    Build a rough event fingerprint from location + time window.
+    Articles about the same real-world event should produce the same key.
+    """
+    cls = article.get("classification", {})
+    loc_raw = cls.get("location", "unknown")
+    # Take the first / primary location token
+    loc = _normalize_location(loc_raw.split(",")[0])
+
+    # Bucket the published timestamp to a 12-hour window (AM/PM)
+    pub = article.get("published", "")
+    try:
+        from datetime import datetime, timezone
+        dt = datetime.fromisoformat(pub)
+        utc = dt.astimezone(timezone.utc)
+        bucket = utc.strftime("%Y-%m-%d-") + ("AM" if utc.hour < 12 else "PM")
+    except Exception:
+        bucket = "unknown"
+
+    return f"{loc}|{bucket}"
+
+
+def deduplicate_attacks(attacks: list[dict]) -> list[dict]:
+    """
+    Group articles that describe the same real-world event and keep the
+    best representative (highest severity, then most keyword matches,
+    then most recent).
+    """
+    from collections import defaultdict
+
+    SEVERITY_RANK = {"major": 4, "high": 3, "medium": 2, "low": 1}
+
+    groups: dict[str, list[dict]] = defaultdict(list)
+    for a in attacks:
+        key = _event_key(a)
+        groups[key].append(a)
+
+    deduped = []
+    for key, group in groups.items():
+        if len(group) == 1:
+            deduped.append(group[0])
+            continue
+
+        # Pick the best article: highest severity → most keywords → most recent
+        group.sort(
+            key=lambda a: (
+                SEVERITY_RANK.get(a.get("classification", {}).get("severity", "low"), 0),
+                a.get("keyword_matches", 0),
+                a.get("published", ""),
+            ),
+            reverse=True,
+        )
+        best = group[0]
+        # Annotate with count of merged sources
+        best["merged_source_count"] = len(group)
+        deduped.append(best)
+
+        if len(group) > 1:
+            logger.info(
+                f"Dedup: merged {len(group)} articles for event '{key}' → "
+                f"kept '{best.get('title_en', '')[:60]}'"
+            )
+
+    logger.info(f"Dedup: {len(attacks)} articles → {len(deduped)} unique events")
+    return deduped
+
+
 def classify_articles(
     articles: list[dict],
     api_key: str | None = None,
@@ -241,6 +318,9 @@ def classify_articles(
         a for a in all_classified
         if a.get("classification", {}).get("is_attack", False)
     ]
+
+    # Deduplicate: merge articles about the same real-world event
+    attack_articles = deduplicate_attacks(attack_articles)
 
     logger.info(
         f"Classification complete: {len(attack_articles)} attack-related articles "
