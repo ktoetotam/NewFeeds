@@ -63,9 +63,17 @@ jobs:
             exit 0
           fi
           git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          # Retry loop: pull --rebase then push, handles concurrent runs
+          # Retry loop: try rebase first, fall back to merge on conflict
           for attempt in 1 2 3 4 5; do
-            git pull --rebase origin main && git push && exit 0
+            if git pull --rebase origin main; then
+              git push && exit 0
+            else
+              echo "Rebase conflict on attempt $attempt, falling back to merge..."
+              git rebase --abort 2>/dev/null || true
+              # Merge preferring our (pipeline) version on conflict
+              git pull --no-rebase -X ours origin main
+              git push && exit 0
+            fi
             echo "Push failed (attempt $attempt), retrying in 5s..."
             sleep 5
           done
