@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-02-28T15:24:17.865702+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "CRITICAL",
+    "color": "#DC2626",
+    "trend": "escalating",
+    "incident_count_24h": 112,
+    "incident_count_6h": 106,
+    "severity_breakdown": {
+      "critical": 34,
+      "high": 51,
+      "medium": 25,
+      "low": 2
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 112,
+    "articles_analyzed": 1029,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "proxies",
+      "russia"
+    ]
+  },
+  "executive_summary": "The Iran–US conflict has reached a critical escalation with multiple direct military engagements, including coordinated airstrikes by the US and Israel on Iran, retaliatory missile attacks by Iran on US bases and regional allies, and a significant expansion of hostilities across multiple fronts. The situation is trending toward further escalation with no immediate signs of de-escalation.",
+  "whats_new": [
+    "US and Israel launched coordinated airstrikes on over 20 Iranian provinces, targeting IRGC infrastructure.",
+    "Iran retaliated with missile attacks on US bases in Kuwait and Saudi Arabia, claiming to have killed 200 US military personnel.",
+    "A new wave of IRGC missile attacks on US bases in Iraq, Syria, and the Gulf region has been initiated.",
+    "Iran's missile strikes on a US Navy support ship in the Gulf or Arabian Sea mark a direct engagement between military forces."
+  ],
+  "confirmed_events": [
+    "US and Israel conducted a coordinated airstrike on Iran, causing mass casualties among IRGC forces.",
+    "Iran launched ballistic missile barrages targeting Israel, with at least 35 missiles successfully hitting Israeli territory.",
+    "Iran struck US military bases in Qatar, Erbil, Riyadh, and Eastern Saudi Arabia, demonstrating a capability to target US assets across the region.",
+    "The IRGC attacked a US Navy support ship with missiles, indicating direct engagement in the maritime domain.",
+    "Missile attacks on Dubai by Iranian-backed groups have been reported, threatening a major economic hub."
+  ],
+  "unverified_emerging": [
+    "Reports suggest Iran's Supreme Leader Ali Khamenei may have been eliminated in a surprise strike (source: unspecified actors).",
+    "Iranian Foreign Minister claims the US and Israel are responsible for Middle East consequences (source: TASS).",
+    "Claims of the assassination of Iranian Defense Minister Amir Nasirzadeh and IRGC Commander Pakpour by Israel (source: Israeli media).",
+    "IRGC claims to have killed 200 US military personnel in strikes on American bases (source: IRGC)."
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Heightened security alerts and missile threats have led to travel disruptions across the Middle East, particularly in Israel and Gulf states.",
+      "Civilian aviation in the region is facing increased risks, with several airports on high alert or temporarily closed."
+    ],
+    "supply_chain": [
+      "The conflict has severely disrupted maritime traffic in the Gulf and Arabian Sea, impacting global oil and gas supply chains.",
+      "Strikes on infrastructure in Iran and neighboring countries are likely to cause longer-term disruptions to regional trade and logistics."
+    ],
+    "market_macro": [
+      "Oil prices have surged due to the escalating conflict and threats to major energy infrastructure in the Gulf region.",
+      "Stock markets in the Middle East and globally are experiencing volatility as investors react to the heightened geopolitical tensions."
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is expected to continue escalating, with both Iran and the US likely to intensify attacks on strategic targets. The involvement of regional proxies and allies will further complicate the situation, increasing the risk of miscalculation and broader regional instability. The international community may struggle to mediate effectively as hostilities deepen.",
+    "escalation_risks": [
+      "Direct military engagement between US and Iranian forces could expand to other domains, such as cyber or electronic warfare.",
+      "Iran may escalate attacks on US allies and assets in the region, prompting a stronger US response.",
+      "The involvement of additional regional actors, such as Turkey or Russia, could further complicate the conflict dynamics."
+    ],
+    "de_escalation_pathways": "De-escalation would likely require a combination of diplomatic intervention by major powers, such as Russia or China, and a mutual agreement to cease hostilities. However, given the current trajectory and lack of trust between the parties, this remains unlikely in the short term. A potential pause in hostilities could emerge if both sides seek to avoid further escalation to full-scale war, but this would depend on the willingness of Iran and the US to engage in negotiations."
+  }
+}

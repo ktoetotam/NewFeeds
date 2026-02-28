@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-02-28T15-24-17.865702_plus_00-00.json",
+    "generated_at": "2026-02-28T15:24:17.865702+00:00",
+    "threat_label": "CRITICAL",
+    "threat_level": 1,
+    "trend": "escalating",
+    "incident_count_24h": 112,
+    "summary_preview": "The Iran–US conflict has reached a critical escalation with multiple direct military engagements, including coordinated airstrikes by the US and Israel on Iran, retaliatory missile attacks by Iran on "
+  },
+  {
     "filename": "2026-02-28T15-08-30.493785_plus_00-00.json",
     "generated_at": "2026-02-28T15:08:30.493785+00:00",
     "threat_label": "CRITICAL",

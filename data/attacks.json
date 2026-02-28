@@ -1,5 +1,106 @@
 [
   {
+    "id": "8e6a296a940a13b5",
+    "title_original": "Число погибших при ударе по школе в Иране выросло до 85",
+    "content_original": "Число погибших при ударе по школе в Иране выросло до 85",
+    "url": "https://ria.ru/20260228/iran-2077487278.html",
+    "published": "2026-02-28T18:33:24+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Death toll from Iran school strike rises to 85",
+    "relevant": true,
+    "summary_en": "An airstrike or missile attack hit a school in Iran, resulting in at least 85 fatalities. The incident highlights the ongoing conflict's impact on civilian infrastructure and raises concerns about escalation. The responsible party is not specified, but it could be linked to US or Israeli operations given the context of the conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "airstrike",
+      "strike",
+      "conflict",
+      "missile",
+      "death",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "US or Israel (suspected)"
+      ],
+      "location": "Iran",
+      "brief": "The airstrike on an Iranian school resulting in at least 85 fatalities represents a significant escalation with potential direct involvement of US or Israeli forces, posing a critical threat to regional stability."
+    }
+  },
+  {
+    "id": "bf169749561085b9",
+    "title_original": "Израиль сообщил, что сейчас наносит удары по ракетным установкам в Иране",
+    "content_original": "Израиль сообщил, что сейчас наносит удары по ракетным установкам в Иране",
+    "url": "https://ria.ru/20260228/izrail-2077485968.html",
+    "published": "2026-02-28T18:26:30+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Reports Striking Missile Launchers in Iran",
+    "relevant": true,
+    "summary_en": "Israel has announced that it is currently conducting strikes targeting missile launchers in Iran. This operation signifies an escalation in direct military action against Iranian assets by Israel. The strikes are strategically significant as they aim to degrade Iran's missile capabilities amid ongoing regional hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel's strikes on Iranian missile launchers represent a significant escalation in direct military action against Iran, impacting regional missile capabilities and escalating hostilities."
+    }
+  },
+  {
+    "id": "ca8ec83c06972f42",
+    "title_original": "Беспилотник атаковал по международный аэропорт Кувейта",
+    "content_original": "Беспилотник атаковал по международный аэропорт Кувейта",
+    "url": "https://ria.ru/20260228/kuvejt-2077485794.html",
+    "published": "2026-02-28T18:26:12+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drone Attack Hits Kuwait International Airport",
+    "relevant": true,
+    "summary_en": "An unidentified drone struck Kuwait International Airport in Kuwait. This incident is significant as it targets critical civilian infrastructure in a Gulf state allied with the US, potentially escalating regional tensions and signaling an expansion of conflict zones. The attack's perpetrators are currently unknown, but it bears hallmarks of proxy warfare tactics seen in the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "drone",
+      "proxy",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran (suspected proxy)"
+      ],
+      "location": "Kuwait International Airport, Kuwait",
+      "brief": "The drone strike on Kuwait International Airport, a critical civilian infrastructure hub allied with the US, suggests an expansion of the Iran-US conflict zone and potential escalation through proxy warfare."
+    }
+  },
+  {
     "id": "401b5f3f5ff055e7",
     "title_original": "В Дохе произошла новая волна взрывов",
     "content_original": "В городе работает ПВО",
@@ -1898,6 +1999,72 @@
       ],
       "location": "Iran (over 20 provinces)",
       "brief": "The coordinated US and Israeli airstrikes on over 20 Iranian provinces mark a critical escalation, indicating direct targeting of IRGC infrastructure and a significant expansion of the conflict's geographic scope."
+    }
+  },
+  {
+    "id": "e1880caac684cd43",
+    "title_original": "یک شهید و ۳۵ مجروح در آذربایجان شرقی بر اثر تهاجم اسرائیل و آمریکا",
+    "content_original": "یک شهید و ۳۵ مجروح در آذربایجان شرقی بر اثر تهاجم اسرائیل و آمریکا",
+    "url": "https://www.irna.ir/news/86089658/%DB%8C%DA%A9-%D8%B4%D9%87%DB%8C%D8%AF-%D9%88-%DB%B3%DB%B5-%D9%85%D8%AC%D8%B1%D9%88%D8%AD-%D8%AF%D8%B1-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86-%D8%B4%D8%B1%D9%82%DB%8C-%D8%A8%D8%B1-%D8%A7%D8%AB%D8%B1-%D8%AA%D9%87%D8%A7%D8%AC%D9%85-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7",
+    "published": "2026-02-28T15:29:30+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "One Killed and 35 Injured in East Azerbaijan Due to Israeli and US Aggression",
+    "relevant": true,
+    "summary_en": "An attack attributed to Israeli and US forces resulted in one fatality and 35 injuries in East Azerbaijan. This incident highlights the regional escalation and potential spillover of the Iran-US conflict into neighboring countries. The strategic significance remains unclear without additional details on the nature of the attack and the targets involved.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "East Azerbaijan, Iran",
+      "brief": "The incident represents a significant escalation with direct US and Israeli involvement in Iran, resulting in casualties and potential regional spillover of the conflict."
+    }
+  },
+  {
+    "id": "a4f6b5b1da15cd37",
+    "title_original": "اصابت موفق موشک‌های ایران به اسرائیل + فیلم",
+    "content_original": "اصابت موفق موشک‌های ایران به اسرائیل + فیلم",
+    "url": "https://www.irna.ir/news/86089659/%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D9%85%D9%88%D9%81%D9%82-%D9%85%D9%88%D8%B4%DA%A9-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D9%87-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D9%81%DB%8C%D9%84%D9%85",
+    "published": "2026-02-28T15:24:51+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iranian missiles successfully strike Israel",
+    "relevant": true,
+    "summary_en": "Iran has launched missiles targeting Israel, demonstrating a significant escalation in the conflict. The strikes reportedly hit Israeli territory, though specific locations and damage details are not yet confirmed. This marks a direct military engagement between Iran and Israel, raising concerns of further regional escalation.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran's direct ballistic missile strike on Israel represents a significant escalation, posing a critical threat to regional stability and potentially drawing in US forces."
     }
   },
   {

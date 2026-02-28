@@ -1,30 +1,30 @@
 {
   "current": {
-    "score": 647,
+    "score": 679,
     "level": 1,
     "label": "CRITICAL",
     "color": "#DC2626",
-    "incident_count": 112,
+    "incident_count": 117,
     "severity_breakdown": {
-      "critical": 34,
-      "high": 51,
-      "medium": 25,
+      "critical": 36,
+      "high": 53,
+      "medium": 26,
       "low": 2
     },
     "window_hours": 24,
-    "computed_at": "2026-02-28T15:23:57.830136+00:00"
+    "computed_at": "2026-02-28T15:37:47.041627+00:00"
   },
   "short_term_6h": {
-    "score": 605,
+    "score": 637,
     "level": 1,
     "label": "CRITICAL",
-    "incident_count": 106
+    "incident_count": 111
   },
   "medium_term_48h": {
-    "score": 647,
+    "score": 679,
     "level": 1,
     "label": "CRITICAL",
-    "incident_count": 112
+    "incident_count": 117
   },
   "trend": "escalating",
   "history": [
@@ -111,7 +111,14 @@
       "label": "CRITICAL",
       "score": 647,
       "incident_count": 112
+    },
+    {
+      "timestamp": "2026-02-28T15:37:47.041856+00:00",
+      "level": 1,
+      "label": "CRITICAL",
+      "score": 679,
+      "incident_count": 117
     }
   ],
-  "updated_at": "2026-02-28T15:23:57.830440+00:00"
+  "updated_at": "2026-02-28T15:37:47.041879+00:00"
 }
