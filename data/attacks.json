@@ -1,5 +1,150 @@
 [
   {
+    "id": "d3b5961515cde64d",
+    "title_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
+    "content_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
+    "url": "https://tass.ru/proisshestviya/26594667",
+    "published": "2026-03-01T01:17:23+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Woman killed in Iran missile attack on Israel",
+    "relevant": true,
+    "summary_en": "A woman died in Israel during an Iranian missile attack. The incident occurred amidst ongoing hostilities between Iran and Israel, highlighting the escalating conflict's impact on civilian populations. This event underscores the regional instability and potential for further escalation.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "missile",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "The missile attack by Iran on Israel signifies a direct escalation in regional hostilities, posing a significant threat to civilian populations and regional stability."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "ab783251bff21e21",
+    "title_original": "Терминалы аэропорта Дубая были эвакуированы до обстрела",
+    "content_original": "Терминалы аэропорта Дубая были эвакуированы до обстрела",
+    "url": "https://ria.ru/20260301/aeroport-2077561596.html",
+    "published": "2026-03-01T01:14:05+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Dubai Airport Terminals Evacuated Before Missile Strike",
+    "relevant": true,
+    "summary_en": "Dubai International Airport terminals were evacuated prior to a missile strike, indicating a potential threat to the UAE from the ongoing conflict. This highlights the risk of regional escalation and the vulnerability of critical infrastructure in the Gulf. The incident underscores the broader strategic implications for US allies and the need for heightened security measures.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "threat",
+      "strike",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US allies"
+      ],
+      "location": "Dubai International Airport, UAE",
+      "brief": "The missile strike threat against Dubai International Airport demonstrates Iran's capability to target critical infrastructure in US-allied Gulf states, escalating regional tensions and prompting urgent security responses."
+    },
+    "merged_source_count": 4,
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "4d9905e55a4d0b5d",
+    "title_original": "Трамп: США будут бомбить Иран пока не достигнут своей цели",
+    "content_original": "Президент США Дональд Трамп заявил, что удары по Ирану будут продолжаться непрерывно в течение недели или столько, «сколько потребуется для достижения нашей цели». Цель, по его словам, заключается в установлении мира на Ближнем Востоке и во всем мире.",
+    "url": "https://www.kommersant.ru/doc/8477254",
+    "published": "2026-03-01T01:13:18+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Trump: US Will Bomb Iran Until Goals Are Achieved",
+    "relevant": true,
+    "summary_en": "US President Donald Trump announced continuous strikes on Iran for a week or as long as needed to achieve peace in the Middle East and globally. This signifies potential escalation in US military operations against Iran, highlighting the ongoing conflict and US strategic objectives.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "bomb"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Middle East",
+      "brief": "President Trump's announcement of continuous strikes on Iran signals a significant escalation in the conflict, indicating a potential expansion of US military operations against Iranian targets."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "10c7b3fd93f99ad9",
+    "title_original": "Минобороны ОАЭ заявило об уничтожении 132 ракет из Ирана",
+    "content_original": "Минобороны ОАЭ заявило об уничтожении 132 ракет из Ирана",
+    "url": "https://ria.ru/20260301/oae-2077560645.html",
+    "published": "2026-03-01T01:07:55+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE Defense Ministry Claims Destruction of 132 Iranian Missiles",
+    "relevant": true,
+    "summary_en": "The UAE Defense Ministry announced the interception and destruction of 132 missiles launched from Iran. This incident highlights the ongoing escalation in missile and drone attacks by Iran or its proxies targeting the Gulf region. The strategic significance lies in the UAE's active defense measures and the persistent threat under which Gulf states operate amidst the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "conflict",
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE"
+      ],
+      "location": "UAE",
+      "brief": "The destruction of 132 Iranian missiles by the UAE underscores the escalating missile threat from Iran to Gulf states amid the Iran-US conflict."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "5022558df46a214d",
     "title_original": "Генсек ООН осудил масштабную атаку США и Израиля на Иран",
     "content_original": "Генсек ООН осудил масштабную атаку США и Израиля на Иран",
@@ -423,6 +568,41 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "4ade143560f4f1ca",
+    "title_original": "More footage from in Tel Aviv following Iranian retaliatory missile strikes  @PressTV",
+    "content_original": "More footage from in Tel Aviv following Iranian retaliatory missile strikes @PressTV",
+    "url": "https://t.me/presstv/177320",
+    "published": "2026-02-28T22:24:33+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Footage from Tel Aviv after Iranian missile strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The footage from Tel Aviv shows the aftermath of Iranian retaliatory missile strikes, highlighting the impact on the city. This indicates a significant escalation in the conflict, with Iran directly targeting Israeli population centers. The strikes demonstrate Iran's capability and willingness to retaliate against Israel, raising concerns about further escalation in the region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's direct ballistic missile strikes on Tel Aviv mark a significant escalation, demonstrating Iran's capability to target Israeli population centers and raising the risk of broader regional conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "fba40ec568d40172",
