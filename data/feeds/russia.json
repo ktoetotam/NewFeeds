@@ -1,5 +1,565 @@
 [
   {
+    "id": "323495fb4d079e20",
+    "title_original": "Лукашенко призвал относиться к телятам как к детям",
+    "content_original": "Президент Белоруссии также отметил, что к ним надо относиться \"по-человечески\"",
+    "url": "https://tass.ru/obschestvo/26589821",
+    "published": "2026-02-28T16:11:51+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Lukashenko Calls for Treating Calves Like Children",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "fc164e2c6d3374bc",
+    "title_original": "В Архангельске более 500 спортсменов из регионов РФ пробежали Арктический забег",
+    "content_original": "Можно было пробежать одну из четырех дистанций",
+    "url": "https://tass.ru/obschestvo/26589819",
+    "published": "2026-02-28T16:11:03+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "More than 500 athletes from Russian regions participated in the Arctic Run in Arkhangelsk",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "d2317eb096357d4f",
+    "title_original": "Турция не оказывала поддержку в атаках на Иран",
+    "content_original": "Республика не допустит использования своих воздушных, наземных или морских элементов, включая воздушное пространство, в оперативных целях и в пользу сторон в любом конфликте, заявили в управлении по коммуникациям администрации президента страны Реджепа Тайипа Эрдогана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589813",
+    "published": "2026-02-28T16:10:21+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Turkey Denies Providing Support for Attacks on Iran",
+    "relevant": true,
+    "summary_en": "Turkey's Communications Directorate has stated that the country will not allow its airspace, land, or naval assets to be used for operations by any party in the Iran-US conflict. This denial comes amid concerns of regional escalation and potential misuse of Turkish territory for military activities.",
+    "translated": true
+  },
+  {
+    "id": "76362886e47d1f59",
+    "title_original": "Туристы из РФ из-за ситуации вокруг Ирана переориентируются на Таиланд и Египет",
+    "content_original": "По словам вице-президента Альянса туристических агентств России Алексана Мкртчяна, ситуация может быть показательной уже к 8 марта",
+    "url": "https://tass.ru/ekonomika/26589803",
+    "published": "2026-02-28T16:07:53+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian tourists rerouting to Thailand and Egypt due to Iran situation",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "997ced139c5bc1b1",
+    "title_original": "КСИР: 200 военных США стали жертвами ударов Ирана по американским базам",
+    "content_original": "КСИР: 200 военных США стали жертвами ударов Ирана по американским базам",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589771",
+    "published": "2026-02-28T16:05:07+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Claims 200 US Military Personnel Killed in Iranian Strikes on American Bases",
+    "relevant": true,
+    "summary_en": "The IRGC has claimed that 200 US military personnel were killed in Iranian strikes targeting American bases, though this has not been independently verified. This statement is part of ongoing Iranian retaliation against US forces in the region following escalating hostilities. The claim, if true, would indicate a significant escalation in casualties and potential for further conflict.",
+    "translated": true
+  },
+  {
+    "id": "8bc8a9c722d5f255",
+    "title_original": "Губернатор Псковской области вручил российские паспорта семье поэтов из Латвии",
+    "content_original": "Михаил Ведерников выразил слова благодарности супругам Межиньш за принципиальную позицию по отстаиванию традиционных ценностей России",
+    "url": "https://tass.ru/obschestvo/26589677",
+    "published": "2026-02-28T16:03:49+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Governor of Pskov Region Awards Russian Passports to Latvian Poet Family",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "446e8b61fc171546",
+    "title_original": "АТОР: туроператоры на связи с теми, кто не может вылететь в страны Ближнего Востока",
+    "content_original": "АТОР: туроператоры на связи с теми, кто не может вылететь в страны Ближнего Востока",
+    "url": "https://tass.ru/ekonomika/26589737",
+    "published": "2026-02-28T16:03:34+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tour operators in contact with travelers stranded due to Middle East conflict",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "3a4932467eafd559",
+    "title_original": "Коростелев не смог пробиться в 1/4 финала спринта на этапе Кубка мира в Швеции",
+    "content_original": "Он не попал в топ-30 лучших по итогам квалификации",
+    "url": "https://tass.ru/sport/26589713",
+    "published": "2026-02-28T16:03:07+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian athlete Korostelev fails to qualify for sprint quarterfinals at World Cup stage in Sweden",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "debf65ea4a7effc5",
+    "title_original": "Минфин РФ поддержал Индию в расширении взаимодействия стран БРИКС в страховании",
+    "content_original": "Под индийским председательством планируется продолжить работу по развитию налогового и таможенного сотрудничества, увеличению инвестиций в инфраструктуру, созданию новой инвестиционной платформы и механизма многосторонних гарантий",
+    "url": "https://tass.ru/ekonomika/26589703",
+    "published": "2026-02-28T16:02:14+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russia's Finance Ministry Supports India in Expanding BRICS Insurance Cooperation",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "1c71a27b5e66a749",
+    "title_original": "Al Jazeera: Иран говорит со странами региона для предотвращения краха системы безопасности",
+    "content_original": "Al Jazeera: Иран говорит со странами региона для предотвращения краха системы безопасности",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589699",
+    "published": "2026-02-28T16:01:13+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Engages with Regional Countries to Prevent Security System Collapse",
+    "relevant": true,
+    "summary_en": "Iran is in talks with regional countries to prevent a collapse of the security system amid ongoing conflict with the US. This indicates efforts to manage escalation and maintain regional stability. The engagement likely involves discussions on de-escalation and potential mediation efforts.",
+    "translated": true
+  },
+  {
+    "id": "fce833553c6796a4",
+    "title_original": "Ульянов: агрессия США и Израиля против Ирана будет в центре Совета управляющих МАГАТЭ",
+    "content_original": "Ульянов: агрессия США и Израиля против Ирана будет в центре Совета управляющих МАГАТЭ",
+    "url": "https://tass.ru/politika/26589691",
+    "published": "2026-02-28T15:59:51+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Ulyanov: US and Israeli Aggression Against Iran to Be Central Topic at IAEA Board of Governors Meeting",
+    "relevant": true,
+    "summary_en": "Russian diplomat Ulyanov stated that the US and Israeli aggression against Iran will be a central topic at the upcoming IAEA Board of Governors meeting. This highlights international attention on the escalating conflict and potential concerns over nuclear issues. The discussion could influence global diplomatic efforts and reactions to the ongoing hostilities.",
+    "translated": true
+  },
+  {
+    "id": "eed10cfb17488336",
+    "title_original": "Турция не поддерживает нападение на Иран",
+    "content_original": "Турция не поддерживает нападение на Иран",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589685",
+    "published": "2026-02-28T15:59:06+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Turkey does not support attacks on Iran",
+    "relevant": true,
+    "summary_en": "Turkey has announced it does not support attacks on Iran amid the ongoing US-Iran conflict. This stance is significant as Turkey is a NATO member and has traditionally had complex relations with Iran. The announcement could impact regional dynamics and potential diplomatic efforts to de-escalate the conflict.",
+    "translated": true
+  },
+  {
+    "id": "3c04ffe49087bbda",
+    "title_original": "Tasnim: Иран нанес новый удар по базе США в Кувейте",
+    "content_original": "Tasnim: Иран нанес новый удар по базе США в Кувейте",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589665",
+    "published": "2026-02-28T15:57:57+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes US Base in Kuwait",
+    "relevant": true,
+    "summary_en": "Iran reportedly launched a new attack targeting a US military base in Kuwait. This action represents an escalation in the ongoing conflict, demonstrating Iran's continued efforts to target US assets in the region. The strike's impact on US forces and potential retaliatory measures are likely to be significant for regional stability.",
+    "translated": true
+  },
+  {
+    "id": "c20339d19229a2d2",
+    "title_original": "Египет осудил удары Ирана по арабским странам",
+    "content_original": "Египет осудил удары Ирана по арабским странам",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589651",
+    "published": "2026-02-28T15:57:32+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Egypt condemns Iranian strikes on Arab countries",
+    "relevant": true,
+    "summary_en": "Egypt has condemned Iran's recent strikes targeting Arab countries, highlighting regional tensions and Egypt's stance against Iranian aggression. This condemnation underscores the broader geopolitical implications of the ongoing conflict and Egypt's alignment with other Arab nations against Iran.",
+    "translated": true
+  },
+  {
+    "id": "e85d416b3243ea3f",
+    "title_original": "Теннисист Медведев впервые выиграл турнир в одном городе дважды",
+    "content_original": "Теннисист Медведев впервые выиграл турнир в одном городе дважды",
+    "url": "https://tass.ru/sport/26589645",
+    "published": "2026-02-28T15:57:20+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tennis player Medvedev wins a tournament in the same city twice for the first time",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "ded8752c4768e5f7",
+    "title_original": "Tasnim: Иран нанес новую серию ракетных ударов по Израилю",
+    "content_original": "По данным агентства, иранская армия осуществила \"очередную массированную атаку\" по израильской территории",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589639",
+    "published": "2026-02-28T15:55:09+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Launches New Missile Strikes on Israel",
+    "relevant": true,
+    "summary_en": "Iran's military conducted another large-scale missile attack targeting Israeli territory. This escalation follows ongoing hostilities between Iran and Israel, with significant military and strategic implications for the region. The strikes likely aim to retaliate against previous Israeli operations against Iranian interests.",
+    "translated": true
+  },
+  {
+    "id": "f54ab7a660fb607d",
+    "title_original": "Даниил Медведев стал победителем теннисного турнира в Дубае",
+    "content_original": "Соперник россиянина по финалу снялся с матча из-за травмы",
+    "url": "https://tass.ru/sport/26589609",
+    "published": "2026-02-28T15:52:55+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Daniil Medvedev wins tennis tournament in Dubai",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "ba11cd6c3fc1513d",
+    "title_original": "Бразилия осудила агрессию США и Израиля против Ирана",
+    "content_original": "Бразильский кабмин выразил \"серьезную озабоченность в связи с атаками\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589603",
+    "published": "2026-02-28T15:52:32+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Brazil Condemns US and Israeli Aggression Against Iran",
+    "relevant": true,
+    "summary_en": "Brazil's cabinet has expressed serious concern over the ongoing attacks, condemning US and Israeli aggression against Iran. This statement reflects Brazil's stance on the escalating conflict and its impact on international peace and security. The condemnation adds a diplomatic dimension to the conflict, potentially influencing other nations' positions.",
+    "translated": true
+  },
+  {
+    "id": "9a7a271a88d7bfb3",
+    "title_original": "WSJ: США впервые столкнулись с масштабом одновременных атак на свои зарубежные базы",
+    "content_original": "Американские военные были готовы к атакам, уточняет газета",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589595",
+    "published": "2026-02-28T15:52:17+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Faces Unprecedented Scale of Simultaneous Attacks on Overseas Bases",
+    "relevant": true,
+    "summary_en": "The Wall Street Journal reports that the US military has encountered an unprecedented level of simultaneous attacks on its overseas bases, though it was prepared for such assaults. This highlights the escalating intensity and coordination of attacks by Iran-linked groups across multiple fronts, posing significant challenges to US force protection and readiness in the region.",
+    "translated": true
+  },
+  {
+    "id": "1bdd836241984642",
+    "title_original": "Эксперт Мкртчян: до 1 тыс. туров могут отменить при конфликте на Ближнем Востоке",
+    "content_original": "Речь идет о ситуации, если конфликт продлится до пяти дней",
+    "url": "https://tass.ru/obschestvo/26589565",
+    "published": "2026-02-28T15:51:59+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tourism Expert Predicts Up to 1,000 Cancellations Due to Middle East Conflict",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "eec7d143b5c8ab9f",
+    "title_original": "В Белоруссии из-за взрыва газа в кафе пострадали четыре человека",
+    "content_original": "По одной из версий произошел взрыв газовоздушной смеси, предположительно, собравшейся из-за утечки из используемых во время работ баллонов",
+    "url": "https://tass.ru/proisshestviya/26589541",
+    "published": "2026-02-28T15:49:53+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Gas Explosion in Belarusian Cafe Injures Four",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "a83b798fcb114b56",
+    "title_original": "АТА: купившие туры в ОАЭ у российских операторов смогут вернуть 100% средств",
+    "content_original": "Ситуация для тех, кто приобрел туры у российских операторов, и тех, кто отправлялся в путешествие самостоятельно, будет кардинально отличаться по возврату средств, отметил вице-президент альянса, генеральный директор сети турагентств \"Розовый слон\" Алексан Мкртчян",
+    "url": "https://tass.ru/obschestvo/26589527",
+    "published": "2026-02-28T15:48:58+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian tourists in UAE can get 100% refunds for tours",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "83fae6d6c4b70597",
+    "title_original": "Число погибших из-за атаки на начальную школу в Иране достигло 57",
+    "content_original": "До этого сообщалось о 51 погибшей ученице",
+    "url": "https://tass.ru/proisshestviya/26589505",
+    "published": "2026-02-28T15:46:15+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Death toll from attack on Iranian elementary school rises to 57",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "30343157cee3aa5b",
+    "title_original": "МВД Кувейта рекомендовало жителям укрыться в безопасных местах",
+    "content_original": "Ведомство также посоветовало отключить газ и электричество",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589519",
+    "published": "2026-02-28T15:45:33+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Kuwaiti Interior Ministry advises residents to take shelter and turn off utilities",
+    "relevant": true,
+    "summary_en": "The Kuwaiti Interior Ministry has urged residents to seek shelter and turn off gas and electricity, likely due to escalating regional tensions or potential threats from the ongoing Iran-US conflict. This advisory suggests a possible escalation or threat to Kuwait's security, highlighting the regional impact of the conflict.",
+    "translated": true
+  },
+  {
+    "id": "f2ef01be06d87cce",
+    "title_original": "МИД Ирана: Трамп превратил принцип \"Америка прежде всего\" в \"Израиль прежде всего\"",
+    "content_original": "Мощные иранские вооруженные силы готовы к этому дню и \"преподадут агрессорам урок, который они заслуживают\", отметил глава МИД исламской республики Аббас Арагчи",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589511",
+    "published": "2026-02-28T15:45:18+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Foreign Ministry: Trump turned 'America First' into 'Israel First'",
+    "relevant": true,
+    "summary_en": "Iran's Foreign Minister, Abbas Araghchi, criticized the US for prioritizing Israel over its own interests and warned that Iran's armed forces are prepared to 'teach aggressors a lesson they deserve.' This statement reflects Iran's ongoing stance against US and Israeli actions, signaling potential escalation in the conflict.",
+    "translated": true
+  },
+  {
+    "id": "5759d1c478e570f1",
+    "title_original": "Аванесян считает высокими шансы \"Оренбурга\" остаться в РПЛ по итогам сезона",
+    "content_original": "Команда занимает 13-е место в турнирной таблице",
+    "url": "https://tass.ru/sport/26589523",
+    "published": "2026-02-28T15:45:12+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian sports news unrelated to the Iran-US conflict",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "71cfdf246a930a7f",
+    "title_original": "Sham TV: обломок сбитой иранской ракеты упал на жилой дом в Сирии",
+    "content_original": "По данным телеканала, погибли три человека",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26588937",
+    "published": "2026-02-28T15:45:01+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Debris from downed Iranian missile hits residential building in Syria, killing three",
+    "relevant": true,
+    "summary_en": "An Iranian missile, likely intercepted or malfunctioning, crashed into a residential building in Syria, resulting in three fatalities. This incident highlights the risks posed by ongoing missile and air-defense operations in the region. The event underscores the collateral damage risks for civilians amidst the Iran-US conflict and related proxy warfare in Syria.",
+    "translated": true
+  },
+  {
+    "id": "d6029ef0ec34d3c2",
+    "title_original": "Глава ВОЗ призвал лидеров в ситуации на Ближнем Востоке пойти по трудному пути диалога",
+    "content_original": "Тедрос Адан Гебрейесус выразил солидарность с гражданским населением в регионе, \"оказавшемся в перекрестном огне\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589487",
+    "published": "2026-02-28T15:42:11+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "WHO Chief Calls for Dialogue Amid Middle East Conflict",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "77cedc443a2450c5",
+    "title_original": "Российские турагентства намерены обеспечить бесплатное возвращение россиян из ОАЭ",
+    "content_original": "Туристы, которые приобрели путевки сами, особенно у иностранных авиакомпаний, будут решать вопросы с оплатой дороги домой самостоятельно, отметил вице-президент Альянса туристических агентств России, генеральный директор сети турагентств \"Розовый слон\" Алексан Мкртчян",
+    "url": "https://tass.ru/obschestvo/26589439",
+    "published": "2026-02-28T15:42:05+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian travel agencies to provide free return for Russians from UAE",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "63677fc60448dd7e",
+    "title_original": "Более 20 провинций Ирана подверглись атакам США и Израиля",
+    "content_original": "Данные привели представители Красного Полумесяца Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589481",
+    "published": "2026-02-28T15:41:54+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Over 20 Iranian provinces targeted by US and Israeli attacks",
+    "relevant": true,
+    "summary_en": "The US and Israel have launched attacks on more than 20 provinces in Iran, as reported by the Iranian Red Crescent. This indicates a significant escalation in the conflict, with widespread strikes across Iranian territory, likely targeting IRGC assets and infrastructure.",
+    "translated": true
+  },
+  {
+    "id": "edfdf2a0cd930a7e",
+    "title_original": "Red Wings отменила перелеты в Израиль до 10 марта включительно",
+    "content_original": "Пассажиры отмененных рейсов могут оформить вынужденный возврат",
+    "url": "https://tass.ru/ekonomika/26589471",
+    "published": "2026-02-28T15:40:46+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Red Wings cancels flights to Israel until March 10",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "4e804e6651bbfc62",
+    "title_original": "Эксперт Рожин: переговоры с Ираном были прикрытием для подготовки агрессии",
+    "content_original": "Он отметил, что иранцы, учитывая предыдущий опыт, \"явно подготовились лучше к ответным ударам\"",
+    "url": "https://tass.ru/politika/26589409",
+    "published": "2026-02-28T15:39:38+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Expert Rozhin: Talks with Iran were a cover for preparing aggression",
+    "relevant": true,
+    "summary_en": "Russian expert Rozhin claims that negotiations with Iran were a facade for preparing aggression, suggesting Iran has better prepared for retaliatory strikes based on past experiences. This indicates potential escalation and distrust between Iran and the US, with implications for ongoing conflict dynamics.",
+    "translated": true
+  },
+  {
+    "id": "3d6f8eaeda5086f5",
+    "title_original": "В Брянской области при атаке дрона ВСУ пострадали два человека",
+    "content_original": "Первую помощь пострадавшим оказал командир сводного отряда полиции УМВД России по региону Александр Финогенов",
+    "url": "https://tass.ru/proisshestviya/26589347",
+    "published": "2026-02-28T15:37:34+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drone Attack in Bryansk Region Injures Two People",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "10d73ac06915a252",
+    "title_original": "Захарова смоделировала ситуацию с базой НАТО на Азове",
+    "content_original": "Под удары США и Израиля 28 февраля попали крупнейшие иранские города, в том числе Тегеран",
+    "url": "https://tass.ru/politika/26589247",
+    "published": "2026-02-28T15:35:14+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israeli strikes hit major Iranian cities including Tehran on February 28",
+    "relevant": true,
+    "summary_en": "US and Israeli forces conducted coordinated strikes targeting major Iranian cities, including Tehran, on February 28. This escalation signifies a significant intensification of the conflict, demonstrating a willingness to target Iran's urban centers. The strikes likely aimed at degrading Iran's military and infrastructure capabilities, further escalating regional tensions.",
+    "translated": true
+  },
+  {
+    "id": "259222f110a0f889",
+    "title_original": "FT: удары США по Ирану могут сказаться на поставках вооружения на Украину",
+    "content_original": "Соединенные Штаты могут легко израсходовать \"годовые запасы\" критически важных оборонных боеприпасов, отмечает издание",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26589267",
+    "published": "2026-02-28T15:33:47+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Strikes on Iran May Impact Weapon Supplies to Ukraine",
+    "relevant": true,
+    "summary_en": "The article suggests that US strikes on Iran could deplete critical defense ammunition stockpiles, potentially affecting weapon supplies to Ukraine. This highlights the strain on US military resources due to ongoing conflicts in multiple regions. The strategic significance lies in the potential limitations on US support for Ukraine amidst escalating hostilities with Iran.",
+    "translated": true
+  },
+  {
     "id": "aa1bc90d83acc906",
     "title_original": "Иранское посольство заявило, что страна будет отвечать агрессорам",
     "content_original": "Иранское посольство заявило, что страна будет отвечать агрессорам",
@@ -489,7 +1049,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Swiss Foreign Ministry Confirms US-Iran Communication Channel",
+    "relevant": true,
+    "summary_en": "The Swiss Foreign Ministry has confirmed the existence of a communication channel between the United States and Iran, which is crucial for de-escalation and diplomatic efforts amid the ongoing conflict. This channel likely facilitates the exchange of critical information and negotiation of potential ceasefire terms. Its existence underscores the importance of back-channel diplomacy in managing the conflict.",
+    "translated": true
   },
   {
     "id": "acd0782724fa67bd",
@@ -517,7 +1081,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Serious Internet Issues Reported in Tehran",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "5a9266f0f7f3bd55",
@@ -545,7 +1113,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Lavrov Condemns Unprovoked US Aggression Against Iran",
+    "relevant": true,
+    "summary_en": "Russian Foreign Minister Lavrov has condemned the US for its unprovoked aggression against Iran. This statement reflects Russia's position on the ongoing conflict, likely criticizing US military actions and strikes against Iranian targets. The statement is significant as it indicates potential diplomatic escalation and Russia's stance on the conflict.",
+    "translated": true
   },
   {
     "id": "d4a522c153eb49b6",
@@ -589,7 +1161,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Russian Tourists in the Middle East: Current Information",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "764cd0b6d81b7bbb",
@@ -601,7 +1177,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Lavrov Conducts Talks with Iranian Foreign Minister",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "98e4afa646463ead",
@@ -613,7 +1193,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "S7 Airlines cancels two flights to Dubai",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "5d35a89f726ae04f",
@@ -625,7 +1209,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Death Toll of Schoolchildren in Southern Iran Rises to 51",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "49935514f6b2d82d",
@@ -669,7 +1257,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Orban threatens to cut electricity supplies to Ukraine",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "6d6bd6a4be586116",
@@ -681,7 +1273,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Public bomb shelters opened in Tel Aviv",
+    "relevant": true,
+    "summary_en": "Public bomb shelters have been opened in Tel Aviv amid escalating regional tensions and potential threats from Iranian-backed groups. This move reflects concerns over possible attacks on Israeli cities and aims to ensure civilian safety. The development underscores the ongoing conflict's impact on civilian preparedness and infrastructure in Israel.",
+    "translated": true
   },
   {
     "id": "1bf726dfb7950c2f",
@@ -725,7 +1321,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Richemont Registers Two Trademarks in Russia",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "faf54c4bc76dc68e",
@@ -785,7 +1385,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Explosions Reported in Qatar's Capital",
+    "relevant": true,
+    "summary_en": "Explosions have occurred in Doha, Qatar. This is significant due to Qatar hosting major US military bases, including Al Udeid Air Base, which is critical for US operations in the region amid the conflict with Iran. The cause and impact of the explosions are currently unknown, but this could indicate a potential escalation or targeting of US assets in the Gulf.",
+    "translated": true
   },
   {
     "id": "2f9995d9bd9097fe",
@@ -797,7 +1401,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Seven people injured in a car accident in Murmansk region",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "f5ff7ea3b7ea7648",
@@ -809,7 +1417,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Monk explains when fish and wine are allowed during fasting",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "6b8ec1d532dae4d9",
@@ -869,7 +1481,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Death Toll of School Students in Southern Iran Rises to 42",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "61f419e26f5408b7",
@@ -993,7 +1609,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Russian Ambassador Discusses Potential Cooperation with US on Arctic Issues",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "d933ef3c33f908ab",
@@ -1021,7 +1641,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Elena Kondulainen plans concert tour in Russia",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "0f6f17dcb925ae9f",
@@ -1033,7 +1657,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "France Calls for UN Security Council Meeting on Iran Situation",
+    "relevant": true,
+    "summary_en": "France has requested a UN Security Council meeting to address the ongoing situation with Iran amid escalating regional tensions and military actions. This indicates growing international concern over the conflict's impact and potential for further escalation. The meeting could lead to diplomatic efforts or increased pressure on involved parties.",
+    "translated": true
   },
   {
     "id": "f389df08c60ac2ec",
@@ -1077,7 +1705,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Turkish Embassy in Tehran urges citizens to follow safety measures",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "f801ccc135ed670e",
@@ -1217,7 +1849,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Orban claims Western Europe is starting to understand the truth about Zelensky",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "2c926edb387aa95e",
@@ -1229,7 +1865,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Football Team Chelyabinsk Wins Against Sokol with 10 Players in First League Match",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "65f9d1e94516e960",
@@ -1241,7 +1881,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Attack on Iran Causes Panic in France",
+    "relevant": true,
+    "summary_en": "The ongoing conflict between Iran and the US has sparked panic in France, with concerns that the situation could escalate into a broader regional or global crisis. This reaction highlights the international anxiety over the potential for the conflict to expand beyond the Middle East. France's reaction underscores the broader geopolitical implications of the Iran-US conflict for European nations.",
+    "translated": true
   },
   {
     "id": "98884551d91b2420",
@@ -1333,7 +1977,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Tutberidze's revelations after the Games",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "9d5a80824a2d2933",
@@ -1345,7 +1993,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Hungarian PM Orban Announces Timeline for Refitting Sazhalombatta Plant to Use Non-Russian Feedstock",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "d5a3c2a5413f31bc",
@@ -1357,7 +2009,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "UN Human Rights Office condemns strikes on Iran",
+    "relevant": true,
+    "summary_en": "The UN Human Rights Office has condemned the ongoing strikes on Iran, highlighting concerns over civilian casualties and human rights violations amidst the conflict. This condemnation comes as the US and its allies continue military operations targeting Iranian military and nuclear facilities. The statement adds diplomatic pressure on involved parties to consider human rights implications in their military strategies.",
+    "translated": true
   },
   {
     "id": "a07de9037ebd0040",
@@ -1369,7 +2025,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US operations in Iran will complicate the situation in Ukraine",
+    "relevant": true,
+    "summary_en": "Media reports suggest that ongoing US military operations in Iran will have strategic implications for the situation in Ukraine, potentially diverting resources and attention away from the conflict there. This highlights the interconnectedness of global military operations and the challenges of managing simultaneous conflicts. The development underscores the need for the US to balance its commitments across different theaters of operation.",
+    "translated": true
   },
   {
     "id": "a418c89611b981d8",
@@ -1381,7 +2041,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Rubio Informed Only a Few Congress Members About US Plans on Iran",
+    "relevant": true,
+    "summary_en": "Senator Rubio reportedly briefed only a select few members of Congress about US plans concerning Iran. This suggests a potential lack of transparency and broader congressional involvement in decision-making regarding the ongoing conflict with Iran. The strategic significance lies in the possible implications for oversight and accountability in US military actions against Iran.",
+    "translated": true
   },
   {
     "id": "76ab03a13aa7d975",
@@ -1393,7 +2057,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Orban states Hungary will not succumb to Zelensky's blackmail",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "cc0364bf7eab1132",
@@ -1405,7 +2073,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Finnish President comments on US and Israeli strikes on Iran",
+    "relevant": true,
+    "summary_en": "The Finnish President has made statements regarding the ongoing US and Israeli strikes on Iran. This is significant as it reflects international diplomatic engagement and potential geopolitical positioning related to the conflict. The comments may influence broader European Union and NATO discussions on the situation.",
+    "translated": true
   },
   {
     "id": "64dcfa31c10e10c0",
@@ -1417,7 +2089,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israel Detects Dozens of Rockets Over Several Hours",
+    "relevant": true,
+    "summary_en": "Israel has detected dozens of rockets fired towards its territory over the past few hours. This incident likely involves attacks from Hezbollah or other Iran-backed groups along Israel's northern border. The situation signifies a significant escalation in hostilities and raises concerns about regional stability.",
+    "translated": true
   },
   {
     "id": "f9157f4ed8be6681",
@@ -1429,7 +2105,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Aeroflot plans to operate wide-body flights to the UAE",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
   },
   {
     "id": "070bb75e4b51588c",
@@ -1441,7 +2121,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Rosatom Personnel Evacuated from Iran",
+    "relevant": true,
+    "summary_en": "Rosatom, Russia's state nuclear energy corporation, has evacuated its personnel from Iran amid escalating conflict. This move suggests concerns over the safety of Russian nationals and potential threats to nuclear facilities. The evacuation could indicate heightened risks for nuclear sites and international personnel in Iran.",
+    "translated": true
   },
   {
     "id": "63ec36088cc9f3db",
@@ -1453,7 +2137,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Slovak Foreign Ministry urges citizens to leave Israel",
+    "relevant": true,
+    "summary_en": "The Slovak Foreign Ministry has called on its citizens to leave Israel, likely due to escalating regional tensions and security concerns amid the ongoing conflict. This move reflects growing worries about the potential for the conflict to expand and threaten civilian safety in neighboring areas. The decision underscores the heightened risk perception among European countries regarding the situation in Israel.",
+    "translated": true
   },
   {
     "id": "8b1a196641be8f92",
@@ -1465,7 +2153,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iranian Army Reports Use of Drones Against Israel",
+    "relevant": true,
+    "summary_en": "The Iranian Army has announced the deployment of drones targeting Israel, indicating an escalation in the ongoing conflict. This development highlights Iran's continued use of unmanned aerial vehicles in its military operations against Israel, potentially escalating tensions in the region. The strategic significance lies in Iran's willingness to engage Israel directly through drone strikes, showcasing its evolving tactics and capabilities.",
+    "translated": true
   },
   {
     "id": "8c3d82f8bc98f5cc",

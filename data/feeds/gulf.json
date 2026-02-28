@@ -1,5 +1,35 @@
 [
   {
+    "id": "abea28a1fbade14c",
+    "title_original": "MOD Announces Successful Interception of 3rd Wave of Attacks Targeting the Country",
+    "content_original": "Doha, February 28 (QNA) - The Ministry of Defense (MOD) announced Saturday that, thanks to high readiness, constant vigilance, and coordinated efforts between the relevant authorities, it successfully intercepted the third wave of attacks targeting several areas in the country.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/mod-announces-successful-interception-of-3rd-wave-of-attacks-targeting-the-country",
+    "published": "2026-02-28T14:52:16+00:00",
+    "source_name": "QNA Qatar (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "MOD Announces Successful Interception of 3rd Wave of Attacks Targeting the Country",
+    "relevant": true,
+    "translated": true
+  },
+  {
+    "id": "5a94a1a2f6ff8cdb",
+    "title_original": "Kuwait Strongly Condemns the Iranian Attack on Its Territory",
+    "content_original": "Kuwait, February 28 (QNA) - The State of Kuwait expressed its strong condemnation of the Iranian attack that targeted Kuwaiti territory this morning, describing it as a flagrant violation of its sovereignty and airspace, as well as of international law and the Charter of the United Nations.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/kuwait-strongly-condemns-the-iranian-attack-on-its-territory",
+    "published": "2026-02-28T14:49:17+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Kuwait Strongly Condemns the Iranian Attack on Its Territory",
+    "relevant": true,
+    "translated": true
+  },
+  {
     "id": "068626ec9f77ac86",
     "title_original": "Saudi Arabia Strongly Condemns Iranian Aggression Against Countries in the Region",
     "content_original": "Riyadh, February 28 (QNA) - The Kingdom of Saudi Arabia has condemned and denounced in the strongest terms the blatant Iranian aggression and the flagrant violation of the sovereignty of the State of Qatar, the United Arab Emirates, the Kingdom of Bahrain, the State of Kuwait, and the Hashemite Kingdom of Jordan.",
@@ -233,7 +263,11 @@
     "source_category": "state",
     "language": "ar",
     "region": "gulf",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Bahrain Defense Force Intercepts Iranian Missile Attack",
+    "relevant": true,
+    "summary_en": "The Bahrain Defense Force announced that its air defense systems intercepted a missile attack launched from Iran. This incident occurred on February 28th and highlights the ongoing threat posed by Iranian aggression in the Gulf region. The successful interception underscores the effectiveness of Bahrain's defenses amid escalating regional tensions.",
+    "translated": true
   },
   {
     "id": "3f6d7b10232cb274",
@@ -245,7 +279,11 @@
     "source_category": "state",
     "language": "ar",
     "region": "gulf",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "UAE Successfully Intercepts New Wave of Iranian Missiles",
+    "relevant": true,
+    "summary_en": "The UAE announced that its air defenses successfully intercepted a new wave of Iranian missiles launched towards the UAE. This incident highlights ongoing tensions and the threat of Iranian missile attacks in the Gulf region, underscoring the UAE's defensive capabilities amid the conflict.",
+    "translated": true
   },
   {
     "id": "bd43f4d1911b8b95",
@@ -257,7 +295,11 @@
     "source_category": "state",
     "language": "ar",
     "region": "gulf",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Qatari Defense Ministry Announces Successful Defense Against Third Wave of Attacks",
+    "relevant": true,
+    "summary_en": "The Qatari Defense Ministry reported repelling a third wave of attacks targeting multiple areas within Qatar. This highlights the ongoing security threats and Qatar's preparedness amid regional tensions, likely linked to the Iran-US conflict given recent escalations in the Gulf region.",
+    "translated": true
   },
   {
     "id": "fcbc691fd869222d",
@@ -2605,7 +2647,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Arab League Stresses Importance of Continued and Increased Support for UNRWA",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "38b8e418fd99dc34",
@@ -2617,7 +2662,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Two Martyred, Several Injured in Israeli Occupation Strike East of Gaza City",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "dbc78bd40c881640",
@@ -2629,7 +2677,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Syrian FM Discusses Ties, Refugee Return with EU Delegation",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "f70e0154c7d916b9",
@@ -2641,7 +2692,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "HH the Amir Sends Condolences to Amir of Kuwait",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "be5a1d500bd36191",
@@ -2653,7 +2707,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Israel Launches Airstrikes on Eastern Lebanon",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "fbe80160020b74a9",
@@ -2665,7 +2722,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Egyptian President Discusses Regional Developments with Sudanese Prime Minister",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "6279c65b9364c0f6",
@@ -2677,7 +2737,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Qatar Reiterates Its Firm Stance, Unwavering Support for Unity, Territorial Integrity of Sudan",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "93b0dfc20786b241",
@@ -2689,7 +2752,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Qatar Reaffirms Commitment to Role as Active International Partner",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "bafd00c81eb23476",
@@ -2701,7 +2767,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Russia Denies Setting Any Timeline for Settlement with Ukraine",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "530080ba58f0c499",
@@ -2713,7 +2782,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "UN Reports Nearly 8,000 Dead or Missing Along Migration Routes Last Year",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "ae7c270a974d3b98",
@@ -2725,7 +2797,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Minister of Environment and Climate Change Meets Ambassador of Mongolia",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "891ba35f9eb53696",
@@ -2737,7 +2812,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Five New Lawyers Take Legal Oath before Attorneys' Admission Committee",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "19c773e24186c087",
@@ -2749,7 +2827,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Lebanese Parliament Speaker Meets Qatar's Ambassador",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "91264db05b23cc88",
@@ -2761,7 +2842,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Qatar Condemns Attacks in Pakistan's Khyber Pakhtunkhwa and Punjab Provinces",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "c56087c19bc1edb0",
@@ -2773,7 +2857,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Omani Foreign Minister, US Envoy Discuss Developments in US-Iran Negotiations",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "77952c05424ec6ed",
@@ -2785,7 +2872,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Oman Foreign Minister, IAEA Director General Discuss Developments in Iranian Nuclear File",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "0a2a9a3f8c1202da",
@@ -2797,7 +2887,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Colonists Storm Al-Aqsa Mosque",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "39ae5513ba2c7f22",
@@ -2809,7 +2902,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "S. Korea Affirms Commitment to Continuing Peace Efforts With Pyongyang",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "10e0ef05de87be01",
@@ -2821,7 +2917,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "5.7-Magnitude Earthquake Hits Russian Kamchatka Coast",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "c6783fde541fa076",
@@ -2833,7 +2932,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Russia Shoots Down 17 Ukrainian Drones over Various Regions",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "a7dfa736505d1b48",
@@ -2845,7 +2947,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "HH the Amir Emphasizes Importance of Protecting Natural Resources, Biodiversity in Qatar",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "c4b79611c96f1b65",
@@ -2857,7 +2962,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Omani FM Meets Iranian Counterpart in Geneva Ahead of New Round of Iran-US Negotiations",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "84548959b0ad6681",
@@ -2869,7 +2977,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Minister of Labor Meets Rwandan Ambassador",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "08052e7ce5d9303e",
@@ -2881,7 +2992,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Qatar Charity Distributes Ramadan Food Baskets in Pakistan, Bangladesh, Georgia and Cote d'Ivoire",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "3b27463510cb9cb2",
@@ -2893,7 +3007,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Awqaf Ministry Completes Operational Preparations to Receive Zakat Funds During Ramadan",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "e8fc03b7319fef17",
@@ -2905,7 +3022,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "QFFD Delegation Visits Two Housing Unit Projects in Seychelles",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "ad7b710325710ecc",
@@ -2917,7 +3037,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Qatar's Permanent Mission in Geneva Co-Organizes Side Event on Youth and Artificial Intelligence",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "1509a7f1c91c2757",
@@ -2929,7 +3052,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Prime Minister Sends Congratulations to Dutch Counterpart",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "57d16053b4231c9a",
@@ -2941,7 +3067,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "HH the Deputy Amir Sends Congratulations to Netherlands' Prime Minister",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "1048642fad4591c5",
@@ -2953,7 +3082,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "HH the Amir Sends Congratulations to Netherlands' Prime Minister",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "245d5339afd3c993",
@@ -2965,7 +3097,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "NHRC: Ethical Governance of Artificial Intelligence an Urgent Necessity",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "3823429b3d730a9a",
@@ -2977,7 +3112,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Qatar Participates in High-Level Segment of Conference on Disarmament",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "5c670e7bdb9c2ea7",
@@ -2989,7 +3127,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "HH the Amir Hosts Ramadan Iftar for Diplomats at Lusail Palace",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "dc0c5f13cbf0c8c4",
@@ -3001,7 +3142,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Minister of Environment and Climate Change to QNA: Environment Day an Opportunity to Evaluate Environmental Work Progress",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "7981325b9d67edfa",
@@ -3013,7 +3157,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Qatar Participates in Arab Meeting to Adopt Regional Action Plan for Implementation of International Humanitarian Law 2026-2027",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "2e66c0fd4820977d",
@@ -3025,7 +3172,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "HBKU Hosts Second Industry and Government Advisory Board Meeting",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "bd2b76df0a858b29",
@@ -3037,7 +3187,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Governor of Istanbul Meets Consul General of Qatar",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "c705cce6d65fb95c",
@@ -3049,7 +3202,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Sri Lanka's Minister of Foreign Affairs, Foreign Employment, Tourism Meets Qatar's Ambassador",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "69fe2b30d3654c40",
@@ -3061,7 +3217,10 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Minister of State for Foreign Affairs Bids Farewell to Portuguese Ambassador",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "234eaa8d83f02f79",
@@ -3073,6 +3232,9 @@
     "source_category": "state",
     "language": "en",
     "region": "gulf",
-    "skip_translation": true
+    "skip_translation": true,
+    "title_en": "Mexican Foreign Ministry Receives Copy of Credentials of Qatar's Ambassador",
+    "relevant": true,
+    "translated": true
   }
 ]
