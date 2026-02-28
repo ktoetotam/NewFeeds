@@ -355,10 +355,17 @@ regions:
         category: state
         skip_translation: true
 
-      - name: "Jordan Times"
+      - name: "Jordan Times (News)"
         type: rss
         language: en
-        url: "https://www.jordantimes.com/feed"
+        url: "https://jordantimes.com/rss-feed/46"
+        category: state-aligned
+        skip_translation: true
+
+      - name: "Jordan Times (Local)"
+        type: rss
+        language: en
+        url: "https://jordantimes.com/rss-feed/47"
         category: state-aligned
         skip_translation: true
 
