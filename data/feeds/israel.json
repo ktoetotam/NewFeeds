@@ -1,23 +1,7 @@
 [
   {
-    "id": "af71ac79a083d38a",
-    "title_original": "פצועים בדובאי, מלון נפגע מכטב\"ם איראני | תיעוד",
-    "content_original": "איראן שיגרה טילים וכטב\"מים למדינות המפרץ, ופגעה במלון בדובאי. התקשורת האמירתית דיווחה על ארבעה פצועים. מוקדם יותר דווח על הרוג באבו דאבי",
-    "url": "https://www.ynet.co.il/news/article/bytom5lk11x",
-    "published": "2026-02-28T18:22:34+02:00",
-    "source_name": "Ynet",
-    "source_category": "state-aligned",
-    "language": "he",
-    "region": "israel",
-    "skip_translation": false,
-    "title_en": "Iranian missile and drone strike hits Dubai hotel, causing casualties",
-    "relevant": true,
-    "summary_en": "Iran launched missiles and drones targeting Gulf states, striking a hotel in Dubai and injuring four people. Earlier reports indicated one fatality in Abu Dhabi. This attack demonstrates Iran's continued efforts to strike at regional US allies and disrupt Gulf stability.",
-    "translated": true
-  },
-  {
     "id": "ec0c5b3835099d0c",
-    "title_original": "איראן טוענת: \"85 נהרגו בתקיפת בית ספר\" | דיווחים על כאוס בטהרן ומחסור במזון",
+    "title_original": "איראן טוענת: \"70 נהרגו בתקיפת בית ספר\" | דיווחים על כאוס בטהרן ומחסור במזון",
     "content_original": "הרשויות הודיעו כי בית ספר לבנות בדרום איראן נפגע בתקיפות וטענו כי עשרות נהרגו - בישראל בודקים את הדיווחים. במערב דווח על כאוס בטהרן ועל תורי ענק בתחנות הדלק, בשל רצון של תושבים לעזוב. במקביל: הפגנות תמיכה במשטר",
     "url": "https://www.ynet.co.il/news/article/rjgqnvlkzx",
     "published": "2026-02-28T17:51:22+02:00",
@@ -26,15 +10,15 @@
     "language": "he",
     "region": "israel",
     "skip_translation": false,
-    "title_en": "Iran claims 85 killed in school attack | Reports of chaos in Tehran and fuel shortages",
+    "title_en": "Iran claims 70 killed in school attack | Reports of chaos in Tehran and fuel shortages",
     "relevant": true,
-    "summary_en": "Iran alleges that a girls' school in southern Iran was hit in an attack, claiming dozens were killed, with Israel investigating the reports. Chaos is reported in Tehran with long lines at fuel stations as residents attempt to flee, while pro-regime demonstrations occur simultaneously.",
+    "summary_en": "Iran alleges that a girls' school in southern Iran was targeted, resulting in dozens of casualties, with Israel investigating the reports. The incident has reportedly caused chaos in Tehran, with long lines at fuel stations as residents attempt to flee, while pro-regime demonstrations are also taking place.",
     "translated": true
   },
   {
     "id": "34445f608f2c6a2c",
     "title_original": "נער בן 17 נפצע קל מרסיסים בכפר קאסם, רכבים נשרפו בראש העין | התמונות ממרכז הארץ",
-    "content_original": "צעיר כבן 17 נפצע באורח קל במטח שבוצע לאזור המרכז, הוא הועבר לטיפול במרכז לרפואת ילדים שניידר. בראש העין, רסיסים גרמו לשריפה ללא נפגעים, נזק לגן ילדים בעיר. נזק כבד נגרם לבניין ברמת גן",
+    "content_original": "צעיר כבן 17 נפצע באורח קל במטח האחרון למרכז, הוא הועבר לטיפול במרכז לרפואת ילדים שניידר. בראש העין רסיסים גרמו לשריפה ללא נפגעים",
     "url": "https://www.ynet.co.il/news/article/hjoblyeyze",
     "published": "2026-02-28T17:48:48+02:00",
     "source_name": "Ynet",
@@ -42,9 +26,9 @@
     "language": "he",
     "region": "israel",
     "skip_translation": false,
-    "title_en": "Rockets Injure Teen and Cause Damage in Central Israel",
-    "relevant": true,
-    "summary_en": "A 17-year-old was lightly injured by shrapnel in Kfar Qasim, and rockets also caused fires and damage to a kindergarten in Rosh HaAyin and a building in Ramat Gan. This indicates a significant escalation in rocket attacks targeting central Israel, highlighting the ongoing conflict's impact on civilian areas.",
+    "title_en": "17-year-old injured by shrapnel in Kfar Qasim, vehicles set ablaze in Rosh HaAyin",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -112,22 +96,6 @@
     "translated": true
   },
   {
-    "id": "9d3ae5be559c7126",
-    "title_original": "חיסולי בכירים ומטרות אסטרטגיות: כל מה שפאשר לספר על הכאוס באיראן",
-    "content_original": "סמוך לשעה 8 בבוקר ישראל וארצות הברית יצאו למבצע משותף באיראן ותקפו מספר רב של מטרות ברחבי המדינה. דיווחים רבים על חיסול בכירים ופגיעה במטרות משמעותיות",
-    "url": "https://www.maariv.co.il/news/military/Blog-1290247",
-    "published": "2026-02-28T16:32:03+00:00",
-    "source_name": "Maariv",
-    "source_category": "state-aligned",
-    "language": "he",
-    "region": "israel",
-    "skip_translation": false,
-    "title_en": "US-Israel Joint Operation Targets Senior Officials and Strategic Sites in Iran",
-    "relevant": true,
-    "summary_en": "The US and Israel launched a joint operation in Iran, striking multiple targets across the country, including the elimination of senior officials and damage to significant strategic sites. This represents a significant escalation in the conflict, showcasing direct military cooperation between the US and Israel against Iran. The operation likely aims to degrade Iran's military and leadership capabilities.",
-    "translated": true
-  },
-  {
     "id": "3f9765fde727d898",
     "title_original": "סובב אותם על האצבע: תרגיל ההונאה של טראמפ בשיחות המשא ומתן | אילנה שושן",
     "content_original": "בנאום דרמטי מסגר דונלד טראמפ את המערכה נגד איראן לא כמתקפה, אלא כמעשה הגנה הכרחי למען הבוחר בטקסס ובאוהיו. טראמפ מנסה שוב להוכיח ש\"אמריקה פירסט\" היא לא רק סיסמה, אלא דוקטרינה צבאית",
@@ -156,22 +124,6 @@
     "skip_translation": true,
     "title_en": "Israel, US preparing for 'at least a week' of joint strikes on Iran, officials say",
     "relevant": true,
-    "translated": true
-  },
-  {
-    "id": "6cc16f1863b76743",
-    "title_original": "שאגת הארי: איראן קיבלה מהלומה מישראל וארה\"ב | סיכום חדשות השבת",
-    "content_original": "ישראל וארה\"ב יצאו במתקפה נרחבת באיראן, שכללה מטרות שלטון - כולל הארמון הנשיאותי של עלי חמינאי | דיווחים על כך שהמנהיג העליון האיראני נפגע במתקפה | טראמפ לעם האיראני: \"שעת החירות שלכם הגיע\"",
-    "url": "https://www.maariv.co.il/news/israel/article-1290232",
-    "published": "2026-02-28T16:15:29+00:00",
-    "source_name": "Maariv",
-    "source_category": "state-aligned",
-    "language": "he",
-    "region": "israel",
-    "skip_translation": false,
-    "title_en": "Israel and US Launch Major Attack on Iran, Targeting Leadership Including Khamenei's Palace",
-    "relevant": true,
-    "summary_en": "Israel and the US conducted a large-scale attack on Iran, targeting government sites including Supreme Leader Ali Khamenei's presidential palace. Reports indicate that the Iranian Supreme Leader may have been injured in the attack. This represents a significant escalation in the conflict, directly targeting Iran's top leadership.",
     "translated": true
   },
   {

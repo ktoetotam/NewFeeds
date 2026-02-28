@@ -1,5 +1,44 @@
 [
   {
+    "id": "cef057eda3088594",
+    "title_original": "VIDEO: Exact moment Dubai's Fairmont Palm Jumeirah was hit amid US-Iran conflict",
+    "content_original": "Authorities on Saturday responded to an incident in a building in the Palm Jumeirah area",
+    "url": "https://www.hindustantimes.com/world-news/us-news/dubai-strike-live-update-exact-moment-fairmont-palm-jumeirah-was-hit-amid-us-iran-israel-missile-strike-video-101772293511394.html",
+    "published": "2026-02-28T21:42:07+05:30",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Dubai's Fairmont Palm Jumeirah hit amid US-Iran conflict",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A missile or drone strike hit the Fairmont Palm Jumeirah hotel in Dubai's Palm Jumeirah area during the ongoing US-Iran conflict. The incident occurred on Saturday, prompting a response from local authorities. This attack signifies an escalation of hostilities, potentially involving Iranian proxies targeting US interests or allies in the Gulf region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "drone",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iranian proxies",
+        "Dubai authorities"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "The attack on the Fairmont Palm Jumeirah in Dubai represents a significant escalation as Iranian proxies potentially targeted US interests or allies in the Gulf, highlighting the conflict's expansion beyond direct US-Iran engagement."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "c525bbc307362e59",
     "title_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
     "content_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
@@ -2393,6 +2432,43 @@
     "lng": 34.8
   },
   {
+    "id": "fa943b57b4754532",
+    "title_original": "Abu Dhabi residents receive mobile alert amid Iran strikes: 'Potential missile threat'",
+    "content_original": "Abu Dhabi news: A civilian was killed in Iranian strikes that hit Abu Dhabi on Saturday, the UAE's ministry of defence said in a statement.",
+    "url": "https://www.hindustantimes.com/world-news/abu-dhabi-residents-receive-mobile-alert-amid-iran-strikes-potential-missile-threat-101772277388085.html",
+    "published": "2026-02-28T16:56:10+05:30",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Abu Dhabi residents receive mobile alert amid Iran strikes: 'Potential missile threat'",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Iran launched strikes targeting Abu Dhabi, resulting in the death of at least one civilian, according to the UAE's ministry of defence. The incident prompted authorities to issue mobile alerts warning residents of a potential missile threat. This escalation highlights the direct threat under which Gulf states are operating due to the ongoing Iran-US conflict.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "death",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "US (indirect involvement)"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "Iran's missile strikes on Abu Dhabi, resulting in civilian casualties, demonstrate the direct threat under which Gulf states operate due to the Iran-US conflict, posing a significant escalation risk."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
     "id": "aaaea944afcd6018",
     "title_original": "Недалеко от столицы Бахрейна продолжают греметь взрывы",
     "content_original": "Недалеко от столицы Бахрейна продолжают греметь взрывы",
@@ -3491,6 +3567,42 @@
     "lng": 44.17
   },
   {
+    "id": "1b52a4de0fa7b919",
+    "title_original": "⚡️ The moment an Iranian drone exploded in Dubai.",
+    "content_original": "⚡️ The moment an Iranian drone exploded in Dubai.",
+    "url": "https://t.me/warmonitors/40057",
+    "published": "2026-02-28T15:59:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian drone explodes in Dubai",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "An Iranian drone exploded in Dubai, likely indicating an escalation in regional hostilities as Iranian assets target areas beyond traditional conflict zones. This incident could provoke a response from the US and its allies, given Dubai's strategic importance and proximity to US interests in the UAE. The explosion highlights the potential for expanded conflict in the Gulf region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "drone",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "United States"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The explosion of an Iranian drone in Dubai signifies a potential escalation in regional hostilities, posing a threat to US interests in the strategically vital UAE."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "3c04ffe49087bbda",
     "title_original": "Tasnim: Иран нанес новый удар по базе США в Кувейте",
     "content_original": "Tasnim: Иран нанес новый удар по базе США в Кувейте",
@@ -3945,6 +4057,42 @@
     "lng": 45.6252101
   },
   {
+    "id": "3be9a333d7a75744",
+    "title_original": "⚡️  The moment of the explosion in Dubai",
+    "content_original": "⚡️ The moment of the explosion in Dubai",
+    "url": "https://t.me/warmonitors/40052",
+    "published": "2026-02-28T15:29:09+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Explosion in Dubai",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "An explosion occurred in Dubai, likely impacting regional security and potentially involving military or proxy elements given the ongoing conflict. The strategic significance depends on the target and perpetrator, which could affect UAE's involvement or neutrality in the Iran-US conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "proxy",
+      "conflict",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Iranian proxy groups"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The explosion in Dubai, likely involving Iranian proxy elements, raises concerns about regional security and the UAE's stance in the Iran-US conflict, potentially escalating tensions in the Gulf."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "b4686f24dbdb4763",
     "title_original": "⚡️  Kuwait Airport after an Iranian drone attack",
     "content_original": "⚡️ Kuwait Airport after an Iranian drone attack",
@@ -4010,6 +4158,44 @@
     },
     "lat": 30.8124247,
     "lng": 34.8594762
+  },
+  {
+    "id": "6931d9cd09fc3b35",
+    "title_original": "Yemen's Iranian-backed Houthi rebels to resume attacks on shipping in Red Sea corridor: Officials",
+    "content_original": "One of the officials said the rebels' first attack could come as soon as “tonight”",
+    "url": "https://www.thehindu.com/news/international/yemens-iranian-backed-houthi-rebels-to-resume-attacks-on-shipping-in-red-sea-corridor-officials/article70687579.ece",
+    "published": "2026-02-28T15:22:12+05:30",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Houthi rebels to resume attacks on Red Sea shipping",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Yemen's Houthi rebels, backed by Iran, plan to resume attacks on shipping in the Red Sea corridor, with the first attack potentially occurring as soon as tonight. This development indicates an escalation in the conflict and poses a direct threat to international maritime trade in the strategically vital waterway. The move is likely to provoke a response from the US and its allies, who have previously targeted Houthi naval capabilities in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "houthi",
+      "conflict",
+      "threat",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthi rebels",
+        "Iran",
+        "US",
+        "international maritime forces"
+      ],
+      "location": "Red Sea",
+      "brief": "The planned Houthi attacks on Red Sea shipping represent a significant escalation, threatening international maritime trade and likely prompting a response from US-led naval forces."
+    },
+    "lat": 20.0,
+    "lng": 38.0
   },
   {
     "id": "39e953a907c65d55",
@@ -4875,6 +5061,43 @@
     "lng": 43.9465692
   },
   {
+    "id": "95c1ea2177f508e0",
+    "title_original": "Exiled Iranian opponent of Islamic Republic condemns US-Israel attack",
+    "content_original": "Exiled Iranian opponent of Islamic Republic condemns US-Israel attack Behrouz Farahani, a political analyst and opponent of the Islamic Republic living in exile in France, condemned the US and Israeli military attack on Iran. He said the war would only bring destruction to Iran and more suffering for its people, and he called for an immediate ceasefire. Speaking to Middle East Eye about the reaction of political opponents of the Iranian establishment who also oppose the war, he said: “In this situation, we oppose both sides. This war is between an international imperialist power, the US, and its regional ally, Israel, on one side, and the reactionary regime of Iran on the other. We are against both sides and against this war.” 'It is clear that this attack has nothing to do with improving life in Iran or helping its people' -&nbsp;Behrouz Farahani, political analyst He added, “We are calling for an immediate ceasefire and are organising anti-war protests. This war will bring nothing bu...",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/exiled-iranian-opponent-islamic-republic-condemns-us-israel-attack",
+    "published": "2026-02-28T13:47:58+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Exiled Iranian opponent condemns US-Israel attack on Iran",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Behrouz Farahani, an exiled Iranian political analyst living in France, condemned the US and Israeli military attack on Iran, calling for an immediate ceasefire. He stated that the war would lead to destruction and suffering for Iran and its people. His stance reflects opposition to both the US-Israel alliance and the Iranian regime amidst the ongoing conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "ceasefire",
+      "war",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The airstrike by US and Israel on Iran signifies a significant escalation in the conflict with potential for regional instability and increased Iranian retaliation."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "2a51d25a5f0e549c",
     "title_original": "🚨 ارتش اسرائیل ویدیو هایی منتشر کرده که در آن لانچر موشک آماده شلیک را هدف قرار میدهد  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
     "content_original": "🚨 ارتش اسرائیل ویدیو هایی منتشر کرده که در آن لانچر موشک آماده شلیک را هدف قرار میدهد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
@@ -5231,6 +5454,41 @@
     "lng": 34.8
   },
   {
+    "id": "b40a8278e0302dfb",
+    "title_original": "Israel Army strikes Hezbollah infrastructure in south Lebanon",
+    "content_original": "Israel and Iran-backed Hezbollah agreed a ceasefire in November 2024 after a year of war, but Israel has continued regular strikes, saying it is enforcing ceasefire provisions against the group rearming",
+    "url": "https://www.thehindu.com/news/international/israel-army-strikes-hezbollah-infrastructure-in-south-lebanon/article70687168.ece",
+    "published": "2026-02-28T12:47:04+05:30",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Israel Army strikes Hezbollah infrastructure in south Lebanon",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "The Israeli military conducted strikes targeting Hezbollah infrastructure in southern Lebanon. This action follows a ceasefire agreement in November 2024, with Israel claiming it is enforcing the ceasefire by preventing Hezbollah from rearming. The strikes highlight ongoing tensions and potential for renewed conflict along Israel's northern border.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "ceasefire",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "southern Lebanon",
+      "brief": "The strikes by Israel on Hezbollah infrastructure in southern Lebanon signal ongoing tensions and potential escalation risks in the region, indirectly impacting the broader Iran–US conflict dynamics."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
     "id": "1f97a7892432ab79",
     "title_original": "🚨 موج جدید حملات موشکی به اسرائیل ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا...",
     "content_original": "🚨 موج جدید حملات موشکی به اسرائیل ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
@@ -5550,6 +5808,50 @@
     },
     "lat": 29.0,
     "lng": 54.0
+  },
+  {
+    "id": "91339ea76c2704a7",
+    "title_original": "Gulf states on frontlines of Israel-US war on Iran",
+    "content_original": "Iran launched missile and drone strikes across multiple Arab states hosting US military bases on Saturday, hours after coordinated US-Israeli attacks on Iranian territory . The strikes threaten to widen the conflict to involve at least six countries across the Gulf and Levant , most of whom have long feared they would be on the front lines of any regional war. Air defences were activated in Qatar, the UAE, Bahrain, Kuwait, Jordan, Iraq and Saudi Arabia as Iranian projectiles targeted US-linked military infrastructure across the region. At least one civilian was killed in Abu Dhabi when debris from intercepted missiles struck a residential area, according to Emirati authorities. The escalation followed large-scale unprovoked US and Israeli strikes on Iranian military and strategic targets earlier in the day, including in and around Tehran. US President Donald Trump described the campaign as \"massive and ongoing combat operations\" aimed at countering Iranian threats. Israeli officials fr...",
+    "url": "https://www.newarab.com/news/gulf-states-frontlines-israel-us-war-iran",
+    "published": "2026-02-28T11:50:07+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Gulf states on frontlines of Israel-US war on Iran",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Iran launched missile and drone strikes targeting US military bases across multiple Arab states, including Qatar, UAE, Bahrain, Kuwait, Jordan, Iraq, and Saudi Arabia, following coordinated US-Israeli attacks on Iranian territory. The escalation threatens to widen the conflict, involving at least six countries in the Gulf and Levant. The activation of air defenses and the death of at least one civilian in Abu Dhabi highlight the direct impact on regional stability and civilian populations.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "death",
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Qatar",
+        "UAE",
+        "Bahrain",
+        "Kuwait",
+        "Jordan",
+        "Iraq",
+        "Saudi Arabia"
+      ],
+      "location": "Qatar, UAE, Bahrain, Kuwait, Jordan, Iraq, Saudi Arabia",
+      "brief": "Iran's missile and drone strikes on US military bases across multiple Arab states mark a significant escalation with direct engagement and regional instability."
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "d580087824341479",
@@ -6019,6 +6321,41 @@
     "lng": 34.99
   },
   {
+    "id": "257cbfd900415a15",
+    "title_original": "Lebanon refuses to be drawn into Iran conflict: PM",
+    "content_original": "Lebanese Prime Minister Nawaf Salam said Saturday that his country refused to be dragged into war, after Israel and the United States launched strikes against Iran. Authorities fear the Iran-backed Lebanese militant group Hezbollah could become involved in the conflict, which saw the US and Israel bomb Iran on Saturday and Tehran respond with missile attacks. Just before the operation began, Israel announced it was carrying out strikes on Hezbollah infrastructure in south Lebanon.",
+    "url": "https://www.al-monitor.com/originals/2026/02/lebanon-refuses-be-drawn-iran-conflict-pm",
+    "published": "2026-02-28T08:30:20-05:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Lebanon refuses to be drawn into Iran conflict: PM",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Lebanese Prime Minister Nawaf Salam stated that Lebanon will not be drawn into the ongoing conflict after US and Israeli strikes on Iran, amid concerns that Hezbollah might get involved. Israel preemptively struck Hezbollah infrastructure in south Lebanon before the operation began. This highlights Lebanon's efforts to avoid escalation and the potential for regional spillover as the conflict intensifies.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "south Lebanon",
+      "brief": "Israel's preemptive strikes on Hezbollah infrastructure in Lebanon signal potential escalation risks as Lebanon seeks to avoid involvement in the broader Iran conflict."
+    },
+    "lat": 39.3710358,
+    "lng": -84.2128058
+  },
+  {
     "id": "9fd3872aa08b23e9",
     "title_original": "כל המדינה במקלטים: אחרי מתקפת המנע - ישראל תחת מתקפה נרחבת מאיראן",
     "content_original": "אזעקות נשמעו בכל הארץ בעקבות זיהוי שיגור טילים לעבר שטח המדינה. \"הציבור מתבקש לגלות אחריות ולפעול על פי ההנחיות - הן מצילות חיים\", מסר פיקוד העורף",
@@ -6124,6 +6461,44 @@
     "lng": 35.3716495
   },
   {
+    "id": "b75e8d931beade68",
+    "title_original": "Israel shuts schools, bans gatherings as Iran launches retaliatory missiles",
+    "content_original": "By Alexander Cornwell TEL AVIV, Feb 28 (Reuters) - Israel banned public gatherings, shut schools and workplaces and moved hospital patients to underground facilities on Saturday as Tehran launched missiles towards Israel in retaliation for a joint U.S.-Israeli attack on Iran. Defence Minister Israel Katz declared a state of emergency across the country, warning the public of Iranian missile and drone attacks.",
+    "url": "https://www.al-monitor.com/originals/2026/02/israel-shuts-schools-bans-gatherings-iran-launches-retaliatory-missiles",
+    "published": "2026-02-28T07:36:48-05:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israel shuts schools, bans gatherings amid Iranian missile retaliation",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "Israel has taken emergency measures, including closing schools and banning gatherings, as Iran launched retaliatory missiles following a joint U.S.-Israeli attack. The country declared a state of emergency, highlighting the threat of Iranian missile and drone attacks. This escalation underscores the ongoing conflict and potential for further regional instability.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "threat",
+      "drone",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "United States"
+      ],
+      "location": "Israel",
+      "brief": "Iran's retaliatory missile strikes on Israel following a joint U.S.-Israeli attack signal a significant escalation in regional hostilities and direct engagement between Iran and Israel."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "57d8639051cc0794",
     "title_original": "מתקפת המנע של ארה\"ב וישראל באיראן: \"אלפי הרוגים במשמרות המהפכה\"",
     "content_original": "ישראל וארה\"ב פתחו במתקפת מנע נגד איראן - הוכרז מצב חירום מיוחד ומיידי בכל שטחי המדינה. הותקפו מוקדים משמעותיים בטהרן, כולל מוקדי שלטון. טראמפ: \"יצאנו למלחמה. לא יהיה נשק גרעיני\"",
@@ -6158,5 +6533,41 @@
     },
     "lat": 32.6475314,
     "lng": 54.5643516
+  },
+  {
+    "id": "60a39b4823d7b9e8",
+    "title_original": "Syrian teen killed in Israeli airstrike in eastern Lebanon",
+    "content_original": "A Syrian teen was killed and 29 others injured Thursday in Israeli airstrikes in eastern Lebanon despite a ceasefire deal that has been in place since November 2024, Lebanese state media reported, Anadolu reports. The National News Agency (NNA) said a 17-year-old boy was killed in the strike that targeted the Beit Mshik farms area near Kfar Dan in western Baalbek. The fatality came as Israeli warplanes launched a series of airstrikes targeting the western Baalbek area, with fighter jets flying at low altitude above the region. The Israeli army said the strikes targeted infrastructure belonging to the Lebanese group Hezbollah’s “Radwan Force” in the Baalbek area. In southern Lebanon, an Israeli drone carried out a strike with a guided [&#8230;]",
+    "url": "https://www.middleeastmonitor.com/20260226-syrian-teen-killed-in-israeli-airstrike-in-eastern-lebanon/",
+    "published": "2026-02-26T21:20:29+00:00",
+    "source_name": "Middle East Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Syrian teen killed in Israeli airstrike in eastern Lebanon",
+    "relevant": true,
+    "translated": true,
+    "summary_en": "An Israeli airstrike in eastern Lebanon killed a Syrian teenager and injured 29 others near Kfar Dan in Baalbek. The strikes targeted Hezbollah's 'Radwan Force' infrastructure in the area, violating the existing ceasefire deal since November 2024. This incident highlights ongoing tensions and potential escalation between Israel and Hezbollah despite the ceasefire.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "ceasefire",
+      "airstrike",
+      "killed",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "eastern Lebanon, Kfar Dan, Baalbek",
+      "brief": "The Israeli airstrike targeting Hezbollah's 'Radwan Force' infrastructure in Lebanon, despite the ceasefire, signifies ongoing tensions and potential escalation in the region, indirectly impacting the Iran–US conflict through Hezbollah's role as an Iranian proxy."
+    },
+    "lat": 33.85,
+    "lng": 35.86
   }
 ]
