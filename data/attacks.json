@@ -574,6 +574,73 @@
     "lng": 54.56
   },
   {
+    "id": "7cb73f1281010b0e",
+    "title_original": "Trump's Iran strike tests MAGA unity ahead of midterms",
+    "content_original": "Some of the most prominent voices within Donald Trump 's MAGA movement spoke out on Saturday against his attack on Iran , warning it could hurt Republicans in November's midterm elections, but there was no immediate sign of outright rebellion among his supporters. The conservative critics pointed to potential risks for Republicans after the president campaigned in 2024 on a promise to focus on the economy and not start wars. Public opinion polls show voters are increasingly disillusioned with Trump's handling of the economy. Jack Posobiec, a right-wing commentator and influencer, pointed to a warning last year from the late conservative activist Charlie Kirk before he was assassinated in September. \"Charlie Kirk told us all that the younger generation of Americans are far more interested in domestic policy than pursuing international conflicts and we can’t forget that in a midterm year,\" Posobiec posted on X. Trump received increased support from young men in 2024, but recent opinion p...",
+    "url": "https://www.newarab.com/news/trumps-iran-strike-tests-maga-unity-ahead-midterms",
+    "published": "2026-02-28T22:38:06+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Trump's Iran strike tests MAGA unity ahead of midterms",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses criticism from prominent voices within the MAGA movement against Trump's attack on Iran, warning it could harm Republican prospects in the upcoming midterm elections. This highlights potential political risks for Trump, who campaigned on focusing on the economy rather than starting wars, amid declining public support for his economic policies.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The article references a US strike on Iran, which could escalate tensions and impact regional stability, despite domestic political risks for the US."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "ef9f02e9e6864355",
+    "title_original": "🚨 انفجار‌های شدید و مداوم در تهران  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  ...",
+    "content_original": "🚨 انفجار‌های شدید و مداوم در تهران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44899",
+    "published": "2026-02-28T22:36:01+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosions in Tehran",
+    "relevant": true,
+    "summary_en": "Explosions have been reported in Tehran, potentially indicating a significant event within the capital city of Iran. This could be related to ongoing US strikes or internal sabotage, given the context of the ongoing conflict. The strategic significance depends on the target and cause of the explosions, which could impact Iranian command and control or morale.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "potential US involvement (unconfirmed)"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Explosions in Tehran could indicate a significant escalation in internal sabotage or US operations targeting Iranian infrastructure, impacting command and control or morale."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "670b71dcd2704cd1",
     "title_original": "🚨  اسرائیل: موج حملات جدید رو شروع میکنیم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و ...",
     "content_original": "🚨 اسرائیل: موج حملات جدید رو شروع میکنیم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
