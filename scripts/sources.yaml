@@ -1,5 +1,5 @@
 # Sources Configuration
-# type: rss | scrape
+# type: rss | scrape | telegram
 # engine (for scrape): beautifulsoup | playwright
 # language: ISO 639-1 code
 
@@ -52,6 +52,22 @@ regions:
         url: "https://www.alalam.ir/rss"
         category: state
 
+      # ── Telegram channels ──
+
+      - name: "Press TV (TG)"
+        type: telegram
+        channel: "PressTV"
+        language: en
+        category: state
+        skip_translation: true
+
+      - name: "Iran International English (TG)"
+        type: telegram
+        channel: "iranintl_en"
+        language: en
+        category: independent
+        skip_translation: true
+
   russia:
     label: "Russia"
     sources:
@@ -67,6 +83,82 @@ regions:
         url: "https://ria.ru/export/rss2/archive/index.xml"
         category: state
 
+      - name: "RT"
+        type: rss
+        language: en
+        url: "https://www.rt.com/rss/news/"
+        category: state
+        skip_translation: true
+
+      - name: "Sputnik"
+        type: rss
+        language: en
+        url: "https://sputnikglobe.com/export/rss2/archive/index.xml"
+        category: state
+        skip_translation: true
+
+      - name: "Kommersant"
+        type: rss
+        language: ru
+        url: "https://www.kommersant.ru/RSS/news.xml"
+        category: independent
+
+      - name: "RBC"
+        type: rss
+        language: ru
+        url: "https://rssexport.rbc.ru/rbcnews/news/30/full.rss"
+        category: independent
+
+      # ── Telegram channels ──
+
+      - name: "RT Official (TG)"
+        type: telegram
+        channel: "rt_com"
+        language: en
+        category: state
+        skip_translation: true
+
+      - name: "Sputnik International (TG)"
+        type: telegram
+        channel: "SputnikInt"
+        language: en
+        category: state
+        skip_translation: true
+
+      - name: "Russian MoD English (TG)"
+        type: telegram
+        channel: "mod_russia_en"
+        language: en
+        category: state
+        skip_translation: true
+
+      - name: "Rybar (TG)"
+        type: telegram
+        channel: "rybar"
+        language: ru
+        category: state-aligned
+
+      - name: "Rybar English (TG)"
+        type: telegram
+        channel: "ryaborenglish"
+        language: en
+        category: state-aligned
+        skip_translation: true
+
+      - name: "SouthFront English (TG)"
+        type: telegram
+        channel: "SouthFrontEnglish"
+        language: en
+        category: state-aligned
+        skip_translation: true
+
+      - name: "Conflict Intelligence Team (TG)"
+        type: telegram
+        channel: "CIG_telegram"
+        language: en
+        category: independent
+        skip_translation: true
+
   israel:
     label: "Israel"
     sources:
@@ -81,6 +173,13 @@ regions:
         language: he
         url: "https://www.maariv.co.il/Rss/RssChad498"
         category: state-aligned
+
+      - name: "Jerusalem Post"
+        type: rss
+        language: en
+        url: "https://www.jpost.com/rss/rssfeedsfrontpage.aspx"
+        category: independent
+        skip_translation: true
 
   gulf:
     label: "Gulf States"
@@ -170,6 +269,114 @@ regions:
         category: state
         skip_translation: true
 
+      - name: "Al Jazeera English"
+        type: rss
+        language: en
+        url: "https://www.aljazeera.com/xml/rss/all.xml"
+        category: state
+        skip_translation: true
+
+      - name: "Al Jazeera Arabic"
+        type: rss
+        language: ar
+        url: "https://www.aljazeera.net/feed"
+        category: state
+
+      - name: "Asharq Al-Awsat"
+        type: rss
+        language: en
+        url: "https://english.aawsat.com/feed"
+        category: state-aligned
+        skip_translation: true
+
+  middle_east:
+    label: "Middle East (Independent)"
+    sources:
+      - name: "Middle East Monitor"
+        type: rss
+        language: en
+        url: "https://www.middleeastmonitor.com/feed/"
+        category: independent
+        skip_translation: true
+
+      - name: "Middle East Eye"
+        type: rss
+        language: en
+        url: "https://www.middleeasteye.net/rss"
+        category: independent
+        skip_translation: true
+
+      - name: "Al-Monitor"
+        type: rss
+        language: en
+        url: "https://www.al-monitor.com/rss"
+        category: independent
+        skip_translation: true
+
+      - name: "The New Arab"
+        type: rss
+        language: en
+        url: "https://www.newarab.com/rss"
+        category: independent
+        skip_translation: true
+
+      - name: "SANA Syria"
+        type: rss
+        language: en
+        url: "https://sana.sy/en/?feed=rss2"
+        category: state
+        skip_translation: true
+
+      - name: "Jordan Times"
+        type: rss
+        language: en
+        url: "https://www.jordantimes.com/feed"
+        category: state-aligned
+        skip_translation: true
+
+      - name: "Daily News Egypt"
+        type: rss
+        language: en
+        url: "https://www.dailynewsegypt.com/feed/"
+        category: independent
+        skip_translation: true
+
+      - name: "Iraq Business News"
+        type: rss
+        language: en
+        url: "https://www.iraq-businessnews.com/feed/"
+        category: independent
+        skip_translation: true
+
+      # ── Telegram channels ──
+
+      - name: "Abu Ali Express (TG)"
+        type: telegram
+        channel: "AbuAliEnglish"
+        language: en
+        category: independent
+        skip_translation: true
+
+      - name: "War Monitors (TG)"
+        type: telegram
+        channel: "warmonitors"
+        language: en
+        category: independent
+        skip_translation: true
+
+      - name: "Military OSINT (TG)"
+        type: telegram
+        channel: "military_osint"
+        language: en
+        category: independent
+        skip_translation: true
+
+      - name: "Al Mayadeen News (TG)"
+        type: telegram
+        channel: "AlMayadeenNews"
+        language: ar
+        category: state-aligned
+
   proxies:
     label: "Proxy Actors"
     sources:
@@ -247,11 +454,17 @@ regions:
       # ── Telegram channels ──
       # Only channels with public web preview (t.me/s/) work without a Bot API token.
       # @C_Media_h, @M_Media_Y, @Qassam_English have preview disabled —
-      # to enable them, set up a Telegram Bot (see README) and uncomment below.
+      # to enable them, upgrade to Telethon (see README) and uncomment below.
 
       - name: "Islamic Resistance Iraq (TG)"
         type: telegram
         channel: "Saberin_News"
+        language: ar
+        category: proxy
+
+      - name: "Resistance News (TG)"
+        type: telegram
+        channel: "resistance_12"
         language: ar
         category: proxy
 
@@ -273,3 +486,117 @@ regions:
       #   language: en
       #   category: proxy
       #   skip_translation: true
+
+  china:
+    label: "China"
+    sources:
+      - name: "Xinhua English"
+        type: rss
+        language: en
+        url: "http://www.xinhuanet.com/english/rss/worldrss.xml"
+        category: state
+        skip_translation: true
+
+      - name: "Global Times"
+        type: rss
+        language: en
+        url: "https://www.globaltimes.cn/rss/outbrain.xml"
+        category: state-aligned
+        skip_translation: true
+
+      - name: "CGTN World"
+        type: rss
+        language: en
+        url: "https://www.cgtn.com/subscribe/rss/section/world.xml"
+        category: state
+        skip_translation: true
+
+      - name: "China Daily World"
+        type: rss
+        language: en
+        url: "https://www.chinadaily.com.cn/rss/world_rss.xml"
+        category: state
+        skip_translation: true
+
+      - name: "South China Morning Post"
+        type: rss
+        language: en
+        url: "https://www.scmp.com/rss/91/feed"
+        category: independent
+        skip_translation: true
+
+  turkey:
+    label: "Turkey"
+    sources:
+      - name: "Anadolu Agency"
+        type: rss
+        language: en
+        url: "https://www.aa.com.tr/en/rss/default?cat=world"
+        category: state
+        skip_translation: true
+
+      - name: "Daily Sabah World"
+        type: rss
+        language: en
+        url: "https://www.dailysabah.com/rssFeed/world"
+        category: state-aligned
+        skip_translation: true
+
+  south_asia:
+    label: "South Asia"
+    sources:
+      - name: "Dawn (Pakistan)"
+        type: rss
+        language: en
+        url: "https://www.dawn.com/feeds/home"
+        category: independent
+        skip_translation: true
+
+      - name: "Geo TV (Pakistan)"
+        type: rss
+        language: en
+        url: "https://www.geo.tv/rss/1/1"
+        category: independent
+        skip_translation: true
+
+      - name: "The News International (Pakistan)"
+        type: rss
+        language: en
+        url: "https://www.thenews.com.pk/rss/1/1"
+        category: independent
+        skip_translation: true
+
+      - name: "Express Tribune (Pakistan)"
+        type: rss
+        language: en
+        url: "https://tribune.com.pk/feed/home"
+        category: independent
+        skip_translation: true
+
+      - name: "The Hindu International"
+        type: rss
+        language: en
+        url: "https://www.thehindu.com/news/international/feeder/default.rss"
+        category: independent
+        skip_translation: true
+
+      - name: "Times of India World"
+        type: rss
+        language: en
+        url: "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
+        category: independent
+        skip_translation: true
+
+      - name: "ThePrint (India)"
+        type: rss
+        language: en
+        url: "https://theprint.in/feed/"
+        category: independent
+        skip_translation: true
+
+      - name: "Hindustan Times World"
+        type: rss
+        language: en
+        url: "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml"
+        category: independent
+        skip_translation: true
