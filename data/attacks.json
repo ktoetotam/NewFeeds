@@ -1,5 +1,102 @@
 [
   {
+    "id": "8fec10127e840e44",
+    "title_original": "В иранском порту Чабахар прогремели взрывы",
+    "content_original": "В иранском порту Чабахар прогремели взрывы",
+    "url": "https://ria.ru/20260228/iran-2077455093.html",
+    "published": "2026-02-28T16:31:55+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions Reported in Iranian Port of Chabahar",
+    "relevant": true,
+    "summary_en": "Explosions occurred in the Iranian port of Chabahar. The incident's cause and impact are currently unclear but could affect regional maritime operations and Iran's strategic infrastructure. This development is significant given Chabahar's importance as a key port for Iran, especially amid ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Chabahar, Iran",
+      "brief": "Explosions at the strategic Iranian port of Chabahar could impact regional maritime operations and Iran's infrastructure, signaling potential escalation amid ongoing conflict."
+    }
+  },
+  {
+    "id": "c5d0adb51ac71edb",
+    "title_original": "На юге Ирана не менее 60 детей погибли при ударе по школе",
+    "content_original": "На юге Ирана не менее 60 детей погибли при ударе по школе",
+    "url": "https://ria.ru/20260228/iran-2077454540.html",
+    "published": "2026-02-28T16:27:57+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "At least 60 children killed in school strike in southern Iran",
+    "relevant": true,
+    "summary_en": "An airstrike resulted in the deaths of at least 60 children at a school in southern Iran. The strike's origin and responsible party are not specified, but it signifies a significant escalation in civilian casualties and potential war crimes concerns. This incident could provoke international condemnation and further complicate the conflict dynamics.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "strike",
+      "airstrike",
+      "deaths",
+      "killed",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "unknown"
+      ],
+      "location": "southern Iran",
+      "brief": "The airstrike resulting in the deaths of at least 60 children in southern Iran represents a significant escalation with potential international repercussions, posing a critical risk of further complicating the conflict dynamics and provoking broader regional instability."
+    }
+  },
+  {
+    "id": "a1baa85c5207de4a",
+    "title_original": "Аналитик рассказал, чего лишится рынок нефти из-за ударов по Ирану",
+    "content_original": "Аналитик рассказал, чего лишится рынок нефти из-за ударов по Ирану",
+    "url": "https://ria.ru/20260228/iran-2077450585.html",
+    "published": "2026-02-28T16:12:31+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Analyst explains oil market losses due to strikes on Iran",
+    "relevant": true,
+    "summary_en": "The article discusses the potential impact of ongoing strikes on Iran by the US and its allies on the global oil market. It likely covers how disruptions in Iran's oil production and exports could affect supply, prices, and market stability. This is relevant due to the direct link between the conflict and potential oil supply disruptions.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Allied forces"
+      ],
+      "location": "Iran",
+      "brief": "The strikes on Iran by the US and its allies have the potential to significantly disrupt global oil markets, indicating a high level of escalation in the conflict."
+    }
+  },
+  {
     "id": "997ced139c5bc1b1",
     "title_original": "КСИР: 200 военных США стали жертвами ударов Ирана по американским базам",
     "content_original": "КСИР: 200 военных США стали жертвами ударов Ирана по американским базам",
@@ -31,6 +128,36 @@
       ],
       "location": "American bases in the region",
       "brief": "The IRGC claims to have inflicted mass casualties on US forces, indicating a significant escalation in direct hostilities between Iran and the United States."
+    }
+  },
+  {
+    "id": "913d2f47c61de258",
+    "title_original": "Death Toll from Israeli Aggression on Gaza Rises to 72,095",
+    "content_original": "Gaza, February 28 (QNA) - The death toll from the Israeli aggression on the Gaza Strip, since October 7, 2023, has risen to 72,095 martyrs, in addition to 171,784 wounded.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/death-toll-from-israeli-aggression-on-gaza-rises-to-72095",
+    "published": "2026-02-28T16:03:44+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Death Toll from Israeli Aggression on Gaza Rises to 72,095",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hamas"
+      ],
+      "location": "Gaza",
+      "brief": "The article describes an ongoing conflict between Israel and Hamas in Gaza, which could indirectly affect the Iran–US conflict if Iran decides to escalate tensions in support of Hamas."
     }
   },
   {
@@ -130,6 +257,37 @@
       ],
       "location": "Iran (over 20 provinces)",
       "brief": "The coordinated US and Israeli airstrikes on over 20 Iranian provinces mark a critical escalation, indicating direct targeting of IRGC infrastructure and a significant expansion of the conflict's geographic scope."
+    }
+  },
+  {
+    "id": "f44625121eb8835d",
+    "title_original": "Bahrain Defense Forces Announce Interception of Iranian Missile Attack",
+    "content_original": "Manama, February 28 (QNA) - The General Command of the Bahrain Defense Forces announced Saturday that air defense systems successfully intercepted a new missile attack launched by Iran.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/bahrain-defense-forces-announce-interception-of-iranian-missile-attack",
+    "published": "2026-02-28T15:10:20+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Bahrain Defense Forces Announce Interception of Iranian Missile Attack",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain Defense Forces"
+      ],
+      "location": "Bahrain",
+      "brief": "The interception of an Iranian missile by Bahrain Defense Forces highlights Iran's willingness to target US allies in the Gulf, escalating regional tensions."
     }
   },
   {
