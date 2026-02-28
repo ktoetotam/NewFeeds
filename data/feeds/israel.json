@@ -1,5 +1,21 @@
 [
   {
+    "id": "af71ac79a083d38a",
+    "title_original": "פצועים בדובאי, מלון נפגע מכטב\"ם איראני | תיעוד",
+    "content_original": "איראן שיגרה טילים וכטב\"מים למדינות המפרץ, ופגעה במלון בדובאי. התקשורת האמירתית דיווחה על ארבעה פצועים. מוקדם יותר דווח על הרוג באבו דאבי",
+    "url": "https://www.ynet.co.il/news/article/bytom5lk11x",
+    "published": "2026-02-28T18:22:34+02:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian missile and drone strike hits hotel in Dubai, causing casualties",
+    "relevant": true,
+    "summary_en": "Iran launched missiles and drones targeting Gulf states, hitting a hotel in Dubai and causing four injuries. Earlier reports indicated one fatality in Abu Dhabi. This escalation demonstrates Iran's continued targeting of civilian infrastructure in the region, posing a threat to regional stability and civilian safety.",
+    "translated": true
+  },
+  {
     "id": "ec0c5b3835099d0c",
     "title_original": "איראן טוענת: \"70 נהרגו בתקיפת בית ספר\" | דיווחים על כאוס בטהרן ומחסור במזון",
     "content_original": "הרשויות הודיעו כי בית ספר לבנות בדרום איראן נפגע בתקיפות וטענו כי עשרות נהרגו - בישראל בודקים את הדיווחים. במערב דווח על כאוס בטהרן ועל תורי ענק בתחנות הדלק, בשל רצון של תושבים לעזוב. במקביל: הפגנות תמיכה במשטר",
@@ -93,6 +109,38 @@
     "title_en": "Iranian Foreign Minister Dismisses Claims of Leadership Assassinations, Calls Regime Change 'Impossible'",
     "relevant": true,
     "summary_en": "Iranian Foreign Minister Abbas Araghchi refuted Israeli optimism about the assassination of Iranian leaders, stating that Supreme Leader Ali Khamenei and most officials are safe. He emphasized that regime change in Iran is impossible and expressed willingness to return to negotiations if attacks cease, signaling Iran's stance on the ongoing conflict and potential diplomatic solutions.",
+    "translated": true
+  },
+  {
+    "id": "9d3ae5be559c7126",
+    "title_original": "חיסולי בכירים ומטרות אסטרטגיות: כל מה שפאשר לספר על הכאוס באיראן",
+    "content_original": "סמוך לשעה 8 בבוקר ישראל וארצות הברית יצאו למבצע משותף באיראן ותקפו מספר רב של מטרות ברחבי המדינה. דיווחים רבים על חיסול בכירים ופגיעה במטרות משמעותיות",
+    "url": "https://www.maariv.co.il/news/military/Blog-1290247",
+    "published": "2026-02-28T16:32:03+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "US-Israel Joint Operation Targets Senior Officials and Strategic Sites in Iran",
+    "relevant": true,
+    "summary_en": "The US and Israel launched a joint operation in Iran, striking multiple targets across the country. Reports indicate the operation resulted in the elimination of senior officials and significant damage to strategic sites. This represents a major escalation in the conflict, showcasing direct military cooperation between the US and Israel against Iran.",
+    "translated": true
+  },
+  {
+    "id": "3f9765fde727d898",
+    "title_original": "סובב אותם על האצבע: תרגיל ההונאה של טראמפ בשיחות המשא ומתן | אילנה שושן",
+    "content_original": "בנאום דרמטי מסגר דונלד טראמפ את המערכה נגד איראן לא כמתקפה, אלא כמעשה הגנה הכרחי למען הבוחר בטקסס ובאוהיו. טראמפ מנסה שוב להוכיח ש\"אמריקה פירסט\" היא לא רק סיסמה, אלא דוקטרינה צבאית",
+    "url": "https://www.maariv.co.il/news/opinions/article-1290242",
+    "published": "2026-02-28T16:25:00+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Trump's Deception Tactics in Iran Negotiation Talks",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
