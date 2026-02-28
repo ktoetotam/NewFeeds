@@ -87,7 +87,8 @@ def save_articles(region: str, articles: list[dict]):
 
 
 def save_attacks(articles: list[dict]):
-    """Save classified attack articles."""
+    """Save classified attack articles, sorted most-recent first."""
+    articles.sort(key=lambda a: a.get("published", ""), reverse=True)
     filepath = DATA_DIR / "attacks.json"
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(articles, f, ensure_ascii=False, indent=2)

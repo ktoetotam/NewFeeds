@@ -40,7 +40,14 @@ export function getAllArticles(): Article[] {
 }
 
 export function getAttackArticles(): Article[] {
-  return readJSON<Article[]>(path.join(DATA_DIR, "attacks.json"), []);
+  const attacks = readJSON<Article[]>(path.join(DATA_DIR, "attacks.json"), []);
+  // Always sort most-recent first so #1 is the newest attack
+  attacks.sort((a, b) => {
+    const da = new Date(a.published).getTime() || 0;
+    const db = new Date(b.published).getTime() || 0;
+    return db - da;
+  });
+  return attacks;
 }
 
 export function getThreatLevel(): ThreatLevel {
