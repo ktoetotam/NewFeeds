@@ -68,6 +68,7 @@ jobs:
           git push origin "$BRANCH"
           # Merge the branch back into main and push
           git checkout main
+          git pull --rebase origin main
           git merge "$BRANCH" --no-ff -m "Merge $BRANCH into main"
           git push origin main
           # Clean up the remote branch
