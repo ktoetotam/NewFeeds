@@ -11,6 +11,7 @@ concurrency:
 
 permissions:
   contents: write
+  pull-requests: write
   pages: write
   id-token: write
 
@@ -51,8 +52,10 @@ jobs:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: python run_pipeline.py
 
-      - name: Commit & push data changes
+      - name: Commit & push data changes via PR
         if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -61,23 +64,23 @@ jobs:
             echo "No data changes to commit"
             exit 0
           fi
+          BRANCH="auto/update-feeds-$(date -u +%Y%m%d-%H%M%S)"
+          git checkout -b "$BRANCH"
           git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          # Retry loop: try rebase first, fall back to merge on conflict
-          for attempt in 1 2 3 4 5; do
-            if git pull --rebase origin main; then
-              git push && exit 0
-            else
-              echo "Rebase conflict on attempt $attempt, falling back to merge..."
-              git rebase --abort 2>/dev/null || true
-              # Merge preferring our (pipeline) version on conflict
-              git pull --no-rebase -X ours origin main
-              git push && exit 0
-            fi
-            echo "Push failed (attempt $attempt), retrying in 5s..."
-            sleep 5
-          done
-          echo "Failed to push after 5 attempts"
-          exit 1
+          git push origin "$BRANCH"
+          PR_URL=$(gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            --body "Automated feed data update from pipeline run.")
+          echo "Created PR: $PR_URL"
+          # Try auto-merge first (requires repo setting enabled), fall back to direct merge
+          if gh pr merge "$PR_URL" --squash --auto --delete-branch 2>/dev/null; then
+            echo "Auto-merge enabled on PR"
+          else
+            echo "Auto-merge not available, merging directly..."
+            gh pr merge "$PR_URL" --squash --delete-branch
+          fi
 
       # ── Next.js Build & Deploy ──
       - name: Setup Node.js
