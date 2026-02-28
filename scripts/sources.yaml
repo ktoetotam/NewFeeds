@@ -80,6 +80,12 @@ regions:
         category: state-aligned
         skip_translation: true
 
+      - name: "Shafaqna Persian"
+        type: rss
+        language: fa
+        url: "https://fa.shafaqna.com/feed/"
+        category: state-aligned
+
       # ── Telegram channels ──
 
       - name: "Press TV (TG)"
