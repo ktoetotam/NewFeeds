@@ -262,6 +262,17 @@ def run():
         existing_untranslated = [a for a in existing if a.get("translated") is None]
         existing_done = [a for a in existing if a.get("translated") is not None]
         to_translate = existing_untranslated + new_articles
+
+        # Pre-process skip_translation articles (already English, just need relevance/summary via LLM
+        # but skip_translation flag means we mark them without calling the API for translation)
+        skip_articles = [a for a in to_translate if a.get("skip_translation")]
+        to_translate = [a for a in to_translate if not a.get("skip_translation")]
+        for a in skip_articles:
+            if a.get("translated") is None:
+                a["title_en"] = a.get("title_original", "")
+                a["relevant"] = True  # treat English-language sources as relevant by default
+                a["translated"] = True
+
         if to_translate:
             def make_checkpoint(reg, done):
                 def checkpoint(current_batch):
@@ -276,11 +287,11 @@ def run():
                 to_translate,
                 api_key,
                 max_articles=max_per_region,
-                checkpoint_fn=make_checkpoint(region, existing_done),
+                checkpoint_fn=make_checkpoint(region, existing_done + skip_articles),
             )
-            all_translated[region] = (existing_done, translated)
+            all_translated[region] = (existing_done, skip_articles + translated)
         else:
-            all_translated[region] = (existing_done, [])
+            all_translated[region] = (existing_done, skip_articles)
 
     # ── Step 4: Merge and save ──
     logger.info("── Step 4: Merging and saving ──")

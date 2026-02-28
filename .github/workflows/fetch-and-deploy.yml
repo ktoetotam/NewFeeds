@@ -61,9 +61,8 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes to commit"
           else
-            git stash
-            git pull --rebase origin main
-            git stash pop
+            git fetch origin main
+            git rebase origin/main
             git add data/
             git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
