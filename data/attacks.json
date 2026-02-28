@@ -1,37 +1,5 @@
 [
   {
-    "id": "0c4ba8dd9e032963",
-    "title_original": "'Side pe ho jao, bhaago': Man screams as missile falls in Qatar amid US-Iran conflict",
-    "content_original": "Residents of Barwa City in Doha witnessed a missile strike and loud explosion after Iran launched attacks.&nbsp;",
-    "url": "https://www.hindustantimes.com/world-news/side-pe-ho-jao-bhaago-man-screams-as-missile-falls-in-qatar-amid-us-iran-conflict-101772291924248.html",
-    "published": "2026-02-28T22:12:40+05:30",
-    "source_name": "Hindustan Times World",
-    "source_category": "independent",
-    "language": "en",
-    "region": "south_asia",
-    "skip_translation": true,
-    "title_en": "Missile falls in Qatar amid US-Iran conflict",
-    "translated": true,
-    "relevant": true,
-    "summary_en": "A missile struck Doha's Barwa City in Qatar following Iranian attacks, causing a loud explosion. This incident highlights the regional escalation and potential threat to Gulf states amid the US-Iran conflict. The strike underscores the risk of collateral damage and regional instability as hostilities continue.",
-    "keyword_matches": 7,
-    "matched_keywords": [
-      "missile",
-      "explosion",
-      "strike",
-      "conflict",
-      "threat"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "other",
-      "severity": "high",
-      "parties_involved": [],
-      "location": "Unknown",
-      "brief": "Classified by keyword matching (LLM unavailable)"
-    }
-  },
-  {
     "id": "c525bbc307362e59",
     "title_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
     "content_original": "Число пострадавших от БПЛА в белгородском поселке выросло до двух",
@@ -338,36 +306,6 @@
     "lng": 54.56
   },
   {
-    "id": "3b45989e68e29eef",
-    "title_original": "ОАЭ успешно отразили третью за день волну иранских ракет",
-    "content_original": "ОАЭ успешно отразили третью за день волну иранских ракет",
-    "url": "https://ria.ru/20260228/oae-2077493868.html",
-    "published": "2026-02-28T19:07:00+03:00",
-    "source_name": "RIA Novosti",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "UAE Successfully Thwarts Third Wave of Iranian Missiles in a Day",
-    "relevant": true,
-    "summary_en": "The UAE intercepted a third wave of Iranian missiles targeting its territory, marking a significant escalation in hostilities. This incident highlights the ongoing threat under which Gulf states operate amidst the US-Iran conflict. The successful interception underscores the UAE's defensive capabilities but also the persistent risk of missile attacks in the region.",
-    "translated": true,
-    "keyword_matches": 3,
-    "matched_keywords": [
-      "threat",
-      "conflict",
-      "missile"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "other",
-      "severity": "high",
-      "parties_involved": [],
-      "location": "Unknown",
-      "brief": "Classified by keyword matching (LLM unavailable)"
-    }
-  },
-  {
     "id": "ccff552bf282dd72",
     "title_original": "Четыре человека пострадали при падении иранской ракеты в Дубае",
     "content_original": "Власти Дубая подтвердили информацию о пожаре в курортном районе Палм-Джумейра. По предварительным данным, там упала иранская ракета или БПЛА.",
@@ -403,41 +341,6 @@
     "lng": 55.27
   },
   {
-    "id": "3137f5c312ddfa94",
-    "title_original": "В Николаеве произошел взрыв",
-    "content_original": "В Николаевской области действует воздушная тревога",
-    "url": "https://tass.ru/proisshestviya/26591689",
-    "published": "2026-02-28T19:01:56+03:00",
-    "source_name": "TASS",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Explosion in Mykolaiv region, air raid alert active",
-    "relevant": true,
-    "summary_en": "An explosion occurred in the Mykolaiv region of Ukraine, with an active air raid alert in place. This is significant as the region has been a hotspot in the ongoing conflict between Ukraine and Russian-backed forces, indicating potential escalation or continued hostilities in the area.",
-    "translated": true,
-    "keyword_matches": 5,
-    "matched_keywords": [
-      "explosion",
-      "raid",
-      "conflict"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "other",
-      "severity": "low",
-      "parties_involved": [
-        "Ukraine",
-        "Russia"
-      ],
-      "location": "Mykolaiv region, Ukraine",
-      "brief": "The incident in Ukraine is unrelated to the Iran–US conflict and does not directly impact the strategic situation between the two countries."
-    },
-    "lat": 46.9405215,
-    "lng": 32.0635358
-  },
-  {
     "id": "e3e573cd0e62c07a",
     "title_original": "Удары США, Израиля и Ирана. Спецэфир телеканала РБК",
     "content_original": "28 февраля США и Израиль объявили о военной операции против Ирана, по стране было нанесено множество ударов.",
@@ -470,145 +373,6 @@
     },
     "lat": 24.0,
     "lng": 54.0
-  },
-  {
-    "id": "ccff552bf282dd72",
-    "title_original": "Четыре человека пострадали при падении иранской ракеты в Дубае",
-    "content_original": "Власти Дубая подтвердили информацию о пожаре в курортном районе Палм-Джумейра. По предварительным данным, там упала иранская ракета или БПЛА.",
-    "url": "https://www.kommersant.ru/doc/8477214",
-    "published": "2026-02-28T19:05:32+03:00",
-    "source_name": "Kommersant",
-    "source_category": "independent",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Four injured as Iranian missile or drone crashes in Dubai",
-    "relevant": true,
-    "summary_en": "An Iranian missile or drone struck the Palm Jumeirah resort area in Dubai, causing a fire and injuring four people. This incident highlights the risk to civilian infrastructure as the conflict escalates, with potential implications for regional stability and international response.",
-    "translated": true,
-    "keyword_matches": 5,
-    "matched_keywords": [
-      "conflict",
-      "missile",
-      "drone"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "drone_strike",
-      "severity": "medium",
-      "parties_involved": [
-        "Iran",
-        "United Arab Emirates"
-      ],
-      "location": "Dubai, United Arab Emirates",
-      "brief": "The incident demonstrates Iran's willingness to target civilian infrastructure in the region, escalating tensions and posing a risk to regional stability."
-    },
-    "lat": 25.2,
-    "lng": 55.27
-  },
-  {
-    "id": "1130c66318baedfc",
-    "title_original": "При ударе по школе на юге Ирана могли погибнуть до 160 человек",
-    "content_original": "При ударе по школе на юге Ирана могли погибнуть до 160 человек",
-    "url": "https://ria.ru/20260228/shkola-2077492550.html",
-    "published": "2026-02-28T19:02:44+03:00",
-    "source_name": "RIA Novosti",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Up to 160 killed in strike on school in southern Iran",
-    "relevant": true,
-    "summary_en": "An attack on a school in southern Iran resulted in up to 160 casualties. The incident's details, including the perpetrator and the nature of the strike, are not specified but are likely linked to ongoing hostilities. This event could escalate tensions and provoke a response from Iran, impacting the conflict's trajectory.",
-    "translated": true,
-    "keyword_matches": 5,
-    "matched_keywords": [
-      "killed",
-      "conflict",
-      "attack",
-      "strike"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "other",
-      "severity": "high",
-      "parties_involved": [
-        "Iran"
-      ],
-      "location": "southern Iran",
-      "brief": "The attack on a school in southern Iran, resulting in up to 160 casualties, is likely to escalate regional tensions and provoke a response from Iran, impacting the conflict's trajectory."
-    },
-    "lat": 29.0,
-    "lng": 54.0
-  },
-  {
-    "id": "a3f372db4ae5656c",
-    "title_original": "МИД Ирана: после удара по школе на юге страны могли погибнуть до 160 человек",
-    "content_original": "МИД Ирана: после удара по школе на юге страны могли погибнуть до 160 человек",
-    "url": "https://tass.ru/proisshestviya/26591651",
-    "published": "2026-02-28T18:58:12+03:00",
-    "source_name": "TASS",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Iranian Foreign Ministry reports up to 160 casualties in school strike in southern Iran",
-    "relevant": true,
-    "summary_en": "The Iranian Foreign Ministry stated that a strike on a school in southern Iran resulted in up to 160 casualties. This incident highlights the ongoing conflict's impact on civilian infrastructure and raises concerns about potential escalation. The specific perpetrator of the strike remains unclear, but it adds to the humanitarian consequences of the conflict.",
-    "translated": true,
-    "keyword_matches": 5,
-    "matched_keywords": [
-      "conflict",
-      "strike"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "airstrike",
-      "severity": "critical",
-      "parties_involved": [
-        "Iran",
-        "Unknown (perpetrator)"
-      ],
-      "location": "southern Iran",
-      "brief": "The strike on a school in southern Iran resulting in up to 160 casualties signifies a significant escalation with direct impact on civilian infrastructure, potentially leading to heightened tensions and retaliatory actions in the Iran–US conflict."
-    },
-    "lat": 29.0,
-    "lng": 54.0
-  },
-  {
-    "id": "a2c620a932a01cc2",
-    "title_original": "ТАСС показал видео последствий падения ракеты рядом с отелем в Дубае",
-    "content_original": "На кадрах видно сильное возгорание и столб черного дыма",
-    "url": "https://tass.ru/mezhdunarodnaya-panorama/26591505",
-    "published": "2026-02-28T18:55:55+03:00",
-    "source_name": "TASS",
-    "source_category": "state",
-    "language": "ru",
-    "region": "russia",
-    "skip_translation": false,
-    "title_en": "Missile Strike Causes Fire Near Hotel in Dubai",
-    "relevant": true,
-    "summary_en": "A missile strike resulted in a large fire and a plume of black smoke near a hotel in Dubai. This incident highlights the ongoing regional instability and potential escalation of hostilities affecting civilian infrastructure. The strategic significance lies in the potential impact on international perceptions and the safety of civilians in the UAE amidst the conflict.",
-    "translated": true,
-    "keyword_matches": 5,
-    "matched_keywords": [
-      "conflict",
-      "missile",
-      "strike"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "houthi_attack",
-      "severity": "medium",
-      "parties_involved": [
-        "Houthi/Ansar Allah",
-        "United Arab Emirates"
-      ],
-      "location": "Dubai, UAE",
-      "brief": "The missile strike on Dubai, likely by Houthi forces, demonstrates the regional spillover of the Iran–US conflict and the potential for increased instability in the UAE, a key US ally."
-    },
-    "lat": 25.2,
-    "lng": 55.27
   },
   {
     "id": "be03129ba334a6b1",
@@ -3763,42 +3527,6 @@
     "lng": 47.54
   },
   {
-    "id": "3310a841b02aa594",
-    "title_original": "شهادت بیش از ۱۵ شهروند در حمله رژیم صهیونیستی و آمریکا به لامرد فارس",
-    "content_original": "شهادت بیش از ۱۵ شهروند در حمله رژیم صهیونیستی و آمریکا به لامرد فارس",
-    "url": "https://www.irna.ir/news/86089703/%D8%B4%D9%87%D8%A7%D8%AF%D8%AA-%D8%A8%DB%8C%D8%B4-%D8%A7%D8%B2-%DB%B1%DB%B5-%D8%B4%D9%87%D8%B1%D9%88%D9%86%D8%AF-%D8%AF%D8%B1-%D8%AD%D9%85%D9%84%D9%87-%D8%B1%DA%98%DB%8C%D9%85-%D8%B5%D9%87%DB%8C%D9%88%D9%86%DB%8C%D8%B3%D8%AA%DB%8C-%D9%88-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D9%84%D8%A7%D9%85%D8%B1%D8%AF",
-    "published": "2026-02-28T15:56:50+00:00",
-    "source_name": "IRNA",
-    "source_category": "state",
-    "language": "fa",
-    "region": "iran",
-    "skip_translation": false,
-    "title_en": "Over 15 civilians killed in US and Israeli attack on Lamerd, Fars",
-    "relevant": true,
-    "summary_en": "US and Israeli forces conducted a joint attack on Lamerd in the Fars province of Iran, resulting in the deaths of more than 15 civilians. This incident highlights the escalation of direct military action against Iranian territory and the potential for increased regional tensions.",
-    "translated": true,
-    "keyword_matches": 4,
-    "matched_keywords": [
-      "killed",
-      "deaths",
-      "attack"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "airstrike",
-      "severity": "major",
-      "parties_involved": [
-        "US",
-        "Israel",
-        "Iran"
-      ],
-      "location": "Lamerd, Fars province, Iran",
-      "brief": "The joint US-Israeli airstrike on Iranian territory marks a significant escalation in direct military action against Iran, with potential for heightened regional tensions and further direct confrontations."
-    },
-    "lat": 32.65,
-    "lng": 54.56
-  },
-  {
     "id": "ded8752c4768e5f7",
     "title_original": "Tasnim: Иран нанес новую серию ракетных ударов по Израилю",
     "content_original": "По данным агентства, иранская армия осуществила \"очередную массированную атаку\" по израильской территории",
@@ -4179,38 +3907,6 @@
     },
     "lat": 25.3336984,
     "lng": 51.2295295
-  },
-  {
-    "id": "b946e2fed44a6710",
-    "title_original": "Death toll from attack on Iranian girls school rises to 85, says judiciary",
-    "content_original": "Death toll from attack on Iranian girls school rises to 85, says judiciary The death toll from an attack on a girls school in&nbsp;Iran's south has risen to 85, the Iranian judiciary said.&nbsp; The attack on Saturday morning hit Shajareh Tayyebeh school in Minab in the southern Hormozgan province. Almost all of those killed were young girls.&nbsp;",
-    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-attack-iranian-girls-school-rises-85-says-judiciary",
-    "published": "2026-02-28T15:36:12+00:00",
-    "source_name": "Middle East Eye",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "Death toll from attack on Iranian girls school rises to 85, says judiciary",
-    "relevant": true,
-    "translated": true,
-    "keyword_matches": 2,
-    "matched_keywords": [
-      "attack",
-      "death"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "other",
-      "severity": "high",
-      "parties_involved": [
-        "Iran"
-      ],
-      "location": "Iran",
-      "brief": "The attack on an Iranian girls school resulting in 85 casualties is a significant incident that could provoke domestic instability and potentially escalate tensions within the region."
-    },
-    "lat": 32.65,
-    "lng": 54.56
   },
   {
     "id": "e1880caac684cd43",
@@ -6462,39 +6158,5 @@
     },
     "lat": 32.6475314,
     "lng": 54.5643516
-  },
-  {
-    "id": "c3266bc753d20477",
-    "title_original": "How a drone strike on a tribal leader may reshape Sudan war",
-    "content_original": "On 22 February, Sudan's influential tribal chief, Musal Hilal, met with friends and relatives to break their Ramadan fast in Misteriha, a village in North Darfur. They didn't expect a drone to strike their gathering after sundown. The attack reportedly killed 28 civilians —men, women and children—and injured one of Hilal's sons, according to the Sudan Doctors Network, a local monitor. Another of his sons was captured after the RSF seized the town the next day. Hilal reportedly escaped from Darfur and reached areas controlled by the regular army, known as the Sudan Armed Forces (SAF). \"Nobody until now knows exactly where he has gone, but it seems the RSF decided to attack his area since it was the last town in Darfur outside of its control,\" said Mohamed el-Fatih Yousef, a journalist from the region and the founder of the local outlet Darfur24. Tribal rivalry Since an all-out civil war erupted between SAF and the RSF in April 2023, Hilal and his tribal loyalists have sided with the for...",
-    "url": "https://www.newarab.com/news/how-drone-strike-tribal-leader-may-reshape-sudan-war",
-    "published": "2026-02-27T10:42:50+00:00",
-    "source_name": "The New Arab",
-    "source_category": "independent",
-    "language": "en",
-    "region": "middle_east",
-    "skip_translation": true,
-    "title_en": "How a drone strike on a tribal leader may reshape Sudan war",
-    "relevant": true,
-    "translated": true,
-    "keyword_matches": 3,
-    "matched_keywords": [
-      "war",
-      "strike",
-      "drone"
-    ],
-    "classification": {
-      "is_attack": true,
-      "category": "drone_strike",
-      "severity": "medium",
-      "parties_involved": [
-        "Sudan",
-        "tribal groups"
-      ],
-      "location": "Sudan",
-      "brief": "The drone strike on a tribal leader in Sudan could impact regional dynamics and potentially influence proxy activities linked to the Iran–US conflict."
-    },
-    "lat": 14.5844444,
-    "lng": 29.4917691
   }
 ]
