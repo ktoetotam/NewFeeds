@@ -1,5 +1,266 @@
 [
   {
+    "id": "0459183ef8304656",
+    "title_original": "Fars сообщило о воздушной атаке на иранский Шираз",
+    "content_original": "Fars сообщило о воздушной атаке на иранский Шираз",
+    "url": "https://ria.ru/20260228/fars-2077478443.html",
+    "published": "2026-02-28T17:42:10+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Air Attack Reported on Iranian City of Shiraz",
+    "relevant": true,
+    "summary_en": "Unspecified forces reportedly conducted an air attack on the Iranian city of Shiraz. This incident signifies a potential escalation in the conflict as it involves direct strikes on Iranian urban centers. The military significance depends on the extent of damage and casualties, which are currently unspecified.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "unspecified forces",
+        "Iran"
+      ],
+      "location": "Shiraz, Iran",
+      "brief": "The airstrike on Shiraz represents a significant escalation as it involves direct attacks on an Iranian urban center, potentially indicating a new phase in the conflict with heightened risks of direct state engagement."
+    }
+  },
+  {
+    "id": "9baff01d20380af9",
+    "title_original": "Reuters: Пентагон уведомил комитеты Палаты представителей и Сената об ударах по Ирану",
+    "content_original": "Reuters: Пентагон уведомил комитеты Палаты представителей и Сената об ударах по Ирану",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590731",
+    "published": "2026-02-28T17:39:34+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Pentagon notified Congress committees about strikes on Iran",
+    "relevant": true,
+    "summary_en": "The Pentagon has informed the House and Senate committees about recent strikes conducted against Iran. This indicates ongoing military operations and direct engagement with Iranian targets. The notification suggests potential escalation and the strategic importance of keeping Congress updated on US actions in the conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The Pentagon's notification to Congress about strikes on Iran signifies direct US military engagement and potential escalation in the conflict."
+    }
+  },
+  {
+    "id": "d47b7798a50e788b",
+    "title_original": "Армия Израиля засекла очередной залп ракет со стороны Ирана",
+    "content_original": "Системы противоракетной обороны работают над перехватом угрозы",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590693",
+    "published": "2026-02-28T17:37:07+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israeli Army Detects Another Missile Salvo from Iran",
+    "relevant": true,
+    "summary_en": "The Israeli military has detected a new missile attack launched by Iran. Israeli missile defense systems are actively working to intercept the incoming threats. This incident highlights the ongoing escalation and direct military engagement between Iran and Israel amid the broader regional conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "intercept",
+      "attack",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran's missile attack on Israel signifies a direct escalation in the regional conflict, posing a significant threat to regional stability and potentially drawing in US forces."
+    }
+  },
+  {
+    "id": "bff6b55f22193810",
+    "title_original": "Tasnim: Иран нанес удары по 14 американским базам",
+    "content_original": "Tasnim: Иран нанес удары по 14 американским базам",
+    "url": "https://ria.ru/20260228/iran-2077477141.html",
+    "published": "2026-02-28T17:36:50+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes 14 US Bases",
+    "relevant": true,
+    "summary_en": "Iran has launched attacks targeting 14 US military bases, likely using ballistic missiles and drones. This represents a significant escalation in the ongoing conflict, demonstrating Iran's capability to strike multiple US assets across the region. The strategic significance includes potential disruption of US operations and increased pressure on US forces in Iraq, Syria, and the Gulf.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "ballistic",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "multiple US military bases in Iraq, Syria, and the Gulf",
+      "brief": "Iran's coordinated ballistic missile and drone strikes on 14 US bases mark a critical escalation, demonstrating significant offensive capability and posing a direct threat to US regional operations."
+    }
+  },
+  {
+    "id": "48e4cefc25711758",
+    "title_original": "В ООН отреагировали на сообщения об ударе по школе в Иране",
+    "content_original": "В ООН отреагировали на сообщения об ударе по школе в Иране",
+    "url": "https://ria.ru/20260228/shkola-2077476596.html",
+    "published": "2026-02-28T17:34:52+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UN Responds to Reports of Strike on School in Iran",
+    "relevant": true,
+    "summary_en": "The UN has issued a statement in response to reports of a strike on a school in Iran. This incident highlights the ongoing conflict and its impact on civilian infrastructure. The strategic significance lies in the potential escalation of international attention and possible calls for de-escalation.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "UN"
+      ],
+      "location": "Iran",
+      "brief": "The strike on a school in Iran raises international attention and potential calls for de-escalation, highlighting the conflict's impact on civilian infrastructure."
+    }
+  },
+  {
+    "id": "cf84e40c6a2f1808",
+    "title_original": "КСИР сообщил об ударе по корабельной цели США",
+    "content_original": "КСИР сообщил об ударе по корабельной цели США",
+    "url": "https://ria.ru/20260228/ssha-2077476427.html",
+    "published": "2026-02-28T17:34:25+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Reports Strike on US Naval Target",
+    "relevant": true,
+    "summary_en": "The IRGC has announced a strike on a US naval target, indicating an escalation in hostilities at sea. This likely refers to an incident in the Gulf or Red Sea, where US Navy assets are deployed. The strike signifies ongoing efforts by Iran to target US forces in the region and could provoke a significant military response.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US Navy"
+      ],
+      "location": "Gulf or Red Sea",
+      "brief": "The IRGC's strike on a US naval target represents a direct escalation in the maritime domain, posing a significant threat to US forces and regional stability."
+    }
+  },
+  {
+    "id": "7a6cce0d83425578",
+    "title_original": "Израиль завершил масштабный удар по стратегическим системам обороны Ирана",
+    "content_original": "Израиль завершил масштабный удар по стратегическим системам обороны Ирана",
+    "url": "https://ria.ru/20260228/iran-2077476257.html",
+    "published": "2026-02-28T17:33:13+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Completes Large-Scale Strike on Iran's Strategic Defense Systems",
+    "relevant": true,
+    "summary_en": "Israel has conducted a significant attack targeting Iran's strategic defense systems. The strike likely aimed at degrading Iran's air defense and missile capabilities. This operation represents a major escalation in Israeli operations against Iran amid the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "missile",
+      "conflict",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel's large-scale strike on Iran's strategic defense systems represents a significant escalation in the conflict, targeting Iran's air defense and missile capabilities."
+    }
+  },
+  {
+    "id": "4fbe4b4112e25541",
+    "title_original": "Tasnim: Иран ударил по 14 американским базам на Ближнем Востоке",
+    "content_original": "Tasnim: Иран ударил по 14 американским базам на Ближнем Востоке",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26590649",
+    "published": "2026-02-28T17:30:57+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes 14 US Bases in the Middle East",
+    "relevant": true,
+    "summary_en": "Iran has launched attacks targeting 14 US military bases across the Middle East. This represents a significant escalation in hostilities, demonstrating Iran's capability to strike multiple US assets simultaneously. The strikes will likely prompt a strong US military response and further destabilize the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East",
+      "brief": "Iran's simultaneous strikes on 14 US military bases across the Middle East mark a critical escalation, showcasing Iran's capacity for large-scale attacks on US assets and likely triggering a significant US military response."
+    }
+  },
+  {
     "id": "4cb8d83dd17f0865",
     "title_original": "Израиль заявил о массированном ударе по стратегической обороне Ирана",
     "content_original": "Один из ударов был направлен по передовой системе ПВО СА-65",
@@ -1072,6 +1333,203 @@
       ],
       "location": "Israel",
       "brief": "Iran's direct drone strikes against Israel signal an escalation in regional tensions and demonstrate Iran's evolving use of unmanned aerial capabilities in military operations."
+    }
+  },
+  {
+    "id": "ff520e8411eb899c",
+    "title_original": "🚨 حملات موشکی به دبی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SABE...",
+    "content_original": "🚨 حملات موشکی به دبی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44843",
+    "published": "2026-02-28T14:47:09+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile Attacks on Dubai",
+    "relevant": true,
+    "summary_en": "Missile strikes have targeted Dubai, likely launched by Iranian-backed groups or Iran itself. This represents a significant escalation in the conflict, directly threatening a major UAE city and global economic hub. The strategic significance is high due to potential disruption of regional stability and international trade.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "Iranian-backed proxies",
+        "UAE",
+        "US (by association)"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Missile strikes on Dubai by Iranian-backed groups mark a critical escalation, directly threatening a major economic hub and risking broader regional instability."
+    }
+  },
+  {
+    "id": "0625bf4ead308506",
+    "title_original": "🚨 تسنیم: سه پهپاد پیشرفته اسرائیلی با نام «هرمس» در تبریز، خمین و اهواز توسط پدافند ایران مورد اصابت قرار گرفته و ساق...",
+    "content_original": "🚨 تسنیم: سه پهپاد پیشرفته اسرائیلی با نام «هرمس» در تبریز، خمین و اهواز توسط پدافند ایران مورد اصابت قرار گرفته و ساقط شدند. ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44840",
+    "published": "2026-02-28T14:44:55+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian air defenses shoot down three Israeli Hermes drones in Tabriz, Khomein, and Ahvaz",
+    "relevant": true,
+    "summary_en": "Iran's air defenses intercepted and downed three advanced Israeli Hermes drones in the cities of Tabriz, Khomein, and Ahvaz. This incident highlights ongoing tensions and potential Israeli intelligence or military operations within Iranian territory amid the broader conflict. The successful interception demonstrates Iran's continued capability to defend its airspace against sophisticated threats.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "shoot down",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tabriz, Khomein, Ahvaz, Iran",
+      "brief": "The downing of Israeli Hermes drones by Iran demonstrates ongoing intelligence or military operations within Iranian territory, escalating tensions in the broader conflict."
+    }
+  },
+  {
+    "id": "4f54b520c78fd99a",
+    "title_original": "🚨 انفجار در دبی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SABERIN_NEWS",
+    "content_original": "🚨 انفجار در دبی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44839",
+    "published": "2026-02-28T14:44:02+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosion in Dubai - Latest Developments in Iran-US Conflict",
+    "relevant": true,
+    "summary_en": "An explosion occurred in Dubai, potentially linked to the ongoing Iran-US conflict. This incident could indicate an escalation in hostilities or proxy operations within the UAE. The strategic significance depends on the nature and perpetrators of the explosion, which remain unclear.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "explosion",
+      "conflict",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "Iranian proxies"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The explosion in Dubai suggests an escalation in proxy operations within the UAE, highlighting Iran's potential use of regional proxies to target US allies amidst the conflict."
+    }
+  },
+  {
+    "id": "fb04d937e8b0f8a1",
+    "title_original": "🚨 مقامات آمریکایی به فاکس نیوز گفتند:\"ما عملاً سیستم دفاع هوایی ایران را از بین برده‌ایم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
+    "content_original": "🚨 مقامات آمریکایی به فاکس نیوز گفتند:\"ما عملاً سیستم دفاع هوایی ایران را از بین برده‌ایم ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44837",
+    "published": "2026-02-28T14:34:15+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US officials claim to have effectively destroyed Iran's air defense system",
+    "relevant": true,
+    "summary_en": "US officials have reportedly informed Fox News that they have effectively destroyed Iran's air defense system. This development, if confirmed, would significantly impact Iran's ability to defend against further airstrikes and alter the military balance in the ongoing conflict. The strategic significance includes potential increased vulnerability of Iranian assets to future US and allied attacks.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "critical",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The destruction of Iran's air defense system by the US significantly alters the military balance and increases vulnerability of Iranian assets to future attacks."
+    }
+  },
+  {
+    "id": "d7b94a70d30211f7",
+    "title_original": "🚨 عربستان سعودی تأیید کرد که ایران دو پایگاه آمریکایی در ریاض و منطقه شرقی را هدف قرار داده است ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ...",
+    "content_original": "🚨 عربستان سعودی تأیید کرد که ایران دو پایگاه آمریکایی در ریاض و منطقه شرقی را هدف قرار داده است ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44836",
+    "published": "2026-02-28T14:33:52+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran strikes two US bases in Riyadh and Eastern Saudi Arabia",
+    "relevant": true,
+    "summary_en": "Iran has targeted two US military bases in Riyadh and Eastern Saudi Arabia, as confirmed by Saudi authorities. This attack signifies an escalation in the ongoing conflict, demonstrating Iran's willingness to strike US assets within Saudi territory. The incident is likely to provoke a strong response from the US and its allies in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "critical",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Saudi Arabia"
+      ],
+      "location": "Riyadh and Eastern Saudi Arabia",
+      "brief": "Iran's direct strike on US military bases in Saudi Arabia marks a significant escalation, demonstrating Iran's capability and willingness to target US assets in the region."
+    }
+  },
+  {
+    "id": "823876c44245df84",
+    "title_original": "ناو پشتیبانی رزمی آمریکا مورد اصابت شدید موشک های ایران قرار گرفت",
+    "content_original": "ناو پشتیبانی رزمی آمریکا مورد اصابت شدید موشک های ایران قرار گرفت",
+    "url": "https://www.irna.ir/news/86089621/%D9%86%D8%A7%D9%88-%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C-%D8%B1%D8%B2%D9%85%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%85%D9%88%D8%B1%D8%AF-%D8%A7%D8%B5%D8%A7%D8%A8%D8%AA-%D8%B4%D8%AF%DB%8C%D8%AF-%D9%85%D9%88%D8%B4%DA%A9-%D9%87%D8%A7%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%82%D8%B1%D8%A7%D8%B1",
+    "published": "2026-02-28T14:32:49+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "US Military Support Ship Struck by Iranian Missiles",
+    "relevant": true,
+    "summary_en": "An American military support ship was hit by multiple Iranian missiles in the Gulf region. This attack represents a significant escalation in direct engagements between US and Iranian forces at sea. The incident will likely prompt a swift US military response and raises tensions in the maritime domain.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "critical",
+      "parties_involved": [
+        "US",
+        "Iran"
+      ],
+      "location": "Gulf region",
+      "brief": "The direct engagement between US and Iranian forces with the use of Iranian missiles against a US military support ship marks a significant escalation in the maritime domain of the conflict."
     }
   },
   {
