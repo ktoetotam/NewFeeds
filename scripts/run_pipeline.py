@@ -70,11 +70,20 @@ def load_existing_attacks() -> list[dict]:
 
 
 def save_articles(region: str, articles: list[dict]):
-    """Save articles for a region to JSON."""
+    """Save articles for a region to JSON, deduplicating by ID."""
+    seen: set[str] = set()
+    unique: list[dict] = []
+    for a in articles:
+        aid = a.get("id", "")
+        if aid and aid not in seen:
+            seen.add(aid)
+            unique.append(a)
+    if len(unique) < len(articles):
+        logger.warning(f"Removed {len(articles) - len(unique)} duplicate IDs before saving {region}")
     filepath = FEEDS_DIR / f"{region}.json"
     with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(articles, f, ensure_ascii=False, indent=2)
-    logger.info(f"Saved {len(articles)} articles to {filepath}")
+        json.dump(unique, f, ensure_ascii=False, indent=2)
+    logger.info(f"Saved {len(unique)} articles to {filepath}")
 
 
 def save_attacks(articles: list[dict]):

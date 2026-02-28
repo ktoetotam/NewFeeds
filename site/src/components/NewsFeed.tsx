@@ -116,8 +116,8 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
         }}
       >
         {displayedArticles.length > 0 ? (
-          displayedArticles.map((article) => (
-            <NewsCard key={article.id} article={article} />
+          displayedArticles.map((article, idx) => (
+            <NewsCard key={`${article.region}-${article.id}-${idx}`} article={article} />
           ))
         ) : (
           <div
