@@ -1,5 +1,115 @@
 [
   {
+    "id": "48e02bf0a62402d9",
+    "title_original": "ПВО Ирака сбили девять беспилотников, направленных на военные объекты на юге страны",
+    "content_original": "ПВО Ирака сбили девять беспилотников, направленных на военные объекты на юге страны",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594351",
+    "published": "2026-03-01T00:38:49+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iraqi Air Defenses Shoot Down Nine Drones Targeting Military Facilities in Southern Iraq",
+    "relevant": true,
+    "summary_en": "Iraqi air defenses intercepted and destroyed nine drones that were targeting military installations in southern Iraq. This incident highlights the ongoing threat posed by drone attacks in the region, likely linked to Iran-backed militias. The successful interception underscores the importance of air defense systems in protecting critical infrastructure amidst the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "air defense",
+      "drone",
+      "threat",
+      "conflict",
+      "shoot down"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iraq",
+        "Iran-backed militias"
+      ],
+      "location": "southern Iraq",
+      "brief": "The drone strikes on Iraqi military facilities highlight the persistent threat from Iran-backed militias and the critical role of air defenses in protecting regional assets."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "f69e6db0af544758",
+    "title_original": "В ОАЭ начали эвакуировать отель на фоне атаки дрона",
+    "content_original": "В ОАЭ начали рассылать экстренные СМС-оповещения о возможной ракетной опасности, сообщает корреспондент РБК.",
+    "url": "https://www.rbc.ru/rbcfreenews/69a357ef9a7947487b1788ae",
+    "published": "2026-03-01T00:18:27+03:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE Begins Evacuating Hotel Amid Drone Attack",
+    "relevant": true,
+    "summary_en": "The UAE has initiated the evacuation of a hotel in response to a drone attack, with emergency SMS alerts being sent out regarding potential missile threats. This incident highlights the ongoing security concerns in the region due to the ongoing conflict, impacting civilian infrastructure and public safety in the UAE.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "drone",
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "UAE",
+        "Houthi/Ansar Allah"
+      ],
+      "location": "UAE",
+      "brief": "The drone attack on the UAE, likely by Houthi forces, demonstrates the regional spillover of the Iran–US conflict and the vulnerability of civilian infrastructure to proxy warfare."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "5022558df46a214d",
+    "title_original": "Генсек ООН осудил масштабную атаку США и Израиля на Иран",
+    "content_original": "Генсек ООН осудил масштабную атаку США и Израиля на Иран",
+    "url": "https://ria.ru/20260301/oon-2077554034.html",
+    "published": "2026-03-01T00:15:37+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UN Secretary-General condemns large-scale US and Israeli attack on Iran",
+    "relevant": true,
+    "summary_en": "The UN Secretary-General has condemned a large-scale attack by the US and Israel on Iran, highlighting international concern over the escalation of the conflict. This attack likely involved strikes on Iranian military or nuclear facilities, reflecting heightened tensions between the US-Israeli alliance and Iran. The condemnation underscores the global impact and potential for further escalation in the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "nuclear",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The joint US-Israeli airstrike on Iranian military or nuclear facilities marks a significant escalation in the conflict, posing a direct threat to Iran's strategic assets and raising global concerns over regional stability."
+    },
+    "merged_source_count": 3,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "4b3ef006f920408a",
     "title_original": "Опубликовано видео авиаудара Израиля и США по Зенджану",
     "content_original": "По словам корреспондента израильского канала I24 Ариэля Осерана, вторичные взрывы указывают на вероятность нанесения удара по ракетному комплексу",
@@ -353,6 +463,82 @@
     }
   },
   {
+    "id": "e0e54d0b2bb817ff",
+    "title_original": "Missile strike in Tel Aviv injures 21",
+    "content_original": "Missile strike in Tel Aviv injures 21 At least 21 people were injured when an Iranian ballistic missile struck Tel Aviv, according to the Times of Israel. Medical officials said one person remains in critical condition, another is seriously injured and two others sustained moderate wounds. Emergency crews are continuing to treat casualties at the scene.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/missile-strike-tel-aviv-injures-21",
+    "published": "2026-02-28T21:42:30+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Missile strike in Tel Aviv injures 21",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian ballistic missile struck Tel Aviv, injuring at least 21 people, including one critically and two moderately wounded. This attack represents a significant escalation in the conflict, demonstrating Iran's capability to target Israeli population centers directly. The incident is likely to provoke a strong Israeli response against Iranian assets or proxies.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "missile",
+      "ballistic",
+      "wounded",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strike on Tel Aviv demonstrates a direct attack capability against Israeli population centers, marking a significant escalation with potential for broader regional conflict."
+    },
+    "merged_source_count": 8,
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "95f6388857773f23",
+    "title_original": "🚨 فاکس نیوز : پایگاه آمریکایی در عربستان  در حال زیر حملات موشکی ایران   ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
+    "content_original": "🚨 فاکس نیوز : پایگاه آمریکایی در عربستان در حال زیر حملات موشکی ایران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44892",
+    "published": "2026-02-28T21:39:34+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian missile attacks on US base in Saudi Arabia",
+    "relevant": true,
+    "summary_en": "Iran has launched missile attacks targeting a US base in Saudi Arabia. This is a significant escalation in the ongoing conflict, demonstrating Iran's continued capability to strike US assets in the region. The attack highlights the vulnerability of US bases in the Middle East to Iranian missile threats.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Saudi Arabia"
+      ],
+      "location": "US base in Saudi Arabia",
+      "brief": "Iran's missile attack on a US base in Saudi Arabia represents a direct and significant escalation, showcasing Iran's capability to target US assets in the region and increasing the risk of broader regional conflict."
+    },
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
     "id": "92872722ed90ed57",
     "title_original": "Israeli officials informed Khamenei assassinated in Iran strike, body said to be found in rubble",
     "content_original": "The body of Ali Khamenei, Iran’s supreme leader since 1989, was reportedly found under the rubble in Tehran. His death marks a major turning point for the Islamic Republic’s leadership.",
@@ -386,6 +572,220 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "cb3ba57a31dbc5ee",
+    "title_original": "Iran’s Ayatollah Ali Khamenei ‘is gone’ – Netanyahu",
+    "content_original": "The Tasnim and Mehr news agencies claimed the Iranian supreme leader is “steadfast and firm in commanding the field” Signs are increasingly indicating that Iranian Supreme Leader Ayatollah Ali Khamenei has been killed, Israeli Prime Minister Benjamin Netanyahu has claimed in a video address. Iran&rsquo;s Tasnim and Mehr news agencies have reported that the supreme leader is &ldquo;steadfast and firm in commanding the field.&rdquo; Khamenei&rsquo;s compound was struck in a &ldquo;powerful surprise attack,&rdquo; and &ldquo;there are many signs&rdquo; that he &ldquo;is no more,&rdquo; Netanyahu said later in the day. US President Donald Trump, speaking to NBC News in a phone interview, said he believed that reports of Khamenei&rsquo;s death were &ldquo;correct.&rdquo; The United Nations Secretary-General Antonio Guterres, however, has said that he is &ldquo;not in the position to confirm&rdquo; the claim. Read more Israel declares nationwide emergency after strikes on Tehran Israel and t...",
+    "url": "https://www.rt.com/news/633253-khamenei-gone-netanyahu/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "2026-02-28T21:38:06+00:00",
+    "source_name": "RT",
+    "source_category": "state",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Netanyahu claims Iran’s Ayatollah Ali Khamenei has been killed",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli Prime Minister Benjamin Netanyahu has claimed that Iranian Supreme Leader Ayatollah Ali Khamenei has been killed in a 'powerful surprise attack' on his compound. This comes as Iranian news agencies report that Khamenei is 'steadfast and firm in commanding the field.' The potential death of Khamenei would be a significant escalation in the conflict, potentially destabilizing Iran's leadership and decision-making during the ongoing conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "death",
+      "conflict",
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (reportedly Ayatollah Ali Khamenei's compound)",
+      "brief": "The potential killing of Iran's Supreme Leader Ayatollah Ali Khamenei would be a critical escalation, likely causing significant instability in Iran's command structure during the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "7ab313ca0dc151a2",
+    "title_original": "Southern Tel Aviv following Iranian missile strikes @PressTV",
+    "content_original": "Southern Tel Aviv following Iranian missile strikes @PressTV",
+    "url": "https://t.me/presstv/177309",
+    "published": "2026-02-28T21:32:39+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Southern Tel Aviv following Iranian missile strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile strikes targeting Southern Tel Aviv, Israel. This represents a significant escalation in the conflict, demonstrating Iran's willingness to directly target Israeli population centers. The strikes are likely in retaliation for previous Israeli operations against Iranian-linked targets.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Southern Tel Aviv, Israel",
+      "brief": "Iran's ballistic missile strikes on Southern Tel Aviv mark a significant escalation, demonstrating direct targeting of Israeli population centers and escalating the regional conflict."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "22510420839cd273",
+    "title_original": "🚨  سپاه پاسداران انقلاب اسلامی:در جریان حملات پهپادی و موشکی ما به پایگاه نیروی دریایی آمریکا در کویت، تعدادی از نیرو...",
+    "content_original": "🚨 سپاه پاسداران انقلاب اسلامی:در جریان حملات پهپادی و موشکی ما به پایگاه نیروی دریایی آمریکا در کویت، تعدادی از نیروهای آمریکایی به هلاکت رسیده وتعدادی زخمی شدند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44887",
+    "published": "2026-02-28T21:32:11+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC Claims US Navy Base in Kuwait Hit by Drones and Missiles, Causing Casualties",
+    "relevant": true,
+    "summary_en": "The IRGC announced that their drone and missile attacks targeted the US Navy base in Kuwait, resulting in American casualties, including deaths and injuries. This signifies an escalation in the conflict with direct strikes on US forces in the region and highlights the ongoing hostilities between Iran and the US.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "deaths",
+      "drone",
+      "missile",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US Navy",
+        "Kuwait"
+      ],
+      "location": "US Navy base in Kuwait",
+      "brief": "The IRGC's direct strike on a US Navy base in Kuwait, resulting in casualties, represents a significant escalation in the Iran-US conflict with direct engagement against US forces."
+    }
+  },
+  {
+    "id": "70c03b6a84cf3287",
+    "title_original": "آغاز نشست اضطراری شورای امنیت سازمان ملل درباره حمله به ایران",
+    "content_original": "آغاز نشست اضطراری شورای امنیت سازمان ملل درباره حمله به ایران",
+    "url": "https://www.irna.ir/news/86089910/%D8%A2%D8%BA%D8%A7%D8%B2-%D9%86%D8%B4%D8%B3%D8%AA-%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%A8%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+    "published": "2026-02-28T21:25:58+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "UN Security Council Begins Emergency Meeting on Attack on Iran",
+    "relevant": true,
+    "summary_en": "The UN Security Council has convened an emergency meeting to discuss the ongoing attack on Iran, highlighting international concern over the escalating conflict. This indicates potential diplomatic pressure or calls for de-escalation amid ongoing military actions. The meeting's outcome could influence global responses to the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UN Security Council"
+      ],
+      "location": "International (UN Security Council)",
+      "brief": "The UN Security Council's emergency meeting on the attack on Iran signifies a significant escalation in international diplomatic engagement and potential global response to the Iran-US conflict."
+    },
+    "lat": 50.109346,
+    "lng": 14.3932647
+  },
+  {
+    "id": "ebad2f9b2f0953b2",
+    "title_original": "⚡️ #BREAKING  Dubai airport struck by Iranian missile fire",
+    "content_original": "⚡️ #BREAKING Dubai airport struck by Iranian missile fire",
+    "url": "https://t.me/warmonitors/40126",
+    "published": "2026-02-28T21:24:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Dubai airport struck by Iranian missile fire",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile strikes targeting Dubai airport in the UAE. This attack directly impacts civilian infrastructure and could escalate tensions in the Gulf region. The strike signifies an expansion of Iranian retaliatory measures beyond US military targets.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "United States"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran's missile strike on Dubai airport represents a significant escalation targeting civilian infrastructure in a US-aligned Gulf state, posing a direct threat to regional stability and US interests."
+    },
+    "merged_source_count": 4,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "5e3abef7abd85473",
+    "title_original": "Trump says reports of Khamenei’s death ‘we feel are correct’",
+    "content_original": "Trump says reports of Khamenei’s death ‘we feel are correct’ US President Donald Trump has said he believes reports that Iran’s Supreme Leader Ayatollah Ali Khamenei was killed in air strikes are accurate, though he stopped short of confirming the claim outright. “We feel that that is a correct story,” Trump told NBC News. Speaking separately to ABC News, he added: “I don't want to say anything definitively until I see things but we believe he is. And much of their leaders are gone.” His remarks follow earlier comments from Israeli Prime Minister Benjamin Netanyahu, who said there were “many signs” that Khamenei had been killed in a strike on his compound during the joint US-Israeli campaign. Iranian media outlets have denied the reports.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-reports-khameneis-death-we-feel-are-correct",
+    "published": "2026-02-28T21:18:25+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Trump suggests Khamenei may have been killed in air strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu have both indicated belief that Iran's Supreme Leader Ayatollah Ali Khamenei may have been killed in recent air strikes on his compound. This comes amid ongoing joint US-Israeli operations against Iran. The potential death of Khamenei would be a significant strategic development in the conflict, potentially causing leadership turmoil within Iran.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "death",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (specific location not provided)",
+      "brief": "The potential death of Iran's Supreme Leader Ayatollah Ali Khamenei in US-Israeli airstrikes could cause significant leadership turmoil and escalate the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "8c0984eb1e8a20ec",
