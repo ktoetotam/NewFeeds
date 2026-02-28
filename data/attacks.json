@@ -425,6 +425,218 @@
     "lng": 54.0
   },
   {
+    "id": "fba40ec568d40172",
+    "title_original": "Drone Attacks Target Military Sites in Southern Iraq",
+    "content_original": "By John Lee. Iraqi air defences have intercepted and shot down nine drones targeting military sites in Dhi Qar and Basra provinces, according to updates from the Joint Operations Command . Four drones were downed after attempting to strike a military location inside Imam Ali Air Base in Dhi Qar province. Two were intercepted at 22:50, with no casualties or material losses reported. In separate incidents, five additional drones were detected and destroyed while attempting to target military sites in Basra province. One earlier attempt to strike a military location in Basra resulted in a soldier being injured. In total, nine drones were intercepted across the reported incidents. Authorities confirmed that, aside from the one injured soldier, no further human or material losses were recorded. Investigations have been launched in line with established procedures. Separately, Jurf Al-Nasr in northern Babil province was subjected to two air strikes at 19:25. The authorities said they are clo...",
+    "url": "https://www.iraq-businessnews.com/2026/02/28/drone-attacks-target-military-sites-in-southern-iraq/",
+    "published": "2026-02-28T22:16:54+00:00",
+    "source_name": "Iraq Business News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Drone Attacks Target Military Sites in Southern Iraq",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Iraq",
+        "Iranian-backed militias"
+      ],
+      "location": "Southern Iraq",
+      "brief": "Drone strikes on military sites in Southern Iraq indicate ongoing proxy operations by Iran, escalating tensions in the region and posing a threat to US interests and allies."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "57c74d84b00bbb04",
+    "title_original": "‼️   🇮🇷   ❌   🇮🇱  — Sirens sound across central Israel as Iran continues to launch ballistic missiles.  The IDF says ...",
+    "content_original": "‼️ 🇮🇷 ❌ 🇮🇱 — Sirens sound across central Israel as Iran continues to launch ballistic missiles. The IDF says it is working to intercept the projectiles.",
+    "url": "https://t.me/CIG_telegram/69723",
+    "published": "2026-02-28T22:15:05+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian ballistic missiles trigger air raid sirens in central Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has launched ballistic missiles targeting central Israel, prompting air raid sirens across the region. The IDF is actively working to intercept the incoming projectiles, indicating a significant escalation in the conflict between Iran and Israel.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "ballistic",
+      "intercept",
+      "raid",
+      "conflict",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "central Israel",
+      "brief": "Iran's ballistic missile attack on central Israel represents a significant escalation, directly involving two regional adversaries and posing a direct threat to Israeli territory."
+    },
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "83538bb45cb8fb88",
+    "title_original": "Burgers, then war: Trump’s bluffs before Iran strikes",
+    "content_original": "On a visit to Texas on Friday, US President Donald Trump gave a raucous speech on the economy and then stopped off at a fast-food joint. “Hamburgers for everyone!” Trump declared to cheering customers at the Whataburger restaurant in Corpus Christi, before the 47th president left clutching a bag with order No 47. Nine hours later, in the dead of night, Trump announced from his Mar-a-Lago resort in Florida that he had ordered the start of a major attack against Iran. It was the culmination of a...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3345001/burgers-then-war-trumps-bluffs-iran-strikes?utm_source=rss_feed",
+    "published": "2026-02-28T22:13:05+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true,
+    "title_en": "Trump ordered major attack on Iran after public appearance",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Former US President Donald Trump ordered a major attack on Iran after a public appearance in Texas, where he visited a fast-food restaurant. The attack was announced nine hours later from his Mar-a-Lago resort in Florida. This highlights the abrupt escalation and potential decision-making process during the conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The article suggests a direct US military strike on Iran ordered by a former US President, indicating a significant escalation with major strategic implications for the conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "fb6d999728a2ec8c",
+    "title_original": "One person killed in Tel Aviv rocket attack",
+    "content_original": "One person killed in Tel Aviv rocket attack An Israeli woman has been killed in a rocket strike on Tel Aviv, according to Israeli media. The fatality comes after emergency services reported that 21 people were wounded in the attack on the city. Ambulance officials said two of the injured remain in critical condition.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/one-person-killed-tel-aviv-rocket-attack",
+    "published": "2026-02-28T22:12:46+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "One person killed in Tel Aviv rocket attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A rocket attack on Tel Aviv resulted in the death of one Israeli woman and left 21 people wounded, with two in critical condition. This attack highlights the ongoing conflict and the threat under which Israeli civilians are living, likely linked to recent regional escalations.",
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "death",
+      "rocket",
+      "wounded",
+      "attack",
+      "killed",
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "The rocket attack on Tel Aviv by Hezbollah-linked forces signifies an escalation in regional hostilities, posing a direct threat to Israeli civilian populations amidst ongoing tensions."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "3fc1310c1c518fd0",
+    "title_original": "Panic at Dubai Airport as 'it is hit by an Iranian suicide drone' and passengers flee wrecked terminal",
+    "content_original": "Panic at Dubai Airport as 'it is hit by an Iranian suicide drone' and passengers flee wrecked terminal",
+    "url": "https://www.dailymail.co.uk/news/article-15602525/Dubai-Airport-explosions-passengers-evacuate-warfare.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-02-28T22:12:39+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Panic at Dubai Airport as 'it is hit by an Iranian suicide drone' and passengers flee wrecked terminal",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "suicide",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai Airport, United Arab Emirates",
+      "brief": "An Iranian suicide drone attack on Dubai Airport highlights Iran's willingness to target critical infrastructure in the region, escalating tensions in the Gulf amidst the Iran–US conflict."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "caffecb2769ebe60",
+    "title_original": "Death toll from Israel-US school strike in Minab rises to 108",
+    "content_original": "Death toll from Israel-US school strike in Minab rises to 108 The death toll from the strike on the Shajareh Tayyebeh girls’ primary school in Minab has climbed to 108, according to Iran’s Mizan News Agency. Citing the Minab Prosecutor’s Office, the agency said the number of casualties continues to rise following the attack on the school in southern Iran.&nbsp;",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israel-us-school-strike-minab-rises-108",
+    "published": "2026-02-28T21:59:58+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Death toll from Israel-US school strike in Minab rises to 108",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The death toll from an Israel-US strike on a girls' primary school in Minab, Iran, has risen to 108, according to Iran's Mizan News Agency. The attack on the Shajareh Tayyebeh school in southern Iran continues to cause casualties, highlighting the ongoing conflict's impact on civilian infrastructure and raising concerns about escalation.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, Iran",
+      "brief": "The strike on a civilian school in Iran, resulting in over 100 casualties, represents a significant escalation in the conflict with direct US involvement and severe impact on civilian infrastructure."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
     "id": "07d2e7a7c4a0ac65",
     "title_original": "‘We can suffer to help the Iranian people’: Reservist has home damaged by Iranian missile fragment",
     "content_original": "As the missile hit the ground, fragmented pieces of metal were broken off and launched into his home, burning holes into the ceiling and smashing his windows.",
