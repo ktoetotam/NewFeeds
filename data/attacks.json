@@ -72,6 +72,148 @@
     "lng": 54.56
   },
   {
+    "id": "6d708d7961a9770a",
+    "title_original": "Al Mayadeen: в Манаме в районе центра обслуживания 5-го флота США произошли взрывы",
+    "content_original": "Al Mayadeen: в Манаме в районе центра обслуживания 5-го флота США произошли взрывы",
+    "url": "https://tass.ru/proisshestviya/26594945",
+    "published": "2026-03-01T02:08:41+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions reported near US 5th Fleet service center in Manama",
+    "relevant": true,
+    "summary_en": "Explosions occurred in Manama near the US 5th Fleet's service center. This is significant as it targets a critical hub of US naval operations in the Gulf. The incident could indicate an escalation in Iranian proxy activities against US military assets in Bahrain.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Iranian proxy groups"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "The attack on the US 5th Fleet's service center in Manama represents a significant escalation in Iranian proxy activities targeting critical US naval infrastructure in the Gulf."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "88784589a7acfcc8",
+    "title_original": "В Белгородской области при обстреле пострадали два человека",
+    "content_original": "Шебекинский округ Белгородской области подвергся обстрелу Вооруженных сил Украины, заявил глава региона Вячеслав Гладков. По его словам, пострадали два мирных жителя.",
+    "url": "https://www.kommersant.ru/doc/8477260",
+    "published": "2026-03-01T02:04:35+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Two civilians injured in Ukrainian forces' shelling in Russia's Belgorod region",
+    "relevant": true,
+    "summary_en": "Ukrainian forces have reportedly shelled the Shebekinsky district in Russia's Belgorod region, injuring two civilians. This incident highlights ongoing tensions and potential escalation along the Russia-Ukraine border. The attack's proximity to the conflict zone raises concerns about regional security and potential retaliatory measures by Russia.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "shelling",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "location": "Belgorod region, Russia",
+      "brief": "The incident, while representing regional tensions, is unrelated to the Iran–US conflict and has no direct strategic implications for the ongoing conflict."
+    },
+    "lat": 50.5965678,
+    "lng": 36.5878916
+  },
+  {
+    "id": "ad9ada7a5f2827ae",
+    "title_original": "КСИР утверждает, что при атаке на базу США в Кувейте многие погибли и пострадали",
+    "content_original": "КСИР утверждает, что при атаке на базу США в Кувейте многие погибли и пострадали",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26594933",
+    "published": "2026-03-01T02:03:16+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Claims Attack on US Base in Kuwait Caused Many Casualties",
+    "relevant": true,
+    "summary_en": "The IRGC has claimed responsibility for an attack on a US base in Kuwait, stating that the assault resulted in numerous casualties. This incident occurred in Kuwait, directly targeting US military assets in the region. The claim, if verified, signifies an escalation in the ongoing conflict and demonstrates Iran's willingness to strike US forces beyond its immediate vicinity.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States"
+      ],
+      "location": "Kuwait",
+      "brief": "The IRGC's claimed attack on a US base in Kuwait represents a significant escalation, indicating Iran's willingness to target US forces in the region beyond its immediate borders."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "d69573cf5139de72",
+    "title_original": "Власти Ирана заявили о гибели сотни детей при ударе США и Израиля",
+    "content_original": "Более 100 детей погибли при ударе США и Израиля по школе в Иране в городе Минаб провинции Хормозган, заявил постпред исламской республики при ООН Амир Саид Иравани. Он утверждает, что число жертв среди мирного населения продолжает расти.",
+    "url": "https://www.kommersant.ru/doc/8477259",
+    "published": "2026-03-01T01:59:35+03:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Claims Hundreds of Children Killed in US and Israeli Strike",
+    "relevant": true,
+    "summary_en": "Iran's UN representative, Amir Saeed Iravani, reported that over 100 children were killed in a US and Israeli strike on a school in Minab, Hormozgan province, Iran. He stated that civilian casualties are continuing to rise. This incident highlights the ongoing escalation and humanitarian impact of the conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, Hormozgan province, Iran",
+      "brief": "The alleged US-Israeli airstrike resulting in significant civilian casualties, including over 100 children, marks a severe escalation in the conflict with direct US involvement and potential for further escalation."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
     "id": "4558388818f93d7a",
     "title_original": "ЦАХАЛ заявил о поражении пусковой площадки, где хранились ракеты \"Гадр H-1\"",
     "content_original": "ЦАХАЛ заявил о поражении пусковой площадки, где хранились ракеты \"Гадр H-1\"",
@@ -605,6 +747,44 @@
     },
     "lat": 29.38,
     "lng": 47.99
+  },
+  {
+    "id": "246cb35a42afbe06",
+    "title_original": "Burj Al Arab damaged after drone strike in Dubai",
+    "content_original": "Burj Al Arab damaged after drone strike in Dubai A missile strike linked to Iran triggered a fire at Dubai’s Burj Al Arab, one of the city’s most recognisable landmarks. Authorities said air defences intercepted a drone, but falling debris struck the hotel’s outer façade and ignited a small fire. Civil Defence teams responded swiftly and contained the blaze. Officials confirmed that no injuries have been reported. THIS IS ABSOLUTELY INSANE !! Iranian missile just hit the iconic 7-star hotel Burj Al-Arab in Dubai. Building is now on fire. pic.twitter.com/QGSiNEwo3f — Drew (@drewdrewxz) February 28, 2026",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/burj-al-arab-damaged-after-drone-strike-dubai",
+    "published": "2026-02-28T22:59:30+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Drone strike damages Burj Al Arab in Dubai",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A missile linked to Iran struck Dubai's Burj Al Arab hotel, causing a fire after debris from intercepted drones hit the building. The incident highlights the escalating threat to civilian infrastructure in the UAE amid the conflict, despite swift response from authorities to contain the damage.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "threat",
+      "strike",
+      "drone",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "The drone strike on a civilian infrastructure target in Dubai demonstrates Iran's willingness to escalate tensions in the region and threaten UAE security amidst the broader Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "949b815c3ef400f8",
