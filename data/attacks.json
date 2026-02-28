@@ -1,5 +1,80 @@
 [
   {
+    "id": "baf64a461d657085",
+    "title_original": "США полагают, что Хаменеи погиб при израильском ударе, сообщил FOX",
+    "content_original": "США полагают, что Хаменеи погиб при израильском ударе, сообщил FOX",
+    "url": "https://ria.ru/20260228/ssha-2077547426.html",
+    "published": "2026-02-28T23:29:00+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Believes Khamenei Killed in Israeli Strike, FOX Reports",
+    "relevant": true,
+    "summary_en": "The US reportedly assesses that Iran's Supreme Leader Khamenei may have been killed in an Israeli strike, according to FOX News. This development, if confirmed, would be a significant escalation in the conflict and could have major implications for Iran's leadership and decision-making during the war. The strategic impact on Iran's military operations and IRGC command structure would be substantial.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "war",
+      "conflict",
+      "killed",
+      "irgc",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "US"
+      ],
+      "location": "Iran",
+      "brief": "The potential killing of Iran's Supreme Leader Khamenei in an Israeli strike would be a major escalation, directly impacting Iran's leadership and command structure during the conflict."
+    },
+    "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "18b6108de39df5e9",
+    "title_original": "В Бахрейне три здания повреждены при падении БПЛА и обломков ракет",
+    "content_original": "В Бахрейне три здания повреждены при падении БПЛА и обломков ракет",
+    "url": "https://ria.ru/20260228/bakhreyn-2077545850.html",
+    "published": "2026-02-28T23:19:13+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Three buildings in Bahrain damaged by falling UAV and missile debris",
+    "relevant": true,
+    "summary_en": "Unidentified UAVs and missile debris struck and damaged three buildings in Bahrain. This incident highlights the ongoing threat to US allies in the Gulf region amid the Iran-US conflict. The strategic significance lies in potential escalation risks and threats to regional stability.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US allies"
+      ],
+      "location": "Bahrain",
+      "brief": "The incident demonstrates the ongoing threat of Iranian drone and missile activities to US allies in the Gulf region, posing risks of escalation and regional instability."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "949b815c3ef400f8",
     "title_original": "WSJ: США ранее не сталкивались с таким числом атак на базы за рубежом",
     "content_original": "WSJ: США ранее не сталкивались с таким числом атак на базы за рубежом",
@@ -176,6 +251,38 @@
     "lng": 54.0
   },
   {
+    "id": "07d2e7a7c4a0ac65",
+    "title_original": "‘We can suffer to help the Iranian people’: Reservist has home damaged by Iranian missile fragment",
+    "content_original": "As the missile hit the ground, fragmented pieces of metal were broken off and launched into his home, burning holes into the ceiling and smashing his windows.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888311",
+    "published": "2026-02-28T21:59:21+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Iranian missile fragment damages US reservist's home",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile fragment struck a US reservist's home, causing damage to the ceiling and windows. This incident highlights the direct impact of the ongoing conflict on civilians in the region. The event underscores the risks faced by military personnel and their families amid escalating hostilities.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Unspecified US residential area",
+      "brief": "The incident demonstrates the direct risk posed by Iranian missile strikes to US military personnel and their families, escalating the conflict's impact on civilian infrastructure."
+    }
+  },
+  {
     "id": "92872722ed90ed57",
     "title_original": "Israeli officials informed Khamenei assassinated in Iran strike, body said to be found in rubble",
     "content_original": "The body of Ali Khamenei, Iran’s supreme leader since 1989, was reportedly found under the rubble in Tehran. His death marks a major turning point for the Islamic Republic’s leadership.",
@@ -244,6 +351,358 @@
     },
     "lat": 10.3357315,
     "lng": 123.9011738
+  },
+  {
+    "id": "82816fb9ba4b4b47",
+    "title_original": "🇮🇱 🚨   New salvo of Iranian missiles headed for central Israel @CIG_telegram",
+    "content_original": "🇮🇱 🚨 New salvo of Iranian missiles headed for central Israel @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69689",
+    "published": "2026-02-28T20:35:10+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "New salvo of Iranian missiles headed for central Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has launched a new wave of missiles targeting central Israel, indicating a significant escalation in the conflict. This attack by Iran on Israeli territory could provoke a strong military response from Israel and its allies. The strategic significance involves the potential for further regional escalation and direct confrontation between Iran and Israel.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "central Israel",
+      "brief": "Iran's ballistic missile attack on central Israel marks a significant escalation, posing a direct threat to Israeli territory and increasing the risk of regional conflict involving US allies."
+    },
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "0f3f62639eaba9c1",
+    "title_original": "🚨 موج جدید حملات موشکی ایران به دشمن متجاوز آغاز شد. ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار ...",
+    "content_original": "🚨 موج جدید حملات موشکی ایران به دشمن متجاوز آغاز شد. ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44874",
+    "published": "2026-02-28T20:34:07+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran Launches New Wave of Missile Attacks on Aggressor Enemy",
+    "relevant": true,
+    "summary_en": "Iran has initiated a new wave of missile attacks targeting the US and its allies, marking an escalation in the ongoing conflict. This development signifies Iran's continued offensive operations against US forces and interests in the region. The strategic significance lies in Iran's resolve to retaliate against perceived aggression, potentially leading to further military engagements.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "conflict",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "US allies"
+      ],
+      "location": "Unspecified region (likely Middle East)",
+      "brief": "Iran's missile attacks on US and allied forces represent a significant escalation in the conflict, demonstrating Iran's willingness to engage in direct offensive operations against US interests."
+    }
+  },
+  {
+    "id": "95cb79cbfbe51c8e",
+    "title_original": "The U.S and Israel “liberating” a country:",
+    "content_original": "The U.S and Israel “liberating” a country:",
+    "url": "https://t.me/warmonitors/40105",
+    "published": "2026-02-28T20:34:05+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US and Israel 'liberating' a country",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The headline suggests potential joint military action by the US and Israel in a third country, likely linked to the ongoing conflict with Iran or its proxies. This could imply operations against Hezbollah in Lebanon, Hamas in Gaza, or IRGC assets elsewhere in the region. The strategic significance would depend on the target country and the scale of the operation, potentially escalating regional tensions.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "hezbollah",
+      "conflict",
+      "hamas"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "Hezbollah/Hamas/IRGC (depending on target)"
+      ],
+      "location": "unspecified third country (likely Lebanon, Gaza, or Syria)",
+      "brief": "A joint US-Israel operation against Iranian proxies would signify a significant escalation in regional military actions and direct confrontation with Iran-backed groups."
+    },
+    "lat": 31.5,
+    "lng": 34.47
+  },
+  {
+    "id": "8ac4e6cb968af004",
+    "title_original": "⚡ Renewed missile launches from Iran toward Israeli territory detected",
+    "content_original": "⚡ Renewed missile launches from Iran toward Israeli territory detected",
+    "url": "https://t.me/warmonitors/40104",
+    "published": "2026-02-28T20:34:04+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Renewed missile launches from Iran toward Israeli territory detected",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has launched missiles targeting Israeli territory, marking a significant escalation in the conflict. The launches were detected, indicating ongoing hostilities between Iran and Israel. This development has heightened regional tensions and raises the risk of further military engagement.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israeli territory",
+      "brief": "Iran's ballistic missile launches targeting Israel represent a significant escalation with direct state-to-state engagement, posing a major threat to regional stability and increasing the risk of broader conflict."
+    }
+  },
+  {
+    "id": "f33706d849a8aa4b",
+    "title_original": "📝 Судный день 📝 ситуация вокруг Ирана к   исходу 28 февраля Сегодня наконец случилось то, что ожидали и к чему прогре...",
+    "content_original": "📝 Судный день 📝 ситуация вокруг Ирана к исходу 28 февраля Сегодня наконец случилось то, что ожидали и к чему прогревали общество на Ближнем Востоке в последние месяцы: Иран подвергся американо-израильским атакам. Этому предшествовала особенная активизация разведдеятельности США в регионе. ➡️ Американские и израильские удары по Ирану наносились практически по всей территории страны. Часть атак была сконцентрирована в районе столицы, а также возле военных баз на юге, западе и юго-западе: Асалии , Бендер-Аббасе и Чахбехаре . В Тегеране прилеты были зафиксированы в том числе по мирным объектам . Ударам подверглись объекты, связанные с иранской ядерной программой: АЭС Бушир и завод по обогащению урана в Фордо . Поражение систем ПВО на западе и юго-западе обеспечило коалиции более-менее благоприятные условия для операций вглубь территории Ирана. ➡️ В ответ на удары по своей территории, в Иране ответили атаками по Израилю . Основные попадания зафиксированы в крупных городах – Тель-Авиве , Хай...",
+    "url": "https://t.me/rybar/77949",
+    "published": "2026-02-28T20:33:46+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israeli Attacks on Iran on February 28th",
+    "relevant": true,
+    "summary_en": "US and Israeli forces launched coordinated strikes across Iran, targeting military bases in Asaluyeh, Bandar Abbas, and Chabahar, as well as nuclear facilities like the Bushehr Nuclear Power Plant. The attacks also hit civilian areas in Tehran, indicating a significant escalation in the conflict. This operation follows increased US intelligence activity in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "nuclear",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Asaluyeh, Bandar Abbas, Chabahar, Bushehr Nuclear Power Plant, Tehran",
+      "brief": "The coordinated US and Israeli airstrikes on Iranian military and nuclear facilities mark a significant escalation in the conflict, indicating direct state engagement and potential for broader regional conflict."
+    },
+    "lat": 25.29,
+    "lng": 60.64
+  },
+  {
+    "id": "97971ada985aeb78",
+    "title_original": "15282",
+    "content_original": "15282",
+    "url": "https://www.tehrantimes.com/news/524355/15282",
+    "published": "2026-02-28T20:31:00+00:00",
+    "source_name": "Tehran Times",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "US Navy intercepts multiple Houthi missiles and drones in the Red Sea",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US Navy intercepted several Houthi-launched missiles and drones targeting its ships in the Red Sea. This incident highlights the ongoing threat under which US naval forces operate in the region and the persistent Houthi aggression against international maritime traffic. The interceptions are part of the broader conflict involving US forces and Iranian-backed groups.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "houthi"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "US Navy",
+        "Houthi/Ansar Allah",
+        "Iran (indirect)"
+      ],
+      "location": "Red Sea",
+      "brief": "The incident underscores the persistent threat under which US naval forces operate due to Houthi aggression, highlighting the broader regional conflict involving Iranian-backed groups."
+    },
+    "lat": 20.0,
+    "lng": 38.0
+  },
+  {
+    "id": "90809c9ab508d3c8",
+    "title_original": "مدرسه میناب؛ پرواز از کلاس درس تا آسمان؛ محکومیت کشتار دانش‌آموزان بی‌دفاع",
+    "content_original": "مدرسه میناب؛ پرواز از کلاس درس تا آسمان؛ محکومیت کشتار دانش‌آموزان بی‌دفاع",
+    "url": "https://www.irna.ir/news/86089887/%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D9%85%DB%8C%D9%86%D8%A7%D8%A8-%D9%BE%D8%B1%D9%88%D8%A7%D8%B2-%D8%A7%D8%B2-%DA%A9%D9%84%D8%A7%D8%B3-%D8%AF%D8%B1%D8%B3-%D8%AA%D8%A7-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D9%85%D8%AD%DA%A9%D9%88%D9%85%DB%8C%D8%AA-%DA%A9%D8%B4%D8%AA%D8%A7%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%A7%D9%86",
+    "published": "2026-02-28T20:25:06+00:00",
+    "source_name": "IRNA",
+    "source_category": "state",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Condemnation of the Massacre of Defenseless Students in Minab School",
+    "relevant": true,
+    "summary_en": "The article likely refers to an incident where students were killed in Minab, Iran, which could be related to the ongoing conflict if it involves a military strike or attack. The condemnation suggests potential international attention or reaction to civilian casualties, impacting the strategic narrative of the war.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "war",
+      "conflict",
+      "killed",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Minab, Iran",
+      "brief": "The incident, if confirmed as a military strike, could escalate tensions and draw international condemnation for civilian casualties, impacting the strategic narrative of the conflict."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
+    "id": "227f2785a6c8d1a4",
+    "title_original": "Images show the wounded after a US-Israeli airstrike on a sports hall in Lamerd, Fars Province, which killed 18 peopl...",
+    "content_original": "Images show the wounded after a US-Israeli airstrike on a sports hall in Lamerd, Fars Province, which killed 18 people—mostly children—and injured about 100 others. @PressTV",
+    "url": "https://t.me/presstv/177284",
+    "published": "2026-02-28T20:21:56+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "US-Israeli airstrike kills 18 in Lamerd sports hall, Fars Province",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A US-Israeli airstrike targeted a sports hall in Lamerd, Fars Province, Iran, resulting in 18 fatalities, predominantly children, and approximately 100 injuries. This incident signifies an escalation in the conflict within Iranian territory and could provoke further Iranian retaliation against US and Israeli assets.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "airstrike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lamerd, Fars Province, Iran",
+      "brief": "The US-Israeli airstrike on a civilian target in Iran represents a significant escalation with direct state engagement and mass casualties, likely provoking severe Iranian retaliation."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "bcf2ed3e84d2d065",
+    "title_original": "Blasts hit Dubai and Abu Dhabi as UAE sucked into US-Israel conflict with Iran",
+    "content_original": "Blasts hit Dubai and Abu Dhabi as UAE sucked into US-Israel conflict with Iran Explosions hit Dubai and Abu Dhabi on Saturday as the&nbsp; UAE &nbsp;was one of several Gulf states sucked into the&nbsp; US - Israeli &nbsp;conflict with&nbsp; Iran . The United Arab Emirates has intercepted at least three rounds of missiles and drones launched towards the country from Iranian territory since US and Israeli strikes started raining down on Iran. However, some missiles and drones appear to be making it through the UAE air defences. Residents of Dubai said they saw&nbsp; plumes of smoke &nbsp;near the Fairmont the Palm and above the Dubai Marina neighbourhood. And&nbsp; video footage &nbsp;on Saturday evening appeared to show an Iranian Shahed drone hitting the city. In Abu Dhabi, residents heard the sound of several missile interceptions. Read more:&nbsp; Blasts hit Dubai and Abu Dhabi as UAE sucked into US-Israel conflict with Iran &nbsp;",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-hit-dubai-and-abu-dhabi-uae-sucked-us-israel-conflict-iran",
+    "published": "2026-02-28T20:20:11+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Missile and drone attacks hit Dubai and Abu Dhabi as UAE faces Iranian retaliation",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Missiles and drones launched from Iran targeted Dubai and Abu Dhabi, with the UAE intercepting at least three rounds but some projectiles penetrating defenses. Explosions were reported near the Fairmont the Palm and Dubai Marina, indicating Iran's expanding retaliatory strikes against Gulf states involved in the US-Israeli conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "Dubai, Abu Dhabi, UAE",
+      "brief": "Iran's missile and drone strikes on UAE cities represent a significant escalation, directly targeting US allies and signaling expanding retaliatory actions within the Gulf region."
+    },
+    "merged_source_count": 2,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "e67134c07472b542",
+    "title_original": "The moment an Iranian missile bypassed US air defenses in Qatar. @PressTV",
+    "content_original": "The moment an Iranian missile bypassed US air defenses in Qatar. @PressTV",
+    "url": "https://t.me/presstv/177283",
+    "published": "2026-02-28T20:15:29+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian missile bypasses US air defenses in Qatar",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile reportedly penetrated US air defenses in Qatar, indicating a significant breach of US defensive measures in the region. This incident occurred at a US base in Qatar, highlighting vulnerabilities in US military infrastructure. The event is likely to escalate tensions and provoke a response from the US military.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Qatar"
+      ],
+      "location": "US base in Qatar",
+      "brief": "The penetration of US air defenses by an Iranian ballistic missile at a US base in Qatar represents a significant escalation, highlighting critical vulnerabilities in US military infrastructure and posing a direct threat to US forces in the region."
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "b2e550010865f577",
@@ -2663,6 +3122,43 @@
     "lat": 36.3832089,
     "lng": 42.9927784,
     "merged_source_count": 3
+  },
+  {
+    "id": "91817d3b0a25ca72",
+    "title_original": "Iran's Supreme Leader Ali Khamenei dead after IDF strike hits Tehran compound, Israeli source confirms",
+    "content_original": "Iran’s militant and unyielding supreme leader, Ayatollah Ali Khamenei, who ruled the Islamic Republic for more than three decades and oversaw an era of harsh internal repression and confrontation with the United States and Israel, has died following the Israeli strike in Tehran, as his compound was reduced to rubble, a senior Israeli official told Fox News Digital. \"Khamenei was the contemporary Middle East’s longest-serving autocrat. He did not get to be that way by being a gambler. Khamenei was an ideologue, but one who ruthlessly pursued the preservation and protection of his ideology, often taking two steps forward and one step back,\" Behnam Ben Taleblu, senior director of FDD’s Iran program, told Fox News Digital. \"Khamenei’s worldview was shaped by his militant anti-Americanism and antisemitism, which first manifested itself in his protests against the Shah of Iran,\" he added. LEAKED DOCUMENTS EXPOSE KHAMENEI'S SECRET DEADLY BLUEPRINT FOR CRUSHING IRAN PROTESTS Born April 19, 193...",
+    "url": "https://www.foxnews.com/world/irans-supreme-leader-ali-khamenei-dead-after-idf-strike-hits-tehran-compound-israeli-source-confirms",
+    "published": "2026-02-28T15:11:51-05:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran's Supreme Leader Ali Khamenei reportedly killed in IDF strike on Tehran compound",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IDF reportedly conducted a strike on a compound in Tehran, resulting in the death of Iran's Supreme Leader Ali Khamenei. This event marks a significant escalation in the conflict, as Khamenei was a key figure in Iran's military and political leadership. The strategic implications are profound, potentially leading to further instability within Iran and a shift in the dynamics of the ongoing conflict with Israel and the US.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "death",
+      "conflict",
+      "killed",
+      "idf",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The assassination of Iran's Supreme Leader Ali Khamenei by an IDF strike represents a critical escalation, with profound implications for the regional power balance and the trajectory of the Iran–US conflict."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "6f5876af6a2d383c",

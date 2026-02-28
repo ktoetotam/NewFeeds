@@ -1,5 +1,37 @@
 [
   {
+    "id": "e7fc8c2f7c3199a7",
+    "title_original": "Flights cancelled as travel warnings issued after strikes on Iran",
+    "content_original": "BA, Virgin Atlantic and Wizz Air are among major airlines to overhaul their schedules in light of the attacks.",
+    "url": "https://www.bbc.com/news/articles/c0rjpr575g9o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-02-28T20:23:09+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Flights cancelled after strikes on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Major airlines including British Airways, Virgin Atlantic, and Wizz Air have canceled flights and issued travel warnings following strikes on Iran. This indicates heightened concerns over airspace safety and potential escalation of the conflict. The cancellations affect travel plans and highlight the broader impact of the conflict on civilian aviation."
+  },
+  {
+    "id": "da7ea65241895fcb",
+    "title_original": "'Not the sign of a top team' - Newcastle take huge step backwards",
+    "content_original": "Newcastle are languishing in 12th place in the Premier League for a reason - they have conceded 23 goals since they last kept a clean sheet in any competition.",
+    "url": "https://www.bbc.com/sport/football/articles/cly80vd4nvdo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-02-28T20:16:41+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Newcastle take huge step backwards in Premier League performance",
+    "translated": true,
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
+  },
+  {
     "id": "dccab36bcbd1c037",
     "title_original": "Khamenei dead LATEST: Iran leader's 'body found' after huge Trump and Israel strikes",
     "content_original": "Khamenei",
@@ -958,6 +990,22 @@
     "translated": true,
     "relevant": true,
     "summary_en": "Iran launched retaliatory strikes targeting US military bases and civilian infrastructure, including the Fairmont The Palm hotel in Dubai. The attack demonstrates Iran's intent to escalate the conflict by striking regional economic and strategic assets. This incident highlights the risk of collateral damage and regional instability as the conflict expands beyond traditional military targets."
+  },
+  {
+    "id": "91817d3b0a25ca72",
+    "title_original": "Iran's Supreme Leader Ali Khamenei dead after IDF strike hits Tehran compound, Israeli source confirms",
+    "content_original": "Iran’s militant and unyielding supreme leader, Ayatollah Ali Khamenei, who ruled the Islamic Republic for more than three decades and oversaw an era of harsh internal repression and confrontation with the United States and Israel, has died following the Israeli strike in Tehran, as his compound was reduced to rubble, a senior Israeli official told Fox News Digital. \"Khamenei was the contemporary Middle East’s longest-serving autocrat. He did not get to be that way by being a gambler. Khamenei was an ideologue, but one who ruthlessly pursued the preservation and protection of his ideology, often taking two steps forward and one step back,\" Behnam Ben Taleblu, senior director of FDD’s Iran program, told Fox News Digital. \"Khamenei’s worldview was shaped by his militant anti-Americanism and antisemitism, which first manifested itself in his protests against the Shah of Iran,\" he added. LEAKED DOCUMENTS EXPOSE KHAMENEI'S SECRET DEADLY BLUEPRINT FOR CRUSHING IRAN PROTESTS Born April 19, 193...",
+    "url": "https://www.foxnews.com/world/irans-supreme-leader-ali-khamenei-dead-after-idf-strike-hits-tehran-compound-israeli-source-confirms",
+    "published": "2026-02-28T15:11:51-05:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran's Supreme Leader Ali Khamenei reportedly killed in IDF strike on Tehran compound",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IDF reportedly conducted a strike on a compound in Tehran, resulting in the death of Iran's Supreme Leader Ali Khamenei. This event marks a significant escalation in the conflict, as Khamenei was a key figure in Iran's military and political leadership. The strategic implications are profound, potentially leading to further instability within Iran and a shift in the dynamics of the ongoing conflict with Israel and the US."
   },
   {
     "id": "6605b8263c197db4",
