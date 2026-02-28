@@ -49,7 +49,7 @@ regions:
       - name: "Al Alam"
         type: rss
         language: ar
-        url: "https://www.alalam.ir/rss"
+        url: "https://www.alalam.ir/rss/important_news"
         category: state
 
       - name: "Tehran Times"
@@ -308,6 +308,13 @@ regions:
         language: en
         url: "https://english.aawsat.com/feed"
         category: state-aligned
+        skip_translation: true
+
+      - name: "WAM English (TG)"
+        type: telegram
+        channel: "wamnews_en"
+        language: en
+        category: state
         skip_translation: true
 
   middle_east:
