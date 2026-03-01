@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T20-41-57.145729_plus_00-00.json",
+    "generated_at": "2026-03-01T20:41:57.145729+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 726,
+    "summary_preview": "The Iran-US conflict has escalated significantly in the past 24 hours with confirmed US combat casualties (3 killed, 5 wounded) and Iranian attacks disabling US bases in Kuwait and Bahrain. IRGC claim"
+  },
+  {
     "filename": "2026-03-01T20-15-50.691565_plus_00-00.json",
     "generated_at": "2026-03-01T20:15:50.691565+00:00",
     "threat_label": "MAJOR",
