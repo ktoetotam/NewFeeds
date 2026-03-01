@@ -1,3 +1,5 @@
+"use client";
+
 import type { Article } from "@/lib/types";
 import { REGIONS } from "@/lib/types";
 import { formatTimeAgo } from "@/lib/utils";
@@ -79,6 +81,7 @@ export default function NewsCard({ article }: NewsCardProps) {
             color: "var(--color-text-muted)",
             whiteSpace: "nowrap",
           }}
+          suppressHydrationWarning
         >
           {formatTimeAgo(article.published)}
         </span>

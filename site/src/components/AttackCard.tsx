@@ -1,3 +1,5 @@
+"use client";
+
 import { forwardRef } from "react";
 import type { Article } from "@/lib/types";
 import { REGIONS, SEVERITY_COLORS } from "@/lib/types";
@@ -153,6 +155,7 @@ const AttackCard = forwardRef<HTMLElement, AttackCardProps>(function AttackCard(
             color: "var(--color-text-muted)",
             whiteSpace: "nowrap",
           }}
+          suppressHydrationWarning
         >
           {formatTimeAgo(article.published)}
         </span>
