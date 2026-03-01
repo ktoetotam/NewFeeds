@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-01T01:24:56.986497+00:00",
+  "generated_at": "2026-03-01T01:37:16.055292+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 255,
-    "incident_count_6h": 171,
+    "incident_count_24h": 257,
+    "incident_count_6h": 167,
     "severity_breakdown": {
-      "major": 87,
+      "major": 89,
       "high": 99,
       "medium": 66,
       "low": 3
     }
   },
   "source_count": {
-    "attacks_analyzed": 256,
-    "articles_analyzed": 1897,
+    "attacks_analyzed": 258,
+    "articles_analyzed": 1916,
     "regions_covered": [
       "china",
       "gulf",
@@ -30,68 +30,67 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has reached an unprecedented level of escalation as of 28 February 2026. A coordinated US-Israeli preventive strike on Iran has been met with massive Iranian retaliatory attacks across multiple fronts — ballistic missile barrages against Israel, strikes on 14+ US military bases across Iraq, Saudi Arabia, Kuwait, Qatar, and the Gulf region, and direct attacks on US naval vessels. Civilian casualties are significant, including confirmed school strikes in southern Iran. The status of Iran's Supreme Leader Khamenei remains unverified. Threat level remains MAJOR with 255 incidents in 24 hours.",
+  "executive_summary": "The Iran–US conflict has escalated to full-scale regional war following a US-Israeli coordinated strike on Iran on 28 February. Iran's Supreme Leader Khamenei is reportedly killed, triggering a leadership vacuum and massive Iranian retaliation across multiple fronts — ballistic missiles fired at Israel, strikes on 14+ US bases across Iraq, Kuwait, Saudi Arabia, Qatar, and attacks on UAE targets including Dubai landmarks. Gulf states are now direct targets. Threat level remains MAJOR with 257 incidents in 24 hours.",
   "whats_new": [
-    "IRGC Navy attacks US MST ship with missiles in retaliation for Israeli-US aggression (2026-02-28T16:16:20+00:00)",
-    "Iran launches missile and suicide drone attacks on Dubai targeting Western tourists and influencers (2026-02-28T18:31:08+00:00)",
-    "US-Israeli airstrike kills nearly 20 female volleyball players in Lamerd, Iran (2026-02-28T18:31:08+00:00)",
-    "Death toll from Iran school strike rises to 85 (2026-02-28T18:33:24+03:00)",
-    "Suicide attacks target US Naval Command Headquarters in Bahrain (2026-02-28T18:17:29+00:00)",
-    "B-2 Stealth Bombers may join attacks on Iran as early as tonight (Maariv)"
+    "IRGC announced fifth wave of 'Operation True Promise 4' targeting two US naval vessels and a naval base — ongoing maritime escalation",
+    "New wave of Iranian missiles launched targeting deep inside Israeli territory — per Hezbollah Electronic Army",
+    "Suicide attacks ongoing against US naval command headquarters in Bahrain — direct threat to US naval operations",
+    "US B-2 stealth bombers expected to join attacks on Iran as early as tonight — major escalation in US posture",
+    "Iranian VP assuming wartime responsibilities, raising questions about President Pezeshkian's status — potential leadership fragmentation in Tehran",
+    "Analysts predict Brent crude prices could surge $20/barrel at market open — significant energy market impact"
   ],
   "confirmed_events": [
-    "US and Israel launched coordinated airstrike on Iran targeting government facilities and IRGC centers — mass casualties reported (confirmed by multiple regional sources)",
-    "Iran launched ballistic missile barrages on Israel (Haifa, Galilee region) — confirmed by Israeli defense sources",
-    "Iranian strikes on US bases in Erbil (Iraq), Riyadh and Eastern Saudi Arabia, and Kuwait — confirmed by US Central Command",
-    "IRGC targeted two US naval vessels and a naval base as part of 'Operation True Promise 5' — confirmed by IRGC statement",
-    "Over 20 Iranian provinces targeted by US and Israeli airstrikes — confirmed by Iranian state media",
-    "Airstrike on Iranian girls' school in southern Iran killed 85+ children — confirmed by Iranian UN ambassador, multiple international outlets",
-    "Dubai airport, Palm Jumeirah, and Burj Al Arab hit by Iranian missiles — confirmed by UAE authorities, 4 injured",
-    "Gulf states (UAE, Qatar, Kuwait) condemn Iranian missile attacks — confirmed by official state statements",
-    "Multiple Middle Eastern countries closed airspace — Iraq, Iran, Israel, Syria, Kuwait, UAE",
-    "Over 18,000 flights cancelled due to regional hostilities — confirmed by aviation tracking data"
+    "US and Israel launched coordinated preventive airstrike on Iran on 2026-02-28T06:16 UTC — confirmed by multiple Western and regional sources",
+    "Iran launched ballistic missile barrages against Israel — targets include Haifa and Galilee region",
+    "Iran struck US military bases in Erbil (Iraq), Kuwait, Riyadh and Eastern Saudi Arabia — multiple confirmed strikes",
+    "IRGC Navy conducted missile attacks on US Navy support vessels in the Gulf/Arabian Sea region — confirmed naval engagement",
+    "Iran launched missile and drone attacks on Dubai targeting Palm Jumeirah, Burj Al Arab, and Dubai Airport — confirmed by influencer footage and regional sources",
+    "Iran fired 137 missiles and 209 drones at UAE, Kuwait, and other Gulf states — UAE reports most projectiles intercepted",
+    "UN Secretary-General Antonio Guterres condemned US-Israeli attacks on Iran at emergency UN Security Council meeting",
+    "Saudi Crown Prince Mohammed bin Salman received phone call from US President Trump — discussing regional security situation",
+    "UAE and Qatar condemned Iranian missile attacks targeting their territories — diplomatic escalation"
   ],
   "unverified_emerging": [
-    "Trump claims Iran's Supreme Leader Khamenei 'confirmed dead' — no independent confirmation; Iranian officials dismiss as psychological warfare (source: Daily Sabah World, Trump statement)",
-    "Khamenei's daughter, son-in-law, and granddaughter reportedly killed — Iranian state media Fars news agency, requires verification (source: Press TV, Fars)",
-    "IRGC claims 200 US military personnel killed in Iranian strikes — no independent confirmation of casualty figures (source: IRGC statement)",
-    "IRGC claims targeting 14 US bases, killing hundreds of American troops — casualty claims unverified (source: Press TV TG)",
-    "Dozens of top Iranian regime officials and Supreme Leader killed in Israeli strikes — unconfirmed, conflicting reports (source: multiple sources, no verification)",
-    "Who will succeed Ali Khamenei? IRGC in chaos after assassination — internal Iranian affairs reporting (source: Jerusalem Post)"
+    "IRANIAN SUPREME LEADER KHAMENEI REPORTEDLY KILLED — multiple sources (TASS, RIA Novosti, Press TV, South China Morning Post) report death but no independent confirmation; Trump claims Khamenei 'confirmed dead' while UN chief 'cannot confirm'",
+    "IRGC claims 200 US military personnel killed in Iranian strikes on American bases — source: IRGC statement, unverified by US",
+    "Red Crescent reports 747 injured and 201 killed in Iran strikes — casualty figure source unverified, likely includes civilian casualties from school strike",
+    "At least 85 children killed in school strike in southern Iran (Minab/Lamerd) — multiple reports cite 60-100+ children, attacker attributed to US/Israel but not independently confirmed",
+    "Iran reportedly targeted CIA headquarters in Dubai with missile strike — source: RIA Novosti, unverified",
+    "Khamenei's daughter, son-in-law, and grandson reportedly killed in strikes — source: Fars news agency, unverified by independent sources",
+    "IRGC in chaos attempting to appoint successor to Khamenei, bypassing constitutional institutions — source: Jerusalem Post citing reports"
   ],
   "operational_impacts": {
     "people_travel": [
-      "Dubai International Airport hit and closed — major aviation disruption",
-      "Abu Dhabi and Doha airports closed — thousands of flights cancelled",
-      "Over 18,000 flights cancelled across Middle East region",
-      "UAE, Qatar, Kuwait, Bahrain airspace closed or severely restricted",
-      "Airports in Dubai, Abu Dhabi, and Doha cancelled all flights — significant passenger strandings"
+      "Dubai Airport targeted in Iranian missile strike — significant risk to civilian aviation in UAE",
+      "All Gulf states now conflict zones — airline route cancellations and rerouting expected across MID region",
+      "Israel's airports under ballistic missile threat — severe disruption to Israeli civil aviation",
+      "Qatar, Bahrain, Kuwait, Saudi Arabia all targeted — regional aviation hub status compromised",
+      "UAE urgent diplomatic coordination underway after attacks on Dubai landmarks — travel advisory escalation likely"
     ],
     "supply_chain": [
-      "Jebel Ali seaport in Dubai targeted — major shipping disruption expected",
-      "Bushehr Port in Iran targeted — impacting Iranian naval logistics",
-      "Critical infrastructure attacks on Gulf states signal supply chain risks",
-      "Maritime incidents involving US Navy support ships — potential shipping lane disruptions",
-      "Multiple countries closed maritime and air corridors"
+      "Jebel Ali seaport in Dubai targeted — major shipping hub disruption risk",
+      "Gulf maritime traffic under threat — IRGC Navy active in Gulf and Arabian Sea",
+      "Supply chain disruption expected across Gulf region — shipping insurers likely to hike war risk premiums",
+      "Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Iraq, Jordan all targeted — regional logistics network compromised",
+      "Energy sector: Oil facilities in Gulf states at risk — Rystad Energy predicts $20/barrel surge in Brent crude"
     ],
     "market_macro": [
-      "Oil prices surge — US not planning to release strategic reserves",
-      "Regional economic hubs (Dubai, Abu Dhabi) directly targeted — investor confidence shaken",
-      "Flight cancellations exceeding 18,000 — severe aviation sector impact",
-      "UAE dirham and regional currencies under pressure",
-      "Insurance premiums for Gulf shipping likely to spike"
+      "Rystad Energy: Brent crude could surge $20/barrel at market open if de-escalation signals do not emerge",
+      "Global oil markets on high alert — significant price volatility expected",
+      "US-Mexico border, all regional stock markets likely to see volatility — conflict premium in energy, defense sectors",
+      "Economic fallout from Gulf states being direct targets — impact on regional investment and trade flows"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The conflict is on a trajectory of significant escalation. With B-2 stealth bombers potentially joining operations and Iran demonstrating continued ballistic missile volleys against Israel and US bases, the next 24-72 hours will likely see intensified strikes. Iran's leadership situation remains uncertain — if Khamenei's death is confirmed, IRGC command chaos could either paralyze or radicalize Iranian military decision-making. The Gulf states (UAE, Saudi Arabia, Kuwait) are now direct targets, expanding the conflict geographically. Civilian infrastructure strikes (schools, tourist areas) increase humanitarian crisis and international pressure.",
+    "base_case": "Conflict will intensify over next 24-72 hours. With Khamenei reportedly killed and IRGC leadership in disarray, Iran's military response may become less calibrated and more retaliatory. US B-2 bomber deployment signals further kinetic escalation. Gulf states (UAE, Saudi Arabia, Kuwait, Qatar) will remain primary Iranian targets. Maritime domain increasingly contested with IRGC Navy attacks on US vessels. Israeli operations against Iranian air defense and missile sites ongoing. Civilian casualty incidents (school strikes) risk further international condemnation and complicate diplomatic off-ramps.",
     "escalation_risks": [
-      "Confirmation of Khamenei's death could trigger unpredictable Iranian response or internal collapse",
-      "IRGC succession crisis may lead to desperate or irrational military actions",
-      "Direct attacks on Gulf state civilian infrastructure widening the conflict to regional war",
-      "US B-2 bomber deployment represents major escalation in strike capability",
-      "Naval incidents risk expanding to broader maritime conflict in Gulf",
-      "Israeli security alert at maximum level — potential preemptive actions"
+      "Khamenei's death triggers power vacuum — IRGC hardliners may take control and authorize unrestricted retaliation",
+      "Iran targets CIA facility in Dubai — if confirmed, represents attack on US intelligence infrastructure, likely triggering harsh US response",
+      "Suicide attacks on Bahrain naval HQ threaten US naval command — could draw US into direct naval confrontation",
+      "Israel expands strikes to deeper Iranian territory — risk of hitting nuclear sites, triggering catastrophic escalation",
+      "Gulf states may be pressured to provide direct support to US/Israel — potential for intra-Gulf conflict if Iran retaliates against states providing bases",
+      "Oil infrastructure strikes — if Iranian missiles hit Saudi or UAE oil facilities, global energy crisis"
     ],
-    "de_escalation_pathways": "De-escalation pathways are extremely limited at present. UN diplomatic efforts have failed, and both sides are in active retaliation cycles. The only plausible de-escalation routes would be: (1) a decisive military outcome that forces one side to the negotiating table, (2) internal Iranian leadership collapse creating a power vacuum that halts operations, or (3) massive international pressure (UN, EU, China, Russia) forcing ceasefire. Currently, no third-party mediation appears active or credible. The conflict trajectory points toward continued escalation through at least 72 hours."
+    "de_escalation_pathways": "No immediate de-escalation pathway visible. UN Secretary-General expressed regret over diplomacy failure. Turkey's Erdoğan-Trump phone call represents only diplomatic engagement. Iran's leadership vacuum makes any negotiated ceasefire difficult — IRGC command structure may not have authority to negotiate. US domestic political calculus (Trump's Maga agenda) suggests continued kinetic pressure. International pressure mounting but unlikely to stop hostilities in near-term. Gulf state mediation possible but complicated by their status as direct Iranian targets."
   }
 }
