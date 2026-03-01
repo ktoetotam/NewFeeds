@@ -1,5 +1,43 @@
 [
   {
+    "id": "c44bbfa38b119ebd",
+    "title_original": "'Do not remain silent': Iranian Embassy in India issues plea after Khamenei's death",
+    "content_original": "In a statement, the mission expressed its \"profound sorrow and grief\" over Khamenei's death. The Iranian Revolutionary Guard Corps has vowed revenge and said it has already carried out retaliatory attacks on American bases in the Middle East",
+    "url": "https://www.thehindu.com/news/international/do-not-remain-silent-iranian-embassy-in-india-issues-plea-after-khameneis-death/article70690953.ece",
+    "published": "2026-03-01T13:10:12+05:30",
+    "fetched_at": "2026-03-01T08:02:12.926744+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Iranian Embassy in India calls for action after Khamenei's death",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Iranian Embassy in India urged action following the death of Ayatollah Khamenei, while the IRGC claimed to have launched retaliatory attacks on US bases in the Middle East. This signifies potential escalation in the ongoing conflict as Iran seeks to demonstrate strength and resolve amidst leadership transition.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "death",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation|irgc_action|threat_statement",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "The Iranian Embassy in India called for action following Khamenei's death, while the IRGC claimed retaliatory attacks on US bases, indicating a significant escalation in the Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "eba6d8a2bccdeff1",
     "title_original": "Iran fires missiles at Israel, Gulf states after US-Israeli strike kills Khamenei",
     "content_original": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
@@ -110,6 +148,115 @@
     "lng": 69.1850584
   },
   {
+    "id": "f494dddfef9a0dad",
+    "title_original": "В пригороде Дохи вспыхнул пожар после падения обломков ракеты",
+    "content_original": "В пригороде Дохи вспыхнул пожар после падения обломков ракеты",
+    "url": "https://ria.ru/20260301/katar-2077618760.html",
+    "published": "2026-03-01T10:57:49+03:00",
+    "fetched_at": "2026-03-01T08:01:31.833671+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Fire breaks out in Doha suburb after missile debris falls",
+    "relevant": true,
+    "summary_en": "A fire erupted in a Doha suburb following the fall of missile debris. This incident highlights the potential for collateral damage in regional conflicts affecting Qatar, which hosts US military bases. The origin of the missile and its intended target are currently unknown, but it raises concerns about the safety of civilians in areas near conflict zones.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "medium",
+      "parties_involved": [
+        "unknown",
+        "Qatar",
+        "US (indirectly)"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "A ballistic missile incident caused a fire in a Doha suburb, highlighting regional conflict risks and potential collateral damage near US military installations in Qatar."
+    },
+    "lat": 25.29,
+    "lng": 51.53
+  },
+  {
+    "id": "eefedaa9a8d8b504",
+    "title_original": "Силы ПВО Ирана сбили новейший американский беспилотник",
+    "content_original": "Силы ПВО Ирана сбили новейший американский беспилотник",
+    "url": "https://ria.ru/20260301/sily-2077618403.html",
+    "published": "2026-03-01T10:56:50+03:00",
+    "fetched_at": "2026-03-01T08:01:31.834006+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Air Defenses Shoot Down Latest US Drone",
+    "relevant": true,
+    "summary_en": "Iranian air defense forces have shot down a state-of-the-art US drone over Iranian territory. This incident highlights ongoing tensions and the active engagement between US and Iranian forces in the region. The downing of advanced US technology signifies Iran's continued capability to target and intercept US assets.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "air defense",
+      "drone",
+      "shoot down",
+      "intercept"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Iranian territory",
+      "brief": "Iranian air defenses shot down a US advanced drone over Iranian airspace, indicating ongoing military tensions and direct engagement between the two nations."
+    },
+    "lat": 3.1551993,
+    "lng": 101.7316895
+  },
+  {
+    "id": "bd70d2723fdd59b2",
+    "title_original": "ВВС Пакистана атаковали военную базу \"Баграм\" в Афганистане",
+    "content_original": "ВВС Пакистана атаковали военную базу \"Баграм\" в Афганистане",
+    "url": "https://ria.ru/20260301/vvs-2077618195.html",
+    "published": "2026-03-01T10:54:23+03:00",
+    "fetched_at": "2026-03-01T08:01:31.834172+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Pakistani Air Force Strikes Bagram Military Base in Afghanistan",
+    "relevant": true,
+    "summary_en": "The Pakistani Air Force conducted an attack on the Bagram military base in Afghanistan. This action could have implications for regional stability and may affect ongoing conflicts involving US and Iranian interests in the area. The strategic significance includes potential impacts on Taliban control and US counterterrorism operations in Afghanistan.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Pakistan",
+        "Afghanistan",
+        "US",
+        "Iran"
+      ],
+      "location": "Bagram, Afghanistan",
+      "brief": "Pakistani Air Force strikes Bagram military base in Afghanistan, potentially impacting regional stability and US-Iran proxy dynamics."
+    },
+    "lat": 34.9333734,
+    "lng": 69.2341077
+  },
+  {
     "id": "4376c3871a7f72d3",
     "title_original": "U.S., Israel clash with Iran in UNSC, as U.N. chief Guterres warns of uncontrollable ‘chain of events’",
     "content_original": "The powerful 15-nation U.N. body met just hours after the U.S. and Israel launched military strikes against Iran and the subsequent attacks by Tehran",
@@ -143,6 +290,76 @@
       "location": "UN Security Council",
       "brief": "US and Israel clash with Iran at UNSC amid escalating military strikes and retaliatory attacks, prompting UN warning of potential regional escalation."
     }
+  },
+  {
+    "id": "f9bd30e4fd58d5d0",
+    "title_original": "Туристка рассказала о взрывах в районе аэропорта Шарджа в ОАЭ",
+    "content_original": "Туристка рассказала о взрывах в районе аэропорта Шарджа в ОАЭ",
+    "url": "https://ria.ru/20260301/shardzha-2077614612.html",
+    "published": "2026-03-01T10:39:50+03:00",
+    "fetched_at": "2026-03-01T08:01:31.836307+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tourist Reports Explosions Near Sharjah Airport in UAE",
+    "relevant": true,
+    "summary_en": "A tourist reported explosions near Sharjah Airport in the UAE. This is significant as it could indicate potential attacks on critical infrastructure in the Gulf region amid the ongoing Iran-US conflict. The incident may impact regional security and US military operations in the area.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "unknown"
+      ],
+      "location": "Sharjah, UAE",
+      "brief": "Unexplained explosions near Sharjah Airport in UAE raise security concerns amid Iran-US tensions, potentially indicating attacks on regional infrastructure."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "41a83522c5fc4077",
+    "title_original": "Иран нанес удары по американским базам в Персидском заливе и Ираке",
+    "content_original": "Иран нанес удары по американским базам в Персидском заливе и Ираке",
+    "url": "https://ria.ru/20260301/vvs-2077613997.html",
+    "published": "2026-03-01T10:37:01+03:00",
+    "fetched_at": "2026-03-01T08:01:31.836801+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes US Bases in the Persian Gulf and Iraq",
+    "relevant": true,
+    "summary_en": "Iran launched attacks targeting US military bases in the Persian Gulf and Iraq. This represents a significant escalation in the ongoing conflict, demonstrating Iran's continued capability to strike US assets in the region. The strikes are likely to provoke a swift military response from the US, further intensifying hostilities.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "Persian Gulf, Iraq",
+      "brief": "Iran launched direct strikes on US military bases in the Persian Gulf and Iraq, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "15f5886be5ba8c89",
@@ -217,6 +434,44 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "a6a5cfa09d2d2287",
+    "title_original": "Iran Red Crescent says death toll from strike that hit school in south now 108",
+    "content_original": "TEHRAN — The Iranian Red Crescent said the death toll from a strike on Saturday that hit a school in the country&amp;#039;s south has risen to 108, after ...",
+    "url": "https://jordantimes.com/article/10875860/region/iran-red-crescent-says-death-toll-from-strike-that-hit-school-in-south-now-108",
+    "published": "2026-03-01T10:10:00+00:00",
+    "fetched_at": "2026-03-01T08:01:54.998669+00:00",
+    "source_name": "Jordan Times (News)",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran Red Crescent reports 108 dead in school strike in southern Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Iranian Red Crescent announced that the death toll from a strike on a school in southern Iran has increased to 108. This incident highlights the ongoing conflict's impact on civilian infrastructure and raises concerns about potential escalation in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "dead",
+      "strike",
+      "death",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US"
+      ],
+      "location": "southern Iran",
+      "brief": "A deadly airstrike on a school in southern Iran resulted in 108 casualties, indicating a significant escalation in the conflict with potential for further regional instability."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 54.0
   },
   {
     "id": "d02bf74c671da49e",
@@ -325,6 +580,42 @@
       ],
       "location": "Iran",
       "brief": "The US and Israel launched a coordinated attack on Iran during sensitive nuclear negotiations, escalating regional tensions and threatening non-proliferation efforts."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "978991be0cb02e73",
+    "title_original": "Iran's supreme leader Khamenei confirmed dead : Trump",
+    "content_original": "PALM BEACH, United State — US President Donald Trump said Saturday that Iranian supreme leader Ayatollah Ali Khamenei has been killed in air strikes, thou...",
+    "url": "https://jordantimes.com/article/10875858/world/irans-supreme-leader-khamenei-confirmed-dead-trump",
+    "published": "2026-03-01T10:01:00+00:00",
+    "fetched_at": "2026-03-01T08:01:54.999030+00:00",
+    "source_name": "Jordan Times (News)",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran's supreme leader Khamenei reportedly killed in air strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US President Donald Trump claimed that Iran's Supreme Leader Ayatollah Ali Khamenei has been killed in air strikes, which would be a significant escalation in the conflict. If confirmed, this could lead to major instability within Iran and potentially alter the course of the ongoing armed conflict. The claim requires verification given the high stakes and potential misinformation in wartime.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US reportedly conducted airstrikes resulting in the death of Iran's Supreme Leader Ayatollah Ali Khamenei, marking a significant escalation in the conflict."
     },
     "merged_source_count": 7,
     "lat": 32.65,
@@ -619,6 +910,77 @@
     "lng": 35.3
   },
   {
+    "id": "c86a96f4c21492f4",
+    "title_original": "البحرين تؤكد أمام مجلس الأمن أن الهجمات الإيرانية تمثل تصعيدا خطيرا يستهدف منظومة الأمن الجماعي في المنطقة",
+    "content_original": "نيويورك في 28 فبراير /قنا/ أكدت مملكة البحرين أن الهجمات الصاروخية التي تعرضت لها عدد من دوله الأعضاء تمثل تصعيدا خطيرا يستهدف منظومة الأمن الجماعي في المنطقة ويهدد السلم والأمن الإقليمي والدولي.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/البحرين-توكد-امام-مجلس-الامن-ان-الهجمات-الايرانية-تمثل-تصعيدا-خطيرا-يستهدف-منظومة-الامن-الجماعي-في-المنطقة",
+    "published": "2026-03-01T08:01:45.719854+00:00",
+    "fetched_at": "2026-03-01T08:01:45.719857+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Bahrain tells UN Security Council that Iranian attacks are a serious escalation targeting regional security",
+    "relevant": true,
+    "summary_en": "Bahrain has informed the UN Security Council that recent Iranian missile attacks on member states constitute a serious escalation, threatening collective security and regional peace. This highlights the ongoing tensions and potential for broader conflict in the region due to Iranian actions.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "UN Security Council"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran's missile attacks on Bahrain and other regional states are deemed a serious escalation by Bahrain at the UN Security Council, posing a threat to regional security and peace."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "d3eb77094d7ab608",
+    "title_original": "#عمان وكالة الأنباء العمانية: استهداف ميناء الدقم التجاري بطائرتين مسيرتين",
+    "content_original": "#عمان وكالة الأنباء العمانية: استهداف ميناء الدقم التجاري بطائرتين مسيرتين",
+    "url": "https://t.me/Electrohizbullah/156443",
+    "published": "2026-03-01T08:00:02+00:00",
+    "fetched_at": "2026-03-01T08:02:41.326449+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Drone Attack Targets Duqm Commercial Port in Oman",
+    "relevant": true,
+    "summary_en": "Unidentified attackers targeted the Duqm commercial port in Oman with two drones. This incident is significant as Duqm port is a key maritime facility in the region and its targeting could disrupt regional trade and maritime operations. The attack raises concerns about the potential involvement of Iran-linked groups and escalates tensions in the strategically vital Gulf of Oman.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Unidentified attackers",
+        "Oman"
+      ],
+      "location": "Duqm, Oman",
+      "brief": "Unidentified attackers used two drones to target the Duqm commercial port in Oman, a key regional maritime facility, raising concerns about potential proxy involvement and regional trade disruption."
+    },
+    "lat": 19.6230411,
+    "lng": 57.6340004
+  },
+  {
     "id": "d7d9c8eee861cb28",
     "title_original": "В Иране погиб Верховный лидер Али Хаменеи. Спецэфир телеканала РБК",
     "content_original": "В Иране во время военной операции США и Израиля погиб Верховный лидер Ирана Али Хаменеи.",
@@ -694,6 +1056,197 @@
     "lng": 50.55
   },
   {
+    "id": "601fb939004b309f",
+    "title_original": "Dubai airport hit by another Iranian air strike after suicide drone attacks on famous Burj Al Arab hotel and Palm Jumeirah",
+    "content_original": "Dubai airport hit by another Iranian air strike after suicide drone attacks on famous Burj Al Arab hotel and Palm Jumeirah",
+    "url": "https://www.dailymail.co.uk/news/article-15603485/Dubai-airport-hit-Iranian-air-strike-suicide-drone-attacks-famous-Burj-Al-Arab-hotel-Palm-Jumeirah.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T07:55:01+00:00",
+    "fetched_at": "2026-03-01T08:02:29.945177+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iranian air strike hits Dubai airport after attacks on Burj Al Arab and Palm Jumeirah",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched an air strike targeting Dubai airport following earlier suicide drone attacks on the Burj Al Arab hotel and Palm Jumeirah in the UAE. This escalation demonstrates Iran's intent to target critical infrastructure in the Gulf region, posing a direct threat to international commercial hubs. The attacks signify a significant escalation in the conflict with potential regional and global economic repercussions.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "suicide",
+      "drone",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Dubai"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran conducted an airstrike on Dubai airport following earlier attacks on key UAE landmarks, escalating regional tensions and targeting critical infrastructure."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "ce4b28eefdbd041e",
+    "title_original": "#إيران    حرس الثورة: إسقاط طائرة بدون طيار أمريكية من نوع MQ-9. #الإعلام_الحربي",
+    "content_original": "#إيران حرس الثورة: إسقاط طائرة بدون طيار أمريكية من نوع MQ-9. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156441",
+    "published": "2026-03-01T07:54:35+00:00",
+    "fetched_at": "2026-03-01T08:02:41.325409+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran's IRGC claims to have shot down a US MQ-9 drone",
+    "relevant": true,
+    "summary_en": "The IRGC announced the downing of a US MQ-9 Reaper drone, marking a direct engagement with US military assets. This incident occurred within Iranian territory or contested areas, demonstrating ongoing tensions and Iran's capability to target advanced US surveillance technology. The downing signifies an escalation in the conflict and potential retaliation from the US.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "drone",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Iranian territory/contested areas",
+      "brief": "IRGC claims to have shot down a US MQ-9 Reaper drone, indicating direct engagement with US military assets and escalating regional tensions."
+    },
+    "lat": 3.1551993,
+    "lng": 101.7316895
+  },
+  {
+    "id": "1264511405824b04",
+    "title_original": "حمله پهپادی به عمان ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SABER...",
+    "content_original": "حمله پهپادی به عمان ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44940",
+    "published": "2026-03-01T07:52:47+00:00",
+    "fetched_at": "2026-03-01T08:02:40.211995+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Drone Attack on Oman",
+    "relevant": true,
+    "summary_en": "Unidentified drones attacked targets in Oman. This is significant as Oman has been a neutral party in the Iran-US conflict, and any escalation in the region involving Omani territory could draw in additional actors and further destabilize the Gulf region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "drone",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "Unidentified proxies"
+      ],
+      "location": "Oman",
+      "brief": "Unidentified drones attacked targets in Oman, a neutral party in the Iran-US conflict, potentially escalating regional tensions and involving additional actors."
+    },
+    "lat": 21.0000287,
+    "lng": 57.0036901
+  },
+  {
+    "id": "c1b200c1ba3767e9",
+    "title_original": "עכשיו אפשר לספר: זו הפצצה האכזרית בה השתמשו האיראנים במתקפה | אבי אשכנזי",
+    "content_original": "ביממה האחרונה נכנסו לממצב פעולה בפיקוד העורף. ראשית צה״ל פתח במבצע לפגוע ביכולת של המשטר האיראני וכעת אנחנו נמצאים במצב מיוחד בעורף",
+    "url": "https://www.maariv.co.il/news/military/article-1290467",
+    "published": "2026-03-01T07:50:52+00:00",
+    "fetched_at": "2026-03-01T08:01:42.804843+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israel Reveals Details of Iranian Bomb Used in Attack",
+    "relevant": true,
+    "summary_en": "Israel has disclosed information about a particularly brutal bomb used by Iran in a recent attack, indicating a potential escalation in the ongoing conflict. The IDF has initiated operations targeting Iran's capabilities, placing the Israeli home front in a heightened state of readiness. This development underscores the ongoing tensions and mutual strikes between Israel and Iran.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "bomb",
+      "attack",
+      "idf",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Israel",
+      "brief": "Israel reveals details of a brutal Iranian bomb used in a recent attack, indicating escalation as IDF targets Iranian capabilities and raises home front readiness."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "648cf4887d7a35c8",
+    "title_original": "کشته شدن 8 معترض پاکستانی در حمله به کنسولگری آمریکا در کراچی",
+    "content_original": "شفقنا-منبعی در اداره اورژانس کراچی پاکستان اعلام کرد:«8 معترض پاکستانی در پی شهادت رهبر انقلاب اسلامی ایران به هنگام حمله به مقر کنسولگری آمریکا در کراچی به ضرب گلوله نظامیان آمریکایی به شهادت رسیده‌اند.» به گزارش شفقنا به نقل از المیادین، رسانه‌های پاکستانی اعلام کردند طی اعتراضات در مقر کنسولگری آمریکا در کراچی دستکم 20 [&#8230;] نوشته کشته شدن 8 معترض پاکستانی در حمله به کنسولگری آمریکا در کراچی اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222594/",
+    "published": "2026-03-01T07:49:28+00:00",
+    "fetched_at": "2026-03-01T08:01:29.555030+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "8 Pakistani protesters killed in attack on US consulate in Karachi",
+    "relevant": true,
+    "summary_en": "8 Pakistani protesters were killed by American military personnel during a protest at the US consulate in Karachi, following the death of the leader of the Islamic Revolution in Iran. This incident highlights escalating tensions in the region and potential risks to US diplomatic facilities amid regional instability.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Pakistan",
+        "Iranian protesters"
+      ],
+      "location": "Karachi, Pakistan",
+      "brief": "8 Pakistani protesters were killed by US military personnel during a protest at the US consulate in Karachi following the death of the Iranian Supreme Leader, escalating regional tensions."
+    },
+    "merged_source_count": 3,
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
     "id": "786d4a5f725cb611",
     "title_original": "КСИР сообщил об ударах по десяткам баз США и штабу ЦАХАЛ",
     "content_original": "Иран нанес удары более чем по 20 базам США на Ближнем Востоке, зданию командования Армии обороны Израиля (ЦАХАЛ) и оборонному комплексу в Тель-Авиве.",
@@ -734,6 +1287,120 @@
     "lng": 47.0
   },
   {
+    "id": "5e824151e2af27bc",
+    "title_original": "📝 Дубайские огни, иранские ракеты 📝 В ночь с 28 февраля на 1 марта Иран нанёс масштабный ракетно-дроновый удар по объ...",
+    "content_original": "📝 Дубайские огни, иранские ракеты 📝 В ночь с 28 февраля на 1 марта Иран нанёс масштабный ракетно-дроновый удар по объектам Объединённых Арабских Эмиратов в рамках ответной кампании на совместную операцию США и Израиля «Epic Fury». По данным Министерства обороны ОАЭ, Иран выпустил более 130 баллистических ракет и порядка 200 ударных и барражирующих дронов — подавляющее большинство, по заявлениям местного МО, было якобы перехвачено эмиратской системой ПВО при поддержке союзников. 🔻 Тем не менее заметная часть ракет и дронов до целей прорвалась: ▪️ Повреждения получили Дубайский международный аэропорт и внешние конструкции отеля Burj Al Arab, в разных районах Дубая и Абу-Даби зафиксированы пожары и материальный ущерб от обломков перехваченных ракет. Один человек погиб в Абу-Даби, ещё несколько получили ранения. ▪️ Оба крупнейших аэропорта ОАЭ временно прекращали работу; параллельно было закрыто воздушное пространство над Ираком, Кувейтом, Бахрейном, Катаром, что вызвало масштабные сбои в ...",
+    "url": "https://t.me/rybar/77976",
+    "published": "2026-03-01T07:43:44+00:00",
+    "fetched_at": "2026-03-01T08:02:34.948295+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran launches large-scale missile and drone attack on UAE in response to US-Israel 'Epic Fury' operation",
+    "relevant": true,
+    "summary_en": "Iran launched a major missile and drone attack targeting the UAE, firing over 130 ballistic missiles and around 200 attack and loitering drones in retaliation for the US-Israel 'Epic Fury' operation. Despite UAE claims that most projectiles were intercepted, significant damage was reported to Dubai International Airport and the Burj Al Arab hotel, indicating a partial breakthrough of Iranian munitions.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "attack",
+      "drone",
+      "ballistic",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US",
+        "Israel"
+      ],
+      "location": "UAE",
+      "brief": "Iran launched a major ballistic missile and drone attack on the UAE, firing over 130 missiles and 200 drones in retaliation for the US-Israel 'Epic Fury' operation, causing significant damage despite interception claims."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "9f6ed89018d7d863",
+    "title_original": "صدای انفجار قوی در قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SA...",
+    "content_original": "صدای انفجار قوی در قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44937",
+    "published": "2026-03-01T07:43:12+00:00",
+    "fetched_at": "2026-03-01T08:02:40.210534+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Loud Explosion Heard in Qatar",
+    "relevant": true,
+    "summary_en": "An explosion occurred in Qatar, which is significant due to Qatar hosting major US military bases, including Al Udeid Air Base. The incident's strategic importance relates to potential threats to US forces and assets in the region amid the ongoing Iran-US conflict. The cause of the explosion and any potential link to the conflict require further investigation.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "explosion",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Qatar",
+        "IRGC proxies"
+      ],
+      "location": "Qatar",
+      "brief": "An explosion in Qatar, home to major US military bases, raises concerns of proxy operations amid the Iran-US conflict."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "0553ecd9a2d53ea5",
+    "title_original": "⚡ ⚡ 🇵🇸 🇮🇷  The Tel Aviv Municipality reports 40 buildings damaged by Iranian missiles. @medmannews",
+    "content_original": "⚡ ⚡ 🇵🇸 🇮🇷 The Tel Aviv Municipality reports 40 buildings damaged by Iranian missiles. @medmannews",
+    "url": "https://t.me/CIG_telegram/69764",
+    "published": "2026-03-01T07:42:46+00:00",
+    "fetched_at": "2026-03-01T08:02:36.824929+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "40 buildings in Tel Aviv damaged by Iranian missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missiles targeting Tel Aviv, resulting in damage to 40 buildings. This attack signifies a significant escalation in the conflict, demonstrating Iran's capability to strike Israeli urban centers and prompting potential Israeli retaliation.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran launched ballistic missiles targeting Tel Aviv, causing significant damage to 40 buildings, marking a major escalation in the conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
     "id": "b5a12c8fb8ae62d6",
     "title_original": "Khamenei — the supreme leader who held ultimate control over Iran’s political, military, religious institutions",
     "content_original": "Iran’s Supreme Leader Ayatollah Ali Khamenei, who ruled he Islamic republic for over 30 years, has been killed in a an strike by US and Israel — the two countries that had been calling for a regime change in Tehran. Khamenei, 86, became Iran’s highest authority in 1989, following the death of the Islamic Republic’s founder, Ayatollah Ruhollah Khomeini. He remained in power after overcoming 1999 student demonstrations, 2009 mass protests sparked by disputed presidential elections and 2019 demonstrations that were brutally suppressed. He also survived the 2022-2023 “Woman, Life, Freedom” movement sparked by the death in custody of Iranian Kurdish woman Mahsa Amini, who had been arrested for allegedly violating the strict dress code for women. As supreme leader, he held ultimate control over Iran’s political, military and religious institutions, shaping domestic policy and guiding foreign relations. An article published in Al Jazeera said “critical to Khamenei’s power is the loyalty of tw...",
@@ -771,6 +1438,78 @@
     "merged_source_count": 7,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "eece1ec9164de6e0",
+    "title_original": "Revenge! Revenge!",
+    "content_original": "Revenge! Revenge!",
+    "url": "https://www.tehrantimes.com/news/524361/Revenge-Revenge",
+    "published": "2026-03-01T07:39:07+00:00",
+    "fetched_at": "2026-03-01T08:01:18.874205+00:00",
+    "source_name": "Tehran Times",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Revenge! Revenge!",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The headline suggests a retaliatory action or statement likely from Iranian or Iranian-backed forces, indicating a potential escalation in the ongoing conflict. This could involve attacks on US or allied forces, or infrastructure, in response to previous US or Israeli operations. The strategic significance would depend on the specific actions taken and their scale.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|proxy_operation|escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iranian-backed militias",
+        "possible Israel"
+      ],
+      "location": "Middle East (likely Iraq, Syria, or Persian Gulf region)",
+      "brief": "The headline 'Revenge! Revenge!' indicates a likely retaliatory attack by Iranian or Iranian-backed forces against US or allied targets, signaling a significant escalation in the conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "39c34e303bbf177e",
+    "title_original": "Trump promises to hit Iran 'with a force that has never been seen before' as dozens of US military bases are targeted after Iran launches 'the most ferocious offensive operation in HISTORY'",
+    "content_original": "Trump promises to hit Iran 'with a force that has never been seen before' as dozens of US military bases are targeted after Iran launches 'the most ferocious offensive operation in HISTORY'",
+    "url": "https://www.dailymail.co.uk/news/article-15603455/trump-iran-attack-launch.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T07:38:36+00:00",
+    "fetched_at": "2026-03-01T08:02:29.945647+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Trump vows unprecedented retaliation as US bases targeted in Iran's major offensive",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a large-scale offensive against dozens of US military bases, marking a significant escalation in the conflict. In response, former US President Trump promised an unprecedented level of force against Iran. This development indicates heightened tensions and potential for further escalation in the ongoing armed conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "offensive",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Western Asia",
+      "brief": "Iran launched a large-scale offensive targeting dozens of US military bases, marking a significant escalation in the conflict with promises of unprecedented retaliation from the US."
+    },
+    "lat": 6.9474195,
+    "lng": 79.8625184
   },
   {
     "id": "f9e7e90734960358",
