@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-03-01T21:39:36.205892+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 730,
+    "incident_count_6h": 192,
+    "severity_breakdown": {
+      "major": 322,
+      "high": 274,
+      "medium": 131,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 134,
+    "articles_analyzed": 162,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated significantly in the past 4 hours with confirmed US casualties now totaling 8 (3 killed in action, 5 wounded) across Gulf operations. Iran has expanded its retaliatory campaign with IRGC claiming to hit 3 US/British oil tankers, strike the Al-Salem base in Kuwait (completely put out of service), and continue missile barrages against Israeli civilian centers including Jerusalem. CENTCOM claims the IRGC no longer has a functioning headquarters. The conflict has expanded geographically with the UAE closing its Tehran embassy and Gulf markets suspending trading, while Britain approved US use of British bases for strikes on Iran.",
+  "whatsets_new": [
+    "CENTCOM confirms IRGC no longer has a functioning headquarters - major degradation of Iranian military command structure",
+    "IRGC claims 3 US and British oil tankers struck in Gulf, Al-Salem base in Kuwait completely put out of service",
+    "Britain approved US request to use British bases for strikes on Iran - significant escalation of UK participation",
+    "UAE closes embassy in Tehran and withdraws all diplomatic staff following Iranian missile attacks on Gulf",
+    "UAE stock markets (Abu Dhabi Securities Exchange, Dubai Financial Market) closed March 2-3",
+    "Israel closes all Gaza crossings and tightens siege following Iran war outbreak",
+    "Reports of 153 girls killed in US-Israeli strike on a school in Iran (single source, unverified)"
+  ],
+  "confirmed_events": [
+    "Three US service members killed, five wounded in combat operations against Iran - confirmed by CENTCOM",
+    "Iranian ballistic missiles struck Beit Shemesh, killing 9 civilians and leaving 11 missing",
+    "US strikes destroyed Chabahar/Konarak naval/airbase in eastern Iran - satellite imagery confirms extensive damage",
+    "Gandhi Hospital in Tehran targeted by US-Israeli airstrike - nurses evacuating newborn babies",
+    "Iranian missiles penetrated Israeli air defenses, striking occupied Jerusalem - 7 injured",
+    "Trump projects 4-week timeline for Iran operations, claims 48 Iranian leaders killed"
+  ],
+  "unverified_emerging": [
+    "Reports of at least 153 girls killed in strike on school in Iran - single source claim requiring verification",
+    "IRGC claim they struck USS Abraham Lincoln - Pentagon denies this report",
+    "Israeli official claims Iran's ballistic missile launchers reduced by half - unconfirmed by independent sources"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Gulf airports closures and widespread flight disruptions ongoing",
+      "UAE capital markets authority ordered market closure March 2-3 to monitor regional developments"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz under threat - Iran threatens closure, targeting oil tankers",
+      "Chabahar/Konarak naval base destruction impacts Iranian strategic logistics corridor",
+      "Three US/British oil tankers reportedly struck - significant energy supply chain risk"
+    ],
+    "market_macro": [
+      "UAE stock markets closed March 2-3 - first such closure since pandemic",
+      "Gulf business disruption described as 'most widespread since pandemic'",
+      "Global oil markets on edge as Iran war threatens supplies through Strait of Hormuz"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue escalating over the next 24-72h with Iran leveraging proxy forces (Hezbollah, Iraqi Resistance, Houthis) and direct missile strikes on Gulf assets and Israeli civilian targets. US will maintain pressure with continued strikes on Iranian territory. The 4-week timeline Trump mentioned suggests sustained high-intensity operations. IRGC degraded but still operational - expect continued asymmetric retaliation.",
+    "escalation_risks": [
+      "Iran closing Strait of Hormuz - would catastrophically disrupt global oil supply",
+      "Sleeper cell attacks on US soil - counterterrorism agencies monitoring Iran-linked cells",
+      "Escalation to direct Iran-NATO confrontation if British bases used for expanded operations",
+      "Israeli strikes on Iranian nuclear facilities - potential WMD dimension",
+      "Expanded Gulf state involvement leading to regional war"
+    ],
+    "de_escalation_pathways": "Trump's statement he's 'prepared to talk to Iran's surviving leadership' provides diplomatic off-ramp. However, both US and Israel appear focused on maximizing military gains before any negotiation. Gulf state mediation (UAE, Saudi Arabia) possible but currently aligned with US. Any de-escalation requires: Iranian acceptance of capability degradation, US/Israel satisfaction with military objectives, or external pressure from Russia/China."
+  }
+}

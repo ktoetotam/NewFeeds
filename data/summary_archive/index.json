@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T21-39-36.205892_plus_00-00.json",
+    "generated_at": "2026-03-01T21:39:36.205892+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 730,
+    "summary_preview": "The Iran-US conflict has escalated significantly in the past 4 hours with confirmed US casualties now totaling 8 (3 killed in action, 5 wounded) across Gulf operations. Iran has expanded its retaliato"
+  },
+  {
     "filename": "2026-03-01T21-07-18.952040_plus_00-00.json",
     "generated_at": "2026-03-01T21:07:18.952040+00:00",
     "threat_label": "MAJOR",
