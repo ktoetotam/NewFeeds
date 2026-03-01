@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T05-19-47.123578_plus_00-00.json",
+    "generated_at": "2026-03-01T05:19:47.123578+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 310,
+    "summary_preview": "The Iran–US conflict has escalated to critical levels following US-Israeli strikes on Iran that reportedly killed Supreme Leader Ali Khamenei and targeted over 20 Iranian provinces. Iran has launched "
+  },
+  {
     "filename": "2026-03-01T04-44-46.861450_plus_00-00.json",
     "generated_at": "2026-03-01T04:44:46.861450+00:00",
     "threat_label": "MAJOR",

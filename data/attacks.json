@@ -1,5 +1,40 @@
 [
   {
+    "id": "4376c3871a7f72d3",
+    "title_original": "U.S., Israel clash with Iran in UNSC, as U.N. chief Guterres warns of uncontrollable ‘chain of events’",
+    "content_original": "The powerful 15-nation U.N. body met just hours after the U.S. and Israel launched military strikes against Iran and the subsequent attacks by Tehran",
+    "url": "https://www.thehindu.com/news/international/us-israel-clash-with-iran-in-unsc-as-un-chief-guterres-warns-of-uncontrollable-chain-of-events/article70690735.ece",
+    "published": "2026-03-01T10:42:41+05:30",
+    "fetched_at": "2026-03-01T05:29:53.460556+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "US and Israel clash with Iran at UNSC as UN chief warns of escalation",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The UN Security Council convened after the US and Israel conducted military strikes against Iran, prompting retaliatory attacks by Tehran. UN Secretary-General Guterres warned of a potential 'chain of events' spiraling out of control, highlighting the risk of further escalation in the conflict. This signifies heightened diplomatic tensions alongside ongoing military hostilities.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "clash"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "UN"
+      ],
+      "location": "UN Security Council",
+      "brief": "US and Israel clash with Iran at UNSC amid escalating military strikes and retaliatory attacks, prompting UN warning of potential regional escalation."
+    }
+  },
+  {
     "id": "c11ab5775ea5ff94",
     "title_original": "A new war",
     "content_original": "UNLESS there is an immediate diplomatic breakthrough, the joint Israeli-American aggression against Iran launched on Saturday morning has the potential to create a maelstrom across the Middle East and beyond. Already hostilities have spread, as the Iranians, along with lobbing missiles at Israel, have also hit American military facilities in several Gulf states, just as they threatened they would in the run-up to this unfolding disaster. For Iran’s rulers, this is the third time they have been double-crossed by US President Donald Trump. The first time was when Mr Trump withdrew from the JCPOA in 2018, the second when America joined Israel in the 12-day war last year. On Thursday, after talks in Geneva, it had seemed that things might be moving towards a resolution, particularly on the nuclear issue, with the Omani foreign minister saying that “peace … is within our reach”. But clearly, the US and Israel had other ideas. Mr Trump has referred to himself as a man of peace , claiming tha...",
@@ -33,6 +68,80 @@
     },
     "lat": 35.5577724,
     "lng": -79.2854845
+  },
+  {
+    "id": "194edfac2fe2af75",
+    "title_original": "В Белгородской области при атаке ВСУ пострадали два человека",
+    "content_original": "Мужчину доставили в Шебекинскую ЦРБ бойцы самообороны, женщина обратилась в больницу самостоятельно",
+    "url": "https://tass.ru/proisshestviya/26596189",
+    "published": "2026-03-01T08:15:51+03:00",
+    "fetched_at": "2026-03-01T05:29:29.006740+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Two injured in Ukrainian attack on Belgorod region",
+    "relevant": true,
+    "summary_en": "Two civilians were injured in an attack by Ukrainian forces in Russia's Belgorod region. The incident involved a man being taken to a local hospital by self-defense forces and a woman seeking medical attention independently. This marks an escalation in cross-border incidents amid the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "location": "Belgorod region, Russia",
+      "brief": "An attack by Ukrainian forces in Russia's Belgorod region resulted in two civilian injuries, marking an escalation in cross-border incidents."
+    },
+    "lat": 50.5965678,
+    "lng": 36.5878916
+  },
+  {
+    "id": "472d918e1f22ddb7",
+    "title_original": "Жители Тель-Авива не могут покинуть бомбоубежища из-за иранских обстрелов",
+    "content_original": "Жители Тель-Авива не могут покинуть бомбоубежища из-за иранских обстрелов",
+    "url": "https://ria.ru/20260301/izrail-2077591647.html",
+    "published": "2026-03-01T08:12:53+03:00",
+    "fetched_at": "2026-03-01T05:29:29.822854+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tel Aviv residents trapped in bomb shelters due to Iranian attacks",
+    "relevant": true,
+    "summary_en": "Iranian attacks have forced residents of Tel Aviv to remain in bomb shelters, indicating ongoing hostilities and threats to civilian populations in Israel. This suggests a significant escalation in the conflict, with potential implications for regional stability and civilian safety. The situation highlights the continued threat posed by Iranian missile and drone strikes on Israeli territory.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "drone",
+      "missile",
+      "bomb"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iranian attacks have escalated the conflict, forcing Tel Aviv residents into bomb shelters, indicating a significant threat to civilian populations and regional stability."
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "10575ebc31d9999b",
@@ -707,6 +816,80 @@
     "lng": 55.27
   },
   {
+    "id": "b283c07eff77fd0c",
+    "title_original": "صدای انفجار در اهواز  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SAB...",
+    "content_original": "صدای انفجار در اهواز ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44926",
+    "published": "2026-03-01T05:29:35+00:00",
+    "fetched_at": "2026-03-01T05:30:16.164341+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosion Heard in Ahvaz",
+    "relevant": true,
+    "summary_en": "An explosion has been reported in Ahvaz, Iran. This could be significant given the ongoing conflict, as Ahvaz is a strategic city near the Iraqi border and has been a target in past regional tensions. The incident's cause and impact on the military situation are yet to be confirmed.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "IRGC proxies",
+        "potential Iraqi elements"
+      ],
+      "location": "Ahvaz, Iran",
+      "brief": "An explosion in Ahvaz, a strategic city near the Iraqi border, indicates potential proxy activity amid ongoing regional tensions."
+    },
+    "lat": 31.32,
+    "lng": 48.69
+  },
+  {
+    "id": "4079808141b9f94d",
+    "title_original": "کانال ۱۲ رژیم صهیونسیتی: ایران حدود یک ساعت است که دارد به‌طور مداوم موشک‌هایی را به سمت اسرائیل شلیک می‌کند ـ ـ ـ ـ ...",
+    "content_original": "کانال ۱۲ رژیم صهیونسیتی: ایران حدود یک ساعت است که دارد به‌طور مداوم موشک‌هایی را به سمت اسرائیل شلیک می‌کند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44925",
+    "published": "2026-03-01T05:28:24+00:00",
+    "fetched_at": "2026-03-01T05:30:16.163832+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran Continues Missile Barrage on Israel for One Hour",
+    "relevant": true,
+    "summary_en": "Iran has been launching a sustained missile attack on Israel for the past hour. This represents a significant escalation in the ongoing conflict, directly involving Iranian forces in strikes against Israeli territory. The military significance is high as it indicates direct engagement between Iran and Israel, potentially widening the conflict's scope.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Israel",
+      "brief": "Iran launches sustained ballistic missile attack on Israel for one hour, marking a major escalation with direct engagement between Iran and Israeli territory."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "808f2287561781cb",
     "title_original": "КСИР объявил о начале самого мощного наступления в истории Ирана",
     "content_original": "Иран начнет самую мощную наступательную операцию в его истории &laquo;через несколько мгновений&raquo;, сообщила пресс-служба Корпуса стражей исламской революции (КСИР) на фоне смерти верховного лидера Али Хаменеи.",
@@ -746,6 +929,43 @@
     "merged_source_count": 4,
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "d6b1f0042c76be88",
+    "title_original": "مراسم سوگواری شهادت رهبر انقلاب اسلامی در حرم امام رضا(ع)",
+    "content_original": "شفقنا- مراسم عزاداری شهادت رهبر انقلاب اسلامی از ساعتی پیش در حرم امام رضا (ع) آغاز شد. به گزارش شفقنا، از سحرگاه امروز ۱۰ اسفند و با اعلام رسمی خبر شهادت رهبر انقلاب، حضرت آیت‌الله خامنه‌ای، در حمله تروریستی آمریکایی-صهیونیستی، بسیاری از مردم مشهد برای عزاداری راهی حرم امام رضا(ع) شدند. همچنین در دقایق نخست اعلام [&#8230;] نوشته مراسم سوگواری شهادت رهبر انقلاب اسلامی در حرم امام رضا(ع) اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222496/",
+    "published": "2026-03-01T05:26:07+00:00",
+    "fetched_at": "2026-03-01T05:29:28.102911+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Mourning Ceremony for the Martyrdom of Iran's Supreme Leader at Imam Reza Shrine",
+    "relevant": true,
+    "summary_en": "A mourning ceremony for the reported martyrdom of Iran's Supreme Leader Ayatollah Khamenei, following a US-Israeli terrorist attack, has begun at the Imam Reza Shrine in Mashhad. The ceremony started after the official announcement of his death on the morning of the 10th of Esfand, drawing many mourners to the shrine. This event signifies a significant escalation in the ongoing conflict and potential shifts in Iran's leadership and military strategy.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Mashhad, Iran",
+      "brief": "A US-Israeli attack reportedly killed Iran's Supreme Leader Ayatollah Khamenei, escalating tensions to a major level with direct implications for regional stability."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "c413ef5aae65dd41",
@@ -825,6 +1045,47 @@
     "lng": 54.0
   },
   {
+    "id": "dc9dfc05101ab913",
+    "title_original": "Admiral Shamkhani, Major General Pakpour martyred in US-Israeli aggression against Iran",
+    "content_original": "Shafaqna English- Admiral Ali Shamkhani and the Major General of IRGC, Mohammad Pakpour, were martyred on Saturday (February 28, 2026) in US-Israeli aggression against Iran, Irna reported. Source: Shafaqna Persian www.shafaqna.com",
+    "url": "https://en.shafaqna.com/442767/admiral-shamkhani-major-general-pakpour-martyred-in-us-israeli-aggression-against-iran/",
+    "published": "2026-03-01T05:20:11+00:00",
+    "fetched_at": "2026-03-01T05:29:26.695035+00:00",
+    "source_name": "Shafaqna English",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Admiral Shamkhani and IRGC Major General Pakpour killed in US-Israeli attack on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian officials Admiral Ali Shamkhani and IRGC Major General Mohammad Pakpour were reportedly killed in a US-Israeli strike on Iran. This represents a significant escalation, targeting high-ranking military and security leadership. The incident is likely to provoke a strong response from Iran and further intensify the ongoing conflict.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "irgc",
+      "strike",
+      "conflict",
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli strike kills top Iranian security officials Admiral Shamkhani and IRGC Major General Pakpour, marking a significant escalation in US-Iran tensions."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "dc4b4cb9fafd1c6f",
     "title_original": "СМИ: ПВО Тегерана отражает атаку",
     "content_original": "СМИ: ПВО Тегерана отражает атаку",
@@ -859,6 +1120,78 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "f60614c10ed12562",
+    "title_original": "شنیده‌شدن صدای چندین انفجار مهیب در دبی و دوحه/آژیرها در کویت به صدا درآمدند",
+    "content_original": "شفقنا &#8211; شاهدان عینی روز یکشنبه و برای دومین روز متوالی اعلام کردند که صدای چندین انفجار مهیب در دبی و بر فراز دوحه، پایتخت قطر، شنیده شده است. به گزارش سرویس ترجمه شفقنا، آمریکا و اسرائیل روز شنبه حمله‌ای را علیه ایران آغاز کردند و سایت‌های نظامی و مناطق مسکونی را هدف قرار دادند [&#8230;] نوشته شنیده‌شدن صدای چندین انفجار مهیب در دبی و دوحه/آژیرها در کویت به صدا درآمدند اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222489/",
+    "published": "2026-03-01T05:15:18+00:00",
+    "fetched_at": "2026-03-01T05:29:28.103383+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Multiple explosions heard in Dubai and Doha, air raid sirens in Kuwait",
+    "relevant": true,
+    "summary_en": "Explosions were reported in Dubai and Doha, while air raid sirens sounded in Kuwait, likely linked to ongoing US-Israel strikes against Iran. This indicates potential escalation and threats to regional stability and civilian safety in Gulf states.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "Gulf states"
+      ],
+      "location": "Dubai, Doha, Kuwait",
+      "brief": "Explosions in Dubai and Doha and air raid sirens in Kuwait suggest escalation of US-Israel strikes against Iran, threatening regional stability and civilian safety."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "2fa6e86eb5b139ad",
+    "title_original": "Iran ‘internationalises battlefield’ as retaliatory missiles put Gulf in firing line",
+    "content_original": "Thunderous blasts ⁠and towering fireballs from Iranian missiles streaking across Gulf states vindicated their ⁠leaders’ long-held fears that Tehran can bring war to their doorstep, likely to harden Arab rulers’ support for US-Israeli strikes. Even in the Palm, Dubai’s swankiest resort, explosions rattled buildings and hit a luxury hotel, sending panicked residents running for cover as missiles and interceptors tore across the sky. It was a stark sign that the conflict had spilled beyond Iran’s...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3345006/iran-internationalises-battlefield-retaliatory-missiles-put-gulf-firing-line?utm_source=rss_feed",
+    "published": "2026-03-01T05:15:09+00:00",
+    "fetched_at": "2026-03-01T05:29:50.509996+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true,
+    "title_en": "Iran escalates conflict by targeting Gulf states with retaliatory missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory missiles targeting Gulf states, including the UAE, causing explosions in areas like Dubai's Palm resort and a luxury hotel. This escalation indicates the conflict is spilling beyond Iran's borders and is likely to solidify Arab states' support for US-Israeli operations against Iran.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UAE",
+        "Gulf states"
+      ],
+      "location": "Gulf states, UAE (Dubai)",
+      "brief": "Iran escalated the conflict by launching ballistic missiles targeting Gulf states, including UAE's Dubai, causing significant damage and indicating a major regional escalation."
+    },
+    "lat": 24.0,
+    "lng": 54.0
   },
   {
     "id": "82eb464094fa9738",
