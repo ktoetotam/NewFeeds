@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-03-01T01:09:26.535527+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 241,
+    "incident_count_6h": 158,
+    "severity_breakdown": {
+      "major": 79,
+      "high": 93,
+      "medium": 66,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 242,
+    "articles_analyzed": 1873,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran–US conflict has escalated to MAJOR Level 1 (Score 1390) following a US-Israeli coordinated airstrike on Iran on 2026-02-28. Iran has responded with massive ballistic missile barrages against Israel and strikes on 14+ US military bases across Iraq, Saudi Arabia, Kuwait, Qatar, Bahrain, and the UAE. Unconfirmed reports claim Iran's Supreme Leader Khamenei was killed in the strikes. The 24h window recorded 241 incidents (79 Major, 93 High). Regional airspace closures have caused thousands of flight cancellations. The conflict trajectory indicates continued escalation with Iran threatening further retaliation.",
+  "whats_new": [
+    "IRGC announced phases 3 and 4 of 'Operation True Promise 4' targeting US and Israeli assets with more advanced missiles",
+    "Iran struck Dubai targeting Palm Jumeirah, Burj Al Arab, and Dubai airport — four people injured at Palm Jumeirah",
+    "UN Secretary-General Antonio Guterres condemned US-Israeli aggression and warned of uncontrollable escalation",
+    "Trump claims Khamenei 'confirmed dead' — Iranian officials dismiss as psychological warfare; no independent confirmation",
+    "Israeli airstrikes hit Iranian Navy base in Khorramshahr, destroying a frigate"
+  ],
+  "confirmed_events": [
+    "US and Israel launched coordinated airstrikes on 20+ Iranian provinces, targeting IRGC centers and government facilities (2026-02-28T06:16)",
+    "Iran launched ballistic missile barrages on Israel (Haifa, Galilee region) — multiple waves reported (2026-02-28 08:20–16:58)",
+    "Iran struck 14 US military bases across Iraq, Syria, Gulf region — IRGC claims mass casualties (unverified)",
+    "IRGC Navy attacked US Navy support ship with missiles in Gulf/Arabian Sea region",
+    "Multiple Gulf states (Iran, Iraq, Israel, Syria, Kuwait, UAE) closed airspace — thousands of flight cancellations",
+    "Saudi Crown Prince spoke with Trump; UAE condemned Iranian missile attacks targeting it",
+    "UN humanitarian chief emphasizes need to protect civilians amid ongoing strikes"
+  ],
+  "unverified_emerging": [
+    "Khamenei death: Trump claims confirmed dead, Iranian officials deny; family members reportedly killed — source: Trump statement, Fars news agency, single-source unverified",
+    "IRGC claims 200 US military personnel killed in Iranian strikes — no independent confirmation; source: IRGC statement",
+    "IRGC claims 201 dead and 747 injured across 24 Iranian provinces — source: Iranian Red Crescent, single source",
+    "School strike in southern Iran (Minab) killed 80+ children — US/Israel suspected, no independent attribution confirmed",
+    "CIA facility in Dubai targeted by ballistic missiles — source: Hezbollah Electronic Army, unverified",
+    "Iranian VP assumes wartime leadership, Pezeshkian status unclear — source: Jerusalem Post"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Multiple Middle Eastern countries closed airspace: Iran, Iraq, Israel, Syria, Kuwait, UAE",
+      "Thousands of flights cancelled across the region",
+      "Israelis stranded in Bahrain and Saudi Arabia unable to return home"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz remains open but under threat — significant risk to oil shipping lanes",
+      "Dubai airport and Jebel Ali seaport targeted in Iranian strikes — operational disruptions reported",
+      "Major cargo routes through Gulf region face elevated risk"
+    ],
+    "market_macro": [
+      "Oil prices face significant upward pressure due to Iran's role as major producer and Strait of Hormuz threats",
+      "Global market volatility expected as conflict escalates — experts warn of regional economic impact",
+      "Trump properties in Dubai reportedly attacked — signals targeting of US-linked commercial assets"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is on an escalating trajectory with no de-escalation signals. Iran has demonstrated capability and willingness to conduct large-scale simultaneous attacks on multiple US bases and Israeli targets. IRGC's announcement of continued waves (phases 3–4) suggests further retaliation is planned. If Khamenei's death is confirmed, leadership chaos may either paralyze or further radicalize Iranian response. US-Israeli forces will likely continue degrading Iranian military assets. Expect sustained intensity with daily major incidents for at least 48–72 hours.",
+    "escalation_risks": [
+      "Khamenei's confirmed death could trigger erratic or maximum-pressure Iranian response including WMD threshold actions",
+      "Expanded Houthi involvement in Red Sea could open new front",
+      "Israeli ground operations or expanded strikes on Iranian nuclear facilities",
+      "China or Russia intervention escalating to great power confrontation",
+      "Iranian attacks on Gulf oil infrastructure triggering global energy crisis"
+    ],
+    "de_escalation_pathways": "Unlikely in 24–72h window. Possible pathways include: major power mediation (Turkey, China, Russia) pushing for ceasefire; complete collapse of Iranian command structure post-Khamenei; US domestic political pressure (war powers legislation) constraining further strikes; or overwhelming US-Israeli degradation of Iranian capacity forcing Tehran to accept negotiated settlement. Currently no diplomatic channel active — UN Secretary-General's regrets highlight failed diplomacy."
+  }
+}
