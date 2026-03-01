@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T06-36-29.090955_plus_00-00.json",
+    "generated_at": "2026-03-01T06:36:29.090955+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 337,
+    "summary_preview": "The Iran-US conflict has reached MAJOR escalation with 337 incidents in 24h. On 2026-02-28, US-Israel conducted coordinated airstrikes on 20+ Iranian provinces, while Iran launched ballistic missile b"
+  },
+  {
     "filename": "2026-03-01T06-18-34.236767_plus_00-00.json",
     "generated_at": "2026-03-01T06:18:34.236767+00:00",
     "threat_label": "MAJOR",

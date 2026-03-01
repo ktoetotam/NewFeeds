@@ -1,5 +1,45 @@
 [
   {
+    "id": "eba6d8a2bccdeff1",
+    "title_original": "Iran fires missiles at Israel, Gulf states after US-Israeli strike kills Khamenei",
+    "content_original": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
+    "url": "https://www.thehindu.com/news/international/iran-fires-missiles-at-israel-gulf-states-after-us-israeli-strike-kills-khamenei/article70690869.ece",
+    "published": "2026-03-01T12:16:01+05:30",
+    "fetched_at": "2026-03-01T06:51:35.354687+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Iran launches missile attacks on Israel and Gulf states following US-Israeli strike that killed Khamenei",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran retaliated by firing missiles at Israel and Gulf states after a US-Israeli airstrike killed Supreme Leader Khamenei in Tehran. This escalation significantly raises regional tensions and the risk of further military confrontations. The strikes mark a dramatic intensification of the conflict following the assassination of Iran's highest authority.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "airstrike",
+      "killed",
+      "missile",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Gulf states"
+      ],
+      "location": "Israel, Gulf states",
+      "brief": "Iran launched ballistic missile attacks on Israel and Gulf states in retaliation for a US-Israeli airstrike that killed Supreme Leader Khamenei, significantly escalating regional tensions and risk of further military confrontation."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "bde73532f32a4945",
     "title_original": "Is Dubai airport open today? What we know after Iranian missile strikes damage site, iconic Burj Al Arab hotel",
     "content_original": "A temporary partial closure of the UAE airspace has impacted flights, including those operated by Dubai International Airport-based airlines Emirates, flydubai.",
@@ -103,6 +143,79 @@
       "location": "UN Security Council",
       "brief": "US and Israel clash with Iran at UNSC amid escalating military strikes and retaliatory attacks, prompting UN warning of potential regional escalation."
     }
+  },
+  {
+    "id": "808f236db13b096d",
+    "title_original": "Fars: Иран ударил по военной базе США в Курдистане",
+    "content_original": "Американский объект был атакован второй раз за последние несколько часов",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26596561",
+    "published": "2026-03-01T09:38:54+03:00",
+    "fetched_at": "2026-03-01T06:50:57.579416+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes US Military Base in Kurdistan",
+    "relevant": true,
+    "summary_en": "Iran has attacked a US military base in Kurdistan for the second time in several hours. This action represents an escalation in the ongoing conflict, targeting US assets in Iraq. The strikes highlight Iran's continued efforts to pressure US forces in the region and may provoke further retaliatory measures.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iraq"
+      ],
+      "location": "Kurdistan, Iraq",
+      "brief": "Iran launched a second attack on a US military base in Kurdistan, escalating tensions and targeting US assets in Iraq."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "98371358782db97c",
+    "title_original": "В Тегеране прогремела серия взрывов",
+    "content_original": "В Тегеране прогремела серия взрывов",
+    "url": "https://ria.ru/20260301/tegeran-2077604285.html",
+    "published": "2026-03-01T09:37:33+03:00",
+    "fetched_at": "2026-03-01T06:50:58.196427+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Series of Explosions Rock Tehran",
+    "relevant": true,
+    "summary_en": "A series of explosions occurred in Tehran, likely impacting strategic or military infrastructure. This event is significant as it may indicate internal sabotage or external strikes amidst the ongoing conflict, potentially targeting IRGC or other military assets. The explosions could signify an escalation in covert operations within Iran.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike|airstrike|proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "A series of explosions in Tehran likely targeting strategic or military infrastructure, indicating potential escalation in the Iran-US conflict with possible involvement of external actors."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "c11ab5775ea5ff94",
@@ -660,6 +773,44 @@
     "lng": 34.8
   },
   {
+    "id": "00b862fa2b8ccc29",
+    "title_original": "חיסול חמינאי והתגובה האיראנית - מדינות המפרץ חוששות | עדכונים שוטפים",
+    "content_original": "אחרי חיסול חמינאי ובכירים נוספים, איראן פתחה בתגובה. לא רק ישראל על הכוונת, אלא גם מדינות המפרץ ויעדים אמריקאיים נוספים",
+    "url": "https://www.maariv.co.il/news/world/Blog-1290443",
+    "published": "2026-03-01T06:47:40+00:00",
+    "fetched_at": "2026-03-01T06:51:06.896656+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Assassination of Khamenei and Iranian Retaliation - Gulf States Concerned",
+    "relevant": true,
+    "summary_en": "Iran has launched retaliatory attacks following the assassination of Ayatollah Khamenei and other senior officials. Targets include not only Israel but also Gulf states and additional American assets. This escalation significantly raises tensions and the risk of regional conflict expansion, involving multiple US allies and interests.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Gulf States",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "Iran has launched retaliatory attacks targeting US assets, Israel, and Gulf states following the assassination of Ayatollah Khamenei, significantly escalating regional tensions and risk of broader conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "1b1b4bc0bdd27094",
     "title_original": "Iran-Israel conflict LIVE: Israel launches fresh strikes on Iran missile, air defence sites",
     "content_original": "The United States and Israel defended their attacks on Iran, which called resulting civilian deaths a \"war crime\" during an UNSC emergency meeting",
@@ -735,6 +886,116 @@
     "lng": 51.23
   },
   {
+    "id": "d8acb909fb28e15a",
+    "title_original": "📝 В любой непонятной ситуации громи посольство 📝 о протестах в Ираке После официального объявления о смерти  Али Хаме...",
+    "content_original": "📝 В любой непонятной ситуации громи посольство 📝 о протестах в Ираке После официального объявления о смерти Али Хаменеи в соседнем Ираке начались беспорядки. Правоверные шииты вместе с религиозными фанатиками занялись привычным делом: попытками прорваться в Зелёную зону Багдада к посольству США . 📌 В Ираке находится одно из самых больших американских посольств в мире: во время войны против ИГ близлежащая территория была переоборудована в полноценную военную базу, предназначенную для развертывания немаленького контингента ВС США и Международной коалиции. На территории спокойно могут умещаться несколько вертолётов и конвертопланов. Протесты и митинги наблюдаются не только в Багдаде : бастует Басра , в священных шиитских городах траур. Правоохранительные органы в столице пытаются подавить протесты и продемонстрировать приверженность правопорядку. До американского посольства протестующие за последние года смогли добраться только в 2020 году: тогда разбили КПП и стащили журнал учёта посетит...",
+    "url": "https://t.me/rybar/77964",
+    "published": "2026-03-01T06:41:15+00:00",
+    "fetched_at": "2026-03-01T06:52:01.394911+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Protests erupt in Iraq after reports of Khamenei's death targeting US embassy",
+    "relevant": true,
+    "summary_en": "Protests have erupted in Iraq following reports of Ayatollah Ali Khamenei's death, with Shia protesters and religious extremists attempting to storm the US embassy in Baghdad's Green Zone. The US embassy, one of the largest in the world and fortified as a military base, is a significant target. The unrest highlights the potential for increased instability in Iraq and threats to US personnel and assets in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iraqi protesters",
+        "Shia militias"
+      ],
+      "location": "Iraq, Baghdad Green Zone",
+      "brief": "Protests in Iraq targeting the US embassy following reports of Ayatollah Khamenei's death indicate escalating regional tensions and potential proxy conflict escalation."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "5bad9e437c61b833",
+    "title_original": "Second wave of blasts reported in Dubai, Doha and Manama",
+    "content_original": "Second wave of blasts reported in Dubai, Doha and Manama A second wave of explosions was heard in Dubai on Sunday morning, as Iran carried out retaliatory attacks on the Gulf following US and Israeli strikes that killed the supreme leader, news agency AFP reported.&nbsp; Thick black smoke was also seen over Doha&nbsp;after several loud explosions were heard across the Qatari capital, the report said.&nbsp; Earlier blasts were heard in Dubai, Doha and the Bahraini capital Manama.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/second-wave-blasts-reported-dubai-doha-and-manama",
+    "published": "2026-03-01T06:40:46+00:00",
+    "fetched_at": "2026-03-01T06:51:14.262397+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Second wave of blasts reported in Dubai, Doha, and Manama",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran reportedly launched retaliatory attacks on Gulf cities including Dubai, Doha, and Manama following US and Israeli strikes that killed Iran's supreme leader. Explosions and thick black smoke were observed in these cities, indicating a significant escalation in the conflict.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Gulf states"
+      ],
+      "location": "Dubai, Doha, Manama",
+      "brief": "Iran launched retaliatory attacks on major Gulf cities using ballistic missiles or drones following the killing of its supreme leader by US and Israeli strikes, marking a significant escalation in the conflict."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "c88c5471a148efb5",
+    "title_original": "Several US sites in Manama, Bahrain, were targeted by retaliatory missiles from Iran  @PressTV",
+    "content_original": "Several US sites in Manama, Bahrain, were targeted by retaliatory missiles from Iran @PressTV",
+    "url": "https://t.me/presstv/177400",
+    "published": "2026-03-01T06:40:07+00:00",
+    "fetched_at": "2026-03-01T06:51:58.134518+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran launches retaliatory missiles targeting US sites in Manama, Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory missile strikes targeting multiple US military sites in Manama, Bahrain. This attack is a direct response to previous US actions against Iranian assets. The strikes signify an escalation in the conflict, demonstrating Iran's capability to target US forces in the strategically vital Gulf region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Bahrain"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "Iran launched ballistic missile strikes targeting US military sites in Bahrain, escalating direct military confrontation."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "76cc41ed93960ee1",
     "title_original": "Operation Epic Fury: How Trump-led US strikes in Tehran killed Iran's Supreme Leader Khamenei, family",
     "content_original": "Operation Epic Fury, a US military action under Donald Trump, achieved its main goal. Iran's Supreme Leader Ayatollah Ali Khamenei was killed in strikes on Tehran. The operation also targeted Khamenei's daughter and grandchild. The offensive marked a major escalation, aiming to dismantle the Khamenei-led establishment. Explosions were reported across several Iranian cities.",
@@ -770,6 +1031,82 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "2c468762a97bd828",
+    "title_original": "📝 Трансфер во время войны 📝 Верховный лидер Ирана убит: что дальше? Среди ночи в  Иране  официально подтвердили гибел...",
+    "content_original": "📝 Трансфер во время войны 📝 Верховный лидер Ирана убит: что дальше? Среди ночи в Иране официально подтвердили гибель Верховного лидера Ирана Али Хаменеи . Секретарь Совета национальной безопасности Ирана Али Лариджани объявил о формировании Руководящего совета , который возьмёт на себя бразды правления страной на ближайшее время. На протяжении истории Иран переживал «куда худшие времена» — примерно так охарактеризовал произошедшее де-факто глава Ирана. Президент Масуд Пезешкиан пообещал стереть «американо-сионистских агрессоров». Спикер парламента Ирана Мохаммад Багер Галибаф пообещал разрушительные удары и в очередной раз подчеркнул, что «переступившие красную черту заплатят высокую цену». Планы на случай гибели Али Хаменеи были проработаны заранее. В Иране наблюдается колоссальная поддержка войны до победного конца: по улицам проходят многочисленные митинги и демонстрации. Консолидация иранского общества только усилилась. В ответ на обещания неминуемого ответа и масштабных иранских у...",
+    "url": "https://t.me/rybar/77959",
+    "published": "2026-03-01T06:30:12+00:00",
+    "fetched_at": "2026-03-01T06:52:01.393227+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Supreme Leader Ali Khamenei Confirmed Killed Amid War",
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader Ali Khamenei has been killed, with the National Security Council Secretary Ali Larijani announcing the formation of a Leadership Council to govern the country. President Masoud Pezeshkian vowed to eliminate 'American-Zionist aggressors,' signaling potential escalation in the ongoing conflict with the US and its allies.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "Iran's Supreme Leader Ali Khamenei has been killed, leading to the formation of a Leadership Council and vows of retaliation against US and Israeli forces, signaling a significant escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "c1d74f0eb61f858b",
+    "title_original": "Sirens sounding in Doha, Qatar, following Iran’s retaliatory strikes against US sites @PressTV",
+    "content_original": "Sirens sounding in Doha, Qatar, following Iran’s retaliatory strikes against US sites @PressTV",
+    "url": "https://t.me/presstv/177399",
+    "published": "2026-03-01T06:29:16+00:00",
+    "fetched_at": "2026-03-01T06:51:58.133835+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Sirens sounding in Doha, Qatar, after Iranian retaliatory strikes on US sites",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory strikes targeting US sites in Qatar, triggering air raid sirens in Doha. This indicates an escalation in the conflict with direct threats to US assets in the Gulf region. The incident underscores the vulnerability of US bases in the Middle East amid ongoing hostilities.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "raid",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Qatar"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Iran launched retaliatory strikes targeting US sites in Qatar, triggering air raid sirens and escalating regional tensions."
+    },
+    "merged_source_count": 2,
+    "lat": 25.29,
+    "lng": 51.53
   },
   {
     "id": "dc953fe3d3d18458",
