@@ -1,5 +1,44 @@
 [
   {
+    "id": "1b1b4bc0bdd27094",
+    "title_original": "Iran-Israel conflict LIVE: Israel launches fresh strikes on Iran missile, air defence sites",
+    "content_original": "The United States and Israel defended their attacks on Iran, which called resulting civilian deaths a \"war crime\" during an UNSC emergency meeting",
+    "url": "https://www.thehindu.com/news/international/iran-us-tensions-iran-israel-war-nuclear-tensions-tehran-tel-aviv-march-1-live-updates/article70690476.ece",
+    "published": "2026-03-01T06:45:52+05:30",
+    "fetched_at": "2026-03-01T01:21:14.225463+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Israel launches fresh strikes on Iran missile and air defense sites",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel conducted new strikes targeting Iranian missile and air defense sites, escalating the conflict. The attacks were defended by both Israel and the US, while Iran condemned resulting civilian casualties as a 'war crime' at a UNSC emergency meeting. This signifies ongoing tensions and potential further escalation between Israel and Iran.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "war",
+      "missile",
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "US"
+      ],
+      "location": "Iran",
+      "brief": "Israel launched airstrikes targeting Iranian missile and air defense sites, escalating regional tensions and prompting condemnation from Iran."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "76cc41ed93960ee1",
     "title_original": "Operation Epic Fury: How Trump-led US strikes in Tehran killed Iran's Supreme Leader Khamenei, family",
     "content_original": "Operation Epic Fury, a US military action under Donald Trump, achieved its main goal. Iran's Supreme Leader Ayatollah Ali Khamenei was killed in strikes on Tehran. The operation also targeted Khamenei's daughter and grandchild. The offensive marked a major escalation, aiming to dismantle the Khamenei-led establishment. Explosions were reported across several Iranian cities.",
@@ -35,6 +74,81 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "5cfaa06f74aaa744",
+    "title_original": "'Diplomacy squandered': UN Chief condemns US-Iran-Israel conflict at UNSC; avoids 'confirming' Khamenei death",
+    "content_original": "The surprise attack on Iran comes a day after officials from Washington and Tehran concluded their third round of nuclear talks in Geneva.",
+    "url": "https://www.hindustantimes.com/world-news/diplomacy-squandered-un-chief-condemns-us-iran-israel-conflict-at-unsc-meeting-avoids-confirming-khamenei-death-101772324416853.html",
+    "published": "2026-03-01T06:25:44+05:30",
+    "fetched_at": "2026-03-01T01:21:14.697485+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "UN Chief condemns US-Iran-Israel conflict at UNSC",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The UN Secretary-General has criticized the ongoing conflict between the US, Iran, and Israel during a UN Security Council meeting. This comes after a surprise attack on Iran, following the conclusion of nuclear talks in Geneva. The statement highlights the failure of diplomatic efforts and the escalation of tensions in the region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "nuclear",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Israel",
+        "UN"
+      ],
+      "location": "Geneva, UN Security Council",
+      "brief": "UN Secretary-General condemns escalating US-Iran-Israel conflict following a surprise attack on Iran and the failure of recent nuclear talks."
+    },
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  {
+    "id": "05fb088b6cc7773e",
+    "title_original": "Dubai airport hit, fire at Palm Jumeirah: Casualties reported as US-Iran conflict spreads in region",
+    "content_original": "Major airports in Dubai, Abu Dhabi and Doha were shut and more than 18,000 flights by major Middle Eastern airlines were cancelled.",
+    "url": "https://www.hindustantimes.com/world-news/what-is-happening-in-dubai-airport-hit-fire-at-palm-jumeirah-casualties-reported-as-us-iran-conflict-spreads-101772324271782.html",
+    "published": "2026-03-01T06:24:14+05:30",
+    "fetched_at": "2026-03-01T01:21:14.697701+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Dubai airport hit, fire at Palm Jumeirah: Casualties reported as US-Iran conflict spreads in region",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US-Iran conflict has escalated with attacks impacting major infrastructure in the UAE, including Dubai International Airport and the Palm Jumeirah, resulting in casualties and significant disruption. The closure of airports in Dubai, Abu Dhabi, and Doha, along with the cancellation of over 18,000 flights, indicates a severe impact on regional travel and logistics. This development signifies an alarming expansion of hostilities beyond traditional conflict zones, threatening critical civilian and economic assets in the Gulf.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "UAE",
+        "Houthis",
+        "Hezbollah"
+      ],
+      "location": "UAE (Dubai, Abu Dhabi, Doha)",
+      "brief": "The US-Iran conflict has escalated to direct attacks on major UAE infrastructure, including Dubai International Airport and Palm Jumeirah, resulting in casualties and regional disruption."
+    },
+    "lat": 24.0,
+    "lng": 54.0
   },
   {
     "id": "01a0fd9d447c20dc",
@@ -1185,6 +1299,42 @@
     "lng": 55.27
   },
   {
+    "id": "7d82541ad06a534e",
+    "title_original": "# الإمارات_العبرية_المتحدة  الامارات: سماع دوي انفجارين في دبي",
+    "content_original": "# الإمارات_العبرية_المتحدة الامارات: سماع دوي انفجارين في دبي",
+    "url": "https://t.me/Electrohizbullah/156286",
+    "published": "2026-03-01T01:20:11+00:00",
+    "fetched_at": "2026-03-01T01:21:42.902695+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosions Heard in Dubai, UAE",
+    "relevant": true,
+    "summary_en": "Two explosions were reported in Dubai, UAE. While the cause is currently unknown, the incident is significant due to the UAE's involvement in the ongoing conflict as a US ally and its proximity to active conflict zones. This could potentially indicate an escalation or a new front in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US",
+        "Iranian proxies"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Explosions in Dubai, a US ally and key regional logistics hub, suggest potential proxy escalation amid Iran-US tensions."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "d3b5961515cde64d",
     "title_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
     "content_original": "Kan: во время обстрела Израиля из Ирана погибла женщина",
@@ -1218,6 +1368,79 @@
       "brief": "The missile attack by Iran on Israel signifies a direct escalation in regional hostilities, posing a significant threat to civilian populations and regional stability."
     },
     "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "d28724f1fddb8b23",
+    "title_original": "🔴   Iran's IRGC: 14 US bases targeted, hundreds of American troops killed in retaliatory operations  @PressTV",
+    "content_original": "🔴 Iran's IRGC: 14 US bases targeted, hundreds of American troops killed in retaliatory operations @PressTV",
+    "url": "https://t.me/presstv/177350",
+    "published": "2026-03-01T01:14:34+00:00",
+    "fetched_at": "2026-03-01T01:21:31.971641+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC claims targeting 14 US bases, killing hundreds of American troops in retaliatory operations",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC announced it targeted 14 US bases and claimed to have killed hundreds of American troops in retaliatory operations. This signifies a significant escalation in the ongoing conflict, with potential strategic implications for US military presence and operations in the region. The claim's accuracy and impact on US military posture require urgent verification.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Multiple US military bases in the Middle East",
+      "brief": "IRGC claims to have conducted retaliatory strikes on 14 US bases, allegedly causing hundreds of American casualties, marking a significant escalation in the conflict."
+    }
+  },
+  {
+    "id": "c344332f534978f8",
+    "title_original": "#الجمهورية_الإسلامية   دفعة جديدة من الصواريخ تنطلق من إيران صوب أهداف في عمق الكيان الإسرائيلي",
+    "content_original": "#الجمهورية_الإسلامية دفعة جديدة من الصواريخ تنطلق من إيران صوب أهداف في عمق الكيان الإسرائيلي",
+    "url": "https://t.me/Electrohizbullah/156285",
+    "published": "2026-03-01T01:14:17+00:00",
+    "fetched_at": "2026-03-01T01:21:42.902201+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "New Missile Salvo Launched from Iran Targeting Deep Inside Israeli Territory",
+    "relevant": true,
+    "summary_en": "Iran has launched a new wave of missiles targeting locations deep within Israeli territory. This represents a significant escalation in the ongoing conflict, demonstrating Iran's continued capability to strike at Israel from a distance. The strategic significance lies in the potential for further escalation and Israeli retaliation, raising concerns about regional stability.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IRGC",
+        "Hezbollah"
+      ],
+      "location": "Israel",
+      "brief": "Iran launches ballistic missiles targeting deep within Israeli territory, marking a major escalation in the conflict with potential involvement of regional proxies."
+    },
     "lat": 31.5,
     "lng": 34.8
   },
@@ -1258,6 +1481,45 @@
     "merged_source_count": 4,
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "523d111ed126f169",
+    "title_original": "Two dead as Iran launches waves of strikes on wealthy Gulf",
+    "content_original": "Explosions rocked cities across the Gulf on Saturday, killing two people in Abu Dhabi, while smoke and flames rose from Dubai landmark The Palm as Iran launched waves of attacks in retaliation for US and Israeli strikes . The attacks hit airports in Abu Dhabi, Dubai and Kuwait , as well as Gulf military bases and residential areas, raising fears of a wider conflict and rattling a region long seen as a haven of peace and security. Across the UAE , Iran fired 137 missiles and 209 drones at the territory, the country's defence ministry said, as projectiles streaked across the skies of every Gulf state but Oman, a mediator in the recent US-Iran talks. The UAE defence ministry said most of the missiles and drones were intercepted but at Abu Dhabi's Zayed International Airport officials said at least one person was killed and seven wounded in an \"incident\". Earlier, falling debris killed a Pakistani civilian in Abu Dhabi, the United Arab Emirates' capital, officials said. At Dubai Internatio...",
+    "url": "https://www.newarab.com/news/two-dead-iran-launches-waves-strikes-wealthy-gulf",
+    "published": "2026-03-01T01:13:38+00:00",
+    "fetched_at": "2026-03-01T01:20:57.879571+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran launches waves of strikes on wealthy Gulf cities, killing two in Abu Dhabi",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a massive retaliatory attack on the UAE, Kuwait, and other Gulf states, firing 137 missiles and 209 drones at airports, military bases, and residential areas, including Abu Dhabi and Dubai. The attacks resulted in two deaths in Abu Dhabi and caused significant damage to infrastructure, escalating regional tensions and signaling a potential widening of the conflict. The UAE reported that most projectiles were intercepted, but the scale and coordination of the assault highlight Iran's capability to strike deep into Gulf states.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "deaths",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Kuwait",
+        "Gulf states"
+      ],
+      "location": "Abu Dhabi, Dubai, Kuwait",
+      "brief": "Iran launched a major retaliatory attack using 137 missiles and 209 drones on Gulf cities, causing two deaths in Abu Dhabi and significant infrastructure damage."
+    },
+    "lat": 24.45,
+    "lng": 54.38
   },
   {
     "id": "4d9905e55a4d0b5d",
