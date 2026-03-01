@@ -1,5 +1,35 @@
 [
   {
+    "id": "8a5a86dea713f1e8",
+    "title_original": "זום בלי תחפושות: בתי הספר יקיימו למידה מרחוק במקום מסיבות פורים",
+    "url": "https://www.ynet.co.il/news/article/hkzfmemfbg",
+    "published": "2026-03-01T20:23:26+02:00",
+    "fetched_at": "2026-03-01T18:35:08.255346+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
+  },
+  {
+    "id": "a44bb935a9626f3e",
+    "title_original": "בדרך למלחמה אזורית",
+    "content_original": "בקרב הערבים גם קיים חשש ולפיו התנגשויות שהתרחשו ביומיים האחרונים בין שיעים וסונים בעולם המוסלמי בעקבות חיסול חמינאי יגברו ויעוררו עימותים דתיים קשים",
+    "url": "https://www.ynet.co.il/news/article/ryevg11zy11x",
+    "published": "2026-03-01T20:16:31+02:00",
+    "fetched_at": "2026-03-01T18:35:08.255586+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "בדרך למלחמה אזורית",
+    "summary_en": "[API unavailable — Hebrew source]",
+    "translated": false
+  },
+  {
     "id": "3f6a216a44bc2196",
     "title_original": "\"היו ניסיונות יירוט לטיל שנפל בבית שמש. המיירט החטיא\" | פרטים חדשים מהאסון",
     "content_original": "גורמים ביטחוניים התייחסו לפגיעה הקטלנית של הטיל האיראני שהביאה למותם של 9: \"התקדמנו בהגנה, אבל אין 100%. איום הטילים הוא קיומי ממש\". על המשך המערכה: \"נפגע בכל מנגנוני הדיכוי. הכוונה היא להסיר את האיום האיראני לחלוטין. זה ייקח זמן, לא יום ולא יומיים. יכול להיות שעוד יהיו ימים לא פשוטים\"",
@@ -224,6 +254,23 @@
     "summary_en": "[API unavailable — English source]"
   },
   {
+    "id": "5580bc5db46185b6",
+    "title_original": "צ'רצ'יל מתהפך בקברו: ישראל וארה\"ב מחסלות את האייתוללה, ובריטניה בוחרת לגמגם",
+    "content_original": "טור דעה שפורסם בעיתון ה\"טלגרף\" מתח ביקורת על ההנהגה הבריטית בשל תגובתה למתקפה באיראן, ש\"מזכירה הרבה יותר את הפייסנות של נוויל צ'מברליין מאשר את הנחישות של וינסטון צ'רצ'יל\"",
+    "url": "https://www.maariv.co.il/news/world/article-1290737",
+    "published": "2026-03-01T18:32:12+00:00",
+    "fetched_at": "2026-03-01T18:35:09.318812+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "צ'רצ'יל מתהפך בקברו: ישראל וארה\"ב מחסלות את האייתוללה, ובריטניה בוחרת לגמגם",
+    "summary_en": "{\"h\":\"Churchill Turns in His Grave: Israel and US Eliminate Ayatollah, While Britain Chooses to Stammer\",\"r",
+    "relevant": true,
+    "translated": true
+  },
+  {
     "id": "c963af270b2f324b",
     "title_original": "Megillah in the Miklat: Tel Aviv moves Purim underground as Operation Roaring Lion rages",
     "url": "https://www.jpost.com/judaism/jewish-holidays/article-888409",
@@ -252,6 +299,23 @@
     "title_en": "11 נעדרים בזירת האסון בבית שמש: \"ראיתי אש ותמרון עשן, אנשים צעקו לעזרה\"",
     "summary_en": "[API unavailable — Hebrew source]",
     "translated": false
+  },
+  {
+    "id": "abed51340656cbee",
+    "title_original": "החות'ים מעכלים את חיסול חמינאי: מנהיג הארגון שיגר מסר מאיים לישראל וארה\"ב",
+    "content_original": "השפעות חיסול מנהיג איראן עלי חמינאי: מנהיג החות'ים, עבד אל-מלכ אל-חות'י, הגיב בנאום תוקפני נגד ישראל וארה\"ב לחיסולו של מי שהיה פטרונו הרוחני והצבאי, והציג חזון אפוקליפטי באשר להשלכות המהלך",
+    "url": "https://www.maariv.co.il/news/world/article-1290733",
+    "published": "2026-03-01T18:15:15+00:00",
+    "fetched_at": "2026-03-01T18:35:09.319021+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "החות'ים מעכלים את חיסול חמינאי: מנהיג הארגון שיגר מסר מאיים לישראל וארה\"ב",
+    "summary_en": "{\"h\":\"Houthis respond to Khamenei's killing: Leader sends threatening message to Israel and US\",\"r\":true,\"s\":\"Houthi leader Abdul-Malik al-Houthi delivered an aggressive speech targeting Israel and the US following the elimination of his spiritual and military patron, Iranian Supreme Leader Ali Khamenei. The speech presented what was described as an apocalyptic vision regarding the consequences of",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "524175e8bed954c2",

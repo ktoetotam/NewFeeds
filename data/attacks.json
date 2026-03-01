@@ -180,6 +180,114 @@
     "lng": 54.0
   },
   {
+    "id": "2a9dfa2bcf84c774",
+    "title_original": "При атаке БПЛА на машину на дороге Донецк — Горловка погиб человек",
+    "content_original": "При атаке БПЛА на машину на дороге Донецк — Горловка погиб человек",
+    "url": "https://ria.ru/20260301/bespilotnik-2077735006.html",
+    "published": "2026-03-01T21:25:13+03:00",
+    "fetched_at": "2026-03-01T18:35:03.309005+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "При атаке БПЛА на машину на дороге Донецк — Горловка погиб человек",
+    "summary_en": "{\"h\":\"Drone Attack on Car on Donetsk-Gorlovka Road K",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "location": "Donetsk-Gorlovka road, Russia",
+      "brief": "Drone attack on civilian car in Russian-controlled Donetsk region killed one person, unrelated to Iran-US conflict."
+    },
+    "lat": 48.3618629,
+    "lng": 38.0665859
+  },
+  {
+    "id": "00ffe27c6c30f8fc",
+    "title_original": "Al Hadath: проиранские группировки в Ираке совершили более 20 атак на базы США",
+    "content_original": "Al Hadath: проиранские группировки в Ираке совершили более 20 атак на базы США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26602835",
+    "published": "2026-03-01T21:21:43+03:00",
+    "fetched_at": "2026-03-01T18:35:02.630903+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Al Hadath: проиранские группировки в Ираке совершили более 20 атак на базы США",
+    "summary_en": "{\"h\":\"Al Hadath: Pro-Iranian groups in Iraq carried out more than 20 attacks on US bases\",\"r\":true,\"s\":\"Pro-Iranian militias operating in Iraq have executed over 20 attacks against US military bases in the country, marking a significant escalation in the ongoing Iran-US conflict. These attacks, likely conducted by IRGC-aligned groups such as Kata'ib Hezbollah and other PMF factions, demonstrate th",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "hezbollah",
+      "pmf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Iranian proxies/militias",
+        "United States",
+        "Iraq"
+      ],
+      "location": "Iraq",
+      "brief": "Pro-Iranian militias in Iraq carried out over 20 attacks on US military bases, marking significant escalation in Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "886603fef93b1350",
+    "title_original": "Трамп заявил об уничтожении девяти иранских военных кораблей",
+    "content_original": "Президент США Дональд Трамп заявил, что США в ходе военной операции против Ирана потопили девять военных кораблей Исламской Республики. Об этом американский президент сообщил в соцсети Truth Social.",
+    "url": "https://www.kommersant.ru/doc/8477581",
+    "published": "2026-03-01T21:13:26+03:00",
+    "fetched_at": "2026-03-01T18:35:06.473588+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Трамп заявил об уничтожении девяти иранских военных кораблей",
+    "summary_en": "{\"h\":\"Trump Claims US Destroyed Nine Iranian Military Ships\",\"r\":true,\"s\":\"US President Donald Trump claimed that American forces sank nine military ships of the Islamic Republic of Iran during a military operation against Iran. The statement was posted on Trump's Truth Social platform. This represents a significant escalation in naval hostilities between the two nations in the",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Unspecified (likely Persian Gulf or Strait of Hormuz region)",
+      "brief": "Trump claimed US forces destroyed nine Iranian military ships in a naval operation, representing major direct US-Iran military engagement if verified."
+    },
+    "geocode_failed": true
+  },
+  {
     "id": "f1a84f7819c86ffe",
     "title_original": "США и Израиль ударили по больнице в центре Тегерана",
     "content_original": "США и Израиль ударили по больнице в центре Тегерана",
@@ -216,6 +324,43 @@
     "merged_source_count": 4,
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "52f06bf9dcb8030e",
+    "title_original": "الحرس الثوري: استهدفنا 3 ناقلات نفط أميركية وبريطانية",
+    "content_original": "أعلن حرس الثورة الإسلامية أن القاعدة الأميركية علي السالم في الكويت خرجت عن الخدمة بالكامل عقب هجماته الأخيرة، مضيفا انه جرى استهداف ثلاث ناقلات نفط ...",
+    "url": "https://www.alalam.ir/news/7420653",
+    "published": "2026-03-01T21:03:39+00:00",
+    "fetched_at": "2026-03-01T18:34:38.706246+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "الحرس الثوري: استهدفنا 3 ناقلات نفط أميركية وبريطانية",
+    "summary_en": "{\"h\":\"IRGC: We targeted 3 American and British oil tankers\",\"r\":true,\"s\":\"The Islamic Revolutionary Guard Corps (IRGC) announced that the US Al-Salem base in Kuwait was completely put out of service following their recent attacks, and that they had targeted three American and British oil",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "high",
+      "parties_involved": [
+        "IRGC",
+        "Iran",
+        "United States",
+        "United Kingdom",
+        "Kuwait"
+      ],
+      "location": "Kuwait (Al-Salem base) and Persian Gulf",
+      "brief": "IRGC claimed to have put the US Al-Salem base in Kuwait out of service and targeted three American and British oil tankers in recent attacks."
+    },
+    "lat": 29.38,
+    "lng": 47.99
   },
   {
     "id": "224264a9e08998d4",
@@ -1301,6 +1446,154 @@
     "lng": 55.27
   },
   {
+    "id": "39c6db851251080a",
+    "title_original": "— ❗️ 🇺🇸 / 🇮🇶 / 🇮🇷  NEW:  The U.S. base in Erbil, Iraqi Kurdistan, after being targeted by Iranian ballistic missiles ...",
+    "content_original": "— ❗️ 🇺🇸 / 🇮🇶 / 🇮🇷 NEW: The U.S. base in Erbil, Iraqi Kurdistan, after being targeted by Iranian ballistic missiles and Iraqi Resistance drones @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69921",
+    "published": "2026-03-01T18:29:20+00:00",
+    "fetched_at": "2026-03-01T18:35:54.729190+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "U.S. base in Erbil targeted by Iranian ballistic missiles and Iraqi Resistance drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian ballistic missiles and drones from Iranian-backed Iraqi Resistance groups have struck the U.S. base in Erbil, Iraqi Kurdistan. The attack represents another escalation in Iran's campaign against U.S. military assets in Iraq, following earlier Iranian strikes on U.S. bases in the region as part of the ongoing Iran–U.S. armed conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Iraqi Resistance (Iran-backed proxies)",
+        "United States",
+        "Iraqi Kurdistan"
+      ],
+      "location": "Erbil, Iraqi Kurdistan, Iraq",
+      "brief": "Iranian ballistic missiles and Iranian-backed Iraqi Resistance drones struck a U.S. base in Erbil, representing escalation in Iran's campaign against U.S. military assets in Iraq."
+    },
+    "merged_source_count": 2,
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "42158b0efbe5a9c6",
+    "title_original": "⚡️ Vicinity of the Gandhi Hospital in Tehran subjected to a brutal Zionist-American attack",
+    "content_original": "⚡️ Vicinity of the Gandhi Hospital in Tehran subjected to a brutal Zionist-American attack",
+    "url": "https://t.me/warmonitors/40304",
+    "published": "2026-03-01T18:26:34+00:00",
+    "fetched_at": "2026-03-01T18:35:56.687841+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Vicinity of the Gandhi Hospital in Tehran subjected to a brutal Zionist-American attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The area around Gandhi Hospital in Tehran was hit in an attack attributed to Israeli-American forces. This represents a direct strike on the Iranian capital, marking a significant escalation in the ongoing Iran-United States conflict. The targeting of a hospital area in Tehran demonstrates the conflict has expanded to include direct attacks on Iranian civilian infrastructure.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Israeli-American forces conducted an airstrike on the Gandhi Hospital area in Tehran, marking a direct escalation in the Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "ad0702a82dbe3901",
+    "title_original": "🚨 گزارش های از بمباران فرودگاه تبریز توسط جنگنده های اسرائیلی  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولا...",
+    "content_original": "🚨 گزارش های از بمباران فرودگاه تبریز توسط جنگنده های اسرائیلی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44996",
+    "published": "2026-03-01T18:23:54+00:00",
+    "fetched_at": "2026-03-01T18:35:58.672942+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "🚨 گزارش های از بمباران فرودگاه تبریز توسط جنگنده های اسرائیلی  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولا...",
+    "summary_en": "{\"h\":\"Reports of Tabriz Airport Bombing by Israeli Fighter Jets\",\"r\":true,\"s\":\"Unconfirmed reports indicate Israeli fighter jets have bombed Tabriz airport in northwestern Iran. The reports emerge amid the ongoing Israel-Iran conflict and could represent a significant escalation or expansion of strikes into additional Iranian cities",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tabriz Airport, Northwestern Iran",
+      "brief": "Unconfirmed reports claim Israeli fighter jets bombed Tabriz airport in northwestern Iran, representing a potential significant escalation in the Israel-Iran conflict."
+    },
+    "lat": 38.1205718,
+    "lng": 46.2430111
+  },
+  {
+    "id": "de65ebbe3ebee096",
+    "title_original": "At least 11 Israelis missing after Iranian missile strike",
+    "content_original": "At least 11 Israelis missing after Iranian missile strike Israeli police say 11 people remain unaccounted for as rescue teams continue searching the rubble following the missile strike on Beit Shemesh, near West Jerusalem. Authorities have already confirmed nine deaths in the attack. Police added that 51 people sustained injuries, as emergency crews press on with search-and-rescue efforts at the scene.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/least-11-israelis-missing-after-iranian-missile-strike",
+    "published": "2026-03-01T18:23:22+00:00",
+    "fetched_at": "2026-03-01T18:35:15.863180+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "At least 11 Israelis missing after Iranian missile strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian missiles struck the Israeli town of Beit Shemesh near West Jerusalem, leaving at least 11 people missing and nine confirmed dead. Rescue teams continue searching through rubble while authorities report 51 injured casualties from the attack.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "dead",
+      "attack",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, near West Jerusalem, Israel",
+      "brief": "Iranian ballistic missiles struck the Israeli town of Beit Shemesh near West Jerusalem, killing at least 9 people with 11 missing and 51 injured."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "63022ee0bc98ce4b",
     "title_original": "Пентагон не ответил на вопрос об ударе Ирана по авианосцу",
     "content_original": "Пентагон не ответил на вопрос об ударе Ирана по авианосцу",
@@ -1335,6 +1628,41 @@
     },
     "lat": -6.1817263,
     "lng": 106.8159505
+  },
+  {
+    "id": "174c4a8b54a35dd8",
+    "title_original": "Massive destruction after US-Israeli strike on Gandhi Hospital, Tehran. @PressTV",
+    "content_original": "Massive destruction after US-Israeli strike on Gandhi Hospital, Tehran. @PressTV",
+    "url": "https://t.me/presstv/177499",
+    "published": "2026-03-01T18:21:24+00:00",
+    "fetched_at": "2026-03-01T18:35:48.842279+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Massive destruction after US-Israeli strike on Gandhi Hospital, Tehran. @PressTV",
+    "translated": true,
+    "summary_en": "{\"h\":\"Massive destruction after US-Israeli strike on Gandhi Hospital, Tehran\",\"r\":true,\"s\":\"US and Israeli forces conducted a joint strike on Gandhi Hospital in Tehran, causing massive destruction",
+    "relevant": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Gandhi Hospital, Tehran, Iran",
+      "brief": "US and Israeli forces conducted a joint airstrike on Gandhi Hospital in Tehran, causing massive destruction."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "80e52d8aa3e35e4c",
@@ -1551,6 +1879,43 @@
     },
     "lat": 32.08,
     "lng": 34.78
+  },
+  {
+    "id": "bab16b39eafca656",
+    "title_original": "Energy markets on edge as Iran war threatens oil supplies",
+    "content_original": "Iran's trump card in the event of any US or Israeli war was that it could close the Strait of Hormuz to shipping overnight, thus seriously impacting oil and gas supplies and having the world pressure an aggressor to cease their offensive. Now that this war has become reality, there are signs that it is seriously impacting energy markets, with Iran&nbsp; hitting tankers, ports, and oil facilities in the oil and gas-rich Gulf region. Shortly after US-Israeli strikes&nbsp; killed Supreme Leader Ayatollah Khamenei and senior Iranian figures, Tehran said it was shutting the Strait of Hormuz, with vessels in the area receiving electronic warnings not to cross the waterway, which around 20-30 percent of the world's oil passes through. On Sunday, at least three tankers in Gulf waters were damaged in suspected Iranian attacks, including off the coast of Musandam - a chokehold for global energy supplies. The cost for the region could be huge, with 20 million barrels of oil making its way along t...",
+    "url": "https://www.newarab.com/news/energy-markets-edge-iran-war-threatens-oil-supplies",
+    "published": "2026-03-01T18:09:48+00:00",
+    "fetched_at": "2026-03-01T18:35:16.389648+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Energy markets on edge as Iran war threatens oil supplies",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has threatened to close the Strait of Hormuz and struck tankers, ports, and oil facilities in the Gulf region following US-Israeli strikes that killed Supreme Leader Khamenei and senior Iranian officials. The Strait of Hormuz, through which 20-30% of global oil passes, has been shut down with vessels receiving electronic warnings not to cross, causing severe disruption to energy markets worldwide.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "war",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Gulf region,Strait of Hormuz",
+      "brief": "Iran threatens to close Strait of Hormuz and strikes Gulf tankers and oil facilities following US-Israeli strikes that killed Supreme Leader Khamenei and senior Iranian officials."
+    },
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "0f19ce14cb26859d",
@@ -8142,6 +8507,45 @@
     },
     "lat": 26.07,
     "lng": 50.55
+  },
+  {
+    "id": "c32587a682218e5b",
+    "title_original": "Three US military members killed in Iran operation: Pentagon",
+    "content_original": "The US military on Sunday said three service members have been killed and five seriously wounded in the war against Iran -- the first casualties announced on the US side. The news, which could have serious political ramifications in Washington, came as President Donald Trump emphasized successes in the operation, announcing that nine Iranian naval ships had been sunk and not referring to the US deaths. The United States and Israel launched massive bombardments against Iran and killed its supreme leader Saturday, with attacks ongoing Sunday.",
+    "url": "https://www.al-monitor.com/originals/2026/03/three-us-military-members-killed-iran-operation-pentagon",
+    "published": "2026-03-01T13:30:20-05:00",
+    "fetched_at": "2026-03-01T18:35:16.046006+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Three US military members killed in Iran operation: Pentagon",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US service members were killed and five seriously wounded in operations against Iran — the first US casualties announced in the war. The deaths came as President Trump announced nine Iranian naval ships sunk, while US and Israel continued massive bombardments of Iran that killed its supreme leader on Saturday.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "deaths",
+      "war",
+      "killed",
+      "wounded"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Iran",
+      "brief": "Three US service members killed in operations against Iran marks first US casualties as Trump announces nine Iranian naval ships sunk and US-Israel bombardment of Iran continues."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "af739e95e30794cb",

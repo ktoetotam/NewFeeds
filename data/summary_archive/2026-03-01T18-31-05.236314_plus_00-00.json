@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-03-01T18:31:05.236314+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 672,
+    "incident_count_6h": 237,
+    "severity_breakdown": {
+      "major": 267,
+      "high": 269,
+      "medium": 133,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 162,
+    "articles_analyzed": 173,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated dramatically with 672 incidents in 24h. The assassination of Supreme Leader Khamenei has triggered massive Iranian retaliation — strikes on UAE (3 dead, 58 injured), Kuwait (1 dead, 32 injured), and three US/British oil tankers. Three US soldiers were confirmed killed in Operation Epic Fury. Amid this kinetic escalation, Trump signaled willingness to negotiate, stating Iran's 'new leadership asked to talk, and I agreed.'",
+  "whats_new": [
+    "Trump indicates openness to talks with new Iranian leadership — 'they asked to talk, and I agreed'",
+    "IRGC claims strikes on three US/British oil tankers in Operation Promise Kept 4",
+    "US air attacks on Karaj (near Tehran) — significant escalation targeting Iranian territory",
+    "Kuwait reports 1 fatality, 32 injuries at Al Adan Hospital from Iranian attacks",
+    "UAE reports 3 fatalities, 58 injuries; air defense destroyed 20 ballistic missiles, 2 cruise missiles, 311 drones",
+    "Multiple explosions reported near IRIB state broadcasting headquarters in Tehran",
+    "Explosions reported in Ahvaz (southwestern Iran)",
+    "Iranian drone/missile attack on Erbil near US bases in Iraq"
+  ],
+  "confirmed_events": [
+    "Three US service members killed, five wounded in direct engagement with Iranian-backed forces — CONFIRMED by CENTCOM and multiple sources",
+    "Iran's Supreme Leader Khamenei killed in US-Israeli joint strike on Tehran — CONFIRMED by NY Times, Guardian, multiple outlets",
+    "IRGC launched ballistic missiles at USS Abraham Lincoln aircraft carrier in Arabian Sea — CONFIRMED (IRGC claim)",
+    "Israeli IDF has dropped 2,000 bombs on Iran (50% of June 2025 12-Day War total) — CONFIRMED by Jerusalem Post, IDF",
+    "US Central Command sank Iranian Jamaran-class corvette in Chabahar Port — CONFIRMED by CENTCOM",
+    "At least 153 girls killed in strike on school in Minab, Iran — CONFIRMED by multiple sources"
+  ],
+  "unverified_emerging": [
+    "US military used Anthropic's Claude AI model in Iran strikes despite Trump ban — source: Wall Street Journal/Axios (single source)",
+    "Iran shelled bases with German soldiers in Iraq/Jordan — source: Der Spiegel (single source, unverifiable)",
+    "Iranian Supreme Leader's 14-month-old granddaughter killed in attack — source: single report (unverified)"
+  ],
+  "operational_people_travel": [
+    "IMO advises vessels to avoid Strait of Hormuz — remains in effect",
+    "Turkish-Iranan border at Khoy gate experiencing significant congestion as Iranians attempt to flee",
+    "Multiple airlines continue diverting routes away from conflict zones"
+  ],
+  "operational_supply_chain": [
+    "Critical port infrastructure at Abu Dhabi targeted — significant disruption to regional shipping",
+    "Three US/British oil tankers struck by Iranian missiles — escalation threatens Gulf oil shipping lanes",
+    "UAE air defense engaged 333 projectiles — major strain on air defense resources",
+    "Strait of Hormuz shipping at heightened risk — IMO advisory in effect"
+  ],
+  "operational_market_macro": [
+    "Global energy markets facing significant disruption from Gulf strikes",
+    "Oil prices likely to spike further with tanker attacks confirmed",
+    "Regional airlines and shipping insurance premiums escalating dramatically"
+  ],
+  "outlook_24_72h": {
+    "base_case": "The conflict is at a critical inflection point. Iranian retaliation is ongoing with missile barrages against Israel, UAE, Kuwait, and US naval assets. However, Trump has signaled willingness to negotiate — a potential diplomatic off-ramp. Military operations will likely continue at high intensity for 24-48h while diplomatic channels are explored. The power vacuum in Tehran following Khamenei's death creates uncertainty about who controls Iranian military decision-making.",
+    "escalation_risks": [
+      "IRGC and Iranian military leadership have vowed continued confrontation — fresh waves of missile strikes likely",
+      "Hezbollah and Houthi proxies may launch coordinated attacks expanding the multi-front conflict",
+      "Sleeper cells in US and allied territories could be activated — counterterrorism agencies on high alert",
+      "Iranian attacks on Gulf infrastructure may trigger broader coalition response including Saudi Arabia",
+      "Risk of accidental escalation if any side misinterprets defensive maneuvers as offensive"
+    ],
+    "de_escalation_pathways": "Trump's statement that 'new leadership in Iran asked to talk' represents the most significant diplomatic signal since hostilities began. The killing of Khamenei creates a power vacuum that could either lead to internal Iranian chaos or a more pragmatic leadership willing to negotiate. Omani mediation has been mentioned as a potential channel. However, Iranian military leaders have publicly stated they are 'fully prepared to continue the confrontation,' suggesting hardliners retain significant influence. A ceasefire would require Iran to accept the loss of its leadership and halt proxy attacks, while the US would need to halt strikes on Iranian territory — both politically difficult."
+  }
+}

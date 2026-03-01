@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T18-31-05.236314_plus_00-00.json",
+    "generated_at": "2026-03-01T18:31:05.236314+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 672,
+    "summary_preview": "The Iran-US conflict has escalated dramatically with 672 incidents in 24h. The assassination of Supreme Leader Khamenei has triggered massive Iranian retaliation — strikes on UAE (3 dead, 58 injured),"
+  },
+  {
     "filename": "2026-03-01T18-04-58.843492_plus_00-00.json",
     "generated_at": "2026-03-01T18:04:58.843492+00:00",
     "threat_label": "MAJOR",
