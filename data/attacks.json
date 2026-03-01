@@ -146,6 +146,116 @@
     "lng": 178.0431614
   },
   {
+    "id": "b34527a859627368",
+    "title_original": "Число погибших при ударе по школе в Иране достигло 153",
+    "content_original": "Число погибших при ударе по школе в Иране достигло 153",
+    "url": "https://ria.ru/20260301/iran-2077705451.html",
+    "published": "2026-03-01T18:00:02+03:00",
+    "fetched_at": "2026-03-01T15:11:37.602000+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Death Toll in Iranian School Strike Reaches 153",
+    "relevant": true,
+    "summary_en": "A strike on a school in Iran resulted in 153 fatalities. The incident occurred within Iran, likely impacting civilian infrastructure. The military/strategic significance is tied to the ongoing conflict, potentially indicating escalation or targeting of non-military sites.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "death",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "civilian population"
+      ],
+      "location": "Iran",
+      "brief": "A strike on a school in Iran resulting in 153 fatalities indicates a significant escalation in the conflict, likely involving targeting of civilian infrastructure."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "a6bd8d631cc09996",
+    "title_original": "Pentagon reports 1st US casualties as 3 troops dead in Iran ops",
+    "content_original": "Three members of the US military have been 'killed in action' and five 'seriously wounded' in the operation against Iran, the Pentagon said Sunday, without providing further detail...",
+    "url": "https://www.dailysabah.com/world/mid-east/pentagon-reports-1st-us-casualties-as-3-troops-dead-in-iran-ops",
+    "published": "2026-03-01T18:00:00+03:00",
+    "fetched_at": "2026-03-01T15:12:04.399198+00:00",
+    "source_name": "Daily Sabah World",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "turkey",
+    "skip_translation": true,
+    "title_en": "First US casualties reported as 3 troops killed in Iran operations",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US military personnel were killed and five seriously wounded in operations against Iran, according to the Pentagon. The incident marks the first US casualties in the ongoing conflict, highlighting the escalating intensity of hostilities. The lack of further details suggests ongoing operational security concerns.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "wounded",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran"
+      ],
+      "location": "Turkey",
+      "brief": "Three US military personnel were killed and five wounded in operations against Iran, marking the first US casualties in the escalating conflict."
+    },
+    "lat": 39.294076,
+    "lng": 35.2316631
+  },
+  {
+    "id": "4dfae711aa6140f2",
+    "title_original": "ОАЭ сообщили, что французская база в Абу-Даби подверглась атаке БПЛА",
+    "content_original": "ОАЭ сообщили, что французская база в Абу-Даби подверглась атаке БПЛА",
+    "url": "https://ria.ru/20260301/bpla-2077705012.html",
+    "published": "2026-03-01T17:58:50+03:00",
+    "fetched_at": "2026-03-01T15:11:37.602387+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE Reports Drone Attack on French Base in Abu Dhabi",
+    "relevant": true,
+    "summary_en": "Unidentified drones attacked a French military base in Abu Dhabi, UAE. This incident highlights the vulnerability of foreign military installations in the region amid ongoing hostilities. The strategic significance is tied to potential escalation risks and threats to international forces in the Gulf.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "UAE",
+        "France",
+        "Unidentified attackers"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "Unidentified drones attacked a French military base in Abu Dhabi, highlighting regional tensions and vulnerabilities of international forces."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
     "id": "64c2f5c101af5823",
     "title_original": "Ракета упала рядом с круизным лайнером с 3,5 тыс. человек в Абу-Даби",
     "content_original": "Ракета неизвестного происхождения упала рядом с портом в Абу-Даби, где был пришвартован круизный лайнер&nbsp;Mein Schiff 4,&nbsp;принадлежащий германскому туристическому концерну TUI, сообщает Bild.",
@@ -362,6 +472,79 @@
     },
     "lat": 24.45,
     "lng": 54.38
+  },
+  {
+    "id": "f153261ea447fb89",
+    "title_original": "Kuwait Reports One Fatality, 32 Injuries Due to Iranian Attacks",
+    "content_original": "Kuwait, March 01 (QNA) - The Kuwaiti Ministry of Health reported today that one fatality and 32 injuries (all foreign nationalities) were recorded at Al Adan Hospital in the wake of the Iranian attacks.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/kuwait-reports-one-fatality-32-injuries-due-to-iranian-attacks",
+    "published": "2026-03-01T17:36:56+00:00",
+    "fetched_at": "2026-03-01T15:11:48.808496+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Kuwait Reports One Fatality, 32 Injuries Due to Iranian Attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian attacks resulted in one fatality and 32 injuries at Al Adan Hospital in Kuwait, affecting foreign nationals. This highlights the regional impact of the ongoing conflict and the vulnerability of neighboring countries to Iranian retaliatory strikes.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "foreign nationals"
+      ],
+      "location": "Al Adan Hospital, Kuwait",
+      "brief": "Iranian attacks on Kuwait resulted in one fatality and 32 injuries at Al Adan Hospital, demonstrating the regional impact and vulnerability of neighboring countries to Iranian retaliatory strikes."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "52223da01394bef3",
+    "title_original": "UAE Defense Ministry: Iranian Attack Causes Three Fatalities, 58 Minor Injuries",
+    "content_original": "Abu Dhabi, March 01 (QNA) - The Emirati Ministry of Defense has announced that the United Arab Emirates (UAE) air force and air defense forces destroyed 20 ballistic missiles, two cruise missiles, and 311 drones, on the morning of the second day of the Iranian attack.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/uae-defense-ministry-iranian-attack-causes-three-fatalities-58-minor-injuries",
+    "published": "2026-03-01T17:36:45+00:00",
+    "fetched_at": "2026-03-01T15:11:48.808716+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Iranian Attack on UAE Causes Three Fatalities and 58 Injuries",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a significant attack on the UAE, resulting in three fatalities and 58 minor injuries. The UAE air force and air defense forces intercepted and destroyed 20 ballistic missiles, two cruise missiles, and 311 drones. This incident highlights the escalating tensions and direct military confrontation between Iran and the UAE amidst the ongoing conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "air defense",
+      "attack",
+      "ballistic",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US allies"
+      ],
+      "location": "UAE",
+      "brief": "Iran launched a major missile and drone attack on the UAE, resulting in casualties and significant military response."
+    },
+    "lat": 24.0,
+    "lng": 54.0
   },
   {
     "id": "49ba4ef781e272f5",
@@ -1544,6 +1727,188 @@
     "lng": 34.8
   },
   {
+    "id": "a6c24880935288c1",
+    "title_original": "⚡️  A drone crashed inside the US base in Kuwait.",
+    "content_original": "⚡️ A drone crashed inside the US base in Kuwait.",
+    "url": "https://t.me/warmonitors/40269",
+    "published": "2026-03-01T15:11:41+00:00",
+    "fetched_at": "2026-03-01T15:12:28.427586+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Drone Crashes Inside US Base in Kuwait",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An unidentified drone crashed inside a US military base in Kuwait. This incident highlights the vulnerability of US bases in the region to potential drone attacks amid ongoing hostilities with Iran. The incident will likely prompt increased security measures and scrutiny of airspace defenses around US installations in the Gulf.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "unknown drone operator"
+      ],
+      "location": "Kuwait",
+      "brief": "An unidentified drone crashed inside a US military base in Kuwait, indicating potential hostile reconnaissance or attack capabilities amid Iran tensions."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "2d583f6aa014f066",
+    "title_original": "IRGC strikes USS Abraham Lincoln aircraft carrier with volley of ballistic missiles",
+    "content_original": "IRGC strikes USS Abraham Lincoln aircraft carrier with volley of ballistic missiles",
+    "url": "https://presstv.ir/Detail/2026/03/01/764865/irgc-strikes-uss-abraham-lincoln-aircraft-carrier-volley-ballistic-missiles",
+    "published": "2026-03-01T15:11:28.119996+00:00",
+    "fetched_at": "2026-03-01T15:11:28.119998+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC strikes USS Abraham Lincoln aircraft carrier with ballistic missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC launched a volley of ballistic missiles targeting the USS Abraham Lincoln aircraft carrier, marking a significant escalation in direct military engagement with US naval forces. This attack occurred in the Arabian Sea, demonstrating Iran's capability to strike high-value US assets at sea. The incident is likely to provoke a strong US military response and raises the risk of further escalation in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "ballistic",
+      "strike",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC",
+        "US Navy"
+      ],
+      "location": "Arabian Sea",
+      "brief": "IRGC launches ballistic missiles at USS Abraham Lincoln aircraft carrier, marking a major escalation in direct US-Iran military engagement."
+    },
+    "lat": 15.0,
+    "lng": 65.0
+  },
+  {
+    "id": "edb6bf8134108332",
+    "title_original": "IRGC launches largest barrage of missile strikes at Israeli occupied territories",
+    "content_original": "IRGC launches largest barrage of missile strikes at Israeli occupied territories",
+    "url": "https://presstv.ir/Detail/2026/03/01/764861/irgc-launches-largest-barrage-missile-strikes-israeli-occupied-territories",
+    "published": "2026-03-01T15:11:28.119983+00:00",
+    "fetched_at": "2026-03-01T15:11:28.119984+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC launches largest barrage of missile strikes at Israeli occupied territories",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC has launched a significant missile attack targeting Israeli-occupied territories, marking a major escalation in the conflict. This action represents a direct confrontation between Iran and Israel, with potential regional implications. The strikes are likely in retaliation for previous Israeli operations against Iranian-linked targets.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Israel"
+      ],
+      "location": "Israeli-occupied territories",
+      "brief": "IRGC launches major missile strike on Israeli-occupied territories, marking a significant escalation in Iran-Israel conflict."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "fabe553d8391fdba",
+    "title_original": "#إعلام_العدو   القناة 12 العبرية: على خلفية وتيرة إطلاق النار على \"إسرائيل\" - يبدو أن مطار بن غوريون لن يُفتح قبل يوم...",
+    "content_original": "#إعلام_العدو القناة 12 العبرية: على خلفية وتيرة إطلاق النار على \"إسرائيل\" - يبدو أن مطار بن غوريون لن يُفتح قبل يوم الأربعاء لرحلات إجلاء الإسرائيليين.",
+    "url": "https://t.me/Electrohizbullah/156680",
+    "published": "2026-03-01T15:09:03+00:00",
+    "fetched_at": "2026-03-01T15:12:31.604243+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Ben Gurion Airport to remain closed until at least Wednesday due to ongoing attacks on Israel",
+    "relevant": true,
+    "summary_en": "The report indicates that Ben Gurion Airport in Israel will stay closed until at least Wednesday for evacuation flights due to the ongoing attacks. This suggests a significant disruption to civilian and military air traffic, highlighting the impact of the conflict on Israel's infrastructure and evacuation capabilities.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iranian proxies"
+      ],
+      "location": "Israel",
+      "brief": "Ongoing attacks by Iranian-backed Hezbollah forces have forced the closure of Ben Gurion Airport, indicating a significant escalation in regional conflict."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "572b6e817ba6abab",
+    "title_original": "Newly released images of the Iranian missile attack on Beit Shemesh  @PressTV",
+    "content_original": "Newly released images of the Iranian missile attack on Beit Shemesh @PressTV",
+    "url": "https://t.me/presstv/177469",
+    "published": "2026-03-01T15:05:08+00:00",
+    "fetched_at": "2026-03-01T15:12:20.648711+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian missile attack on Beit Shemesh images released",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "PressTV has released new images of an Iranian missile attack on Beit Shemesh, Israel. This highlights ongoing Iranian aggression against Israeli targets amid the broader conflict. The release of these images could be an attempt by Iran to showcase its capabilities and deter further Israeli strikes.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iran releases images of ballistic missile attack on Beit Shemesh, demonstrating offensive capabilities amid ongoing conflict with Israel."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "6893e64b2cbacd06",
     "title_original": "قتلى وجرحى خلال اقتحام قنصلية اميركا بكراتشي احتجاجا على اغتيال السيد الخامنئي",
     "content_original": "نجح العشرات من الباكستانيين اليوم الاحد، باقتحام ومهاجمة القنصلية الامريكية في كراتشي، احتجاجا على اغتيال قائد الثورة الاسلامية في ايران آية الله الا...",
@@ -1581,6 +1946,122 @@
     "lng": 67.0207055
   },
   {
+    "id": "7743f77339a2ee04",
+    "title_original": "Iran drone attack caused fire at base hosting French forces: UAE",
+    "content_original": "An Iranian drone attack on an Abu Dhabi naval base hosting French forces caused a fire but no casualties, the UAE's defence ministry said Sunday, as Iran struck Gulf countries for a second day. The Iranian drone and missile salvos were in retaliation for an ongoing wave of US and Israeli strikes on the Islamic republic that killed its supreme leader on Saturday. \"Specialised teams responded today to an incident resulting from an attack by two Iranian drones on a warehouse at Al Salam Naval Base in Abu Dhabi. The attack caused a fire in two containers of general materials, but there were no casualties,\" the defence ministry said. The base, also known as Camp de la Paix, is Emirati, but hosts French forces at the UAE's invitation. The French military declined to comment on the reports of the strike on Sunday.",
+    "url": "https://www.newarab.com/news/iran-drone-attack-caused-fire-base-hosting-french-forces-uae",
+    "published": "2026-03-01T15:02:57+00:00",
+    "fetched_at": "2026-03-01T15:11:51.001267+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian drone attack on UAE naval base hosting French forces causes fire",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a drone attack on Al Salam Naval Base in Abu Dhabi, which hosts French forces, causing a fire in two containers but no casualties. This attack was in retaliation for ongoing US and Israeli strikes on Iran, including one that reportedly killed Iran's supreme leader. The incident signifies an escalation in the conflict with Iran targeting Gulf countries hosting foreign military assets.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "killed",
+      "drone",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "France",
+        "US",
+        "Israel"
+      ],
+      "location": "Al Salam Naval Base, Abu Dhabi, UAE",
+      "brief": "Iran launched a retaliatory drone strike on a UAE naval base hosting French forces, causing a fire but no casualties, in response to US and Israeli strikes on Iranian targets."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "b1d6d03d34426452",
+    "title_original": "⚡️  US attacks targets in Kerman, eastern Iran",
+    "content_original": "⚡️ US attacks targets in Kerman, eastern Iran",
+    "url": "https://t.me/warmonitors/40266",
+    "published": "2026-03-01T15:01:32+00:00",
+    "fetched_at": "2026-03-01T15:12:28.425742+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US attacks targets in Kerman, eastern Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US conducted strikes on targets in Kerman, eastern Iran, likely targeting IRGC or military assets. This represents an escalation of US operations within Iranian territory. The strikes signify a significant expansion of the conflict's geographic scope and direct targeting of Iranian infrastructure.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Kerman, Iran",
+      "brief": "The US conducted airstrikes targeting IRGC or military assets in eastern Iran, marking a significant escalation of direct military engagement."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "900590442c2a36cb",
+    "title_original": "📝 ВОЙНА ПРОТИВ ИРАНА 24/7 📝 Вся  лента событий  по американо-израильской войне доступна на нашем  ОРИЕНТАРЕ   @rybar_...",
+    "content_original": "📝 ВОЙНА ПРОТИВ ИРАНА 24/7 📝 Вся лента событий по американо-израильской войне доступна на нашем ОРИЕНТАРЕ @rybar_mena . 🔸 Применение американского аналога «Гераней» во время войны 🔸 Массовые жертвы в израильском Бейт-Шемеше 🔸 Возможное участие саудитов в конфликте 🔸 Зачем ударили по Кипру ? 🔸 Консолидация иранского общества и новый лидер 🔸 Разбор удара по Кувейту и объяснение ударов по ЦРУ на Ближнем Востоке ❗️ Подписывайтесь , чтобы не пропустить очередную волну иранских ударов. 🧨 @rybar_mena — о ближневосточном хаосе с любовью",
+    "url": "https://t.me/rybar/78013",
+    "published": "2026-03-01T15:00:04+00:00",
+    "fetched_at": "2026-03-01T15:12:24.362291+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US-Iran War Updates: US 'Geranium' Weapon Use, Israeli Casualties, Saudi Involvement, Strikes on Cyprus, Iranian Unity, Strikes on Kuwait and CIA Targets",
+    "relevant": true,
+    "summary_en": "The article discusses the use of a US weapon similar to 'Geranium' during the conflict, significant casualties in Beit Shemesh, Israel, potential Saudi involvement, strikes on Cyprus, Iranian societal consolidation under a new leader, and attacks on Kuwait and CIA targets in the Middle East. These developments highlight the ongoing escalation and regional impact of the US-Iran war.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran|iran_strike_on_us|hezbollah_action|houthi_attack|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Israel",
+        "Saudi Arabia",
+        "Houthis",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Middle East (Israel, Cyprus, Kuwait, Iran)",
+      "brief": "The conflict has escalated with significant casualties in Israel, strikes on Cyprus and Kuwait, and indications of Saudi involvement, as Iran consolidates under new leadership amidst US-Iran direct engagement."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "dae842f372dfe02b",
     "title_original": "Перед Ормузским проливом скопились танкеры после удара по одному судну",
     "content_original": "Рядом с Ормузским проливом образовалось скопление судов, следует из данных портала Marine Traffic.",
@@ -1615,6 +2096,41 @@
     },
     "lat": 26.56,
     "lng": 56.25
+  },
+  {
+    "id": "a8ffacd218472b46",
+    "title_original": "🚨 سنتکام: ۳سرباز آمریکایی تا الان کشته شدن ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران...",
+    "content_original": "🚨 سنتکام: ۳سرباز آمریکایی تا الان کشته شدن ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44973",
+    "published": "2026-03-01T14:59:22+00:00",
+    "fetched_at": "2026-03-01T15:12:30.356854+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "CENTCOM Reports 3 US Soldiers Killed",
+    "relevant": true,
+    "summary_en": "CENTCOM has announced that three US soldiers have been killed, likely in the ongoing conflict with Iran or its proxies. This indicates an escalation in hostilities and potential direct engagement with US forces. The incident's location and circumstances are not specified but are significant for US military operations in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Iranian proxies"
+      ],
+      "location": "unspecified",
+      "brief": "Three US soldiers killed in incident likely involving Iranian proxies, indicating escalation in hostilities."
+    },
+    "merged_source_count": 2
   },
   {
     "id": "63633ca8fe923ce2",
@@ -1655,6 +2171,44 @@
     },
     "lat": 33.51,
     "lng": 36.29
+  },
+  {
+    "id": "cd0b49012dac20cd",
+    "title_original": "⚡️ Red alert, Haifa area",
+    "content_original": "⚡️ Red alert, Haifa area",
+    "url": "https://t.me/warmonitors/40264",
+    "published": "2026-03-01T14:56:32+00:00",
+    "fetched_at": "2026-03-01T15:12:28.424524+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Red alert declared in Haifa area",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A red alert has been declared in the Haifa area, likely indicating incoming rocket or missile threats. This suggests potential escalation by Hezbollah or other Iran-backed groups targeting Israel. The alert signifies a direct threat to Israeli civilians and infrastructure in the region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "hezbollah",
+      "rocket",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Haifa, Israel",
+      "brief": "Hezbollah or Iran-backed groups likely launched a missile or rocket attack against Israel, triggering a red alert in Haifa."
+    },
+    "lat": 32.79,
+    "lng": 34.99
   },
   {
     "id": "23fd743993691228",
@@ -2019,6 +2573,43 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "c9ddf2fea748ec41",
+    "title_original": "The months-long, US-Israeli mission to find and kill Iran's Supreme Leader",
+    "content_original": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
+    "url": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-03-01T14:45:56+00:00",
+    "fetched_at": "2026-03-01T15:12:17.998743+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "US-Israeli mission to target Iran's Supreme Leader",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel have been engaged in a months-long operation to locate and assassinate Iran's Supreme Leader in Tehran. Crucial intelligence was received just hours before a strike on a compound in central Tehran. This represents a significant escalation in the conflict, targeting Iran's highest authority.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The US and Israel are conducting a high-stakes operation to assassinate Iran's Supreme Leader, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 7,
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "0ecea8927a913ffc",
@@ -8127,6 +8718,77 @@
     "merged_source_count": 7,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "3566936bc9cc24db",
+    "title_original": "US military says three of its service members killed in Iran operation",
+    "content_original": "WASHINGTON, March 1 (Reuters) - Three U.S. service members have been killed in action as part of U.S. military operations against Iran, the U.S. Central Command said in a statement on Sunday. Five others were seriously wounded as part of Operation Epic Fury, it said. (Reporting by Doina Chiacu; Editing by Paul Simao)",
+    "url": "https://www.al-monitor.com/originals/2026/03/us-military-says-three-its-service-members-killed-iran-operation",
+    "published": "2026-03-01T10:01:44-05:00",
+    "fetched_at": "2026-03-01T15:11:50.642275+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Three US service members killed in Iran operation",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US service members were killed and five others seriously wounded during Operation Epic Fury against Iran, as reported by US Central Command. This highlights the ongoing direct military engagement between the US and Iran, with casualties impacting US forces.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "wounded"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran"
+      ],
+      "location": "Middle East",
+      "brief": "Three US service members were killed and five wounded in Operation Epic Fury, indicating direct military engagement between the US and Iran."
+    },
+    "merged_source_count": 4,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "68263bbdbf51cc8f",
+    "title_original": "Three tankers damaged in Gulf as US-Iran conflict escalates",
+    "content_original": "By Yousef Saba, Jaidaa Taha and Jonathan Saul DUBAI/LONDON, March 1 (Reuters) - At least three tankers were damaged off the Gulf coast after U.S. and Israeli strikes on Iran triggered Iranian retaliation that put merchant ships at risk of collateral damage, shipping sources and officials said on Sunday. Risks to commercial shipping have surged in the past 24 hours, with more than 200 vessels including oil and liquefied gas tankers dropping anchor around the Strait of Hormuz and surrounding waters, shipping data showed on Sunday.",
+    "url": "https://www.al-monitor.com/originals/2026/03/three-tankers-damaged-gulf-us-iran-conflict-escalates",
+    "published": "2026-03-01T10:01:44-05:00",
+    "fetched_at": "2026-03-01T15:11:50.642094+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Three tankers damaged in Gulf amid US-Iran conflict escalation",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "At least three tankers were damaged off the Gulf coast after US and Israeli strikes on Iran prompted Iranian retaliation, posing risks to commercial shipping. Over 200 vessels, including oil and liquefied gas tankers, have anchored near the Strait of Hormuz and surrounding waters, highlighting the increased risks to maritime traffic in the region.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Gulf of Oman, Strait of Hormuz",
+      "brief": "Three tankers were damaged in a naval incident amid escalating US-Iran tensions, with US and Israeli strikes prompting Iranian retaliation, impacting over 200 commercial vessels in the strategic waterway."
+    },
+    "lat": 26.56,
+    "lng": 56.25
   },
   {
     "id": "d08990b81a6f8e3f",

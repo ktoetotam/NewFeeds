@@ -1,5 +1,98 @@
 [
   {
+    "id": "6e72c4f4884b67bf",
+    "title_original": "Israelis Are Tense but Relieved That Iran’s Supreme Leader Is Dead",
+    "content_original": "Iranian missile and drone attacks have caused anxiety across Israel, but many believe it is a price worth paying for killing Ayatollah Ali Khamenei.",
+    "url": "https://www.nytimes.com/2026/03/01/world/middleeast/israelis-are-tense-but-relieved-that-irans-supreme-leader-is-dead.html",
+    "published": "2026-03-01T15:09:09+00:00",
+    "fetched_at": "2026-03-01T15:12:07.507075+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Israelis Are Tense but Relieved That Iran’s Supreme Leader Is Dead",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The death of Ayatollah Ali Khamenei has led to mixed emotions in Israel, with relief over his demise tempered by ongoing concerns about Iranian missile and drone attacks. The situation highlights the strategic significance of the leadership change in Iran amidst the ongoing conflict, as Israel remains on high alert for potential retaliatory attacks."
+  },
+  {
+    "id": "f8f820dd4b936f6a",
+    "title_original": "Tributes paid to 'loving' man who died after being pulled from water in town centre - as woman, 30, is arrested",
+    "url": "https://www.dailymail.co.uk/news/article-15603583/Tributes-paid-loving-man-died-pulled-water-town-centre-woman-30-arrested.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T15:02:53+00:00",
+    "fetched_at": "2026-03-01T15:12:19.243106+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "11ebde11e3327d41",
+    "title_original": "Professor who reportedly paused UK puberty blockers trial recused over ‘bias’",
+    "url": "https://www.theguardian.com/society/2026/mar/01/professor-reportedly-paused-uk-puberty-blockers-trial-recused-bias",
+    "published": "2026-03-01T15:02:10+00:00",
+    "fetched_at": "2026-03-01T15:12:18.103846+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "925fc084c13545e7",
+    "title_original": "Iran’s Regime May Survive, but the Middle East Will Be Changed",
+    "content_original": "A badly weakened Iran will no longer intimidate or threaten its neighbors in the same way. The regional impact could be comparable to the collapse of the Soviet Union.",
+    "url": "https://www.nytimes.com/2026/03/01/world/europe/irans-regime-may-survive-but-the-middle-east-will-be-changed.html",
+    "published": "2026-03-01T15:01:47+00:00",
+    "fetched_at": "2026-03-01T15:12:07.506864+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran’s Regime May Survive, but the Middle East Will Be Changed",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article suggests that while Iran's regime might endure, its weakened state will significantly alter the regional power dynamics, potentially leading to a transformation in the Middle East akin to the aftermath of the Soviet Union's collapse. This has implications for Iran's ability to project power and influence its neighbors."
+  },
+  {
+    "id": "ddde20f0ec29c8c1",
+    "title_original": "Luisa Zissman says she was forced to retreat to her Dubai basement with her children after 'massive explosions' on her way to the park - as Love Island stars and influencers detail 'scariest night of their lives'",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603905/Luisa-Zissman-says-forced-retreat-Dubai-basement-children-hearing-four-massive-explosions-way-park.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T15:00:20+00:00",
+    "fetched_at": "2026-03-01T15:12:19.243487+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "c9ddf2fea748ec41",
+    "title_original": "The months-long, US-Israeli mission to find and kill Iran's Supreme Leader",
+    "content_original": "A piece of crucial intelligence arrived just hours before the attack on a compound in central Tehran.",
+    "url": "https://www.bbc.com/news/articles/c86y5540vnno?at_medium=RSS&at_campaign=rss",
+    "published": "2026-03-01T14:45:56+00:00",
+    "fetched_at": "2026-03-01T15:12:17.998743+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "US-Israeli mission to target Iran's Supreme Leader",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel have been engaged in a months-long operation to locate and assassinate Iran's Supreme Leader in Tehran. Crucial intelligence was received just hours before a strike on a compound in central Tehran. This represents a significant escalation in the conflict, targeting Iran's highest authority."
+  },
+  {
     "id": "0ecea8927a913ffc",
     "title_original": "A visual guide to US-Israeli strikes on Iran – and Tehran’s response",
     "content_original": "Missiles and bombs landed across Iran, hitting political and security targets in Tehran, including supreme leader’s residence US-Israeli attack on Iran – live updates US and Israel strikes on Iran – what we know so far The US-Israeli war against Iran entered its second day on Sunday, as news of the assassination of the country’s supreme leader, Ali Khamenei, shook the Islamic Republic and the wider region. Donald Trump announced Khamenei’s death while Israel claimed to have killed at least 40 senior Iranian commanders in the first day of attacks. Both countries continued to pound Iran, conducting hundreds of airstrikes across the country overnight and on Sunday. Despite the apparent loss of a significant portion of its senior military and political leadership, Iran did not slow its retaliation on Sunday, bombing targets in the Gulf and unleashing waves of ballistic missiles towards Israel. Continue reading...",
@@ -53,7 +146,6 @@
   {
     "id": "1fa3c0e446b49b98",
     "title_original": "Green party membership in UK passes 200,000 after byelection victory",
-    "content_original": "Party leader Zack Polanski says surge in numbers ‘proves that the future of progressive politics belongs to the Greens’ The Green party said its membership has passed 200,000 this weekend in the wake of its victory in the Gorton and Denton byelection overturning a huge Labour majority. The party’s membership has tripled since September last year, when it was about 68,000, after the announcement of Zack Polanski as its new leader. Continue reading...",
     "url": "https://www.theguardian.com/politics/2026/mar/01/green-party-membership-surge-byelection-victory-zack-polanski",
     "published": "2026-03-01T14:27:29+00:00",
     "fetched_at": "2026-03-01T14:38:25.889212+00:00",
@@ -62,10 +154,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Green party membership in UK surpasses 200,000 after byelection victory",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "7c34942f7e3f3e43",
@@ -87,7 +177,6 @@
   {
     "id": "3c4e0ea962aaa664",
     "title_original": "Starmer's Chagos Islands surrender deal faces threat of legal challenge from the Maldives",
-    "content_original": "Starmer's Chagos Islands surrender deal faces threat of legal challenge from the Maldives",
     "url": "https://www.dailymail.co.uk/news/article-15603685/Starmers-Chagos-Islands-surrender-deal-faces-threat-legal-challenge-Maldives.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T14:22:39+00:00",
     "fetched_at": "2026-03-01T14:38:27.165402+00:00",
@@ -96,15 +185,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Starmer's Chagos Islands surrender deal faces threat of legal challenge from the Maldives",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "04d5ec4c0c28ca54",
     "title_original": "UK weather maps show snow barrage hitting as far south as Cornwall in March",
-    "content_original": "Parts of the UK will be covered under the layers of snow, the maps have suggested.",
     "url": "https://www.express.co.uk/news/weather/2176861/uk-weather-maps-snow-blizzards-cornwall",
     "published": "2026-03-01T14:22:00+00:00",
     "fetched_at": "2026-03-01T14:38:27.529795+00:00",
@@ -113,15 +199,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "UK weather maps show snow barrage hitting as far south as Cornwall in March",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "675993da65eed173",
     "title_original": "China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot",
-    "content_original": "Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.",
     "url": "https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html",
     "published": "2026-03-01T14:15:41+00:00",
     "fetched_at": "2026-03-01T14:23:54.488066+00:00",
@@ -130,15 +213,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "China's Honor debuts smartphone with robotic camera arm and humanoid robot",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "cbb37b4fb33309c0",
     "title_original": "Catherine shares St David's Day message in Welsh",
-    "content_original": "The Princess of Wales says Wales is \"very close to our hearts\" in St David's Day video message.",
     "url": "https://www.bbc.com/news/articles/c70n99e396jo?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T14:11:49+00:00",
     "fetched_at": "2026-03-01T14:23:54.980705+00:00",
@@ -147,10 +227,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Catherine shares St David's Day message in Welsh",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "63170b06b072f72e",
@@ -189,7 +267,6 @@
   {
     "id": "cf15c7dd00167580",
     "title_original": "‘Less lethal’ deaths: courts examine role of controversial police weapons before three Australians died",
-    "content_original": "Exclusive: Police forces argue bean-bag and foam baton rounds are less harmful than firearms, but the projectiles have been linked to deaths around the world Get our breaking news email , free app or daily news podcast At least three people died within four months of one another after being shot with “less lethal” projectiles and stun guns at their homes, sparking a series of inquests and civil cases that could overhaul how police officers use force. Police forces have argued the projectiles – such as bean-bag and foam baton rounds fired from weapons similar to shotguns and other launchers – provide officers with a less harmful alternative to firearms. Continue reading...",
     "url": "https://www.theguardian.com/australia-news/2026/mar/02/australian-police-guns-less-lethal-weapons-ntwnfb",
     "published": "2026-03-01T14:00:45+00:00",
     "fetched_at": "2026-03-01T14:09:35.033093+00:00",
@@ -198,15 +275,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Courts examine role of 'less lethal' police weapons after Australian deaths",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "054e672be6e28d81",
     "title_original": "Populist crusade and anti-Maga outrage as Texas Democrats do battle in Senate primary",
-    "content_original": "James Talarico and Jasmine Crockett adopt contrasting strategies as party hopes to tap into Trump backlash in reliably red state At a packed town hall meeting last month in Laredo for James Talarico, the 36-year-old Democrat vying for a US Senate seat in Texas, Cristina Rodriguez took the microphone. Rodriguez, a 16-year Marine Corps veteran, said she had never cast a ballot. She didn’t identify as either a Democrat nor a Republican, and to her it didn’t matter. Regardless of what party the president belonged to, she had to obey orders. Her attitude changed after the re-election of Donald Trump, whom she viewed as spiteful and divisive. In Talarico, a state representative from the Austin suburb of Round Rock, she found the exact opposite – a former middle school teacher and current seminary student who speaks in measured tones and preaches mutual respect. Continue reading...",
     "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-democrats-primary-senate-seat",
     "published": "2026-03-01T14:00:44+00:00",
     "fetched_at": "2026-03-01T14:09:35.036409+00:00",
@@ -215,15 +289,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Texas Democrats battle in Senate primary amid anti-Maga sentiment",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "5ba0bc9b31ee1755",
     "title_original": "UK teachers and parents urged to talk to children about Jeffrey Epstein’s crimes",
-    "content_original": "Experts say trusted adults must be brave and discuss issue or risk children looking for answers from unsafe sources Teachers and parents in the UK need to be brave and discuss Jeffrey Epstein’s crimes with children and young people or risk them looking for answers from dubious or dangerous sources, according to experts who will host the first public seminar for schools on the issue. Thrive, the education consultancy hosting the online seminar on the convicted child sex offender, said: “Many children and young people are encountering this material often without context, warnings or adult support, leaving educators to manage the emotional and safeguarding impact in real time.” Continue reading...",
     "url": "https://www.theguardian.com/education/2026/mar/01/uk-teachers-parents-urged-talk-children-jeffrey-epstein-crimes",
     "published": "2026-03-01T14:00:42+00:00",
     "fetched_at": "2026-03-01T14:09:35.035707+00:00",
@@ -232,15 +303,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "UK teachers and parents urged to discuss Jeffrey Epstein's crimes with children",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "8a1c737a7ed68da5",
     "title_original": "Mark Ronson shares a passionate kiss with his wife Grace Gummer, who is the daughter of a major Hollywood star, after his sweet tribute to her at the BRITs",
-    "content_original": "Mark Ronson shares a passionate kiss with his wife Grace Gummer, who is the daughter of a major Hollywood star, after his sweet tribute to her at the BRITs",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603623/Mark-Ronson-public-affection-wife-Grace-Gummer.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T13:58:56+00:00",
     "fetched_at": "2026-03-01T14:09:36.203264+00:00",
@@ -249,15 +317,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Mark Ronson shares a passionate kiss with Grace Gummer at the BRITs",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "6ecb31939346cac1",
     "title_original": "Joe Randall, Chef Who Celebrated Black Cooking Traditions, Dies at 79",
-    "content_original": "Chef Joe Randall, executive chef and owner of his self-titled cooking school, in 2016. “He made it clear that Black foodways are foundational to American cuisine, not a footnote to it,” the chef Marcus Samuelsson said.",
     "url": "https://www.nytimes.com/2026/02/28/dining/joe-randall-dead.html",
     "published": "2026-03-01T13:56:09+00:00",
     "fetched_at": "2026-03-01T14:09:24.275132+00:00",
@@ -266,10 +331,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Joe Randall, Chef Who Celebrated Black Cooking Traditions, Dies at 79",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "daf692252dca1123",
@@ -308,7 +371,6 @@
   {
     "id": "fd9b84e77481ad21",
     "title_original": "'Experienced' skydiver, 49, died at aerodrome in Devon while performing 'wingsuit jump with friend', operator says",
-    "content_original": "'Experienced' skydiver, 49, died at aerodrome in Devon while performing 'wingsuit jump with friend', operator says",
     "url": "https://www.dailymail.co.uk/news/article-15603749/Experienced-skydiver-49-died-aerodrome-Devon-performing-wingsuit-jump-friend-operator-says.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T13:47:58+00:00",
     "fetched_at": "2026-03-01T13:52:02.985759+00:00",
@@ -317,15 +379,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Skydiver dies during wingsuit jump in Devon",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "d6a684a5d2b714e9",
     "title_original": "Jaime Winstone is held up by a friend while sunglasses-wearing Jamie Laing joins the bleary eyed exits from the 2026 BRITs after parties",
-    "content_original": "Jaime Winstone is held up by a friend while sunglasses-wearing Jamie Laing joins the bleary eyed exits from the 2026 BRITs after parties",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603635/Jaime-Winstone-held-friend-sunglasses-wearing-Jamie-Laing-joins-bleary-eyed-exits-2026-BRITs-parties.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T13:45:43+00:00",
     "fetched_at": "2026-03-01T13:52:02.986290+00:00",
@@ -334,10 +393,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Celebrities leave 2026 BRITs after parties",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4b44f92b7616a28a",
@@ -359,7 +416,6 @@
   {
     "id": "1cf112547d490ab2",
     "title_original": "Manchester United vs Crystal Palace - Premier League LIVE: Latest score, team news and updates as Benjamin Sesko STARTS with Red Devils targeting fourth home win in a row which would see them leapfrog Villa plus Fulham vs Spurs",
-    "content_original": "Manchester United vs Crystal Palace - Premier League LIVE: Latest score, team news and updates as Benjamin Sesko STARTS with Red Devils targeting fourth home win in a row which would see them leapfrog Villa plus Fulham vs Spurs",
     "url": "https://www.dailymail.co.uk/sport/football/article-15599293/Manchester-United-vs-Crystal-Palace-Fulham-vs-Tottenham-2025-26-Premier-League-LIVE-Result.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T13:32:07+00:00",
     "fetched_at": "2026-03-01T13:35:11.799292+00:00",
@@ -368,15 +424,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Manchester United vs Crystal Palace - Premier League Match Update",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "6a6ab31400c9ce1c",
     "title_original": "Olivia Attwood looks cosy with Pete Wicks as they party together at the BRITs after her split from husband Bradley Dack",
-    "content_original": "Olivia Attwood looks cosy with Pete Wicks as they party together at the BRITs after her split from husband Bradley Dack",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603755/Olivia-Attwood-looks-cosy-Pete-Wicks-party-BRITs-split-husband-Bradley-Dack.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T13:30:58+00:00",
     "fetched_at": "2026-03-01T13:35:11.799444+00:00",
@@ -385,15 +438,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Olivia Attwood parties with Pete Wicks at BRITs after split from husband",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a7b7db44d9f40a01",
     "title_original": "Coleen Rooney reveals she's the 'boss' at home with 'annoying' Wayne, their footballer sons two new pet pigs and a documentary film crew",
-    "content_original": "Coleen Rooney reveals she's the 'boss' at home with 'annoying' Wayne, their footballer sons two new pet pigs and a documentary film crew",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603515/Coleen-Rooney-reveals-shes-boss-home-annoying-Wayne-footballer-sons-two-new-pet-pigs-documentary-film-crew.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T13:30:25+00:00",
     "fetched_at": "2026-03-01T13:52:02.987346+00:00",
@@ -402,15 +452,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Coleen Rooney reveals family life details with Wayne and sons",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "cab082bfad37e31b",
     "title_original": "Texas bar shooting leaves three people dead and 14 wounded, police say",
-    "content_original": "Police confronted man with gun at popular beer garden and then ‘returned fire, killing the suspect’ Authorities say three people were killed and 14 others were wounded after a shooting at a bar in Austin, Texas. Austin police chief Lisa Davis said at a press conference early Sunday that police received a call for reports of a “male shooting” at Buford’s, a popular beer garden in the city’s entertainment district. Continue reading...",
     "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-bar-shooting",
     "published": "2026-03-01T13:08:23+00:00",
     "fetched_at": "2026-03-01T13:35:10.426572+00:00",
@@ -419,15 +466,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Texas bar shooting leaves three dead, 14 wounded",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4b629163b61cda1e",
     "title_original": "The UK stockmarket's still full of hidden gems: JEFF PRESTRIDGE on the dirt cheap potential winners",
-    "content_original": "The UK stockmarket's still full of hidden gems: JEFF PRESTRIDGE on the dirt cheap potential winners",
     "url": "https://www.dailymail.co.uk/money/article-15601655/British-stock-market-money-guru-JEFF-PRESTRIDGE-UK-shares.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T13:05:56+00:00",
     "fetched_at": "2026-03-01T13:35:11.800498+00:00",
@@ -436,10 +480,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "UK stockmarket has hidden investment opportunities",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "f562bc3b9e71a13e",
@@ -478,7 +520,6 @@
   {
     "id": "6bd0a2ca8028add7",
     "title_original": "Texas mass shooting leaves at least three dead and 17 wounded after gunman opened fire in bar",
-    "content_original": "Texas mass shooting leaves at least three dead and 17 wounded after gunman opened fire in bar",
     "url": "https://www.dailymail.co.uk/news/article-15603763/Austin-Texas-shooting-bar-buford-gunman-killed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T12:45:03+00:00",
     "fetched_at": "2026-03-01T13:01:36.120829+00:00",
@@ -487,15 +528,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Texas mass shooting leaves at least three dead and 17 wounded",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "6c6cfbd51c4a2784",
     "title_original": "Man arrested over 2021 bedroom killing of teenager",
-    "content_original": "A 26-year-old man is in police custody after Camron Smith,16, was stabbed to death in 2021.",
     "url": "https://www.bbc.com/news/articles/c178xp8r5wno?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T12:38:44+00:00",
     "fetched_at": "2026-03-01T13:01:33.473579+00:00",
@@ -504,15 +542,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man arrested for 2021 murder of teenager",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "517c84817f57952e",
     "title_original": "Top Wall Street analysts recommend these dividend stocks for enhanced returns",
-    "content_original": "TipRanks names three stocks with dividends that analysts believe can bolster investors' portfolios.",
     "url": "https://www.cnbc.com/2026/03/01/top-wall-street-analysts-recommend-these-dividend-stocks-for-enhanced-returns.html",
     "published": "2026-03-01T12:38:29+00:00",
     "fetched_at": "2026-03-01T13:01:32.985383+00:00",
@@ -521,10 +556,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Top Wall Street analysts recommend these dividend stocks for enhanced returns",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "62a005e6b98fc270",
@@ -563,7 +596,6 @@
   {
     "id": "ff07fcd2d7d6d88d",
     "title_original": "Kelly Osbourne criticises 'cruel and dehumanising' trolls after Brits appearance as she says she is going through 'the hardest time of my life'",
-    "content_original": "Kelly Osbourne criticises 'cruel and dehumanising' trolls after Brits appearance as she says she is going through 'the hardest time of my life'",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603703/Kelly-Osbourne-criticises-cruel-dehumanising-trolls-Brits-appearance-says-going-hardest-time-life.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T12:33:28+00:00",
     "fetched_at": "2026-03-01T13:01:36.121391+00:00",
@@ -572,10 +604,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Kelly Osbourne criticizes trolls after Brits appearance",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e83befb587d59f6b",
@@ -597,7 +627,6 @@
   {
     "id": "d32dbffcf1df6efa",
     "title_original": "Mysterious visitors arrived as my mother lay dying. Then I took a photo that leaves people slack-jawed... it breaches the border of the afterlife",
-    "content_original": "Mysterious visitors arrived as my mother lay dying. Then I took a photo that leaves people slack-jawed... it breaches the border of the afterlife",
     "url": "https://www.dailymail.co.uk/lifestyle/article-15564907/mysterious-visitors-mother-dying-photo-afterlife.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T12:08:21+00:00",
     "fetched_at": "2026-03-01T12:18:39.099584+00:00",
@@ -606,15 +635,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Mysterious visitors and a photo breaching the border of the afterlife",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "0fd905de24efb029",
     "title_original": "Murder arrest after man dies in shopping centre attack",
-    "content_original": "A large police cordon is in place at the Milton Keynes shopping centre.",
     "url": "https://www.bbc.com/news/articles/cy0dpqqx5ngo?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T12:07:51+00:00",
     "fetched_at": "2026-03-01T12:18:37.603956+00:00",
@@ -623,15 +649,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Murder arrest after man dies in shopping centre attack",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "88b8d4d0166183a7",
     "title_original": "Aussie influencer's viral video from her Dubai hotel is slammed as 'selfish' as conflict spreads across Middle East",
-    "content_original": "Aussie influencer's viral video from her Dubai hotel is slammed as 'selfish' as conflict spreads across Middle East",
     "url": "https://www.dailymail.co.uk/news/article-15603541/Dubai-Australia-hotel-Iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T12:07:17+00:00",
     "fetched_at": "2026-03-01T12:18:39.099760+00:00",
@@ -640,15 +663,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Aussie influencer's viral video from her Dubai hotel is criticized as conflict escalates in the Middle East",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "81b1a254bd342b97",
     "title_original": "Starmer’s judgement under fresh scrutiny as another Labour peer he appointed is suspended",
-    "content_original": "The newly ennobled Lord Joe Docherty of Milngavie, who was nominated to join the House of Lords by the prime minister, was stripped of the party whip on Saturday, pending an investigation into alleged inappropriate behaviour",
     "url": "https://www.independent.co.uk/news/uk/politics/keir-starmer-judgement-peer-suspended-b2929682.html",
     "published": "2026-03-01T12:04:53+00:00",
     "fetched_at": "2026-03-01T12:18:39.339546+00:00",
@@ -657,10 +677,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Starmer's judgement under scrutiny as another Labour peer is suspended",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9ca9a7622e031ff3",
@@ -682,7 +700,6 @@
   {
     "id": "93833398d2cda750",
     "title_original": "Andrew's 'serial sex addiction': Epstein dubbed him 'king of kink', he 'slept with more than 12 women in the first year of marriage' - and what of those rumours that Fergie caught him in flagrante with another man?",
-    "content_original": "Andrew's 'serial sex addiction': Epstein dubbed him 'king of kink', he 'slept with more than 12 women in the first year of marriage' - and what of those rumours that Fergie caught him in flagrante with another man?",
     "url": "https://www.dailymail.co.uk/news/royals/article-15591873/prince-andrew-history-sex-epstein.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T12:03:08+00:00",
     "fetched_at": "2026-03-01T12:18:39.100302+00:00",
@@ -691,15 +708,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Prince Andrew's alleged sex addiction and involvement with Epstein",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "7bbbcf2565e17007",
     "title_original": "3 Killed in Shooting at Bar in Austin",
-    "content_original": "Emergency vehicles were at the scene of the shooting in Austin, Texas, early Sunday.",
     "url": "https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html",
     "published": "2026-03-01T12:02:57+00:00",
     "fetched_at": "2026-03-01T12:18:27.664663+00:00",
@@ -708,10 +722,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "3 Killed in Shooting at Bar in Austin",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "5c7bd5591e6c31f7",
@@ -733,7 +745,6 @@
   {
     "id": "7ee5803afab00d65",
     "title_original": "US moving pregnant immigrant girls to Texas to avoid providing abortions, critics say",
-    "content_original": "Ex-official calls transfer of unaccompanied girls as young as 13, many pregnant due to rape, a human rights violation All unaccompanied immigrant children who are pregnant, many by rape, are being moved to a single facility in Texas in order to avoid providing abortion services in a significant human rights violation, critics say. As detainees are frequently moved across state lines quickly, often to red states like Texas, pregnant people are facing challenges accessing reproductive health care in detention centers. Continue reading...",
     "url": "https://www.theguardian.com/us-news/2026/mar/01/pregnant-immigrant-children-texas-abortion",
     "published": "2026-03-01T12:00:42+00:00",
     "fetched_at": "2026-03-01T12:18:37.745253+00:00",
@@ -742,10 +753,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "US moving pregnant immigrant girls to Texas to avoid providing abortions, critics say",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4052fff7dc1af011",
@@ -767,7 +776,6 @@
   {
     "id": "365f87d6f55361d5",
     "title_original": "Teeth grinding at night affects millions, yet is so commonly misdiagnosed or ignored. Now experts say there's a key sign it's happening to you... and this is what you need to do about it",
-    "content_original": "Teeth grinding at night affects millions, yet is so commonly misdiagnosed or ignored. Now experts say there's a key sign it's happening to you... and this is what you need to do about it",
     "url": "https://www.dailymail.co.uk/health/article-15601965/Teeth-grinding-night-affects-millions-commonly-misdiagnosed-ignored-experts-say-theres-key-sign-happening-you-you-need-it.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:57:44+00:00",
     "fetched_at": "2026-03-01T12:18:39.100985+00:00",
@@ -776,15 +784,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Teeth grinding at night affects millions and has a key sign for diagnosis",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e2ccaedd937d7c96",
     "title_original": "All the viral moments from The BRIT Awards 2026: From Harry Styles' return to the stage to Jack Whitehall's controversial jokes and Noel Gallagher's nod to Liam",
-    "content_original": "All the viral moments from The BRIT Awards 2026: From Harry Styles' return to the stage to Jack Whitehall's controversial jokes and Noel Gallagher's nod to Liam",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602805/All-viral-moments-BRIT-Awards-2026-Harry-Styles-return-stage-Jack-Whitehalls-controversial-jokes-Noel-Gallaghers-nod-Liam.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:54:11+00:00",
     "fetched_at": "2026-03-01T12:18:39.101514+00:00",
@@ -793,15 +798,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "The BRIT Awards 2026 highlights viral moments",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "fa5745a6428caf29",
     "title_original": "Britain deserves far better than this fiscal fantasy: Shadow Chancellor MEL STRIDE on the farce of the Spring Statement",
-    "content_original": "Britain deserves far better than this fiscal fantasy: Shadow Chancellor MEL STRIDE on the farce of the Spring Statement",
     "url": "https://www.dailymail.co.uk/money/markets/article-15601577/MEL-STRIDE-Britain-deserves-better-deluded-Chancellor.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:53:34+00:00",
     "fetched_at": "2026-03-01T12:18:39.101682+00:00",
@@ -810,15 +812,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Britain deserves far better than this fiscal fantasy: Shadow Chancellor MEL STRIDE on the farce of the Spring Statement",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "5f421cc4502b30cc",
     "title_original": "Plane crashes into popular UK beach as pilot forced to 'crawl from the wreckage into water'",
-    "content_original": "Plane crashes into popular UK beach as pilot forced to 'crawl from the wreckage into water'",
     "url": "https://www.dailymail.co.uk/news/article-15602771/Plane-crashes-popular-UK-beach-pilot-forced-crawl-wreckage-water.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:53:32+00:00",
     "fetched_at": "2026-03-01T12:18:39.101849+00:00",
@@ -827,15 +826,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Plane crashes into UK beach, pilot crawls from wreckage into water",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "99b8ba0a779c1c7d",
     "title_original": "At nearly 50 I was made redundant from my job of 20 years. It utterly destroyed me, says POLLY HUDSON. Now I'm happier than ever, financially sorted - here's the essential guide of what to do if it happens to you",
-    "content_original": "At nearly 50 I was made redundant from my job of 20 years. It utterly destroyed me, says POLLY HUDSON. Now I'm happier than ever, financially sorted - here's the essential guide of what to do if it happens to you",
     "url": "https://www.dailymail.co.uk/lifestyle/article-15603613/At-nearly-50-redundant-job-20-years-utterly-destroyed-says-POLLY-HUDSON-Im-happier-financially-sorted-heres-essential-guide-happens-you.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:52:12+00:00",
     "fetched_at": "2026-03-01T12:18:39.102015+00:00",
@@ -844,10 +840,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "At nearly 50 I was made redundant from my job of 20 years",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "7826fc80e6ed46d8",
@@ -869,7 +863,6 @@
   {
     "id": "e6cc9e5952992c84",
     "title_original": "Revealed: The secret heartache behind Tourette's activist John Davidson's Bafta N-word slur",
-    "content_original": "Revealed: The secret heartache behind Tourette's activist John Davidson's Bafta N-word slur",
     "url": "https://www.dailymail.co.uk/news/article-15598101/The-secret-heartache-Tourettes-activist-John-Davidsons-Bafta-N-word-slur.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:50:58+00:00",
     "fetched_at": "2026-03-01T12:18:39.102371+00:00",
@@ -878,15 +871,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Revealed: The secret heartache behind Tourette's activist John Davidson's Bafta N-word slur",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "70c1d1ce28592680",
     "title_original": "I eat lots of fibre and drink plenty of water, but still struggle in the bathroom. Oh dear, says DR PHILIPPA KAYE... these are the answers you need",
-    "content_original": "I eat lots of fibre and drink plenty of water, but still struggle in the bathroom. Oh dear, says DR PHILIPPA KAYE... these are the answers you need",
     "url": "https://www.dailymail.co.uk/health/article-15601963/I-eat-lots-fibre-drink-plenty-water-struggle-bathroom-Oh-dear-says-DR-PHILIPPA-KAYE-answers-you-need.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:49:46+00:00",
     "fetched_at": "2026-03-01T12:18:39.102709+00:00",
@@ -895,15 +885,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Struggling with bathroom issues despite high fibre and water intake",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3d5897f031b08cd2",
     "title_original": "Jupiter is the fund that transforms companies, then waits for their shares to rise",
-    "content_original": "Jupiter is the fund that transforms companies, then waits for their shares to rise",
     "url": "https://www.dailymail.co.uk/money/investing/article-15601363/Jupiter-fund-transforms-companies-waits-shares-rise.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:29:56+00:00",
     "fetched_at": "2026-03-01T11:36:19.912545+00:00",
@@ -912,15 +899,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Jupiter fund transforms companies and waits for share price increase",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "eaa5d413e948b161",
     "title_original": "Prince William ‘wanted Andrew removed from line of succession last year’",
-    "content_original": "The Prince of Wales is said to be frustrated by the delay in Andrew Mountbatten-Windsor’s removal",
     "url": "https://www.independent.co.uk/news/uk/home-news/prince-william-andrew-mountbatten-windsor-succession-removal-b2929673.html",
     "published": "2026-03-01T11:27:13+00:00",
     "fetched_at": "2026-03-01T11:36:20.005009+00:00",
@@ -929,15 +913,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Prince William reportedly wanted Andrew removed from line of succession last year",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "adafdc713e6e0c2a",
     "title_original": "We're in our 40s, can we split our house with our two children now to avoid an inheritance tax bill?",
-    "content_original": "We're in our 40s, can we split our house with our two children now to avoid an inheritance tax bill?",
     "url": "https://www.dailymail.co.uk/money/financial-planning/article-15566457/Were-40s-split-house-two-children-avoid-inheritance-tax-bill.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:23:17+00:00",
     "fetched_at": "2026-03-01T11:36:19.913116+00:00",
@@ -946,15 +927,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Splitting House with Children to Avoid Inheritance Tax",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "7e888b583d7a27a1",
     "title_original": "Palace bans Beatrice and Eugenie from Ascot: Princesses 'blindsided' after being told they can't attend royal events 'for foreseeable future'",
-    "content_original": "Palace bans Beatrice and Eugenie from Ascot: Princesses 'blindsided' after being told they can't attend royal events 'for foreseeable future'",
     "url": "https://www.dailymail.co.uk/news/royals/article-15602593/Palace-bans-Beatrice-Eugenie-Ascot-royal-events.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:22:14+00:00",
     "fetched_at": "2026-03-01T11:36:19.913461+00:00",
@@ -963,10 +941,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Palace bans Princesses Beatrice and Eugenie from attending Ascot and royal events",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3d3d41362a588673",
@@ -1005,7 +981,6 @@
   {
     "id": "1f3e461d18d5dbc6",
     "title_original": "Inside the mind of the world's most infamous rapist: Psychiatrist who analysed Gisèle Pelicot's husband reveals incredible insights including his full 'astonishing' list of sexual fetishes and the personality trait that gave him away",
-    "content_original": "Inside the mind of the world's most infamous rapist: Psychiatrist who analysed Gisèle Pelicot's husband reveals incredible insights including his full 'astonishing' list of sexual fetishes and the personality trait that gave him away",
     "url": "https://www.dailymail.co.uk/news/article-15595937/Inside-mind-rapist-Psychiatrist-Gisele-Pelicot-husband-sexual-fetishes.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T11:14:47+00:00",
     "fetched_at": "2026-03-01T11:36:19.914161+00:00",
@@ -1014,10 +989,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Inside the mind of the world's most infamous rapist: Psychiatrist reveals insights",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e847975db12a2524",
@@ -1056,7 +1029,6 @@
   {
     "id": "fec7dd3652c5fbef",
     "title_original": "Noel Gallager pokes fun at the BRITs as he points out 'I haven't actually written a song in two years' after picking up Songwriter of the Year gong",
-    "content_original": "Noel Gallager pokes fun at the BRITs as he points out 'I haven't actually written a song in two years' after picking up Songwriter of the Year gong",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603511/Noel-Gallager-BRITs-Songwriter-Year-gong-fun.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T10:41:23+00:00",
     "fetched_at": "2026-03-01T10:51:30.704387+00:00",
@@ -1065,15 +1037,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Noel Gallagher jokes about not writing songs in two years at BRIT Awards",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "bba8f992a96cb98c",
     "title_original": "Dua Lipa lets her hair down until the early hours as she parties with childhood best friend at boozy Warner's BRITs afterparty",
-    "content_original": "Dua Lipa lets her hair down until the early hours as she parties with childhood best friend at boozy Warner's BRITs afterparty",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603561/Dua-Lipa-lets-hair-early-hours-parties-childhood-best-friend-boozy-Warners-BRITs-afterparty.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T10:41:12+00:00",
     "fetched_at": "2026-03-01T10:51:30.704561+00:00",
@@ -1082,15 +1051,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Dua Lipa parties at BRITs afterparty with childhood friend",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ae4a7ca72f78ea07",
     "title_original": "Is YOUR coat making you look old? The styles that instantly age you - and even the classic Burberry trench isn't exempt",
-    "content_original": "Is YOUR coat making you look old? The styles that instantly age you - and even the classic Burberry trench isn't exempt",
     "url": "https://www.dailymail.co.uk/lifestyle/fashion/article-15591413/Is-coat-making-you-look-old-styles-instantly-age-you-classic-Burberry-trench-isnt-exempt.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T10:37:27+00:00",
     "fetched_at": "2026-03-01T10:51:30.704902+00:00",
@@ -1099,15 +1065,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Is YOUR coat making you look old? The styles that instantly age you - and even the classic Burberry trench isn't exempt",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "eb0459b43d404b34",
     "title_original": "All the Easter eggs in Scream 7: From familiar clothing to stab-worthy settings and the characters you thought you'd NEVER see again - so how many did you spot?",
-    "content_original": "All the Easter eggs in Scream 7: From familiar clothing to stab-worthy settings and the characters you thought you'd NEVER see again - so how many did you spot?",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15595375/Easter-eggs-Scream-7-clothing-settings-characters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T10:36:01+00:00",
     "fetched_at": "2026-03-01T10:51:30.705069+00:00",
@@ -1116,10 +1079,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "All the Easter eggs in Scream 7: From familiar clothing to stab-worthy settings and the characters you thought you'd NEVER see again - so how many did you spot?",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "2d0f2195ec38c763",
@@ -1141,7 +1102,6 @@
   {
     "id": "1c36dc98142a2ebf",
     "title_original": "Whole lot of shaking going on: Amanda Seyfried throws herself into the role of Ann Lee, the Manchester woman who founded the Shakers",
-    "content_original": "Whole lot of shaking going on: Amanda Seyfried throws herself into the role of Ann Lee, the Manchester woman who founded the Shakers",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15594977/Whole-lot-shaking-going-Amanda-Seyfried-stars-Ann-Lee-Manchester-woman-founded-Shakers.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T10:33:58+00:00",
     "fetched_at": "2026-03-01T10:51:30.705597+00:00",
@@ -1150,10 +1110,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Amanda Seyfried portrays Ann Lee, founder of the Shakers",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "327552221aa0a49d",
@@ -1175,7 +1133,6 @@
   {
     "id": "c14565ab522cf6da",
     "title_original": "HAMISH MCRAE: Enjoy the bull run while it lasts",
-    "content_original": "HAMISH MCRAE: Enjoy the bull run while it lasts",
     "url": "https://www.dailymail.co.uk/money/markets/article-15601677/HAMISH-MCRAE-Enjoy-bull-run-lasts.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T10:22:30+00:00",
     "fetched_at": "2026-03-01T10:51:30.706103+00:00",
@@ -1184,10 +1141,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Enjoy the bull run while it lasts",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ad2d5e612e193880",
@@ -1226,7 +1181,6 @@
   {
     "id": "aecf291194ac95a4",
     "title_original": "Sarah Ferguson's extraordinary 18-year friendship with a jobless Hull council estate mum is OVER - as she says 'I can't believe I allowed a paedophile sympathiser into my home'",
-    "content_original": "Sarah Ferguson's extraordinary 18-year friendship with a jobless Hull council estate mum is OVER - as she says 'I can't believe I allowed a paedophile sympathiser into my home'",
     "url": "https://www.dailymail.co.uk/news/article-15597945/Sarah-Fergusons-extraordinary-18-year-friendship-jobless-Hull-council-estate-mum-says-believe-allowed-paedophile-sympathiser-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T10:01:28+00:00",
     "fetched_at": "2026-03-01T10:11:47.819579+00:00",
@@ -1235,10 +1189,36 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Sarah Ferguson ends 18-year friendship over paedophile sympathizer allegations",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
+  },
+  {
+    "id": "7c29d31ec39035e3",
+    "title_original": "Minnie Driver says playing Sarah in Fox’s Bible epic took 'big leaps of faith'",
+    "url": "https://www.foxnews.com/media/minnie-driver-says-playing-sarah-foxs-bible-epic-took-leap-faith",
+    "published": "2026-03-01T10:00:47-05:00",
+    "fetched_at": "2026-03-01T15:12:08.653103+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "379c634ed5961bf1",
+    "title_original": "Nancy Guthrie abduction sparks fears over senior safety in affluent communities: expert",
+    "url": "https://www.foxnews.com/us/nancy-guthrie-abduction-sparks-fears-over-senior-safety-affluent-communities-expert",
+    "published": "2026-03-01T10:00:47-05:00",
+    "fetched_at": "2026-03-01T15:12:08.653616+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
   },
   {
     "id": "d08990b81a6f8e3f",
@@ -1260,7 +1240,6 @@
   {
     "id": "6d4c86d9cbfedac6",
     "title_original": "Ex-minister adds to UK calls for ban on political donations in cryptocurrency",
-    "content_original": "Exclusive: Labour’s Rushanara Ali plans to intervene in elections bill amid warnings of foreign interference A former Labour minister has added her voice to those of a growing list of experts and senior MPs calling for a ban on political donations in cryptocurrency as concerns grow over foreign interference in British elections. Rushanara Ali, the Labour MP who helped draft the elections bill when she was a minister in the communities department, called for the government to strengthen the legislation with an outright ban on donations in digital currencies. Continue reading...",
     "url": "https://www.theguardian.com/politics/2026/mar/01/minister-calls-ban-on-political-donations-cryptocurrency-rushanara-ali",
     "published": "2026-03-01T10:00:37+00:00",
     "fetched_at": "2026-03-01T10:11:46.686584+00:00",
@@ -1269,15 +1248,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "UK calls for ban on political donations in cryptocurrency amid foreign interference concerns",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "af9b77da7fbe9c83",
     "title_original": "Young fashion fans help UK charity shops thrive on struggling UK high streets",
-    "content_original": "Sales beat wider retail sector last year thanks to customers inspired by websites such as Vinted, industry body says Young people inspired by secondhand fashion websites such as Vinted and Depop are helping charity shops thrive despite rising energy and employment costs. Save the Children’s retail sales rose 3% last year, helped by a surge in December when the charity rang up 11% more than the same month a year before, raising more than £1m for its causes. Continue reading...",
     "url": "https://www.theguardian.com/business/2026/mar/01/young-fashion-fans-help-uk-charity-shops-thrive-struggling-uk-high-streets",
     "published": "2026-03-01T10:00:37+00:00",
     "fetched_at": "2026-03-01T10:11:46.686781+00:00",
@@ -1286,15 +1262,43 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Young fashion fans help UK charity shops thrive on struggling UK high streets",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
+  },
+  {
+    "id": "3b3bf5e41d9458a1",
+    "title_original": "‘All My Children’ star Susan Lucci once ate asparagus for 10 days to fit into ‘sexy’ nightgown",
+    "url": "https://www.foxnews.com/entertainment/all-my-children-star-susan-lucci-once-ate-asparagus-10-days-fit-sexy-nightgown",
+    "published": "2026-03-01T10:00:31-05:00",
+    "fetched_at": "2026-03-01T15:12:08.654077+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "2ad4d63624286ecb",
+    "title_original": "JONATHAN TURLEY: How Trump boxed Congress into fight or flight choice on Iran",
+    "content_original": "Virginia Democratic Sen. Tim Kaine promised to force a vote on a war powers resolution to bar further prosecution of the war against Iran. Republicans such as Rep. Thomas Massie, R-Ky., have joined in the call to bar further hostilities. These members are certainly within their rights to call for such resolutions, and the Framers wanted such debates to occur in Congress. However, it is too late to make this cat walk backwards. While there are good-faith reasons to oppose the commencement of the attacks, the United States is now in close combat with Iran. Drafting a war powers resolution at this stage would be nearly impossible without putting U.S. personnel and allies at risk. The Constitution divides war powers between the legislative and executive branches. Article II, Section 2 of the Constitution declares that \"the President shall be commander in chief of the Army and Navy of the United States, and of the militia of the several states.\" However, under Article I, Section 8, Clause 1...",
+    "url": "https://www.foxnews.com/opinion/jonathan-turley-how-trump-boxed-congress-fight-flight-choice-iran",
+    "published": "2026-03-01T09:59:50-05:00",
+    "fetched_at": "2026-03-01T15:12:08.654540+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "How Trump boxed Congress into fight or flight choice on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses congressional efforts to limit US military actions against Iran through war powers resolutions, highlighting the challenges of de-escalating hostilities once combat has begun. This is relevant as it touches on US political and military decision-making regarding the ongoing conflict with Iran."
   },
   {
     "id": "149a55e20dc837dd",
     "title_original": "PETER HITCHENS: I saw for myself the savage aftermath of the Iraq war. We are in the hands of foolish children... this will impoverish the world for years",
-    "content_original": "PETER HITCHENS: I saw for myself the savage aftermath of the Iraq war. We are in the hands of foolish children... this will impoverish the world for years",
     "url": "https://www.dailymail.co.uk/debate/article-15601589/PETER-HITCHENS-iran-iraq-war-foolish-children-donald-trump.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:58:15+00:00",
     "fetched_at": "2026-03-01T10:11:47.819753+00:00",
@@ -1303,15 +1307,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "PETER HITCHENS: Iraq war aftermath shows current conflict will impoverish the world",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "8306e304c94abe2c",
     "title_original": "A firm hiring blind staff went bust - but its mission lives on",
-    "content_original": "The business had been running for over 150 years before it collapsed, so one former employee took matters into her own hands.",
     "url": "https://www.bbc.com/news/articles/cpd8jpn0np1o?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T09:56:50+00:00",
     "fetched_at": "2026-03-01T10:11:46.472995+00:00",
@@ -1320,15 +1321,26 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "A firm hiring blind staff went bust - but its mission lives on",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
+  },
+  {
+    "id": "758e55d9a7c9d599",
+    "title_original": "Austin Police Kill Armed Gunman After 3 Die, 14 Wounded Bar Shooting",
+    "url": "https://www.foxnews.com/us/austin-police-kill-armed-gunman-after-3-die-14-wounded-bar-shooting",
+    "published": "2026-03-01T09:55:48-05:00",
+    "fetched_at": "2026-03-01T15:12:08.654815+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
   },
   {
     "id": "a7143c227de523d3",
     "title_original": "How David Bowie's daughter Lexi Jones overcame his tragic death, depression and abuse to launch her own career in music - but insists she's 'not a copy' of her famous father",
-    "content_original": "How David Bowie's daughter Lexi Jones overcame his tragic death, depression and abuse to launch her own career in music - but insists she's 'not a copy' of her famous father",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15588265/David-Bowie-daughter-Lexi-Jones-death-depression-abuse-music.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:43:43+00:00",
     "fetched_at": "2026-03-01T10:11:47.819945+00:00",
@@ -1337,10 +1349,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "David Bowie's daughter Lexi Jones launches music career after overcoming personal challenges",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "0869557480950c68",
@@ -1362,7 +1372,6 @@
   {
     "id": "7a7993c81ee7b69e",
     "title_original": "Susan Langley is the East End girl in the Mansion House",
-    "content_original": "Susan Langley is the East End girl in the Mansion House",
     "url": "https://www.dailymail.co.uk/money/markets/article-15601399/Susan-Langley-East-End-girl-Mansion-House.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:28:39+00:00",
     "fetched_at": "2026-03-01T09:36:48.444129+00:00",
@@ -1371,15 +1380,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Susan Langley is the East End girl in the Mansion House",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e0550e10c6197e5a",
     "title_original": "Nationwide pumps £1bn into Clydesdale Bank after Virgin Money deal",
-    "content_original": "Nationwide pumps £1bn into Clydesdale Bank after Virgin Money deal",
     "url": "https://www.dailymail.co.uk/money/markets/article-15601659/Nationwide-forced-pump-1bn-struggling-Clydesdale-Bank.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:27:28+00:00",
     "fetched_at": "2026-03-01T09:36:48.444298+00:00",
@@ -1388,10 +1394,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Nationwide invests £1 billion in Clydesdale Bank following Virgin Money deal",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "daee86200cb61bb2",
@@ -1430,7 +1434,6 @@
   {
     "id": "a3a77732e4761c9b",
     "title_original": "The venue from £28BILLION Beijing Games used as a vegetable patch, crumbling hotels in Sarajevo and Rio de Janeiro's eerie empty arenas - the shameful abandonment of Olympics sites",
-    "content_original": "The venue from £28BILLION Beijing Games used as a vegetable patch, crumbling hotels in Sarajevo and Rio de Janeiro's eerie empty arenas - the shameful abandonment of Olympics sites",
     "url": "https://www.dailymail.co.uk/sport/othersports/article-15588555/Olympic-Games-venues-abandoned-photos-Beijing-Rio-Janeiro.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:21:31+00:00",
     "fetched_at": "2026-03-01T09:36:48.444691+00:00",
@@ -1439,10 +1442,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Olympics venues abandoned and falling into disrepair",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "37acc723e381b42c",
@@ -1464,7 +1465,6 @@
   {
     "id": "3048b667a2bc615c",
     "title_original": "I once got a shock tax bill for £140,000, reveals comedian RUFUS HOUND",
-    "content_original": "I once got a shock tax bill for £140,000, reveals comedian RUFUS HOUND",
     "url": "https://www.dailymail.co.uk/money/meandmymoney/article-15601309/RUFUS-HOUND-Im-astute-PG-Tips-chimp-comes-money.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:15:18+00:00",
     "fetched_at": "2026-03-01T09:36:48.444822+00:00",
@@ -1473,15 +1473,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Comedian Rufus Hound reveals receiving a shock tax bill for £140,000",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "cd5f5eba2cd3fada",
     "title_original": "Royal Family LIVE: Princess Beatrice and Eugenie 'banned from major royal event'",
-    "content_original": "Princess Beatrice (left) and Princess Eugenie have been 'banned from attending Royal Ascot'",
     "url": "https://www.express.co.uk/news/royal/2176773/royal-family-live-princess-beatrice-eugenie-ascot-ban",
     "published": "2026-03-01T09:11:00+00:00",
     "fetched_at": "2026-03-01T09:36:48.912339+00:00",
@@ -1490,15 +1487,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Princess Beatrice and Eugenie reportedly banned from attending Royal Ascot",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "11b9d16d6a8af5ac",
     "title_original": "Horror as man rapes woman at knifepoint then exposes himself to 2 women in sick rampage",
-    "content_original": "Brighton man Philip Smith has been convicted of raping a woman at knifepoint in the city centre",
     "url": "https://www.express.co.uk/news/uk/2176790/man-rapes-woman-knifepoint",
     "published": "2026-03-01T09:10:00+00:00",
     "fetched_at": "2026-03-01T09:36:48.911604+00:00",
@@ -1507,15 +1501,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man convicted of rape and indecent exposure in Brighton",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "95eee2c9cb2769e1",
     "title_original": "The ultimate royal-approved Mother's Day gift guide - from Kate Middleton's favourite skincare to Meghan Markle's go-to kitchenware",
-    "content_original": "The ultimate royal-approved Mother's Day gift guide - from Kate Middleton's favourite skincare to Meghan Markle's go-to kitchenware",
     "url": "https://www.dailymail.co.uk/news/royals/article-15592551/royal-mothers-day-gift-guide-kate-middleton-skincare-meghan-markle-kitchenware.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:09:58+00:00",
     "fetched_at": "2026-03-01T09:36:48.445089+00:00",
@@ -1524,10 +1515,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Royal-approved Mother's Day gift guide featuring Kate Middleton and Meghan Markle's favourites",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "7f5931a69ef62ce5",
@@ -1549,7 +1538,6 @@
   {
     "id": "b3d6e3efc992cc7f",
     "title_original": "America's Next Top Model judge Janice Dickinson launches blistering attack on 'b***h' Tyra Banks, claiming she was 'jealous' of the contestants and would 'torture them for her ego'",
-    "content_original": "America's Next Top Model judge Janice Dickinson launches blistering attack on 'b***h' Tyra Banks, claiming she was 'jealous' of the contestants and would 'torture them for her ego'",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15587407/Americas-Model-judge-Janice-Dickinson-attack-Tyra-Banks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T09:07:17+00:00",
     "fetched_at": "2026-03-01T09:36:48.445231+00:00",
@@ -1558,15 +1546,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Janice Dickinson attacks Tyra Banks over 'America's Next Top Model' allegations",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "fb1c1ba41d5a71bb",
     "title_original": "Riley Green chooses Alabama farm over Nashville fame despite having 'every reason' to make the move",
-    "content_original": "Country star Riley Green is not ditching his Alabama roots for Nashville despite having \"every reason\" to move. During an interview with Fox News Digital at the \"Marshals\" premiere, Green said his farm in Alabama outweighs his career potential in Tennessee. \"I feel like I’ve got every reason in the world to move to Nashville, and it’s just never crossed my mind. I love my farm in Alabama, and it’s the place I draw all my inspiration for songs from,\" he said. Green added, \"Life moves a lot slower down there.\" COUNTRY STAR RILEY GREEN ADMITS FAME IS 'NOT REALITY' COMPARED TO FARM LIFE IN ALABAMA A typical day on the \"Worst Way\" singer's farm involves taking it easy. \"When I get a day off, and I’m on my farm, I do as little as possible,\" Green said. \"But, [I] definitely get on the tractor and do a little bit of clearing and—I got my pops out there helping me work on the farm. I got a lot of animals and dogs and we just kind of take it easy.\" In December, Green said that all the work he's ...",
     "url": "https://www.foxnews.com/entertainment/riley-green-chooses-alabama-farm-over-nashville-fame-despite-having-every-reason-make-move",
     "published": "2026-03-01T09:00:59-05:00",
     "fetched_at": "2026-03-01T14:09:24.431380+00:00",
@@ -1575,15 +1560,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Country star Riley Green chooses Alabama farm over Nashville fame",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "980e0267e12dbba8",
     "title_original": "Scientists make startling discovery when examining prostate cancer tissue",
-    "content_original": "Small fragments of plastic were found in the tumors of most prostate cancer patients , according to a new study from NYU Langone Health. In past studies, microplastics have been found in almost every human organ and in bodily fluids, but their impact on human health still isn’t fully understood. The researchers analyzed tissue samples from 10 patients with prostate cancer who underwent surgery to remove the entire organ. PROSTATE CANCER PATIENTS SEE LONGER SURVIVAL WITH NEW COMBINATION DRUG Using visuals of both benign samples and tumor samples, as well as specialized equipment, the scientists identified plastic particles in 90% of the tumor samples and 70% of benign tissue samples, according to the study press release. The cancerous tissue contained on average more than double the amount of plastic as healthy prostate tissue samples, the study found. This equates to about 40 micrograms of plastic per gram of tissue compared to 16 micrograms. Researchers avoided contaminating the sampl...",
     "url": "https://www.foxnews.com/health/scientists-make-startling-discovery-when-examining-prostate-cancer-tissue",
     "published": "2026-03-01T09:00:57-05:00",
     "fetched_at": "2026-03-01T14:09:24.431756+00:00",
@@ -1592,15 +1574,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Scientists find microplastics in prostate cancer tumors",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "704698c1f2b6d373",
     "title_original": "Theologian bishop says AOC pushed culture aside in heated response to Marco Rubio speech",
-    "content_original": "The head of a Roman Catholic Diocese in Minnesota says Rep. Alexandria Ocasio-Cortez pushed \"culture off to the side\" in her response to Secretary of State Marco Rubio’s speech at the Munich Security Conference last month . Rubio spoke about Western civilization and the shared culture of Europe and America in a well-received address to the conference. \"We are part of one civilization – Western civilization,\" Rubio said. \"We are bound to one another by the deepest bonds that nations could share, forged by centuries of shared history, Christian faith, culture, heritage, language, ancestry, and the sacrifices our forefathers made together for the common civilization to which we have fallen heir.\" AOC, MAMDANI URGE ILLEGAL IMMIGRANT PARENTS TO SIGN KIDS UP FOR FREE PRE-K Rubio used his speech to call to mind cultural achievements associated with Western civilization and expressed the desire for allies to be proud of their culture and heritage. He also used the speech to call out illegal im...",
     "url": "https://www.foxnews.com/media/theologian-bishop-says-aoc-pushed-culture-aside-heated-response-marco-rubio-speech",
     "published": "2026-03-01T09:00:32-05:00",
     "fetched_at": "2026-03-01T14:09:24.432147+00:00",
@@ -1609,15 +1588,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Theologian criticizes AOC for dismissing culture in response to Rubio's speech",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e6a7bec3f02c4cd7",
     "title_original": "Match of the Day",
-    "content_original": "Gabby Logan presents highlights of six games, including Leeds v Manchester City.",
     "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T09:00:00+00:00",
     "source_name": "BBC News",
@@ -1625,10 +1601,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Match of the Day",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1e5ec23d9fcdc04c",
@@ -1650,7 +1624,6 @@
   {
     "id": "a036f695b05e4a1b",
     "title_original": "Reform UK unveils proposals for electoral reform after by-election result",
-    "content_original": "The policy was born out of Mr Farage’s belief that allowing Commonwealth citizens to vote ‘undermines national sovereignty’",
     "url": "https://www.independent.co.uk/news/uk/politics/reform-uk-farage-postal-votes-b2929654.html",
     "published": "2026-03-01T08:52:58+00:00",
     "fetched_at": "2026-03-01T09:02:44.906209+00:00",
@@ -1659,10 +1632,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Reform UK proposes electoral reform after by-election result",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "718f39e9da2ae1fc",
@@ -1701,7 +1672,6 @@
   {
     "id": "4b1bb31d588aaaa2",
     "title_original": "Horrifying missed chances to stop the monster of Dunblane... and a troubling questions: Author STEPHEN McGINTY reveals shooter's hundreds of photos of boys in their pants, how he forced them to sleep in his van and punishment beatings",
-    "content_original": "Horrifying missed chances to stop the monster of Dunblane... and a troubling questions: Author STEPHEN McGINTY reveals shooter's hundreds of photos of boys in their pants, how he forced them to sleep in his van and punishment beatings",
     "url": "https://www.dailymail.co.uk/crime-desk/article-15599443/missed-chance-Dunblane-STEPHEN-McGINTY-shooters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:51:03+00:00",
     "fetched_at": "2026-03-01T09:02:44.811696+00:00",
@@ -1710,10 +1680,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Missed opportunities to prevent the Dunblane tragedy",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ffa1951180106690",
@@ -1735,7 +1703,6 @@
   {
     "id": "b3f062b060bba946",
     "title_original": "The simple tweaks that can make your brain EIGHTEEN years younger: What to eat, what supplements to take... and the one food that's a killer for your grey matter, revealed by a world-leading neuroscientist",
-    "content_original": "The simple tweaks that can make your brain EIGHTEEN years younger: What to eat, what supplements to take... and the one food that's a killer for your grey matter, revealed by a world-leading neuroscientist",
     "url": "https://www.dailymail.co.uk/health/article-15598525/invincible-brain-calculator-neuroscientist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:38:21+00:00",
     "fetched_at": "2026-03-01T09:02:44.812757+00:00",
@@ -1744,15 +1711,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Simple tweaks to make your brain eighteen years younger",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "7f334cd2de3e9a8d",
     "title_original": "CHRISTOPHER STEVENS: Like a scene from the Revolution, the grisly end of serial killer who was last to be publicly executed in France",
-    "content_original": "CHRISTOPHER STEVENS: Like a scene from the Revolution, the grisly end of serial killer who was last to be publicly executed in France",
     "url": "https://www.dailymail.co.uk/news/article-15602339/CHRISTOPHER-STEVENS-Revolution-serial-killer-publicly-executed-France.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:37:21+00:00",
     "fetched_at": "2026-03-01T09:02:44.813128+00:00",
@@ -1761,15 +1725,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Grisly end of serial killer who was last to be publicly executed in France",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "0ccf06b0f1fa3175",
     "title_original": "SARAH VINE: The prospect of armed conflict should terrify every sane person. But  sometimes extreme evil leaves us with no choice",
-    "content_original": "SARAH VINE: The prospect of armed conflict should terrify every sane person. But  sometimes extreme evil leaves us with no choice",
     "url": "https://www.dailymail.co.uk/debate/article-15602253/SARAH-VINE-armed-conflict-person-extreme-evil.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:37:07+00:00",
     "fetched_at": "2026-03-01T09:02:44.813301+00:00",
@@ -1778,15 +1739,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Armed conflict and the dilemma of confronting extreme evil",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "6cf350f5377e2215",
     "title_original": "The royals' revolting greed and entitlement: 'Gross' expenses claimed from foreign jaunts YOU pay for. The grotesque wealth of Edward, Anne and Sophie. And the millions pouring into William's pockets, revealed by AN WILSON",
-    "content_original": "The royals' revolting greed and entitlement: 'Gross' expenses claimed from foreign jaunts YOU pay for. The grotesque wealth of Edward, Anne and Sophie. And the millions pouring into William's pockets, revealed by AN WILSON",
     "url": "https://www.dailymail.co.uk/debate/article-15601751/Royals-expenses-foreign-wealth-Edward-Anne-Sophie-William-WILSON.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:36:50+00:00",
     "fetched_at": "2026-03-01T09:02:44.813471+00:00",
@@ -1795,15 +1753,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Royals' expenses and wealth criticized in media",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "b5341477c7ae2dc2",
     "title_original": "Toxic truth about Naga Munchetty and Sally Nugent's 'feud', revealed by KATIE HIND: Poison briefings, 'bullying' svengali and accusations of misogyny and racism exposed Breakfast TV's nastiest row",
-    "content_original": "Toxic truth about Naga Munchetty and Sally Nugent's 'feud', revealed by KATIE HIND: Poison briefings, 'bullying' svengali and accusations of misogyny and racism exposed Breakfast TV's nastiest row",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602323/Naga-Munchetty-bitchy-jibe-BBC-Breakfast-star-Sally-Nugents-glow-victim-toxic-briefings-KATIE-HIND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:36:03+00:00",
     "fetched_at": "2026-03-01T09:02:44.813639+00:00",
@@ -1812,15 +1767,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Toxic truth about Naga Munchetty and Sally Nugent's 'feud' revealed",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "18ec14bcb2b15b95",
     "title_original": "Ian Huntley's daughter is 'glad' her Soham killer father was savagely beaten and says 'there is a special place in hell waiting for him'",
-    "content_original": "Ian Huntley's daughter is 'glad' her Soham killer father was savagely beaten and says 'there is a special place in hell waiting for him'",
     "url": "https://www.dailymail.co.uk/news/article-15602965/Ian-Huntley-daughter-glad-Soham-killer-father-savagely-beaten-special-place-hell.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:33:32+00:00",
     "fetched_at": "2026-03-01T09:02:44.813804+00:00",
@@ -1829,15 +1781,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Ian Huntley's daughter reacts on her father's assault",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "43837892b7c2f2f9",
     "title_original": "Grits shock Maine diners as Southern chef spotlights regional breakfast divide",
-    "content_original": "In parts of the U.S., asking for grits with your eggs is expected. In others — it's a nonstarter. A Southern staple , grits are rarely found on breakfast menus in much of the U.S., particularly in New England. Conversely, New England's fare of baked beans, fish cakes and corned beef hash could be unappealing to most Southerners. BREAKFAST TIMING MAY HOLD THE KEY TO LIVING LONGER, NEW RESEARCH REVEALS For chefs who've crossed the Mason-Dixon line, the breakfast divide is unmistakable, said Suzanne Vizethann, a Southern chef who relocated to Maine. In 2011, she won an episode of the Food Network's \"Chopped,\" beating out chefs from New York and Boston. Vizethann runs Buttermilk Kitchen, a Southern restaurant brand serving two very different locales: Atlanta, Georgia, and Camden, Maine. Vizethann told Fox News Digital she moved to the Pine Tree State after deciding to take over an 81-year-old diner, abandoning her original plans to start a bed and breakfast. \"They were going out of busines...",
     "url": "https://www.foxnews.com/food-drink/grits-shock-maine-diners-southern-chef-spotlights-regional-breakfast-divide",
     "published": "2026-03-01T08:33:10-05:00",
     "fetched_at": "2026-03-01T13:51:47.448987+00:00",
@@ -1846,10 +1795,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Grits fried Maine diners as Southern chef spotlights regional breakfast divide",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "601fb939004b309f",
@@ -1888,7 +1835,6 @@
   {
     "id": "577372440f4e986b",
     "title_original": "Miraculous moment man missing for TEN days is found trapped up to his shoulders in mud",
-    "content_original": "Miraculous moment man missing for TEN days is found trapped up to his shoulders in mud",
     "url": "https://www.dailymail.co.uk/news/article-15600783/moment-man-missing-ten-days-alive-trapped-mud.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T08:13:40+00:00",
     "fetched_at": "2026-03-01T08:22:56.335474+00:00",
@@ -1897,10 +1843,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man missing for ten days found trapped in mud",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e3c62c322faedafd",
@@ -1922,7 +1866,6 @@
   {
     "id": "4e0a93238fec6121",
     "title_original": "Undercover officer allegedly used public money for romantic break in Venice",
-    "content_original": "Woman deceived into relationship tells spycops inquiry the trip was not to meet Italian socialists, as Carlo Soracchi claims An undercover police officer is facing allegations that he used taxpayers’ money to pay for a romantic break in Venice with a woman he was deceiving into a long-term relationship, the spycops public inquiry has heard. Carlo Soracchi pretended to be an activist for six years while he infiltrated socialist and anti-fascist campaign groups. Continue reading...",
     "url": "https://www.theguardian.com/uk-news/2026/mar/01/undercover-officer-allegedly-used-public-money-romantic-break-venice",
     "published": "2026-03-01T08:00:34+00:00",
     "fetched_at": "2026-03-01T08:22:55.000361+00:00",
@@ -1931,15 +1874,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Undercover officer allegedly used public money for romantic break in Venice",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4fc90ddb60f15e79",
     "title_original": "Britain's Kavanagh stuns ex-champion Moreno with three weeks' preparation",
-    "content_original": "Britain's Lone'er Kavanagh claims the biggest win of his career as he upsets former UFC flyweight champion Brandon Moreno in Mexico City.",
     "url": "https://www.bbc.com/sport/mixed-martial-arts/articles/cy7jvyzy2l3o?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T07:57:13+00:00",
     "fetched_at": "2026-03-01T08:22:54.891265+00:00",
@@ -1948,10 +1888,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Britain's Kavanagh stuns ex-champion Moreno with three weeks' preparation",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "c622ccf53ad2a540",
@@ -1990,7 +1928,6 @@
   {
     "id": "74448c71b53b51ce",
     "title_original": "Would you say yes to a second-hand wedding dress?",
-    "content_original": "Researchers say many modern brides worry a pre-loved wedding dress might bring them bad luck.",
     "url": "https://www.bbc.com/news/articles/c2k8dkpj7j7o?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T07:07:52+00:00",
     "fetched_at": "2026-03-01T07:12:10.185575+00:00",
@@ -1999,15 +1936,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Would you say yes to a second-hand wedding dress?",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "5043cbc0ed6c9ffa",
     "title_original": "I went to rural Wales to bathe in starlight and the Milky Way blew me away",
-    "content_original": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide.",
     "url": "https://www.bbc.com/news/articles/cj32l7kmkmko?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T07:07:10+00:00",
     "fetched_at": "2026-03-01T07:12:10.185737+00:00",
@@ -2016,15 +1950,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Tourists experience stargazing in rural Wales",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1e1f7fa89eae0ebd",
     "title_original": "‘The Chosen’ cast reveals the secret behind its mainstream appeal",
-    "content_original": "CHARLOTTE— The stars of \"The Chosen\" joined thousands of fans in Charlotte last week for the third annual ChosenCon, celebrating the series that has defied industry expectations. Originally launched as a record-breaking crowdfunded project in 2019, the show has become a hit with religious and secular audiences alike, surpassing 250 million viewers. While the majority of the audience identifies as Christian, the show's creators shared a surprising statistic: roughly 30% of viewers were not Christian or merely curious about the faith. At ChosenCon, cast members and fans shared with Fox News Digital what makes a 2,000-year-old story resonate with modern secular audiences. JONATHAN ROUMIE VOWS THAT 40-DAY FAITH CHALLENGE CAN CUT THROUGH 'THE NOISE IN THE CULTURE' Cast members attribute its broad appeal to the show's focus on \"authentic\" humanity. Amber Shana Williams, who plays one of Jesus' followers, Tamar, explained how the characters navigate universal struggles. \"This show shows peopl...",
     "url": "https://www.foxnews.com/media/the-chosen-cast-reveals-secret-behind-its-mainstream-appeal",
     "published": "2026-03-01T07:00:41-05:00",
     "fetched_at": "2026-03-01T12:18:27.831319+00:00",
@@ -2033,15 +1964,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "‘The Chosen’ cast reveals the secret behind its mainstream appeal",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "d5d8b616c71fc30d",
     "title_original": "American Culture Quiz: Test yourself on airport accolades and soda sensations",
-    "content_original": "The American Culture Quiz is a weekly test of our unique national traits, trends, history and people — including current events and the sights and sounds of the United States. This week's quiz highlights airport accolades, soda sensations — and much more. Can you get all 8 questions right? Give it a try and see how you do! CLICK HERE FOR MORE LIFESTYLE STORIES To try your hand at more quizzes from Fox News Digital, click here . Also, to take our latest News Quiz — published every Friday — click here.",
     "url": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-airport-accolades-soda-sensations",
     "published": "2026-03-01T07:00:37-05:00",
     "fetched_at": "2026-03-01T12:18:27.831569+00:00",
@@ -2050,15 +1978,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "American Culture Quiz: Test yourself on airport accolades and soda sensations",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "86157cfc5cae2880",
     "title_original": "Investment in AI-resistant ‘Halo’ companies helps push UK and EU markets to record highs",
-    "content_original": "Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs Investors have a new mantra as they prepare for AI to shake up the global economy – the Halo trade. Interest in Halo – short for “heavy assets, low obsolescence” - has risen as investors seek out companies with tangible, productive assets, which might be insulated from AI disruption, such as energy and transport infrastructure companies. Continue reading...",
     "url": "https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs",
     "published": "2026-03-01T07:00:36+00:00",
     "fetched_at": "2026-03-01T07:12:10.372779+00:00",
@@ -2067,15 +1992,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Investment in AI-resistant ‘Halo’ companies helps push UK and EU markets to record highs",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "253af46a84c7c0fd",
     "title_original": "Shabana Mahmood’s double down on immigration ‘disappointing’, says Alf Dubs",
-    "content_original": "Labour peer, who was a child refugee, criticises home secretary’s response to Gorton and Denton byelection defeat The home secretary’s decision to double down on hardline immigration reforms in light of Labour’s byelection defeat to the Green party is “disappointing”, according to the Labour peer Alf Dubs. Lord Dubs, a child refugee who fled Nazi-occupied Czechoslovakia on the Kindertransport in 1939, had previously accused Shabana Mahmood of “pulling up the drawbridge” on child migrants. Continue reading...",
     "url": "https://www.theguardian.com/politics/2026/mar/01/shabana-mahmood-double-down-on-immigration-disappointing-says-alf-dubs",
     "published": "2026-03-01T07:00:36+00:00",
     "fetched_at": "2026-03-01T07:12:10.374722+00:00",
@@ -2084,15 +2006,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Shabana Mahmood’s immigration stance criticized by Alf Dubs",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "22eb6e4973ae00bc",
     "title_original": "‘Cleaning Superstore’: warning over missed delivery text scam on WhatsApp",
-    "content_original": "The text mimics a common fraud, but differs in that criminals appear to have hacked a genuine business account John the delivery driver has tried to drop off something at your home from a company called Cleaning Superstore but you missed him, according to the message you have received via WhatsApp. Although you cannot remember buying anything from the company, the text appears to have come from a legitimate WhatsApp account so you try to rearrange delivery by clicking the link provided. Continue reading...",
     "url": "https://www.theguardian.com/money/2026/mar/01/cleaning-superstore-the-missed-delivery-text-scam-whatsapp",
     "published": "2026-03-01T07:00:33+00:00",
     "fetched_at": "2026-03-01T07:12:10.374892+00:00",
@@ -2101,15 +2020,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Warning issued over WhatsApp scam using hacked business account",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "929f251ece48b8f1",
     "title_original": "‘One Battle After Another’ Wins Producers Guild Award. Is Oscar Next?",
-    "content_original": "Paul Thomas Anderson, who, along with Sara Murphy, won the PGA for “One Battle After Another.”",
     "url": "https://www.nytimes.com/2026/03/01/movies/one-battle-after-another-producers-guild-awards.html",
     "published": "2026-03-01T06:43:35+00:00",
     "fetched_at": "2026-03-01T07:11:58.165519+00:00",
@@ -2118,15 +2034,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "‘One Battle After Another’ Wins Producers Guild Award. Is Oscar Next?",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "da83741d22d47731",
     "title_original": "Moment Iranian TV anchor sobs on air as he announces Ayatollah's death",
-    "content_original": "Moment Iranian TV anchor sobs on air as he announces Ayatollah's death",
     "url": "https://www.dailymail.co.uk/media/article-15603087/iranian-tv-anchor-cry-mourn-ayatollah-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T06:15:54+00:00",
     "fetched_at": "2026-03-01T06:27:14.936410+00:00",
@@ -2135,15 +2048,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Iranian TV anchor sobs while announcing Ayatollah's death",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "06c65b69e16f602c",
     "title_original": "Labour must cease taking progressive voters for granted, says Sadiq Khan",
-    "content_original": "London mayor criticises PM for calling Greens ‘extreme’ after Gorton and Denton loss, saying it is a ‘flawed strategy’ Sadiq Khan: ‘Labour must stop channelling Reform and unite with progressives. That’s the byelection’s lesson’ The mayor of London has said the Gorton and Denton byelection has exposed a “far-reaching change and fracturing” in UK politics and Labour must ditch its “flawed strategy” of taking liberal progressives for granted. In what appears to be an attack on Keir Starmer, Sadiq Khan challenged the prime minister’s branding of the Green party and its policies as “extreme”, saying many of its supporters shared Labour’s values but were disappointed in the government. Continue reading...",
     "url": "https://www.theguardian.com/politics/2026/mar/01/labour-must-cease-taking-progressive-voters-for-granted-says-sadiq-khan",
     "published": "2026-03-01T06:00:34+00:00",
     "fetched_at": "2026-03-01T06:27:11.692469+00:00",
@@ -2152,15 +2062,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "London Mayor Sadiq Khan criticizes Labour's strategy on progressive voters",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "42c3659480ea4c60",
     "title_original": "An ugly year for the Louvre: where does the world’s biggest museum go from here?",
-    "content_original": "After a heist and the departure of its boss, the French institution wrestles with water leaks, strikes and much-criticised plans for a €1bn renovation Just over a year ago, Laurence des Cars, the intellectually brilliant (if famously prickly) former head of the largest and most-visited museum in the world, wrote a somewhat alarming note to her boss, France’s culture minister. Des Cars, who on Tuesday resigned as president of the Louvre , lamented the advanced state of disrepair of the iconic museum’s buildings and galleries. Continue reading...",
     "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/01/an-ugly-year-for-the-louvre-where-does-the-worlds-biggest-museum-go-from-here",
     "published": "2026-03-01T06:00:32+00:00",
     "fetched_at": "2026-03-01T06:27:11.690405+00:00",
@@ -2169,10 +2076,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Louvre faces challenges after heist, leadership change, and renovation plans",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "f2ff47dec7ed7364",
@@ -2228,7 +2133,6 @@
   {
     "id": "d1e9a124c2de9716",
     "title_original": "Labour face under pressure for social media ban as teens are 'dependent' on bots",
-    "content_original": "There are worries children are forming bonds with chatbots",
     "url": "https://www.express.co.uk/news/politics/2176704/young-people-believe-chatbots-care",
     "published": "2026-03-01T06:00:00+00:00",
     "fetched_at": "2026-03-01T06:27:15.188302+00:00",
@@ -2237,15 +2141,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Labour face under pressure for social media ban as teens are 'dependent' on bots",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "fb7b4ca4923e4715",
     "title_original": "Tony Blair's team delivers stern warning to Rachel Reeves on danger facing Britain",
-    "content_original": "Rachel Reeves is expected to leave behind her red box for the Spring Statement",
     "url": "https://www.express.co.uk/news/politics/2176670/tony-blairs-team-delivers-stern",
     "published": "2026-03-01T06:00:00+00:00",
     "fetched_at": "2026-03-01T06:27:15.188502+00:00",
@@ -2254,15 +2155,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Tony Blair's team delivers stern warning to Rachel Reeves on danger facing Britain",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "00614cecb6da8be2",
     "title_original": "USA hockey stars mock Donald Trump over Winter Olympics outrage in SNL monologue with Connor Storrie",
-    "content_original": "USA hockey stars mock Donald Trump over Winter Olympics outrage in SNL monologue with Connor Storrie",
     "url": "https://www.dailymail.co.uk/sport/winterolympics/article-15603335/usa-hockey-snl-trump-winter-olympics.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T05:57:59+00:00",
     "fetched_at": "2026-03-01T06:27:14.936783+00:00",
@@ -2271,10 +2169,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "USA hockey stars mock Donald Trump over Winter Olympics outrage in SNL monologue",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "279754efeb87f481",
@@ -2347,7 +2243,6 @@
   {
     "id": "5b504ce0061c4704",
     "title_original": "In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World",
-    "content_original": "Laying a foundation for a house in the village of Kosmyryn, in western Ukraine, in November.",
     "url": "https://www.nytimes.com/2026/03/01/world/europe/ukraine-simple-believers.html",
     "published": "2026-03-01T05:01:16+00:00",
     "fetched_at": "2026-03-01T05:11:40.855599+00:00",
@@ -2356,10 +2251,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "In Ukraine, a Community of ‘Simple Believers’ Shuns the Modern World",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1b6bd7847c400a25",
@@ -2381,7 +2274,6 @@
   {
     "id": "811556f8bbee6636",
     "title_original": "Sicily revokes century-old Mondello beach concession over mafia links",
-    "content_original": "Regional authorities withdraw permit after citing risk of organised crime infiltration linked to a subcontractor It is one of Europe’s most celebrated shorelines, framed by mountains and 19th-century villas and famed for its Caribbean-blue water and white sand. But Mondello beach in Palermo, Sicily, has also been mired in controversy, the subject of complaints stretching back a century from residents and tourists who say its private lidos, cabins and deckchairs have left scant room for public access. Continue reading...",
     "url": "https://www.theguardian.com/world/2026/mar/01/sicily-mondello-beach-mafia",
     "published": "2026-03-01T05:00:31+00:00",
     "fetched_at": "2026-03-01T05:11:50.818556+00:00",
@@ -2390,15 +2282,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Sicily revokes century-old Mondello beach concession over mafia links",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "0b5311806cf6fe88",
     "title_original": "DWP issues cost of living payment rules for households after March",
-    "content_original": "The DWP is launching a Crisis and Resilience Fund to support households from April 1",
     "url": "https://www.express.co.uk/finance/personalfinance/2176441/dwp-cost-living-payments-rules-march",
     "published": "2026-03-01T04:46:00+00:00",
     "fetched_at": "2026-03-01T05:11:53.505876+00:00",
@@ -2407,10 +2296,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "DWP issues cost of living payment rules for households after March",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e9b20e84c5581792",
@@ -2500,7 +2387,6 @@
   {
     "id": "f529f6f97e06939d",
     "title_original": "Terry thought she just had aching joints then was diagnosed with deadly immune condition Sjogrens. Now she's been cured by a monthly jab doctors say is 'revolutionary'... and now it's coming to the NHS",
-    "content_original": "Terry thought she just had aching joints then was diagnosed with deadly immune condition Sjogrens. Now she's been cured by a monthly jab doctors say is 'revolutionary'... and now it's coming to the NHS",
     "url": "https://www.dailymail.co.uk/health/article-15601537/Terry-joints-diagnosed-immune-condition-Sjogrens-jab-doctors-NHS.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T03:25:35+00:00",
     "fetched_at": "2026-03-01T03:46:14.924308+00:00",
@@ -2509,15 +2395,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Woman cured of Sjogrens syndrome by revolutionary monthly treatment",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9425dfccb90aba7b",
     "title_original": "The lesser-known Cornwall village that's one of the 'most beautiful places in England'",
-    "content_original": "The lesser-known Cornwall village that's one of the 'most beautiful places in England'",
     "url": "https://www.dailymail.co.uk/travel/article-15598691/lesser-known-cornwall-village-beautiful-places-england.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T03:25:04+00:00",
     "fetched_at": "2026-03-01T03:46:14.924502+00:00",
@@ -2526,15 +2409,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "The lesser-known Cornwall village that's one of the 'most beautiful places in England'",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4f1094aa07d93c2d",
     "title_original": "BRITs host Jack Whitehall is criticised for 'punching down at Manchester' as viewers grow tired of his 'painful posh boy schtick' and beg for a change of presenter next year",
-    "content_original": "BRITs host Jack Whitehall is criticised for 'punching down at Manchester' as viewers grow tired of his 'painful posh boy schtick' and beg for a change of presenter next year",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602825/BRITs-host-Jack-Whitehall-criticised-punching-Manchester-fans-call-new-host.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T03:21:07+00:00",
     "fetched_at": "2026-03-01T03:46:14.924889+00:00",
@@ -2543,15 +2423,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "BRITs host Jack Whitehall criticized for comments on Manchester",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "03d1aa433a4875cb",
     "title_original": "Dave Gilmour's 'property nightmare': Pink Floyd icon halves price of his £15m seafront mansion... but three years on, it's STILL not sold",
-    "content_original": "Dave Gilmour's 'property nightmare': Pink Floyd icon halves price of his £15m seafront mansion... but three years on, it's STILL not sold",
     "url": "https://www.dailymail.co.uk/news/article-15599305/Dave-Gilmours-property-nightmare-Pink-Floyd-icon-halves-price-15m-seafront-mansion-three-years-not-sold.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T03:19:20+00:00",
     "fetched_at": "2026-03-01T03:46:14.925065+00:00",
@@ -2560,15 +2437,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Dave Gilmour's property struggles with £15m mansion sale",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "b861a122b5c04413",
     "title_original": "TALK OF THE TOWN: Locals fear top Traitor Alan Carr will turn £3.25million castle into his own fortress",
-    "content_original": "TALK OF THE TOWN: Locals fear top Traitor Alan Carr will turn £3.25million castle into his own fortress",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602095/TALK-TOWN-Locals-fear-Traitor-Alan-Carr-3-25million-castle-fortress.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:29:28+00:00",
     "fetched_at": "2026-03-01T02:44:46.305571+00:00",
@@ -2577,15 +2451,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Locals fear Alan Carr will turn castle into fortress",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9f6d77f3ecb76725",
     "title_original": "The Left at each others' throats. Disdain for the 'failed Tories' in Reform. But can resurgent Kemi Badenoch take advantage? LORD ASHCROFT",
-    "content_original": "The Left at each others' throats. Disdain for the 'failed Tories' in Reform. But can resurgent Kemi Badenoch take advantage? LORD ASHCROFT",
     "url": "https://www.dailymail.co.uk/debate/article-15602149/The-Left-throats-Disdain-failed-Tories-Reform-resurgent-Kemi-Badenoch-advantage-LORD-ASHCROFT.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:25:02+00:00",
     "fetched_at": "2026-03-01T02:44:46.305749+00:00",
@@ -2594,10 +2465,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "The Left at each others' throats; Kemi Badenoch's potential rise in UK politics",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ef618ecb15cd8400",
@@ -2636,7 +2505,6 @@
   {
     "id": "99e9d53299fa0b13",
     "title_original": "Trump has opened Pandora's box but now is our chance to shape Iran's future, writes former Middle East minister TOBIAS ELLWOOD",
-    "content_original": "Trump has opened Pandora's box but now is our chance to shape Iran's future, writes former Middle East minister TOBIAS ELLWOOD",
     "url": "https://www.dailymail.co.uk/debate/article-15602807/Trumps-opened-Pandoras-box-chance-shape-Irans-future-writes-former-Middle-East-minister-TOBIAS-ELLWOOD.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:20:48+00:00",
     "fetched_at": "2026-03-01T02:44:46.305925+00:00",
@@ -2645,15 +2513,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Former Middle East minister Tobias Ellwood discusses opportunity to shape Iran's future amid current conflict",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "f0e2052706df3e81",
     "title_original": "A faulty Pilates machine cost this professional violinist her health, musical career and marriage - and forced her to turn James Bond in her fight for compensation",
-    "content_original": "A faulty Pilates machine cost this professional violinist her health, musical career and marriage - and forced her to turn James Bond in her fight for compensation",
     "url": "https://www.dailymail.co.uk/news/article-15602167/faulty-Pilates-machine-professional-violinist-compensation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:20:17+00:00",
     "fetched_at": "2026-03-01T02:24:52.064405+00:00",
@@ -2662,15 +2527,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Faulty Pilates machine ruins violinist's career and marriage",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "25050f1803503fd2",
     "title_original": "RIP Neil Sedaka: Swept away by The Beatles but saved by Elton John, he was a songwriter who knew the way to women's hearts",
-    "content_original": "RIP Neil Sedaka: Swept away by The Beatles but saved by Elton John, he was a songwriter who knew the way to women's hearts",
     "url": "https://www.dailymail.co.uk/news/article-15602953/Neil-Sedaka-Beatles-Elton-John-songwriter.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:18:19+00:00",
     "fetched_at": "2026-03-01T02:24:52.064597+00:00",
@@ -2679,10 +2541,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "RIP Neil Sedaka: Swept away by The Beatles but saved by Elton John, he was a songwriter who knew the way to women's hearts",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a8980b82018a0b5f",
@@ -2721,7 +2581,6 @@
   {
     "id": "0879e77d3680db74",
     "title_original": "MAIL ON SUNDAY COMMENT: Dirty tricks... and a grave threat to our democracy",
-    "content_original": "MAIL ON SUNDAY COMMENT: Dirty tricks... and a grave threat to our democracy",
     "url": "https://www.dailymail.co.uk/debate/article-15602409/MAIL-SUNDAY-COMMENT-Dirty-tricks-grave-threat-democracy.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:16:36+00:00",
     "fetched_at": "2026-03-01T02:24:52.064981+00:00",
@@ -2730,10 +2589,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Dirty tricks and a grave threat to our democracy",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "27fecefc0a003058",
@@ -2755,7 +2612,6 @@
   {
     "id": "bfef50744b7adf5e",
     "title_original": "Last man to see missing British yachtswoman Sarm Heslop alive planning to sue BBC over documentary",
-    "content_original": "Last man to see missing British yachtswoman Sarm Heslop alive planning to sue BBC over documentary",
     "url": "https://www.dailymail.co.uk/news/article-15602281/Last-man-missing-British-yachtswoman-Sarm-Heslop-alive-planning-sue-BBC-documentary.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:14:17+00:00",
     "fetched_at": "2026-03-01T02:24:52.065163+00:00",
@@ -2764,10 +2620,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man who last saw missing British yachtswoman plans to sue BBC over documentary",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e2d60505c3ccc809",
@@ -2789,7 +2643,6 @@
   {
     "id": "610f4d491c74c619",
     "title_original": "Andy Burnham 'to cut a deal with Polanski' as Manchester mayor tops poll to replace PM",
-    "content_original": "Andy Burnham 'to cut a deal with Polanski' as Manchester mayor tops poll to replace PM",
     "url": "https://www.dailymail.co.uk/news/article-15602455/Andy-Burnham-cut-deal-Polanski-Manchester-mayor-tops-poll-replace-PM.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:03:32+00:00",
     "fetched_at": "2026-03-01T02:24:52.065335+00:00",
@@ -2798,15 +2651,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Andy Burnham tops poll to replace UK PM",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "6e6f16fa4611c7c1",
     "title_original": "Three-homes Rayner set to pick up five-figure sum from speaking gig at estate agents' conference",
-    "content_original": "Three-homes Rayner set to pick up five-figure sum from speaking gig at estate agents' conference",
     "url": "https://www.dailymail.co.uk/news/article-15602689/Three-homes-Rayner-five-figure-sum-speaking-gig.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T02:01:56+00:00",
     "fetched_at": "2026-03-01T02:24:52.065507+00:00",
@@ -2815,15 +2665,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Rayner to earn five-figure sum from speaking at estate agents' conference",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9876c9eac348a1ef",
     "title_original": "Fury as Green Party spin doctor denies women were raped in October 7 attacks",
-    "content_original": "Fury as Green Party spin doctor denies women were raped in October 7 attacks",
     "url": "https://www.dailymail.co.uk/news/article-15602697/Green-Party-spin-doctor-denies-women-raped-October-7-attacks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T01:58:37+00:00",
     "fetched_at": "2026-03-01T02:24:52.065688+00:00",
@@ -2832,10 +2679,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Green Party spokesperson denies rape allegations in October 7 attacks",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "578af5386bbe407c",
@@ -2857,7 +2702,6 @@
   {
     "id": "ec71817dc7632663",
     "title_original": "Penny Lancaster backs drive to rescue over-50s from the jobs scrapheap as unemployment in that age bracket reaches record high",
-    "content_original": "Penny Lancaster backs drive to rescue over-50s from the jobs scrapheap as unemployment in that age bracket reaches record high",
     "url": "https://www.dailymail.co.uk/news/article-15602263/Penny-Lancaster-50s-jobs-unemployment-record-high.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T01:22:00+00:00",
     "fetched_at": "2026-03-01T01:32:07.689717+00:00",
@@ -2866,10 +2710,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Penny Lancaster supports initiative to help over-50s facing record unemployment",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9eb77fbd99e1c310",
@@ -2891,7 +2733,6 @@
   {
     "id": "b9230ce7bbf7dc57",
     "title_original": "What happened to the children who went to fat camps: They've fallen out of favour - but Destiny says her stint changed her life. Now, as childhood obesity soars, is it time to bring them back?",
-    "content_original": "What happened to the children who went to fat camps: They've fallen out of favour - but Destiny says her stint changed her life. Now, as childhood obesity soars, is it time to bring them back?",
     "url": "https://www.dailymail.co.uk/health/article-15601301/what-happened-children-fat-camps-obesity-time-bring-back.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T01:10:13+00:00",
     "fetched_at": "2026-03-01T01:21:29.980566+00:00",
@@ -2900,10 +2741,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "What happened to the children who went to fat camps: They've fallen out of favour - but Destiny says her stint changed her life. Now, as childhood obesity soars, is it time to bring them back?",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "528ebc9364c721e1",
@@ -2925,7 +2764,6 @@
   {
     "id": "05901f016c601a90",
     "title_original": "The Man Who Destroyed Iran",
-    "content_original": "The supreme leader organized his existence around one big idea: resistance.",
     "url": "https://www.nytimes.com/2026/02/28/opinion/iran-supreme-leader-dead-khamenei.html",
     "published": "2026-03-01T01:05:55+00:00",
     "fetched_at": "2026-03-01T01:13:12.747842+00:00",
@@ -2934,15 +2772,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "The Man Who Destroyed Iran",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "dc2bf09fbf9bd777",
     "title_original": "This man was abused for appearing on a Welcome to Heathrow poster. Then he met his trolls",
-    "content_original": "Syed Usman Shah says he was proud to appear in the campaign, but upset by what followed.",
     "url": "https://www.bbc.com/news/articles/c1mjxypdyn0o?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T01:04:35+00:00",
     "fetched_at": "2026-03-01T01:32:04.870189+00:00",
@@ -2951,10 +2786,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man abused for appearing on Heathrow poster meets his trolls",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3524abea909a2fed",
@@ -2993,7 +2826,6 @@
   {
     "id": "21f33ce32e3bf0bd",
     "title_original": "Brit awards 2026: full list of winners",
-    "content_original": "Olivia Dean tops the winners list with four, while Sam Fender bags two – see all the category winners here Olivia Dean Continue reading...",
     "url": "https://www.theguardian.com/music/2026/mar/01/brit-awards-2026-full-list-of-winners",
     "published": "2026-03-01T00:42:56+00:00",
     "fetched_at": "2026-03-01T01:00:22.337064+00:00",
@@ -3002,15 +2834,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Brit awards 2026: full list of winners",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3e0f9a5eeaa8a5eb",
     "title_original": "Robbie Williams cosies up to wife Ayda Field on the BRIT Awards red carpet ahead of his tribute performance to Ozzy Osbourne to close the ceremony",
-    "content_original": "Robbie Williams cosies up to wife Ayda Field on the BRIT Awards red carpet ahead of his tribute performance to Ozzy Osbourne to close the ceremony",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602157/Robbie-Williams-wife-Ayda-Field-BRIT-Awards-red-carpet-ahead-tribute-performance-Ozzy-Osbourne-close-ceremony.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T00:40:50+00:00",
     "fetched_at": "2026-03-01T01:00:24.823453+00:00",
@@ -3019,15 +2848,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Robbie Williams prepares for Ozzy Osbourne tribute at BRIT Awards",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1dc34daac0d96931",
     "title_original": "Olivia Attwood: 'We shouldn't glamourise being reliant on other people'",
-    "content_original": "The documentary host and presenter discusses female independence and snobbery about reality TV.",
     "url": "https://www.bbc.com/news/articles/cy4wp0dp9y7o?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T00:40:11+00:00",
     "fetched_at": "2026-03-01T01:00:22.102960+00:00",
@@ -3036,10 +2862,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Olivia Attwood discusses female independence and reality TV",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "6e2a1d999a43a6ec",
@@ -3061,7 +2885,6 @@
   {
     "id": "5ad01c7463b3ffc1",
     "title_original": "Why are more GPs opting to work outside the NHS?",
-    "content_original": "More doctors and patients are turning to the private sector as demand increases pressure on the NHS.",
     "url": "https://www.bbc.com/news/articles/c3wln1dlev6o?at_medium=RSS&at_campaign=rss",
     "published": "2026-03-01T00:24:28+00:00",
     "fetched_at": "2026-03-01T00:37:07.762081+00:00",
@@ -3070,10 +2893,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Why are more GPs opting to work outside the NHS?",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "75330737662c75bc",
@@ -3095,7 +2916,6 @@
   {
     "id": "319939b8f424e838",
     "title_original": "The family who say all FIVE of their children were abused by popstar Michael Jackson speak out in world first interview",
-    "content_original": "The family who say all FIVE of their children were abused by popstar Michael Jackson speak out in world first interview",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602367/family-FIVE-children-abused-popstar-Michael-Jackson-interviewed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-03-01T00:10:54+00:00",
     "fetched_at": "2026-03-01T00:37:09.635398+00:00",
@@ -3104,10 +2924,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Family claims all five children were abused by Michael Jackson",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a82fa0a596abbe6c",
@@ -3192,7 +3010,6 @@
   {
     "id": "19f90ea8d37acacd",
     "title_original": "Sharon and Kelly Osbourne make heartfelt speech in honour of Ozzy while Dolly Parton and Robbie Williams pay 'fitting tribute' to the late rocker as he's awarded Lifetime Achievement Award at the BRITs",
-    "content_original": "Sharon and Kelly Osbourne make heartfelt speech in honour of Ozzy while Dolly Parton and Robbie Williams pay 'fitting tribute' to the late rocker as he's awarded Lifetime Achievement Award at the BRITs",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602709/Sharon-Kelly-Osbourne-Ozzy-Dolly-Parton-Robbie-Williams-BRITs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T23:44:31+00:00",
     "source_name": "Daily Mail",
@@ -3200,10 +3017,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Sharon and Kelly Osbourne honor Ozzy at BRIT Awards",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "d95a80897e23b97f",
@@ -3257,7 +3072,6 @@
   {
     "id": "8de2459d1da9b34c",
     "title_original": "Olivia Dean crowned new UK queen of pop as Brit Awards hit the north",
-    "content_original": "The singer won four awards, including best artist and album, as the Brits headed to Manchester.",
     "url": "https://www.bbc.com/news/articles/cre0xy1w1n3o?at_medium=RSS&at_campaign=rss",
     "published": "2026-02-28T23:29:07+00:00",
     "source_name": "BBC News",
@@ -3265,10 +3079,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Olivia Dean crowned new UK queen of pop at Brit Awards in Manchester",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "85e44352c75982f3",
@@ -3306,7 +3118,6 @@
   {
     "id": "94c9de14ab282761",
     "title_original": "Ian Huntley was savagely beaten over the head 'up to 15 times with three-foot metal pole as he bent down to tie some string on a recycling crate'",
-    "content_original": "Ian Huntley was savagely beaten over the head 'up to 15 times with three-foot metal pole as he bent down to tie some string on a recycling crate'",
     "url": "https://www.dailymail.co.uk/news/article-15602043/Ian-Huntley-hit-15-times-three-foot-metal-pole-bent-tie-string-recycling-crate.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T22:28:27+00:00",
     "source_name": "Daily Mail",
@@ -3314,10 +3125,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Ian Huntley attacked with metal pole",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "28a10fd0a574606c",
@@ -3338,7 +3147,6 @@
   {
     "id": "b699376bb8f0ef96",
     "title_original": "Shia LaBeouf surrenders to New Orleans police after new warrant adds third battery charge",
-    "content_original": "Actor, originally charged on two counts, also accused of shouting homophobic slurs during attacks on 17 February Shia LaBeouf surrendered to New Orleans police after they obtained a new warrant Friday to arrest him again in connection with a case that had already left him facing two counts of battery. The new warrant brought the number of people whom the Transformers film franchise star is accused of battering to three. He turned himself over to police in advance of a bail hearing on Saturday afternoon, after which he posted a $5,000 bond to continue out of authorities’ custody while awaiting the outcome of the case. Continue reading...",
     "url": "https://www.theguardian.com/film/2026/feb/27/new-orleans-police-shia-labeouf",
     "published": "2026-02-28T22:16:36+00:00",
     "source_name": "The Guardian World",
@@ -3346,10 +3154,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Shia LaBeouf surrenders to New Orleans police after new warrant adds third battery charge",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3fc1310c1c518fd0",
@@ -3368,7 +3174,6 @@
   {
     "id": "70ef1f4cf5e5cd2d",
     "title_original": "The Outlook Is Grim for a Freer Iran",
-    "content_original": "U.S. military interventions have often gone poorly for the countries in question. But there is much the world, and Iranians, can do.",
     "url": "https://www.nytimes.com/2026/02/28/opinion/iran-us-war-attack-protests.html",
     "published": "2026-02-28T22:08:28+00:00",
     "source_name": "New York Times – Iran",
@@ -3376,10 +3181,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "The Outlook Is Grim for a Freer Iran",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "eb2029a952655de8",
@@ -3426,7 +3229,6 @@
   {
     "id": "8b51d66339a898fd",
     "title_original": "How the BAFTAs Bungled Its Response to a Racial Slur",
-    "content_original": "The executive producer of the BAFTAs ceremony said that one racist slur was edited from the BBC’s broadcast but that another was missed.",
     "url": "https://www.nytimes.com/2026/02/28/movies/baftas-bbc-racial-slur-tourettes.html",
     "published": "2026-02-28T21:58:38+00:00",
     "source_name": "NYT Top Stories",
@@ -3434,10 +3236,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "BAFTAs' Response to Racial Slur Criticized",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "36f6ff9c2f1559b0",
@@ -3486,7 +3286,6 @@
   {
     "id": "ae05d008b054ec31",
     "title_original": "BRITs host Jack Whitehall is censored by ITV for making joke about Peter Mandelson and the Epstein Files in front of red-faced Labour politicians",
-    "content_original": "BRITs host Jack Whitehall is censored by ITV for making joke about Peter Mandelson and the Epstein Files in front of red-faced Labour politicians",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602479/BRITs-host-Jack-Whitehall-censored-ITV-joke-Peter-Mandelson.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:52:14+00:00",
     "source_name": "Daily Mail",
@@ -3494,10 +3293,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "BRITs host censored for joke about Epstein Files",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "81d5ddd21c2b287e",
@@ -3518,7 +3315,6 @@
   {
     "id": "00beb2116998fa8a",
     "title_original": "Shocking new Epstein photo shows top doctor giving woman STITCHES on predator's dining room table... as acclaimed female cancer expert is engulfed by scandal",
-    "content_original": "Shocking new Epstein photo shows top doctor giving woman STITCHES on predator's dining room table... as acclaimed female cancer expert is engulfed by scandal",
     "url": "https://www.dailymail.co.uk/news/article-15602063/jeffrey-epstein-photo-stiches-eva-dubin.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:47:52+00:00",
     "source_name": "Daily Mail",
@@ -3526,15 +3322,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "New Epstein photo reveals doctor providing medical treatment in predator's home",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "2b7b9c28ae402195",
     "title_original": "New Labour peer suspended over alleged inappropriate behaviour",
-    "content_original": "He was administratively suspended from the Labour Party pending an investigation",
     "url": "https://www.independent.co.uk/news/uk/politics/lord-joe-docherty-suspended-labour-peer-ncg-b2929584.html",
     "published": "2026-02-28T21:40:17+00:00",
     "source_name": "The Independent",
@@ -3542,10 +3335,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "New Labour peer suspended over alleged inappropriate behaviour",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a848a7e245f86b90",
@@ -3582,7 +3373,6 @@
   {
     "id": "6ca93d85273877c2",
     "title_original": "Wet Leg's Rhian Teasdale arrives at the BRIT Awards with bloodied knees as she makes a bizarre red carpet appearance",
-    "content_original": "Wet Leg's Rhian Teasdale arrives at the BRIT Awards with bloodied knees as she makes a bizarre red carpet appearance",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602061/Wet-Legs-Rhian-Teasdale-arrives-BRIT-Awards-bloodied-knees-makes-bizarre-red-carpet-appearance.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:38:24+00:00",
     "source_name": "Daily Mail",
@@ -3590,15 +3380,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Wet Leg's Rhian Teasdale arrives at the BRIT Awards with bloodied knees",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "dce697137adc60fa",
     "title_original": "Kelly Osbourne breaks cover after hitting out at 'body-shaming' trolls as she arrives on the BRITs red carpet with mum Sharon ahead of Ozzy's posthumous Lifetime Achievement Award honour",
-    "content_original": "Kelly Osbourne breaks cover after hitting out at 'body-shaming' trolls as she arrives on the BRITs red carpet with mum Sharon ahead of Ozzy's posthumous Lifetime Achievement Award honour",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602135/Kelly-Osbourne-arrives-BRITs-Sharon-ahead-Ozzys-Lifetime-Achievement-Award-honour.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:37:59+00:00",
     "source_name": "Daily Mail",
@@ -3606,10 +3393,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Kelly Osbourne criticizes body-shaming trolls at BRITs event",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "145fe6d3f38217e9",
@@ -3631,7 +3416,6 @@
   {
     "id": "956a86eba7165b7b",
     "title_original": "Sharon Osbourne says being a grandparent 'keeps her going' following husband Ozzy's tragic death as she and daughter Kelly reveal sweet outfit tributes to rocker at the BRITs",
-    "content_original": "Sharon Osbourne says being a grandparent 'keeps her going' following husband Ozzy's tragic death as she and daughter Kelly reveal sweet outfit tributes to rocker at the BRITs",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602269/Sharon-Osbourne-grandparent-going-Ozzys-tragic-Kelly-BRITs.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:35:44+00:00",
     "source_name": "Daily Mail",
@@ -3639,10 +3423,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Sharon Osbourne discusses being a grandparent after Ozzy's death",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "af7a871ffe671adc",
@@ -3664,7 +3446,6 @@
   {
     "id": "d3aa5e96ebd9f504",
     "title_original": "Harry Styles sends fans wild as he kicks off BRIT Awards 2026 with showstopping performance and first red carpet appearance in three years following career break: 'He is so back!'",
-    "content_original": "Harry Styles sends fans wild as he kicks off BRIT Awards 2026 with showstopping performance and first red carpet appearance in three years following career break: 'He is so back!'",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602347/BRIT-Awards-perfomances-Harry-styles.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:31:18+00:00",
     "source_name": "Daily Mail",
@@ -3672,10 +3453,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Harry Styles performs at BRIT Awards 2026 after career break",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "8891934c0af02e18",
@@ -3697,7 +3476,6 @@
   {
     "id": "c68d5cd01f18b1fa",
     "title_original": "BRITs host Jack Whitehall takes swipe at the BAFTAs N-word Tourette's controversy as he jokes about 'bleeping' swearing while opening the ceremony for the sixth time",
-    "content_original": "BRITs host Jack Whitehall takes swipe at the BAFTAs N-word Tourette's controversy as he jokes about 'bleeping' swearing while opening the ceremony for the sixth time",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602381/Jack-Whitehall-takes-swipe-Bafta-controversy-opens-BRIT-Awards.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:26:31+00:00",
     "source_name": "Daily Mail",
@@ -3705,15 +3483,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "BRITs host Jack Whitehall jokes about 'bleeping' swearing at the ceremony",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9032ae597b3c558d",
     "title_original": "Man, 49, dies taking part in skydive at airfield",
-    "content_original": "Police say they were called to Dunkeswell Aerodrome at about 13:00 GMT on Saturday.",
     "url": "https://www.bbc.com/news/articles/cdxze91k0rzo?at_medium=RSS&at_campaign=rss",
     "published": "2026-02-28T21:26:17+00:00",
     "source_name": "BBC News",
@@ -3721,10 +3496,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man dies during skydive at airfield",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9f9a7737af3f6da9",
@@ -3761,7 +3534,6 @@
   {
     "id": "74c537e6e384872e",
     "title_original": "BRIT Awards 2026 winners: Olivia Dean and Lola Young win their first-ever BRIT gongs at star-studded ceremony",
-    "content_original": "BRIT Awards 2026 winners: Olivia Dean and Lola Young win their first-ever BRIT gongs at star-studded ceremony",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602331/BRIT-Awards-2026-winners-Olivia-Dean-Best-Song.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:21:32+00:00",
     "source_name": "Daily Mail",
@@ -3769,15 +3541,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "BRIT Awards 2026 winners announced",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "456239cc413ec111",
     "title_original": "I gave up my dream six figure Wall Street banking job to volunteer on the deadly Ukraine frontline... and I don't regret it for a second",
-    "content_original": "I gave up my dream six figure Wall Street banking job to volunteer on the deadly Ukraine frontline... and I don't regret it for a second",
     "url": "https://www.dailymail.co.uk/news/article-15599105/I-gave-dream-six-figure-Wall-Street-banking-job-volunteer-deadly-Ukraine-frontline-dont-regret-second.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:19:02+00:00",
     "source_name": "Daily Mail",
@@ -3785,10 +3554,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man leaves Wall Street job to volunteer on Ukraine frontline",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "8cfb5f9d83d3c859",
@@ -3842,7 +3609,6 @@
   {
     "id": "e153f226d2bf60be",
     "title_original": "Every picture in the Epstein Files collected for the first time by Deep Dive: Explore the Mail's painstakingly compiled interactive gallery",
-    "content_original": "Every picture in the Epstein Files collected for the first time by Deep Dive: Explore the Mail's painstakingly compiled interactive gallery",
     "url": "https://www.dailymail.co.uk/news/article-15594577/Every-picture-Epstein-Files-collected-gallery-interactive.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T21:07:06+00:00",
     "source_name": "Daily Mail",
@@ -3850,10 +3616,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Deep Dive compiles Epstein Files photos in interactive gallery",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1cbf5bb403702596",
@@ -3874,7 +3638,6 @@
   {
     "id": "eab96565f893c9ef",
     "title_original": "Body found on Ben Nevis is believed to be climber who went missing there three years ago",
-    "content_original": "Body found on Ben Nevis is believed to be climber who went missing there three years ago",
     "url": "https://www.dailymail.co.uk/news/article-15601959/Body-Ben-Nevis-believed-climber-went-missing-three-years-ago.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T20:40:38+00:00",
     "source_name": "Daily Mail",
@@ -3882,15 +3645,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Body found on Ben Nevis believed to be climber missing for three years",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3ac1d52964cca163",
     "title_original": "New set-piece kings Liverpool can still achieve 'something beautiful'",
-    "content_original": "Liverpool boosted their Champions League hopes with a 5-2 win against West Ham, helped by three goals from set-pieces in the first half.",
     "url": "https://www.bbc.com/sport/football/articles/c4g2972nrpeo?at_medium=RSS&at_campaign=rss",
     "published": "2026-02-28T20:38:13+00:00",
     "source_name": "BBC News",
@@ -3898,10 +3658,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Liverpool wins 5-2 against West Ham with three goals from set-pieces",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "eabb0282416f835a",
@@ -3922,7 +3680,6 @@
   {
     "id": "fbfb94a2ca554aaf",
     "title_original": "US Olympic hockey hero Jack Hughes opens up about support for women's team amid backlash over Trump's joke",
-    "content_original": "Team USA Olympic hockey hero Jack Hughes spoke about his support for his country's women's hockey team after his team was the subject of backlash for laughing at a joke by President Donald Trump about the women's team. During an interview on ESPN's \"The Pat McAfee Show\" Friday, Hughes opened up about his respect for the women's team after McAfee appeared to reference the controversy by joking that Hughes and his teammates \"hate\" the women players. \"We are hanging out with them so much, the women's team. We were supporting them. Like, we were at their games, they were at our games,\" Hughes said. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Hughes then appeared to address the recent criticism of his team for its response to Trump's joke. \"Like all these people talking, how many of them watched their gold medal game? Me and Quinn Hughes were at the game. We were at the game until like overtime ended on the glass, and we were jumping up and down so excited for these girls, so excited...",
     "url": "https://www.foxnews.com/sports/us-olympic-hockey-hero-jack-hughes-opens-up-support-womens-team-amid-backlash-trump-joke",
     "published": "2026-02-28T20:18:42-05:00",
     "fetched_at": "2026-03-01T01:31:52.529573+00:00",
@@ -3931,10 +3688,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "US Olympic hockey player Jack Hughes discusses support for women's team amid backlash over Trump's joke",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "446adb58ed584c84",
@@ -4068,7 +3823,6 @@
   {
     "id": "7e701c73ce2af5bb",
     "title_original": "Labour minister Josh Simons resigns after falsely linking journalists to ‘pro-Kremlin’ network",
-    "content_original": "Makerfield MP has been under pressure over thinktank’s commissioning of PR firm to investigate reporters The Labour minister Josh Simons has resigned from the government after the Guardian revealed that he falsely linked reporters to a “pro-Kremlin” network in emails to GCHQ despite having claimed to be “surprised” and “furious” about a PR firm’s investigation into their journalism. Simons, who had been a Cabinet Office minister, previously ran the thinktank Labour Together. He quit on Saturday, saying his position in office had become “a distraction from this government’s important work.” Continue reading...",
     "url": "https://www.theguardian.com/politics/2026/feb/28/minister-josh-simons-resigns-labour-together",
     "published": "2026-02-28T19:50:09+00:00",
     "source_name": "The Guardian World",
@@ -4076,15 +3830,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Labour minister resigns over false claims linking journalists to pro-Kremlin network",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "5ae77a11b2017dbb",
     "title_original": "Brits red carpet in pictures: Harry Styles, Olivia Dean and Lola Young arrive",
-    "content_original": "Stars including Olivia Dean, Lola Young and Rosalía turned out for the Brit Awards in Manchester.",
     "url": "https://www.bbc.com/news/articles/c24dle3mv97o?at_medium=RSS&at_campaign=rss",
     "published": "2026-02-28T19:46:19+00:00",
     "source_name": "BBC News",
@@ -4092,15 +3843,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Brit Awards held in Manchester with celebrity appearances",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "184d91bd1df2056d",
     "title_original": "Shabana Mahmood vows to press on with asylum system crackdown despite Labour losing left-wing voters to the Greens",
-    "content_original": "Shabana Mahmood vows to press on with asylum system crackdown despite Labour losing left-wing voters to the Greens",
     "url": "https://www.dailymail.co.uk/news/article-15601533/Shabana-Mahmood-asylum-crackdown-despite-Labour-losing-left-wing-voters-Greens.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T19:43:10+00:00",
     "source_name": "Daily Mail",
@@ -4108,15 +3856,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Shabana Mahmood vows to press on with asylum system crackdown despite Labour losing left-wing voters to the Greens",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "8cc926d146cbcff1",
     "title_original": "What colleagues are whispering about Eamonn Holmes' mysterious absence from his show: His heartbreak revealed, how he's been left 'severely bruised'... and why he's 'mouthing off like a bitter old man', by KATIE HIND",
-    "content_original": "What colleagues are whispering about Eamonn Holmes' mysterious absence from his show: His heartbreak revealed, how he's been left 'severely bruised'... and why he's 'mouthing off like a bitter old man', by KATIE HIND",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15599699/Eamonn-Holmes-gbnews-absence-divorce-heartbreak-ruth-langsford-KATIE-HIND.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T19:40:25+00:00",
     "source_name": "Daily Mail",
@@ -4124,10 +3869,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Eamonn Holmes' mysterious absence from his show and its implications",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "85da26e724a84298",
@@ -4164,7 +3907,6 @@
   {
     "id": "bc3611a8ee210095",
     "title_original": "Jamie Laing jokes he's in his 'midlife crisis era' since becoming a first-time father to son Ziggy as wife Sophie Habboo reflects on 'pressure' to bounce back after giving birth",
-    "content_original": "Jamie Laing jokes he's in his 'midlife crisis era' since becoming a first-time father to son Ziggy as wife Sophie Habboo reflects on 'pressure' to bounce back after giving birth",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15602077/Jamie-Laing-midlife-crisis-era-father-wife-Sophie-Habboo.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T19:25:36+00:00",
     "source_name": "Daily Mail",
@@ -4172,10 +3914,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Jamie Laing jokes about being in his 'midlife crisis era' after becoming a father",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "95b5b9f8c6fe1ec8",
@@ -4263,7 +4003,6 @@
   {
     "id": "8058adc848992f96",
     "title_original": "Cher's son Elijah Blue Allman, 49, arrested for assault at prep school",
-    "content_original": "Cher's son Elijah Blue Allman, 49, arrested for assault at prep school",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15601869/Chers-son-Elijah-Blue-Allman-arrested-prep-school.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T19:10:59+00:00",
     "source_name": "Daily Mail",
@@ -4271,15 +4010,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Cher's son arrested for assault at prep school",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a66b95560671cd6b",
     "title_original": "Man confesses to killing 7-year-old while on the lam after DNA links him to 30-year cold case: authorities",
-    "content_original": "A man who was an escaped fugitive at the time of a 7-year-old Kentucky girl's abduction has been charged in her killing 30 years later, according to authorities. Morgan Jade Violi was abducted while playing outside her apartment building on July 24, 1996, in Bowling Green, Kentucky — and for 30 years her case remained cold until recent advancements in forensic science linked Robert Scott Froberg to her killing. Froberg, who was already in the Alabama prison system , was charged Thursday with kidnapping resulting in death, United States Attorney for the Western District of Kentucky Kyle G. Bumgarner said at a press conference Friday. DNA BREAKTHROUGH CLOSES 30-YEAR-OLD COLD CASE IN BRUTAL 1993 RAPE AND MURDER \"Morgan’s kidnapping and murder changed her family’s life forever,\" Bumgarner also said. \"Morgan’s family ’s been left with unanswered questions.\" He said her abduction also changed the Bowling Green community . \"We remember when she was abducted, we remember the outpouring of supp...",
     "url": "https://www.foxnews.com/us/man-confesses-killing-7-year-old-while-lam-after-dna-links-him-30-year-cold-case-authorities",
     "published": "2026-02-28T19:03:38-05:00",
     "source_name": "FOX News",
@@ -4287,10 +4023,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Man confesses to killing 7-year-old in 30-year cold case after DNA link",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e95098937d033bb0",
@@ -4311,7 +4045,6 @@
   {
     "id": "570fb776f58ee467",
     "title_original": "Son of rapper Lil Jon drowned after ingesting hallucinogenic mushrooms",
-    "content_original": "Body of Nathan Smith, known professionally as DJ Young Slade, found in pond north of Atlanta in February The son of the rapper Lil Jon drowned after ingesting hallucinogenic mushrooms, officials in the US state of Georgia said. The body of Nathan Smith, known professionally as DJ Young Slade, was found in a pond north of Atlanta in early February. Continue reading...",
     "url": "https://www.theguardian.com/us-news/2026/feb/28/lil-jon-son-drowned-hallucinogenic-mushrooms",
     "published": "2026-02-28T19:02:55+00:00",
     "source_name": "The Guardian World",
@@ -4319,15 +4052,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Son of rapper Lil Jon drowned after ingesting hallucinogenic mushrooms",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "635d0e32c607686e",
     "title_original": "Demi Moore says a 'bold beautiful new chapter begins' as she marks a new era and shows off her striking shorter locks - despite saying she would NEVER cut her hair",
-    "content_original": "Demi Moore says a 'bold beautiful new chapter begins' as she marks a new era and shows off her striking shorter locks - despite saying she would NEVER cut her hair",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15601043/Demi-Moore-says-bold-beautiful-new-chapter-begins-marks-new-era-shows-striking-shorter-locks-saying-NEVER-cut-hair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T19:02:15+00:00",
     "source_name": "Daily Mail",
@@ -4335,15 +4065,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Demi Moore debuts shorter hair, marking a new era",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "487f07436f78a800",
     "title_original": "Australia’s broken aged care home support system is ensuring that loved ones live and die without dignity",
-    "content_original": "Alan Nicolle was already approved for urgent aged care supports, but delays and confusion under a ‘Kafkaesque’ system made his final days exhausting and painful Get our breaking news email , free app or daily news podcast Dying Australians approved for government-funded aged care home support are struggling to access it, with carers describing a system plagued by delays and lack of control around how funding is spent. The accounts of carers and aged care assessors spoken to by Guardian Australia show that beyond the controversial, algorithm-driven assessment process for home care funding , many are left without adequate and timely support even after funding has been approved. Continue reading...",
     "url": "https://www.theguardian.com/australia-news/2026/mar/01/australia-aged-care-home-support-system-broken",
     "published": "2026-02-28T19:00:21+00:00",
     "source_name": "The Guardian World",
@@ -4351,15 +4078,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Australia's aged care system fails to provide dignified support for elderly citizens",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "d6bdb576b1a8b36c",
     "title_original": "Violent and menacing threats to Australia’s politicians double in two years, according to police data",
-    "content_original": "At least 21 charges have been laid against individuals since October, Australian federal police say, following 951 reports to June Get our breaking news email , free app or daily news podcast Nearly three violent or menacing threats against federal politicians are being reported to police daily, according to Australian federal police data, with rates almost doubling in two years. The soaring danger for elected officials and their staff reached new heights this week when Anthony Albanese was evacuated from The Lodge in Canberra over a bomb threat. Continue reading...",
     "url": "https://www.theguardian.com/australia-news/2026/mar/01/violent-and-menacing-threats-to-australias-politicians-double-in-two-years-according-to-police-data-ntwnfb",
     "published": "2026-02-28T19:00:19+00:00",
     "source_name": "The Guardian World",
@@ -4367,10 +4091,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Violent threats against Australian politicians double in two years",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "f52db76cf39fa447",
@@ -4391,7 +4113,6 @@
   {
     "id": "413c1426b9fbc847",
     "title_original": "Abrupt Change for Warner Bros. Prompts Many Grim Faces",
-    "content_original": "Warner Bros. Studio in Burbank, California.",
     "url": "https://www.nytimes.com/2026/02/28/business/warner-bros-paramount-reaction.html",
     "published": "2026-02-28T18:58:36+00:00",
     "source_name": "NYT Top Stories",
@@ -4399,15 +4120,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Abrupt Change for Warner Bros. Prompts Many Grim Faces",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ba9e9a9ff382fa10",
     "title_original": "Epstein Effort to Finance a Dick Cavett Film Undone by Background Check",
-    "content_original": "Dick Cavett had an illustrious career as a talk-show host known for his probing interviews. When a documentary about him was in the early stages, Jeffrey Epstein took an interest.",
     "url": "https://www.nytimes.com/2026/02/28/arts/television/epstein-dick-cavett-film.html",
     "published": "2026-02-28T18:51:54+00:00",
     "source_name": "NYT Top Stories",
@@ -4415,15 +4133,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Epstein's Attempt to Finance Cavett Film Blocked by Background Check",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9ae11db945350cb9",
     "title_original": "Man arrested in shooting of prominent muslim leader in Utah during Ramadan",
-    "content_original": "Imam Shuaib Din was not hit by multiple shots fired by Abdul Raouf Afridi, who ambushed him outside his home A man has been arrested for recently shooting a gun at prominent Muslim leader Imam Shuaib Din in Utah , the police department in the city of Sandy said Saturday. Din’s suspected attacker was identified as Abdul Raouf Afridi. Police said the man was arrested on 12 counts of aggravated assault, including felony discharge of a firearm, possession of a controlled substance, dangerous discharge of a weapon from a vehicle and possession of a dangerous weapon as a prohibited person. Continue reading...",
     "url": "https://www.theguardian.com/us-news/2026/feb/28/utah-muslim-leader-shooting",
     "published": "2026-02-28T18:51:31+00:00",
     "source_name": "The Guardian World",
@@ -4431,15 +4146,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Prominent Muslim leader targeted in Utah shooting during Ramadan",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "e06c3440a9617784",
     "title_original": "War With Iran Is a Mistake",
-    "content_original": "We don’t know how likely it is that the attacks will be successful, nor what costs or risks they bring.",
     "url": "https://www.nytimes.com/2026/02/28/opinion/trump-iran-war.html",
     "published": "2026-02-28T18:48:26+00:00",
     "source_name": "New York Times – Iran",
@@ -4447,10 +4159,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "War With Iran Is a Mistake",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "7b9359babbc63732",
@@ -4487,7 +4197,6 @@
   {
     "id": "657fdc054619a808",
     "title_original": "Hundreds of millions at risk from Chinese shopping app malware",
-    "content_original": "Hundreds of millions at risk from Chinese shopping app malware",
     "url": "https://cnn.it/40OSomK",
     "published": "2026-02-28T18:44:34.014282+00:00",
     "source_name": "CNN International",
@@ -4495,15 +4204,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Hundreds of millions at risk from Chinese shopping app malware",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "333a0219e6055c58",
     "title_original": "Russian authorities detain suspect over St. Petersburg cafe blast",
-    "content_original": "Russian authorities detain suspect over St. Petersburg cafe blast",
     "url": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
     "published": "2026-02-28T18:44:34.013736+00:00",
     "source_name": "CNN International",
@@ -4511,15 +4217,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Russian authorities detain suspect over St. Petersburg cafe blast",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9f15f4a67cb0ba77",
     "title_original": "READ: Trump indictment related to hush money payment",
-    "content_original": "READ: Trump indictment related to hush money payment",
     "url": "https://cnn.it/411KYN7",
     "published": "2026-02-28T18:44:34.013726+00:00",
     "source_name": "CNN International",
@@ -4527,15 +4230,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Trump indictment related to hush money payment",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9305f6a77417c0ba",
     "title_original": "Trump pleads not guilty to 34 felony counts",
-    "content_original": "Trump pleads not guilty to 34 felony counts",
     "url": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
     "published": "2026-02-28T18:44:34.013533+00:00",
     "source_name": "CNN International",
@@ -4543,10 +4243,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Trump pleads not guilty to 34 felony counts",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "06c2e588bcdb3ab5",
@@ -4567,7 +4265,6 @@
   {
     "id": "5617579ce725a4f9",
     "title_original": "Olivia Dean makes her grand entrance after landing five nominations as she joins Rosalia and Mabel leading pop's finest stars on the BRIT Awards red carpet as the biggest night in music makes its Manchester debut",
-    "content_original": "Olivia Dean makes her grand entrance after landing five nominations as she joins Rosalia and Mabel leading pop's finest stars on the BRIT Awards red carpet as the biggest night in music makes its Manchester debut",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15601765/brits-2026-best-dressed-red-carpet.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T18:39:18+00:00",
     "source_name": "Daily Mail",
@@ -4575,15 +4272,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Olivia Dean and other pop stars attend the BRIT Awards in Manchester",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "2ed241432922f874",
     "title_original": "Leeds fans BOO as Man City clash is briefly halted to allow Pep Guardiola's Muslim stars to break their Ramadan fast",
-    "content_original": "Leeds fans BOO as Man City clash is briefly halted to allow Pep Guardiola's Muslim stars to break their Ramadan fast",
     "url": "https://www.dailymail.co.uk/sport/football/article-15601997/Leeds-fans-BOO-Man-City-clash-briefly-halted-allow-Pep-Guardiolas-Muslim-stars-break-Ramadan-fast.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T18:37:21+00:00",
     "source_name": "Daily Mail",
@@ -4591,10 +4285,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Leeds fans boo during match halt for Muslim players to break Ramadan fast",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "67b1dfc98a441d31",
@@ -4615,7 +4307,6 @@
   {
     "id": "c0e65f21be015625",
     "title_original": "BRIT Awards worst dressed: Tallia Storm leaves little to the imagination in a plunging cartoon print catsuit as she, Fleur East and Rosalia lead the red carpet fashion flops and frock horrors",
-    "content_original": "BRIT Awards worst dressed: Tallia Storm leaves little to the imagination in a plunging cartoon print catsuit as she, Fleur East and Rosalia lead the red carpet fashion flops and frock horrors",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15601859/Brits-2026-worst-dressed.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T18:36:17+00:00",
     "source_name": "Daily Mail",
@@ -4623,15 +4314,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "BRIT Awards worst dressed: Tallia Storm and others feature in red carpet fashion flops",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "56988f791b65c9bd",
     "title_original": "Labour minister at centre of journalist smear scandal resigns",
-    "content_original": "Labour minister at centre of journalist smear scandal resigns",
     "url": "https://www.dailymail.co.uk/news/article-15602003/Labour-minister-journalist-smear-scandal-resigns.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T18:36:07+00:00",
     "source_name": "Daily Mail",
@@ -4639,10 +4327,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Iranian Labour Minister Resigns Amid Journalist Smear Scandal",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4a97711c5192cdc9",
@@ -4679,7 +4365,6 @@
   {
     "id": "0e862042cda033d1",
     "title_original": "Labour minister Josh Simons resigns after probe into smear campaign against journalists",
-    "content_original": "Josh Simons said he had resigned as a Cabinet Office minister because he had \"become a distraction from this government's important work'' as fellow Labour MPs put in requests for personal information to find out if they were smeared too",
     "url": "https://www.independent.co.uk/news/uk/politics/josh-simons-resigns-labour-together-journalists-starmer-b2929523.html",
     "published": "2026-02-28T18:32:14+00:00",
     "source_name": "The Independent",
@@ -4687,15 +4372,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "UK Labour minister resigns amid smear campaign probe",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4ffb883f64bdc223",
     "title_original": "Minister Josh Simons resigns after Labour Together claims",
-    "content_original": "Simons faced claims the think tank he used to run commissioned a report which looked into the background of journalists.",
     "url": "https://www.bbc.com/news/articles/cq6q0l9e7plo?at_medium=RSS&at_campaign=rss",
     "published": "2026-02-28T18:31:30+00:00",
     "source_name": "BBC News",
@@ -4703,10 +4385,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Minister Josh Simons resigns after Labour Together claims",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "485bab8573fbf710",
@@ -4775,7 +4455,6 @@
   {
     "id": "99b3b9447135c8a9",
     "title_original": "Anthropic's Claude hits No. 2 on Apple's top free apps list after Pentagon rejection",
-    "content_original": "OpenAI's ChatGPT remains the top free app in the U.S. on Apple's rankings, but Claude has steadily gained traction.",
     "url": "https://www.cnbc.com/2026/02/28/anthropics-claude-apple-apps.html",
     "published": "2026-02-28T18:28:44+00:00",
     "source_name": "CNBC Top News",
@@ -4783,10 +4462,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Anthropic's Claude hits No. 2 on Apple's top free apps list after Pentagon rejection",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "6c7340b131627e0f",
@@ -4855,7 +4532,6 @@
   {
     "id": "9621589686006e12",
     "title_original": "Secrets behind Olivia Dean's rise: As she's tipped as a BRITs stand-out, friends tell of her incredible work ethic, humble background... and why she 'doesn't forget where she is from'",
-    "content_original": "Secrets behind Olivia Dean's rise: As she's tipped as a BRITs stand-out, friends tell of her incredible work ethic, humble background... and why she 'doesn't forget where she is from'",
     "url": "https://www.dailymail.co.uk/tvshowbiz/article-15601457/secret-olivia-dean-rise-brit-awards-humble-work-ethic.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
     "published": "2026-02-28T18:25:53+00:00",
     "source_name": "Daily Mail",
@@ -4863,10 +4539,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Secrets behind Olivia Dean's rise as a BRITs stand-out",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "8acc7b2b378b887e",
@@ -4951,7 +4625,6 @@
   {
     "id": "95268fcda930941b",
     "title_original": "Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’",
-    "content_original": "An exam room at Priority Private Care on the Upper East Side of Manhattan in 2018.",
     "url": "https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html",
     "published": "2026-02-28T18:15:51+00:00",
     "source_name": "NYT Top Stories",
@@ -4959,10 +4632,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "d74d28cec25c6686",
@@ -4983,7 +4654,6 @@
   {
     "id": "a67ceaf03475f6c5",
     "title_original": "Bill Clinton's credibility threatened by decades of scandals amid grilling over Epstein ties",
-    "content_original": "Former President Bill Clinton has vigorously denied many of them, allegations of sexual improprieties have punctuated his career and repeatedly made questions about his character the focus of national attention. His truthfulness is again back in the national spotlight after lawmakers on Friday questioned Clinton about his connections to Jeffrey Epstein — the disgraced financier who died in 2019 while incarcerated on charges of sex trafficking minors. Clinton has not been implicated in any wrongdoing. Friday’s questioning, however , is just the most recent entry in a list of questions and controversies that stretches back almost 30 years. DEMOCRATS SAY CLINTONS' AGREEMENT TO TESTIFY UNDERCUTS SUBPOENA PUSH, WON'T BRING NEW EPSTEIN ANSWERS Juanita Broaddrick – 1998 Allegations against Clinton began in 1998 when Juanita Broaddrick accused Clinton of raping her when he was running for governor of Arkansas in 1978. In the years since, Broaddrick described attempts she believes the Clintons ...",
     "url": "https://www.foxnews.com/politics/bill-clintons-credibility-threatened-decades-scandals-amid-grilling-over-epstein-ties",
     "published": "2026-02-28T17:26:56-05:00",
     "source_name": "FOX News",
@@ -4991,10 +4661,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Bill Clinton's credibility threatened by Epstein ties amid decades of scandals",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "251c0d904e51238f",
@@ -5015,7 +4683,6 @@
   {
     "id": "3acd55dc88123f53",
     "title_original": "College basketball star suspended by team for spitting toward opposing fan",
-    "content_original": "Stony Brook men’s basketball star Erik Pratt was suspended by the school for spitting on a fan during the team’s 82-69 loss to Monmouth Thursday. Pratt was being heckled by fans with 2:30 left in the game with Stony Brook down 79-63. Instead of ignoring the fans, Pratt turned and spit at them and walked away. \"In light of his actions in last night's game at Monmouth, I have made the decision in consultation with the CAA to suspend Erik Pratt for Saturday's game at Hofstra,\" Stony Brook Director of Athletics Shawn Helibron said in a statement. CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM \"I met with Erik earlier, and he acknowledged his mistake while accepting full responsibility for his actions. While emotions were high in the moment, he understands that his behavior was inappropriate and did not meet the standards we expect of our student-athletes, nor those set forth by our department, institution and the CAA. Erik has expressed his commitment to learning from this experience a...",
     "url": "https://www.foxnews.com/sports/college-basketball-star-suspended-team-spitting-toward-opposing-fan",
     "published": "2026-02-28T16:37:52-05:00",
     "source_name": "FOX News",
@@ -5023,15 +4690,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "College basketball star suspended for spitting at fan",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "06c7de6d56711e79",
     "title_original": "Team USA star Brady Tkachuk says he was drug tested right after men’s hockey team won Olympic gold",
-    "content_original": "After Team USA’s thrilling win over Canada in the Olympic gold medal game on Sunday, all Brady Tkachuk wanted to do was celebrate. However, he had to take a drug test first. Tkachuk, 26, wrapped up his media obligations and was on his way to the locker room when he got a tap on the shoulder. \"I get a tap on the shoulder, ‘Hello Brady, you've been selected for a drug test,’\" Tkachuk said on a recent episode of his podcast \"Wingmen with Matthew and Brady Tkachuk.\" CLICK HERE FOR MORE SPORTS COVERAGE ON FOXNEWS.COM Matthew Tkachuk said that players are not required to take the drug test upon being notified, but you are under supervision until you do so. Brady said that two other players opted to do their tests right away but missed a couple of the songs. He did not want to miss any of the celebrations, so he opted to wait until the bus left to take his test, which wasn’t for another hour and a half to two hours. Matthew said that the man administering the test, a man he named \"little John...",
     "url": "https://www.foxnews.com/sports/team-usa-star-brady-tkachuk-says-he-drug-tested-right-after-mens-hockey-team-won-olympic-gold",
     "published": "2026-02-28T16:20:01-05:00",
     "source_name": "FOX News",
@@ -5039,10 +4703,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "US hockey player Brady Tkachuk drug tested after Olympic gold win",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "94b34befcc946090",
@@ -5079,7 +4741,6 @@
   {
     "id": "e9a3e6e94f47affe",
     "title_original": "Cruise ship abruptly changes course to rescue people in distressed boat: 'Knew something' was up",
-    "content_original": "Passengers aboard a cruise ship sailing from Texas to Mexico erupted in cheers after the crew rescued four people from a distressed, makeshift boat in the Gulf — the second such rescue involving a Caribbean cruise ship in just days, according to reports. The Regal Princess was en route from Galveston to Cozumel on Monday, Feb. 23, when crew members responded to the distress suffered by a small boat that had four people aboard. \"Regal Princess responded to a small vessel in distress and safely rescued four individuals at sea,\" the cruise line said in a statement shared with multiple media outlets. MEXICO CRUISE STOPS ARE SUDDENLY SCRAPPED AS SAFETY CONCERNS CONTINUE IN REGION \"All four individuals were brought onboard and were evaluated by the ship’s medical team,\" it continued. \"Their safety and well-being remain our immediate priority.\" Photos shared on social media showed what appeared to be four men aboard a small rusted boat constructed of metal and wood, as People reported. A whit...",
     "url": "https://www.foxnews.com/travel/cruise-ship-abruptly-changes-course-rescue-people-distressed-boat-knew-something-up",
     "published": "2026-02-28T14:20:32-05:00",
     "source_name": "FOX News",
@@ -5087,10 +4748,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Cruise ship rescues four people from distressed boat in the Gulf",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "5125bc227a81d35e",
@@ -5127,7 +4786,6 @@
   {
     "id": "49f806689052709f",
     "title_original": "Heidi Montag reveals vocal cord hemorrhage left her unable to speak after ‘The Masked Singer’ exit",
-    "content_original": "Heidi Montag is opening up about her vocal injury after getting eliminated from \"The Masked Singer.\" During a recent interview with Fox News Digital, the 39-year-old former reality star shared how competing on the Fox competition series affected a vocal injury she sustained before appearing on the show, explaining that it worsened during filming and that she would not have been able to continue even if she hadn’t been voted off. \"I had just had a vocal injury. I ended up with a hemorrhage on my vocal cords and I couldn't talk for like weeks, a week before and weeks after,\" she explained. \"I've been having to have like vocal recovery. I've been to several ENTs. So I couldn't have continued in the competition even if I got voted in. The injury was pretty significant.\" When she first began to feel symptoms of the injury, Montag said she initially \"thought I was sick or something,\" and that she \"couldn't even talk\" because she lost her voice, adding, \"It was pretty severe.\" SPENCER PRATT A...",
     "url": "https://www.foxnews.com/entertainment/heidi-montag-reveals-vocal-cord-hemorrhage-left-her-unable-speak-after-the-masked-singer-exit",
     "published": "2026-02-28T14:00:58-05:00",
     "source_name": "FOX News",
@@ -5135,15 +4793,12 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Heidi Montag reveals vocal cord hemorrhage after 'The Masked Singer' exit",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3cb84b921d721516",
     "title_original": "Nancy Guthrie missing: Forensic scientist encourages new investigative approach since case 'isn't cold yet'",
-    "content_original": "TUCSON, Ariz. — One criminal expert said even though the investigation into Nancy Guthrie \"isn't cold yet,\" the \"best\" forensic scientists should go into her house and \"scrutinize\" everything inside. Forensic scientist Peter Valentin made the comments Friday on Fox News' \"Crime and Justice\" podcast with Donna Rotunno while discussing Nancy Guthrie's disappearance. Investigators continue to search for Nancy Guthrie as she has been missing for more than three weeks. Guthrie was forcibly taken from her Tucson, Arizona, home in the early morning hours of Feb. 1, Pima County Sheriff Chris Nanos previously said. Fox News Digital previously reported that some DNA found in Nancy Guthrie's home came back to individuals with a reason to be there, two federal law enforcement sources said. DNA from a suspicious glove recovered two miles from Nancy Guthrie's home was also tested, but didn't match any of the samples from inside the home or any known criminals in the FBI's CODIS database. Valentin, w...",
     "url": "https://www.foxnews.com/us/nancy-guthrie-disappearance-forensic-scientist-encourages-new-investigative-approach-case-isnt-cold-yet",
     "published": "2026-02-28T14:00:27-05:00",
     "source_name": "FOX News",
@@ -5151,10 +4806,8 @@
     "language": "en",
     "region": "western",
     "skip_translation": true,
-    "title_en": "Forensic scientist encourages new approach in Nancy Guthrie disappearance case",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "de1d1ba2196b6b73",

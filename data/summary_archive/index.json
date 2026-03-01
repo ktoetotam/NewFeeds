@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T15-07-58.775444_plus_00-00.json",
+    "generated_at": "2026-03-01T15:07:58.775444+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 591,
+    "summary_preview": "The Iran-US conflict has reached an unprecedented catastrophic level. Iran's Supreme Leader Ayatollah Ali Khamenei has been assassinated in US-Israeli strikes on Tehran, along with at least 40 senior "
+  },
+  {
     "filename": "2026-03-01T14-50-49.492991_plus_00-00.json",
     "generated_at": "2026-03-01T14:50:49.492991+00:00",
     "threat_label": "MAJOR",

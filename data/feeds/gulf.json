@@ -1,5 +1,39 @@
 [
   {
+    "id": "f153261ea447fb89",
+    "title_original": "Kuwait Reports One Fatality, 32 Injuries Due to Iranian Attacks",
+    "content_original": "Kuwait, March 01 (QNA) - The Kuwaiti Ministry of Health reported today that one fatality and 32 injuries (all foreign nationalities) were recorded at Al Adan Hospital in the wake of the Iranian attacks.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/kuwait-reports-one-fatality-32-injuries-due-to-iranian-attacks",
+    "published": "2026-03-01T17:36:56+00:00",
+    "fetched_at": "2026-03-01T15:11:48.808496+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Kuwait Reports One Fatality, 32 Injuries Due to Iranian Attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian attacks resulted in one fatality and 32 injuries at Al Adan Hospital in Kuwait, affecting foreign nationals. This highlights the regional impact of the ongoing conflict and the vulnerability of neighboring countries to Iranian retaliatory strikes."
+  },
+  {
+    "id": "52223da01394bef3",
+    "title_original": "UAE Defense Ministry: Iranian Attack Causes Three Fatalities, 58 Minor Injuries",
+    "content_original": "Abu Dhabi, March 01 (QNA) - The Emirati Ministry of Defense has announced that the United Arab Emirates (UAE) air force and air defense forces destroyed 20 ballistic missiles, two cruise missiles, and 311 drones, on the morning of the second day of the Iranian attack.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/uae-defense-ministry-iranian-attack-causes-three-fatalities-58-minor-injuries",
+    "published": "2026-03-01T17:36:45+00:00",
+    "fetched_at": "2026-03-01T15:11:48.808716+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Iranian Attack on UAE Causes Three Fatalities and 58 Injuries",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a significant attack on the UAE, resulting in three fatalities and 58 minor injuries. The UAE air force and air defense forces intercepted and destroyed 20 ballistic missiles, two cruise missiles, and 311 drones. This incident highlights the escalating tensions and direct military confrontation between Iran and the UAE amidst the ongoing conflict."
+  },
+  {
     "id": "61df2041edcb3449",
     "title_original": "Syrian FM, Lebanese Prime Minister Touch on Regional Developments",
     "content_original": "Damascus, March 01 (QNA) - Syrian Foreign Minister Asaad Hassan Al Shaibani and Lebanese Prime Minister Nawaf Salam discussed, in a phone conversation on Sunday, the latest regional developments and their repercussions.",
@@ -36,7 +70,6 @@
   {
     "id": "6bd506bf9d8b8124",
     "title_original": "Minister of State for Foreign Affairs Receives Phone Call from Deputy Foreign Minister of Armenia",
-    "content_original": "Doha, March 01 (QNA) - HE Minister of State for Foreign Affairs Sultan bin Saad Al Muraikhi received a phone call on Sunday from HE Deputy Minister of Foreign Affairs of Armenia Vahan Kostanyan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/minister-of-state-for-foreign-affairs-receives-phone-call-from-deputy-foreign-minister-of-armenia",
     "published": "2026-03-01T16:58:32+00:00",
     "fetched_at": "2026-03-01T14:23:24.791108+00:00",
@@ -45,10 +78,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari and Armenian Foreign Ministry Officials Hold Phone Call",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "fb07be66ef30b285",
@@ -87,7 +118,6 @@
   {
     "id": "3969345ddafcbb1c",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Calls from Canadian Foreign Minister, UK Foreign Secretary",
-    "content_original": "Doha, March 01 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received two phone calls today from HE Minister of Foreign Affairs of Canada Anita Anand and HE Foreign Secretary of the United Kingdom Yvette Cooper.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/prime-minister-and-minister-of-foreign-affairs-receives-phone-calls-from-canadian-foreign-minister-uk-foreign-secretary",
     "published": "2026-03-01T16:54:33+00:00",
     "fetched_at": "2026-03-01T14:23:24.791323+00:00",
@@ -96,15 +126,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives calls from Canadian and UK foreign ministers",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "b6c943e48d0bdca0",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Call from Sudan's Prime Minister",
-    "content_original": "Doha, March 01 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received a phone call on Sunday from HE Prime Minister of the sisterly Republic of Sudan Dr. Kamil Al Tayeb Idris.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/prime-minister-and-minister-of-foreign-affairs-receives-phone-call-from-sudans-prime-minister",
     "published": "2026-03-01T16:46:31+00:00",
     "fetched_at": "2026-03-01T14:23:24.791529+00:00",
@@ -113,10 +140,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives phone call from Sudan's PM",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "97e4f49e854b263e",
@@ -172,7 +197,6 @@
   {
     "id": "1e4e21269edc8b23",
     "title_original": "HH the Amir Receives Phone Call from President of Kazakhstan",
-    "content_original": "Doha, March 01 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call on Sunday from HE President of the Republic of Kazakhstan Kassym-Jomart Tokayev .",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/hh-the-amir-receives-phone-call-from-president-of-kazakhstan",
     "published": "2026-03-01T16:17:43+00:00",
     "fetched_at": "2026-03-01T13:34:21.563115+00:00",
@@ -181,10 +205,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Amir Receives Call from Kazakhstan President",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ea296f8894a4f9d2",
@@ -240,7 +262,6 @@
   {
     "id": "bff10cd4812bfd57",
     "title_original": "Crown Prince of Kuwait Receives Phone Call from British Prime Minister",
-    "content_original": "Kuwait, March 01 (QNA) - HH Crown Prince of the State of Kuwait Sheikh Sabah Khaled Al-Hamad Al-Sabah received a phone call today from British Prime Minister Keir Starmer.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/crown-prince-of-kuwait-receives-phone-call-from-british-prime-minister",
     "published": "2026-03-01T15:44:37+00:00",
     "fetched_at": "2026-03-01T13:00:54.261176+00:00",
@@ -249,15 +270,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Kuwaiti Crown Prince Receives Call from British PM",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "fd96e4144a12a831",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Call from Italy’s Deputy Prime Minister and Foreign Minister",
-    "content_original": "Doha, March 01 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received a phone call on Sunday from HE Deputy Prime Minister and Minister of Foreign Affairs and International Cooperation of Italy Antonio Tajani.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/prime-minister-and-minister-of-foreign-affairs-receives-phone-call-from-italys-deputy-prime-minister-and-foreign-minister",
     "published": "2026-03-01T15:43:43+00:00",
     "fetched_at": "2026-03-01T13:00:53.277921+00:00",
@@ -266,15 +284,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives phone call from Italian Deputy PM and Foreign Minister",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "74bcf57f1fc02008",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Calls from Foreign Ministers of Malta, Cyprus, Croatia, India, and Uzbekistan",
-    "content_original": "Doha, March 01 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received phone calls on Sunday from HE Deputy Prime Minister and Minister of Foreign Affairs and Tourism of the Republic of Malta Ian Borg; HE Minister of Foreign Affairs of the Republic of Cyprus Dr. Constantinos Kombos; HE Minister of Foreign and European Affairs of the Republic of Croatia Gordan Grlić Radman; HE Minister of External Affairs of the Republic of India Dr. Subrahmanyam Jaishankar; and HE Minister of Foreign Affairs of the Republic of Uzbekistan Bakhtiyor Saidov.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/prime-minister-and-minister-of-foreign-affairs-receives-phone-calls-from-foreign-ministers-of-malta-cyprus-croatia-india-and-uzbekistan",
     "published": "2026-03-01T15:38:38+00:00",
     "fetched_at": "2026-03-01T13:00:53.278173+00:00",
@@ -283,15 +298,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives calls from foreign ministers of Malta, Cyprus, Croatia, India, and Uzbekistan",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9b5c35e95578ed2c",
     "title_original": "HH the Amir Receives Phone Call from Sudan's Transitional Sovereignty Council Chairman",
-    "content_original": "Doha, March 01 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from HE Chairman of the Transitional Sovereignty Council of the sisterly Republic of Sudan, Lt. Gen. Abdel Fattah Al Burhan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/hh-the-amir-receives-phone-call-from-sudans-transitional-sovereignty-council-chairman",
     "published": "2026-03-01T15:16:52+00:00",
     "fetched_at": "2026-03-01T13:00:53.278373+00:00",
@@ -300,15 +312,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Amir of Qatar Receives Call from Sudan's Transitional Council Chairman",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3fed974bfd49ef81",
     "title_original": "HH the Amir Receives Phone Call from Libyan Prime Minister",
-    "content_original": "Doha, March 01 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from HE Prime Minister of Libya's Government of National Unity Abdul Hamid Dbeibah.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/hh-the-amir-receives-phone-call-from-libyan-prime-minister",
     "published": "2026-03-01T14:55:09+00:00",
     "fetched_at": "2026-03-01T12:18:08.961006+00:00",
@@ -317,10 +326,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Amir of Qatar Receives Call from Libyan Prime Minister",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "23fd743993691228",
@@ -495,7 +502,6 @@
   {
     "id": "368bce611503d3fa",
     "title_original": "رئيس الوزراء البريطاني يؤكد تضامن بلاده ووقوفها إلى جانب البحرين",
-    "content_original": "المنامة في 01 مارس /قنا/ تلقى الملك حمد بن عيسى آل خليفة ملك مملكة البحرين، اليوم، اتصالا هاتفيا من كير ستارمر رئيس الوزراء البريطاني.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/رييس-الوزراء-البريطاني-يوكد-تضامن-بلاده-ووقوفها-الى-جانب-البحرين",
     "published": "2026-03-01T13:51:25.929230+00:00",
     "fetched_at": "2026-03-01T13:51:25.929233+00:00",
@@ -504,9 +510,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "UK Prime Minister reaffirms solidarity with Bahrain",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -631,7 +635,6 @@
   {
     "id": "60d22707b767e5e3",
     "title_original": "LIVE: Arsenal vs Chelsea – Premier League",
-    "content_original": "Follow the build-up, analysis and live text commentary of the London derby as league leaders Arsenal face Chelsea.",
     "url": "https://www.aljazeera.com/sports/liveblog/2026/3/1/live-arsenal-vs-chelsea-premier-league?traffic_source=rss",
     "published": "2026-03-01T13:40:49+00:00",
     "fetched_at": "2026-03-01T13:51:27.901013+00:00",
@@ -640,10 +643,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Arsenal vs Chelsea Premier League Match",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "dbed6c491e0b7e6c",
@@ -682,7 +683,6 @@
   {
     "id": "78826eee167e9ddd",
     "title_original": "T20 World Cup: South Africa beat Zimbabwe; set up New Zealand semifinal",
-    "content_original": "South Africa win by five wickets despite Sikandar Raza&#039;s all-round heroics; will play the first semi in Kolkata.",
     "url": "https://www.aljazeera.com/sports/2026/3/1/t20-world-cup-south-africa-beat-zimbabwe-set-up-new-zealand-semifinal?traffic_source=rss",
     "published": "2026-03-01T13:34:28+00:00",
     "fetched_at": "2026-03-01T13:51:27.901213+00:00",
@@ -691,10 +691,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "T20 World Cup: South Africa beat Zimbabwe; set up New Zealand semifinal",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a5c09ebcdd2411aa",
@@ -750,7 +748,6 @@
   {
     "id": "1d6018b4faab19c4",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من رئيس جمهورية كازاخستان",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من فخامة الرئيس قاسم جومارت توكاييف رئيس جمهورية كازاخستان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-رييس-جمهورية-كازاخستان",
     "published": "2026-03-01T13:34:19.601348+00:00",
     "fetched_at": "2026-03-01T13:34:19.601350+00:00",
@@ -759,15 +756,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Kazakhstan President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "6b7021bbffad8943",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالا هاتفيا من رئيس الوزراء السوداني",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالا هاتفيا، من دولة الدكتور كامل الطيب إدريس رئيس مجلس وزراء جمهورية السودان الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالا-هاتفيا-من-رييس-الوزراء-السوداني",
     "published": "2026-03-01T13:34:19.601275+00:00",
     "fetched_at": "2026-03-01T13:34:19.601277+00:00",
@@ -776,15 +770,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM receives phone call from Sudanese PM",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "6faeed2bafc94993",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالين هاتفيين من وزيرتي خارجية كندا والمملكة المتحدة",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالين هاتفيين، من سعادة السيدة أنيتا أناند وزيرة خارجية كندا، وسعادة السيدة إيفيت كوبر وزيرة الخارجية بالمملكة المتحدة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالين-هاتفيين-من-وزيرتي-خارجية-كندا-والمملكة-المتحدة",
     "published": "2026-03-01T13:34:19.601196+00:00",
     "fetched_at": "2026-03-01T13:34:19.601199+00:00",
@@ -793,15 +784,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives calls from Canadian and UK Foreign Ministers",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "8461b66310ffaf91",
     "title_original": "وزير الدولة للشؤون الخارجية يتلقى اتصالا هاتفيا من نائب وزير خارجية أرمينيا",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى سعادة السيد سلطان بن سعد المريخي وزير الدولة للشؤون الخارجية، اليوم اتصالا هاتفيا، من سعادة السيد فاهان كوستانيان نائب وزير الخارجية بجمهورية أرمينيا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزير-الدولة-للشوون-الخارجية-يتلقى-اتصالا-هاتفيا-من-نايب-وزير-خارجية-ارمينيا",
     "published": "2026-03-01T13:34:19.601101+00:00",
     "fetched_at": "2026-03-01T13:34:19.601109+00:00",
@@ -810,9 +798,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari State Minister for Foreign Affairs receives phone call from Armenian Deputy Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -852,7 +838,6 @@
   {
     "id": "9724361d1429e748",
     "title_original": "HH the Amir Receives Phone Call from Turkish President",
-    "content_original": "Doha, March 01 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from HE President of the sisterly Republic of Turkiye, Recep Tayyip Erdogan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/hh-the-amir-receives-phone-call-from-turkish-president",
     "published": "2026-03-01T13:28:45+00:00",
     "fetched_at": "2026-03-01T10:50:56.216776+00:00",
@@ -861,10 +846,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Amir Receives Phone Call from Turkish President",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ff482e2a6ea43190",
@@ -903,7 +886,6 @@
   {
     "id": "b7caf813fc7f7bb3",
     "title_original": "ولي العهد الكويتي يتلقى اتصالا هاتفيا من رئيس الوزراء البريطاني",
-    "content_original": "الكويت في 01 مارس /قنا/ تلقى سمو الشيخ صباح خالد الحمد الصباح ولي العهد الكويتي اتصالا هاتفيا، اليوم، من كير ستارمر رئيس الوزراء البريطاني.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/ولي-العهد-الكويتي-يتلقى-اتصالا-هاتفيا-من-رييس-الوزراء-البريطاني",
     "published": "2026-03-01T13:00:52.063334+00:00",
     "fetched_at": "2026-03-01T13:00:52.063337+00:00",
@@ -912,9 +894,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Kuwaiti Crown Prince Receives Phone Call from British Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -954,7 +934,6 @@
   {
     "id": "7ca2fc7fe35f5b1c",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالا هاتفيا من نائب رئيس الوزراء وزير الخارجية والتعاون الدولي الإيطالي",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالا هاتفيا، من سعادة السيد أنطونيو تاياني نائب رئيس الوزراء وزير الخارجية والتعاون الدولي بالجمهورية الإيطالية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالا-هاتفيا-من-نايب-رييس-الوزراء-وزير-الخارجية-والتعاون-الدولي-الايطالي",
     "published": "2026-03-01T13:00:50.482332+00:00",
     "fetched_at": "2026-03-01T13:00:50.482340+00:00",
@@ -963,9 +942,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives phone call from Italian Deputy PM and Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -1073,7 +1050,6 @@
   {
     "id": "e74a7da4c3359cd4",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من رئيس مجلس السيادة السوداني",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من أخيه فخامة الفريق أول ركن عبدالفتاح البرهان رئيس مجلس السيادة الانتقالي بجمهورية السودان الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-رييس-مجلس-السيادة-السوداني",
     "published": "2026-03-01T12:18:06.899055+00:00",
     "fetched_at": "2026-03-01T12:18:06.899059+00:00",
@@ -1082,15 +1058,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Sudanese Sovereignty Council Head",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "0d1129b20f31233c",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالات هاتفية من وزراء خارجية مالطا وقبرص وكرواتيا والهند وأوزبكستان",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالات هاتفية، من سعادة السيد إيان بورج نائب رئيس الوزراء وزير الخارجية والسياحة في جمهورية مالطا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالات-هاتفية-من-وزراء-خارجية-مالطا-وقبرص-وكرواتيا-والهند-واوزبكستان",
     "published": "2026-03-01T12:18:06.898948+00:00",
     "fetched_at": "2026-03-01T12:18:06.898956+00:00",
@@ -1099,9 +1072,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives calls from Malta, Cyprus, Croatia, India, and Uzbekistan",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -1294,7 +1265,6 @@
   {
     "id": "1bf18039e1a398be",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من رئيس الحكومة الليبية",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من دولة السيد عبدالحميد الدبيبة رئيس حكومة الوحدة الوطنية بدولة ليبيا الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-رييس-الحكومة-الليبية",
     "published": "2026-03-01T11:35:42.544639+00:00",
     "fetched_at": "2026-03-01T11:35:42.544647+00:00",
@@ -1303,9 +1273,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Libyan Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -1447,7 +1415,6 @@
   {
     "id": "2c95aded5d0d61ea",
     "title_original": "Flights of Fancy at Bottega Veneta with Shimmering, Tactile Collection",
-    "content_original": "Flights of Fancy at Bottega Veneta with Shimmering, Tactile Collection",
     "url": "https://english.aawsat.com/node/5246130",
     "published": "2026-03-01T10:44:40+00:00",
     "fetched_at": "2026-03-01T10:50:58.580264+00:00",
@@ -1456,10 +1423,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Flights of Fancy at Bottega Veneta with Shimmering, Tactile Collection",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "8218cc28ec92a52d",
@@ -1498,7 +1463,6 @@
   {
     "id": "bb3e4251c4e4fb56",
     "title_original": "LIVE: India vs West Indies – T20 World Cup Super Eights",
-    "content_original": "Follow our live updates, with toss and team news coverage, ahead of our live text commentary stream of the Group 1 game.",
     "url": "https://www.aljazeera.com/sports/liveblog/2026/3/1/live-india-vs-west-india-t20-world-cup-super-eights?traffic_source=rss",
     "published": "2026-03-01T10:28:54+00:00",
     "fetched_at": "2026-03-01T10:50:57.264720+00:00",
@@ -1507,10 +1471,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "India vs West Indies T20 World Cup Super Eights Match",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "3ce08d34a9a57368",
@@ -1566,7 +1528,6 @@
   {
     "id": "a74ad456bcb208d7",
     "title_original": "ولي العهد السعودي وسلطان عمان يبحثان هاتفيا التطورات في المنطقة",
-    "content_original": "الرياض في 01 مارس /قنا/ بحث سمو الأمير محمد بن سلمان بن عبدالعزيز آل سعود ولي العهد رئيس الوزراء السعودي، والسلطان هيثم بن طارق سلطان عمان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/ولي-العهد-السعودي-وسلطان-عمان-يبحثان-هاتفيا-التطورات-في-المنطقة",
     "published": "2026-03-01T10:11:12.000170+00:00",
     "fetched_at": "2026-03-01T10:11:12.000174+00:00",
@@ -1575,9 +1536,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Saudi Crown Prince and Omani Sultan Discuss Regional Developments by Phone",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -1600,7 +1559,6 @@
   {
     "id": "78f9f7b36bd50345",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من الرئيس التركي",
-    "content_original": "الدوحة في 01 مارس /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا، من أخيه فخامة الرئيس رجب طيب أردوغان رئيس الجمهورية التركية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-الرييس-التركي",
     "published": "2026-03-01T10:11:10.945251+00:00",
     "fetched_at": "2026-03-01T10:11:10.945259+00:00",
@@ -1609,9 +1567,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Turkish President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -1651,7 +1607,6 @@
   {
     "id": "6a6597aeaf50f97a",
     "title_original": "تونس تؤكد رفضها المطلق لأي استهداف لأراضي الدول العربية",
-    "content_original": "تونس في 01 مارس /قنا/ أكدت تونس رفضها المطلق لأي استهداف لأراضي دول عربية شقيقة، معربة عن تضامنها الكامل مع كل من دولة قطر",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/تونس-توكد-رفضها-المطلق-لاي-استهداف-لاراضي-الدول-العربية",
     "published": "2026-03-01T09:36:15.450830+00:00",
     "fetched_at": "2026-03-01T09:36:15.450832+00:00",
@@ -1660,9 +1615,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Tunisia Rejects Attacks on Arab States' Territories",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -1685,7 +1638,6 @@
   {
     "id": "b01dc4cd3ca9a15d",
     "title_original": "وزير الخارجية المصري يبحث هاتفيا مع نظيريه بالعراق ورومانيا التطورات في المنطقة",
-    "content_original": "القاهرة في 01 مارس /قنا/ بحث بدر عبد العاطي وزير الخارجية المصري، اليوم، في اتصالين هاتفيين، مع كل من نظيريه العراقي فؤاد حسين",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزير-الخارجية-المصري-يبحث-هاتفيا-مع-نظيريه-بالعراق-ورومانيا-التطورات-في-المنطقة",
     "published": "2026-03-01T09:36:15.450661+00:00",
     "fetched_at": "2026-03-01T09:36:15.450671+00:00",
@@ -1694,9 +1646,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Egyptian Foreign Minister discusses regional developments with Iraqi and Romanian counterparts",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -1770,7 +1720,6 @@
   {
     "id": "271b6dbec8ebf26a",
     "title_original": "Bezzecchi Wins MotoGP Opener as Marquez Retires",
-    "content_original": "Bezzecchi Wins MotoGP Opener as Marquez Retires",
     "url": "https://english.aawsat.com/node/5246099",
     "published": "2026-03-01T09:07:44+00:00",
     "fetched_at": "2026-03-01T09:36:18.928413+00:00",
@@ -1779,10 +1728,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "MotoGP Opener: Bezzecchi Wins, Marquez Retires",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "12f54cae0ef6d54f",
@@ -1838,7 +1785,6 @@
   {
     "id": "b99357b896ff2234",
     "title_original": "Blast at India Explosives Factory Kills 17",
-    "content_original": "Blast at India Explosives Factory Kills 17",
     "url": "https://english.aawsat.com/node/5246096",
     "published": "2026-03-01T08:55:16+00:00",
     "fetched_at": "2026-03-01T09:02:12.118340+00:00",
@@ -1847,15 +1793,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Blast at India Explosives Factory Kills 17",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "94013d050d978b6b",
     "title_original": "Iranian Australians Celebrate News of Khamenei’s Death",
-    "content_original": "Iranian Australians Celebrate News of Khamenei’s Death",
     "url": "https://english.aawsat.com/node/5246094",
     "published": "2026-03-01T08:51:07+00:00",
     "fetched_at": "2026-03-01T09:02:12.118551+00:00",
@@ -1864,15 +1807,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Iranian Australians Celebrate News of Khamenei’s Death",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a1c9897bd96d1832",
     "title_original": "A Look at Iran’s Key Political and Religious Figures",
-    "content_original": "A Look at Iran’s Key Political and Religious Figures",
     "url": "https://english.aawsat.com/node/5246092",
     "published": "2026-03-01T08:39:54+00:00",
     "fetched_at": "2026-03-01T09:02:12.118751+00:00",
@@ -1881,10 +1821,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "A Look at Iran’s Key Political and Religious Figures",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "223d2e5f5574331a",
@@ -1940,7 +1878,6 @@
   {
     "id": "eb35435475230fca",
     "title_original": "Saudi Defense Minister Holds Phone Calls with Qatar Deputy Prime Minister, Kuwaiti Counterpart",
-    "content_original": "Saudi Defense Minister Holds Phone Calls with Qatar Deputy Prime Minister, Kuwaiti Counterpart",
     "url": "https://english.aawsat.com/node/5246082",
     "published": "2026-03-01T08:02:01+00:00",
     "fetched_at": "2026-03-01T08:22:26.890001+00:00",
@@ -1949,10 +1886,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Saudi Defense Minister Holds Phone Calls with Qatar Deputy Prime Minister, Kuwaiti Counterpart",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "806c56e81e2540cf",
@@ -1991,7 +1926,6 @@
   {
     "id": "88e12efc882b5e67",
     "title_original": "Saudi Crown Prince Receives Phone Call from Sultan of Oman, Syrian President",
-    "content_original": "Saudi Crown Prince Receives Phone Call from Sultan of Oman, Syrian President",
     "url": "https://english.aawsat.com/node/5246077",
     "published": "2026-03-01T07:44:56+00:00",
     "fetched_at": "2026-03-01T07:47:53.379681+00:00",
@@ -2000,10 +1934,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Saudi Crown Prince Receives Phone Call from Sultan of Oman, Syrian President",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a3f051fb0c771605",
@@ -2127,7 +2059,6 @@
   {
     "id": "014399f6317a67c3",
     "title_original": "More Than 10.7 Million Worshippers Visit Prophet’s Mosque in First 10 Days of Ramadan",
-    "content_original": "More Than 10.7 Million Worshippers Visit Prophet’s Mosque in First 10 Days of Ramadan",
     "url": "https://english.aawsat.com/node/5246071",
     "published": "2026-03-01T07:23:16+00:00",
     "fetched_at": "2026-03-01T07:29:18.344913+00:00",
@@ -2136,15 +2067,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "10.7 Million Worshippers Visit Prophet’s Mosque in Ramadan’s First 10 Days",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a26fed4c29d87653",
     "title_original": "Iran’s Supreme Leader Khamenei in Dates",
-    "content_original": "Iran’s Supreme Leader Khamenei in Dates",
     "url": "https://english.aawsat.com/node/5246069",
     "published": "2026-03-01T07:16:19+00:00",
     "fetched_at": "2026-03-01T07:29:18.345125+00:00",
@@ -2153,10 +2081,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Iran’s Supreme Leader Khamenei in Dates",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "00576e81c279be31",
@@ -2212,7 +2138,6 @@
   {
     "id": "3478b25bfa196a4e",
     "title_original": "Will Oscars Be 17th Time Lucky for Songwriter Diane Warren?",
-    "content_original": "Will Oscars Be 17th Time Lucky for Songwriter Diane Warren?",
     "url": "https://english.aawsat.com/node/5246064",
     "published": "2026-03-01T07:03:01+00:00",
     "fetched_at": "2026-03-01T07:11:33.111362+00:00",
@@ -2221,15 +2146,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Will Oscars Be 17th Time Lucky for Songwriter Diane Warren?",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "fce32bde7897ab82",
     "title_original": "Michael B. Jordan Wins Entertainer of the Year at NAACP Image Awards",
-    "content_original": "Michael B. Jordan Wins Entertainer of the Year at NAACP Image Awards",
     "url": "https://english.aawsat.com/node/5246063",
     "published": "2026-03-01T06:59:36+00:00",
     "fetched_at": "2026-03-01T07:11:33.111536+00:00",
@@ -2238,15 +2160,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Michael B. Jordan Wins Entertainer of the Year at NAACP Image Awards",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "bf96750c7378eaf0",
     "title_original": "Hollywood’s Finest Gather for Guild’s Actor Awards",
-    "content_original": "Hollywood’s Finest Gather for Guild’s Actor Awards",
     "url": "https://english.aawsat.com/node/5246062",
     "published": "2026-03-01T06:55:43+00:00",
     "fetched_at": "2026-03-01T07:11:33.111701+00:00",
@@ -2255,15 +2174,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Hollywood’s Finest Gather for Guild’s Actor Awards",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "5cfc0bdab82931ad",
     "title_original": "Russian Strikes Kills One in East Ukraine",
-    "content_original": "Russian Strikes Kills One in East Ukraine",
     "url": "https://english.aawsat.com/node/5246061",
     "published": "2026-03-01T06:54:21+00:00",
     "fetched_at": "2026-03-01T07:11:33.111862+00:00",
@@ -2272,10 +2188,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Russian Strikes Kill One in East Ukraine",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1e1ad3d2ce84a7d9",
@@ -2297,7 +2211,6 @@
   {
     "id": "3768b2cb85952351",
     "title_original": "وزير الخارجية السعودي يبحث هاتفيا مع نظيره الإيطالي تطورات الأوضاع في المنطقة",
-    "content_original": "الرياض في 28 فبراير /قنا/ بحث سمو الأمير فيصل بن فرحان بن عبدالله وزير الخارجية السعودي، خلال اتصال هاتفي، مع نظير الإيطالي أنتونيو",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزير-الخارجية-السعودي-يبحث-هاتفيا-مع-نظيره-الايطالي-تطورات-الاوضاع-في-المنطقة",
     "published": "2026-03-01T06:51:09.927681+00:00",
     "fetched_at": "2026-03-01T06:51:09.927683+00:00",
@@ -2306,9 +2219,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Saudi Arabian Foreign Minister discusses regional developments with Italian counterpart",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -2365,7 +2276,6 @@
   {
     "id": "d1bf923eb9272eb9",
     "title_original": "Afghanistan Fires at Pakistani Jets Over Kabul as Conflict Intensifies",
-    "content_original": "Afghanistan Fires at Pakistani Jets Over Kabul as Conflict Intensifies",
     "url": "https://english.aawsat.com/node/5246056",
     "published": "2026-03-01T06:40:28+00:00",
     "fetched_at": "2026-03-01T06:51:13.974454+00:00",
@@ -2374,10 +2284,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Afghanistan Fires at Pakistani Jets Over Kabul as Conflict Intensifies",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "141ebf9e860c4c68",
@@ -2399,7 +2307,6 @@
   {
     "id": "9e1bd994f641c6c4",
     "title_original": "وزير الخارجية السعودي ونظيره الهندي يبحثان هاتفيا الأوضاع الإقليمية الراهنة",
-    "content_original": "الرياض في 01 مارس /قنا/ بحث الأمير فيصل بن فرحان بن عبدالله وزير الخارجية السعودي، في اتصال هاتفي، مع نظيره الهندي سوبرامانيام",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزير-الخارجية-السعودي-ونظيره-الهندي-يبحثان-هاتفيا-الاوضاع-الاقليمية-الراهنة",
     "published": "2026-03-01T06:26:43.003995+00:00",
     "fetched_at": "2026-03-01T06:26:43.003998+00:00",
@@ -2408,9 +2315,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Saudi Arabian and Indian Foreign Ministers Discuss Current Regional Situation",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -2721,7 +2626,6 @@
   {
     "id": "a89cff724f8fdf20",
     "title_original": "Minister of State at the Ministry of Foreign Affairs Receives Phone Calls from Pakistan, Syria, Cyprus Foreign Ministers",
-    "content_original": "Doha, March 1 (QNA) - HE Minister of State at the Ministry of Foreign Affairs Dr. Mohammed bin Abdulaziz bin Saleh Al Khulaifi received a telephone call today from HE Deputy Prime Minister and Minister of Foreign Affairs of the Islamic Republic of Pakistan Mohammad Ishaq Dar, Minister of Foreign Affairs and Expatriates of the Syrian Arab Republic Asaad Al Shibani, and HE Minister of Foreign Affairs of the Republic of Cyprus Dr. Constantinos Kombos.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/minister-of-state-at-the-ministry-of-foreign-affairs-receives-phone-calls-from-pakistan-syria-cyprus-foreign-ministers",
     "published": "2026-03-01T01:12:28+00:00",
     "source_name": "QNA Qatar (English)",
@@ -2729,15 +2633,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Foreign Ministry Official Receives Calls from Pakistan, Syria, Cyprus",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "34b634bb2295ae76",
     "title_original": "Minister of State for Foreign Affairs Receives Call from GCC Secretary-General",
-    "content_original": "Doha, March 01 (QNA) - HE Minister of State for Foreign Affairs Sultan bin Saad Al Muraikhi received a telephone call today from HE GCC Secretary-General Jasem Mohamed Albudawi.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/minister-of-state-for-foreign-affairs-receives-call-from-gcc-secretary-general",
     "published": "2026-03-01T00:56:24+00:00",
     "source_name": "QNA Qatar (English)",
@@ -2745,15 +2646,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Minister of State for Foreign Affairs Receives Call from GCC Secretary-General",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "9aa3887738614a5b",
     "title_original": "Minister of State for Foreign Affairs Receives Phone Call from Hungarian Minister of Foreign Affairs and Trade",
-    "content_original": "Doha, March 01 (QNA) - HE Minister of State for Foreign Affairs Sultan bin Saad Al Muraikhi received a telephone call today from HE Minister of Foreign Affairs and Trade of Hungary Peter Szijjarto.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/minister-of-state-for-foreign-affairs-receives-phone-call-from-hungarian-minister-of-foreign-affairs-and-trade",
     "published": "2026-03-01T00:44:20+00:00",
     "source_name": "QNA Qatar (English)",
@@ -2761,10 +2659,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari and Hungarian Foreign Ministers Hold Phone Call",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "a0d4d2d7b76efc19",
@@ -2786,7 +2682,6 @@
   {
     "id": "a9b1093d5be89656",
     "title_original": "Saudi Crown Prince, Pakistani Premier Talk about Regional Updates During Call",
-    "content_original": "Jeddah, February 28 (QNA) - HH Crown Prince and Prime Minister of the Kingdom of Saudi Arabia Prince Mohammed bin Salman bin Abdulaziz Al-Saud received a phone call on Saturday from Prime Minister of Pakistan Muhammad Shehbaz Sharif.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/saudi-crown-prince-pakistani-premier-talk-about-regional-updates-during-call",
     "published": "2026-03-01T00:32:01+00:00",
     "source_name": "QNA General (English)",
@@ -2794,15 +2689,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Saudi Crown Prince and Pakistani Premier Discuss Regional Updates in Phone Call",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1fcf834808069f4c",
     "title_original": "HH the Amir Receives Phone Call from Syrian President",
-    "content_original": "Doha, March 01 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from his brother HE President of the sisterly Syrian Arab Republic Ahmed Al Sharaa.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/hh-the-amir-receives-phone-call-from-syrian-president",
     "published": "2026-03-01T00:31:31+00:00",
     "source_name": "QNA Qatar (English)",
@@ -2810,15 +2702,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "HH the Amir Receives Phone Call from Syrian President",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "166635a2b7628534",
     "title_original": "HH the Amir Receives Phone Call from US President",
-    "content_original": "Doha, March 01 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from HE President of the friendly United States of America Donald Trump.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/hh-the-amir-receives-phone-call-from-us-president",
     "published": "2026-03-01T00:16:00+00:00",
     "source_name": "QNA Qatar (English)",
@@ -2826,10 +2715,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Amir Receives Phone Call from US President",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "0b25807204a8fc0d",
@@ -2850,7 +2737,6 @@
   {
     "id": "2e18b971e10eccd8",
     "title_original": "HH the Amir Receives Phone Call from King of Morocco",
-    "content_original": "Doha, February 28 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from his brother, HM King Mohammed VI of the sisterly Kingdom of Morocco.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/hh-the-amir-receives-phone-call-from-king-of-morocco",
     "published": "2026-02-28T23:55:27+00:00",
     "source_name": "QNA Qatar (English)",
@@ -2858,10 +2744,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Amir of Qatar Receives Phone Call from Moroccan King",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "20470c3bab19186c",
@@ -3122,7 +3006,6 @@
   {
     "id": "d9420807deede0e4",
     "title_original": "العاهل الأردني يبحث هاتفيا مع الرئيس الفرنسي التطورات في المنطقة",
-    "content_original": "عمان في 28 فبراير /قنا/ بحث العاهل الأردني الملك عبدﷲ الثاني، اليوم، في اتصال هاتفي مع الرئيس الفرنسي إيمانويل ماكرون آخر التطورات في المنطقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/العاهل-الاردني-يبحث-هاتفيا-مع-الرييس-الفرنسي-التطورات-في-المنطقة",
     "published": "2026-02-28T23:49:42.446139+00:00",
     "source_name": "QNA General (Arabic)",
@@ -3130,9 +3013,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Jordanian King and French President Discuss Regional Developments",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -3170,7 +3051,6 @@
   {
     "id": "ea75a808563aeb08",
     "title_original": "ولي العهد السعودي يبحث مع رئيس وزراء باكستان تطورات الأوضاع في المنطقة",
-    "content_original": "جدة في 28 فبراير /قنا/ تلقى سمو الأمير محمد بن سلمان بن عبدالعزيز آل سعود ولي العهد رئيس مجلس الوزراء السعودي، اتصالًا هاتفيًا اليوم، من محمد شهباز شريف رئيس وزراء باكستان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/ولي-العهد-السعودي-يبحث-مع-رييس-وزراء-باكستان-تطورات-الاوضاع-في-المنطقة",
     "published": "2026-02-28T23:49:42.445892+00:00",
     "source_name": "QNA General (Arabic)",
@@ -3178,15 +3058,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Saudi Crown Prince discusses regional developments with Pakistani Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "08aeac0901c8f200",
     "title_original": "العاهل الأردني يبحث هاتفيا مع رئيس وزراء العراق التطورات في المنطقة",
-    "content_original": "عمان في 28 فبراير /قنا/ بحث العاهل الأردني الملك عبدالله الثاني، اليوم، مع محمد شياع السوداني رئيس الوزراء العراقي، آخر التطورات في منطقة الشرق الأوسط.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/العاهل-الاردني-يبحث-هاتفيا-مع-رييس-وزراء-العراق-التطورات-في-المنطقة",
     "published": "2026-02-28T23:49:42.445803+00:00",
     "source_name": "QNA General (Arabic)",
@@ -3194,15 +3071,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Jordanian King and Iraqi Prime Minister Discuss Regional Developments",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "113334a754fbb79a",
     "title_original": "مصر تؤكد على ضرورة تغليب الحلول السياسية والدبلوماسية",
-    "content_original": "القاهرة في 28 فبراير /قنا/ بحث بدر عبدالعاطي وزير الخارجية المصري، في اتصالات هاتفية اليوم، مع عدد من نظرائه العرب والأوروبيين، تطورات الأوضاع في المنطقة، إلى جانب التشاور بشأن سبل دعم جهود خفض التصعيد واحتواء التوتر.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/مصر-توكد-على-ضرورة-تغليب-الحلول-السياسية-والدبلوماسية",
     "published": "2026-02-28T23:49:42.445711+00:00",
     "source_name": "QNA General (Arabic)",
@@ -3210,9 +3084,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Egypt emphasizes the need for political and diplomatic solutions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -3266,7 +3138,6 @@
   {
     "id": "b630e7bbf0c87963",
     "title_original": "الرئيس المصري والعاهل الأردني يبحثان هاتفيا التطورات في المنطقة",
-    "content_original": "القاهرة في 28 فبراير /قنا/ بحث الرئيس المصري عبدالفتاح السيسي مع العاهل الأردني الملك عبدالله الثاني، خلال اتصال هاتفي، اليوم، المستجدات الخطيرة في المنطقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/الرييس-المصري-والعاهل-الاردني-يبحثان-هاتفيا-التطورات-في-المنطقة",
     "published": "2026-02-28T23:49:42.445377+00:00",
     "source_name": "QNA General (Arabic)",
@@ -3274,9 +3145,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Egyptian and Jordanian Leaders Discuss Regional Developments",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -3506,7 +3375,6 @@
   {
     "id": "e8a5f67fcdd03f31",
     "title_original": "ولي العهد السعودي يبحث مع رئيس الوزراء اللبناني التطورات في المنطقة",
-    "content_original": "جدة في 28 فبراير /قنا/ تلقى سمو الأمير محمد بن سلمان بن عبدالعزيز آل سعود ولي العهد رئيس مجلس الوزراء السعودي، اتصالا هاتفيا اليوم، من نواف سلام رئيس الوزراء اللبناني.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/ولي-العهد-السعودي-يبحث-مع-رييس-الوزراء-اللبناني-التطورات-في-المنطقة",
     "published": "2026-02-28T23:49:42.444119+00:00",
     "source_name": "QNA General (Arabic)",
@@ -3514,9 +3382,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Saudi Crown Prince discusses regional developments with Lebanese Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -3618,7 +3484,6 @@
   {
     "id": "819685bc4f68ce44",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من ولي العهد السعودي",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من أخيه صاحب السمو الملكي الأمير محمد بن سلمان بن عبدالعزيز آل سعود ولي العهد رئيس مجلس الوزراء بالمملكة العربية السعودية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-ولي-العهد-السعودي",
     "published": "2026-02-28T23:49:41.409460+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3626,15 +3491,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Saudi Crown Prince",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "782dc3c57de7ad27",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من الرئيس الفرنسي",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من فخامة الرئيس إيمانويل ماكرون رئيس الجمهورية الفرنسية الصديقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-الرييس-الفرنسي",
     "published": "2026-02-28T23:49:41.409377+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3642,15 +3504,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from French President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "71b0d1b25358b060",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من الرئيس الإماراتي",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من أخيه صاحب السمو الشيخ محمد بن زايد آل نهيان رئيس دولة الإمارات العربية المتحدة الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-الرييس-الاماراتي",
     "published": "2026-02-28T23:49:41.409298+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3658,15 +3517,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from UAE President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "d461375143559ff7",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من رئيس وزراء اليونان",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من دولة السيد كيرياكوس ميتسوتاكيس رئيس وزراء جمهورية اليونان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-رييس-وزراء-اليونان",
     "published": "2026-02-28T23:49:41.409216+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3674,15 +3530,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir Receives Phone Call from Greek Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "6ede30befe058a99",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من رئيس الوزراء العراقي",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من دولة السيد محمد شياع السوداني رئيس وزراء جمهورية العراق الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-رييس-الوزراء-العراقي",
     "published": "2026-02-28T23:49:41.409136+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3690,15 +3543,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Iraqi Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "b0c000e857ddda62",
     "title_original": "وزارة التربية والتعليم تعلن تحويل الدراسة \"عن بعد\" لكافة المراحل التعليمية والجامعات اعتبارا من غد الأحد",
-    "content_original": "​الدوحة في 28 فبراير/قنا/ ​أعلنت وزارة التربية والتعليم والتعليم العالي عن تحويل نظام الدراسة إلى نظام \"التعلم عن بُعد\" في كافة رياض الأطفال والمدارس الحكومية والخاصة والمراكز التعليمية والجامعات في الدولة، وذلك اعتباراً من يوم غدٍ الأحد الموافق 1 مارس 2026م، كإجراء احترازي وتنظيمي وحتى إشعار آخر.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/وزارة-التربية-والتعليم-تعلن-تحويل-الدراسة-عن-بعد-لكافة-المراحل-التعليمية-والجامعات-اعتبارا-من-غدا-الاحد",
     "published": "2026-02-28T23:49:41.409054+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3706,9 +3556,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar switches to remote learning for all educational institutions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -3730,7 +3578,6 @@
   {
     "id": "e2a578c3e46068d6",
     "title_original": "وزارة الخارجية تدعو المواطنين القطريين المتواجدين خارج البلاد إلى التواصل مع البعثات الدبلوماسية عند الحاجة",
-    "content_original": "الدوحة في 28 فبراير /قنا/ نظراً للأوضاع الراهنة، تدعو وزارة الخارجية المواطنين القطريين المتواجدين خارج البلاد، لا سيما العالقين أو من يحتاجون إلى خدمات قنصلية، إلى التواصل مع البعثات الدبلوماسية لدولة قطر في الدول المتواجدين بها، والالتزام بتعليمات وإرشادات السلطات المحلية في تلك الدول.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/وزارة-الخارجية-تدعو-المواطنين-القطريين-المتواجدين-خارج-البلاد-الى-التواصل-مع-البعثات-الدبلوماسية-عند-الحاجة",
     "published": "2026-02-28T23:49:41.408879+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3738,15 +3585,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Foreign Ministry advises citizens abroad to contact diplomatic missions for assistance",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "5a88dbedbf84c050",
     "title_original": "وزارة الصحة العامة تؤكد جاهزية القطاع الصحي للتعامل مع حالات الطوارئ",
-    "content_original": "الدوحة في 28 فبراير /قنا/ أكدت وزارة الصحة العامة الجاهزية الكاملة للقطاع الصحي في دولة قطر بالتعاون مع قطاعات الدولة ذات الصلة للتعامل مع حالات الطوارئ، واتخاذ كل ما يلزم من تدابير للحفاظ على سلامة وصحة جميع سكان دولة قطر.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/وزارة-الصحة-العامة-توكد-جاهزية-القطاع-الصحي-للتعامل-مع-حالات-الطواري",
     "published": "2026-02-28T23:49:41.408773+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3754,15 +3598,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Health Ministry confirms readiness for emergency situations",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "21647cab6f059c22",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من ملك الأردن",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم من أخيه جلالة الملك عبدالله الثاني ابن الحسين ملك المملكة الأردنية الهاشمية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-ملك-الاردن",
     "published": "2026-02-28T23:49:41.408690+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3770,15 +3611,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Jordan's King",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "faa4581296b4eb33",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من الرئيس المصري",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من أخيه فخامة الرئيس عبد الفتاح السيسي رئيس جمهورية مصر العربية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-الرييس-المصري",
     "published": "2026-02-28T23:49:41.408610+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3786,9 +3624,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Egyptian President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -3810,7 +3646,6 @@
   {
     "id": "dbe57073aa18350c",
     "title_original": "سمو الأمير يجري اتصالا هاتفيا بأمير الكويت",
-    "content_original": "الدوحة في 28 فبراير /قنا/ أجرى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، بأخيه صاحب السمو الشيخ مشعل الأحمد الجابر الصباح أمير دولة الكويت الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يجري-اتصالا-هاتفيا-بامير-الكويت",
     "published": "2026-02-28T23:49:41.408443+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3818,15 +3653,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir Calls Kuwaiti Emir",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "06509227491edc55",
     "title_original": "سمو الأمير يتلقى اتصالاً هاتفياً من رئيس الوزراء الباكستاني",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من دولة السيد محمد شهباز شريف رئيس وزراء جمهورية باكستان الإسلامية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-رييس-الوزراء-الباكستاني",
     "published": "2026-02-28T23:49:41.408360+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3834,15 +3666,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Pakistani Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "f6ea29b2bf156597",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالات هاتفية من وزراء خارجية الأردن والسعودية والكويت والإمارات والبحرين",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني، رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالات هاتفية، من سعادة الدكتور أيمن الصفدي، نائب رئيس الوزراء وزير الخارجية وشؤون المغتربين بالمملكة الأردنية الهاشمية الشقيقة، وصاحب السمو الأمير فيصل بن فرحان بن عبدالله آل سعود، وزير الخارجية بالمملكة العربية السعودية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالات-هاتفية-من-وزراء-خارجية-الاردن-والسعودية-والكويت-والامارات-والبحرين",
     "published": "2026-02-28T23:49:41.408279+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3850,15 +3679,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives calls from Jordan, Saudi Arabia, Kuwait, UAE, and Bahrain",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "8c68575315de356d",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من رئيس الوزراء البريطاني",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من دولة السيد كير ستارمر رئيس وزراء المملكة المتحدة الصديقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-رييس-الوزراء-البريطاني",
     "published": "2026-02-28T23:49:41.408191+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3866,15 +3692,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from British Prime Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "2aec23b9a1e7d250",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالين هاتفيين من وزيري خارجية مصر وتركيا",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني، رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالين هاتفيين، من سعادة الدكتور بدر عبد العاطي، وزير الخارجية والهجرة وشؤون المصريين بالخارج بجمهورية مصر العربية الشقيقة، وسعادة السيد هاكان فيدان، وزير الخارجية بالجمهورية التركية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالين-هاتفيين-من-وزيري-خارجية-مصر-وتركيا",
     "published": "2026-02-28T23:49:41.408109+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3882,15 +3705,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives calls from Egyptian and Turkish counterparts",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "34bf6468ffa3fb3d",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالا هاتفيا من رئيس الوزراء اللبناني",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالا هاتفيا، من دولة الدكتور نواف سلام، رئيس مجلس الوزراء في الجمهورية اللبنانية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالا-هاتفيا-من-رييس-الوزراء-اللبناني",
     "published": "2026-02-28T23:49:41.408021+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3898,15 +3718,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM receives phone call from Lebanese PM",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "033f12b9f9b68dc3",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالا هاتفيا من مسؤولة السياسة الخارجية في الاتحاد الأوروبي",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، اليوم، اتصالا هاتفيا، من سعادة السيدة كايا كالاس مسؤولة السياسة الخارجية في الاتحاد الأوروبي.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالا-هاتفيا-من-مسوولة-السياسة-الخارجية-في-الاتحاد-الاوروبي",
     "published": "2026-02-28T23:49:41.407936+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3914,15 +3731,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives phone call from EU's Foreign Policy Chief",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "ba6654879db44c9f",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالات هاتفية من وزراء خارجية إسبانيا وفرنسا وألمانيا وروسيا",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني، رئيس مجلس الوزراء وزير الخارجية، اليوم اتصالات هاتفية، من سعادة السيد خوسيه مانويل ألباريس، وزير الشؤون الخارجية والاتحاد الأوروبي والتعاون في مملكة إسبانيا، وسعادة السيد جان نويل بارو، وزير الخارجية بالجمهورية الفرنسية، وسعادة السيد يوهان فاديفول، وزير الخارجية بجمهورية ألمانيا الاتحادية، وسعادة السيد سيرغي لافروف، وزير الخارجية بروسيا الاتحادية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالات-هاتفية-من-وزراء-خارجية-اسبانيا-وفرنسا-والمانيا-وروسيا",
     "published": "2026-02-28T23:49:41.407847+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3930,15 +3744,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives calls from European and Russian counterparts",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "dff6d0a91ebf3a74",
     "title_original": "الأمانة العامة لمجلس الوزراء تعتمد العمل عن بعد في جميع الوزارات والأجهزة الحكومية",
-    "content_original": "الدوحة في 28 فبراير /قنا/ في ظل المستجدات الإقليمية الراهنة؛ تعلن الأمانة العامة لمجلس الوزراء أنه تقرر اعتماد العمل عن بعد ليوم الأحد الموافق الأول من مارس 2026 لكافة الموظفين في جميع الوزارات والأجهزة الحكومية والهيئات والمؤسسات العامة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/الامانة-العامة-لمجلس-الوزراء-تعتمد-العمل-عن-بعد-في-جميع-الوزارات-والاجهزة-الحكومية",
     "published": "2026-02-28T23:49:41.407737+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3946,15 +3757,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari government announces remote work for all ministries and public institutions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "6e90128e2c966b65",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من المستشار الألماني",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من دولة السيد فريدريش ميرتس مستشار جمهورية ألمانيا الاتحادية الصديقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-المستشار-الالماني",
     "published": "2026-02-28T23:49:41.407652+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3962,15 +3770,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from German Chancellor",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "d60b588eda23d463",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من الرئيس اللبناني",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من فخامة الرئيس العماد جوزاف عون رئيس الجمهورية اللبنانية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-الرييس-اللبناني",
     "published": "2026-02-28T23:49:41.407570+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3978,15 +3783,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Lebanese President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "e0072844ed4bdda2",
     "title_original": "سمو الأمير يتلقى اتصالاً هاتفياً من سلطان عُمان",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالا هاتفيا اليوم، من أخيه جلالة السلطان هيثم بن طارق سلطان عمان الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-سلطان-عمان",
     "published": "2026-02-28T23:49:41.407487+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -3994,15 +3796,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Omani Sultan",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "cb1ae25f3c3fc644",
     "title_original": "سمو الأمير يتلقى اتصالاً هاتفياً من ملك المغرب",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من أخيه جلالة الملك محمد السادس ملك المملكة المغربية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-ملك-المغرب",
     "published": "2026-02-28T23:49:41.407404+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -4010,9 +3809,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Moroccan King",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -4050,7 +3847,6 @@
   {
     "id": "2f59b9c79ac22b2c",
     "title_original": "سمو الأمير يتلقى اتصالاً هاتفياً من الرئيس الأمريكي",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من فخامة الرئيس دونالد ترامب رئيس الولايات المتحدة الأمريكية الصديقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-الرييس-الامريكي",
     "published": "2026-02-28T23:49:41.407145+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -4058,15 +3854,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from US President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "0cb127f878830306",
     "title_original": "سمو الأمير يتلقى اتصالا هاتفيا من الرئيس السوري",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، اتصالاً هاتفياً اليوم، من أخيه فخامة الرئيس أحمد الشرع رئيس الجمهورية العربية السورية الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/سمو-الامير-يتلقى-اتصالا-هاتفيا-من-الرييس-السوري",
     "published": "2026-02-28T23:49:41.407060+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -4074,15 +3867,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir receives phone call from Syrian President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "dfcdc381a32ee43d",
     "title_original": "وزير الدولة للشؤون الخارجية يتلقى اتصالا هاتفيا من وزير الخارجية والتجارة الهنغاري",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى سعادة السيد سلطان بن سعد المريخي وزير الدولة للشؤون الخارجية، اليوم اتصالا هاتفيا، من سعادة السيد بيتر سيارتو وزير الخارجية والتجارة في هنغاريا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزير-الدولة-للشوون-الخارجية-يتلقى-اتصالا-هاتفيا-من-وزير-الخارجية-والتجارة-الهنغاري",
     "published": "2026-02-28T23:49:41.406975+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -4090,15 +3880,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari State Minister for Foreign Affairs receives phone call from Hungarian Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "e5aad836114578a6",
     "title_original": "وزير الدولة للشؤون الخارجية يتلقى اتصالا هاتفيا من الأمين العام لمجلس التعاون",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى سعادة السيد سلطان بن سعد المريخي وزير الدولة للشؤون الخارجية، اليوم اتصالا هاتفيا، من سعادة السيد جاسم محمد البديوي الأمين العام لمجلس التعاون لدول الخليج العربية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزير-الدولة-للشوون-الخارجية-يتلقى-اتصالا-هاتفيا-من-الامين-العام-لمجلس-التعاون",
     "published": "2026-02-28T23:49:41.406885+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -4106,15 +3893,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari State Minister for Foreign Affairs receives call from GCC Secretary-General",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "f4679483e90c3418",
     "title_original": "وزير الدولة بوزارة الخارجية يتلقى اتصالات هاتفية من نائب رئيس الوزراء وزير الخارجية الباكستاني ووزيري خارجية سوريا وقبرص",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى سعادة الدكتور محمد بن عبدالعزيز بن صالح الخليفي وزير الدولة بوزارة الخارجية، اليوم اتصالات هاتفية، من سعادة السيد محمد إسحاق دار نائب رئيس الوزراء وزير الخارجية بجمهورية باكستان الإسلامية، وسعادة السيد أسعد الشيباني، وزير الخارجية والمغتربين بالجمهورية العربية السورية الشقيقة، وسعادة الدكتور كونستانتينوس كومبوس، وزير الشؤون الخارجية بجمهورية قبرص.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزير-الدولة-بوزارة-الخارجية-يتلقى-اتصالات-هاتفية-من-نايب-رييس-الوزراء-وزير-الخارجية-الباكستاني-ووزيري-خارجية-سوريا-وقبرص",
     "published": "2026-02-28T23:49:41.406759+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -4122,15 +3906,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari State Minister for Foreign Affairs receives calls from Pakistani, Syrian, and Cypriot Foreign Ministers",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "1f42bf4d0a9303bf",
     "title_original": "HH the Amir Receives Call from Sultan of Oman",
-    "content_original": "Doha, February 28 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from his brother HM Sultan Haitham bin Tariq of the sisterly Sultanate of Oman.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/hh-the-amir-receives-call-from-sultan-of-oman",
     "published": "2026-02-28T23:29:47+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4138,15 +3919,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "HH the Amir Receives Call from Sultan of Oman",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1d150ba0268aa60d",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Calls from Foreign Ministers of Spain, France, Germany, Russia",
-    "content_original": "Doha, February 28 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received phone calls today from HE Minister of Foreign Affairs, European Union, and Cooperation of the Kingdom of Spain Jose Manuel Alvarez, HE Minister of Foreign Affairs of the French Republic Jean-Noel Barrot, HE Minister of Foreign Affairs of the Federal Republic of Germany Johann Wadephul and HE Minister of Foreign Affairs of the Russian Federation Sergey Lavrov.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/prime-minister-and-minister-of-foreign-affairs-receives-phone-calls-from-foreign-ministers-of-spain-france-germany-russia",
     "published": "2026-02-28T22:34:11+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4154,15 +3932,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives calls from European and Russian foreign ministers",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "0c110352c29168d9",
     "title_original": "HH the Amir Receives Phone Call from Lebanese President",
-    "content_original": "Doha, February 28 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call today from HE President of the sisterly Republic of Lebanon General Joseph Aoun.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/hh-the-amir-receives-phone-call-from-lebanese-president",
     "published": "2026-02-28T22:17:28+00:00",
     "source_name": "QNA General (English)",
@@ -4170,15 +3945,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Amir Receives Call from Lebanese President",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "4f5d0de7ebe002e4",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Call from Lebanese Prime Minister",
-    "content_original": "Doha, February 28 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani, received today a telephone call from HE Prime Minister of the sisterly Republic of Lebanon Dr. Nawaf Salam.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/prime-minister-and-minister-of-foreign-affairs-receives-phone-call-from-lebanese-prime-minister",
     "published": "2026-02-28T21:40:40+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4186,15 +3958,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives phone call from Lebanese PM",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "21b3e362e8f1a07d",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Two Calls from Egypt, Turkiye Foreign Ministers",
-    "content_original": "Doha, February 28 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received two telephone calls today, from HE Minister of Foreign Affairs, International Cooperation and Egyptian Expatriates Affairs of the sisterly Arab Republic of Egypt Dr. Badr Abdel-Aty, and HE Minister of Foreign Affairs of the sisterly Republic of Turkiye Hakan Fidan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/prime-minister-and-minister-of-foreign-affairs-receives-two-calls-from-egypt-turkiye-foreign-ministers",
     "published": "2026-02-28T21:32:42+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4202,15 +3971,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives calls from Egypt and Turkey foreign ministers",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "ec306b6ca7fc7360",
     "title_original": "HH the Amir Receives Phone Call from UK Prime Minister",
-    "content_original": "Doha, February 28 (QNA) - HH the Amir of the State of Qatar Sheikh Tamim bin Hamad Al-Thani received a telephone call today from the HE Prime Minister of the friendly United Kingdom Keir Starmer.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/hh-the-amir-receives-phone-call-from-uk-prime-minister",
     "published": "2026-02-28T21:20:57+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4218,10 +3984,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Amir Receives Call from UK Prime Minister",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "fcdd0628025ff24f",
@@ -4258,7 +4022,6 @@
   {
     "id": "a40efb41739f2b37",
     "title_original": "HH the Amir Holds Phone Call with Amir of Kuwait",
-    "content_original": "Doha, February 28 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call on Saturday from HE Prime Minister of the Islamic Republic of Pakistan Muhammad Shehbaz Sharif.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/hh-the-amir-holds-phone-call-with-amir-of-kuwait",
     "published": "2026-02-28T20:34:48+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4266,10 +4029,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "HH the Amir Holds Phone Call with Amir of Kuwait",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "52f9c1f219d6e689",
@@ -4338,7 +4099,6 @@
   {
     "id": "177c941197ef7b3f",
     "title_original": "HH the Amir Receives Phone Call from Egyptian President",
-    "content_original": "Doha, February 28 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received a phone call on Saturday from HE President of the sisterly Arab Republic of Egypt Abdel Fattah El-Sisi.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/hh-the-amir-receives-phone-call-from-egyptian-president",
     "published": "2026-02-28T19:10:12+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4346,15 +4106,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Amir of Qatar Receives Phone Call from Egyptian President",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "1aed1c7ff9681692",
     "title_original": "HH the Amir Receives Phone Call from King of Jordan",
-    "content_original": "Doha, February 28 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani received on Saturday a phone call from HM King Abdullah II ibn Al Hussein of the sisterly Hashemite Kingdom of Jordan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/hh-the-amir-receives-phone-call-from-king-of-jordan",
     "published": "2026-02-28T18:56:26+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4362,10 +4119,8 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Amir of Qatar Receives Phone Call from Jordan's King",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "cd78c499b7bd80a2",
@@ -4704,7 +4459,6 @@
   {
     "id": "613a1fc3fab5c694",
     "title_original": "Qatar Airways Temporarily Suspends Flights due to Qatari Airspace Closure",
-    "content_original": "Doha, February 28 (QNA) - Qatar​ Airways​ announced the​ temporary​ suspension​ of​ its​ flights​ to, and from, Doha due to the closure of Qatari airspace.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/qatar-airways-temporarily-suspends-flights-due-to-qatari-airspace-closure",
     "published": "2026-02-28T13:49:19+00:00",
     "source_name": "QNA Qatar (English)",
@@ -4712,9 +4466,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatar Airways Temporarily Suspends Flights due to Qatari Airspace Closure",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -4992,7 +4744,6 @@
   {
     "id": "1a1b4cf8d32b9a80",
     "title_original": "باكستان وأفغانستان تواصلان التصعيد العسكري عبر الحدود المشتركة",
-    "content_original": "إسلام آباد في 27 فبراير /قنا/ أعلن محمد شهباز شريف رئيس الوزراء الباكستاني أن بلاده لن تقدم أي تنازل فيما يتعلق بدفاعها، مشدداً على أن أي اعتداء سيُواجَه برد حاسم.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/باكستان-وافغانستان-تواصلان-التصعيد-العسكري-عبر-الحدود-المشتركة",
     "published": "2026-02-28T11:22:10.253150+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5000,9 +4751,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Pakistan and Afghanistan Continue Military Escalation Along the Shared Border",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5024,7 +4773,6 @@
   {
     "id": "4f37e020e655f0da",
     "title_original": "وزير الخارجية السعودي يبحث مع نظرائه  في تركيا ومصر وعمان المستجدات الإقليمية",
-    "content_original": "الرياض في 27 فبراير /قنا/ بحث الأمير فيصل بن فرحان بن عبدالله آل سعود وزير الخارجية السعودي اليوم في اتصالات هاتفية مع نظرائه في تركيا ومصر وسلطنة عمان المستجدات الإقليمية، والجهود المبذولة حيالها.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-الخارجية-السعودي-يبحث-مع-نظرايه-في-تركيا-ومصر-وعمان-المستجدات-الاقليمية",
     "published": "2026-02-28T11:22:10.253076+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5032,9 +4780,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Saudi Foreign Minister Discusses Regional Developments with Counterparts in Turkey, Egypt, and Oman",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5072,7 +4818,6 @@
   {
     "id": "daf87a9cd1baca8c",
     "title_original": "القوات الروسية تدمر 95 طائرة أوكرانية مسيرة فوق مناطق متفرقة",
-    "content_original": "موسكو في 27 فبراير /قنا/ أعلنت وزارة الدفاع الروسية اليوم أن منظومات الدفاع الجوي التابعة لها أسقطت 95 طائرة مسيرة أوكرانية خلال الليل فوق عدد من المقاطعات الروسية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/القوات-الروسية-تدمر-95-طايرة-اوكرانية-مسيرة-فوق-مناطق-متفرقة",
     "published": "2026-02-28T11:22:10.252967+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5080,9 +4825,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Russian forces destroy 95 Ukrainian drones over various regions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5104,7 +4847,6 @@
   {
     "id": "60f9e06bf83946b7",
     "title_original": "الأمم المتحدة تحذر من تفاقم الأزمة الإنسانية في كوبا بسبب القيود على إمدادات النفط",
-    "content_original": "نيويورك في 27 فبراير /قنا/ حذرت الأمم المتحدة من تفاقم التداعيات الإنسانية الناجمة عن الحصار المفروض على إمدادات الطاقة إلى كوبا، مشيرة إلى أن الأوضاع تزداد سوءا يوما بعد يوم.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/الامم-المتحدة-تحذر-من-تفاقم-الازمة-الانسانية-في-كوبا-بسبب-القيود-على-امدادات-النفط",
     "published": "2026-02-28T11:22:10.252897+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5112,15 +4854,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "UN warns of worsening humanitarian crisis in Cuba due to oil supply restrictions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "ce5c84ff1270f651",
     "title_original": "زلزال بقوة 5.4 درجة يضرب بنغلاديش",
-    "content_original": "دكا في 27 فبراير /قنا/ ضرب زلزال بلغت قوته 5.4 درجة على مقياس ريختر اليوم بنغلاديش.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/زلزال-بقوة-54-درجة-يضرب-بنغلاديش",
     "published": "2026-02-28T11:22:10.252860+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5128,9 +4867,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Earthquake of 5.4 Magnitude Strikes Bangladesh",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5168,7 +4905,6 @@
   {
     "id": "5831dd83bc3cdb36",
     "title_original": "ارتفاع حصيلة ضحايا الفيضانات في البرازيل إلى 55 قتيلا و13 مفقودا",
-    "content_original": "برازيليا في 27 فبراير /قنا/ كشفت السلطات في البرازيل عن ارتفاع عدد ضحايا الفيضانات والانزلاقات الأرضية نتيجة الأمطار جنوب شرقي البلاد، إلى 55 قتيلا بالإضافة إلى 13 مفقودا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/ارتفاع-حصيلة-ضحايا-الفيضانات-في-البرازيل-الى-55-قتيلا-و13-مفقودا",
     "published": "2026-02-28T11:22:10.252747+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5176,15 +4912,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Floods in Brazil kill 55 and leave 13 missing",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "0af5d72607831171",
     "title_original": "\"الدفاع الروسية\" تعلن القضاء على 6245 عسكريا أوكرانيا خلال أسبوع",
-    "content_original": "موسكو في 27 فبراير /قنا/ أعلنت وزارة الدفاع الروسية، اليوم، أن خسائر القوات الأوكرانية بلغت خلال الأسبوع الماضي نحو 6245 عسكريا أوكرانيا، نتيجة العمليات العسكرية على مختلف محاور القتال.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/الدفاع-الروسية-تعلن-القضاء-على-6245-عسكريا-اوكرانيا-خلال-اسبوع",
     "published": "2026-02-28T11:22:10.252710+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5192,15 +4925,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Russian Defense Ministry claims 6245 Ukrainian soldiers killed in a week",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "f5231bcac0311bce",
     "title_original": "الصين تدعو باكستان وأفغانستان إلى ضبط النفس وحل الخلافات عبر الحوار",
-    "content_original": "بكين في 27 فبراير /قنا/ دعت الصين، اليوم، كلا من باكستان وأفغانستان إلى ضبط النفس وحل الخلافات عبر الحوار والتفاوض للتوصل إلى وقف لإطلاق النار سريعا وتجنب إراقة الدماء.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/الصين-تدعو-باكستان-وافغانستان-الى-ضبط-النفس-وحل-الخلافات-عبر-الحوار",
     "published": "2026-02-28T11:22:10.252671+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5208,15 +4938,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "China Calls for Restraint and Dialogue Between Pakistan and Afghanistan",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "a43cdbfdf56b2380",
     "title_original": "روسيا تدعو باكستان وأفغانستان إلى وقف المواجهات والعودة إلى الحوار",
-    "content_original": "موسكو في 27 فبراير /قنا/ أعربت روسيا عن قلقها إزاء التصعيد الحاد في المواجهات المسلحة بين باكستان وأفغانستان، داعية الجانبين إلى وقف القتال والعودة إلى المفاوضات لتسوية الخلافات بالوسائل السياسية والدبلوماسية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/روسيا-تدعو-باكستان-وافغانستان-الى-وقف-المواجهات-والعودة-الى-الحوار",
     "published": "2026-02-28T11:22:10.252635+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5224,15 +4951,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Russia Calls on Pakistan and Afghanistan to Cease Clashes and Return to Dialogue",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "c8b3eac2ddcbaa77",
     "title_original": "أفغانستان تعلن استعدادها للحوار مع باكستان لحل النزاع",
-    "content_original": "كابول في 27 فبراير /قنا/ أكدت الحكومة الأفغانية، استعدادها للحوار مع باكستان لحل النزاع والقتال القائم بين البلدين.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/افغانستان-تعلن-استعدادها-للحوار-مع-باكستان-لحل-النزاع",
     "published": "2026-02-28T11:22:10.252598+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5240,15 +4964,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Afghanistan Ready to Engage in Dialogue with Pakistan to Resolve Conflict",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "dbc04de4e2b0087a",
     "title_original": "وزيرا خارجية مصر والسعودية يبحثان هاتفيا مستجدات الأوضاع الإقليمية والعلاقات الثنائية",
-    "content_original": "القاهرة في 27 فبراير /قنا/ بحث بدر عبدالعاطي وزير الخارجية المصري، في اتصال هاتفي، مع نظيره السعودي الأمير فيصل بن فرحان آل سعود، مستجدات الأوضاع الإقليمية وسبل تعزيز العلاقات الثنائية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزيرا-خارجية-مصر-والسعودية-يبحثان-هاتفيا-مستجدات-الاوضاع-الاقليمية-والعلاقات-الثنايية",
     "published": "2026-02-28T11:22:10.252563+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5256,15 +4977,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Egyptian and Saudi Foreign Ministers Discuss Regional Developments and Bilateral Relations",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "c5248cf14b9e4636",
     "title_original": "وزير الخارجية المصري يبحث هاتفيا مع نظيره الباكستاني خفض التصعيد مع أفغانستان",
-    "content_original": "القاهرة في 27 فبراير /قنا/ بحث بدر عبدالعاطي وزير الخارجية المصري، في اتصال هاتفي، مع محمد إسحاق دار، نائب رئيس الوزراء ووزير خارجية باكستان، آخر تطورات الأوضاع بشأن الاشتباكات الحدودية بين باكستان وأفغانستان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-الخارجية-المصري-يبحث-هاتفيا-مع-نظيره-الباكستاني-خفض-التصعيد-مع-افغانستان",
     "published": "2026-02-28T11:22:10.252527+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5272,15 +4990,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Egyptian Foreign Minister Discusses De-escalation with Afghanistan with Pakistani Counterpart",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "d8a57e569f2f767f",
     "title_original": "وزير خارجية لبنان يؤكد أهمية إنجاح مؤتمر باريس لدعم المؤسسات الأمنية",
-    "content_original": "بيروت في 27 فبراير /قنا/ أكد يوسف رجي وزير الخارجية اللبناني أهمية إنجاح مؤتمر باريس المرتقب، لما يمثله من خطوة داعمة لتعزيز قدرات المؤسسات الأمنية الشرعية، وتمكينها من أداء دورها في حفظ الأمن والاستقرار في لبنان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-خارجية-لبنان-يوكد-اهمية-انجاح-موتمر-باريس-لدعم-الموسسات-الامنية",
     "published": "2026-02-28T11:22:10.252489+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5288,9 +5003,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Lebanese Foreign Minister emphasizes the importance of the Paris conference for supporting security institutions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5312,7 +5025,6 @@
   {
     "id": "4019c7b94b8b1e58",
     "title_original": "المفوض السامي لحقوق الإنسان يحذر من مرحلة خطيرة في جنوب السودان مع تصاعد أعمال القتل",
-    "content_original": "جنيف في 27 فبراير /قنا/ حذر فولكر تورك مفوض الأمم المتحدة السامي لحقوق الإنسان من أن جنوب السودان يمر بمرحلة \"خطيرة\" في ظل تصاعد أعمال القتل والعنف، بما يهدد اتفاق السلام الهش الموقع عام 2018.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/المفوض-السامي-لحقوق-الانسان-يحذر-من-مرحلة-خطيرة-في-جنوب-السودان-مع-تصاعد-اعمال-القتل",
     "published": "2026-02-28T11:22:10.252414+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5320,15 +5032,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "UN Human Rights Chief Warns of Dangerous Phase in South Sudan Amid Rising Violence",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "9e58e16d3c66799e",
     "title_original": "الجيش الصيني ينتقد الفلبين بسبب \"دوريات مشتركة\" في بحر الصين الجنوبي",
-    "content_original": "بكين في 27 فبراير /قنا/ انتقد متحدث عسكري صيني الفلبين لما وصفه بتقويضها السلام والاستقرار في بحر الصين الجنوبي، على خلفية استعانتها بدول من خارج المنطقة لتنظيم \"دوريات مشتركة\".",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/الجيش-الصيني-ينتقد-الفلبين-بسبب-دوريات-مشتركة-في-بحر-الصين-الجنوبي",
     "published": "2026-02-28T11:22:10.252376+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5336,15 +5045,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Chinese military criticizes Philippines for 'joint patrols' in South China Sea",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "58fad0bcf01a9e99",
     "title_original": "وزير الخارجية المصري يبحث مع نظيره اليوناني مستجدات الأوضاع الإقليمية",
-    "content_original": "القاهرة في 27 فبراير /قنا/ بحث بدر عبد العاطي وزير الخارجية المصري، في اتصال هاتفي اليوم، مع نظيره اليوناني جيورجوس جيرابيتريتيس، مستجدات الأوضاع الإقليمية، إلى جانب تعزيز العلاقات الثنائية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-الخارجية-المصري-يبحث-مع-نظيره-اليوناني-مستجدات-الاوضاع-الاقليمية",
     "published": "2026-02-28T11:22:10.252339+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5352,9 +5058,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Egyptian and Greek Foreign Ministers Discuss Regional Developments",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5392,7 +5096,6 @@
   {
     "id": "48fb2804cb85140b",
     "title_original": "الأمين العام للأمم المتحدة يدعو إلى وقف فوري لإطلاق النار بين باكستان وأفغانستان",
-    "content_original": "نيويورك في 27 فبراير /قنا/ دعا أنطونيو غوتيريش الأمين العام للأمم المتحدة الجمعة إلى \"وقف فوري للأعمال القتالية\" بين أفغانستان وباكستان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/الامين-العام-للامم-المتحدة-يدعو-الى-وقف-فوري-لاطلاق-النار-بين-باكستان-وافغانستان",
     "published": "2026-02-28T11:22:10.252229+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5400,15 +5103,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "UN Secretary-General Calls for Immediate Ceasefire Between Pakistan and Afghanistan",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "2f505952f2df0705",
     "title_original": "وزير الخارجية المصري يبحث هاتفيا مع كبير مستشاري الرئيس الأمريكي التطورات بالسودان",
-    "content_original": "القاهرة في 27 فبراير /قنا/ بحث بدر عبد العاطي وزير الخارجية المصري، في اتصال هاتفي اليوم، مع مسعد بولس كبير مستشاري الرئيس الأمريكي للشؤون العربية والإفريقية، تطورات الأوضاع في السودان وسبل دعم الجهود الرامية إلى استعادة الاستقرار في البلاد.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-الخارجية-المصري-يبحث-هاتفيا-مع-كبير-مستشاري-الرييس-الامريكي-التطورات-بالسودان",
     "published": "2026-02-28T11:22:10.252188+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5416,9 +5116,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Egyptian Foreign Minister discusses Sudan developments with senior US advisor",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5440,7 +5138,6 @@
   {
     "id": "7dfc41c67edc0d31",
     "title_original": "مصرع شخصين وإصابة 40 آخرين في حادث انحراف ترام في ميلانو الإيطالية",
-    "content_original": "روما في 27 فبراير /قنا/ لقي شخصان مصرعهما وأصيب 40 آخرون في حادث انحراف عربة \"ترام\" عن مسارها في وسط مدينة ميلانو الإيطالية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/مصرع-شخصين-واصابة-40-اخرين-في-حادث-انحراف-ترام-في-ميلانو-الايطالية",
     "published": "2026-02-28T11:22:10.252092+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5448,9 +5145,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Two Killed and 40 Injured in Tram Derailment in Milan, Italy",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5472,7 +5167,6 @@
   {
     "id": "7ee295d454a9a0c1",
     "title_original": "اتفاق أوكرانيا وسلوفاكيا على مناقشة تعطل خط أنابيب النفط الروسي \"دروجبا\"",
-    "content_original": "كييف في 27 فبراير /قنا/ اتفقت أوكرانيا وسلوفاكيا، اليوم، على مناقشة الأزمة الناتجة عن تعطل خط أنابيب النفط الروسي \"دروجبا\"، الذي يزود سلوفاكيا بالنفط ويمر عبر الأراضي الأوكرانية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/اتفاق-اوكرانيا-وسلوفاكيا-على-مناقشة-تعطل-خط-انابيب-النفط-الروسي-دروجبا",
     "published": "2026-02-28T11:22:10.252006+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5480,15 +5174,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Ukraine and Slovakia to Discuss Disruption of Russian Druzhba Oil Pipeline",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "0a89aec38aedcf07",
     "title_original": "السلطات الإسبانية تنقذ عشرات المهاجرين غير الشرعيين قبالة جزر البليار",
-    "content_original": "مدريد في 27 فبراير /قنا/ أنقذت السلطات الإسبانية، اليوم، 41 ‌مهاجرا كانوا على متن قاربين قبالة جزر البليار، معلنة نهاية عملية البحث عن ثلاثة قوارب تم الإبلاغ عن فقدانها أمس الخميس في مسار خطر في البحر ‌المتوسط.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/السلطات-الاسبانية-تنقذ-عشرات-المهاجرين-غير-الشرعيين-قبالة-جزر-البليار",
     "published": "2026-02-28T11:22:10.251963+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5496,9 +5187,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Spanish authorities rescue dozens of illegal migrants off Balearic Islands",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5520,7 +5209,6 @@
   {
     "id": "d19ef6ce2d3eb9a4",
     "title_original": "البرلمان الألماني يقر قانونا لتنفيذ اتفاق حماية أعالي البحار",
-    "content_original": "برلين في 28 فبراير /قنا/ أقر البرلمان الألماني \"البوندستاغ\" القانون الخاص باتفاق حماية التنوع البيولوجي البحري في المناطق الواقعة خارج حدود الولاية الوطنية، واعتمد قانونا تكميليا لتنفيذ الاتفاقية وذلك في إطار مواءمة التشريعات الوطنية مع الالتزامات الدولية المتعلقة بحماية أعالي البحار.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/البرلمان-الالماني-يقر-قانونا-لتنفيذ-اتفاق-حماية-اعالي-البحار",
     "published": "2026-02-28T11:22:10.251876+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5528,15 +5216,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "German Parliament Passes Law to Implement High Seas Protection Agreement",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "dde48a34de2bc7d0",
     "title_original": "تحطم طائرة عسكرية تحمل أوراقا نقدية بالقرب من العاصمة البوليفية لاباز",
-    "content_original": "لاباز في 28 فبراير /قنا/ تحطمت طائرة عسكرية تحمل أوراقا نقدية على مقربة من مطار \"إل ألتو\" بأحواز العاصمة البوليفية لاباز.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/تحطم-طايرة-عسكرية-تحمل-اوراقا-نقدية-بالقرب-من-العاصمة-البوليفية-لاباز",
     "published": "2026-02-28T11:22:10.251829+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5544,15 +5229,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Military Plane Carrying Banknotes Crashes Near Bolivian Capital La Paz",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "b0cf9ec1951491d4",
     "title_original": "الرئيس الأمريكي يلمح إلى إمكانية \"الاستيلاء السلمي\" على كوبا",
-    "content_original": "واشنطن في 28 فبراير /قنا/ ألمح الرئيس الأمريكي دونالد ترامب إلى احتمالية ما وصفه بـ\" استيلاء سلمي\" على كوبا، وسط توتر بين واشنطن وهافانا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/الرييس-الامريكي-يلمح-الى-امكانية-الاستيلاء-السلمي-على-كوبا",
     "published": "2026-02-28T11:22:10.251788+00:00",
     "source_name": "QNA General (Arabic)",
@@ -5560,9 +5242,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "US President hints at potential 'peaceful takeover' of Cuba",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -5792,7 +5472,6 @@
   {
     "id": "7b24cf50a8ba659f",
     "title_original": "الوفد الدائم لدولة قطر لدى الأمم المتحدة بجنيف ينظم حدثا رفيع المستوى حول \"الوساطة وحقوق الإنسان\"",
-    "content_original": "جنيف في 24 فبراير /قنا/ نظم الوفد الدائم لدولة قطر لدى مكتب الأمم المتحدة بجنيف، اليوم، حدثا جانبيا رفيع المستوى بعنوان \"الوساطة وحقوق الإنسان\"، وذلك على هامش الدورة الحادية والستين لمجلس حقوق الإنسان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/الوفد-الدايم-لدولة-قطر-لدى-الامم-المتحدة-بجنيف-ينظم-حدثا-رفيع-المستوى-حول-الوساطة-وحقوق-الانسان",
     "published": "2026-02-28T11:22:09.495497+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5800,15 +5479,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari delegation to UN in Geneva hosts high-level event on mediation and human rights",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "76ab8c5df15cc450",
     "title_original": "رئيس الوزراء يترأس الاجتماع العادي للمجلس",
-    "content_original": "الدوحة في 25 فبراير /قنا/ ترأس معالي الشيخ محمد بن عبد الرحمن بن جاسم آل ثاني، رئيس مجلس الوزراء وزير الخارجية، الاجتماع العادي الذي عقده المجلس ظهر اليوم.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/بيان-مجلس-الوزراء-الاجتماع-العادي-الثامن-لعام-2026",
     "published": "2026-02-28T11:22:09.495460+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5816,15 +5492,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Prime Minister Chairs Regular Cabinet Meeting",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "42947cd7625f3212",
     "title_original": "الخارجية المكسيكية تتسلم نسخة من أوراق اعتماد سفير دولة قطر",
-    "content_original": "مكسيكو سيتي في 25 فبراير /قنا/ تسلم سعادة السيد جوناثان شايت مدير إدارة المراسم في وزارة الخارجية بالولايات المتحدة المكسيكية نسخة من أوراق اعتماد سعادة السيد محمد بن سلطان محمد الكواري.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/الخارجية-المكسيكية-تتسلم-نسخة-من-اوراق-اعتماد-سفير-دولة-قطر",
     "published": "2026-02-28T11:22:09.495425+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5832,15 +5505,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Mexican Foreign Ministry Receives Credentials of Qatari Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "696c2d2ab491abb8",
     "title_original": "وزير الدولة للشؤون الخارجية يودع السفير البرتغالي",
-    "content_original": "الدوحة في 25 فبراير /قنا/ اجتمع سعادة السيد سلطان بن سعد المريخي وزير الدولة للشؤون الخارجية، اليوم، مع سعادة السيد باولو نيفيس بوسينيو سفير جمهورية البرتغال لدى الدولة، بمناسبة انتهاء فترة عمله بالبلاد.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/وزير-الدولة-للشوون-الخارجية-يودع-السفير-البرتغالي",
     "published": "2026-02-28T11:22:09.495388+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5848,15 +5518,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari State Minister for Foreign Affairs bids farewell to Portuguese ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "6e0ca82571ac7fef",
     "title_original": "والي إسطنبول يجتمع مع القنصل العام لدولة قطر",
-    "content_original": "إسطنبول في 25 فبراير /قنا/ اجتمع سعادة السيد داوود غول والي مدينة إسطنبول بالجمهورية التركية الشقيقة مع سعادة الدكتور نايف بن جاسم العبد الجبار القنصل العام لدولة قطر في إسطنبول.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/والي-اسطنبول-يجتمع-مع-القنصل-العام-لدولة-قطر",
     "published": "2026-02-28T11:22:09.495351+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5864,15 +5531,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Governor of Istanbul meets with Qatari Consul General",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "3e77a0cea63defe7",
     "title_original": "وزير الشؤون الخارجية والتوظيف الخارجي والسياحة بسريلانكا يجتمع مع سفير دولة قطر",
-    "content_original": "كولومبو في 25 فبراير /قنا/ اجتمع سعادة السيد فيجيتا هيرات وزير الشؤون الخارجية والتوظيف الخارجي والسياحة بجمهورية سريلانكا الديمقراطية الاشتراكية مع سعادة السيد حمد بن محمد الدوسري سفير دولة قطر لدى سريلانكا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/وزير-الشوون-الخارجية-والتوظيف-الخارجي-والسياحة-بسريلانكا-يجتمع-مع-سفير-دولة-قطر",
     "published": "2026-02-28T11:22:09.495315+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5880,15 +5544,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Sri Lankan Foreign Minister meets Qatari Ambassador in Colombo",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "fb528cc19d0c8ff6",
     "title_original": "جامعة حمد بن خليفة تعقد الاجتماع الثاني للمجلس الاستشاري الصناعي والحكومي",
-    "content_original": "​الدوحة في 25 فبراير /قنا/ عقدت جامعة حمد بن خليفة، بالمدينة التعليمية، الاجتماع الثاني للمجلس الاستشاري الصناعي والحكومي (IGAB) التابع لكلية العلوم والهندسة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/جامعة-حمد-بن-خليفة-تعقد-الاجتماع-الثاني-للمجلس-الاستشاري-الصناعي-والحكومي",
     "published": "2026-02-28T11:22:09.495278+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5896,15 +5557,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Hamad Bin Khalifa University Holds Second Meeting of Industrial and Government Advisory Board",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "36006be95205ab69",
     "title_original": "وزير البيئة والتغير المناخي لـ\" قنا\": يوم البيئة القطري مناسبة وطنية لتقييم مسار العمل البيئي ومراجعة أولوياته",
-    "content_original": "الدوحة في 25 فبراير /قنا/ أكد سعادة الدكتور عبد الله بن عبد العزيز بن تركي السبيعي وزير البيئة والتغير المناخي أن يوم البيئة القطري، الذي يوافق 26 فبراير من كل عام.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/وزير-البيية-والتغير-المناخي-لـقنا-يوم-البيية-القطري-مناسبة-وطنية-لتقييم-مسار-العمل-البييي-ومراجعة-اولوياته",
     "published": "2026-02-28T11:22:09.495243+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5912,15 +5570,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Environment Day is a National Occasion for Reviewing Environmental Priorities",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "f6e1788cce8cdf17",
     "title_original": "دولة قطر تشارك في الاجتماع العربي لاعتماد خطة العمل الإقليمية لتطبيق القانون الدولي الإنساني 2026 – 2027",
-    "content_original": "القاهرة في 25 فبراير /قنا/ شاركت دولة قطر - ممثلة بوزارة العدل - في اجتماع اللجان الوطنية المعنية بالقانون الدولي الإنساني في الدول العربية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/دولة-قطر-تشارك-في-الاجتماع-العربي-لاعتماد-خطة-العمل-الاقليمية-لتطبيق-القانون-الدولي-الانساني-2026-2027",
     "published": "2026-02-28T11:22:09.495206+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5928,15 +5583,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar participates in Arab meeting to adopt regional plan for international humanitarian law 2026-2027",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "37b3422fd73fe810",
     "title_original": "دولة قطر تشارك في الجزء رفيع المستوى لمؤتمر نزع السلاح",
-    "content_original": "جنيف في 25 فبراير /قنا/ شاركت دولة قطر في \"الجزء رفيع المستوى\" لمؤتمر نزع السلاح المنعقد بجنيف.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/دولة-قطر-تشارك-في-الجزء-رفيع-المستوى-لموتمر-نزع-السلاح",
     "published": "2026-02-28T11:22:09.495171+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5944,15 +5596,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar participates in the high-level segment of the Geneva Disarmament Conference",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "28be47dbd3123c6f",
     "title_original": "سمو الأمير يقيم مأدبة إفطار لرؤساء البعثات الدبلوماسية",
-    "content_original": "الدوحة في 25 فبراير /قنا/ أقام حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، مأدبة إفطار بمناسبة شهر رمضان المبارك، لأصحاب السعادة رؤساء البعثات الدبلوماسية المعتمدين لدى الدولة، وأصحاب السعادة سفراء دولة قطر في الخارج وكبار المسؤولين بوزارة الخارجية، في قصر لوسيل العامر اليوم.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/سمو-الامير-يقيم-مادبة-افطار-لروساء-البعثات-الدبلوماسية",
     "published": "2026-02-28T11:22:09.495137+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5960,15 +5609,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir Hosts Iftar for Diplomatic Missions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "90dffee499bc5aa1",
     "title_original": "اللجنة الوطنية لحقوق الإنسان: الحوكمة الأخلاقية للذكاء الاصطناعي ضرورة ملحة",
-    "content_original": "الدوحة في 25 فبراير /قنا/ أكدت اللجنة الوطنية لحقوق الإنسان، أن الحوكمة الأخلاقية للذكاء الاصطناعي تمثل ضرورة ملحة لضمان حماية الفئات الأكثر ضعفا من مخاطر التمييز والإقصاء، مشيرة إلى أن العدالة الاجتماعية هي البوصلة التي توجه مسار التنمية المستدامة في العصر الرقمي، بما يضمن بقاء الإنسان في صدارة أولويات التحولات التقنية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/اللجنة-الوطنية-لحقوق-الانسان-الحوكمة-الاخلاقية-للذكاء-الاصطناعي-ضرورة-ملحة",
     "published": "2026-02-28T11:22:09.495096+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5976,15 +5622,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari National Human Rights Committee emphasizes urgent need for ethical AI governance",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "13df1828041a9bc7",
     "title_original": "الوفد الدائم لدولة قطر بجنيف يشارك في تنظيم حدث جانبي بعنوان \"الشباب والذكاء الاصطناعي: تشكيل مستقبل مبني على حقوق الإنسان\"",
-    "content_original": "جنيف في 25 فبراير /قنا/ نظم الوفد الدائم لدولة قطر لدى مكتب الأمم المتحدة بجنيف، اليوم، بالشراكة مع البعثة الدائمة لجمهورية طاجيكستان وبرعاية البعثة الدائمة لمجلس التعاون لدول الخليج العربية، حدثا جانبيا بعنوان \"الشباب والذكاء الاصطناعي: تشكيل مستقبل مبني على حقوق الإنسان\"، وذلك على هامش الدورة الحادية والستين لمجلس حقوق الإنسان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/الوفد-الدايم-لدولة-قطر-بجنيف-يشارك-في-تنظيم-حدث-جانبي-بعنوان-الشباب-والذكاء-الاصطناعي-تشكيل-مستقبل-مبني-على-حقوق-الانسان",
     "published": "2026-02-28T11:22:09.495054+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -5992,15 +5635,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari delegation in Geneva co-organizes event on youth and AI",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "7da89c1114415f03",
     "title_original": "سمو الأمير يهنئ رئيس وزراء هولندا",
-    "content_original": "الدوحة في 25 فبراير /قنا/ بعث حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، برقية تهنئة إلى دولة السيد روب جيتن، بمناسبة أدائه اليمين الدستورية رئيسا للوزراء في مملكة هولندا، متمنيا له التوفيق والسداد في أداء مهامه، وللعلاقات الثنائية بين البلدين المزيد من التقدم والنماء.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/سمو-الامير-يهني-رييس-وزراء-هولندا",
     "published": "2026-02-28T11:22:09.495010+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6008,15 +5648,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir congratulates Dutch Prime Minister on inauguration",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "5413b16a2b9d74a1",
     "title_original": "سمو نائب الأمير يهنئ رئيس وزراء هولندا",
-    "content_original": "الدوحة في 25 فبراير /قنا/ بعث سمو الشيخ عبدالله بن حمد آل ثاني نائب الأمير، برقية تهنئة إلى دولة السيد روب جيتن، بمناسبة أدائه اليمين الدستورية رئيسا للوزراء في مملكة هولندا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/سمو-نايب-الامير-يهني-رييس-وزراء-هولندا",
     "published": "2026-02-28T11:22:09.494955+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6024,15 +5661,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Deputy Emir Congratulates Dutch Prime Minister on Taking Office",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "ea3c0c9e50846016",
     "title_original": "رئيس مجلس الوزراء يهنئ نظيره الهولندي",
-    "content_original": "الدوحة في 25 فبراير /قنا/ بعث معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، برقية تهنئة إلى دولة السيد روب جيتن، بمناسبة أدائه اليمين الدستورية رئيسا للوزراء في مملكة هولندا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/رييس-مجلس-الوزراء-يهني-نظيره-الهولندي",
     "published": "2026-02-28T11:22:09.494918+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6040,15 +5674,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Prime Minister congratulates Dutch counterpart on inauguration",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "a14ea7f6108286f4",
     "title_original": "وفد من صندوق قطر للتنمية يزور مشروعي وحدات سكنية في جمهورية سيشل",
-    "content_original": "الدوحة في 25 فبراير /قنا/ زار وفد من صندوق قطر للتنمية جمهورية سيشل للاطلاع على التقدم المحرز والأثر المجتمعي لمشروع الوحدات السكنية في منطقة غلاسيس، والذي يعد أحد أبرز مشاريع الإسكان الاجتماعي في البلاد.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/وفد-من-صندوق-قطر-للتنمية-يزور-مشروعي-وحدات-سكنية-في-جمهورية-سيشل",
     "published": "2026-02-28T11:22:09.494880+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6056,15 +5687,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Development Fund delegation visits housing projects in Seychelles",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "15cd65b90969be21",
     "title_original": "وزارة الأوقاف تعلن اكتمال الجاهزية التشغيلية لاستقبال زكوات الأفراد والشركات خلال شهر رمضان المبارك",
-    "content_original": "الدوحة في 25 فبراير /قنا/ أعلنت إدارة شؤون الزكاة بوزارة الأوقاف والشؤون الإسلامية اكتمال جاهزيتها التشغيلية والفنية لاستقبال زكوات الأفراد والشركات، عبر منظومة تحصيل متكاملة تجمع بين القنوات الرقمية الحديثة ونقاط التحصيل الميدانية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/وزارة-الاوقاف-تعلن-اكتمال-الجاهزية-التشغيلية-لاستقبال-زكوات-الافراد-والشركات-خلال-شهر-رمضان-المبارك",
     "published": "2026-02-28T11:22:09.494842+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6072,15 +5700,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar Ministry of Endowments announces readiness for Ramadan zakat collection",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "c41aa23d3ff00c3b",
     "title_original": "وزير العمل يجتمع مع السفير الرواندي",
-    "content_original": "الدوحة في 25 فبراير /قنا/ اجتمع سعادة الدكتور علي بن صميخ المري وزير العمل، اليوم، مع سعادة السيد إيغور مرارا سفير جمهورية رواندا لدى الدولة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/25/وزير-العمل-يجتمع-مع-السفير-الرواندي",
     "published": "2026-02-28T11:22:09.494803+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6088,15 +5713,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Minister of Labor Meets Rwandan Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "a1bd61fa56666462",
     "title_original": "وزارة الرياضة والشباب تحصل على شهادة الامتثال لمعيار تأمين المعلومات الوطنية",
-    "content_original": "الدوحة في 25 فبراير /قنا/ حصلت وزارة الرياضة والشباب على شهادة الامتثال لمعيار تأمين المعلومات الوطنية (NIA v2.1) الصادرة عن الوكالة الوطنية للأمن السيبراني، وذلك عقب استكمال أعمال التقييم والتدقيق الخارجي المعتمد وفق الأطر الوطنية المنظمة لأمن المعلومات.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/وزارة-الرياضة-والشباب-تحصل-على-شهادة-الامتثال-لمعيار-تامين-المعلومات-الوطنية",
     "published": "2026-02-28T11:22:09.494767+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6104,15 +5726,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Ministry of Sports and Youth Receives National Information Security Compliance Certificate",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "7cfcc30056db7b66",
     "title_original": "سمو الأمير يؤكد على أهمية حماية الموارد الطبيعية والتنوع البيولوجي في دولة قطر",
-    "content_original": "الدوحة في 26 فبراير /قنا/ أكد حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، على أهمية حماية الموارد الطبيعة وصون التنوع البيولوجي في دولة قطر، بما يحقق التوازن بين خططها التنموية والاستدامة المنشودة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/سمو-الامير-يوكد-على-اهمية-حماية-الموارد-الطبيعة-والتنوع-البيولوجي-في-دولة-قطر",
     "published": "2026-02-28T11:22:09.494729+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6120,15 +5739,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir emphasizes the importance of protecting natural resources and biodiversity",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "808077c924c72314",
     "title_original": "قطر تدين هجمات في إقليمي خيبر بختونخو والبنجاب بباكستان",
-    "content_original": "الدوحة في 26 فبراير /قنا/ أعربت دولة قطر عن إدانتها واستنكارها للهجمات التي وقعت في إقليمي \"خيبر بختونخو\" و\"البنجاب\" في جمهورية باكستان الإسلامية، وأدت إلى سقوط قتلى ومصابين.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/قطر-تدين-هجمات-في-اقليمي-خيبر-بختونخو-والبنجاب-بباكستان",
     "published": "2026-02-28T11:22:09.494691+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6136,15 +5752,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar Condemns Attacks in Pakistan's Khyber Pakhtunkhwa and Punjab Regions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "b15133cef2f0c20c",
     "title_original": "خمسة محامين جدد يؤدون اليمين القانونية أمام لجنة قبول المحامين",
-    "content_original": "الدوحة في 26 فبراير 2026 /قنا/ عقدت لجنة قبول المحامين اجتماعها برئاسة سعادة السيد إبراهيم بن علي المهندي وزير العدل ووزير الدولة لشؤون مجلس الوزراء، حيث أدى خمسة محامين جدد اليمين القانونية أمامها عقب استكمالهم فترة التدريب المقررة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/خمسة-محامين-جدد-يودون-اليمين-القانونية-امام-لجنة-قبول-المحامين",
     "published": "2026-02-28T11:22:09.494656+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6152,15 +5765,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Five new lawyers sworn in by Qatar's Legal Admission Committee",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "65ec997e5cc1b9ca",
     "title_original": "رئيس مجلس النواب اللبناني يجتمع مع سفير دولة قطر",
-    "content_original": "بيروت في 26 فبراير /قنا/ اجتمع سعادة السيد نبيه بري رئيس مجلس النواب في الجمهورية اللبنانية الشقيقة، اليوم، مع سعادة الشيخ سعود بن عبدالرحمن آل ثاني سفير دولة قطر لدى لبنان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/رييس-مجلس-النواب-اللبناني-يجتمع-مع-سفير-دولة-قطر",
     "published": "2026-02-28T11:22:09.494618+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6168,15 +5778,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Lebanese Parliament Speaker Meets with Qatari Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "8989ec9f9b8e6d49",
     "title_original": "وزير البيئة والتغير المناخي يجتمع مع سفير منغوليا",
-    "content_original": "الدوحة في 26 فبراير /قنا/ اجتمع سعادة الدكتور عبدالله بن عبدالعزيز بن تركي السبيعي وزير البيئة والتغير المناخي، مع سعادة السيد سيرغيلين بوريف سفير جمهورية منغوليا غير المقيم لدى الدولة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/وزير-البيية-والتغير-المناخي-يجتمع-مع-سفير-منغوليا",
     "published": "2026-02-28T11:22:09.494582+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6184,15 +5791,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Minister of Environment and Climate Change meets with Mongolian Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "680ab11b4a78814e",
     "title_original": "دولة قطر تجدد التزامها بدورها كشريك دولي فاعل",
-    "content_original": "جنيف في 26 فبراير /قنا/ جددت دولة قطر التزامها بدورها كشريك دولي فاعل، ومواصلة جهودها التي أسهمت من خلال الوساطة واستضافتها برعاية الأمم المتحدة لاجتماعات المبعوثين الخاصين بشأن أفغانستان ومجموعات العمل المعنية بالمجالات ذات الأولوية، في تعزيز التوافق الدولي حول العديد من القضايا المهمة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/دولة-قطر-تجدد-التزامها-بدورها-كشريك-دولي-فاعل",
     "published": "2026-02-28T11:22:09.494547+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6200,15 +5804,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar reaffirms its role as an active international partner",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "3b5a033a8f67d425",
     "title_original": "دولة قطر تجدد موقفها الثابت والداعم لوحدة السودان وسلامة أراضيه",
-    "content_original": "جنيف في 26 فبراير /قنا/ جددت دولة قطر موقفها الثابت والداعم لوحدة السودان وسلامة أراضيه، وحق شعبه الشقيق في العيش الكريم بأمن واستقرار، ورفض أي شكل من أشكال التدخل في شؤونه الداخلية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/دولة-قطر-تجدد-موقفها-الثابت-والداعم-لوحدة-السودان-وسلامة-اراضيه",
     "published": "2026-02-28T11:22:09.494507+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6216,15 +5817,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar reaffirms support for Sudan's unity and territorial integrity",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "d53f38130a4a769c",
     "title_original": "سمو الأمير يعزي أمير الكويت",
-    "content_original": "الدوحة في 26 فبراير /قنا/ بعث حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، برقية تعزية إلى أخيه صاحب السمو الشيخ مشعل الأحمد الجابر الصباح أمير دولة الكويت الشقيقة، في وفاة الشيخ سلمان حمود السلمان الحمود الصباح.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/26/سمو-الامير-يعزي-امير-الكويت",
     "published": "2026-02-28T11:22:09.494470+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6232,9 +5830,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir Offers Condolences to Kuwaiti Emir",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6256,7 +5852,6 @@
   {
     "id": "8a688a0b0b018a46",
     "title_original": "قطر تشارك في الاجتماع الاستثنائي للجنة التنفيذية لمنظمة التعاون الإسلامي مفتوحة العضوية على مستوى وزراء الخارجية",
-    "content_original": "جدة في 26 فبراير /قنا/ شاركت دولة قطر في الاجتماع الاستثنائي للجنة التنفيذية لمنظمة التعاون الإسلامي مفتوحة العضوية على مستوى وزراء الخارجية، المنعقد في مقر الأمانة العامة للمنظمة بمدينة جدة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/قطر-تشارك-في-الاجتماع-الاستثنايي-للجنة-التنفيذية-لمنظمة-التعاون-الاسلامي-مفتوحة-العضوية-على-مستوى-وزراء-الخارجية",
     "published": "2026-02-28T11:22:09.494392+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6264,9 +5859,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatar participates in OIC extraordinary meeting of Foreign Ministers",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6288,7 +5881,6 @@
   {
     "id": "73f74523eb3d5735",
     "title_original": "سمو الأمير يهنئ رئيس الدومينيكان",
-    "content_original": "الدوحة في 27 فبراير /قنا/ بعث حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، برقية تهنئة إلى فخامة الرئيس لويس رودولفو أبي نادر رئيس جمهورية الدومينيكان، بمناسبة ذكرى استقلال بلاده.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/سمو-الامير-يهني-رييس-الدومينيكان",
     "published": "2026-02-28T11:22:09.494313+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6296,15 +5888,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir congratulates Dominican Republic President on Independence Day",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "a8edea57496e9073",
     "title_original": "سمو نائب الأمير يهنئ رئيس الدومينيكان",
-    "content_original": "الدوحة في 27 فبراير /قنا/ بعث سمو الشيخ عبدالله بن حمد آل ثاني نائب الأمير، برقية تهنئة إلى فخامة الرئيس لويس رودولفو أبي نادر رئيس جمهورية الدومينيكان، بمناسبة ذكرى استقلال بلاده.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/سمو-نايب-الامير-يهني-رييس-الدومينيكان",
     "published": "2026-02-28T11:22:09.494276+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6312,15 +5901,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Deputy Emir Congratulates Dominican Republic President on Independence Day",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "86b1e3acd66e91ae",
     "title_original": "رئيس مجلس الوزراء يهنئ رئيس الدومينيكان",
-    "content_original": "الدوحة في 27 فبراير /قنا/ بعث معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني رئيس مجلس الوزراء وزير الخارجية، برقية تهنئة إلى فخامة الرئيس لويس رودولفو أبي نادر رئيس جمهورية الدومينيكان، بمناسبة ذكرى استقلال بلاده.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/رييس-مجلس-الوزراء-يهني-رييس-الدومينيكان",
     "published": "2026-02-28T11:22:09.494240+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6328,15 +5914,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM congratulates Dominican Republic President on Independence Day",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "c4a1eb1bb03d6404",
     "title_original": "وزير الدولة بوزارة الخارجية يجري اتصالا هاتفيا مع نائب رئيس الوزراء وزير الخارجية الباكستاني",
-    "content_original": "الدوحة في 27 فبراير /قنا/ أجرى سعادة الدكتور محمد بن عبدالعزيز بن صالح الخليفي، وزير الدولة بوزارة الخارجية، اليوم، اتصالا هاتفيا مع، سعادة السيد محمد إسحاق دار، نائب رئيس الوزراء وزير الخارجية بجمهورية باكستان الإسلامية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-الدولة-بوزارة-الخارجية-يجري-اتصالا-هاتفيا-مع-نايب-رييس-الوزراء-وزير-الخارجية-الباكستاني",
     "published": "2026-02-28T11:22:09.494202+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6344,15 +5927,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari State Minister for Foreign Affairs speaks with Pakistani Deputy PM and Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "80d8191d3fdde428",
     "title_original": "وزير الدولة بوزارة الخارجية يتلقى اتصالا هاتفيا من وزير الخارجية في حكومة تصريف الأعمال في أفغانستان",
-    "content_original": "الدوحة في 27 فبراير /قنا/ تلقى سعادة الدكتور محمد بن عبدالعزيز بن صالح الخليفي، وزير الدولة بوزارة الخارجية، اليوم اتصالا هاتفيا، من سعادة السيد مولوي أمير خان متقي، وزير الخارجية في حكومة تصريف الأعمال في أفغانستان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-الدولة-بوزارة-الخارجية-يتلقى-اتصالا-هاتفيا-من-وزير-الخارجية-في-حكومة-تصريف-الاعمال-في-افغانستان",
     "published": "2026-02-28T11:22:09.494164+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6360,15 +5940,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari State Minister for Foreign Affairs receives phone call from Afghan Acting Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "02bbb3dc8029cac9",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالا هاتفيا من وزير الخارجية التركي",
-    "content_original": "الدوحة في 27 فبراير /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني، رئيس مجلس الوزراء وزير الخارجية، اتصالا هاتفيا، من سعادة السيد هاكان فيدان، وزير خارجية الجمهورية التركية.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالا-هاتفيا-من-وزير-الخارجية-التركي",
     "published": "2026-02-28T11:22:09.494127+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6376,15 +5953,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Prime Minister and Foreign Minister receives phone call from Turkish Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "40d8b09de1055b87",
     "title_original": "وزير الدولة للشؤون الخارجية يجتمع مع نائب وزير الخارجية السعودي",
-    "content_original": "جدة في 27 فبراير /قنا/ اجتمع سعادة السيد سلطان بن سعد المريخي، وزير الدولة للشؤون الخارجية، مع سعادة المهندس وليد بن عبد الكريم الخريجي، نائب وزير الخارجية بالمملكة العربية السعودية الشقيقة، على هامش الاجتماع الاستثنائي للجنة التنفيذية لمنظمة التعاون الإسلامي مفتوحة العضوية على مستوى وزراء الخارجية، الذي عقد في جدة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/وزير-الدولة-للشوون-الخارجية-يجتمع-مع-نايب-وزير-الخارجية-السعودي",
     "published": "2026-02-28T11:22:09.494090+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6392,15 +5966,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari and Saudi Arabian Foreign Ministry Officials Meet in Jeddah",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "089423ebcfb456ef",
     "title_original": "رئيس مجلس الوزراء اللبناني يجتمع مع سفير دولة قطر",
-    "content_original": "بيروت في 27 فبراير /قنا/ اجتمع دولة الدكتور نواف سلام، رئيس مجلس الوزراء في الجمهورية اللبنانية الشقيقة، اليوم، مع سعادة الشيخ سعود بن عبد الرحمن آل ثاني سفير دولة قطر لدى لبنان.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/رييس-مجلس-الوزراء-اللبناني-يجتمع-مع-سفير-دولة-قطر",
     "published": "2026-02-28T11:22:09.494047+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6408,15 +5979,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Lebanese Prime Minister Meets Qatari Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "a324eaa509ab0d4b",
     "title_original": "سمو الأمير يعزي أمير الكويت",
-    "content_original": "الدوحة في 27 فبراير /قنا/ بعث حضرة صاحب السمو الشيخ تميم بن حمد آل ثاني أمير البلاد المفدى، برقية تعزية إلى أخيه صاحب السمو الشيخ مشعل الأحمد الجابر الصباح أمير دولة الكويت الشقيقة، في وفاة سبيكة دعيج السلمان أرملة المرحوم الشيخ جابر العلي السالم الصباح.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/27/سمو-الامير-يعزي-امير-الكويت",
     "published": "2026-02-28T11:22:09.494009+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6424,9 +5992,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari Emir Sends Condolences to Kuwaiti Emir",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6448,7 +6014,6 @@
   {
     "id": "401e93623bf165fc",
     "title_original": "رئيس مجلس الوزراء وزير الخارجية يتلقى اتصالا هاتفيا من وزير الخارجية العماني",
-    "content_original": "الدوحة في 28 فبراير /قنا/ تلقى معالي الشيخ محمد بن عبدالرحمن بن جاسم آل ثاني،رئيس مجلس الوزراء وزير الخارجية، اتصالا هاتفيا، من سعادة السيد بدر بن حمد بن حمود البوسعيدي، وزير الخارجية في سلطنة عمان الشقيقة.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/رييس-مجلس-الوزراء-وزير-الخارجية-يتلقى-اتصالا-هاتفيا-من-وزير-الخارجية-العماني",
     "published": "2026-02-28T11:22:09.493932+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6456,15 +6021,12 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Qatari PM and Foreign Minister receives phone call from Omani Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "8e66af8b15276e46",
     "title_original": "رئيس جمهورية أوغندا يتسلم أوراق اعتماد سفير دولة قطر",
-    "content_original": "كامبالا في 28 فبراير /قنا/ تسلم فخامة الرئيس يوري موسيفيني رئيس جمهورية أوغندا، أوراق اعتماد سعادة السيد أحمد بن محمد عبدالرحمن الزويدي سفيرا فوق العادة مفوضا لدولة قطر لدى أوغندا.",
     "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/رييس-جمهورية-اوغندا-يتسلم-اوراق-اعتماد-سفير-دولة-قطر",
     "published": "2026-02-28T11:22:09.493894+00:00",
     "source_name": "QNA Qatar (Arabic)",
@@ -6472,9 +6034,7 @@
     "language": "ar",
     "region": "gulf",
     "skip_translation": false,
-    "title_en": "Ugandan President Receives Credentials of Qatari Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6640,7 +6200,6 @@
   {
     "id": "694ce9143910bf42",
     "title_original": "President of Uganda Receives Credentials of Qatar's Ambassador",
-    "content_original": "Kampala, February 28 (QNA) - HE President of the Republic of Uganda Yoweri Museveni received the credentials of HE Ahmed bin Mohammed Abdulrahman Al Zwaidi as Ambassador Extraordinary and Plenipotentiary of the State of Qatar to Uganda.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/president-of-uganda-receives-credentials-of-qatars-ambassador",
     "published": "2026-02-28T09:16:44+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6648,15 +6207,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Ugandan President Receives Qatar's New Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "57cdd0991f59956a",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Call from Omani Foreign Minister",
-    "content_original": "Doha, February 28 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received a phone call from HE Minister of Foreign Affairs of the Sultanate of Oman Sayyid Badr bin Hamad bin Hamood Al Busaidi.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/prime-minister-and-minister-of-foreign-affairs-receives-phone-call-from-omani-foreign-minister",
     "published": "2026-02-28T08:54:56+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6664,9 +6220,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives phone call from Omani Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6688,7 +6242,6 @@
   {
     "id": "9ed576560584b583",
     "title_original": "Two Killed, 40 Injured in Tram Derailment in Milan, Italy",
-    "content_original": "Rome, February 27 (QNA) - Two people were killed and 40 others injured when a tram derailed in the center of Milan, Italy.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/28/two-killed-40-injured-in-tram-derailment-in-milan-italy",
     "published": "2026-02-28T00:01:24+00:00",
     "source_name": "QNA General (English)",
@@ -6696,9 +6249,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Two Killed, 40 Injured in Tram Derailment in Milan, Italy",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6720,7 +6271,6 @@
   {
     "id": "82d616f09b59fdb6",
     "title_original": "Egyptian Foreign Minister, Senior US Presidential Advisor Discuss Developments in Sudan",
-    "content_original": "Cairo, February 27 (QNA) - Egyptian Foreign Minister Badr Abdelaaty discussed with Senior Advisor to the US President for Arab and African Affairs Massad Boulos the latest developments in Sudan and ways to support efforts to restore stability in the country during a phone call on Friday.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/egyptian-foreign-minister-senior-us-presidential-advisor-discuss-developments-in-sudan",
     "published": "2026-02-27T23:11:30+00:00",
     "source_name": "QNA General (English)",
@@ -6728,15 +6278,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Egyptian FM and US Advisor Discuss Sudan Developments",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "9f802aa41f57627c",
     "title_original": "UN Secretary-General Calls for Immediate Cessation of Hostilities Between Pakistan and Afghanistan",
-    "content_original": "New York, February 27 (QNA) - UN Secretary-General António Guterres called on Friday for an immediate cessation of hostilities between Afghanistan and Pakistan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/un-secretary-general-calls-for-immediate-cessation-of-hostilities-between-pakistan-and-afghanistan",
     "published": "2026-02-27T22:49:32+00:00",
     "source_name": "QNA General (English)",
@@ -6744,9 +6291,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "UN Chief Calls for Immediate Ceasefire Between Pakistan and Afghanistan",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6784,7 +6329,6 @@
   {
     "id": "b830a4f5f79c74c0",
     "title_original": "HH the Amir Sends Condolences to Amir of Kuwait",
-    "content_original": "Doha, February 27 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani sent a cable of condolences to HH Amir of the sisterly State of Kuwait Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah, on the passing of Sabika Duaij Al-Salman, the widow of the late Sheikh Jaber Al-Ali Al-Salem Al-Sabah.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/hh-the-amir-sends-condolences-to-amir-of-kuwait",
     "published": "2026-02-27T20:41:51+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6792,15 +6336,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Amir Sends Condolences to Kuwaiti Amir",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "6ada017512f5e98f",
     "title_original": "Lebanese Prime Minister Meets Qatari Ambassador",
-    "content_original": "Beirut, February 27 (QNA) - HE Prime Minister of the Republic of Lebanon, Dr. Nawaf Salam, met Friday with HE Ambassador of the State of Qatar to Lebanon Sheikh Saud bin Abdulrahman Al-Thani.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/lebanese-prime-minister-meets-qatari-ambassador",
     "published": "2026-02-27T19:25:14+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6808,15 +6349,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Lebanese Prime Minister Meets Qatari Ambassador",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "3c97b49309219afd",
     "title_original": "Egyptian Foreign Minister Discusses Regional Developments with Greek Counterpart",
-    "content_original": "Cairo, February 27 (QNA) - Egypt's Minister of Foreign Affairs, Badr Abdelatty, held a phone call on Friday with his Greek counterpart, Giorgos Gerapetritis, to discuss the latest regional developments as well as ways to strengthen bilateral relations.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/egyptian-foreign-minister-discusses-regional-developments-with-greek-counterpart",
     "published": "2026-02-27T19:21:47+00:00",
     "source_name": "QNA General (English)",
@@ -6824,15 +6362,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Egyptian Foreign Minister Discusses Regional Developments with Greek Counterpart",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "4a55ef4aa383304b",
     "title_original": "Lebanese Foreign Minister Underscores Importance of Success for Paris Conference",
-    "content_original": "Beirut, February 27 (QNA) - Lebanese Foreign Minister Youssef Rajji emphasized the importance of a successful Paris conference aimed at strengthening Lebanon's security institutions and enhancing their capacity to maintain national stability.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/lebanese-foreign-minister-underscores-importance-of-success-for-paris-conference",
     "published": "2026-02-27T17:57:53+00:00",
     "source_name": "QNA General (English)",
@@ -6840,15 +6375,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Lebanese FM Emphasizes Importance of Paris Conference for Security Institutions",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "a88b2c2da17789dc",
     "title_original": "Egyptian, Pakistani Foreign Ministers Discuss De-escalation with Afghanistan",
-    "content_original": "Cairo, February 27 (QNA) -Egypt's Minister of Foreign Affairs, Badr Abdelatty, held a telephone conversation with Deputy Prime Minister and Minister of Foreign Affairs of Pakistan, Mohammad Ishaq Dar, to discuss the latest developments regarding border clashes between Pakistan and Afghanistan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/egyptian-pakistani-foreign-ministers-discuss-de-escalation-with-afghanistan",
     "published": "2026-02-27T17:56:18+00:00",
     "source_name": "QNA General (English)",
@@ -6856,15 +6388,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Egyptian, Pakistani Foreign Ministers Discuss De-escalation with Afghanistan",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "b16f9c4ecad3c440",
     "title_original": "Egypt, Saudi FMs Discuss Regional Issues, Bilateral Ties",
-    "content_original": "Cairo, February 27 (QNA) - Egyptian Minister of Foreign Affairs Badr Abdelatty discussed regional developments and ways to strengthen bilateral relations during a phone call with his Saudi counterpart, Prince Faisal bin Farhan Al Saud.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/egypt-saudi-fms-discuss-regional-issues-bilateral-ties",
     "published": "2026-02-27T16:07:33+00:00",
     "source_name": "QNA General (English)",
@@ -6872,15 +6401,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Egyptian and Saudi Foreign Ministers Discuss Regional Issues and Bilateral Ties",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "cd13dea9361fafa8",
     "title_original": "Afghanistan Signals Readiness for Talks with Pakistan Amid Escalation",
-    "content_original": "Kabul, February 27 (QNA) - The Afghan government has affirmed its readiness to engage in dialogue with Pakistan to resolve the ongoing conflict between the two countries, amid escalating tensions and cross-border clashes.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/afghanistan-signals-readiness-for-talks-with-pakistan-amid-escalation",
     "published": "2026-02-27T15:40:12+00:00",
     "source_name": "QNA General (English)",
@@ -6888,15 +6414,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Afghanistan Signals Readiness for Talks with Pakistan Amid Escalation",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "b48fa00f1971e072",
     "title_original": "Minister of State for Foreign Affairs Meets Saudi Deputy Foreign Minister",
-    "content_original": "Jeddah, February 27 (QNA) - HE Minister of State for Foreign Affairs Sultan bin Saad Al Muraikhi met with HE Deputy Minister of Foreign Affairs of the sisterly Kingdom of Saudi Arabia Eng. Walid bin Abdul Karim Al Khuraiji, on the sidelines of the extraordinary open-ended meeting of the Executive Committee of the Organization of Islamic Cooperation (OIC) at the level of foreign ministers, held in Jeddah.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/minister-of-state-for-foreign-affairs-meets-saudi-deputy-foreign-minister",
     "published": "2026-02-27T15:25:10+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6904,15 +6427,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Minister of State for Foreign Affairs Meets Saudi Deputy Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "2daf59938005989f",
     "title_original": "Minister of State at Ministry of Foreign Affairs Receives Phone Call from Afghanistan's Acting Foreign Minister",
-    "content_original": "Doha, February 27 (QNA) - HE Minister of State at the Ministry of Foreign Affairs Dr. Mohammed bin Abdulaziz bin Saleh Al Khulaifi received Friday a phone call from HE Acting Minister of Foreign Affairs in the Caretaker Government of Afghanistan Mawlawi Amir Khan Muttaqi.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/minister-of-state-at-ministry-of-foreign-affairs-receives-phone-call-from-afghanistans-acting-foreign-minister",
     "published": "2026-02-27T15:22:38+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6920,15 +6440,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari and Afghan Foreign Ministers Hold Phone Call",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "34b84a51088606c6",
     "title_original": "Prime Minister and Minister of Foreign Affairs Receives Phone Call from Turkish Foreign Minister",
-    "content_original": "Doha, February 27 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani received a phone call from HE Minister of Foreign Affairs of the Republic of Turkiye Hakan Fidan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/prime-minister-and-minister-of-foreign-affairs-receives-phone-call-from-turkish-foreign-minister",
     "published": "2026-02-27T15:10:03+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6936,9 +6453,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari PM receives phone call from Turkish Foreign Minister",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6960,7 +6475,6 @@
   {
     "id": "d938f0e08f0844dc",
     "title_original": "Minister of State at Ministry of Foreign Affairs Holds Phone Call with Pakistan's Deputy Prime Minister and Foreign Minister",
-    "content_original": "Doha, February 27 (QNA) - HE Minister of State at the Ministry of Foreign Affairs Dr. Mohammed bin Abdulaziz bin Saleh Al Khulaifi held a phone call on Friday with HE Deputy Prime Minister and Minister of Foreign Affairs of the Islamic Republic of Pakistan Mohammad Ishaq Dar.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/minister-of-state-at-ministry-of-foreign-affairs-holds-phone-call-with-pakistans-deputy-prime-minister-and-foreign-minister",
     "published": "2026-02-27T14:24:53+00:00",
     "source_name": "QNA Qatar (English)",
@@ -6968,9 +6482,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari and Pakistani Foreign Ministers Hold Phone Call",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -6992,7 +6504,6 @@
   {
     "id": "47a07e78988cf63c",
     "title_original": "UN Warns of Worsening Cuba Energy Crisis",
-    "content_original": "New York, February 27 (QNA) - The United Nations warned that restrictions on oil supplies to Cuba are deepening the country's humanitarian crisis.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/un-warns-of-worsening-cuba-energy-crisis",
     "published": "2026-02-27T13:20:37+00:00",
     "source_name": "QNA General (English)",
@@ -7000,9 +6511,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "UN Warns of Worsening Cuba Energy Crisis",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -7024,7 +6533,6 @@
   {
     "id": "b9e8e5260b962a35",
     "title_original": "Prime Minister Sends Congratulations to President of the Dominican Republic",
-    "content_original": "Doha, February 27 (QNA) - HE Prime Minister and Minister of Foreign Affairs Sheikh Mohammed bin Abdulrahman bin Jassim Al-Thani sent a cable of congratulations to HE President of the Dominican Republic Luis Rodolfo Abinader",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/prime-minister-sends-congratulations-to-president-of-the-dominican-republic",
     "published": "2026-02-27T10:24:28+00:00",
     "source_name": "QNA Qatar (English)",
@@ -7032,15 +6540,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Prime Minister Congratulates Dominican Republic President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "85e1bd0c861cd052",
     "title_original": "HH the Deputy Amir Sends Congratulations to President of the Dominican Republic",
-    "content_original": "Doha, February 27 (QNA) - HH the Deputy Amir Sheikh Abdullah bin Hamad Al-Thani sent a cable of congratulations to HE President of the Dominican Republic Luis Rodolfo Abinader",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/hh-the-deputy-amir-sends-congratulations-to-president-of-the-dominican-republic",
     "published": "2026-02-27T10:24:22+00:00",
     "source_name": "QNA Qatar (English)",
@@ -7048,15 +6553,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Deputy Amir of Qatar Sends Congratulations to Dominican Republic President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "d5e2ca33d950bfa2",
     "title_original": "HH the Amir Sends Congratulations to President of the Dominican Republic",
-    "content_original": "Doha, February 27 (QNA) - HH the Amir Sheikh Tamim bin Hamad Al-Thani sent a cable of congratulations to HE President of the Dominican Republic Luis Rodolfo Abinader",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/hh-the-amir-sends-congratulations-to-president-of-the-dominican-republic",
     "published": "2026-02-27T10:24:09+00:00",
     "source_name": "QNA Qatar (English)",
@@ -7064,15 +6566,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatari Amir Sends Congratulations to Dominican Republic President",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "fe5204f58ee8ae15",
     "title_original": "Foreign Minister of Saudi Arabia Discusses Regional Developments with Turkish, Omani, Egyptian Counterparts",
-    "content_original": "Riyadh, February 27 (QNA) - Foreign Minister of the Kingdom of Saudi Arabia Prince Faisal bin Farhan bin Abdullah Al-Saud held phone calls with his counterparts in Turkiye, Egypt, and the Sultanate of Oman to discuss the latest regional developments.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/foreign-minister-of-saudi-arabia-discusses-regional-developments-with-turkish-omani-egyptian-counterparts",
     "published": "2026-02-27T09:23:35+00:00",
     "source_name": "QNA General (English)",
@@ -7080,15 +6579,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Saudi Arabian Foreign Minister Discusses Regional Developments with Turkish, Omani, Egyptian Counterparts",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "9682d65c6ab90e82",
     "title_original": "Earthquake of 4.7 Magnitude Hits Southern Turkiye",
-    "content_original": "Istanbul, February 26 (QNA) - A 4.7-magnitude earthquake struck southern Turkiye on Thursday, centered in Albistan, Kahramanmarash province, at 20:17 local time, with no immediate reports of casualties or damage.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/earthquake-of-47-magnitude-hits-southern-turkiye",
     "published": "2026-02-27T01:07:30+00:00",
     "source_name": "QNA General (English)",
@@ -7096,15 +6592,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "4.7 Magnitude Earthquake Hits Southern Turkiye",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "6dd905781ac8f5fe",
     "title_original": "Pakistani Army Kills 10 Militants in Security Operation",
-    "content_original": "Islamabad, February 26 (QNA) - The Pakistani army announced Thursday that it had killed 10 militants during a security operation in southwestern Pakistan.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/pakistani-army-kills-10-militants-in-security-operation",
     "published": "2026-02-27T01:06:37+00:00",
     "source_name": "QNA General (English)",
@@ -7112,15 +6605,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Pakistani Army Kills 10 Militants in Security Operation",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "a95a5e3ae15d87f5",
     "title_original": "Lebanon's PM Says Recovery and Stabilization Efforts Underway",
-    "content_original": "Beirut, February 26 (QNA) - Lebanese Prime Minister Nawaf Salam said his government has successfully slowed the country's economic collapse and set Lebanon on a new path following one year in office.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/lebanons-pm-says-recovery-and-stabilization-efforts-underway",
     "published": "2026-02-27T01:06:03+00:00",
     "source_name": "QNA General (English)",
@@ -7128,15 +6618,12 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Lebanon's PM Says Recovery and Stabilization Efforts Underway",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
     "id": "317f8f7238776081",
     "title_original": "Qatar Calls for Accountability over Human Rights Violations in Occupied Palestinian Territories",
-    "content_original": "Geneva, February 27 (QNA) - The State of Qatar has called for an end to the protection and support provided to Israel, urging the international community to take all necessary measures to ensure accountability for crimes and human rights violations against the Palestinian people.",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/27/qatar-calls-for-accountability-over-human-rights-violations-in-occupied-palestinian-territories",
     "published": "2026-02-27T01:05:09+00:00",
     "source_name": "QNA Qatar (English)",
@@ -7144,9 +6631,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Qatar Calls for Accountability over Human Rights Violations in Occupied Palestinian Territories",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
@@ -7232,7 +6717,6 @@
   {
     "id": "b2ed858ec585d69f",
     "title_original": "Ministry of Municipality Launches Initiative for Cleaning Workers at MIA",
-    "content_original": "Doha, February 26 (QNA) – The Ministry of Municipality, represented by the Public Cleanliness Department, in cooperation with the Ministry of Endowments (Awqaf) and Islamic Affairs, organized on Thursday a community initiative for cleaning workers at the Museum of Islamic Art (MIA).",
     "url": "https://qna.org.qa/en/News-Area/News/2026-2/26/ministry-of-municipality-launches-initiative-for-cleaning-workers-at-mia",
     "published": "2026-02-26T23:23:22+00:00",
     "source_name": "QNA Qatar (English)",
@@ -7240,9 +6724,7 @@
     "language": "en",
     "region": "gulf",
     "skip_translation": true,
-    "title_en": "Ministry of Municipality Launches Initiative for Cleaning Workers at MIA",
     "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {

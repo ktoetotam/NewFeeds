@@ -1,5 +1,39 @@
 [
   {
+    "id": "aea3dadb84125249",
+    "title_original": "2 ships hit in Strait of Hormuz amid Iran-US-Israel tensions",
+    "content_original": "Two ships were struck by projectiles in the Strait of Hormuz on Sunday, maritime security agencies said, as regional tensions escalated following Iran’s continued strikes in respon...",
+    "url": "https://www.dailysabah.com/world/mid-east/2-ships-hit-in-strait-of-hormuz-amid-iran-us-israel-tensions",
+    "published": "2026-03-01T18:06:00+03:00",
+    "fetched_at": "2026-03-01T15:12:04.398974+00:00",
+    "source_name": "Daily Sabah World",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "turkey",
+    "skip_translation": true,
+    "title_en": "Two ships hit in Strait of Hormuz amid Iran-US-Israel tensions",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Two ships were struck by projectiles in the Strait of Hormuz, a critical maritime chokepoint, amidst escalating tensions between Iran, the US, and Israel. The incident highlights the vulnerability of commercial shipping in the region and the potential for further escalation as Iran continues its retaliatory strikes against US and Israeli interests."
+  },
+  {
+    "id": "a6bd8d631cc09996",
+    "title_original": "Pentagon reports 1st US casualties as 3 troops dead in Iran ops",
+    "content_original": "Three members of the US military have been 'killed in action' and five 'seriously wounded' in the operation against Iran, the Pentagon said Sunday, without providing further detail...",
+    "url": "https://www.dailysabah.com/world/mid-east/pentagon-reports-1st-us-casualties-as-3-troops-dead-in-iran-ops",
+    "published": "2026-03-01T18:00:00+03:00",
+    "fetched_at": "2026-03-01T15:12:04.399198+00:00",
+    "source_name": "Daily Sabah World",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "turkey",
+    "skip_translation": true,
+    "title_en": "First US casualties reported as 3 troops killed in Iran operations",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US military personnel were killed and five seriously wounded in operations against Iran, according to the Pentagon. The incident marks the first US casualties in the ongoing conflict, highlighting the escalating intensity of hostilities. The lack of further details suggests ongoing operational security concerns."
+  },
+  {
     "id": "e1fe506d69dc0153",
     "title_original": "Iran's firebrand ex-President Ahmadinejad killed US-Israel airstrikes",
     "content_original": "Former Iranian president Mahmoud Ahmadinejad, 69, was killed along with his bodyguard in an airstrike on his Tehran home during U.S.-Israeli military strikes, state-linked ILNA new...",
@@ -70,7 +104,6 @@
   {
     "id": "5ad6824dd9093c2f",
     "title_original": "Belgian army seizes suspected Russian shadow fleet tanker",
-    "content_original": "Belgian army seized a suspected Russian shadow fleet oil tanker Saturday night, Defense Minister Theo Francken announced. 'Over the past few hours, our armed forces, with the supp...",
     "url": "https://www.dailysabah.com/world/europe/belgian-army-seizes-suspected-russian-shadow-fleet-tanker",
     "published": "2026-03-01T12:45:00+03:00",
     "fetched_at": "2026-03-01T10:11:31.213687+00:00",
@@ -79,10 +112,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Belgian army seizes suspected Russian shadow fleet tanker",
     "translated": true,
-    "relevant": false,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "relevant": false
   },
   {
     "id": "24d00a3d1b7d21e1",
@@ -395,7 +426,6 @@
   {
     "id": "851285c5ca2cccc3",
     "title_original": "Zelenskyy imposes new sanctions on Russia",
-    "content_original": "Sanctions set to affect 10 Russian transport and logistics companies for 'delivering goods to Ukrainian territories temporarily occupied by Russia'",
     "url": "https://www.aa.com.tr/en/world/zelenskyy-imposes-new-sanctions-on-russia/3843269",
     "published": "2026-02-28T14:18:54+03:00",
     "source_name": "Anadolu Agency",
@@ -403,10 +433,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Zelenskyy imposes new sanctions on Russia",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "91ee910c700fc561",
@@ -523,7 +551,6 @@
   {
     "id": "a8b141b8ff2011e6",
     "title_original": "Pakistan says airstrikes inside Afghanistan killed more than 331 Afghan forces",
-    "content_original": "Pakistan’s military launched air and artillery strikes deep inside Afghanistan overnight and into early Saturday, killing more than 300 Afghan personnel amid escalating border figh...",
     "url": "https://www.dailysabah.com/world/asia-pacific/pakistan-says-airstrikes-inside-afghanistan-killed-more-than-331-afghan-forces",
     "published": "2026-02-28T11:08:00+03:00",
     "source_name": "Daily Sabah World",
@@ -531,10 +558,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Pakistan airstrikes kill over 331 Afghan forces in Afghanistan",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "f7bf5190138ad04e",
@@ -587,7 +612,6 @@
   {
     "id": "631a0c882172c1e0",
     "title_original": "UN chief says 'migration is not a crisis,' urges global cooperation",
-    "content_original": "'Migrants are not criminals. They are victims,' says Antonio Guterres",
     "url": "https://www.aa.com.tr/en/world/un-chief-says-migration-is-not-a-crisis-urges-global-cooperation/3842441",
     "published": "2026-02-28T01:07:31+03:00",
     "source_name": "Anadolu Agency",
@@ -595,15 +619,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN chief calls for global cooperation on migration",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "b65d855c850f53b5",
     "title_original": "Award-winning American actress says career blocked for 'speaking out' for Gaza",
-    "content_original": "'It became impossible for me to even be on television,' says Susan Sarandon",
     "url": "https://www.aa.com.tr/en/world/award-winning-american-actress-says-career-blocked-for-speaking-out-for-gaza/3842425",
     "published": "2026-02-28T00:31:09+03:00",
     "source_name": "Anadolu Agency",
@@ -611,10 +632,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "American actress claims career blocked for supporting Gaza",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "7641281b600ebdab",
@@ -635,7 +654,6 @@
   {
     "id": "ce70f72ac76ec41f",
     "title_original": "Trump hints at 'friendly takeover' of Cuba amid deepening crisis",
-    "content_original": "U.S. President Donald Trump suggested Friday that Washington could pursue a “friendly takeover” of Cuba as the island faces deepening economic strain under a strict U.S. oil embarg...",
     "url": "https://www.dailysabah.com/world/americas/trump-hints-at-friendly-takeover-of-cuba-amid-deepening-crisis",
     "published": "2026-02-27T22:30:00+03:00",
     "source_name": "Daily Sabah World",
@@ -643,10 +661,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Trump hints at 'friendly takeover' of Cuba amid deepening crisis",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "76358ad7c3d1b267",
@@ -667,7 +683,6 @@
   {
     "id": "6edf93e990d1f745",
     "title_original": "Bill Clinton tells US Congress he knew nothing of Epstein's crimes",
-    "content_original": "Former U.S. President Bill Clinton told the House Oversight Committee on Friday that he had no knowledge of convicted sex offender Jeffrey Epstein’s crimes and had ended all contac...",
     "url": "https://www.dailysabah.com/world/americas/bill-clinton-tells-us-congress-he-knew-nothing-of-epsteins-crimes",
     "published": "2026-02-27T20:14:00+03:00",
     "source_name": "Daily Sabah World",
@@ -675,15 +690,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Bill Clinton denies knowledge of Epstein's crimes before Congress",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "53866defbf195d38",
     "title_original": "World’s central banks brace for intense policy decisions in March",
-    "content_original": "Fed, European Central Bank, and Bank of Japan expect to maintain rates, Bank of England to cut, while Australia to hike rates, as investors closely monitor changes for future policy guidance",
     "url": "https://www.aa.com.tr/en/world/world-s-central-banks-brace-for-intense-policy-decisions-in-march/3842186",
     "published": "2026-02-27T20:12:05+03:00",
     "source_name": "Anadolu Agency",
@@ -691,15 +703,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "World’s central banks brace for intense policy decisions in March",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "f895d7e14cf1ca19",
     "title_original": "Majority of Americans back Palestinian statehood: Survey",
-    "content_original": "A new survey by Gallup shows that 57% of Americans support creating an independent Palestinian state alongside Israel, reflecting a major shift in public attitudes as sympathy for...",
     "url": "https://www.dailysabah.com/world/americas/majority-of-americans-back-palestinian-statehood-survey",
     "published": "2026-02-27T19:28:00+03:00",
     "source_name": "Daily Sabah World",
@@ -707,15 +716,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Majority of Americans back Palestinian statehood: Survey",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "75d9574fcfd828ff",
     "title_original": "Cease-fire agreed near Zaporizhzhia for power repairs: IAEA",
-    "content_original": "The International Atomic Energy Agency (IAEA) said Friday that a local cease-fire between Ukraine and Russia has come into force around the Zaporizhzhia Nuclear Power Plant to allo...",
     "url": "https://www.dailysabah.com/world/europe/cease-fire-agreed-near-zaporizhzhia-for-power-repairs-iaea",
     "published": "2026-02-27T18:40:00+03:00",
     "source_name": "Daily Sabah World",
@@ -723,10 +729,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Cease-fire agreed near Zaporizhzhia for power repairs: IAEA",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "788e61db6120176e",
@@ -763,7 +767,6 @@
   {
     "id": "755aefe397b4112d",
     "title_original": "South Sudan conflict fuels humanitarian emergency for survivors",
-    "content_original": "Kool Gatyen Pajock, 18 months old, lay in a South Sudan hospital as a physiotherapist wrapped bandages around his legs while his grandmother, Nyayual Chuol, watched over him. Gove...",
     "url": "https://www.dailysabah.com/world/africa/south-sudan-conflict-fuels-humanitarian-emergency-for-survivors",
     "published": "2026-02-27T15:10:00+03:00",
     "source_name": "Daily Sabah World",
@@ -771,15 +774,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "South Sudan conflict fuels humanitarian emergency for survivors",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "5da4e15ef96a0f95",
     "title_original": "Kazakhstan awards Serbian leader top state order for strengthening bilateral ties",
-    "content_original": "Kazakh President Tokaev hosts Serbian counterpart Vucic in Astana, calls Serbia 'very important strategic partner in Europe'",
     "url": "https://www.aa.com.tr/en/world/kazakhstan-awards-serbian-leader-top-state-order-for-strengthening-bilateral-ties/3841800",
     "published": "2026-02-27T13:44:23+03:00",
     "source_name": "Anadolu Agency",
@@ -787,15 +787,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Kazakhstan awards Serbian leader top state order for strengthening bilateral ties",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "70ed1174423b29b5",
     "title_original": "Russia calls on Afghanistan, Pakistan to return to negotiating table amid border clashes",
-    "content_original": "Kremlin says it is monitoring situation and hopes clashes will cease soon",
     "url": "https://www.aa.com.tr/en/world/russia-calls-on-afghanistan-pakistan-to-return-to-negotiating-table-amid-border-clashes/3841778",
     "published": "2026-02-27T13:25:37+03:00",
     "source_name": "Anadolu Agency",
@@ -803,10 +800,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Russia calls for Afghanistan, Pakistan to return to negotiating table amid border clashes",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "b5003b0f1e0f3f9d",
@@ -827,7 +822,6 @@
   {
     "id": "4b4168d82234c57b",
     "title_original": "Kenya arrests man behind scheme sending citizens to fight in Ukraine",
-    "content_original": "Police in Kenya have arrested a man at the center of a scheme that lured Kenyans with promises of skilled jobs in Russia, only for them to end up on the front lines in Ukraine. Fe...",
     "url": "https://www.dailysabah.com/world/africa/kenya-arrests-man-behind-scheme-sending-citizens-to-fight-in-ukraine",
     "published": "2026-02-27T12:29:00+03:00",
     "source_name": "Daily Sabah World",
@@ -835,15 +829,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Kenya arrests man for recruiting citizens to fight in Ukraine",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "5f9d318455e5004f",
     "title_original": "Cartel violence, politics shadow search for Mexico’s disappeared",
-    "content_original": "The faces of Mexico’s disappeared now line the streets of Guadalajara, the country’s second-largest city. Thousands of fliers bearing messages like “We miss you,” “Have you seen h...",
     "url": "https://www.dailysabah.com/world/americas/cartel-violence-politics-shadow-search-for-mexicos-disappeared",
     "published": "2026-02-27T12:01:00+03:00",
     "source_name": "Daily Sabah World",
@@ -851,15 +842,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Cartel violence, politics shadow search for Mexico’s disappeared",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "e738b8d717d56e89",
     "title_original": "UN says civilian killings in Sudan more than double in 2025",
-    "content_original": "Killings of civilians in Sudan's war more than doubled in 2025 compared with the previous year, the United Nations rights chief said Thursday, warning that thousands more dead...",
     "url": "https://www.dailysabah.com/world/africa/un-says-civilian-killings-in-sudan-more-than-double-in-2025",
     "published": "2026-02-27T11:57:00+03:00",
     "source_name": "Daily Sabah World",
@@ -867,10 +855,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN reports surge in civilian killings in Sudan in 2025",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "d0b4ce8156289497",
@@ -891,7 +877,6 @@
   {
     "id": "e1e73e09d0ac63b6",
     "title_original": "Labour loses safe Manchester seat to Greens in blow to Starmer",
-    "content_original": "British Prime Minister Keir Starmer's Labour ​suffered an embarrassing election defeat to the left-wing Green Party on Friday in an area of Manchester it had dominated for alm...",
     "url": "https://www.dailysabah.com/world/europe/labour-loses-safe-manchester-seat-to-greens-in-blow-to-starmer",
     "published": "2026-02-27T10:29:00+03:00",
     "source_name": "Daily Sabah World",
@@ -899,15 +884,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Labour loses safe Manchester seat to Greens in blow to Starmer",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "6c4a270549afd735",
     "title_original": "UN secretary-general calls for restraint amid cross-border clashes between Afghanistan and Pakistan",
-    "content_original": "Antonio Guterres is 'following with concern the reports of cross-border clashes,' says his spokesman",
     "url": "https://www.aa.com.tr/en/world/un-secretary-general-calls-for-restraint-amid-cross-border-clashes-between-afghanistan-and-pakistan/3841423",
     "published": "2026-02-27T08:26:08+03:00",
     "source_name": "Anadolu Agency",
@@ -915,10 +897,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN chief calls for restraint amid Afghanistan-Pakistan border clashes",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "2f07f4e3d1f285c1",
@@ -939,7 +919,6 @@
   {
     "id": "7d698b9f8c081023",
     "title_original": "Next Russia meeting soon, Zelenskyy says as US-Ukraine talks end",
-    "content_original": "The next round of talks to end Russia's four-year invasion of Ukraine are expected to be held in early March in Abu Dhabi, Ukrainian President Volodymyr Zelenskyy said on Thur...",
     "url": "https://www.dailysabah.com/world/europe/next-russia-meeting-soon-zelenskyy-says-as-us-ukraine-talks-end",
     "published": "2026-02-26T23:15:00+03:00",
     "source_name": "Daily Sabah World",
@@ -947,15 +926,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Zelenskyy Announces Upcoming Russia Talks as US-Ukraine Discussions Conclude",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "4b54f07016378c92",
     "title_original": "Pakistan, Afghanistan trade heavy cross-border strikes amid tensions",
-    "content_original": "Pakistan and Afghanistan exchanged heavy cross-border fire on Thursday after Kabul launched retaliatory strikes against Pakistani military positions, prompting Islamabad to accuse...",
     "url": "https://www.dailysabah.com/world/asia-pacific/pakistan-afghanistan-trade-heavy-cross-border-strikes-amid-tensions",
     "published": "2026-02-26T22:16:00+03:00",
     "source_name": "Daily Sabah World",
@@ -963,10 +939,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Pakistan, Afghanistan trade heavy cross-border strikes amid tensions",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "bbc31eda584b2b94",
@@ -987,7 +961,6 @@
   {
     "id": "1f53775898ff0ed6",
     "title_original": "Russian, French embassies in Ankara target each other over Ukraine war on social media",
-    "content_original": "Social media exchanges began after Russian Embassy in Ankara posted statement from Kremlin spokesman Dmitry Peskov, who said end of war with Ukraine is dependent on Kyiv's actions",
     "url": "https://www.aa.com.tr/en/world/russian-french-embassies-in-ankara-target-each-other-over-ukraine-war-on-social-media/3841264",
     "published": "2026-02-26T21:55:27+03:00",
     "source_name": "Anadolu Agency",
@@ -995,10 +968,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Russian, French embassies in Ankara clash on social media over Ukraine war",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "5ff1769d49324251",
@@ -1035,7 +1006,6 @@
   {
     "id": "691f08287284798e",
     "title_original": "Muslim community building targeted in deliberate arson attack in UK",
-    "content_original": "A Muslim community building next to a mosque in Worcester was set on fire in what the Worcester Muslim Welfare Association (WMWA) described Thursday as a “deliberate act of arson,”...",
     "url": "https://www.dailysabah.com/world/europe/muslim-community-building-targeted-in-deliberate-arson-attack-in-uk",
     "published": "2026-02-26T21:06:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1043,15 +1013,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Muslim community building targeted in arson attack in UK",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "59315bda9a4f77c3",
     "title_original": "North Korea warns it could 'completely destroy' South if threatened",
-    "content_original": "North Korean leader Kim Jong Un claimed his nuclear-armed nation could 'completely destroy' South Korea if it felt its security was at risk, reaffirming his unwillingness to pursue...",
     "url": "https://www.dailysabah.com/world/asia-pacific/north-korea-warns-it-could-completely-destroy-south-if-threatened",
     "published": "2026-02-26T20:16:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1059,15 +1026,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "North Korea threatens to 'completely destroy' South Korea if threatened",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "c0389629267ba4a8",
     "title_original": "Family of UN rapporteur critical of Israel sues Trump admin over sanctions",
-    "content_original": "The family of independent U.N. investigator Francesca Albanese have filed a lawsuit against the Trump administration, challenging U.S. sanctions imposed on her last year over her c...",
     "url": "https://www.dailysabah.com/world/mid-east/family-of-un-rapporteur-critical-of-israel-sues-trump-admin-over-sanctions",
     "published": "2026-02-26T20:15:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1075,15 +1039,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Family of UN rapporteur sues Trump admin over sanctions",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "959c2c68cb09d5e9",
     "title_original": "Hillary Clinton questioned in closed-door House probe on Epstein",
-    "content_original": "Former Secretary of State Hillary Clinton testified before U.S. House lawmakers in New York on Thursday as part of a congressional investigation into convicted sex offender Jeffrey...",
     "url": "https://www.dailysabah.com/world/americas/hillary-clinton-questioned-in-closed-door-house-probe-on-epstein",
     "published": "2026-02-26T19:55:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1091,15 +1052,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Hillary Clinton questioned in closed-door House probe on Epstein",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "a88aeb7bdf4de891",
     "title_original": "UN warns Israel’s actions aim to force demographic change in Palestine",
-    "content_original": "U.N. human rights chief Volker Türk said Thursday that Israel’s actions in the occupied West Bank and Gaza Strip appear aimed at creating a “permanent demographic change,” warning...",
     "url": "https://www.dailysabah.com/world/mid-east/un-warns-israels-actions-aim-to-force-demographic-change-in-palestine",
     "published": "2026-02-26T19:54:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1107,15 +1065,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN warns Israel’s actions aim to force demographic change in Palestine",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "2772eeb2509ed4ba",
     "title_original": "German court bars intelligence agency from labeling AfD as extremist",
-    "content_original": "A Cologne court ruled Thursday that Germany’s domestic intelligence agency cannot classify the Alternative for Germany (AfD) as a confirmed right-wing extremist organization while...",
     "url": "https://www.dailysabah.com/world/europe/german-court-bars-intelligence-agency-from-labeling-afd-as-extremist",
     "published": "2026-02-26T18:25:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1123,15 +1078,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "German court bars intelligence agency from labeling AfD as extremist",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "c9aadb0ed2402600",
     "title_original": "Denmark sets election as Frederiksen’s Greenland stance boosts support",
-    "content_original": "Prime Minister Mette Frederiksen announced Thursday that Denmark will hold a parliamentary election on March 24, aiming to capitalize on rising support for her firm opposition to U...",
     "url": "https://www.dailysabah.com/world/europe/denmark-sets-election-as-frederiksens-greenland-stance-boosts-support",
     "published": "2026-02-26T17:49:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1139,10 +1091,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Denmark sets election as Frederiksen’s Greenland stance boosts support",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "83e4257363ea9760",
@@ -1179,7 +1129,6 @@
   {
     "id": "b9782dbebf64d3f3",
     "title_original": "Drone strikes rock eastern DRC in battle over key mining hub",
-    "content_original": "Two days after the reported death of M23 spokesperson Willy Ngoma in a predawn strike, Congolese government forces escalated operations in the east, launching drone attacks on posi...",
     "url": "https://www.dailysabah.com/world/africa/drone-strikes-rock-eastern-drc-in-battle-over-key-mining-hub",
     "published": "2026-02-26T13:07:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1187,15 +1136,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Drone strikes rock eastern DRC in battle over key mining hub",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "54145349483254eb",
     "title_original": "Disinformation floods Mexico after cartel leader killed",
-    "content_original": "When roadblocks, explosions and gunshots broke out after the killing of Mexico’s most powerful drug lord, people who rushed to their cellphones for information found social media p...",
     "url": "https://www.dailysabah.com/world/americas/disinformation-floods-mexico-after-cartel-leader-killed",
     "published": "2026-02-26T11:52:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1203,10 +1149,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Disinformation floods Mexico after cartel leader killed",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "f41d98908b5d3908",
@@ -1275,7 +1219,6 @@
   {
     "id": "760a7909d13ea84c",
     "title_original": "UN, US officials hold 3rd co-chaired meeting on Western Sahara in Washington",
-    "content_original": "'The negotiations saw in-depth discussions, taking as a basis Morocco’s autonomy proposal,' says UN spokesman",
     "url": "https://www.aa.com.tr/en/world/un-us-officials-hold-3rd-co-chaired-meeting-on-western-sahara-in-washington/3840287",
     "published": "2026-02-25T23:53:43+03:00",
     "source_name": "Anadolu Agency",
@@ -1283,15 +1226,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "UN, US officials hold 3rd co-chaired meeting on Western Sahara in Washington",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "dbb83de1a2f71bb7",
     "title_original": "Algeria confirms 1st visit by Pope Leo to country in April",
-    "content_original": "Presidency says trip will strengthen ‘bonds of friendship and trust’",
     "url": "https://www.aa.com.tr/en/world/algeria-confirms-1st-visit-by-pope-leo-to-country-in-april/3840272",
     "published": "2026-02-25T23:25:08+03:00",
     "source_name": "Anadolu Agency",
@@ -1299,15 +1239,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Algeria confirms first visit by Pope Leo in April",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "baea2cd3b72d991a",
     "title_original": "Iceland to hold referendum on reviving EU accession talks",
-    "content_original": "Iceland's Prime Minister Kristrun Frostadottir said Wednesday that his country will hold a referendum “in the coming months” on whether to restart accession negotiations with...",
     "url": "https://www.dailysabah.com/world/europe/iceland-to-hold-referendum-on-reviving-eu-accession-talks",
     "published": "2026-02-25T22:18:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1315,15 +1252,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Iceland to hold referendum on reviving EU accession talks",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "c0e8f352c8740e57",
     "title_original": "Ukraine expects talks with US, Russia to pave way for leaders’ meeting",
-    "content_original": "Ukrainian President Volodymyr Zelenskyy said Wednesday that his call with U.S. President Donald Trump reinforced expectations that a planned March trilateral meeting between Ukr...",
     "url": "https://www.dailysabah.com/world/americas/ukraine-expects-talks-with-us-russia-to-pave-way-for-leaders-meeting",
     "published": "2026-02-25T22:15:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1331,15 +1265,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Ukraine expects talks with US, Russia to pave way for leaders’ meeting",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "8cf6dd237f2dc0e8",
     "title_original": "Modi hails ties with Israel in 1st address by an Indian premier to Knesset",
-    "content_original": "Prime Minister Modi says US President Trump's Gaza peace plan 'offers pathway' to peace",
     "url": "https://www.aa.com.tr/en/world/modi-hails-ties-with-israel-in-1st-address-by-an-indian-premier-to-knesset/3840207",
     "published": "2026-02-25T22:00:55+03:00",
     "source_name": "Anadolu Agency",
@@ -1347,15 +1278,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Modi addresses Knesset, praises India-Israel ties and Trump's Gaza peace plan",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "ff1afbd9fe4d0bed",
     "title_original": "Pope announces extensive international travel plans",
-    "content_original": "Pope Leo to visit Monaco, Spain, 4 African nations with focus on peace, care for poor",
     "url": "https://www.aa.com.tr/en/world/pope-announces-extensive-international-travel-plans/3840197",
     "published": "2026-02-25T21:49:19+03:00",
     "source_name": "Anadolu Agency",
@@ -1363,15 +1291,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Pope announces extensive international travel plans",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "a0fa01480928dbaa",
     "title_original": "Canada warns OpenAI to boost safety or face gov't action",
-    "content_original": "Canadian ministers warned OpenAI that unless it swiftly strengthened its safety protocols following a recent school shooting, the government would move to mandate the changes throu...",
     "url": "https://www.dailysabah.com/world/americas/canada-warns-openai-to-boost-safety-or-face-govt-action",
     "published": "2026-02-25T21:29:00+03:00",
     "source_name": "Daily Sabah World",
@@ -1379,10 +1304,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Canada warns OpenAI to boost safety or face gov't action",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "d88ab0b6477c46a9",
@@ -1403,7 +1326,6 @@
   {
     "id": "4616caf566e128e9",
     "title_original": "Military plane crashes in Kazakhstan",
-    "content_original": "Defense Ministry says crew ejected safely",
     "url": "https://www.aa.com.tr/en/world/military-plane-crashes-in-kazakhstan/3839741",
     "published": "2026-02-25T13:37:39+03:00",
     "source_name": "Anadolu Agency",
@@ -1411,10 +1333,8 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Military plane crashes in Kazakhstan",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "3ad6ffb8550c01d9",
@@ -1451,7 +1371,6 @@
   {
     "id": "92b716eaf9e44074",
     "title_original": "Indonesian president arrives in Amman to meet Jordan’s king",
-    "content_original": "This is 2nd visit by Indonesian president to Jordan in less than a year",
     "url": "https://www.aa.com.tr/en/world/indonesian-president-arrives-in-amman-to-meet-jordan-s-king/3839285",
     "published": "2026-02-24T23:43:20+03:00",
     "source_name": "Anadolu Agency",
@@ -1459,15 +1378,12 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "Indonesian president arrives in Amman for meeting with Jordan’s king",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   },
   {
     "id": "58294d87ccf3e1e8",
     "title_original": "G7 leaders reaffirm support for Ukraine amid ongoing war",
-    "content_original": "'We express our continued support for President Trump’s efforts to achieve these objectives by initiating a peace process,' says statement",
     "url": "https://www.aa.com.tr/en/world/g7-leaders-reaffirm-support-for-ukraine-amid-ongoing-war/3839213",
     "published": "2026-02-24T21:50:09+03:00",
     "source_name": "Anadolu Agency",
@@ -1475,9 +1391,7 @@
     "language": "en",
     "region": "turkey",
     "skip_translation": true,
-    "title_en": "G7 leaders reaffirm support for Ukraine amid ongoing war",
     "relevant": false,
-    "translated": true,
-    "summary_en": "[Not relevant to Iran–US war monitor]"
+    "translated": true
   }
 ]

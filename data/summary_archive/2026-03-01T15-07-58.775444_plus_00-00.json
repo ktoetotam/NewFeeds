@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-03-01T15:07:58.775444+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 591,
+    "incident_count_6h": 213,
+    "severity_breakdown": {
+      "major": 210,
+      "high": 248,
+      "medium": 129,
+      "low": 4
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 165,
+    "articles_analyzed": 556,
+    "event_window_hours": 4,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached an unprecedented catastrophic level. Iran's Supreme Leader Ayatollah Ali Khamenei has been assassinated in US-Israeli strikes on Tehran, along with at least 40 senior Iranian commanders and former President Mahmoud Ahmadinejad. Iran has responded with mass missile strikes across Israel, the UAE, Bahrain, Jordan, and Oman, directly targeting US assets. The 24h incident count stands at 591 (210 Major, 248 High), with active US airstrikes on Tehran continuing. Kuwait reports 97 ballistic missiles and 283 drones intercepted; UAE reports 152 of 165 missiles intercepted with 3 dead and 58 injured. The conflict now directly threatens US naval assets, Gulf critical infrastructure, and has triggered war declarations.",
+  "whats_new": [
+    "US-Israeli strikes assassinated Iran's Supreme Leader Ayatollah Ali Khamenei at his Tehran compound — confirmed by multiple sources including Guardian, BBC, Al Alam, SCMP",
+    "Former Iranian President Mahmoud Ahmadinejad killed in US-Israeli airstrike on his Tehran residence — confirmed by Daily Sabah, Ynet, Jerusalem Post",
+    "US CENTCOM announced sinking of an Iranian vessel — direct maritime engagement between US and Iranian forces",
+    "Iran announced new wave of missile strikes accompanied by drone attacks (7th and 8th waves of 'Al-Wa'd Al-Sadeq 4' operation)",
+    "Kuwait Defense Ministry: 97 ballistic missiles and 283 drones intercepted since conflict onset; UAE: 152 of 165 missiles intercepted"
+  ],
+  "confirmed_events": [
+    "Khamenei's assassination marks unprecedented escalation — Iran's top leadership eliminated in coordinated US-Israeli strike on Tehran",
+    "Iran launched ballistic missiles targeting USS Abraham Lincoln with four missiles — IRGC claims strike, status of carrier unconfirmed",
+    "Iranian missiles hit Dubai Airport and Sharjah, causing fires — direct strike on critical UAE/Gulf infrastructure",
+    "Mass casualty event in Beit Shemesh: 8 dead, 27 injured from Iranian ballistic missile strike",
+    "Death toll from girls' school strike rises to 153 (per TASS); Iran announces timeline for selecting new Supreme Leader"
+  ],
+  "unverified_emerging": [
+    "Israeli army denies knowledge of strike on Iranian school killing 115+ — claim conflicts with Iranian and US statements (source: classified attack events)",
+    "Three US soldiers killed in Iranian missile strike per Israeli Channel 12 — unverified, would be first US combat fatalities if confirmed (sources: Hezbollah Electronic Army TG)",
+    "Missile landed near cruise ship Mein Schiff 4 in Abu Dhabi harbor with 3,500 aboard — potential civilian maritime catastrophe (source: RBC)"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "131 Hong Kong residents stranded in Middle East due to flight cancellations (SCMP)",
+      "Dubai Airport struck by Iranian missiles — major aviation disruption in Gulf hub",
+      "Airspace closures and missile threats affecting flights across Gulf states"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz stability threatened — China urges normalization, both US and China seek de-escalation (TASS)",
+      "UAE intercepting 152+ ballistic missiles — continuous defense strain on Gulf infrastructure",
+      "Maritime traffic in Abu Dhabi harbor targeted — cruise ship incident highlights commercial vessel risks"
+    ],
+    "market_macro": [
+      "Oil prices at severe risk due to Strait of Hormuz instability — global energy chokepoint under direct threat",
+      "Japan has oil reserves for 250 days but faces economic vulnerability (TASS)",
+      "China calling for cessation of military operations — diplomatic efforts underway but conflict escalating"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will intensify dramatically over next 24-72h. With Khamenei dead and leadership decapitated, Iran's response will likely be led by IRGC and security hardliners. Expect sustained missile and drone barrages targeting US bases, Israeli population centers, and Gulf allies. The assassination of a head of state removes de-escalation pathways and maximizes retaliation probability. Iranian succession process will be contested, potentially fracturing internal power structures but also potentially enabling more erratic military decision-making.",
+    "escalation_risks": [
+      "Iranian retaliation against US bases in Gulf — risk of additional US military casualties",
+      "USS Abraham Lincoln strike status unconfirmed — potential major US naval asset loss would trigger massive escalation",
+      "Hezbollah and IRGC proxies activating across multiple fronts — multi-theater regional war",
+      "Israeli missile intercept failure in Tel Aviv exposed — potential for more civilian casualties in Israel",
+      "Nuclear facility strikes by US on Tehran — escalatory threshold for WMD response"
+    ],
+    "de_escalation_pathways": "No viable de-escalation pathways currently visible. The assassination of a head of state represents an irreversible escalatory act. Iran's constitutional process for selecting new Supreme Leader will be contested and likely delayed by ongoing hostilities. International calls for de-escalation (China, Qatar) have no traction. US and Israel appear committed to maximalist pressure campaign. Any ceasefire would require major face-saving formula for both sides that does not currently exist."
+  }
+}
