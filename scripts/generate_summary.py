@@ -38,7 +38,8 @@ ARCHIVE_DIR = DATA_DIR / "summary_archive"
 
 MAX_ARCHIVE_FILES = 100  # keep last 100 versions
 
-EVENT_WINDOW_HOURS = 4  # only events from the last N hours are fed to the LLM
+EVENT_WINDOW_HOURS = 4      # attack events window fed to the LLM
+ARTICLE_WINDOW_HOURS = 2   # feed article window fed to the LLM
 
 SYSTEM_PROMPT = f"""You are a senior intelligence analyst producing an executive briefing on the Iran–United States armed conflict (2026) and all connected fronts (Israel, Houthis, Hezbollah, IRGC proxies, Gulf states).
 
@@ -55,7 +56,7 @@ CRITICAL RULES:
 - Do NOT include any company-specific or organizational recommendations.
 
 PREVIOUS BRIEFING EVALUATION — you MUST apply this discipline every cycle:
-- Compare the previous briefing against the new data (covering the last {EVENT_WINDOW_HOURS}h window).
+- Compare the previous briefing against the new data (attacks: last {EVENT_WINDOW_HOURS}h; articles: last {ARTICLE_WINDOW_HOURS}h).
 - DROP any item from the previous briefing that: has resolved/concluded, is no longer supported by new data, is now obvious background context, or has been superseded by a more significant development.
 - DOWNGRADE items that are still true but less urgent than newer events (move to background context rather than a top bullet).
 - ELEVATE items that have escalated or gained new corroboration.
@@ -312,7 +313,7 @@ def build_user_prompt(attacks: list[dict], threat: dict, articles: list[dict], p
 === CLASSIFIED ATTACK EVENTS — LAST {EVENT_WINDOW_HOURS}h (ordered by severity, then recency) ===
 {attacks_block}
 
-=== INTELLIGENCE FEED ARTICLES — LAST {EVENT_WINDOW_HOURS}h (by region) ===
+=== INTELLIGENCE FEED ARTICLES — LAST {ARTICLE_WINDOW_HOURS}h (by region) ===
 {articles_block}
 
 === INSTRUCTIONS ===
@@ -653,14 +654,14 @@ def generate_and_save(
     # Archive existing summary before overwriting
     archive_current_summary(output_path)
 
-    # Restrict to events within the last EVENT_WINDOW_HOURS
+    # Restrict to recent window: attacks look back 4h, articles look back 2h
     attacks_windowed = filter_by_window(attacks, EVENT_WINDOW_HOURS)
-    articles_windowed = filter_by_window(articles, EVENT_WINDOW_HOURS)
+    articles_windowed = filter_by_window(articles, ARTICLE_WINDOW_HOURS)
 
     logger.info(
         f"Generating executive summary from {len(attacks_windowed)}/{len(attacks)} attacks "
         f"and {len(articles_windowed)}/{len(articles)} feed articles "
-        f"in the last {EVENT_WINDOW_HOURS}h window"
+        f"(attacks: {EVENT_WINDOW_HOURS}h window, articles: {ARTICLE_WINDOW_HOURS}h window)"
     )
 
     # Build prompt and call LLM
@@ -690,6 +691,7 @@ def generate_and_save(
             "attacks_analyzed": len(attacks_windowed),
             "articles_analyzed": len(articles_windowed),
             "event_window_hours": EVENT_WINDOW_HOURS,
+            "article_window_hours": ARTICLE_WINDOW_HOURS,
             "regions_covered": sorted(
                 set(a.get("region", "unknown") for a in attacks_windowed + articles_windowed)
             ),
