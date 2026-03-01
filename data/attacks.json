@@ -145,6 +145,151 @@
     }
   },
   {
+    "id": "b7f23d53fe87dced",
+    "title_original": "WSJ узнала о десятках бомб, сброшенных на дворец Хаменеи",
+    "content_original": "Израильские истребители сбросили 30 бомб на резиденцию верховного лидера Ирана Хаменеи, чтобы убить его, сообщает The Wall Street Journal (WSJ).",
+    "url": "https://www.rbc.ru/rbcfreenews/69a3ce2c9a7947071ebf22e9",
+    "published": "2026-03-01T10:42:20+03:00",
+    "fetched_at": "2026-03-01T07:47:45.910843+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israeli jets reportedly bomb Khamenei's palace with 30 bombs",
+    "relevant": true,
+    "summary_en": "Israeli fighter jets reportedly targeted the residence of Iran's Supreme Leader Ayatollah Khamenei with 30 bombs in an apparent assassination attempt. The strike occurred at his palace, though details on casualties or damage are not yet confirmed. This represents a significant escalation in direct targeting of Iranian leadership by Israel amid the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "bomb",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran, Tehran (Khamenei's palace)",
+      "brief": "Israeli jets reportedly conducted a major airstrike on Iran's Supreme Leader Ayatollah Khamenei's palace using 30 bombs, marking a significant escalation in direct military engagement."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "af4a642bf9b42686",
+    "title_original": "Силы ПВО Ирана сбили американский тяжелый БПЛА MQ-9 Reaper",
+    "content_original": "Силы ПВО Ирана сбили американский тяжелый БПЛА MQ-9 Reaper",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26596901",
+    "published": "2026-03-01T10:42:16+03:00",
+    "fetched_at": "2026-03-01T07:47:38.796361+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Air Defenses Shoot Down US MQ-9 Reaper Drone",
+    "relevant": true,
+    "summary_en": "Iranian air defense forces have shot down a US MQ-9 Reaper heavy drone. This incident occurred within Iranian airspace or contested regions, marking an escalation in the ongoing conflict. The downing of the advanced US drone signifies a direct engagement between US and Iranian forces and could provoke further retaliatory actions.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "air defense",
+      "conflict",
+      "shoot down",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Iranian airspace/contested regions",
+      "brief": "Iranian air defenses shot down a US MQ-9 Reaper drone, marking a direct engagement between US and Iranian forces."
+    },
+    "lat": 30.3354128,
+    "lng": 48.2896822
+  },
+  {
+    "id": "f9bd30e4fd58d5d0",
+    "title_original": "Туристка рассказала о взрывах в районе аэропорта Шарджа в ОАЭ",
+    "content_original": "Туристка рассказала о взрывах в районе аэропорта Шарджа в ОАЭ",
+    "url": "https://ria.ru/20260301/shardzha-2077614612.html",
+    "published": "2026-03-01T10:39:50+03:00",
+    "fetched_at": "2026-03-01T07:47:39.232089+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tourist Reports Explosions Near Sharjah Airport in UAE",
+    "relevant": true,
+    "summary_en": "A tourist reported explosions near Sharjah Airport in the UAE. This is significant as it could indicate potential attacks on critical infrastructure in the Gulf region amid the ongoing conflict between Iran and the US. The incident may impact regional security and raise concerns about the safety of civilian aviation and infrastructure.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Iran-backed proxies"
+      ],
+      "location": "Sharjah, UAE",
+      "brief": "Explosions near Sharjah Airport in the UAE, likely a drone strike or similar attack, indicating escalation in the Iran-US conflict through targeting Gulf infrastructure."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "41a83522c5fc4077",
+    "title_original": "Иран нанес удары по американским базам в Персидском заливе и Ираке",
+    "content_original": "Иран нанес удары по американским базам в Персидском заливе и Ираке",
+    "url": "https://ria.ru/20260301/vvs-2077613997.html",
+    "published": "2026-03-01T10:37:01+03:00",
+    "fetched_at": "2026-03-01T07:47:39.232682+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes US Bases in the Persian Gulf and Iraq",
+    "relevant": true,
+    "summary_en": "Iran launched attacks targeting US military bases in the Persian Gulf and Iraq. This represents a significant escalation in the ongoing conflict, demonstrating Iran's continued capability to strike US assets in the region. The strikes are likely to provoke a strong military response from the US and its allies.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Persian Gulf, Iraq",
+      "brief": "Iran launched direct strikes on US military bases in the Persian Gulf and Iraq, marking a significant escalation in the conflict."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "15f5886be5ba8c89",
     "title_original": "ЦАХАЛ зафиксировала запуск ракет со стороны Ирана",
     "content_original": "ЦАХАЛ зафиксировала запуск ракет со стороны Ирана",
@@ -734,6 +879,118 @@
     "lng": 47.0
   },
   {
+    "id": "5e824151e2af27bc",
+    "title_original": "📝 Дубайские огни, иранские ракеты 📝 В ночь с 28 февраля на 1 марта Иран нанёс масштабный ракетно-дроновый удар по объ...",
+    "content_original": "📝 Дубайские огни, иранские ракеты 📝 В ночь с 28 февраля на 1 марта Иран нанёс масштабный ракетно-дроновый удар по объектам Объединённых Арабских Эмиратов в рамках ответной кампании на совместную операцию США и Израиля «Epic Fury». По данным Министерства обороны ОАЭ, Иран выпустил более 130 баллистических ракет и порядка 200 ударных и барражирующих дронов — подавляющее большинство, по заявлениям местного МО, было якобы перехвачено эмиратской системой ПВО при поддержке союзников. 🔻 Тем не менее заметная часть ракет и дронов до целей прорвалась: ▪️ Повреждения получили Дубайский международный аэропорт и внешние конструкции отеля Burj Al Arab, в разных районах Дубая и Абу-Даби зафиксированы пожары и материальный ущерб от обломков перехваченных ракет. Один человек погиб в Абу-Даби, ещё несколько получили ранения. ▪️ Оба крупнейших аэропорта ОАЭ временно прекращали работу; параллельно было закрыто воздушное пространство над Ираком, Кувейтом, Бахрейном, Катаром, что вызвало масштабные сбои в ...",
+    "url": "https://t.me/rybar/77976",
+    "published": "2026-03-01T07:43:44+00:00",
+    "fetched_at": "2026-03-01T07:48:47.860637+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran launches large-scale missile and drone attack on UAE in response to US-Israel 'Epic Fury' operation",
+    "relevant": true,
+    "summary_en": "Iran launched a major missile and drone attack targeting the UAE on the night of February 28 to March 1, in retaliation for the US-Israel 'Epic Fury' operation. Despite UAE claims that most projectiles were intercepted, significant damage was reported to Dubai International Airport and the Burj Al Arab hotel, indicating a partial breakthrough of Iranian munitions.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|drone_strike|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US",
+        "Israel"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "Iran launched a major missile and drone attack on the UAE in retaliation for the US-Israel 'Epic Fury' operation, causing significant damage to infrastructure."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "9f6ed89018d7d863",
+    "title_original": "صدای انفجار قوی در قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SA...",
+    "content_original": "صدای انفجار قوی در قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44937",
+    "published": "2026-03-01T07:43:12+00:00",
+    "fetched_at": "2026-03-01T07:48:53.931646+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Loud Explosion Heard in Qatar",
+    "relevant": true,
+    "summary_en": "An explosion has been reported in Qatar, which could potentially involve US military assets or interests given the ongoing conflict. The incident's location and cause are currently unclear but warrant monitoring due to Qatar's hosting of US military bases and its strategic importance in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "explosion",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Qatar",
+        "US",
+        "Iran-backed proxies"
+      ],
+      "location": "Qatar",
+      "brief": "An explosion in Qatar, potentially targeting US military assets, indicates increased proxy activity amid the Iran-US conflict."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "0553ecd9a2d53ea5",
+    "title_original": "⚡ ⚡ 🇵🇸 🇮🇷  The Tel Aviv Municipality reports 40 buildings damaged by Iranian missiles. @medmannews",
+    "content_original": "⚡ ⚡ 🇵🇸 🇮🇷 The Tel Aviv Municipality reports 40 buildings damaged by Iranian missiles. @medmannews",
+    "url": "https://t.me/CIG_telegram/69764",
+    "published": "2026-03-01T07:42:46+00:00",
+    "fetched_at": "2026-03-01T07:48:50.029165+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "40 buildings in Tel Aviv damaged by Iranian missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missiles targeting Tel Aviv, resulting in damage to 40 buildings. This attack signifies a significant escalation in the conflict, demonstrating Iran's capability to strike Israeli urban centers and prompting potential Israeli retaliation.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran launched ballistic missiles targeting Tel Aviv, causing significant damage to 40 buildings, marking a major escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
     "id": "b5a12c8fb8ae62d6",
     "title_original": "Khamenei — the supreme leader who held ultimate control over Iran’s political, military, religious institutions",
     "content_original": "Iran’s Supreme Leader Ayatollah Ali Khamenei, who ruled he Islamic republic for over 30 years, has been killed in a an strike by US and Israel — the two countries that had been calling for a regime change in Tehran. Khamenei, 86, became Iran’s highest authority in 1989, following the death of the Islamic Republic’s founder, Ayatollah Ruhollah Khomeini. He remained in power after overcoming 1999 student demonstrations, 2009 mass protests sparked by disputed presidential elections and 2019 demonstrations that were brutally suppressed. He also survived the 2022-2023 “Woman, Life, Freedom” movement sparked by the death in custody of Iranian Kurdish woman Mahsa Amini, who had been arrested for allegedly violating the strict dress code for women. As supreme leader, he held ultimate control over Iran’s political, military and religious institutions, shaping domestic policy and guiding foreign relations. An article published in Al Jazeera said “critical to Khamenei’s power is the loyalty of tw...",
@@ -771,6 +1028,112 @@
     "merged_source_count": 7,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "eece1ec9164de6e0",
+    "title_original": "Revenge! Revenge!",
+    "content_original": "Revenge! Revenge!",
+    "url": "https://www.tehrantimes.com/news/524361/Revenge-Revenge",
+    "published": "2026-03-01T07:39:07+00:00",
+    "fetched_at": "2026-03-01T07:47:32.314835+00:00",
+    "source_name": "Tehran Times",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Revenge! Revenge!",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The headline suggests a retaliatory action or escalation in the ongoing conflict, likely from Iranian or Iranian-backed forces against US or allied targets. This could indicate a significant development in the conflict dynamics, potentially involving attacks or threats of attacks in response to previous US or allied operations.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iranian-backed militias"
+      ],
+      "location": "Unspecified (likely Middle East region)",
+      "brief": "The headline 'Revenge! Revenge!' indicates a significant retaliatory strike by Iranian or Iranian-backed forces against US or allied targets, suggesting a major escalation in the conflict."
+    }
+  },
+  {
+    "id": "d2050c7dc2db7f7b",
+    "title_original": "ارتش جمهوری اسلامی ایران در اطلاعیه شماره ۴ خود اعلام کرد: 🔹  دقایقی پیش تیزپروازان نیروی هوایی ارتش جمهوری اسلامی ای...",
+    "content_original": "ارتش جمهوری اسلامی ایران در اطلاعیه شماره ۴ خود اعلام کرد: 🔹 دقایقی پیش تیزپروازان نیروی هوایی ارتش جمهوری اسلامی ایران، پایگاه‌های آمریکا در کشورهای حوزه خلیج فارس و اقلیم کردستان عراق را طی چند مرحله عملیات با موفقیت بمباران کردند. 🔹 ارتش جمهوری اسلامی ایران تصریح کرده است: همه مراکز نظامی دشمن در منطقه در دسترس جنگنده‌های نیروی هوایی خواهد بود ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44935",
+    "published": "2026-03-01T07:38:32+00:00",
+    "fetched_at": "2026-03-01T07:48:53.930458+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Air Force Strikes US Bases in Gulf Region and Iraqi Kurdistan",
+    "relevant": true,
+    "summary_en": "The Iranian Air Force conducted multiple successful bombing operations targeting US military bases in the Gulf region and Iraqi Kurdistan. This signifies an escalation in direct military engagements between Iran and US forces in the region, highlighting Iran's continued offensive capabilities.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iraqi Kurdistan"
+      ],
+      "location": "Gulf region, Iraqi Kurdistan",
+      "brief": "Iranian Air Force launches direct airstrikes on US military bases in the Gulf region and Iraqi Kurdistan, marking a significant escalation in direct military engagements."
+    },
+    "merged_source_count": 3,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "f3eb1df25e91d3d7",
+    "title_original": "Angry protesters stormed the US consulate in Karachi following the martyrdom of Leader of Islamic Revolution in US, I...",
+    "content_original": "Angry protesters stormed the US consulate in Karachi following the martyrdom of Leader of Islamic Revolution in US, Israeli aggression @PressTV",
+    "url": "https://t.me/presstv/177405",
+    "published": "2026-03-01T07:37:19+00:00",
+    "fetched_at": "2026-03-01T07:48:44.243560+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Angry protesters storm US consulate in Karachi after death of Islamic Revolution leader",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Protesters in Karachi stormed the US consulate following the death of an Islamic Revolution leader, likely in response to US or Israeli actions. This incident highlights rising anti-US sentiment in Pakistan amid the ongoing conflict and could strain diplomatic relations between the US and Pakistan.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "death",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Pakistan",
+        "Protesters"
+      ],
+      "location": "Karachi, Pakistan",
+      "brief": "Anti-US protests in Pakistan escalated to the storming of the US consulate in Karachi following the death of an Islamic Revolution leader, indicating rising regional tensions."
+    },
+    "lat": 24.8546842,
+    "lng": 67.0207055
   },
   {
     "id": "f9e7e90734960358",
@@ -4651,6 +5014,42 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "b6ddfaf4d7a87746",
+    "title_original": "Waves of blasts heard over Dubai, Doha for second day, witnesses say",
+    "content_original": "By Maha El Dahan and Andrew Mills DUBAI, March 1 (Reuters) - Loud blasts were heard in Dubai and the Qatari capital Doha for the second day on Sunday, witnesses said, as Iran's retaliatory strikes on neighbouring Gulf states in response to U.S. and Israeli strikes on the Islamic Republic widened. Iran had said it would target U.S. bases in the region but it has hit a range of other targets across Gulf cities. Two people were injured in Dubai after shrapnel from drones fell over two houses when they were intercepted, aDubai Media office statement said.",
+    "url": "https://www.al-monitor.com/originals/2026/03/waves-blasts-heard-over-dubai-doha-second-day-witnesses-say",
+    "published": "2026-03-01T02:36:41-05:00",
+    "fetched_at": "2026-03-01T07:47:53.772151+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Waves of blasts heard over Dubai and Doha for second day as Iran widens retaliatory strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has expanded its retaliatory strikes to include Dubai and Doha, hitting targets in Gulf cities for the second day. The attacks resulted in two injuries in Dubai after shrapnel from intercepted drones fell over residential areas. This escalation indicates Iran's intent to target US interests and allied Gulf states amid ongoing conflict with the US and Israel.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UAE",
+        "Qatar"
+      ],
+      "location": "Dubai, Doha, Gulf cities",
+      "brief": "Iran escalated tensions by launching retaliatory strikes on Gulf cities including Dubai and Doha, causing injuries and targeting US interests."
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "3ec2f6cf3dcf62e3",
