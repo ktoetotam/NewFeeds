@@ -1,5 +1,41 @@
 [
   {
+    "id": "e3457b3a1d7fd62e",
+    "title_original": "Donald Trump hosts fundraiser at Mar-a-Lago as Middle East lights up with Iranian missiles targeting US and its allies",
+    "content_original": "While Iran vowed retaliation for airstrikes that reportedly killed its Supreme Leader, President Trump attended a Mar-a-Lago fundraiser. He mingled with donors and danced to music as US military prepared joint strikes on Iran. Trump later announced the war's commencement on Truth Social.",
+    "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-hosts-fundraiser-at-mar-a-lago-as-middle-east-lights-up-with-iranian-missiles-targeting-us-and-its-allies/articleshow/128918076.cms",
+    "published": "2026-03-01T20:29:51+05:30",
+    "fetched_at": "2026-03-01T15:25:56.952636+00:00",
+    "source_name": "Times of India World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Trump hosts fundraiser as Iran launches missiles at US and allies",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "While Iran launched missiles targeting US forces and allies in the Middle East, former President Trump attended a fundraiser at Mar-a-Lago and later announced the war's commencement on Truth Social. This highlights the ongoing conflict and potential escalation as US military prepares joint strikes on Iran. The event underscores the disconnect between the escalating military situation and domestic political activities.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "US allies"
+      ],
+      "location": "Middle East",
+      "brief": "Iran launched missiles targeting US forces and allies, marking a significant escalation in the ongoing conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "24f2d38d36a877be",
     "title_original": "Iran Guards say ‘struck’ U.S. aircraft carrier USS Abraham Lincoln: state media",
     "content_original": "The ‌USS ​Lincoln is one ⁠of two aircraft ‌carriers deployed to the region in recent ‌weeks and ​the only one ⁠relatively close ⁠to Iranian shores",
@@ -108,6 +144,187 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "63022ee0bc98ce4b",
+    "title_original": "Пентагон не ответил на вопрос об ударе Ирана по авианосцу",
+    "content_original": "Пентагон не ответил на вопрос об ударе Ирана по авианосцу",
+    "url": "https://ria.ru/20260301/pentagon-2077708778.html",
+    "published": "2026-03-01T18:23:11+03:00",
+    "fetched_at": "2026-03-01T15:25:30.415894+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Pentagon Refuses to Comment on Iranian Strike on Aircraft Carrier",
+    "relevant": true,
+    "summary_en": "The Pentagon declined to comment on reports of an Iranian strike targeting a US aircraft carrier. This incident, if confirmed, would signify a significant escalation in the ongoing conflict, given the potential for high casualties and strategic implications for US naval operations in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "US Navy"
+      ],
+      "location": "International Waters (suspected Persian Gulf region)",
+      "brief": "Iran reportedly launched a strike targeting a US aircraft carrier, indicating a major escalation with potential for high casualties and significant strategic implications."
+    },
+    "lat": -6.1817263,
+    "lng": 106.8159505
+  },
+  {
+    "id": "80e52d8aa3e35e4c",
+    "title_original": "At least 9 killed in Iranian missile attack on Israel",
+    "content_original": "At least nine people were killed on Sunday when an Iranian missile struck a residential building in the Israeli city of Beit Shemesh, emergency officials said, in the deadliest att...",
+    "url": "https://www.dailysabah.com/world/mid-east/at-least-9-killed-in-iranian-missile-attack-on-israel",
+    "published": "2026-03-01T18:20:00+03:00",
+    "fetched_at": "2026-03-01T15:25:54.961156+00:00",
+    "source_name": "Daily Sabah World",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "turkey",
+    "skip_translation": true,
+    "title_en": "Iranian missile attack kills at least 9 in Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike targeting the Israeli city of Beit Shemesh, resulting in at least nine fatalities after hitting a residential building. This attack represents a significant escalation in the ongoing conflict between Iran and Israel, demonstrating Iran's willingness to target Israeli population centers. The incident is likely to provoke a strong military response from Israel.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "missile",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US (as Israeli ally)"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iran launched a ballistic missile attack on Israel, striking a residential building in Beit Shemesh and causing at least nine fatalities, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "5aaba923ea0118a4",
+    "title_original": "ЦАХАЛ заявила, об ударе по зданию генштаба внутренней безопасности Ирана",
+    "content_original": "ЦАХАЛ заявила, об ударе по зданию генштаба внутренней безопасности Ирана",
+    "url": "https://ria.ru/20260301/iran-2077707463.html",
+    "published": "2026-03-01T18:17:44+03:00",
+    "fetched_at": "2026-03-01T15:25:30.416483+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF Claims Strike on Iranian Interior Ministry's General Staff Headquarters",
+    "relevant": true,
+    "summary_en": "The IDF has reportedly conducted a strike targeting the headquarters of Iran's Interior Ministry's General Staff. This action, if confirmed, represents a significant escalation in Israeli operations against Iranian security infrastructure. The strategic significance lies in the potential disruption of Iran's internal security apparatus amidst ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "idf",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel reportedly conducted an airstrike on Iran's Interior Ministry's General Staff Headquarters, indicating a significant escalation in regional tensions."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "fdbc8d8171b1b96b",
+    "title_original": "Иран атаковал военно-морскую базу Аль-Салям в Абу-Даби",
+    "content_original": "Дым над небом после взрывов в Дохе, Катар",
+    "url": "https://www.rbc.ru/rbcfreenews/69a2ed5b9a79474e1ba425b8",
+    "published": "2026-03-01T18:15:31+03:00",
+    "fetched_at": "2026-03-01T15:25:35.456087+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Attacks Al-Salam Naval Base in Abu Dhabi",
+    "relevant": true,
+    "summary_en": "Iran has launched an attack on the Al-Salam naval base in Abu Dhabi, UAE. This action represents an escalation in hostilities within the Gulf region, directly targeting a critical US-aligned military facility. The attack signifies Iran's intent to expand the conflict beyond its immediate borders and disrupt US regional operations.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates",
+        "Al-Salam Naval Base"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "Iran launches a direct attack on the US-aligned Al-Salam naval base in Abu Dhabi, marking a significant escalation in hostilities within the Gulf region."
+    },
+    "merged_source_count": 4,
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "fa85d55cfac1ca54",
+    "title_original": "Трое американских военных погибли во время операции против Ирана",
+    "content_original": "В ходе операции Соединенных Штатов против Ирана погибли трое американских военнослужащих, сообщило Центральное командование США в соцсети Х.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a454509a7947a4b5d6bbef",
+    "published": "2026-03-01T18:13:48+03:00",
+    "fetched_at": "2026-03-01T15:25:35.456291+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Three US Military Personnel Killed in Operation Against Iran",
+    "relevant": true,
+    "summary_en": "Three US military personnel were killed during a US operation targeting Iran, as reported by US Central Command on platform X. This incident highlights the ongoing hostilities and direct engagement between US forces and Iranian targets. The casualties are likely to impact US strategy and public perception of the conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran"
+      ],
+      "location": "Unspecified",
+      "brief": "Three US military personnel were killed during a US operation targeting Iran, indicating direct engagement and escalating hostilities."
+    }
   },
   {
     "id": "0f19ce14cb26859d",
@@ -1688,6 +1905,43 @@
     "geocode_failed": true
   },
   {
+    "id": "81ba1b80e2d91250",
+    "title_original": "هجوم معادي عنيف على طهران",
+    "content_original": "هجوم معادي عنيف على طهران",
+    "url": "https://t.me/Electrohizbullah/156683",
+    "published": "2026-03-01T15:18:09+00:00",
+    "fetched_at": "2026-03-01T15:26:23.053306+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Intense Hostile Attack on Tehran",
+    "relevant": true,
+    "summary_en": "An intense hostile attack has struck Tehran, likely involving US or allied forces targeting Iranian infrastructure or leadership. This represents a significant escalation in the conflict, with potential strategic implications for Iran's command and control capabilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "US allies"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "A major escalation involving a direct US/allied strike on Tehran targeting Iranian infrastructure or leadership, significantly impacting Iran's command and control capabilities."
+    },
+    "merged_source_count": 3,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "03c18a8ae19d39c8",
     "title_original": "Иран нанес ракетный удар по Израилю",
     "content_original": "Служба скорой помощи Израиля &laquo;Маген Давид Адом&raquo; сообщила о нескольких пострадваших при ударе иранской баллистической ракеты в Бейт-Шемеш, передает&nbsp;Times of Israel.",
@@ -1725,6 +1979,43 @@
     "merged_source_count": 10,
     "lat": 31.5,
     "lng": 34.8
+  },
+  {
+    "id": "d42c231d158729fc",
+    "title_original": "#الكويت مسيرة إيرانية تستهدف قاعدة أمريكية في الكويت #الوعد_الصادق_4",
+    "content_original": "#الكويت مسيرة إيرانية تستهدف قاعدة أمريكية في الكويت #الوعد_الصادق_4",
+    "url": "https://t.me/Electrohizbullah/156681",
+    "published": "2026-03-01T15:13:38+00:00",
+    "fetched_at": "2026-03-01T15:26:23.051859+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian drone Targets US Base in Kuwait",
+    "relevant": true,
+    "summary_en": "An Iranian drone strike targeted a US military base in Kuwait, marking an escalation in the conflict as Iran expands its retaliatory attacks beyond Iraq and Syria. This incident highlights the vulnerability of US bases in the Gulf region and the potential for further regional destabilization.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Kuwait"
+      ],
+      "location": "Kuwait",
+      "brief": "Iranian drone strike on a US military base in Kuwait escalates regional tensions and highlights vulnerabilities of US assets in the Gulf."
+    },
+    "lat": 29.38,
+    "lng": 47.99
   },
   {
     "id": "a6c24880935288c1",
@@ -8568,6 +8859,44 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "7c1bd27628837e0f",
+    "title_original": "Three US troops killed in war with Iran: CENTCOM",
+    "content_original": "Five additional troops were \"seriously wounded,\" US Central Command said, as the US, Israel and Iran continue their bombing campaigns.",
+    "url": "https://www.al-monitor.com/originals/2026/03/three-us-troops-killed-war-iran-centcom",
+    "published": "2026-03-01T10:06:50-05:00",
+    "fetched_at": "2026-03-01T15:25:42.720192+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Three US troops killed in war with Iran: CENTCOM",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US troops were killed and five others seriously wounded in ongoing hostilities with Iran, according to US Central Command. This incident highlights the escalating violence and direct engagement between US forces and Iranian-backed elements. The casualties underscore the intensifying conflict and its impact on US military personnel in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "wounded",
+      "killed",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Iranian-backed elements"
+      ],
+      "location": "middle_east",
+      "brief": "Three US troops killed and five wounded in direct engagement with Iranian-backed forces, marking a significant escalation in hostilities."
+    },
+    "lat": 39.3014159,
+    "lng": -76.5888477
   },
   {
     "id": "05b139bfcac2a7e3",

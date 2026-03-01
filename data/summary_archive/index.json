@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T15-21-55.735766_plus_00-00.json",
+    "generated_at": "2026-03-01T15:21:55.735766+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 603,
+    "summary_preview": "Conflict has escalated to direct US-Iran naval confrontation with IRGC claiming to launch 4 ballistic missiles at USS Abraham Lincoln. Iran has expanded strikes to target Dubai Airport and Sharjah, wh"
+  },
+  {
     "filename": "2026-03-01T15-07-58.775444_plus_00-00.json",
     "generated_at": "2026-03-01T15:07:58.775444+00:00",
     "threat_label": "MAJOR",

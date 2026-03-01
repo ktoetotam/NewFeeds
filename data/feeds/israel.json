@@ -1,5 +1,22 @@
 [
   {
+    "id": "8808477322564e9f",
+    "title_original": "שר החוץ של איראן: \"המשטר לא ייפול, בחירת מחליף לחמינאי – אולי כבר מחר\"",
+    "content_original": "עבאס עראקצ'י הצהיר כי הממסד האיראני עומד על רגליו ומתפקד, וכי יורשו של המנהיג העליון שחוסל עשוי להיקבע בתוך יומיים. על רקע מתקפות הכטב\"מים של ארצו נגד האמירויות, בחריין ומדינות נוספות במפרץ, פנה אליהן: \"יודעים שאתם כועסים, אבל זו מלחמה שנכפתה עלינו. תתלוננו לארה\"ב וישראל\". הנשיא פזשכיאן הופיע בסרטון: \"התאחדו מול האויב\", גורם אמריקני: \"זה יכול להימשך שבועות\"",
+    "url": "https://www.ynet.co.il/news/article/h1xc0tbf11e",
+    "published": "2026-03-01T17:17:28+02:00",
+    "fetched_at": "2026-03-01T15:25:35.564512+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian Foreign Minister: Regime Will Not Fall, Khamenei's Successor May Be Chosen as Soon as Tomorrow",
+    "relevant": true,
+    "summary_en": "Iran's Foreign Minister, Abbas Araghchi, stated that the Iranian regime remains stable and functioning, with a potential successor to the assassinated Supreme Leader possibly being named within two days. Amid ongoing Iranian missile and drone attacks on US allies in the Gulf, Araghchi addressed these nations, attributing the conflict to US and Israeli actions. This development highlights the internal power dynamics within Iran and the potential for continued regional escalation as the US and its allies respond to Iranian aggression.",
+    "translated": true
+  },
+  {
     "id": "ae30fefa7422b892",
     "title_original": "'Abandon Ship': US sinks Iranian ship in Gulf of Oman after striking vessel during Op. Epic Fury",
     "content_original": "CENTCOM also cited US President Donald Trump's call for \"members of Iran's armed forces, IRGC, and police to 'lay down your weapons,'\" and to \"Abandon ship!\"",
@@ -114,6 +131,40 @@
     "skip_translation": false,
     "relevant": false,
     "translated": true
+  },
+  {
+    "id": "68ba2b8f6ab1226f",
+    "title_original": "Final decision, process to go to war, came much later than has been leaked - exclusive",
+    "content_original": "The Post understands that much of the current conventional narrative is revisionist history to try to simplify what was an extraordinarily period of uncertainty and a complex series of ups and downs.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888393",
+    "published": "2026-03-01T16:17:41+00:00",
+    "fetched_at": "2026-03-01T15:25:36.566770+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Final decision to go to war came later than leaked",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article suggests that the timeline of decisions leading to the Iran-US conflict has been misrepresented in public narratives, highlighting a period of uncertainty and complexity. This is significant as it provides insight into the decision-making process of both nations during the escalation of hostilities."
+  },
+  {
+    "id": "314e1ebd58a6f5db",
+    "title_original": "Israel's UAE embassy damaged in Iranian retaliatory strike on Abu Dhabi",
+    "content_original": "Debris from an intercepted drone damaged a complex housing the Israeli embassy in Abu Dhabi, causing minor injuries, as Iranian retaliatory strikes spread across Gulf cities after US-Israel attacks.",
+    "url": "https://www.jpost.com/middle-east/article-888392",
+    "published": "2026-03-01T16:12:44+00:00",
+    "fetched_at": "2026-03-01T15:25:36.567177+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Israel's UAE embassy damaged in Iranian retaliatory strike on Abu Dhabi",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory strikes on Abu Dhabi in response to US-Israel attacks, with debris from an intercepted drone damaging a complex housing the Israeli embassy and causing minor injuries. This incident highlights the escalating tensions and the regional impact of the ongoing conflict between Iran and the US-Israel alliance."
   },
   {
     "id": "21f681aa27c36954",
