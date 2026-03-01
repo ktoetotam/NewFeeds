@@ -307,6 +307,13 @@ def run():
     all_articles_flat = []
     for region, (existing, translated) in all_translated.items():
         merged = existing + translated
+        # Strip heavy fields from not-relevant articles to save space while keeping
+        # their IDs in the feed file so they won't be re-fetched and re-processed.
+        for a in merged:
+            if a.get("relevant") is False:
+                a.pop("title_en", None)
+                a.pop("summary_en", None)
+                a.pop("content_original", None)
         merged = prune_old_articles(merged)
         # Sort by published date (newest first)
         merged.sort(key=lambda a: a.get("published", ""), reverse=True)
