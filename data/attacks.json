@@ -146,6 +146,42 @@
     "lng": 54.0
   },
   {
+    "id": "c0a447491750fa02",
+    "title_original": "Отель Fairmont в Дубае продолжает работу после пожара из-за обломков ракеты",
+    "content_original": "Отель Fairmont в Дубае продолжает работу после пожара из-за обломков ракеты",
+    "url": "https://ria.ru/20260301/otel-2077710463.html",
+    "published": "2026-03-01T18:34:48+03:00",
+    "fetched_at": "2026-03-01T15:44:52.156210+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Fire at Dubai's Fairmont Hotel Caused by Missile Debris",
+    "relevant": true,
+    "summary_en": "A fire broke out at the Fairmont Hotel in Dubai due to missile debris, likely from the ongoing conflict. The hotel remains operational despite the incident. This highlights the potential risks for civilian infrastructure in the region due to the ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Dubai",
+        "Civilian Infrastructure"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "A fire at Dubai's Fairmont Hotel, caused by missile debris likely from Houthi attacks, highlights the risk to civilian infrastructure amidst regional hostilities."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "63022ee0bc98ce4b",
     "title_original": "Пентагон не ответил на вопрос об ударе Ирана по авианосцу",
     "content_original": "Пентагон не ответил на вопрос об ударе Ирана по авианосцу",
@@ -1908,6 +1944,151 @@
     "lng": 54.0
   },
   {
+    "id": "88dd56ffabb1fab3",
+    "title_original": "Largescale jet, drone attacks carried out against US, Zionist targets: Iran Army 🔹  The Iranian army says its forces ...",
+    "content_original": "Largescale jet, drone attacks carried out against US, Zionist targets: Iran Army 🔹 The Iranian army says its forces carried out massive airstrikes and drone attacks against American and Zionist targets. @PressTV",
+    "url": "https://t.me/presstv/177473",
+    "published": "2026-03-01T15:43:04+00:00",
+    "fetched_at": "2026-03-01T15:45:36.443945+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian Army claims large-scale airstrikes and drone attacks on US and Israeli targets",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Iranian Army has reportedly conducted extensive airstrikes and drone attacks targeting US and Israeli assets. This escalation highlights the ongoing conflict and direct engagement between Iran and US/Israeli forces, with potential regional implications for security and stability.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Middle East",
+      "brief": "Iranian Army claims to have conducted large-scale airstrikes and drone attacks targeting US and Israeli assets, escalating direct engagement."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "096373114d840b69",
+    "title_original": "⚡️  Attack in the city of Zanjan in northwestern Iran",
+    "content_original": "⚡️ Attack in the city of Zanjan in northwestern Iran",
+    "url": "https://t.me/warmonitors/40274",
+    "published": "2026-03-01T15:41:40+00:00",
+    "fetched_at": "2026-03-01T15:45:41.483446+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Attack in Zanjan, northwestern Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An attack occurred in Zanjan, a city in northwestern Iran. The details of the attack, including the perpetrator and target, are not specified in the headline. This incident is significant as it indicates potential internal instability or external strikes within Iran amidst the ongoing conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "unknown"
+      ],
+      "location": "Zanjan, Iran",
+      "brief": "An attack occurred in Zanjan, northwestern Iran, indicating potential internal instability or external strikes amidst the ongoing conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "1f4d864a3e9aa691",
+    "title_original": "⚡️  An Iranian drone that was on its way to the Golan Heights was intercepted over southern Syria by fighter jets.",
+    "content_original": "⚡️ An Iranian drone that was on its way to the Golan Heights was intercepted over southern Syria by fighter jets.",
+    "url": "https://t.me/warmonitors/40273",
+    "published": "2026-03-01T15:41:37+00:00",
+    "fetched_at": "2026-03-01T15:45:41.482739+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian drone intercepted en route to Golan Heights by fighter jets over southern Syria",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian drone targeting the Golan Heights was shot down by fighter jets in southern Syria. This incident highlights ongoing tensions and military activities in the region as Iran continues its operations against Israeli and US-linked assets. The interception underscores the persistent threat posed by Iranian drones and the active measures being taken by opposing forces to counter them.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US",
+        "Syria"
+      ],
+      "location": "southern Syria, Golan Heights region",
+      "brief": "An Iranian drone targeting the Golan Heights was intercepted by fighter jets in southern Syria, demonstrating ongoing regional tensions and military activities."
+    },
+    "lat": 34.8,
+    "lng": 38.99
+  },
+  {
+    "id": "7f52bd416bd3cd6b",
+    "title_original": "📝 Минус корабль ВМС Ирана 📝 Американцы официально подтвердили удар по корвету (фрегату) класса «Джамаран» в военно-мо...",
+    "content_original": "📝 Минус корабль ВМС Ирана 📝 Американцы официально подтвердили удар по корвету (фрегату) класса «Джамаран» в военно-морской базе Чахбахар. Это относительно новые боевые корабли, которые составляли основу иранского флота. По иранской классификации они идут как фрегаты. На вооружении у них есть противокорабельные комплексы, пусковые установки зенитных управляемых ракет и торпедные аппараты. Фактически иранцы потеряли довольно важную боевую единицу, которая при необходимости могла быть использована и для атак, и для обороны. Причины удара ВС США по нему объяснимы, учитывая, какое вооружение он нес. Почему он стоял в пункте базирования во время ударов – другой вопрос. #Иран #США 🧨 @rybar_mena — о ближневосточном хаосе с любовью 💸 Поддержать нас",
+    "url": "https://t.me/rybar/78016",
+    "published": "2026-03-01T15:38:39+00:00",
+    "fetched_at": "2026-03-01T15:45:38.846854+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Confirms Strike on Iranian Navy Corvette in Chahbahar Naval Base",
+    "relevant": true,
+    "summary_en": "The US has officially confirmed striking an Iranian Jamaran-class corvette (classified as a frigate by Iran) at the Chahbahar naval base. This represents a significant loss for Iran's navy, as these ships are equipped with anti-ship missiles, air defense missile launchers, and torpedoes, making them valuable for both offensive and defensive operations. The strike highlights ongoing US targeting of Iranian military assets amid the conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "offensive",
+      "air defense",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran"
+      ],
+      "location": "Chahbahar Naval Base, Iran",
+      "brief": "US confirms direct strike on Iranian Jamaran-class corvette at Chahbahar naval base, marking a significant escalation in naval engagements."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "d31d35ffd9df0fa8",
     "title_original": "Zahra Mohammadi Golpayegani, the 14-month-old granddaughter of the Leader of the Islamic Revolution, was martyred in ...",
     "content_original": "Zahra Mohammadi Golpayegani, the 14-month-old granddaughter of the Leader of the Islamic Revolution, was martyred in the US-Israeli attack. @PressTV",
@@ -2015,6 +2196,46 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "e584f7456df23e45",
+    "title_original": "Strike kills four Iran-backed fighters, anger mounts in Iraq",
+    "content_original": "Four Iran-backed fighters were killed on Sunday when their base in Iraq was struck as the region became embroiled in violence after the United States and Israel launched strikes on Iran. The fighters belong to the Hashed al-Shaabi, or the Popular Mobilisation Forces (PMF), an alliance of factions now integrated into the regular army, which also include powerful Iran-backed groups. Baghdad, a key ally of Iran, has announced a three-day mourning period for Iran Supreme Leader Ali Khamenei, who was killed in a strike on Tehran on Saturday . Iraq, which has recently regained a sense of stability but has long been a proxy battleground between the US and Iran, warned that it did not want to be dragged into the war. But it did not remain unscathed. An Iraqi security official told AFP that an air strike in the central Diyala province killed four fighters from the PMF, with another eight injured. A PMF source confirmed \"the martyrdom of four fighters in an attack on their base\" in Diyala. The H...",
+    "url": "https://www.newarab.com/news/strike-kills-four-iran-backed-fighters-anger-mounts-iraq",
+    "published": "2026-03-01T15:34:06+00:00",
+    "fetched_at": "2026-03-01T15:45:05.222924+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Strike kills four Iran-backed fighters in Iraq",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Four Iran-backed PMF fighters were killed in a strike on their base in Iraq, likely by US or Israeli forces amid ongoing regional hostilities. This incident escalates tensions in Iraq, a proxy battleground between the US and Iran, as Iraq mourns the death of Iran's Supreme Leader Ali Khamenei.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "death",
+      "pmf",
+      "proxy",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "PMF (Iran-backed)"
+      ],
+      "location": "Iraq",
+      "brief": "Airstrike on Iran-backed PMF base in Iraq kills four fighters, escalating US-Iran tensions amid regional hostilities."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "2bcbf370abb9bc79",
@@ -2157,6 +2378,45 @@
     },
     "lat": 29.38,
     "lng": 47.99
+  },
+  {
+    "id": "0576c99f23a06a9e",
+    "title_original": "Who are Iran’s senior figures killed in US-Israeli attacks?",
+    "content_original": "Iran&#039;s defence minister and the commander-in-chief of the IRGC are among those killed in the US and Israel&#039;s attack.",
+    "url": "https://www.aljazeera.com/news/2026/3/1/who-are-irans-senior-figures-killed-in-us-israeli-attacks?traffic_source=rss",
+    "published": "2026-03-01T15:20:30+00:00",
+    "fetched_at": "2026-03-01T15:45:03.036221+00:00",
+    "source_name": "Al Jazeera English",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Iran's senior figures killed in US-Israeli attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's defense minister and the IRGC commander-in-chief were reportedly killed in a joint US-Israeli attack. This represents a significant escalation as it targets high-ranking Iranian military leadership. The loss of these key figures could impact Iran's command and control capabilities during the ongoing conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "irgc",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli joint attack results in the death of Iran's defense minister and IRGC commander-in-chief, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "81ba1b80e2d91250",

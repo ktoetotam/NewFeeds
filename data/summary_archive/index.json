@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T15-40-58.270555_plus_00-00.json",
+    "generated_at": "2026-03-01T15:40:58.270555+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 620,
+    "summary_preview": "The Iran-US-Israel conflict has escalated to direct naval confrontation. Iran claims to have struck the USS Abraham Lincoln with 4 ballistic missiles (US denies), while three US service members were c"
+  },
+  {
     "filename": "2026-03-01T15-30-53.123440_plus_00-00.json",
     "generated_at": "2026-03-01T15:30:53.123440+00:00",
     "threat_label": "MAJOR",
