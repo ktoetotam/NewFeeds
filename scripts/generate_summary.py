@@ -46,10 +46,19 @@ CRITICAL RULES:
 - Base your analysis STRICTLY on the data provided. Do not invent events or details.
 - Distinguish clearly between confirmed events and unverified claims.
 - When sources disagree or claims are unverified, say so explicitly.
+- MULTI-SOURCE CORROBORATION: When the same event is reported by 2 or more independent sources, explicitly note this (e.g. "Confirmed by multiple sources: ..."). Multi-source events should be elevated in priority regardless of source category.
 - Prioritize military/security events by severity (major > high > medium > low).
 - Use bullet points for clarity. Keep each bullet to 1-2 sentences.
 - Use 24h clock and CET timezone for all times.
 - Do NOT include any company-specific or organizational recommendations.
+
+UNVERIFIED/EMERGING SECTION — include ALL of the following if present in the data, even from a single source, flagging the source:
+- Deaths or incapacitation of heads of state, military commanders, or senior officials
+- New explosions, strikes, or attacks not yet corroborated
+- Terror attacks or assassinations
+- Major supply chain disruptions (port closures, pipeline shutdowns, shipping route blocks)
+- Nuclear/WMD escalation signals
+- Any single-source claim that, if true, would materially change the situation
 
 Respond with ONLY valid JSON matching the schema described in the user prompt. No markdown wrapping, no extra text."""
 
