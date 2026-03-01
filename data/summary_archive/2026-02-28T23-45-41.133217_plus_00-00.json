@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-02-28T23:45:41.133217+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 184,
+    "incident_count_6h": 113,
+    "severity_breakdown": {
+      "major": 60,
+      "high": 68,
+      "medium": 53,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 185,
+    "articles_analyzed": 1665,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran–US conflict has escalated significantly, with both sides engaging in direct military actions, including missile strikes, drone attacks, and naval incidents. The involvement of regional actors such as Israel, Gulf states, and Iran-backed proxies has heightened tensions and expanded the conflict's geographic scope, posing a critical threat to regional stability.",
+  "whats_new": [
+    "US and Israeli airstrikes reportedly killed Iran's Supreme Leader Ali Khamenei and dozens of senior officials, marking a critical escalation (unconfirmed).",
+    "Iran launched a new wave of missile attacks targeting US military bases across the Middle East, including strikes in Saudi Arabia, Kuwait, and Qatar.",
+    "The IRGC Navy attacked a US military support ship in the Gulf region with missiles, demonstrating direct engagement between Iranian and US forces.",
+    "A US radar system in Qatar was destroyed by an Iranian drone strike, highlighting Iran's capability to target critical US assets."
+  ],
+  "confirmed_events": [
+    "Iran launched ballistic missile barrages targeting Israel, resulting in significant damage and casualties.",
+    "US and Israeli forces conducted coordinated airstrikes on multiple Iranian provinces, reportedly causing mass casualties within the IRGC.",
+    "Iran struck US military bases in Iraq, Syria, and the Gulf region with ballistic missiles and drones, indicating a direct confrontation.",
+    "The IRGC claimed to have killed 200 US military personnel in strikes on American bases, though this is unverified by US sources.",
+    "A US Navy support ship was targeted by IRGC missiles in the Gulf or Arabian Sea region, marking a significant escalation in maritime hostilities."
+  ],
+  "unverified_emerging": [
+    "Reports suggest Iran's Supreme Leader Ali Khamenei may have been killed in US-Israeli strikes (source: South China Morning Post, Daily Sabah).",
+    "Iranian Vice President has reportedly taken over wartime responsibilities, raising questions about President Pezeshkian's status (source: Jerusalem Post).",
+    "An American OPSEC breach is rumored amid the conflict, though details are unclear (source: War Monitors).",
+    "Trump claims Khamenei is dead and calls for an Iranian uprising, but this is unverified and could be misinformation (source: Daily Mail)."
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Thousands of flights canceled and airspace closures across the Middle East, including Iran, Iraq, Israel, Syria, Kuwait, and the UAE.",
+      "Major airlines such as British Airways and Virgin Atlantic have suspended flights to the region, citing safety concerns."
+    ],
+    "supply_chain": [
+      "Fires and damage reported at UAE ports due to falling debris from missile interceptions, disrupting maritime traffic in the Gulf.",
+      "Ongoing threats to shipping routes in the Gulf and Arabian Sea as naval hostilities escalate."
+    ],
+    "market_macro": [
+      "Oil prices surged due to heightened geopolitical tensions and potential disruptions to Gulf oil supplies.",
+      "UAE fuel prices increased for March 2026, reflecting broader market pressures from the conflict."
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is likely to continue escalating, with Iran and the US engaging in further direct military actions. Regional actors such as Israel and Iran-backed proxies are expected to intensify their involvement, expanding the conflict's geographic scope. The risk of miscalculation or unintended escalation remains high, particularly in the maritime domain and through proxy attacks.",
+    "escalation_risks": [
+      "Direct military confrontation between US and Iranian conventional forces.",
+      "Escalation involving regional actors such as Israel, Hezbollah, and Gulf states.",
+      "Increased use of asymmetric tactics, including cyberattacks and proxy operations.",
+      "Potential for miscalculated strikes causing high civilian casualties, provoking international outcry."
+    ],
+    "de_escalation_pathways": "De-escalation could be pursued through diplomatic channels, potentially involving UN mediation or direct US-Iran negotiations. However, given the current trajectory, a pause in hostilities is unlikely without a clear demonstration of force or a mutual understanding to de-escalate. The involvement of international actors such as Russia, China, and European powers could also play a role in facilitating dialogue."
+  }
+}
