@@ -1,5 +1,146 @@
 [
   {
+    "id": "5619616b492e0237",
+    "title_original": "UAE halts stock markets for two days after Iran strikes",
+    "content_original": "The United Arab Emirates (UAE) has ordered its stock markets closed on Monday and Tuesday as the country reels from Iran’s retaliatory missile and drone strikes , in a sign of the growing economic disruption sweeping the Gulf. Iran carried out the strikes in Gulf countries that have US bases and assets after joint attacks on the Islamic republic by Israel and America. The UAE Capital Markets Authority said the Abu Dhabi Securities Exchange and Dubai Financial Market would remain shut on March 2 and March 3, citing its supervisory and regulatory role over the country’s capital markets. “The Authority will continue to monitor developments in the region and assess the situation on an ongoing basis, taking any further measures as necessary,” it said in a statement. The UAE’s two exchanges are home to some of the region’s most valuable listed companies. The closure keeps billions of dollars in listed assets in suspension as investors await clarity on the scale of damage from Saturday and Su...",
+    "url": "https://www.dawn.com/news/1977146/uae-halts-stock-markets-for-two-days-after-iran-strikes",
+    "published": "2026-03-02T00:24:57+05:00",
+    "fetched_at": "2026-03-01T19:52:56.527955+00:00",
+    "source_name": "Dawn (Pakistan)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "UAE halts stock markets for two days after Iran strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The UAE Capital Markets Authority ordered the Abu Dhabi Securities Exchange and Dubai Financial Market closed on March 2-3 following Iran's retaliatory missile and drone strikes against Gulf countries hosting US bases and assets. The market closure demonstrates the growing economic disruption sweeping the Gulf region as tensions between Iran and the US/Israel escalate, with the UAE citing the need to monitor regional developments.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "UAE",
+      "brief": "UAE halts stock markets for two days following Iran's retaliatory missile and drone strikes against Gulf countries hosting US bases and assets."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "888f63514fc48fdc",
+    "title_original": "КСИР заявил об уничтожении радара ПВО в ОАЭ и поражении вспомогательного корабля ВМС США",
+    "content_original": "КСИР заявил об уничтожении радара ПВО в ОАЭ и поражении вспомогательного корабля ВМС США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603509",
+    "published": "2026-03-01T22:50:28+03:00",
+    "fetched_at": "2026-03-01T19:52:29.397603+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Claims Destruction of Air Defense Radar in UAE and Strike on US Navy Auxiliary Ship",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) claimed to have destroyed an air defense radar in the United Arab Emirates and struck a US Navy auxiliary vessel. This represents a significant escalation of Iranian military operations directly targeting US assets in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "irgc",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "UAE"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "IRGC claimed destruction of UAE air defense radar and strike on US Navy auxiliary vessel, marking significant escalation of direct Iranian operations against US assets in the Gulf."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "bcddabbe88f9820a",
+    "title_original": "ВКС Ирана уничтожили систему ПРО THAAD в Эр-Рувайсе",
+    "content_original": "ВКС Ирана уничтожили систему ПРО THAAD в Эр-Рувайсе",
+    "url": "https://ria.ru/20260301/vks-2077743433.html",
+    "published": "2026-03-01T22:49:10+03:00",
+    "fetched_at": "2026-03-01T19:52:30.009263+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "ВКС Ирана уничтожили систему ПРО THAAD в Эр-Рувайсе",
+    "summary_en": "{\"h\":\"Iranian Aerospace Forces Destroy THAAD Air Defense System in Al-Ruwais\",\"r\":true,\"s\":\"Iranian Aerospace Forces (ВКС) have successfully destroyed a US THAAD missile defense system deployed in Al-Ruwais, Iran. This strike",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "missile",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "827b479bdc804048",
+    "title_original": "Иран атаковал танкер-заправщик авианосной группы США",
+    "content_original": "Иран атаковал танкер-заправщик авианосной группы США",
+    "url": "https://ria.ru/20260301/iran-2077743329.html",
+    "published": "2026-03-01T22:48:22+03:00",
+    "fetched_at": "2026-03-01T19:52:30.009491+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran attacked tanker of US aircraft carrier group",
+    "relevant": true,
+    "summary_en": "Iran launched an attack on a US Navy tanker supporting an aircraft carrier group, marking a significant escalation in the ongoing Iran-US conflict. The attack on a critical logistics vessel highlights Iranian strategy of targeting US naval support assets in the Gulf region, potentially disrupting US carrier operations and forcing the US Navy to extend supply lines.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Persian Gulf",
+      "brief": "Iran attacked a US Navy tanker supporting an aircraft carrier group, marking a significant direct escalation in US-Iran military tensions."
+    },
+    "merged_source_count": 2,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "a6082d2571cb18fa",
     "title_original": "First US casualties confirmed: Did Pentagon reveal identities of 3 Service Members killed amid Op Epic fury?",
     "content_original": "The Pentagon reported that three American service members died and five were injured during a joint operation against Iran.",
@@ -71,6 +212,157 @@
     },
     "lat": 9.6021766,
     "lng": 122.4670994
+  },
+  {
+    "id": "a9298f03b236917f",
+    "title_original": "Проиранская группировка в Ираке взяла ответственность за обстрел аэропорта Эрбиля",
+    "content_original": "Она заявила о начале масштабной операции против военных объектов США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603407",
+    "published": "2026-03-01T22:40:59+03:00",
+    "fetched_at": "2026-03-01T19:52:29.398637+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Pro-Iranian Group in Iraq Claims Responsibility for Shelling Erbil Airport",
+    "relevant": true,
+    "summary_en": "A pro-Iranian Iraqi militia group has claimed responsibility for shelling Erbil airport and announced the start of a large-scale operation against U.S. military facilities in Iraq. The attack targets the Kurdish regional capital where U.S. forces and diplomatic personnel are stationed, representing a significant escalation in IRGC proxy operations against American assets in Iraq.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "proxy",
+      "militia",
+      "shelling",
+      "attack",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Iraqi Pro-Iranian Militia",
+        "United States",
+        "Kurdish Regional Government"
+      ],
+      "location": "Erbil, Iraq",
+      "brief": "Pro-Iranian Iraqi militia group claimed responsibility for shelling Erbil Airport, targeting U.S. forces and diplomatic personnel in a major operation against U.S. military facilities in Iraq."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "226a8587fbfdf6ed",
+    "title_original": "КСИР Ирана заявил о начале девятого этапа операции \"Правдивое обещание - 4\"",
+    "content_original": "КСИР Ирана заявил о начале девятого этапа операции \"Правдивое обещание - 4\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603391",
+    "published": "2026-03-01T22:37:09+03:00",
+    "fetched_at": "2026-03-01T19:52:29.399200+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "КСИР Ирана заявил о начале девятого этапа операции \"Правдивое обещание - 4\"",
+    "summary_en": "{\"h\":\"IRGC Iran Announces Start of Ninth",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "medium",
+      "parties_involved": [
+        "IRGC",
+        "Iran"
+      ],
+      "location": "Middle East (unspecified)",
+      "brief": "IRGC announces ninth phase of True Promise-4 operation, indicating continued Iranian offensive operations."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "4e1c6ec9e3d3d424",
+    "title_original": "Иран начал девятую волну атак на Израиль, заявил КСИР",
+    "content_original": "Иран начал девятую волну атак на Израиль, заявил КСИР",
+    "url": "https://ria.ru/20260301/ksir-2077741805.html",
+    "published": "2026-03-01T22:34:20+03:00",
+    "fetched_at": "2026-03-01T19:52:30.010883+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran began ninth wave of attacks on Israel, IRGC stated",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps announced that Iran has launched its ninth wave of attacks against Israel. This represents continued escalation in the ongoing conflict between Iran and Israel, with each successive wave indicating persistent military operations and retaliatory cycles between the two nations.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched ninth wave of attacks against Israel as announced by the IRGC, representing continued escalation in the Iran-Israel conflict."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "034dd89180039f1a",
+    "title_original": "Shafaq news: при атаке на позиции \"Катаиб Хезболлах\" в Ираке убиты три человека",
+    "content_original": "Как уточнило агентство, удар был нанесен \"американскими и израильскими силами\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603329",
+    "published": "2026-03-01T22:30:20+03:00",
+    "fetched_at": "2026-03-01T19:52:29.399994+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Three killed in attack on Kataib Hezbollah positions in Iraq",
+    "relevant": true,
+    "summary_en": "American and Israeli forces carried out a strike on Kataib Hezbollah positions in Iraq, killing three people. The attack targets the IRGC-linked proxy group amid ongoing hostilities between the US/Israel and Iranian-backed forces in the region.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "killed",
+      "proxy",
+      "strike",
+      "attack",
+      "irgc",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Kataib Hezbollah",
+        "IRGC"
+      ],
+      "location": "Iraq",
+      "brief": "American and Israeli forces struck Kataib Hezbollah positions in Iraq, killing three IRGC-linked proxy fighters."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "724f0b9730c26fea",
@@ -1415,6 +1707,43 @@
     "lng": 52.0
   },
   {
+    "id": "4138f922c57e6224",
+    "title_original": "CENTCOM confirms US troops killed in Iran’s retaliatory strikes",
+    "content_original": "CENTCOM confirms US troops killed in Iran’s retaliatory strikes",
+    "url": "https://presstv.ir/Detail/2026/03/01/764871/centcom-confirms-us-troops-killed-iran-retaliatory-strikes",
+    "published": "2026-03-01T19:52:08.698441+00:00",
+    "fetched_at": "2026-03-01T19:52:08.698443+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "CENTCOM confirms US troops killed in Iran's retaliatory strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has killed US troops in retaliatory strikes, confirmed by CENTCOM. These strikes represent Iran's direct military response to US attacks on Iranian assets and territory, marking a significant escalation from proxy attacks to direct Iran-US combat. The confirmed casualties indicate that Iranian ballistic missiles and/or drones have successfully struck US personnel at bases in Iraq, Syria, or elsewhere in the Gulf region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "killed",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "CENTCOM"
+      ],
+      "location": "Middle East (Iran/Iraq/Syria region)",
+      "brief": "Iran conducted direct retaliatory military strikes on US troops, confirmed by CENTCOM to have caused casualties, marking a significant escalation from proxy warfare to direct Iran-US combat."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "d18c80eaf1c2ab67",
     "title_original": "МИД Ирана прокомментировал потерю нескольких военных командиров",
     "content_original": "МИД Ирана прокомментировал потерю нескольких военных командиров",
@@ -1595,6 +1924,119 @@
     "lng": 54.0
   },
   {
+    "id": "19268e94f2388916",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: سقوط صاروخ وسط \"إسرائيل\". #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: سقوط صاروخ وسط \"إسرائيل\". #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156826",
+    "published": "2026-03-01T19:45:30+00:00",
+    "fetched_at": "2026-03-01T19:53:23.447028+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Media: Rocket Falls in Central Israel",
+    "relevant": true,
+    "summary_en": "Israeli media reports a rocket falling in central Israel. This represents a continued security threat to the Israeli homefront, likely from Hezbollah or Iranian proxy forces in the north, demonstrating the ongoing multi-front nature of the conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "proxy",
+      "rocket",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Central Israel",
+      "brief": "Rocket fell in central Israel, likely fired by Hezbollah or Iranian proxy forces, demonstrating continued multi-front threat to Israeli homefront."
+    },
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "7d0940d11fbcc547",
+    "title_original": "قاعدة حتسريم تحت النار",
+    "content_original": "قاعدة حتسريم تحت النار",
+    "url": "https://t.me/Electrohizbullah/156825",
+    "published": "2026-03-01T19:45:05+00:00",
+    "fetched_at": "2026-03-01T19:53:23.446350+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Hatzor Base Under Attack",
+    "relevant": true,
+    "summary_en": "Israeli military base Hatzor has come under fire/attack. The significance lies in the targeting of Israeli military infrastructure amid the broader Iran-US conflict and associated regional hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Hatzor, Israel",
+      "brief": "Israeli military base Hatzor attacked amid Iran-US regional conflict, representing proxy strike on Israeli military infrastructure."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "ae98172c204d0ab5",
+    "title_original": "سقوط صاروخ في النقب",
+    "content_original": "سقوط صاروخ في النقب",
+    "url": "https://t.me/Electrohizbullah/156820",
+    "published": "2026-03-01T19:43:05+00:00",
+    "fetched_at": "2026-03-01T19:53:23.445163+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Rocket Lands in Negev",
+    "relevant": true,
+    "summary_en": "A rocket has landed in the Negev region of southern Israel. The incident represents another attack on Israeli territory as part of the ongoing regional hostilities connected to the Iran–US conflict and Tehran's proxy operations against Israel and US allies in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "rocket",
+      "attack",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Negev, southern Israel",
+      "brief": "A rocket landed in Israel's Negev region as part of ongoing Iran-linked proxy hostilities against Israeli territory."
+    },
+    "lat": 31.25,
+    "lng": 34.79
+  },
+  {
     "id": "8ffe2529a6ba323e",
     "title_original": "КСИР: ВС Ирана поразили три танкера, принадлежащих США и Британии",
     "content_original": "КСИР: ВС Ирана поразили три танкера, принадлежащих США и Британии",
@@ -1671,6 +2113,48 @@
     "lng": 52.0
   },
   {
+    "id": "265112e4a61516c7",
+    "title_original": "‘Peacemaker’ Trump starts a war with Iran – podcast",
+    "content_original": "The US and Israel launched a joint military operation against Iran on Saturday, killing Iran’s supreme leader, Ayatollah Ali Khamenei. Why did Trump decide (again) to attack Iran during negotiations on a nuclear deal with the Islamic Republic? How does he sell a new war in the Middle East, with potential US casualties, to people at home? What happens next for Iran? In this special collaboration with Today in Focus , Annie Kelly speaks to the Guardian’s diplomatic editor, Patrick Wintour. Archive: CBS News, NBC News, PBS Newshour, CNN, Fox News Continue reading...",
+    "url": "https://www.theguardian.com/politics/audio/2026/mar/01/peacemaker-trump-starts-war-with-iran-podcast",
+    "published": "2026-03-01T19:42:07+00:00",
+    "fetched_at": "2026-03-01T19:53:10.740114+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "'Peacemaker' Trump starts a war with Iran – podcast",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel launched a joint military operation against Iran on Saturday, killing Iran's supreme leader Ayatollah Ali Khamenei. The podcast examines Trump's decision to attack Iran during nuclear deal negotiations and how he might sell the war to the American public. This represents a major escalation in the Iran-US conflict, eliminating Iran's highest religious and political leader and likely triggering significant retaliatory actions from Tehran.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "military operation",
+      "attack",
+      "nuclear",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "Donald Trump",
+        "Ayatollah Ali Khamenei"
+      ],
+      "location": "Iran",
+      "brief": "US and Israel launched a joint military operation killing Iran's Supreme Leader Ayatollah Ali Khamenei during nuclear deal negotiations."
+    },
+    "merged_source_count": 3,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "a5dd6094d6213f3a",
     "title_original": "Трамп утверждает, что в ходе операции в Иране погибли 48 руководителей",
     "content_original": "Американский лидер отметил, что операция продвигается быстро",
@@ -1705,6 +2189,187 @@
     "merged_source_count": 3,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "7ecf97a8b9cdf4be",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في بئر السبع ومحيطها. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في بئر السبع ومحيطها. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156812",
+    "published": "2026-03-01T19:32:52+00:00",
+    "fetched_at": "2026-03-01T19:53:23.441552+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "#إعلام_العدو   صفارات الإنذار تدوي في بئر السبع ومحيطها. #الإعلام_الحربي",
+    "summary_en": "{\"h\":\"Sirens Sound in Beersheba and Surrounding Areas\",\"r\":true,\"s\":\"Air raid sirens sounded in Be",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Israel"
+      ],
+      "location": "Beersheba, Israel",
+      "brief": "Air raid sirens sounded in Beersheba and surrounding areas indicating incoming threat"
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "79e0eb1150c5dad5",
+    "title_original": "Iran’s military options limited as it tries to hit back at US-Israeli attack",
+    "content_original": "Retaliatory strikes have so far been high in volume but mostly not very effective and are likely to become less so US-Israel war on Iran – latest updates In the grim calculus of war, Iran now has to hope it gets lucky. The first hours of the joint US-Israeli assault were catastrophic for the Iranian regime: the supreme leader, Ali Khamenei, killed alongside, it is believed, the minister of defence, the head of the armed forces and the head of the powerful Revolutionary Guards. Iran knew its security apparatus had been compromised during the 12-day war of June 2025 when Israel killed a string of senior military commanders. During January’s street protests, Khamenei was moved away to a secure location for his own safety, yet on Saturday he felt safe enough to hold a security meeting in his compound in Tehran. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/mar/01/iran-military-options-limited-us-israel-attack",
+    "published": "2026-03-01T19:31:41+00:00",
+    "fetched_at": "2026-03-01T19:53:10.740355+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran’s military options limited as it tries to hit back at US-Israeli attack",
+    "translated": true,
+    "summary_en": "{\"h\":\"Iran's military options limited as it tries to hit back at US-Israeli attack\",\"r\":true,\"s\":\"Iran's retaliatory strikes have been high in volume but largely ineffective and are likely to become less so. The first hours of the",
+    "relevant": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Western Asia/Middle East",
+      "brief": "Iran's retaliatory strikes against US-Israeli targets are high in volume but largely ineffective as its military options become increasingly limited."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "6c73417677afe188",
+    "title_original": "#الجمهورية_الإسلامية   العلاقات العامة لحرس الثورة: بدء الموجة التاسعة من عملية \"الوعد الصادق 4\" ضد أهداف في أنحاء ال...",
+    "content_original": "#الجمهورية_الإسلامية العلاقات العامة لحرس الثورة: بدء الموجة التاسعة من عملية \"الوعد الصادق 4\" ضد أهداف في أنحاء الأراضي المحتلة وأهداف أميركية في المنطقة",
+    "url": "https://t.me/Electrohizbullah/156811",
+    "published": "2026-03-01T19:30:42+00:00",
+    "fetched_at": "2026-03-01T19:53:23.440931+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC Public Relations: Ninth Wave of 'True Promise 4' Operation Begins Against Targets in Occupied Lands and American Targets in Region",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) has announced the commencement of the ninth wave of the 'True Promise 4' military operation, targeting Israeli positions throughout the occupied territories and American military assets in the region. This continued escalation marks another major Iranian strike campaign as part of the ongoing Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "military operation",
+      "strike",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Middle East (occupied territories/American regional targets)",
+      "brief": "IRGC launches ninth wave of 'True Promise 4' operation targeting Israeli positions and American military assets in the region."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "0b8b76bd5062a997",
+    "title_original": "US confirms three soldiers killed in Iran attacks",
+    "content_original": "The US military has confirmed at least three of its soldiers have been killed in its war with Iran.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/1/us-confirms-three-soldiers-killed-in-iran-attacks?traffic_source=rss",
+    "published": "2026-03-01T19:30:38+00:00",
+    "fetched_at": "2026-03-01T19:52:39.946791+00:00",
+    "source_name": "Al Jazeera English",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "US confirms three soldiers killed in Iran attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US military has confirmed at least three soldiers killed in Iranian attacks, marking direct American casualties in the escalating Iran-US conflict. This represents a significant escalation in hostilities, as Iranian ballistic missiles and drones have directly struck US personnel and bases in the region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "ballistic",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "gulf",
+      "brief": "Iranian ballistic missiles and drones strike US personnel, killing three American soldiers and marking direct Iranian casualties in escalating Iran-US conflict."
+    },
+    "lat": 29.9665252,
+    "lng": -85.2175889
+  },
+  {
+    "id": "ee8902601acbffd7",
+    "title_original": "How Israeli sleight and US might led to the assassination of Ali Khamenei",
+    "content_original": "An operation decades in the making took just 60 seconds to carry out, but some question its wisdom The assassination of Iran’s supreme leader, Ayatollah Ali Khamenei, was the culmination of decades of painstaking intelligence gathering by Israeli secret services, with crucial technological resources and manpower provided over the last six months by the CIA and other US intelligence services, that culminated in a single concentrated burst of lethal violence to decapitate the Iranian regime, according to experts, veteran spies and officials in Israel and the US. Khamenei was killed along with seven “members of the top Iranian security leadership who had gathered at several locations in Tehran” and around a dozen members of his family and close entourage in near-simultaneous strikes within 60 seconds, military officials in Israel said. Forty other senior Iranian leaders also died in the attack. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/mar/01/how-israeli-sleight-and-us-might-led-to-the-assassination-of-ali-khamenei",
+    "published": "2026-03-01T19:27:25+00:00",
+    "fetched_at": "2026-03-01T19:53:10.740574+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "How Israeli sleight and US might led to the assassination of Ali Khamenei",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli intelligence, with crucial CIA and US intelligence support over six months, assassinated Iran's Supreme Leader Ayatollah Ali Khamenei along with seven members of top Iranian security leadership at multiple locations in Tehran. The operation, described as decades in the making, represents a major decapitation strike aimed at collapsing the Iranian regime.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran",
+        "CIA",
+        "IRGC"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Israeli intelligence with US CIA support assassinated Iran's Supreme Leader Ali Khamenei and seven senior IRGC officials in a multi-location covert operation in Tehran."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "1c657354b393a72f",

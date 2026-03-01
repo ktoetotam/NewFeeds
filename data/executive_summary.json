@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-01T19:48:42.590116+00:00",
+  "generated_at": "2026-03-01T20:15:50.691565+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 704,
-    "incident_count_6h": 237,
+    "incident_count_24h": 712,
+    "incident_count_6h": 230,
     "severity_breakdown": {
-      "major": 292,
+      "major": 300,
       "high": 272,
       "medium": 137,
       "low": 3
     }
   },
   "source_count": {
-    "attacks_analyzed": 126,
-    "articles_analyzed": 154,
+    "attacks_analyzed": 133,
+    "articles_analyzed": 158,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -31,57 +31,56 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has escalated dramatically with confirmed US casualties (3 killed, 5 wounded) in Iranian retaliatory strikes on Gulf bases. US-Israeli bombardment continues across Iran, with the death toll from the Minab school strike rising to 153 girls. Iran has struck multiple Gulf targets including Kuwait, Bahrain, Qatar, and the UAE. A potential diplomatic opening emerges: Trump confirms Iran's 'new leadership' has agreed to talks. Meanwhile, NATO is adjusting force deployments and France has deployed its carrier Charles de Gaulle to the Eastern Mediterranean.",
+  "executive_summary": "The Iran-US conflict has reached a critical inflection point with confirmed US combat casualties (3 killed, 5 wounded) and Iranian retaliation striking Gulf bases. Supreme Leader Khamenei's death in the Feb 28 US-Israeli strike has triggered massive Iranian retaliation across the region, including attacks on Kuwait, Bahrain, Qatar, Erbil, and direct missile strikes on Israeli civilian areas. Over 1,000 US strikes on Iranian targets confirmed. The UAE has closed its Tehran embassy and the UK is planning mass evacuations as the conflict expands beyond a purely military confrontation.",
   "whats_new": [
-    "Trump confirms Iran's 'new leadership' has agreed to talks — potential diplomatic opening after Khamenei's killing",
-    "Death toll rises to 153 girls in US-Israeli strike on Minab school (was 148) — confirmed by Iranian Education Ministry",
-    "IRGC claims complete destruction of US Ali Al-Salem naval base in Kuwait and strikes on Bahrain Salman Port",
-    "B-2 stealth bombers footage released by US targeting ballistic missile facilities inside Iran",
-    "UAE closes embassy in Tehran and withdraws ambassador — diplomatic escalation with Gulf state",
-    "France deploys aircraft carrier Charles de Gaulle to Eastern Mediterranean — NATO announces force posture adjustments",
-    "Unconfirmed reports: former president Mahmoud Ahmadinejad possibly killed in Tehran strike (single source, requires verification)",
-    "Iranian state media: Gandhi Hospital in Tehran struck by US-Israeli forces, newborns evacuated"
+    "US Central Command confirms 3 US service members killed and 5 seriously wounded in Iranian ballistic missile and drone attacks on Gulf bases - first American combat deaths",
+    "IRGC claims complete destruction of Ali Al-Salem naval base in Kuwait and 4 drone strikes on Salman Port in Bahrain, plus 3 US/UK oil tankers struck in Persian Gulf",
+    "Iranian ballistic missile strike on Beit Shemesh, Israel kills 9 civilians with 11 missing - highest single-day Israeli casualty toll in conflict",
+    "UAE announces closure of Tehran embassy and withdrawal of all diplomatic staff - major diplomatic rupture between Iran and Gulf state",
+    "UK Foreign Office begins planning evacuation of tens of thousands of British citizens from the Middle East",
+    "Texas shooting leaves 2 dead, 14 injured - FBI treating as potential Iran-linked terrorism, shooter wore Iranian flag shirt",
+    "French nuclear carrier Charles de Gaulle changes course, deployment shortened amid ongoing hostilities"
   ],
   "confirmed_events": [
-    "Three US service members killed in action, five seriously wounded — first confirmed US combat deaths in conflict (CENTCOM confirmed)",
-    "Iranian ballistic missile strike on Beit Shemesh, Israel killed 9 civilians — highest single-day Israeli casualties since conflict began",
-    "US-Israeli strikes killed Supreme Leader Khamenei, defense minister, IRGC commander-in-chief — confirmed by multiple sources",
-    "IRGC claims 3 US/British oil tankers struck in Persian Gulf — significant escalation targeting energy infrastructure",
-    "At least 22 pro-Iran protesters killed in Pakistan and Iraq following Khamenei's death"
+    "CENTCOM confirms 3 US soldiers killed and 5 wounded in Iranian retaliatory strikes on Gulf bases - marking direct US casualties in escalating conflict",
+    "US-Israeli airstrike killed Iran's Supreme Leader Ali Khamenei on February 28 along with senior officials - confirmed by multiple sources",
+    "Death toll rises to 153 female students in US-Israeli strike on Minab girls' school in Hormozgan province - Iranian Education Ministry confirmed",
+    "IRGC conducting widespread strikes across Gulf: Kuwait (Ali Al-Salem base), Bahrain (Salman Port), Qatar (Al-Udeid), Erbil (US base), and Persian Gulf tanker attacks",
+    "Israeli Defense Forces report 2,000 bombs dropped on Iran since conflict began - equivalent to 50% of total from June 2025's 12 Day War",
+    "UAE closes Abu Dhabi Securities Exchange and Dubai Financial Market March 2-3 following Iranian missile strikes on Gulf territory"
   ],
   "unverified_emerging": [
-    "Unconfirmed reports: Mahmoud Ahmadinejad killed in strike on Tehran home (single source, Iranian state media)",
-    "IRGC claims Israeli 'TAT' radar in UAE destroyed by precision missile — requires independent verification",
-    "IRGC claims strike on USS Abraham Lincoln — Pentagon denies report",
-    "Explosion reported in Tehran — unconfirmed, potential additional strikes",
-    "IRGC claims 4 drones struck Bahrain Salman Port causing significant damage"
+    "Unconfirmed reports former Iranian president Mahmoud Ahmadinejad killed in strike on Tehran home - source: state media claims requiring verification",
+    "Unconfirmed explosion reported in Tehran during ongoing US-Iran conflict - potential major escalation signal",
+    "IRGC claims strike on USS Abraham Lincoln aircraft carrier - Pentagon denies report, conflicting claims on maritime engagement",
+    "Turkish border sources report Iranians trapped at Khoy border gate attempting to flee - unverified civilian displacement claim"
   ],
   "operational_impacts": {
     "people_travel": [
-      "Dubai, Abu Dhabi, Doha airports closed — hundreds of thousands of travellers stranded or diverted",
-      "UK evacuation plan activated for 76,000 British nationals stranded in Dubai and Middle East",
-      "Turkish-Iran border crossings blocked as Iranians flee the conflict zone"
+      "UK Foreign Office actively planning evacuation of tens of thousands of British citizens from the Middle East - significant displacement operation initiated",
+      "UAE capital markets closed March 2-3 as regional financial hubs halt operations following Iran strikes on Gulf targets",
+      "Travel advisory escalation expected across Gulf states as Iranian proxy threats expand beyond military targets"
     ],
     "supply_chain": [
-      "Gulf port operations halted across multiple hubs — worst business disruption since pandemic",
-      "Chabahar/Konarak naval and airbase destroyed by US strikes — significant loss of Iranian strategic infrastructure",
-      "IRGC claims oil tankers targeted — potential global oil supply route disruption"
+      "Strait of Hormuz under direct threat - Iran has repeatedly threatened closure and struck tankers, global oil supply routes at risk",
+      "UAE ports and financial markets closed March 2-3, disrupting regional shipping and trade flows",
+      "Three US and British oil tankers struck in Persian Gulf by IRGC - significant impact on energy shipping lanes"
     ],
     "market_macro": [
-      "US crude oil futures set to top $70/barrel on Iran supply disruption fears",
-      "OPEC's fourth-largest producer Iran facing severe output disruption",
-      "Regional business shutdown triggering economic instability across Gulf states"
+      "UAE stock markets closed for two consecutive days - first such emergency closure in recent memory",
+      "Global energy markets on edge as Iran war threatens oil supplies through Strait of Hormuz",
+      "Regional airline stocks and tourism sector facing severe disruption as conflict expands beyond military zones"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The conflict is at a critical inflection point. Military operations will likely continue for 24-48h as Iran retaliates, but the diplomatic opening (Iran agreeing to talks) provides a potential off-ramp. US-Israeli strikes on Iranian leadership have degraded command structure, creating uncertainty about Iranian response coherence. Gulf states are closing ranks with UAE withdrawing from Tehran — further Iranian attacks on Gulf partners will deepen regional isolation. Expect continued Iranian proxy attacks (Hezbollah, Houthis) against Israel and continued Gulf targeting.",
+    "base_case": "The conflict is likely to intensify over the next 24-72 hours as Iran responds to the decapitation strike on Khamenei with continued retaliation across the Gulf and against Israel. US force posture indicates sustained operations with over 1,000 targets struck and more aircraft carriers converging on the region. Iranian proxy attacks (Hezbollah, Houthi) will continue expanding the front beyond the Gulf. Civilian casualties on all sides are expected to rise significantly.",
     "escalation_risks": [
-      "Iranian sleeper cells activation in US or Gulf states — counterterrorism agencies on high alert",
-      "Further mass casualty strikes on Israeli civilians (Beit Shemesh precedent)",
-      "Iranian attacks on additional Gulf energy infrastructure causing oil price shock",
-      "Unverified claims of senior US warship hit could trigger major escalation if confirmed",
-      "Pro-Iran protests spreading in Pakistan/Iraq could destabilize additional states"
+      "Iranian threats to close Strait of Hormuz becoming more credible as tanker attacks increase - could trigger global energy crisis",
+      "Hezbollah expanding rocket/drone attacks on Israel from Lebanon - northern Israel front widening",
+      "Possible Iranian sleeper cell activation in US or allied territory - Texas shooting may be early signal",
+      "Russian or Chinese intervention could escalate conflict beyond regional bounds",
+      "Turkey border instability as Iranian citizens attempt mass flight from conflict zones"
     ],
-    "de_escalation_pathways": "Trump-Iran talks, if they occur, represent the primary de-escalation channel. Jordanian King Abdullah II actively working diplomatic mediation. Key question is whether Iran's interim leadership can control IRGC tempo and accept negotiated settlement after losing top leadership. Alternatively, IRGC could pursue maximalist retaliation forcing US to escalate further. French and NATO military positioning may serve as backstop to prevent wider regional war."
+    "de_escalation_pathways": "Diplomatic channels remain theoretically open despite battlefield escalation - Trump previously acknowledged 'new leadership' talks, though Khamenei's death complicates any negotiation with Iran's current leadership. However, battlefield momentum and civilian casualty images (Minab school, Beit Shemesh) create powerful incentives for continued fighting rather than compromise. Any de-escalation would require major third-party mediation (Turkey, Oman, or UN) and face significant domestic political opposition on all sides."
   }
 }

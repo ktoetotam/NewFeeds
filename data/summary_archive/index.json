@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T19-48-42.590116_plus_00-00.json",
+    "generated_at": "2026-03-01T19:48:42.590116+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 704,
+    "summary_preview": "The Iran-US conflict has escalated dramatically with confirmed US casualties (3 killed, 5 wounded) in Iranian retaliatory strikes on Gulf bases. US-Israeli bombardment continues across Iran, with the "
+  },
+  {
     "filename": "2026-03-01T19-20-05.233828_plus_00-00.json",
     "generated_at": "2026-03-01T19:20:05.233828+00:00",
     "threat_label": "MAJOR",
