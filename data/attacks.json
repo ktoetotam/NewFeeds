@@ -1,5 +1,42 @@
 [
   {
+    "id": "76cc41ed93960ee1",
+    "title_original": "Operation Epic Fury: How Trump-led US strikes in Tehran killed Iran's Supreme Leader Khamenei, family",
+    "content_original": "Operation Epic Fury, a US military action under Donald Trump, achieved its main goal. Iran's Supreme Leader Ayatollah Ali Khamenei was killed in strikes on Tehran. The operation also targeted Khamenei's daughter and grandchild. The offensive marked a major escalation, aiming to dismantle the Khamenei-led establishment. Explosions were reported across several Iranian cities.",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/operation-epic-fury-how-trump-led-us-strikes-in-tehran-killed-irans-supreme-leader-khamenei-family/articleshow/128902314.cms",
+    "published": "2026-03-01T06:30:28+05:30",
+    "fetched_at": "2026-03-01T01:13:11.313490+00:00",
+    "source_name": "Times of India World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "US strikes in Tehran kill Iran's Supreme Leader Khamenei and family",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US, under Operation Epic Fury, conducted strikes in Tehran targeting and killing Iran's Supreme Leader Ayatollah Ali Khamenei, his daughter, and grandchild. This offensive marks a significant escalation in the conflict, aiming to dismantle the Iranian leadership. Explosions were reported across several Iranian cities, indicating a coordinated and widespread attack.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "US airstrikes under Operation Epic Fury killed Iran's Supreme Leader Ayatollah Ali Khamenei and his family, marking a major escalation in US-Iran conflict."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "01a0fd9d447c20dc",
     "title_original": "Trump properties in Dubai attacked? Claim viral amid Palm Jumeirah fire as Iran strikes back",
     "content_original": "Iran unleashed a massive missile and drone attack, with Dubai facing the brunt of it, after the US and Israel mounted an offensive.&nbsp;",
@@ -109,6 +146,79 @@
     },
     "lat": 32.08,
     "lng": 34.78
+  },
+  {
+    "id": "6100a201df307e4f",
+    "title_original": "СМИ: в результате ударов Ирана по Израилю пострадал 121 человек",
+    "content_original": "СМИ: в результате ударов Ирана по Израилю пострадал 121 человек",
+    "url": "https://ria.ru/20260301/udar-2077575146.html",
+    "published": "2026-03-01T04:05:09+03:00",
+    "fetched_at": "2026-03-01T01:12:46.696858+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian strikes on Israel result in 121 casualties",
+    "relevant": true,
+    "summary_en": "Iran launched strikes targeting Israel, causing 121 casualties. This represents a significant escalation in the ongoing conflict between Iran and Israel, with potential regional implications. The incident highlights the direct military confrontation between the two nations amidst broader Middle Eastern tensions.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched strikes on Israel resulting in 121 casualties, marking a significant escalation in the conflict with potential regional implications."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "63f4ddfeffa284a8",
+    "title_original": "Al Hadath: город-порт Бушер в Иране подвергся ракетной атаке",
+    "content_original": "Al Hadath: город-порт Бушер в Иране подвергся ракетной атаке",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26595271",
+    "published": "2026-03-01T04:03:23+03:00",
+    "fetched_at": "2026-03-01T01:12:45.770558+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Bushehr Port Targeted in Missile Attack",
+    "relevant": true,
+    "summary_en": "The Iranian port city of Bushehr was hit by a missile attack, as reported by Al Hadath. This strike on a critical port facility could impact Iran's naval operations and logistics in the Persian Gulf region. The attack signifies an escalation in hostilities targeting Iran's infrastructure amidst the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "missile",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Unknown attacker"
+      ],
+      "location": "Bushehr, Iran",
+      "brief": "Bushehr port in Iran was targeted in a missile attack, indicating escalation and potential impact on regional naval operations."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "410779dd5e6ff377",
@@ -1220,6 +1330,80 @@
     "lng": 54.0
   },
   {
+    "id": "51f519896857cb03",
+    "title_original": "— ❗️ 🇺🇸 / 🇮🇷 / 🇰🇼 / 🇨🇳  NEW:  Satellite imagery released by China shows at least 4 impacts at Ali Al-Salem Airbase in...",
+    "content_original": "— ❗️ 🇺🇸 / 🇮🇷 / 🇰🇼 / 🇨🇳 NEW: Satellite imagery released by China shows at least 4 impacts at Ali Al-Salem Airbase in Kuwait as a result of Iranian ballistic missile strikes @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69739",
+    "published": "2026-03-01T01:07:48+00:00",
+    "fetched_at": "2026-03-01T01:13:34.175033+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Chinese satellite imagery reveals impacts at Kuwait's Ali Al-Salem Airbase from Iranian missile strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched ballistic missile strikes on Ali Al-Salem Airbase in Kuwait, resulting in at least four impacts, as shown by Chinese satellite imagery. This indicates a direct Iranian attack on a US-aligned facility in Kuwait, escalating regional tensions and posing a threat to US assets in the Gulf region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "threat",
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Kuwait",
+        "China (satellite imagery)"
+      ],
+      "location": "Ali Al-Salem Airbase, Kuwait",
+      "brief": "Iran launched ballistic missile strikes on a US-aligned airbase in Kuwait, causing multiple impacts and escalating regional tensions significantly."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "ea9163d8c83e5e37",
+    "title_original": "#الجمهورية_الإسلامية   ايران تطلق موجة جديدة من الهجمات الصاروخية على العدو بدأت القوات المسلحة الايرانية، قبل دقائق،...",
+    "content_original": "#الجمهورية_الإسلامية ايران تطلق موجة جديدة من الهجمات الصاروخية على العدو بدأت القوات المسلحة الايرانية، قبل دقائق، بإطلاق موجة جديدة من الصواريخ باتجاه مواقع العدو.",
+    "url": "https://t.me/Electrohizbullah/156281",
+    "published": "2026-03-01T01:04:36+00:00",
+    "fetched_at": "2026-03-01T01:13:37.763790+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran Launches New Wave of Missile Attacks on Enemy Targets",
+    "relevant": true,
+    "summary_en": "Iran's armed forces have initiated a new wave of missile strikes targeting enemy positions. This development signifies an escalation in ongoing hostilities. The strategic significance lies in Iran's continued use of missile attacks as a primary means of engaging adversaries.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iranian proxies"
+      ],
+      "location": "Middle East",
+      "brief": "Iran has escalated hostilities by launching a new wave of missile attacks targeting enemy positions, indicating increased aggression in the ongoing conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "826c44d5e741510e",
     "title_original": "بدء الموجتين 3 و 4 من عمليات الوعد الصادق-4 ضد الاهداف الاميركية والصهيونية",
     "content_original": "بدات الموجتان 3 و 4 من عمليات \"الوعد الصادق 4\" بصورة مستمرة ضد الاهداف العسكرية والامنية لاميركا والكيان الصهيوني بصواريخ اكثر تطورا من صواريخ \"الوعد...",
@@ -1325,6 +1509,41 @@
     "merged_source_count": 3,
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "3524abea909a2fed",
+    "title_original": "Reported airstrike hits Iranian girls’ school",
+    "content_original": "Iran’s ambassador to the United Nations said the strike killed more than 100 children at the girls’ elementary school in southern Iran.",
+    "url": "https://www.washingtonpost.com/world/2026/02/28/iran-airstrike-girls-school-deaths/",
+    "published": "2026-03-01T00:59:12+00:00",
+    "fetched_at": "2026-03-01T01:13:23.140703+00:00",
+    "source_name": "Washington Post World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Airstrike hits Iranian girls’ school",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An airstrike struck an Iranian girls' elementary school in southern Iran, reportedly killing over 100 children. The incident occurred within Iran’s territory and was highlighted by Iran's UN ambassador. This represents a significant escalation in the conflict with potential implications for international response and humanitarian concerns.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "airstrike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran"
+      ],
+      "location": "southern Iran",
+      "brief": "A US airstrike on an Iranian elementary school resulted in over 100 casualties, marking a significant escalation in the conflict."
+    },
+    "lat": 29.0,
+    "lng": 54.0
   },
   {
     "id": "5d1913696dd4e904",
@@ -5169,6 +5388,42 @@
       ],
       "location": "Qazvin, Iran",
       "brief": "Drone strikes killing Iranian military officers in Qazvin highlight the use of unmanned systems in targeted attacks within Iran, signaling escalation in the conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "4d5978b74e5e9cf5",
+    "title_original": "Daughter and grandchild of Iran's Khamenei killed in US-Israeli strikes, state media says",
+    "content_original": "DUBAI, March 1 (Reuters) - Iranian Supreme Leader Ayatollah Ali Khamenei's daughter, grandchild, daughter-in-law and son-in-law were killed in U.S.-Israeli strikes, Iranian state media reported on Sunday. (Reporting by Elwely Elwelly; Editing by Edmund Klamann)",
+    "url": "https://www.al-monitor.com/originals/2026/02/daughter-and-grandchild-irans-khamenei-killed-us-israeli-strikes-state-media-says",
+    "published": "2026-02-28T20:01:39-05:00",
+    "fetched_at": "2026-03-01T01:12:57.785318+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Daughter and grandchild of Iran's Khamenei killed in US-Israeli strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The daughter, grandchild, daughter-in-law, and son-in-law of Iran's Supreme Leader Ayatollah Ali Khamenei were reportedly killed in strikes attributed to US-Israeli operations. This incident occurred within Iran, marking a significant escalation in the conflict. The strategic significance lies in the potential for heightened retaliation from Iran and increased tensions between the involved parties.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli strikes reportedly killed the daughter, grandchild, daughter-in-law, and son-in-law of Iran's Supreme Leader Ayatollah Ali Khamenei, marking a significant escalation in the conflict."
     },
     "lat": 32.65,
     "lng": 54.56

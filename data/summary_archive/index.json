@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T01-09-26.535527_plus_00-00.json",
+    "generated_at": "2026-03-01T01:09:26.535527+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 241,
+    "summary_preview": "The Iran–US conflict has escalated to MAJOR Level 1 (Score 1390) following a US-Israeli coordinated airstrike on Iran on 2026-02-28. Iran has responded with massive ballistic missile barrages against "
+  },
+  {
     "filename": "2026-03-01T00-49-18.957616_plus_00-00.json",
     "generated_at": "2026-03-01T00:49:18.957616+00:00",
     "threat_label": "MAJOR",
