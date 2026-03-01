@@ -35,6 +35,157 @@
     "lng": -79.2854845
   },
   {
+    "id": "10575ebc31d9999b",
+    "title_original": "Армия Израиля зафиксировала новый ракетный залп в сторону страны",
+    "content_original": "Армия Израиля зафиксировала новый ракетный залп в сторону страны",
+    "url": "https://ria.ru/20260301/izrail-2077591092.html",
+    "published": "2026-03-01T08:06:29+03:00",
+    "fetched_at": "2026-03-01T05:11:06.231367+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israeli military detects new rocket barrage towards Israel",
+    "relevant": true,
+    "summary_en": "The Israeli military has detected a new rocket barrage launched towards Israel, likely from Hezbollah or other Iran-backed groups. This incident highlights ongoing tensions and hostilities on Israel's northern border. The rockets' origin and impact are yet to be fully assessed, but it signifies continued threats to Israeli security.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "rocket",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Hezbollah or Iran-backed groups launched a rocket barrage towards Israel, escalating tensions on the northern border."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "d7d9c8eee861cb28",
+    "title_original": "В Иране погиб Верховный лидер Али Хаменеи. Спецэфир телеканала РБК",
+    "content_original": "В Иране во время военной операции США и Израиля погиб Верховный лидер Ирана Али Хаменеи.",
+    "url": "https://www.rbc.ru/rbcfreenews/69a3a3099a79477c9abe164a",
+    "published": "2026-03-01T07:59:38+03:00",
+    "fetched_at": "2026-03-01T05:11:11.238146+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Supreme Leader Ali Khamenei Killed During US-Israeli Military Operation",
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader Ali Khamenei has reportedly been killed in a US-Israeli military operation in Iran. This marks a significant escalation in the ongoing conflict, as Khamenei was the highest authority in Iran's political and military structure. The strategic implications are profound, likely causing further instability and potential retaliatory actions by Iran.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli military operation results in the death of Iran's Supreme Leader Ali Khamenei, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "6e97e02b4f5eb847",
+    "title_original": "СМИ: в столице Бахрейна прогремели взрывы",
+    "content_original": "СМИ: в столице Бахрейна прогремели взрывы",
+    "url": "https://ria.ru/20260301/vzryv-2077590622.html",
+    "published": "2026-03-01T07:57:21+03:00",
+    "fetched_at": "2026-03-01T05:11:06.232554+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions Reported in Bahrain's Capital",
+    "relevant": true,
+    "summary_en": "Explosions have occurred in Manama, Bahrain. This is significant due to Bahrain's proximity to US naval bases and its role as a hub for US military operations in the region. The incident could indicate an escalation in regional tensions or proxy activities linked to the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Bahrain",
+        "IRGC proxies"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "Explosions in Bahrain's capital indicate potential proxy escalation linked to Iran-US conflict due to Bahrain's strategic proximity to US military assets."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "786d4a5f725cb611",
+    "title_original": "КСИР сообщил об ударах по десяткам баз США и штабу ЦАХАЛ",
+    "content_original": "Иран нанес удары более чем по 20 базам США на Ближнем Востоке, зданию командования Армии обороны Израиля (ЦАХАЛ) и оборонному комплексу в Тель-Авиве.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a3c4259a79475ce3b35fdb",
+    "published": "2026-03-01T07:46:42+03:00",
+    "fetched_at": "2026-03-01T05:11:11.238574+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Claims Strikes on Dozens of US Bases and IDF Headquarters",
+    "relevant": true,
+    "summary_en": "The IRGC announced that Iran launched strikes on over 20 US bases in the Middle East, the IDF Command building, and a defense complex in Tel Aviv. This indicates a significant escalation in the conflict, showcasing Iran's capability to target US and Israeli military infrastructure. The strategic significance lies in the potential disruption of US military operations and the provocation of Israel amidst ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|irgc_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US",
+        "Israel",
+        "IDF"
+      ],
+      "location": "Middle East, Tel Aviv",
+      "brief": "IRGC claims to have launched strikes on over 20 US military bases and IDF headquarters in a significant escalation of the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "b5a12c8fb8ae62d6",
     "title_original": "Khamenei — the supreme leader who held ultimate control over Iran’s political, military, religious institutions",
     "content_original": "Iran’s Supreme Leader Ayatollah Ali Khamenei, who ruled he Islamic republic for over 30 years, has been killed in a an strike by US and Israel — the two countries that had been calling for a regime change in Tehran. Khamenei, 86, became Iran’s highest authority in 1989, following the death of the Islamic Republic’s founder, Ayatollah Ruhollah Khomeini. He remained in power after overcoming 1999 student demonstrations, 2009 mass protests sparked by disputed presidential elections and 2019 demonstrations that were brutally suppressed. He also survived the 2022-2023 “Woman, Life, Freedom” movement sparked by the death in custody of Iranian Kurdish woman Mahsa Amini, who had been arrested for allegedly violating the strict dress code for women. As supreme leader, he held ultimate control over Iran’s political, military and religious institutions, shaping domestic policy and guiding foreign relations. An article published in Al Jazeera said “critical to Khamenei’s power is the loyalty of tw...",
@@ -746,6 +897,271 @@
     "lng": 55.27
   },
   {
+    "id": "9849e3c807b2a521",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في الضواحي الجنوبية لتل أبيب. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في الضواحي الجنوبية لتل أبيب. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156403",
+    "published": "2026-03-01T05:08:13+00:00",
+    "fetched_at": "2026-03-01T05:12:02.310038+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air raid sirens sound in southern suburbs of Tel Aviv",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in the southern suburbs of Tel Aviv, indicating a potential threat or attack. This suggests ongoing hostilities and possible rocket or missile fire towards Israeli territory. The incident highlights the continued regional escalation and threats from groups like Hamas or Hezbollah amid the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "missile",
+      "rocket",
+      "hezbollah",
+      "attack",
+      "conflict",
+      "hamas",
+      "threat",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran (indirect)"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Air raid sirens in Tel Aviv suburbs indicate a potential missile or rocket attack by Hezbollah, likely with Iranian support, escalating regional tensions."
+    },
+    "merged_source_count": 2,
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "bc21dd998806ded2",
+    "title_original": "Iran pounds Israel, keeps up attacks on regional U.S. bases overnight",
+    "content_original": "Iran pounds Israel, keeps up attacks on regional U.S. bases overnight",
+    "url": "https://www.tehrantimes.com/news/524357/Iran-pounds-Israel-keeps-up-attacks-on-regional-U-S-bases-overnight",
+    "published": "2026-03-01T05:01:00+00:00",
+    "fetched_at": "2026-03-01T05:10:53.588568+00:00",
+    "source_name": "Tehran Times",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran launches attacks on Israel and regional US bases overnight",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has continued its offensive operations by launching attacks on Israel and US military bases in the region overnight. This escalation indicates Iran's intent to maintain pressure on both Israel and US forces amidst the ongoing conflict. The strategic significance lies in Iran's multi-front approach, targeting both regional US assets and Israel simultaneously.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "offensive",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|proxy_operation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Israel, regional US military bases",
+      "brief": "Iran launched coordinated attacks on Israel and US military bases in the region, indicating a significant escalation in the conflict with multi-front operations."
+    },
+    "merged_source_count": 3,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "75c027f803ce3d1f",
+    "title_original": "Iran announces attacks on Israel, 27 US bases in Middle East",
+    "content_original": "Iran announces attacks on Israel, 27 US bases in Middle East The IRGC on Sunday said that it is carrying out a sixth wave of attacks in retaliation for the US and Israeli bombardment of Iran,&nbsp;state media reported.&nbsp; The report said that the IRGC has launched “extensive missile and drone” attacks on Israel and US military bases in the region. It said that the Israeli Tel Nof airbase, the Israeli army’s command headquarters at HaKirya in Tel Aviv, and a large defence industrial complex in the same city, were attacked, in addition to&nbsp;27 US bases in the region.&nbsp; It added that Iranian forces will “implement a different and harsh step of revenge, with successive, regrettable slaps”.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-announces-attacks-israel-27-us-bases-middle-east",
+    "published": "2026-03-01T05:00:19+00:00",
+    "fetched_at": "2026-03-01T05:11:17.723047+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran announces attacks on Israel and 27 US bases in the Middle East",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC has launched a sixth wave of attacks, targeting Israel and 27 US military bases in the Middle East in retaliation for US and Israeli strikes on Iran. Specific targets include the Tel Nof airbase, the Israeli army's command headquarters in Tel Aviv, and a major defense industrial complex. These attacks signify a significant escalation in the ongoing conflict.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Middle East (Israel and 27 US military bases)",
+      "brief": "Iran's IRGC launches a major retaliatory attack on Israel and 27 US military bases in the Middle East using ballistic missiles and drones."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "50980912de38244d",
+    "title_original": "IRGC says carried out fresh wave of attacks against 27 US bases in West Asia  @PressTV",
+    "content_original": "IRGC says carried out fresh wave of attacks against 27 US bases in West Asia @PressTV",
+    "url": "https://t.me/presstv/177387",
+    "published": "2026-03-01T04:57:52+00:00",
+    "fetched_at": "2026-03-01T05:11:54.545387+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC claims attacks on 27 US bases in West Asia",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC has reportedly launched a new wave of attacks targeting 27 US bases across West Asia. This indicates a significant escalation in hostilities and direct engagement with US military assets in the region. The strategic significance involves a potential expansion of the conflict's geographic scope and increased pressure on US forces in the Middle East.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "West Asia",
+      "brief": "IRGC claims to have launched attacks on 27 US bases across West Asia, indicating a significant escalation in direct military engagement."
+    },
+    "lat": 9.6021766,
+    "lng": 122.4670994
+  },
+  {
+    "id": "6de41e973dad3cde",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في النقب. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في النقب. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156400",
+    "published": "2026-03-01T04:57:31+00:00",
+    "fetched_at": "2026-03-01T05:12:02.308418+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Negev",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in the Negev region of Israel, likely indicating incoming threats such as rockets or missiles. This suggests potential escalation on Israel's southern border, potentially linked to ongoing hostilities with Iran-backed groups like Hamas or Hezbollah.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hamas",
+      "hezbollah",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran-backed groups",
+        "Hezbollah",
+        "Hamas"
+      ],
+      "location": "Negev, Israel",
+      "brief": "Air raid sirens in Israel's Negev region indicate potential escalation involving Iran-backed groups like Hezbollah or Hamas."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "bd9a5213b11238c5",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في أسدود ومحيطها. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في أسدود ومحيطها. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156402",
+    "published": "2026-03-01T04:57:31+00:00",
+    "fetched_at": "2026-03-01T05:12:02.309483+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Ashdod and Surrounding Areas",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Ashdod and its surroundings, likely indicating incoming rocket or missile fire from Gaza or other regional actors. This incident suggests ongoing escalation along Israel's southern border with Gaza or potential involvement of other Iran-backed groups. The military significance includes potential Israeli retaliatory strikes and increased regional tensions.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "rocket",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hamas",
+        "Iran-backed groups"
+      ],
+      "location": "Ashdod, Israel",
+      "brief": "Air raid sirens in Ashdod indicate potential escalation as Israel faces rocket fire likely from Gaza-based Iran-backed groups."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "8ad81245ea53a869",
+    "title_original": "Al Jazeera reports multiple explosions across Qatari capital Doha",
+    "content_original": "Al Jazeera reports multiple explosions across Qatari capital Doha At least 11 explosions were heard on Sunday across the Qatari capital Doha, Al Jazeera reported, quoting residents of the city. On Saturday,&nbsp;Qatar’s Interior Ministry said falling missile fragments injured eight people, one of them seriously, following Iranian strikes on the country. “Eight people were injured by falling missile fragments, one of them seriously,” an official said.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/al-jazeera-reports-multiple-explosions-across-qatari-capital-doha",
+    "published": "2026-03-01T04:53:09+00:00",
+    "fetched_at": "2026-03-01T05:11:17.723281+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Multiple explosions reported in Qatari capital Doha",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Multiple explosions occurred across Doha, Qatar, following earlier missile fragment injuries from Iranian strikes on Saturday. The incidents highlight the escalating regional tensions and the direct impact on US ally Qatar, which hosts significant US military assets.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Iranian missile strikes on Qatar result in multiple explosions in Doha, escalating regional tensions and directly impacting US interests."
+    },
+    "lat": 25.29,
+    "lng": 51.53
+  },
+  {
     "id": "f96d99f3e1abccd8",
     "title_original": "Ayatollah Ali Khamenei, Iran's dictator, killed by air strike at 86",
     "content_original": "At first dismissed as weak and indecisive, Khamenei seemed an unlikely choice for supreme leader after the death of the charismatic Ayatollah Ruhollah Khomeini.",
@@ -782,6 +1198,42 @@
     "merged_source_count": 4,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "56767627cff10670",
+    "title_original": "تظاهرات در بغداد پس از اعلام شهادت آیت‌الله خامنه‌ای",
+    "content_original": "شفقنا &#8211; حملات هوایی آمریکا و اسرائیل که موجب شهادت رهبر انقلاب اسلامی آیت‌الله سید علی خامنه‌ای شد باعث شکل‌گیری اعتراضاتی در بغداد، پایتخت عراق، شده است و تظاهرکنندگان در منطقه سبز شهر با نیروهای امنیتی درگیر شده‌اند. به گزارش سرویس ترجمه شفقنا، تصاویری که در شبکه‌های اجتماعی منتشر شده است معترضانی را نشان می‌دهند [&#8230;] نوشته تظاهرات در بغداد پس از اعلام شهادت آیت‌الله خامنه‌ای اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222469/",
+    "published": "2026-03-01T04:46:10+00:00",
+    "fetched_at": "2026-03-01T05:11:04.706933+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Protests in Baghdad After Announcement of Ayatollah Khamenei's Martyrdom",
+    "relevant": true,
+    "summary_en": "Protests erupted in Baghdad following the reported killing of Iran's Supreme Leader Ayatollah Khamenei in US and Israeli airstrikes. Demonstrators clashed with security forces in the Green Zone, indicating escalating tensions in Iraq amid the ongoing conflict. This signifies potential instability in Iraq and broader regional repercussions from the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "Iraq"
+      ],
+      "location": "Baghdad, Iraq",
+      "brief": "Major escalation as protests erupt in Baghdad following reported US-Israeli airstrikes killing Iran's Supreme Leader Ayatollah Khamenei, indicating potential regional instability."
+    },
+    "lat": 33.31,
+    "lng": 44.39
   },
   {
     "id": "4316421e80d2f66f",
