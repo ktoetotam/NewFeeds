@@ -73,6 +73,195 @@
     "lng": 122.4670994
   },
   {
+    "id": "011e15c33f7103be",
+    "title_original": "Израиль нанес удары по десяткам объектов КСИР в Тегеране",
+    "content_original": "Израиль нанес удары по десяткам объектов КСИР в Тегеране",
+    "url": "https://ria.ru/20260301/izrail-2077738145.html",
+    "published": "2026-03-01T21:58:27+03:00",
+    "fetched_at": "2026-03-01T19:00:54.484400+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel strikes dozens of IRGC facilities in Tehran",
+    "relevant": true,
+    "summary_en": "Israel has conducted strikes targeting dozens of Islamic Revolutionary Guard Corps (IRGC) facilities in Tehran. The attacks represent a significant escalation in Israeli military operations against Iranian military assets. This strike on the Iranian capital marks a major expansion of hostilities in the Iran-Israel conflict, directly targeting Iran's elite military force responsible for the country's ballistic missile program and regional proxy operations.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "irgc",
+      "ballistic",
+      "strike",
+      "missile",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Israel conducted airstrikes targeting dozens of IRGC facilities in Tehran, marking a significant escalation in hostilities against Iranian military assets."
+    },
+    "merged_source_count": 3,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "607ccecd328dc696",
+    "title_original": "СМИ: погибшие при операции против Ирана военные США служили в Кувейте",
+    "content_original": "СМИ: погибшие при операции против Ирана военные США служили в Кувейте",
+    "url": "https://ria.ru/20260301/kuvejt-2077737525.html",
+    "published": "2026-03-01T21:48:19+03:00",
+    "fetched_at": "2026-03-01T19:00:54.485022+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Media: US military killed in operation against Iran served in Kuwait",
+    "relevant": true,
+    "summary_en": "US military personnel who were killed in an operation against Iran had served in Kuwait, according to media reports. The report indicates US forces directly engaged in combat operations against Iranian targets, resulting in American casualties. The Kuwait connection is significant as it represents one of the primary US military staging areas in the Gulf region for operations against Iran.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran (operation target), Kuwait (personnel base)",
+      "brief": "US military personnel killed in direct combat operations against Iranian targets, with casualties sustained during the operation."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "352dcc20cce286f2",
+    "title_original": "ЦАХАЛ заявил, что ударил по штабам КСИР, разведки, ВВС Ирана",
+    "content_original": "ЦАХАЛ заявил, что ударил по штабам КСИР, разведки, ВВС Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603071",
+    "published": "2026-03-01T21:45:24+03:00",
+    "fetched_at": "2026-03-01T19:00:53.427769+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF Claims It Struck IRGC Headquarters, Intelligence, and Iranian Air Force",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) announced strikes against Iranian IRGC command headquarters, intelligence facilities, and Iranian Air Force bases. This represents a significant escalation targeting Iran's core military leadership and air capabilities as part of the ongoing Iran-Israel/United States conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "idf",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC",
+        "Iranian Air Force"
+      ],
+      "location": "Iran",
+      "brief": "IDF announced significant airstrikes targeting IRGC command headquarters, intelligence facilities, and Iranian Air Force bases representing a major escalation against Iran's core military leadership and air capabilities."
+    },
+    "merged_source_count": 3,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "7da4e3da4a4ea3eb",
+    "title_original": "Tasnim: США и Израиль ударили по зданию полиции в пригороде Тегерана",
+    "content_original": "По информации агентства, есть погибшие, под завалами остаются люди",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603045",
+    "published": "2026-03-01T21:44:26+03:00",
+    "fetched_at": "2026-03-01T19:00:53.428158+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israel Strike Police Building in Tehran Suburb",
+    "relevant": true,
+    "summary_en": "US and Israeli forces struck a police building in a Tehran suburb, causing casualties with people still trapped under rubble. This represents a significant escalation of the conflict directly onto Iranian soil.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran suburb, Iran",
+      "brief": "US and Israeli forces struck a police building in a Tehran suburb causing casualties and trapping people under rubble, marking a significant escalation of conflict directly onto Iranian soil."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "dca59adf79335029",
+    "title_original": "Израиль вновь попал под ракетный обстрел Ирана",
+    "content_original": "Силы ПВО начали перехват воздушных целей, сообщила армейская пресс-служба",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603053",
+    "published": "2026-03-01T21:43:51+03:00",
+    "fetched_at": "2026-03-01T19:00:53.428350+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel Again Hit by Iranian Missile Attack",
+    "relevant": true,
+    "summary_en": "Iran launched another missile strike against Israel, prompting air defense forces to intercept airborne targets. The Israeli military press service reported that air defense systems were activated to counter the incoming projectiles. This represents a continuation of the escalating exchange of strikes between Iran and Israel as part of the broader Iran–United States armed conflict.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "air defense",
+      "attack",
+      "strike",
+      "missile",
+      "conflict",
+      "intercept"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched another ballistic missile strike against Israel, continuing the escalating exchange of strikes between the two nations."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "5fd7e711fe0f7a5b",
     "title_original": "'Names will change, regime will stay': How Iranians on the street see life after Khamenei's death in US-Israel strikes",
     "content_original": "Top security chief Ali Larijani announced transition plans and warned Iran would hit Israel and United States with a force “they've never experienced before”",
@@ -143,6 +332,44 @@
     },
     "lat": 11.0046133,
     "lng": 124.6069737
+  },
+  {
+    "id": "82f787cd671375d7",
+    "title_original": "Британские ВВС сбили запущенный по Катару иранский БПЛА",
+    "content_original": "Самолет Typhoon провел оборонительное воздушное патрулирование и применил ракеты класса воздух - воздух для уничтожения дрона, говорится в заявлении Минобороны Соединенного Королевства",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26602937",
+    "published": "2026-03-01T21:36:52+03:00",
+    "fetched_at": "2026-03-01T19:00:53.429753+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "British Air Force shoots down Iranian drone launched at Qatar",
+    "relevant": true,
+    "summary_en": "British RAF Typhoon fighters conducted defensive air patrol and used air-to-air missiles to destroy an Iranian drone heading toward Qatar, according to the UK Ministry of Defense. The incident represents another Iranian drone/missile attack targeting the Gulf region, where Qatar hosts the major Al Udeid US air base, demonstrating the expanding scope of Iranian retaliation against US-aligned targets in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Kingdom",
+        "Qatar",
+        "United States (allied)"
+      ],
+      "location": "Qatar / Gulf Region",
+      "brief": "British RAF Typhoons intercepted and destroyed an Iranian drone targeting Qatar, representing another Iranian attack on Gulf region targets hosting US military assets."
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "4d8444eab0a30e1c",
@@ -286,6 +513,44 @@
       "brief": "Trump claimed US forces destroyed nine Iranian military ships in a naval operation, representing major direct US-Iran military engagement if verified."
     },
     "geocode_failed": true
+  },
+  {
+    "id": "2cca75b525fdbad4",
+    "title_original": "Trump says 48 Iranian 'leaders' killed in US attack - Fox News",
+    "content_original": "— US military says it sank Iranian warship in Gulf of Oman— Iran Guards say &amp;#039;struck&amp;#039; US aircraft carrier USS Abraham Lincoln, Pentagon deniesPA...",
+    "url": "https://jordantimes.com/article/10875892/region/trump-says-48-iranian-leaders-killed-in-us-attack---fox-news",
+    "published": "2026-03-01T21:13:00+00:00",
+    "fetched_at": "2026-03-01T19:01:12.736987+00:00",
+    "source_name": "Jordan Times (News)",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Trump says 48 Iranian 'leaders' killed in US attack - Fox News",
+    "translated": true,
+    "summary_en": "{\"h\":\"Trump says 48 Iranian leaders killed in US attack\",\"r\":true,\"s\":\"President Trump claimed 48 Iranian leaders were killed in a US military attack, as US forces sank an Iranian warship in the Gulf of Oman. Meanwhile, IRGC claimed to have struck the USS Abraham Lincoln, though the Pentagon denied this report. The conflicting claims highlight escalating maritime tensions in the Gulf of Oman as pa",
+    "relevant": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "irgc",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran|naval_incident",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC",
+        "USS Abraham Lincoln"
+      ],
+      "location": "Gulf of Oman",
+      "brief": "Trump claimed 48 Iranian leaders killed as US forces sank an Iranian warship in Gulf of Oman while IRGC claimed strikes on USS Abraham Lincoln, which the Pentagon denied."
+    },
+    "lat": 24.2138029,
+    "lng": 58.9845823
   },
   {
     "id": "f1a84f7819c86ffe",
@@ -1370,6 +1635,87 @@
     "lng": 47.8363052
   },
   {
+    "id": "835e64deaac12784",
+    "title_original": "— ❗️ 🇺🇸 / 🇮🇶 / 🇮🇷  NEW: The U.S. base in Erbil, Iraqi Kurdistan, after being targeted by Iranian ballistic missiles a...",
+    "content_original": "— ❗️ 🇺🇸 / 🇮🇶 / 🇮🇷 NEW: The U.S. base in Erbil, Iraqi Kurdistan, after being targeted by Iranian ballistic missiles and Iraqi Resistance drones @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69925",
+    "published": "2026-03-01T18:50:55+00:00",
+    "fetched_at": "2026-03-01T19:01:46.900135+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "U.S. base in Erbil targeted by Iranian ballistic missiles and Iraqi Resistance drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian ballistic missiles and Iraqi Resistance drones have targeted the U.S. base in Erbil, Iraqi Kurdistan. This represents another Iranian retaliatory strike against U.S. forces in Iraq, following the pattern of IRGC and proxy attacks on American installations in the region as part of the ongoing Iran-U.S. conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "irgc",
+      "ballistic",
+      "strike",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike|proxy_operation",
+      "severity": "major",
+      "parties_included": [
+        "Iran",
+        "Iraqi Resistance",
+        "United States",
+        "Iraqi Kurdistan"
+      ],
+      "location": "Erbil, Iraqi Kurdistan",
+      "brief": "Iranian ballistic missiles and Iraqi Resistance drones struck a U.S. base in Erbil, marking another Iranian retaliatory strike against American forces in Iraq."
+    },
+    "merged_source_count": 3,
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "3cb0d44e60b783b0",
+    "title_original": "US troop deaths ignite anger over ‘war for Israel’",
+    "content_original": "US troop deaths ignite anger over ‘war for Israel’ Submitted by MEE staff on Sun, 03/01/2026 - 18:34 Trump promised no more foreign wars. Now first US deaths in Iran war ignite domestic backlash Smoke plumes rise following missile strikes in Tehran on March 1, 2026. The United States and Israel launched strikes against Iran on February 28 (Atta Kenar/AFP) Off Three American service members have been killed and five others seriously wounded while participating in the joint US- Israeli war on Iran , the Pentagon confirmed on Sunday - marking the first US fatalities since the conflict began. US Central Command said additional personnel suffered minor shrapnel wounds and concussions. “Several others sustained minor shrapnel injuries and concussions - and are in the process of being returned to duty. Major combat operations continue and our response effort is ongoing,” the statement read. NBC News, citing US officials, reported that the attack that killed the soldiers occurred in Kuwait. Th...",
+    "url": "https://www.middleeasteye.net/news/us-troop-deaths-ignite-anger-over-war-israel",
+    "published": "2026-03-01T18:48:48+00:00",
+    "fetched_at": "2026-03-01T19:01:10.282429+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US troop deaths ignite anger over ‘war for Israel’",
+    "translated": true,
+    "summary_en": "{\"h\":\"US troop deaths ignite anger over 'war for Israel'\",\"r\":true,\"s\":\"Three American service members have been killed and five seriously wounded while participating in the joint US-Israeli war on Iran, the Pentagon confirmed on Sunday - marking the first US fatalities since the conflict began. The deaths have ignited",
+    "relevant": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "killed",
+      "war",
+      "wounded",
+      "deaths",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "middle_east",
+      "brief": "Three US service members killed and five wounded during joint US-Israeli operations against Iran, marking first US fatalities since conflict began."
+    },
+    "lat": 39.3014159,
+    "lng": -76.5888477
+  },
+  {
     "id": "d1d09d9abe6da3e2",
     "title_original": "Трамп заявил, что операция США против Ирана идет, \"опережая график\"",
     "content_original": "Трамп заявил, что операция США против Ирана идет, \"опережая график\"",
@@ -1408,6 +1754,85 @@
     "merged_source_count": 3,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "468a562704ad65a8",
+    "title_original": "🚨 طبق اخبار رسیده لشکر 31 عاشورا تبریز زیر بمباران جنگنده های آمریکایی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
+    "content_original": "🚨 طبق اخبار رسیده لشکر 31 عاشورا تبریز زیر بمباران جنگنده های آمریکایی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45002",
+    "published": "2026-03-01T18:44:39+00:00",
+    "fetched_at": "2026-03-01T19:01:50.743900+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "31st Ashura Division in Tabriz Under Bombardment by American Fighter Jets",
+    "relevant": true,
+    "summary_en": "Reports indicate that the 31st Ashura Division military base in Tabriz, Iran has been bombed by US fighter jets. This represents a direct strike on Iranian military territory within Iran itself, marking a significant escalation in the ongoing Iran-US conflict. The targeting of a conventional military division (as opposed to IRGC or nuclear facilities) suggests an expansion of US strike targets inside Iran.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "nuclear",
+      "irgc",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_included": [
+        "United States",
+        "Iran",
+        "IRGC",
+        "31st Ashura Division"
+      ],
+      "location": "Tabriz, Iran",
+      "brief": "US fighter jets bombed the 31st Ashura Division military base in Tabriz, marking a direct strike on Iranian territory and a significant escalation in US-Iran conflict."
+    },
+    "lat": 38.08,
+    "lng": 46.29
+  },
+  {
+    "id": "68adc035452c91a6",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في شمال فلسطين المحتلة. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في شمال فلسطين المحتلة. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156763",
+    "published": "2026-03-01T18:38:02+00:00",
+    "fetched_at": "2026-03-01T19:01:52.065157+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Occupied Northern Palestine",
+    "relevant": true,
+    "summary_en": "Air raid sirens have sounded in occupied northern Palestine (northern Israel), indicating a potential incoming attack. This typically suggests Hezbollah or Iranian proxy forces have launched rockets or drones toward the northern Israeli front, an active zone in the broader Iran-US regional conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "proxy",
+      "hezbollah",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Northern Israel (Occupied Palestine)",
+      "brief": "Air raid sirens sounded in occupied northern Palestine indicating potential incoming rocket or drone attack from Hezbollah or Iranian proxy forces."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "c0a447491750fa02",
@@ -7867,6 +8292,44 @@
       "brief": "IRGC claims to have struck the USS Abraham Lincoln with ballistic missiles, marking a major escalation in US-Iran tensions."
     },
     "geocode_failed": true
+  },
+  {
+    "id": "c3012261b33940bc",
+    "title_original": "'A terrible day,' says Israel community shaken by deadly Iranian strike",
+    "content_original": "Ilana Malka doesn't know if her three great-nephews are alive after an Iranian missile struck a shelter in her city of Beit Shemesh, in central Israel, leaving a crater in the ground and a void in the community. The building that housed the shelter was blown to bits by the hit, sending chunks of concrete large enough to destroy cars 50 metres (yards) away. The missile hit the public protection centre while its door was still open to allow people in, Malka and other residents said, killing at least 9, injuring 46, and leaving 11 missing, according to the police.",
+    "url": "https://www.al-monitor.com/originals/2026/03/terrible-day-says-israel-community-shaken-deadly-iranian-strike",
+    "published": "2026-03-01T14:00:31-05:00",
+    "fetched_at": "2026-03-01T19:01:10.461022+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israeli Community Shaken by Deadly Iranian Missile Strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian ballistic missile struck a public shelter in Beit Shemesh, central Israel, killing at least 9 people, injuring 46, with 11 still missing. The missile hit while the shelter door was open to allow civilians in, destroying the building and sending concrete chunks 50 meters away. This strike represents a significant Iranian attack on Israeli civilian infrastructure, marking an escalation in the ongoing Iran-Israel conflict connected to the broader US-Iran hostilities.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "ballistic",
+      "attack",
+      "strike",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, central Israel",
+      "brief": "Iranian ballistic missile struck a civilian shelter in Beit Shemesh, killing at least 9 people and injuring 46 in a major direct Iranian attack on Israeli civilians."
+    },
+    "lat": 31.9,
+    "lng": 34.8
   },
   {
     "id": "8a62862a3132b69c",

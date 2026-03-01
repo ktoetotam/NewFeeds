@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T18-56-50.451688_plus_00-00.json",
+    "generated_at": "2026-03-01T18:56:50.451688+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 679,
+    "summary_preview": "The Iran-US conflict has escalated sharply with 679 incidents in 24h (271 Major). IRGC claims successful strikes on US bases in Kuwait (Ali Al-Salem naval base taken out of service) and Bahrain (Salma"
+  },
+  {
     "filename": "2026-03-01T18-31-05.236314_plus_00-00.json",
     "generated_at": "2026-03-01T18:31:05.236314+00:00",
     "threat_label": "MAJOR",
