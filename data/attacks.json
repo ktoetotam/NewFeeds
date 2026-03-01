@@ -106,6 +106,46 @@
     "lng": 52.0
   },
   {
+    "id": "d7116b5ed56759b4",
+    "title_original": "СМИ: БПЛА пытался атаковать логистический центр посольства США в Багдаде",
+    "content_original": "СМИ: БПЛА пытался атаковать логистический центр посольства США в Багдаде",
+    "url": "https://ria.ru/20260302/tsentr-2077759204.html",
+    "published": "2026-03-02T01:39:59+03:00",
+    "fetched_at": "2026-03-01T22:46:14.442524+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Media: UAV Attempted to Attack Logistics Center of US Embassy in Baghdad",
+    "relevant": true,
+    "summary_en": "A drone (UAV) attempted to attack the logistics center of the US embassy in Baghdad, Iraq. This marks another incident in the ongoing series of attacks on US facilities in Iraq, which has become an active front in the Iran-US conflict. The targeting of the US embassy in Baghdad reflects continued Iranian proxy operations in Iraq and escalates tensions in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "proxy",
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike|iran_strike_on_us|proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC proxies",
+        "United States",
+        "Iraq"
+      ],
+      "location": "Baghdad, Iraq",
+      "brief": "UAV attempted to attack the logistics center of the US embassy in Baghdad, marking another incident in the ongoing series of attacks on US facilities in Iraq by Iran-backed proxies."
+    },
+    "merged_source_count": 4,
+    "lat": 33.31,
+    "lng": 44.39
+  },
+  {
     "id": "2484e87eb61b37e3",
     "title_original": "\"Вступить в войну\": Пушков выступил с предупреждением после ударов по Ирану",
     "content_original": "\"Вступить в войну\": Пушков выступил с предупреждением после ударов по Ирану",
@@ -177,6 +217,40 @@
     },
     "lat": 26.07,
     "lng": 50.55
+  },
+  {
+    "id": "81ff22f884733562",
+    "title_original": "الحرس الثوري: إسقاط طائرتين مسيرتين من طراز هيرمس في تبريز وخرم آباد",
+    "content_original": "أعلنت العلاقات العامة للحرس الثوري عن إسقاط طائرتين مسيرتين من طراز «هيرمس» تابعتين للكيان الصهيوني في مدينتي تبريز وخرم آباد....",
+    "url": "https://www.alalam.ir/news/7420778",
+    "published": "2026-03-02T01:03:57+00:00",
+    "fetched_at": "2026-03-01T22:45:53.864909+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC: Downing of two Hermes drones in Tabriz and Khoramabad",
+    "relevant": true,
+    "summary_en": "The IRGC announced the downing of two Israeli Hermes drones in the cities of Tabriz and Khoramabad. This represents ongoing Israeli aerial attacks on Iranian territory with Iranian air defenses responding, demonstrating continued hostilities between the two nations.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "IRGC",
+        "Israel"
+      ],
+      "location": "Tabriz and Khoramabad, Iran",
+      "brief": "IRGC announced downing two Israeli Hermes drones in Iranian cities, demonstrating ongoing Israeli aerial attacks on Iranian territory with Iranian air defenses responding."
+    },
+    "lat": 38.08,
+    "lng": 46.29
   },
   {
     "id": "9f83ddb6c0f05f57",
@@ -434,6 +508,47 @@
       "brief": "Trump stated expected duration of US military operation against Iran amid ongoing ballistic missile exchanges and strikes on Iranian military assets."
     },
     "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "6a28abe91a828c3e",
+    "title_original": "Khamenei is dead. What happens next?",
+    "content_original": "Iran's Supreme Leader Ali Khamenei has reportedly been killed amid a joint US-Israel military offensive. As the dust settles, the question on everyone's mind is simple: what now?",
+    "url": "https://www.jpost.com/podcast/article-888446",
+    "published": "2026-03-01T23:37:43+00:00",
+    "fetched_at": "2026-03-01T22:46:19.778310+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Khamenei is dead. What happens next?",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader Ali Khamenei has reportedly been killed amid a joint US-Israel military offensive targeting Iranian leadership and strategic assets. His death creates a major power vacuum at the apex of Iran's political and military structure, potentially destabilizing command and control of IRGC forces and complicating Tehran's ability to coordinate ongoing retaliatory operations across multiple fronts.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "death",
+      "irgc",
+      "killed",
+      "offensive",
+      "dead"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "Joint US-Israel military offensive kills Iran's Supreme Leader Ali Khamenei, creating major power vacuum in Iranian leadership structure."
+    },
+    "merged_source_count": 3,
     "lat": 32.65,
     "lng": 54.56
   },
@@ -871,6 +986,44 @@
     "lng": 52.0
   },
   {
+    "id": "75b216143bd63211",
+    "title_original": "تسلل مسيرات ايرانية الى الجليل الأعلى",
+    "content_original": "تسلل مسيرات ايرانية الى الجليل الأعلى",
+    "url": "https://t.me/Electrohizbullah/156931",
+    "published": "2026-03-01T22:46:24+00:00",
+    "fetched_at": "2026-03-01T22:47:11.099329+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Drones Infiltrate Upper Galilee",
+    "relevant": true,
+    "summary_en": "Iranian drones have infiltrated Upper Galilee in northern Israel. This represents another Iranian proxy attack on Israeli territory, further escalating tensions on Israel's northern border amid the broader Iran-US conflict and ongoing Hezbollah operations.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "proxy",
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Upper Galilee, Northern Israel",
+      "brief": "Iranian drones infiltrated Upper Galilee in another Iranian proxy attack on Israeli territory, escalating tensions on Israel's northern border amid the broader Iran-US conflict."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
     "id": "a6082d2571cb18fa",
     "title_original": "First US casualties confirmed: Did Pentagon reveal identities of 3 Service Members killed amid Op Epic fury?",
     "content_original": "The Pentagon reported that three American service members died and five were injured during a joint operation against Iran.",
@@ -1054,6 +1207,42 @@
     "lng": 34.8
   },
   {
+    "id": "aff9f051e7973cd7",
+    "title_original": "🚨 انفجار در پایگاه انگلیس در قبرس ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا...",
+    "content_original": "🚨 انفجار در پایگاه انگلیس در قبرس ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45070",
+    "published": "2026-03-01T22:31:23+00:00",
+    "fetched_at": "2026-03-01T22:47:10.189689+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "🚨 انفجار در پایگاه انگلیس در قبرس ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا...",
+    "summary_en": "{\"h\":\"Explosion at British Base in Cyprus\",\"r\":true,\"s\":\"Reports emerging of an explosion at a British military base in Cyprus. The incident is being tracked amid ongoing Iran",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "United Kingdom",
+        "Iran",
+        "IRGC",
+        "Iranian_proxies"
+      ],
+      "location": "Cyprus",
+      "brief": "Explosion reported at British military base in Cyprus amid ongoing Iran-US tensions, unclear attribution but being tracked in context of regional conflict."
+    },
+    "lat": 34.9174159,
+    "lng": 32.8899027
+  },
+  {
     "id": "034dd89180039f1a",
     "title_original": "Shafaq news: при атаке на позиции \"Катаиб Хезболлах\" в Ираке убиты три человека",
     "content_original": "Как уточнило агентство, удар был нанесен \"американскими и израильскими силами\"",
@@ -1093,6 +1282,40 @@
     },
     "lat": 33.1,
     "lng": 44.17
+  },
+  {
+    "id": "0b33856451df8099",
+    "title_original": "🚨 تبریز و ارومیه زیر حملات هوایی سنگین دشمن ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایرا...",
+    "content_original": "🚨 تبریز و ارومیه زیر حملات هوایی سنگین دشمن ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45069",
+    "published": "2026-03-01T22:29:42+00:00",
+    "fetched_at": "2026-03-01T22:47:10.189148+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Tabriz and Urmia Under Heavy Aerial Attacks by Enemy",
+    "relevant": true,
+    "summary_en": "Two major northwestern Iranian cities, Tabriz and Urmia, are reportedly under heavy aerial bombardment. If confirmed, this represents a significant escalation in the Iran-US conflict, as these cities are located far from the Gulf region and contain industrial and civilian infrastructure. The attacks suggest deeper penetration of Iranian territory than previous strikes.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tabriz and Urmia, Northwestern Iran",
+      "brief": "Two major northwestern Iranian cities of Tabriz and Urmia are reportedly under heavy aerial bombardment by enemy forces, representing a significant escalation in the Iran-US conflict."
+    },
+    "lat": 38.08,
+    "lng": 46.29
   },
   {
     "id": "5fb5de28eb55692c",
@@ -1241,6 +1464,44 @@
     "merged_source_count": 2,
     "lat": 33.1,
     "lng": 44.17
+  },
+  {
+    "id": "7ef9c2c4f31333d0",
+    "title_original": "3 American service members killed in Iranian counterattacks in war's second day",
+    "content_original": "At least three U.S. service members are among the hundreds confirmed dead in a widening war across the Middle East, set off by a string of U.S. and Israeli attacks on Iran this weekend.",
+    "url": "https://www.latimes.com/world-nation/story/2026-03-01/three-u-s-troops-killed-as-iran-counter-attacks-in-widening-war",
+    "published": "2026-03-01T22:23:55+00:00",
+    "fetched_at": "2026-03-01T22:46:59.793172+00:00",
+    "source_name": "LA Times World & Nation",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "3 American service members killed in Iranian counterattacks in war's second day",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "At least three U.S. service members were killed in Iranian counterattacks on the second day of the widening Middle East war, which began after a string of U.S. and Israeli attacks on Iran this weekend. Hundreds have been confirmed dead as the conflict spreads across multiple fronts in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "war",
+      "dead"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Middle East",
+      "brief": "Iranian counterattacks killed three U.S. service members on the second day of the widening Middle East war initiated by U.S. and Israeli strikes on Iran."
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "eacdd4eed4868d07",

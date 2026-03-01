@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-03-01T22:42:29.528109+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 746,
+    "incident_count_6h": 197,
+    "severity_breakdown": {
+      "major": 339,
+      "high": 270,
+      "medium": 134,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 136,
+    "articles_analyzed": 190,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached a critical inflection point with confirmed US military casualties (3 killed, 5 wounded) and direct Iranian strikes on US bases in Kuwait and Erbil. Iran has expanded attacks to include Bahrain (Salman Port), UAE diplomatic assets, and continued ballistic missile barrages against Israel including Beit Shemesh (9 civilian deaths). European powers have formally joined the coalition with UK granting base access for strikes on Iranian missile sites. The conflict now spans nine countries with 746 incidents in 24 hours.",
+  "whats_new": [
+    "Iranian ballistic missile struck civilian shelter in Beit Shemesh, killing at least 9 and injuring 46 — confirmed by multiple sources including Israeli media naming victims",
+    "US CENTCOM confirms 3 service members killed, 5 wounded in Iranian strikes on US bases in Kuwait — first US fatalities in conflict",
+    "IRGC launches 9th wave of Operation True Promise 4 targeting Israeli positions and US regional bases",
+    "UK Prime Minister Starmer confirms UK will allow US to use British bases to strike Iranian missile sites — significant escalation of British support",
+    "UAE closes embassy in Tehran and withdraws all diplomatic staff following Iranian missile attacks",
+    "Bahrain reports Iranian attack on offshore facility near Salman Port — targeting US 5th Fleet host nation",
+    "Trump announces 4-week projected timeline for Iran operation, vows to 'avenge' fallen troops"
+  ],
+  "confirmed_events": [
+    "Multi-source confirmed: Iranian ballistic missiles strike Beit Shemesh, central Israel, killing 9 civilians including a founder's daughter and volunteer medic",
+    "CENTCOM confirms 3 US soldiers killed, 5 wounded in Iranian strikes on Kuwait base — marking direct US casualties",
+    "Iranian missiles strike Tel Aviv damaging ~200 buildings with mass evacuations — confirmed by multiple sources",
+    "IRGC executes multiple waves of Operation True Promise 4 targeting tankers, bases across Gulf region with claimed heavy casualties",
+    "European powers France, Britain, Germany announce formal defensive measures against Iranian military capabilities — coalition expansion confirmed"
+  ],
+  "unverified_emerging": [
+    "CLAIM: Israeli intelligence with US CIA support assassinated Iran's Supreme Leader Ali Khamenei in Tehran — reported by multiple Telegram sources but NO confirmation from official Iranian state media or Western governments. Status: UNVERIFIED",
+    "CLAIM: IRGC claims it targeted US carrier Abraham Lincoln with four cruise missiles causing vessel to flee — US Navy has not confirmed. Status: UNVERIFIED",
+    "CLAIM: Explosions at British RAF Akrotiri base in Cyprus — Israeli Red Alert system detected possible drone strike but no confirmation of impact. Status: UNVERIFIED",
+    "CLAIM: Gandhi Hospital in Iran struck by US-Israeli airstrike forcing evacuation of newborn babies — visual evidence exists but details unconfirmed. Status: PARTIALLY VERIFIED"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Airspace closed in Qatar, Kuwait, and Bahrain until morning — confirmed by aviation authorities",
+      "Emirates, Etihad, Qatar Airways have suspended commercial operations — major regional flight cancellations",
+      "115,000 Australians stranded in Middle East due to cancelled flights — Australian government warns of serious travel disruptions",
+      "UAE educational institutions shifted to distance learning"
+    ],
+    "supply_chain": [
+      "Port closures and airport shutdowns across Gulf region causing most widespread business disruption since pandemic",
+      "Salman Port in Bahrain targeted — key regional maritime infrastructure impacted",
+      "Gulf shipping routes under threat from IRGC tanker and base attacks"
+    ],
+    "market_macro": [
+      "Gulf businesses reel as Iran strikes trigger regional shutdowns — economic impact comparable to pandemic disruption",
+      "Oil markets remain volatile with Strait of Hormuz under threat — GPS jamming and electronic warfare affecting shipping"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue escalating over the next 24-72 hours with Iran attempting to increase missile launch tempo according to Israeli intelligence briefings. US-led coalition will press forward with Operation Epic Fury targeting Iranian missile sites, with UK base access enabling expanded strikes. Iranian proxies in Iraq and Houthis will maintain pressure on US regional assets. The 4-week timeline projected by Trump suggests sustained intensity. Civilian casualties on both sides will likely increase as strikes penetrate deeper into Iranian territory and Israeli population centers.",
+    "escalation_risks": [
+      "Iranian attack on British base in Cyprus would dramatically escalate to include NATO member territory",
+      "Unverified Khamenei assassination claim — if confirmed, would trigger catastrophic Iranian response",
+      "US carrier Abraham Lincoln targeting — if verified, could draw US into broader naval conflict",
+      "Iran significantly increasing missile launch pace as per Israeli intelligence"
+    ],
+    "de_escalation_pathways": "Oman signals diplomatic channels remain open despite ongoing assault, with Foreign Minister stating negotiations between Tehran and Washington have not collapsed. However, with US vowing to 'avenge' fallen troops and Iran confirming it will determine timing and how the war ends, de-escalation appears unlikely in the near-term. Any pathway would require major diplomatic intervention and face significant obstacles given the depth of hostilities and civilian casualties on both sides."
+  }
+}

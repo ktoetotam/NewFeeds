@@ -1,5 +1,22 @@
 [
   {
+    "id": "81ff22f884733562",
+    "title_original": "الحرس الثوري: إسقاط طائرتين مسيرتين من طراز هيرمس في تبريز وخرم آباد",
+    "content_original": "أعلنت العلاقات العامة للحرس الثوري عن إسقاط طائرتين مسيرتين من طراز «هيرمس» تابعتين للكيان الصهيوني في مدينتي تبريز وخرم آباد....",
+    "url": "https://www.alalam.ir/news/7420778",
+    "published": "2026-03-02T01:03:57+00:00",
+    "fetched_at": "2026-03-01T22:45:53.864909+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC: Downing of two Hermes drones in Tabriz and Khoramabad",
+    "relevant": true,
+    "summary_en": "The IRGC announced the downing of two Israeli Hermes drones in the cities of Tabriz and Khoramabad. This represents ongoing Israeli aerial attacks on Iranian territory with Iranian air defenses responding, demonstrating continued hostilities between the two nations.",
+    "translated": true
+  },
+  {
     "id": "45c3a430b413321f",
     "title_original": "عراقجي: نحن من نحدد توقيت وكيفية إنهاء الحرب",
     "content_original": "أكد وزير الخارجية الإيراني، سيد عباس عراقجي، أن الهجمات التي يشنها العدو على العاصمة لن تؤثر مطلقاً في قدرة إيران على مواصلة الحرب....",
@@ -63,6 +80,36 @@
     "skip_translation": false,
     "title_en": "مباحثات هاتفية بين وزيري خارجية إيران والعراق",
     "summary_en": "[API unavailable — Arabic source]",
+    "translated": false
+  },
+  {
+    "id": "f6b7319c93b388fe",
+    "title_original": "Reports of an impact at British Akrotiri Air Force base in Limassol, Cyprus @PressTV",
+    "url": "https://t.me/presstv/177539",
+    "published": "2026-03-01T22:45:47+00:00",
+    "fetched_at": "2026-03-01T22:47:03.424500+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "e8b3550825b662b6",
+    "title_original": "حزب‌الله: تا رسیدن به پیروزی نهایی در کنار ایران می‌ایستیم",
+    "content_original": "شفقنا- حزب‌الله لبنان در پیام تسلیتی در پی شهادت آیت‌الله خامنه‌ای، رهبر جمهوری اسلامی ایران، تأکید کرد که «عهدی ثابت و ابدی با رهبر انقلاب و شهدای مقاومت دارد و تا رسیدن به پیروزی نهایی در کنار ایران می‌ایستد.» به گزارش سرویس ترجمه شفقنا، به نقل از شبکه «المیادین»، حزب الله در بیانیه‌ای ضمن تسلیت [&#8230;] نوشته حزب‌الله: تا رسیدن به پیروزی نهایی در کنار ایران می‌ایستیم اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2223024/",
+    "published": "2026-03-01T22:42:35+00:00",
+    "fetched_at": "2026-03-01T22:46:12.870122+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "حزب‌الله: تا رسیدن به پیروزی نهایی در کنار ایران می‌ایستیم",
+    "summary_en": "[API unavailable — Persian (Farsi) source]",
     "translated": false
   },
   {
