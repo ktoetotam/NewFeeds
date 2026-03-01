@@ -74,6 +74,261 @@
     "lng": 54.0
   },
   {
+    "id": "05b9ef31ea166e2e",
+    "title_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
+    "content_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
+    "url": "https://ria.ru/20260301/vzryvy-2077644868.html",
+    "published": "2026-03-01T13:09:01+03:00",
+    "fetched_at": "2026-03-01T10:11:04.551256+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions Reported in Tehran's Red Crescent Building Area",
+    "relevant": true,
+    "summary_en": "Explosions occurred near the Red Crescent building in Tehran, potentially impacting humanitarian infrastructure. The incident's exact cause and perpetrators are unknown, but it could be linked to ongoing hostilities. This raises concerns about targeting of civilian or humanitarian facilities amidst the conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "unknown"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Explosions near Tehran's Red Crescent building raise concerns about targeting of humanitarian infrastructure amid ongoing hostilities."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "5911253b972e56c5",
+    "title_original": "СМИ: Иран использовал гиперзвуковые крылатые ракеты для ударов по базам США",
+    "content_original": "СМИ: Иран использовал гиперзвуковые крылатые ракеты для ударов по базам США",
+    "url": "https://ria.ru/20260301/iran-2077643473.html",
+    "published": "2026-03-01T13:02:29+03:00",
+    "fetched_at": "2026-03-01T10:11:04.552269+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Uses Hypersonic Cruise Missiles to Strike US Bases",
+    "relevant": true,
+    "summary_en": "Iran reportedly launched hypersonic cruise missiles targeting US military bases in the region. This marks a significant escalation in Iran's military capabilities and tactics against US forces. The use of advanced hypersonic technology poses new challenges for US missile defense systems in the area.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "Iran launches hypersonic cruise missiles targeting US military bases, marking a significant escalation in direct military confrontation."
+    },
+    "merged_source_count": 3,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "7c0ce9d360a6893d",
+    "title_original": "Fars: Иран впервые использовал гиперзвуковые ракеты в ходе ударов по базам США",
+    "content_original": "Fars: Иран впервые использовал гиперзвуковые ракеты в ходе ударов по базам США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26597939",
+    "published": "2026-03-01T13:00:45+03:00",
+    "fetched_at": "2026-03-01T10:11:04.256574+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Uses Hypersonic Missiles for Strikes on US Bases for the First Time",
+    "relevant": true,
+    "summary_en": "Iran has employed hypersonic missiles for the first time to target US bases, marking a significant escalation in the conflict. The strikes occurred on US military installations, though specific locations are not detailed. This development signifies a new level of threat to US forces in the region due to the advanced capabilities of hypersonic weapons.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "threat",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "US military bases in the Middle East",
+      "brief": "Iran has escalated the conflict by using hypersonic missiles to strike US military bases for the first time, marking a significant increase in direct military engagement."
+    }
+  },
+  {
+    "id": "903ff33c2bee5b0a",
+    "title_original": "AFP сообщило о взрывах на востоке Эр-Рияда",
+    "content_original": "Корреспонденты AFP и жители Эр-Рияда сообщили о громких взрывах на востоке столицы Саудовской Аравии. Сообщения поступили на второй день ответных ударов Ирана по странам Персидского залива.",
+    "url": "https://www.kommersant.ru/doc/8477377",
+    "published": "2026-03-01T12:59:11+03:00",
+    "fetched_at": "2026-03-01T10:11:07.735123+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions Reported in Eastern Riyadh",
+    "relevant": true,
+    "summary_en": "Explosions occurred in eastern Riyadh, Saudi Arabia, amid ongoing Iranian retaliatory strikes across the Persian Gulf region. This incident follows the second day of Iranian attacks on Gulf countries, highlighting the escalating conflict and potential threat to Saudi Arabian territory. The strategic significance lies in the potential escalation of hostilities and the impact on regional stability.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "threat",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Saudi Arabia",
+        "Houthis",
+        "IRGC"
+      ],
+      "location": "Riyadh, Saudi Arabia",
+      "brief": "Iranian retaliatory strikes have expanded to Saudi Arabia with explosions reported in eastern Riyadh, indicating escalation of the conflict in the Persian Gulf region."
+    },
+    "merged_source_count": 2,
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
+    "id": "155b2c1bbf445051",
+    "title_original": "Британские военные попали под обстрел Ирана при ударе по базе в Бахрейне",
+    "content_original": "Британские военные попали под обстрел Ирана при ударе по базе в Бахрейне",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26597913",
+    "published": "2026-03-01T12:54:58+03:00",
+    "fetched_at": "2026-03-01T10:11:04.256981+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "British military targeted by Iran during strike on Bahrain base",
+    "relevant": true,
+    "summary_en": "Iranian forces reportedly attacked British military personnel while they were conducting operations against a base in Bahrain. This incident highlights the escalating tensions and direct confrontations between Iran and Western military forces in the Gulf region. The attack signifies an expansion of the conflict's operational scope and direct targeting of coalition forces in the area.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UK",
+        "Bahrain"
+      ],
+      "location": "Bahrain",
+      "brief": "Iranian forces attacked British military personnel in Bahrain, escalating regional tensions and marking a direct confrontation with Western forces."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "c1d7ff167033b07b",
+    "title_original": "ПВО Кувейта поразила несколько целей",
+    "content_original": "ПВО Кувейта поразила несколько целей",
+    "url": "https://ria.ru/20260301/pvo-2077641463.html",
+    "published": "2026-03-01T12:53:50+03:00",
+    "fetched_at": "2026-03-01T10:11:04.553057+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Kuwaiti Air Defenses Intercept Multiple Targets",
+    "relevant": true,
+    "summary_en": "Kuwaiti air defenses intercepted and struck several targets, likely in response to regional tensions amid the Iran-US conflict. This incident highlights the heightened state of alert in Gulf countries due to potential threats from Iranian or Iranian-backed forces. The strategic significance lies in Kuwait's active defense measures to protect its territory and US assets stationed there.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "intercept"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran",
+        "Iran-backed forces"
+      ],
+      "location": "Kuwait",
+      "brief": "Kuwaiti air defenses intercepted multiple targets, likely from Iranian or Iran-backed forces, amid heightened regional tensions."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "12b11449644c576a",
+    "title_original": "Системы ПВО Кувейта перехватили несколько целей на юге страны",
+    "content_original": "Пострадавших нет",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26597905",
+    "published": "2026-03-01T12:50:54+03:00",
+    "fetched_at": "2026-03-01T10:11:04.257762+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Kuwaiti Air Defense Systems Intercept Multiple Targets in Southern Kuwait",
+    "relevant": true,
+    "summary_en": "Kuwait's air defense systems intercepted several targets in the southern part of the country. While there were no reported casualties, the incident highlights the ongoing regional tensions and potential threats to Gulf states amid the Iran-US conflict. The origin and nature of the targets remain unspecified, but it suggests possible missile or drone activity in the area.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "intercept",
+      "conflict",
+      "air defense",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran-US conflict related actors"
+      ],
+      "location": "Southern Kuwait",
+      "brief": "Kuwaiti air defenses intercepted multiple targets in the southern region amid escalating regional tensions due to the Iran-US conflict."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "eba6d8a2bccdeff1",
     "title_original": "Iran fires missiles at Israel, Gulf states after US-Israeli strike kills Khamenei",
     "content_original": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
@@ -268,6 +523,42 @@
     "lng": 178.0431614
   },
   {
+    "id": "46fae053f5e12b10",
+    "title_original": "Why Iran's attack on Gulf states mimics Iraq's assault on Saudi Arabia - analysis",
+    "content_original": "Iran's attack might have the opposite effect, bringing Gulf countries closer together and enabling cooperation with the US and among themselves.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888353",
+    "published": "2026-03-01T11:52:31+00:00",
+    "fetched_at": "2026-03-01T10:11:09.726226+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Iran's attack on Gulf states mimics Iraq's assault on Saudi Arabia - analysis",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article analyzes Iran's recent attacks on Gulf states, suggesting these assaults could backfire by fostering closer cooperation among Gulf countries and with the US. This development has significant strategic implications for regional alliances and the ongoing conflict.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Gulf states",
+        "US"
+      ],
+      "location": "Gulf states",
+      "brief": "Iran's recent attacks on Gulf states could escalate regional tensions and foster closer cooperation among Gulf countries and with the US."
+    },
+    "lat": 35.5577724,
+    "lng": -79.2854845
+  },
+  {
     "id": "edaefc7415ac056c",
     "title_original": "В торговый порт Омана попали два беспилотника",
     "content_original": "В торговый порт Омана попали два беспилотника",
@@ -376,6 +667,44 @@
       "location": "Omani Territorial Waters",
       "brief": "An oil tanker attack in Omani waters resulting in casualties signals escalating maritime security threats in the region."
     }
+  },
+  {
+    "id": "c012d57b6d5f2cc1",
+    "title_original": "Under renewed missile fire, Israel’s civilian vulnerabilities resurface - analysis",
+    "content_original": "State Comptroller audit highlights structural gaps in shelters, schools, and hospitals as Israel faces renewed missile attacks.",
+    "url": "https://www.jpost.com/israel-news/article-888351",
+    "published": "2026-03-01T11:36:33+00:00",
+    "fetched_at": "2026-03-01T10:11:09.726042+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Israel's civilian vulnerabilities resurface under renewed missile fire - analysis",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel is facing renewed missile attacks, highlighting structural gaps in civilian infrastructure like shelters, schools, and hospitals, as revealed by a State Comptroller audit. This raises concerns about the country's preparedness and resilience against ongoing threats from neighboring adversaries like Hezbollah and Hamas. The findings underscore potential weaknesses in Israel's civil defense capabilities during the conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hamas",
+      "conflict",
+      "hezbollah",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran (indirect)"
+      ],
+      "location": "Israel",
+      "brief": "Israel experiences renewed missile attacks highlighting vulnerabilities in civilian infrastructure amid escalating regional tensions."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "3b05bc52082dd236",
@@ -964,6 +1293,79 @@
     "lng": 55.27
   },
   {
+    "id": "c8e5db86b4471f01",
+    "title_original": "⚡ Israel says missiles fired at Cyprus fell into the sea",
+    "content_original": "⚡ Israel says missiles fired at Cyprus fell into the sea",
+    "url": "https://t.me/warmonitors/40192",
+    "published": "2026-03-01T10:11:31+00:00",
+    "fetched_at": "2026-03-01T10:11:53.746786+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Missiles fired at Cyprus intercepted into the sea by Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel intercepted missiles reportedly fired towards Cyprus, causing them to fall into the sea. This incident highlights the ongoing regional tensions and potential threats to neighboring countries amid the conflict. The strategic significance involves the protection of Cypriot territory and the broader regional security concerns.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran-backed elements",
+        "Cyprus"
+      ],
+      "location": "Eastern Mediterranean, near Cyprus",
+      "brief": "Israel intercepted ballistic missiles fired towards Cyprus, likely by Iran-backed forces, demonstrating escalating regional tensions and threats to neighboring countries."
+    },
+    "lat": -33.8086505,
+    "lng": 25.6623855
+  },
+  {
+    "id": "3ce08d34a9a57368",
+    "title_original": "إصابة شخصين نتيجة سقوط شظايا طائرة مسيرة على مبنى سكني في أبوظبي",
+    "content_original": "أبوظبي في 01 مارس /قنا/ أصيب شخصان جراء سقوط شظايا طائرة مسيرة نتيجة اعتراضها من قبل الدفاعات الجوية الإماراتية على واجهة أحد مباني أبراج الاتحاد في مدينة أبوظبي.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/اصابة-شخصين-نتيجة-سقوط-شظايا-طايرة-مسيرة-على-مبنى-سكني-في-ابوظبي",
+    "published": "2026-03-01T10:11:12.000428+00:00",
+    "fetched_at": "2026-03-01T10:11:12.000431+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Two injured by falling drone debris in Abu Dhabi residential building",
+    "relevant": true,
+    "summary_en": "Two people were injured in Abu Dhabi after debris from a drone, intercepted by UAE air defenses, struck a residential building in the Union Towers complex. This incident highlights the ongoing threat of drone attacks targeting the UAE amidst regional tensions, likely linked to the Iran-US conflict and proxy activities in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "proxy",
+      "conflict",
+      "threat",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "UAE",
+        "Iran-backed group",
+        "Houthis (suspected)"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "Drone debris from an intercepted attack caused injuries in a residential building in Abu Dhabi, indicating ongoing threats amid regional tensions."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
     "id": "a6a5cfa09d2d2287",
     "title_original": "Iran Red Crescent says death toll from strike that hit school in south now 108",
     "content_original": "TEHRAN — The Iranian Red Crescent said the death toll from a strike on Saturday that hit a school in the country&amp;#039;s south has risen to 108, after ...",
@@ -1111,6 +1513,188 @@
     "merged_source_count": 7,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "43194034d27b976b",
+    "title_original": "Missiles fired at Cyprus and strikes 'narrowly miss' British troops in Bahrain as Iran 'lashes out' in wake of Donald Trump's assault - while UK terror threat level is 'under review'",
+    "content_original": "Missiles fired at Cyprus and strikes 'narrowly miss' British troops in Bahrain as Iran 'lashes out' in wake of Donald Trump's assault - while UK terror threat level is 'under review'",
+    "url": "https://www.dailymail.co.uk/news/article-15603563/Missiles-fired-Cyprus-strikes-narrowly-miss-British-troops-Bahrain-Iran-lashes-wake-Donald-Trumps-assault-UK-terror-threat-level-review.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T10:04:11+00:00",
+    "fetched_at": "2026-03-01T10:11:47.819054+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Missiles target Cyprus and British troops in Bahrain as Iran retaliates following Trump's assault",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting Cyprus and Bahrain, narrowly missing British troops in Bahrain, in response to recent US aggression. This escalation demonstrates Iran's willingness to expand the conflict beyond the Middle East, posing a direct threat to international forces and regional stability.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UK",
+        "Bahrain",
+        "Cyprus"
+      ],
+      "location": "Cyprus, Bahrain",
+      "brief": "Iran launched ballistic missile attacks targeting Cyprus and Bahrain, escalating the conflict by striking near international forces in response to US aggression."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "51d76b4b8637b17f",
+    "title_original": "Iran’s government declares 40 days of mourning over Leader’s martyrdom The Iranian government declared 40 days of mou...",
+    "content_original": "Iran’s government declares 40 days of mourning over Leader’s martyrdom The Iranian government declared 40 days of mourning and 7 days of public holidays over the martyrdom of Leader of the Islamic Revolution Seyyed Ali Khamenei in terrorist US-Israeli strikes. @PressTV",
+    "url": "https://t.me/presstv/177421",
+    "published": "2026-03-01T10:02:51+00:00",
+    "fetched_at": "2026-03-01T10:11:48.919332+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran declares 40 days of mourning for Leader Khamenei’s death",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's government announced 40 days of mourning and 7 days of public holidays following the death of Supreme Leader Ayatollah Khamenei, reportedly killed in US-Israeli strikes. This signifies a significant escalation in the conflict and potential shifts in Iranian leadership and decision-making structures.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "death",
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Iran",
+      "brief": "The death of Iran's Supreme Leader Ayatollah Khamenei in reported US-Israeli strikes marks a significant escalation in the Iran-US conflict, triggering 40 days of mourning and potential leadership upheaval."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "d08990b81a6f8e3f",
+    "title_original": "Trump’s current war on Iran picks up where a longstanding enmity left off",
+    "content_original": "The mutual resentments that have fueled tensions between the US and Iran have simmered for nearly half a century For millions of younger Americans, the sudden explosion of Iran onto the national political stage and consciousness may seem like a bolt from the blue. Yet for older generations and those with deeper historical awareness, Donald Trump ’s announcement on Saturday of strikes against a distant foe is more like the outcome of a collision long foretold. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/mar/01/trump-us-iran-war-history",
+    "published": "2026-03-01T10:00:38+00:00",
+    "fetched_at": "2026-03-01T10:11:46.685228+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Trump’s current war on Iran picks up where longstanding enmity left off",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses the historical tensions between the US and Iran, culminating in the recent military strikes announced by Donald Trump. This signifies an escalation in the ongoing conflict, reflecting longstanding animosity and strategic confrontations between the two nations.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "western region",
+      "brief": "The article describes a significant escalation in the US-Iran conflict, with Donald Trump announcing military strikes against Iran, marking a direct engagement between the two nations."
+    },
+    "lat": -0.6547242,
+    "lng": 30.6720957
+  },
+  {
+    "id": "3074efaef2d11838",
+    "title_original": "⚡ The Kingdom of Saudi Arabia condemns in the strongest terms the “brutal Iranian aggression against the sisterly Sul...",
+    "content_original": "⚡ The Kingdom of Saudi Arabia condemns in the strongest terms the “brutal Iranian aggression against the sisterly Sultanate of Oman and Iran's blatant violation of its sovereignty. The Kingdom affirms its full solidarity with the Sultanate of Oman.”",
+    "url": "https://t.me/warmonitors/40191",
+    "published": "2026-03-01T09:56:32+00:00",
+    "fetched_at": "2026-03-01T10:11:53.746336+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Saudi Arabia condemns Iranian aggression against Oman",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Saudi Arabia has strongly condemned Iran's aggression against Oman, emphasizing full solidarity with Oman. This highlights escalating regional tensions as Iran reportedly violated Oman's sovereignty, potentially indicating a new front in the ongoing conflict.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "Saudi Arabia"
+      ],
+      "location": "Oman",
+      "brief": "Iran's aggression against Oman, condemned by Saudi Arabia, marks a significant escalation in regional tensions and could indicate a new front in the Iran-US conflict."
+    },
+    "lat": 21.0000287,
+    "lng": 57.0036901
+  },
+  {
+    "id": "1ee08110eaa833ee",
+    "title_original": "Oman port targeted by Iranian drones: state media",
+    "content_original": "Oman port targeted by Iranian drones: state media A port in Oman was targeted by Iranian drones, state media said on Sunday. The country, which had been hosting Iran-US talks and so far had avoided Iranian retaliation,&nbsp; saw a drone attack that injured one person at the port of Duqm , while an oil tanker was also targeted off its coast.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oman-port-targeted-iranian-drones-state-media",
+    "published": "2026-03-01T09:48:03+00:00",
+    "fetched_at": "2026-03-01T10:11:15.074012+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian drones target Omani port",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian drones attacked the port of Duqm in Oman, injuring one person and targeting an oil tanker off the coast. This incident is significant as Oman had previously hosted Iran-US talks and avoided direct Iranian retaliation until now. The attack demonstrates Iran's willingness to target neutral countries in the region amid ongoing hostilities.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "oil tanker"
+      ],
+      "location": "Duqm, Oman",
+      "brief": "Iran launched a drone attack on Oman's Duqm port and an oil tanker, injuring one person, marking a significant escalation by targeting a neutral country that previously hosted Iran-US talks."
+    },
+    "lat": 19.6230411,
+    "lng": 57.6340004
   },
   {
     "id": "808f236db13b096d",
@@ -5676,6 +6260,42 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "61b70634fa15750f",
+    "title_original": "Iran vows revenge for slain supreme leader despite Trump threat",
+    "content_original": "Iranian top officials vowed Sunday to avenge their slain supreme leader Ayatollah Ali Khamenei and declared a new wave of strikes on US bases in the Gulf, defying US President Donald Trump's threat of an unprecedented escalation in force. As crowds gathered in Tehran, explosions rang out and the Israeli military announced that it was again striking targets in the heart of the city -- as more blasts were heard in Jerusalem, Riyadh, Dubai, Doha and Manama.",
+    "url": "https://www.al-monitor.com/originals/2026/03/iran-vows-revenge-slain-supreme-leader-despite-trump-threat",
+    "published": "2026-03-01T05:00:18-05:00",
+    "fetched_at": "2026-03-01T10:11:15.282403+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran vows revenge for slain supreme leader despite Trump threat",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian officials have vowed to retaliate for the killing of Supreme Leader Ayatollah Ali Khamenei, announcing new strikes on US bases in the Gulf. This comes despite US President Donald Trump's threat of escalating force. The situation is further complicated by Israeli strikes in Tehran and explosions reported in multiple cities across the region, indicating a significant escalation in hostilities.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Gulf region, Tehran",
+      "brief": "Iran threatens to retaliate against US with strikes on Gulf bases following the killing of Supreme Leader Khamenei, amidst Israeli strikes in Tehran."
+    },
+    "merged_source_count": 3,
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "50980912de38244d",
