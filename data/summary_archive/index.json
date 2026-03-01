@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T22-42-29.528109_plus_00-00.json",
+    "generated_at": "2026-03-01T22:42:29.528109+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 746,
+    "summary_preview": "The Iran-US conflict has reached a critical inflection point with confirmed US military casualties (3 killed, 5 wounded) and direct Iranian strikes on US bases in Kuwait and Erbil. Iran has expanded a"
+  },
+  {
     "filename": "2026-03-01T22-24-23.469292_plus_00-00.json",
     "generated_at": "2026-03-01T22:24:23.469292+00:00",
     "threat_label": "MAJOR",
