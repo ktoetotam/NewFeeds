@@ -1,5 +1,19 @@
 [
   {
+    "id": "a943b2e6c748c1d2",
+    "title_original": "Saudi Crown Prince, Turkish President Discuss Regional Military Escalation",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/saudi-crown-prince-turkish-president-discuss-regional-military-escalation",
+    "published": "2026-03-01T20:12:33+00:00",
+    "fetched_at": "2026-03-01T17:43:09.575560+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
     "id": "68d9ffaf9378b192",
     "title_original": "No Casualties as Al Salam Naval Base in Abu Dhabi Targeted by Two Iranian Drones, UAE Says",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/no-casualties-as-al-salam-naval-base-in-abu-dhabi-targeted-by-two-iranian-drones-uae-says",
@@ -56,6 +70,23 @@
     "relevant": false
   },
   {
+    "id": "7f4414677705707c",
+    "title_original": "القيادة المركزية الأمريكية تعلن مقتل وإصابة 8 جنود ضمن العمليات القتالية الجارية",
+    "content_original": "واشنطن في 01 مارس /قنا/ أعلنت القيادة المركزية الأمريكية (سنتكوم) مقتل 3 من أفراد القوات الأمريكية وإصابة 5 آخرين بجروح خطيرة، وذلك ضمن العمليات القتالية الجارية بين الولايات المتحدة وإسرائيل ضد إيران.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/القيادة-المركزية-الامريكية-تعلن-مقتل-واصابة-8-جنود-ضمن-العمليات-القتالية-الجارية",
+    "published": "2026-03-01T17:43:07.840743+00:00",
+    "fetched_at": "2026-03-01T17:43:07.840753+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "US Central Command announces killing and injury of 8 soldiers in ongoing combat operations",
+    "relevant": true,
+    "summary_en": "US Central Command (CENTCOM) announced the death of 3 American service members and serious injuries to 5 others in ongoing combat operations between the United States and Israel against Iran. The casualties represent direct US military involvement in the escalating Iran-US conflict and highlight the expanding scope of American combat operations in the region.",
+    "translated": true
+  },
+  {
     "id": "446f93697b913951",
     "title_original": "Two Palestinians Killed, Multiple Others Injured in Israeli Bombing in Northern Gaza",
     "content_original": "Gaza, March 1 (QNA) - Two Palestinians have been killed and several others injured today in an Israeli artillery shelling that targeted the Al-Jurn area in Jabaliain the northern Gaza Strip, medical sources reported.",
@@ -105,6 +136,48 @@
     "translated": true,
     "relevant": true,
     "summary_en": "Iran launched a significant attack on the UAE, resulting in three fatalities and 58 minor injuries. The UAE air force and air defense forces intercepted and destroyed 20 ballistic missiles, two cruise missiles, and 311 drones. This incident highlights the escalating tensions and direct military confrontation between Iran and the UAE amidst the ongoing conflict."
+  },
+  {
+    "id": "10123c7e25c01a21",
+    "title_original": "In phone call with UAE President, Prime Minister of Montenegro affirms solidarity following Iranian attacks  https://...",
+    "url": "https://t.me/wamnews_en/31868",
+    "published": "2026-03-01T17:33:54+00:00",
+    "fetched_at": "2026-03-01T17:43:49.703431+00:00",
+    "source_name": "WAM English (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "ac2ee1e48ed534fe",
+    "title_original": "UAE President and Iraqi President discuss regional developments and implications in phone call https://wam.ae/a/byzgpro",
+    "url": "https://t.me/wamnews_en/31867",
+    "published": "2026-03-01T17:31:51+00:00",
+    "fetched_at": "2026-03-01T17:43:49.702986+00:00",
+    "source_name": "WAM English (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "d98d949fa611f71e",
+    "title_original": "Lebanon, France Postpone Conference to Support Lebanese Army",
+    "url": "https://english.aawsat.com/node/5246292",
+    "published": "2026-03-01T17:27:02+00:00",
+    "fetched_at": "2026-03-01T17:43:10.682212+00:00",
+    "source_name": "Asharq Al-Awsat",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
   },
   {
     "id": "0ef4c624771740f6",
