@@ -1,5 +1,39 @@
 [
   {
+    "id": "5e1d80bbec5d8594",
+    "title_original": "העובדת הזרה שנהרגה בתל באביב - אזרחים הפיליפינים מרי אן דה ורה",
+    "content_original": "העובדת הזרה שנהרגה בתל באביב - אזרחים הפיליפינים מרי אן דה ורה",
+    "url": "https://www.ynet.co.il/news/article/bk1t66wywx",
+    "published": "2026-03-01T16:34:41+02:00",
+    "fetched_at": "2026-03-01T14:37:44.638892+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Foreign worker killed in Tel Aviv - Filipino citizen Mary Ann De Vera",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
+    "id": "21f681aa27c36954",
+    "title_original": "One killed, 32 injured in Kuwait, three killed in UAE from Iranian retalitory attacks",
+    "content_original": "According to a released statement, since Saturday morning, the UAE Air Force and Air Defense forces have dealt with 165 ballistic missiles, 2 cruise missiles, and 541 drones so far.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888390",
+    "published": "2026-03-01T15:54:03+00:00",
+    "fetched_at": "2026-03-01T14:37:45.386641+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Iranian Retaliatory Attacks Kill One and Injure 32 in Kuwait, Three in UAE",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory attacks causing casualties in Kuwait and the UAE, with one killed and 32 injured in Kuwait, and three fatalities in the UAE. The UAE Air Force and Air Defense intercepted 165 ballistic missiles, 2 cruise missiles, and 541 drones since Saturday morning. This escalation highlights the regional impact of the ongoing US-Iran conflict and the extensive missile and drone threat faced by Gulf nations."
+  },
+  {
     "id": "72c05d8d0bc0d283",
     "title_original": "3 הרוגים באמירויות, אזעקות בירדן, גם המתווכת עומאן נפגעה | התקיפות במפרץ",
     "content_original": "האיראנים תוקפים לטענתם מטרות אמריקניות במדינות ערב. אזרחים זרים נהרגו באיחוד האמירויות, שרה מהמדינה הזהירה: \"לא נשב בחיבוק ידיים בזמן שאנחנו מטרה לתקיפות\". בירדן הודיעו על 49 כטב\"מים ששוגרו לעברה. שר החוץ הירדני: \"הותקפנו ללא הצדקה\". נמל בעומאן, שניסתה לתווך בין ארה\"ב ואיראן, הותקף על ידי כטב\"מים. גינויים בקטאר: \"דפוס הרסני המאיים על תפקידם של המתווכים\"",
@@ -99,6 +133,23 @@
     "title_en": "Iranian Community in Dubai After US-Israeli Attack: 500,000 Migrants and Hidden Agents",
     "relevant": true,
     "summary_en": "Following the US-Israeli attack, Iran launched a missile that struck a luxury hotel in the UAE. The UAE's relationship with Iran is influenced by extensive economic ties and the presence of 500,000 Iranian migrants in Dubai, among whom Iranian regime agents are suspected to have infiltrated. This poses a security challenge for the UAE amidst regional tensions.",
+    "translated": true
+  },
+  {
+    "id": "51b64520a3d2d1c9",
+    "title_original": "\"פייסנות פחדנית\": אחרי החיסול, ח\"כ מהליכוד עולה למתקפה",
+    "content_original": "במאמר שפורסם ב-\"New York Post\", ח\"כ דן אילוז תוקף את מדינות המערב על פייסנות כלפי איראן, וטוען כי התקיפה המשולבת בטהרן מגינה על ניו יורק ולונדון לא פחות מאשר על ישראל",
+    "url": "https://www.maariv.co.il/news/politics/article-1290643",
+    "published": "2026-03-01T14:36:26+00:00",
+    "fetched_at": "2026-03-01T14:37:45.213899+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Likud MK Calls Western 'Cowardly' for Appeasement of Iran",
+    "relevant": true,
+    "summary_en": "A Likud member of the Knesset criticized Western countries for their appeasement of Iran, arguing that the joint attack on Tehran protects New York and London as much as it does Israel. This highlights ongoing tensions and debates about international responses to Iran's actions amidst the conflict.",
     "translated": true
   },
   {

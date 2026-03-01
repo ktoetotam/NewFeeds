@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-03-01T14:33:38.370111+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 562,
+    "incident_count_6h": 194,
+    "severity_breakdown": {
+      "major": 199,
+      "high": 234,
+      "medium": 125,
+      "low": 4
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 595,
+    "articles_analyzed": 3228,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran–US armed conflict has reached an unprecedented level of escalation as of 28 February 2026. A coordinated US-Israeli airstrike campaign targeted over 20 Iranian provinces, killing Supreme Leader Ayatollah Ali Khamenei and dozens of senior officials. Iran responded with ballistic missile and drone strikes on 14 US bases across Iraq, Syria, Saudi Arabia, Kuwait, Qatar, and the Gulf, while simultaneously launching missile barrages against Israel. The IRGC Navy has engaged US maritime assets, and Iranian attacks have extended to Dubai, Abu Dhabi, and Greek Cyprus. The 24h incident count stands at 562 (199 Major, 234 High), with the conflict now spanning seven nations and multiple domains (air, land, sea).",
+  "whats_new": [
+    "IRGC announces seventh and eighth waves of 'Al-Wa'd Al-Sadeq 4' operation, indicating sustained retaliatory campaign against US and Israeli targets",
+    "Iran fires missiles at Greek Cyprus hosting British military personnel — escalates confrontation with Western powers beyond Middle East",
+    "Suicide attacks ongoing against US naval command headquarters in Bahrain — direct threat to US Gulf naval operations",
+    "Iranian drone strikes apartment building in Dubai targeting Western civilians; second drone hits Abu Dhabi injuring two Israelis",
+    "Oil tanker struck by Iranian drones in Strait of Hormuz, causing fire — threatens critical global oil transit chokepoint",
+    "Iranian state TV broadcasts footage claiming downing of US MQ-9 Reaper drone"
+  ],
+  "confirmed_events": [
+    "US-Israeli coordinated airstrikes targeted over 20 Iranian provinces — confirmed by multiple regional sources",
+    "Iran's Supreme Leader Ayatollah Ali Khamenei killed in US-Israeli strike on Tehran compound — confirmed by Iranian state media, SCMP, Daily Sabah",
+    "Iran launched ballistic missile barrage on Israel (Haifa, Galilee region) — confirmed by multiple sources",
+    "Iran struck 14 US military bases across Iraq, Syria, Saudi Arabia, Kuwait, Qatar, and Gulf region — confirmed by IRGC announcements and regional reporting",
+    "At least 85 children killed in school strike in Minab, southern Iran — confirmed by multiple sources including Red Crescent",
+    "US and Israeli airstrikes destroyed Iranian Navy frigate at Khorramshahr base — confirmed by regional media",
+    "Kuwait Defense Ministry: 97 ballistic missiles and 283 drones intercepted since hostilities began",
+    "Hezbollah Electronic Army confirms Iranian drone operations targeting Israelis in Abu Dhabi",
+    "Former Iranian President Mahmoud Ahmadinejad reportedly killed — multiple sources (Ynet, Jerusalem Post), though Israel denies involvement"
+  ],
+  "unverified_emerging": [
+    "IRGC claims 200 US military personnel killed in Iranian strikes on American bases — unverified, claimed casualty figure",
+    "Red Crescent reports 747 injured and 201 killed — unverified overall casualty figure, source attribution unclear",
+    "Iranian TV shows footage of downed US MQ-9 drone — claim unverified by US sources, footage not independently confirmed",
+    "Protests in Pakistan and Iraq over Khamenei killing result in nine deaths, including clash at US consulate in Karachi — unverified casualty details",
+    "131 Hong Kong residents stranded in Middle East — unverified number, reported by SCMP"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Tennis players in Dubai seeking shelter amid ongoing missile strikes — international sporting events disrupted",
+      "Flight cancellations strand civilians across Middle East — multiple international hubs affected",
+      "Gulf airlines likely facing significant route disruptions due to active missile corridors over UAE, Kuwait, Saudi Arabia"
+    ],
+    "supply_chain": [
+      "Oil tanker fire in Strait of Hormuz threatens critical global oil transit chokepoint — immediate supply chain disruption risk",
+      "Port operations in Dubai, Abu Dhabi, Kuwait, and Oman under direct threat — cargo flow disrupted",
+      "Qatar-US radar system destroyed by Iranian drone strike — affects regional air defense and navigation capabilities"
+    ],
+    "market_macro": [
+      "Gold prices surged 10% in Egypt and 8% globally in February — safe-haven demand escalating",
+      "Oil prices expected to spike following Strait of Hormuz tanker incident — energy market instability",
+      "Regional economic instability driving capital flight from Gulf states — currency and bond markets under pressure"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict will continue to escalate over the next 24-72 hours. Iran has announced continued waves of the 'Al-Wa'd Al-Sadeq 4' operation, indicating sustained offensive posture. With the Supreme Leader killed and succession process underway, Iranian command structure may face decision-making delays, but proxy forces and IRGC retain autonomous strike capability. US bases across five Arab nations remain primary targets, and Iranian missiles have demonstrated reach to Israel, Cyprus, and the Gulf. The IRGC Navy's direct engagement of US maritime assets signals potential for further naval incidents. humanitarian catastrophe in southern Iran (school casualties 85+) may provoke additional Iranian retaliation.",
+    "escalation_risks": [
+      "Expansion of Iranian missile campaign to additional regional targets (Cyprus already targeted)",
+      "IRGC or Iranian proxy attacks on oil infrastructure in Gulf —catastrophic energy market impact",
+      "Potential Iranian retaliation against Israeli civilian population centers intensifies",
+      "Russian naval presence in Iranian conflict zone may complicate US operations — Moscow maintains communication but has not intervened",
+      "Hezbollah and Houthi frontlines may open simultaneously, multiplying theaters of operation",
+      "Ground incursion by US forces in Iran — Senator Cotton indicated preference for air/naval campaign only, but circumstances may change"
+    ],
+    "de_escalation_pathways": "De-escalation requires immediate diplomatic intervention. China has called for ceasefire, and Russia's Foreign Ministry has urged de-escalation — potential mediators. However, with Khamenei killed and senior leadership decimated, Iran's command structure may lack authorized decision-makers for ceasefire negotiations. The IRGC's autonomous operational capacity complicates centralized de-escalation. Any pathway requires US-Israel willingness to halt offensive operations and establishment of back-channel communications with Iran's surviving leadership — currently appears unlikely given current tempo of strikes."
+  }
+}

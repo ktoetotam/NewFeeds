@@ -1,5 +1,43 @@
 [
   {
+    "id": "2f849fe4f4ec87e1",
+    "title_original": "Three dead, 58 injured in UAE since start of Iran’s retaliatory strikes, says defence ministry",
+    "content_original": "The UAE has detected 165 ballistic missiles, destroying 152, and intercepted two cruise missiles, its defence ministry said",
+    "url": "https://www.thehindu.com/news/international/iran-israel-conflict-uae-death-toll/article70691764.ece",
+    "published": "2026-03-01T19:45:35+05:30",
+    "fetched_at": "2026-03-01T14:38:14.591450+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Three dead, 58 injured in UAE from Iran's retaliatory strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's retaliatory strikes have resulted in three fatalities and 58 injuries in the UAE. The UAE's defense ministry reported intercepting 152 out of 165 ballistic missiles and two cruise missiles. This highlights the ongoing threat under which the UAE operates amidst the conflict, showcasing Iran's capability to target Gulf states.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "dead",
+      "ballistic",
+      "threat",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "UAE",
+      "brief": "Iran launched a ballistic missile attack on the UAE resulting in three fatalities and 58 injuries, with the UAE intercepting most of the missiles."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "0f19ce14cb26859d",
     "title_original": "Iran-Israel conflict: Oil tanker hit off Oman coast after drones strike Duqm port; crew with 15 Indians evacuated",
     "content_original": "Four injured; Oman’s Musandam peninsula shares control of the Strait of Hormuz with Iran",
@@ -34,6 +72,118 @@
     },
     "lat": -38.6771308,
     "lng": 178.0431614
+  },
+  {
+    "id": "49ba4ef781e272f5",
+    "title_original": "AFP: ВС Саудовской Аравии отразили удар по аэропорту и военной базе",
+    "content_original": "Ракеты перехвачены",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26600761",
+    "published": "2026-03-01T17:33:33+03:00",
+    "fetched_at": "2026-03-01T14:37:27.421770+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Saudi Arabian Forces Intercept Missile Strikes on Airport and Military Base",
+    "relevant": true,
+    "summary_en": "Saudi Arabian armed forces intercepted missile strikes targeting an airport and a military base. The incident highlights ongoing threats from Houthi or Iranian-linked forces against Saudi infrastructure. This event underscores the persistent regional instability and potential escalation in the conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "intercept",
+      "houthi",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Saudi Arabia",
+        "Houthis",
+        "Iran"
+      ],
+      "location": "Saudi Arabia",
+      "brief": "Saudi Arabian forces intercepted missile strikes targeting an airport and military base, indicating ongoing threats from Houthi or Iranian-linked forces."
+    },
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
+    "id": "c74ddd6cd47a29b4",
+    "title_original": "Иранские беспилотники атаковали военную базу \"Ас-Салям\" в Абу-Даби",
+    "content_original": "Иранские беспилотники атаковали военную базу \"Ас-Салям\" в Абу-Даби",
+    "url": "https://ria.ru/20260301/oae-2077698091.html",
+    "published": "2026-03-01T17:31:57+03:00",
+    "fetched_at": "2026-03-01T14:37:28.089210+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Drones Attack Al-Salam Military Base in Abu Dhabi",
+    "relevant": true,
+    "summary_en": "Iranian drones targeted the Al-Salam military base in Abu Dhabi, UAE. This attack on a US-aligned facility in the Gulf region demonstrates Iran's continued use of drone strikes to target US interests and allies. The strike signifies an escalation in the conflict's spillover into the UAE, a key US partner.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "drone",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Al-Salam military base, Abu Dhabi, UAE",
+      "brief": "Iran launched a drone strike on the US-aligned Al-Salam military base in Abu Dhabi, demonstrating an escalation of conflict in the Gulf region."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "e1fe506d69dc0153",
+    "title_original": "Iran's firebrand ex-President Ahmadinejad killed US-Israel airstrikes",
+    "content_original": "Former Iranian president Mahmoud Ahmadinejad, 69, was killed along with his bodyguard in an airstrike on his Tehran home during U.S.-Israeli military strikes, state-linked ILNA new...",
+    "url": "https://www.dailysabah.com/world/mid-east/irans-firebrand-ex-president-ahmadinejad-killed-us-israel-airstrikes",
+    "published": "2026-03-01T17:20:00+03:00",
+    "fetched_at": "2026-03-01T14:38:12.173767+00:00",
+    "source_name": "Daily Sabah World",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "turkey",
+    "skip_translation": true,
+    "title_en": "Former Iranian President Ahmadinejad killed in U.S.-Israeli airstrike on Tehran home",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Mahmoud Ahmadinejad, the former Iranian president, was killed along with his bodyguard in a U.S.-Israeli airstrike on his Tehran residence. This incident occurred during ongoing military strikes by the U.S. and Israel. The killing of a prominent former leader could significantly escalate tensions and provoke a strong response from Iran.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "airstrike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "A U.S.-Israeli airstrike killed former Iranian President Mahmoud Ahmadinejad in Tehran, marking a significant escalation in US-Iran tensions."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "aff44586d6391b8d",
@@ -880,6 +1030,47 @@
     "lng": 52.0
   },
   {
+    "id": "21f681aa27c36954",
+    "title_original": "One killed, 32 injured in Kuwait, three killed in UAE from Iranian retalitory attacks",
+    "content_original": "According to a released statement, since Saturday morning, the UAE Air Force and Air Defense forces have dealt with 165 ballistic missiles, 2 cruise missiles, and 541 drones so far.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888390",
+    "published": "2026-03-01T15:54:03+00:00",
+    "fetched_at": "2026-03-01T14:37:45.386641+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Iranian Retaliatory Attacks Kill One and Injure 32 in Kuwait, Three in UAE",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory attacks causing casualties in Kuwait and the UAE, with one killed and 32 injured in Kuwait, and three fatalities in the UAE. The UAE Air Force and Air Defense intercepted 165 ballistic missiles, 2 cruise missiles, and 541 drones since Saturday morning. This escalation highlights the regional impact of the ongoing US-Iran conflict and the extensive missile and drone threat faced by Gulf nations.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "air defense",
+      "ballistic",
+      "conflict",
+      "missile",
+      "threat",
+      "drone",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "UAE"
+      ],
+      "location": "Kuwait, UAE",
+      "brief": "Iran launched retaliatory ballistic missile and drone attacks against Kuwait and UAE, resulting in casualties and significant military interception."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "9b28b6b17e9b99f2",
     "title_original": "В Минобороны ОАЭ заявили о гибели минимум трех человек из-за ударов Ирана",
     "content_original": "В Минобороны ОАЭ заявили о гибели минимум трех человек из-за ударов Ирана",
@@ -1287,6 +1478,42 @@
     "lng": 54.0
   },
   {
+    "id": "04b04b2424ed36e2",
+    "title_original": "⚡️ #BREAKING  Unconfirmed reports suggested an Iranian drone attacked oil drilling facility in the United Arab Emirates",
+    "content_original": "⚡️ #BREAKING Unconfirmed reports suggested an Iranian drone attacked oil drilling facility in the United Arab Emirates",
+    "url": "https://t.me/warmonitors/40258",
+    "published": "2026-03-01T14:36:32+00:00",
+    "fetched_at": "2026-03-01T14:38:36.405706+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian drone reportedly attacks UAE oil drilling facility",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian drone reportedly targeted an oil drilling facility in the United Arab Emirates. This incident, if confirmed, represents an escalation in Iranian attacks on critical infrastructure in the Gulf region. The attack could have significant implications for regional oil production and US strategic interests in the area.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Arab Emirates",
+        "US"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "An Iranian drone reportedly struck an oil drilling facility in the UAE, indicating an escalation in regional tensions and potential threats to Gulf oil infrastructure."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "6561d50390fe5a69",
     "title_original": "Khamenei's hidden hand concealed his flaw, and his long-reach of terror - analysis",
     "content_original": "The killing of Khamenei closes the chapter on one of the most consequential and destructive figures in modern Middle Eastern history.",
@@ -1323,6 +1550,374 @@
       "brief": "The assassination of Ayatollah Khamenei creates a power vacuum in Iran, significantly escalating the conflict with the US and its allies."
     },
     "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "6facc7d1893e98e4",
+    "title_original": "Gulf states under attack: What was targeted in Iranian strikes?",
+    "content_original": "Gulf states are witnessing unprecedented scenes at airports, military facilities, and hotels from Oman to Kuwait amid waves of Iranian missile and drone strikes. Iran's response has extended from retaliatory strikes on US military bases in the Gulf to targeting civilian areas, as far away as Duqm in central Oman . The New Arab takes a look at the main places hit in the Gulf over the past 24 hours. UAE The UAE has been the country hardest hit in the Gulf by Iran's retaliatory strikes, likely due to Abu Dhabi's close ties with Israel and antagonistic relationship with Tehran. UAE authorities announced on Sunday that three people have died and 58 injured in the country since start of Iran strikes. Saturday saw scenes of tourists and residents fleeing falling missile and debris as hotels, airports and other civilian infrastructure were targeted in 137 attempted missile and 209 drone strikes across the country. Dubai International Airport was damaged in an attack on Saturday, causing four i...",
+    "url": "https://www.newarab.com/news/gulf-states-under-attack-what-was-targeted-iranian-strikes",
+    "published": "2026-03-01T14:34:41+00:00",
+    "fetched_at": "2026-03-01T14:37:55.431494+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian missile and drone strikes target Gulf states, causing casualties and damage",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile and drone strikes across Gulf states, hitting airports, military facilities, and hotels in Oman, Kuwait, and the UAE, resulting in three deaths and 58 injuries in the UAE alone. The UAE was particularly targeted due to its close ties with Israel and strained relations with Tehran. These strikes represent an escalation in Iran's retaliatory campaign against US allies in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "deaths",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|drone_strike|ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Oman",
+        "Kuwait",
+        "Israel"
+      ],
+      "location": "Gulf states (UAE, Oman, Kuwait)",
+      "brief": "Iran launched coordinated missile and drone strikes against Gulf states, causing casualties and damage to civilian and military infrastructure, particularly targeting the UAE due to its ties with Israel."
+    },
+    "lat": 35.5577724,
+    "lng": -79.2854845
+  },
+  {
+    "id": "09112c7f48a111f2",
+    "title_original": "وسائل إعلام أجنبية: طائرة إيرانية هاجمت منصة نفطية إماراتية",
+    "content_original": "وسائل إعلام أجنبية: طائرة إيرانية هاجمت منصة نفطية إماراتية",
+    "url": "https://t.me/Electrohizbullah/156664",
+    "published": "2026-03-01T14:33:43+00:00",
+    "fetched_at": "2026-03-01T14:38:39.672429+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Aircraft Attacks UAE Oil Platform",
+    "relevant": true,
+    "summary_en": "An Iranian aircraft reportedly attacked an oil platform belonging to the UAE. This incident occurred in UAE territory and is significant as it represents an escalation in the conflict with potential impacts on regional oil infrastructure and stability.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Iranian aircraft",
+        "IRGC proxies"
+      ],
+      "location": "UAE territory",
+      "brief": "An Iranian aircraft attacked a UAE oil platform, escalating regional tensions and threatening oil infrastructure stability."
+    },
+    "lat": 3.1454307,
+    "lng": 101.7093968
+  },
+  {
+    "id": "a35314b5fa703d2d",
+    "title_original": "🚨 وزارت دفاع امارات: هدف قرار گرفتن یک انبار در پایگاه دریایی السلام ابوظبی توسط دو پهپاد ایرانی باعث آتش‌سوزی در دو ...",
+    "content_original": "🚨 وزارت دفاع امارات: هدف قرار گرفتن یک انبار در پایگاه دریایی السلام ابوظبی توسط دو پهپاد ایرانی باعث آتش‌سوزی در دو کانتینر شد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44968",
+    "published": "2026-03-01T14:32:46+00:00",
+    "fetched_at": "2026-03-01T14:38:38.319558+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "UAE Defense Ministry: Iranian drones strike warehouse at Al Salam naval base in Abu Dhabi causing fires in two containers",
+    "relevant": true,
+    "summary_en": "Two Iranian drones targeted a warehouse at the Al Salam naval base in Abu Dhabi, resulting in fires in two containers. This incident highlights the ongoing tensions and direct attacks by Iran on UAE infrastructure amid the broader conflict. The strike on a UAE naval facility underscores the regional escalation and Iran's use of drones to target strategic assets.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Iranian proxies"
+      ],
+      "location": "Al Salam naval base, Abu Dhabi, UAE",
+      "brief": "Iranian drones struck a warehouse at the Al Salam naval base in Abu Dhabi, causing fires in two containers, demonstrating ongoing proxy conflict in the region."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "f204f95c6399ceb5",
+    "title_original": "Nine killed in Iranian missile strike on Beit Shemesh",
+    "content_original": "At least nine people have been killed after an Iranian missile strike on the central Israeli city of Beit Shemesh. The attack comes as Tehran continues to launch retaliatory attacks a day after the US and Israel assassinated Supreme Leader Ayatollah Khamenei and killed at least 110 children at Minab girls' school. At least nine people have been killed after an Iranian missile strike on the central Israeli city of Beit Shemesh, as Tehran continued to launch retaliatory attacks a day after Supreme Leader Ayatollah Ali Khamenei was killed in US-Israeli strikes. The Magen David Adom (MDA) emergency service said on Sunday that nine people were killed and 20 other people were injured by the impact, including two in serious condition. Dozens of Israeli rescue personnel were deployed to the site of the impact, and an AFP photographer saw teams removing a body from the rubble of the building that bore the brunt of the missile strike. \"They are bringing all kinds of equipment to try to locate pe...",
+    "url": "https://www.newarab.com/news/nine-killed-iranian-missile-strike-beit-shemesh",
+    "published": "2026-03-01T14:30:31+00:00",
+    "fetched_at": "2026-03-01T14:37:55.431761+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Nine killed in Iranian missile strike on Beit Shemesh",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike on the central Israeli city of Beit Shemesh, resulting in nine fatalities and 20 injuries. This attack is part of Tehran's retaliatory actions following the assassination of Supreme Leader Ayatollah Khamenei by the US and Israel. The strike signifies an escalation in the ongoing conflict between Iran and Israel, with potential regional implications.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "attack",
+      "killed",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iran launched a ballistic missile strike on Beit Shemesh, Israel, resulting in nine fatalities, marking a major escalation following the assassination of Ayatollah Khamenei."
+    },
+    "merged_source_count": 5,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "d233f2a313681187",
+    "title_original": "🇮🇷 ⚔️ 🇦🇪   An Iranian drone struck an Emirati oil rig in the Persian Gulf! @CIG_telegram",
+    "content_original": "🇮🇷 ⚔️ 🇦🇪 An Iranian drone struck an Emirati oil rig in the Persian Gulf! @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69855",
+    "published": "2026-03-01T14:29:06+00:00",
+    "fetched_at": "2026-03-01T14:38:34.483918+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian drone strikes Emirati oil rig in Persian Gulf",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian drone attacked an Emirati oil rig in the Persian Gulf, marking an escalation in hostilities against UAE infrastructure. This incident highlights Iran's willingness to target energy assets in the region, potentially disrupting oil production and global markets. The strike could provoke a response from the UAE and its allies, including the US.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Emirati oil infrastructure"
+      ],
+      "location": "Persian Gulf",
+      "brief": "Iranian drone strike on Emirati oil rig in the Persian Gulf represents a significant escalation targeting energy infrastructure."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "304cb5ef2172d5f1",
+    "title_original": "Which senior Iranian figures have been killed by US-Israeli attacks?",
+    "content_original": "Which senior Iranian figures have been killed by US-Israeli attacks? Submitted by Rayhan Uddin on Sun, 03/01/2026 - 13:09 As well as the supreme leader and his family members, a string of military and intelligence officials targeted Iran's defence minister, Aziz Nasirzadeh (centre), in Qingdao in eastern China's Shandong province on 26 June 2025. Nasirzadeh was killed in Tehran on Saturday (AFP/Pedro Pardo) Off American &nbsp;and Israeli &nbsp;bombing&nbsp;has killed scores of Iranians over the past day, including both civilians and senior officials.&nbsp; At least 148 people, mostly young girls, were among those killed in a strike on a school in the city of Minab.&nbsp; A number of prominent political and military figures have been targeted and killed too.&nbsp; Middle East Eye breaks down what we know so far about who has been killed.&nbsp; Confirmed killed Ali Khamenei Foremost of those killed is&nbsp; Ayatollah Ali Khamenei , the country’s political and religious figurehead since 1...",
+    "url": "https://www.middleeasteye.net/news/which-senior-iranian-figures-have-been-killed-us-israeli-attacks",
+    "published": "2026-03-01T14:28:07+00:00",
+    "fetched_at": "2026-03-01T14:37:54.892046+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Senior Iranian figures killed in US-Israeli attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US and Israeli strikes have targeted and killed multiple senior Iranian officials, including Defence Minister Aziz Nasirzadeh, in various locations. The attacks have also resulted in civilian casualties, such as the deaths of at least 148 people, mostly young girls, in a strike on a school in Minab. These developments signify an escalation in the conflict with significant losses for Iran's leadership and population.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "strike",
+      "deaths",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, Iran",
+      "brief": "US and Israeli airstrikes killed multiple senior Iranian officials including Defence Minister Aziz Nasirzadeh and resulted in significant civilian casualties, including 148 deaths at a school in Minab."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
+    "id": "26cf1f0ba7f0ff46",
+    "title_original": "🇮🇷 ⚔️ 🚢   A second ship named \"MKD VYON\" has been attacked near the Strait of Hormuz, per Marine Traffic officials. T...",
+    "content_original": "🇮🇷 ⚔️ 🚢 A second ship named \"MKD VYON\" has been attacked near the Strait of Hormuz, per Marine Traffic officials. There are now at least two vessels on fire near the Strait of Hormuz. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69854",
+    "published": "2026-03-01T14:27:20+00:00",
+    "fetched_at": "2026-03-01T14:38:34.483339+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Second Ship Attacked Near Strait of Hormuz",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An unidentified actor attacked the ship 'MKD VYON' near the Strait of Hormuz, marking the second vessel set ablaze in the area. This incident highlights the escalating maritime tensions and threats to commercial shipping in the strategically vital waterway amid the ongoing conflict.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "unknown actor",
+        "commercial vessel"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "An unidentified actor attacked the commercial ship 'MKD VYON' near the Strait of Hormuz, marking a significant escalation in maritime tensions and threats to commercial shipping in the strategically vital waterway."
+    },
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": "822f107254ac1da6",
+    "title_original": "الشرق الأوسط الجديد برعاية أمريكا وإسرائيل تحت نيران الجمهورية الإسلامية الإيرانية .",
+    "content_original": "الشرق الأوسط الجديد برعاية أمريكا وإسرائيل تحت نيران الجمهورية الإسلامية الإيرانية .",
+    "url": "https://t.me/Electrohizbullah/156659",
+    "published": "2026-03-01T14:26:59+00:00",
+    "fetched_at": "2026-03-01T14:38:39.670359+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "The New Middle East Under US-Israeli Sponsorship Faces Iranian Attacks",
+    "relevant": true,
+    "summary_en": "The article likely discusses the ongoing conflict where Iran is attacking US and Israeli interests in the Middle East. This is significant as it highlights the escalating tensions and direct confrontations between Iran and the US-Israeli alliance, impacting regional stability and security.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Middle East",
+      "brief": "Iran is conducting attacks on US and Israeli interests in the Middle East, escalating regional tensions and posing a direct threat to US-Israeli alliance."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "a5ba54bba04cb658",
+    "title_original": "⚡️ The moment of the Iranian attack on the port of Abu Dhabi",
+    "content_original": "⚡️ The moment of the Iranian attack on the port of Abu Dhabi",
+    "url": "https://t.me/warmonitors/40257",
+    "published": "2026-03-01T14:26:46+00:00",
+    "fetched_at": "2026-03-01T14:38:36.405211+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian attack on Abu Dhabi port",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched an attack on the port of Abu Dhabi in the UAE, marking a significant escalation in hostilities within the Gulf region. This action directly targets critical infrastructure in a major US ally and commercial hub. The attack is likely to prompt a swift response from the US and its regional allies, further intensifying the conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "Iran launched a direct attack on the critical port infrastructure of Abu Dhabi, a major US ally, marking a significant escalation in the Gulf region."
+    },
+    "merged_source_count": 4,
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "59a006d6abd9cd7c",
+    "title_original": "پیام حضرت آیت الله فیاض در پی شهادت رهبر انقلاب اسلامی",
+    "content_original": "شفقنا- حضرت آیت الله فیاض در پی شهادت رهبر انقلاب اسلامی، پیامی صادر کرد. به گزارش شفقنا، متن پیام بدین شرح است: بسم الله الرحمن الرحیم إِنَّا لِلَّٰهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ خبر شهادت رهبر انقلاب جمهوری اسلامی ایران حضرت آیت الله خامنه ای به دست دشمنان اسلام و مسلمین موجب تأثر عمیق اینجانب گردید. ایشان در این [&#8230;] نوشته پیام حضرت آیت الله فیاض در پی شهادت رهبر انقلاب اسلامی اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222884/",
+    "published": "2026-03-01T14:25:56+00:00",
+    "fetched_at": "2026-03-01T14:37:25.980114+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Message from Ayatollah Fayyaz on the Martyrdom of Iran's Supreme Leader",
+    "relevant": true,
+    "summary_en": "Ayatollah Fayyaz issued a statement mourning the martyrdom of Iran's Supreme Leader, Ayatollah Khamenei, reportedly killed by enemies of Islam and Muslims. This event signifies a significant escalation in the conflict, as it involves the assassination of Iran's highest authority, likely leading to further retaliatory actions by Iran against its adversaries.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "potential US allies"
+      ],
+      "location": "Iran",
+      "brief": "The assassination of Iran's Supreme Leader Ayatollah Khamenei marks a critical escalation in the Iran-US conflict, likely leading to direct military confrontation."
+    },
     "lat": 32.65,
     "lng": 54.56
   },
@@ -6910,6 +7505,79 @@
     "merged_source_count": 2,
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "fa57ce9e43f7edcf",
+    "title_original": "US-sanctioned oil tanker hit off Oman coast",
+    "content_original": "March 1 (Reuters) - A Palau-flagged oil tanker under U.S. sanctions was hit on Sunday off Oman's Musandam peninsula, injuring four people, the country's maritime security centre said, without specifying what hit the vessel. The attack followed earlier drone strikes elsewhere in the Gulf country, at the commercial port of Duqm on the Arabian Sea. The incidents mark the first time targets in or near Oman have been hit following a wave of retaliatory strikes by Tehran on Gulf states after joint U.S.-Israeli attacks on Iran that have plunged the region into a new war.",
+    "url": "https://www.al-monitor.com/originals/2026/03/us-sanctioned-oil-tanker-hit-oman-coast",
+    "published": "2026-03-01T09:36:44-05:00",
+    "fetched_at": "2026-03-01T14:37:55.081012+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US-sanctioned oil tanker attacked off Oman coast",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An oil tanker under US sanctions was struck near the Musandam peninsula in Oman, injuring four people. The incident follows earlier drone strikes at the Duqm port in Oman, marking the first attacks in or near Oman amid escalating regional tensions from US-Israeli strikes on Iran and Tehran's retaliatory attacks on Gulf states.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Oman"
+      ],
+      "location": "Musandam peninsula, Oman",
+      "brief": "An oil tanker under US sanctions was attacked near Oman, marking an escalation in regional tensions amid ongoing US-Iran hostilities."
+    },
+    "lat": 25.6490341,
+    "lng": 56.2562342
+  },
+  {
+    "id": "0255ebd97b5ba457",
+    "title_original": "Missile debris, panic buying jolt Dubai's aura of calm after Iran attack",
+    "content_original": "By Raghed Waked, Amr Alfiky, Timour Azhari and Rula Rouhana DUBAI, March 1 (Reuters) - As Iran fired a barrage of drones and missiles at Gulf States in retaliation for U.S. and Israeli strikes, some in Dubai ran for cover and others froze at windows, watching the sky as if trying to make sense of something that had seemed impossible.",
+    "url": "https://www.al-monitor.com/originals/2026/03/missile-debris-panic-buying-jolt-dubais-aura-calm-after-iran-attack",
+    "published": "2026-03-01T09:36:44-05:00",
+    "fetched_at": "2026-03-01T14:37:55.081191+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Missile debris, panic buying jolt Dubai's calm after Iran attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's retaliatory missile and drone attacks on Gulf States have caused panic and disrupted the sense of calm in Dubai, with residents seeking cover and observing the skies in fear. The incident highlights the regional instability and potential risks to Gulf cities amid the ongoing US-Iran conflict. This event underscores the broader strategic implications for US allies and commercial hubs in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Gulf States",
+        "US"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran's retaliatory missile and drone attacks on Gulf States have heightened regional tensions and caused panic in Dubai amid the ongoing US-Iran conflict."
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "f2a29c7f03583de3",

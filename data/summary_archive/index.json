@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T14-33-38.370111_plus_00-00.json",
+    "generated_at": "2026-03-01T14:33:38.370111+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 562,
+    "summary_preview": "The Iran–US armed conflict has reached an unprecedented level of escalation as of 28 February 2026. A coordinated US-Israeli airstrike campaign targeted over 20 Iranian provinces, killing Supreme Lead"
+  },
+  {
     "filename": "2026-03-01T14-20-51.981019_plus_00-00.json",
     "generated_at": "2026-03-01T14:20:51.981019+00:00",
     "threat_label": "MAJOR",
