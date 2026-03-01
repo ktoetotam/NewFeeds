@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T07-01-42.104286_plus_00-00.json",
+    "generated_at": "2026-03-01T07:01:42.104286+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 346,
+    "summary_preview": "The Iran–US conflict has reached a critical inflection point following the US-Israeli airstrike on February 28 that killed Supreme Leader Ayatollah Ali Khamenei. Iran has responded with massive retali"
+  },
+  {
     "filename": "2026-03-01T06-36-29.090955_plus_00-00.json",
     "generated_at": "2026-03-01T06:36:29.090955+00:00",
     "threat_label": "MAJOR",
