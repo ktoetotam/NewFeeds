@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T07-37-12.287157_plus_00-00.json",
+    "generated_at": "2026-03-01T07:37:12.287157+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 367,
+    "summary_preview": "The Iran–US–Israel conflict has reached a critical escalation point with major military engagements across multiple fronts. US and Israeli forces launched coordinated airstrikes on Iran targeting IRGC"
+  },
+  {
     "filename": "2026-03-01T07-21-30.463049_plus_00-00.json",
     "generated_at": "2026-03-01T07:21:30.463049+00:00",
     "threat_label": "MAJOR",

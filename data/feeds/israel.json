@@ -1,5 +1,22 @@
 [
   {
+    "id": "5335d79cb1d3c251",
+    "title_original": "טיל שלם: הפגיעה הקטלנית בת\"א - שהובילה למות מטפלת של קשישה",
+    "content_original": "טיל שלם: הפגיעה הקטלנית בת\"א - שהובילה למות מטפלת של קשישה",
+    "url": "https://www.ynet.co.il/news/article/r1tg11d11tbe",
+    "published": "2026-03-01T09:32:54+02:00",
+    "fetched_at": "2026-03-01T07:47:46.048343+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Missile Strike in Tel Aviv Kills Caregiver",
+    "relevant": true,
+    "summary_en": "A missile strike in Tel Aviv resulted in the death of a caregiver for an elderly person. This incident is likely linked to ongoing hostilities involving Israel and its adversaries, highlighting the direct impact on civilian life within Israel.",
+    "translated": true
+  },
+  {
     "id": "67959e7ced45d9a9",
     "title_original": "How does Iran's theocratic system of power work? - explainer",
     "content_original": "The complexities of Iran's ruling system, the ideological nature of its support base, and the power of its Revolutionary Guards make it hard to predict what might come next.",
@@ -65,6 +82,23 @@
     "title_en": "Analysis in Israel: Iranian Missile Attacks - Exhaustion or Cracks in Control?",
     "relevant": true,
     "summary_en": "Israel is evaluating whether recent Iranian missile attacks indicate an attempt to exhaust Israeli defenses or potential cracks in Iran's command and control. The ongoing alerts have kept millions in shelters for over an hour, despite the relatively limited scope of the attacks. This assessment is crucial for understanding Iran's strategic intentions and capabilities amidst the conflict.",
+    "translated": true
+  },
+  {
+    "id": "eac2a8b494c74fe3",
+    "title_original": "ראש עיריית ניו יורק יוצא נגד המתקפה של ארה\"ב וישראל באיראן",
+    "content_original": "ראש עיריית ניו יורק זוהראן ממדאני ביקר את המתקפה על איראן וכינה אותה \"הסלמה קטסטרופלית\". עוד הבהיר כי יפעל להגברת הביטחון בעיר",
+    "url": "https://www.maariv.co.il/news/world/article-1290460",
+    "published": "2026-03-01T07:41:44+00:00",
+    "fetched_at": "2026-03-01T07:47:46.574392+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "New York City Mayor Criticizes US and Israeli Attacks on Iran",
+    "relevant": true,
+    "summary_en": "New York City Mayor Zohran Mamdani condemned the attacks on Iran, calling it a 'catastrophic escalation.' He emphasized he will work to enhance security in the city, highlighting potential repercussions for US cities amidst the conflict.",
     "translated": true
   },
   {
