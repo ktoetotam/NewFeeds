@@ -79,34 +79,23 @@ def classify_with_llm(article: dict, api_key: str) -> dict:
     Returns classification dict with severity, category, parties, location.
     """
     system_prompt = (
-        "You are a military intelligence analyst specializing in the Iran–United States armed conflict (2026) "
-        "and its connected fronts: Israeli operations, Houthi/Ansar Allah attacks on US Navy, "
-        "Hezbollah activity, IRGC proxy operations in Iraq/Syria, and Iranian nuclear/missile developments. "
-        "Classify news articles with precision. Assess severity based on scale, direct US or Iranian "
-        "involvement, escalation potential, and strategic impact."
+        "Military analyst for Iran–US war 2026 (incl. Israel, Houthis, Hezbollah, IRGC proxies, nuclear). "
+        "Respond ONLY with valid JSON, no markdown."
     )
 
-    prompt = f"""Classify this news article in the context of the Iran–US war.
+    # Truncate summary to keep token usage low
+    summary = article.get('summary_en', '')[:300]
+    title = article.get('title_en', '')[:150]
 
-HEADLINE: {article.get('title_en', '')}
-SUMMARY: {article.get('summary_en', '')}
-SOURCE: {article.get('source_name', '')} ({article.get('region', '')})
+    prompt = f"""Classify article re Iran–US conflict. JSON only.
 
-Respond with ONLY valid JSON (no markdown, no extra text):
-{{
-  "is_attack": true or false,
-  "category": "us_strike_on_iran|iran_strike_on_us|ballistic_missile|drone_strike|airstrike|naval_incident|houthi_attack|hezbollah_action|proxy_operation|nuclear_development|irgc_action|cyber_attack|threat_statement|escalation|military_deployment|sanctions|ceasefire_violation|other",
-  "severity": "major|high|medium|low",
-  "parties_involved": ["list of countries, commands, or groups directly involved"],
-  "location": "specific location, base, or region",
-  "brief": "One sentence on military/strategic significance for the Iran–US conflict"
-}}
+TITLE: {title}
+SUMMARY: {summary}
+REGION: {article.get('region', '')}
 
-Severity guidelines:
-- major: Direct US-Iran state engagement, ballistic missile attack, nuclear escalation, carrier group threatened, mass casualties
-- high: Significant strikes with confirmed casualties or damage, major IRGC/US operations, direct threats by heads of state or CENTCOM
-- medium: Proxy clashes, drone/rocket attacks without major casualties, official threat statements, military mobilization
-- low: Sanctions, minor incidents, routine deployments, diplomatic posturing, unconfirmed reports"""
+{{"is_attack":bool,"category":"us_strike_on_iran|iran_strike_on_us|ballistic_missile|drone_strike|airstrike|naval_incident|houthi_attack|hezbollah_action|proxy_operation|nuclear_development|irgc_action|cyber_attack|threat_statement|escalation|military_deployment|sanctions|ceasefire_violation|other","severity":"major|high|medium|low","parties_involved":["..."],"location":"...","brief":"one sentence"}}
+
+Severity: major=direct US-Iran engagement/ballistic/nuclear/mass casualties, high=strikes with casualties/major ops, medium=proxy clashes/drones/threats/mobilization, low=sanctions/minor/routine/unconfirmed"""
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -119,8 +108,8 @@ Severity guidelines:
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": prompt},
         ],
-        "temperature": 0.2,
-        "max_tokens": 400,
+        "temperature": 0.1,
+        "max_tokens": 250,
     }
 
     try:
@@ -268,7 +257,7 @@ def deduplicate_attacks(attacks: list[dict]) -> list[dict]:
 def classify_articles(
     articles: list[dict],
     api_key: str | None = None,
-    max_classify: int = 30,
+    max_classify: int = 70,
 ) -> list[dict]:
     """
     Full classification pipeline: keyword filter → LLM classification.
