@@ -1299,6 +1299,81 @@
     "lng": 55.27
   },
   {
+    "id": "de5054d607b3d8c4",
+    "title_original": "Iran confirms Supreme Leader Khamenei killed in US-Israeli strike",
+    "content_original": "Iranian Supreme Leader Ayatollah Ali Khamenei has been “martyred,” multiple state news agencies have confirmed DETAILS TO FOLLOW",
+    "url": "https://www.rt.com/news/633278-iran-khamenei-killed-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "2026-03-01T01:37:02+00:00",
+    "fetched_at": "2026-03-01T01:42:19.522302+00:00",
+    "source_name": "RT",
+    "source_category": "state",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iran confirms Supreme Leader Khamenei killed in US-Israeli strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian state news agencies have confirmed the death of Supreme Leader Ayatollah Ali Khamenei in a strike attributed to the US and Israel. This event marks a significant escalation in the ongoing conflict, as Khamenei was the highest authority in Iran and his death will have profound implications for the country's leadership and military strategy. The incident is likely to provoke a strong response from Iran against US and Israeli interests in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "death",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli strike results in the death of Iran's Supreme Leader Ayatollah Ali Khamenei, marking a critical escalation in the conflict."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "4a0c94e3cc646b22",
+    "title_original": "#فلسطين_المحتلة   فلسطين المحتلة: صفارات الإنذار تدوي في الشمال",
+    "content_original": "#فلسطين_المحتلة فلسطين المحتلة: صفارات الإنذار تدوي في الشمال",
+    "url": "https://t.me/Electrohizbullah/156291",
+    "published": "2026-03-01T01:35:31+00:00",
+    "fetched_at": "2026-03-01T01:43:08.371457+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Northern Occupied Palestine",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in northern occupied Palestine, likely indicating a security incident or escalation involving Israeli forces and Palestinian militants. This development is significant given the ongoing conflict and potential for further escalation in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "raid",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Palestinian militants",
+        "Iranian proxies"
+      ],
+      "location": "Northern Occupied Palestine",
+      "brief": "Air raid sirens in northern occupied Palestine indicate escalation in regional proxy conflict."
+    },
+    "lat": 31.5197847,
+    "lng": 35.0494777
+  },
+  {
     "id": "da935bb483bc7ecd",
     "title_original": "🔴 Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei martyred in US-Israeli attacks on Iran @PressTV",
     "content_original": "🔴 Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei martyred in US-Israeli attacks on Iran @PressTV",

@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T01-37-16.055292_plus_00-00.json",
+    "generated_at": "2026-03-01T01:37:16.055292+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 257,
+    "summary_preview": "The Iran–US conflict has escalated to full-scale regional war following a US-Israeli coordinated strike on Iran on 28 February. Iran's Supreme Leader Khamenei is reportedly killed, triggering a leader"
+  },
+  {
     "filename": "2026-03-01T01-24-56.986497_plus_00-00.json",
     "generated_at": "2026-03-01T01:24:56.986497+00:00",
     "threat_label": "MAJOR",
