@@ -31,7 +31,7 @@ LANGUAGE_NAMES = {
 # Rate limiting
 MAX_RETRIES = 5
 RETRY_DELAY = 5   # seconds base for rate-limit backoff
-BATCH_DELAY = 2.5  # seconds between requests (~24 RPM, under 30 RPM limit)
+BATCH_DELAY = 1.0  # seconds between requests (~60 RPM; retry logic handles 429s)
 
 SYSTEM_PROMPT = """
 You are an intelligence analyst running a real-time war monitor for the ongoing Iran–United States armed conflict (2026) and all its connected fronts.
