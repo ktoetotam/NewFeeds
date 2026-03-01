@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T07-21-30.463049_plus_00-00.json",
+    "generated_at": "2026-03-01T07:21:30.463049+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 360,
+    "summary_preview": "The Iran–US conflict has reached a critical escalation point following a US-Israeli coordinated strike that reportedly killed Iran's Supreme Leader Khamenei and senior military leadership. Iran has re"
+  },
+  {
     "filename": "2026-03-01T07-01-42.104286_plus_00-00.json",
     "generated_at": "2026-03-01T07:01:42.104286+00:00",
     "threat_label": "MAJOR",

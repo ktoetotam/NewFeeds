@@ -145,6 +145,80 @@
     }
   },
   {
+    "id": "15f5886be5ba8c89",
+    "title_original": "ЦАХАЛ зафиксировала запуск ракет со стороны Ирана",
+    "content_original": "ЦАХАЛ зафиксировала запуск ракет со стороны Ирана",
+    "url": "https://ria.ru/20260301/armija-2077612537.html",
+    "published": "2026-03-01T10:27:47+03:00",
+    "fetched_at": "2026-03-01T07:29:04.466949+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF Detects Rocket Launches from Iran",
+    "relevant": true,
+    "summary_en": "The IDF has detected rocket launches originating from Iran. This incident likely targets Israeli territory or assets, escalating tensions in the region. The military significance lies in potential retaliatory strikes and the ongoing conflict dynamics between Iran and Israel.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "rocket",
+      "idf",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IDF"
+      ],
+      "location": "Middle East",
+      "brief": "IDF detects rocket launches from Iran, likely targeting Israeli territory or assets, escalating regional tensions."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "e7493c1349458cfa",
+    "title_original": "В Дубае два человека ранены после падения обломов беспилотников",
+    "content_original": "В Дубае два человека ранены после падения обломов беспилотников",
+    "url": "https://tass.ru/proisshestviya/26596757",
+    "published": "2026-03-01T10:19:12+03:00",
+    "fetched_at": "2026-03-01T07:29:04.055251+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Two people injured in Dubai after falling drone debris",
+    "relevant": true,
+    "summary_en": "Two individuals were injured in Dubai due to falling debris from drones, likely linked to the ongoing conflict as Houthi forces have targeted nearby areas with drone attacks. This incident underscores the regional impact of the conflict beyond immediate war zones and the potential for collateral damage in neighboring countries.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "drone",
+      "war",
+      "conflict",
+      "houthi"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Dubai Civilians"
+      ],
+      "location": "Dubai",
+      "brief": "Two civilians were injured in Dubai due to falling debris from a Houthi drone attack, highlighting the regional impact of the conflict."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "d02bf74c671da49e",
     "title_original": "При падении обломков беспилотников в Дубае пострадали два человека",
     "content_original": "При падении обломков беспилотников в Дубае пострадали два человека",
@@ -217,6 +291,44 @@
     },
     "lat": 33.1,
     "lng": 44.17
+  },
+  {
+    "id": "2b9e5599082a9207",
+    "title_original": "China Daily: удар по Ирану может привести к подрыву усилий по нераспространению",
+    "content_original": "Атака США и Израиля на исламскую республику произошла в критический момент переговоров по иранской ядерной программе, отмечает газета",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26596437",
+    "published": "2026-03-01T10:04:36+03:00",
+    "fetched_at": "2026-03-01T07:29:04.056234+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israeli Attack on Iran Could Undermine Nuclear Non-Proliferation Efforts",
+    "relevant": true,
+    "summary_en": "The US and Israel launched an attack on Iran at a critical juncture in nuclear negotiations, according to China Daily. This development highlights the escalating conflict and its potential impact on international efforts to prevent nuclear proliferation. The timing suggests a significant risk of further escalation and complications in diplomatic efforts to address Iran's nuclear program.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "nuclear",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The US and Israel launched a coordinated attack on Iran during sensitive nuclear negotiations, escalating regional tensions and threatening non-proliferation efforts."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "808f236db13b096d",
@@ -661,6 +773,79 @@
     "lng": 54.56
   },
   {
+    "id": "f9e7e90734960358",
+    "title_original": "الصحف تعرب عن استنكارها وإدانتها لاستهداف إيران لدولة قطر و4 دول خليجية أخرى",
+    "content_original": "الدوحة في 01 مارس /قنا/ أعربت الصحف القطرية، الصادرة اليوم، عن إدانتها الشديدة واستنكارها البالغ للهجوم الإيراني الذي استهدف دولة قطر و4 دول خليجية أخرى، لتقحم هذه الدول المسالمة في حربها مع الكيان الإسرائيلي والولايات المتحدة الأمريكية.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/الصحف-تعرب-عن-استنكارها-وادانتها-لاستهداف-ايران-لدولة-قطر-و4-دول-خليجية-اخرى",
+    "published": "2026-03-01T07:29:13.331277+00:00",
+    "fetched_at": "2026-03-01T07:29:13.331285+00:00",
+    "source_name": "QNA Qatar (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Qatari newspapers condemn Iran's missile attacks on Qatar and four other Gulf states",
+    "relevant": true,
+    "summary_en": "Iran targeted Qatar and four other Gulf states with missile attacks, drawing condemnation from Qatari newspapers. The attacks are part of Iran's ongoing conflict with the US and Israel, escalating regional tensions. The strategic significance lies in Iran's attempt to involve neutral Gulf states in the broader conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "Gulf States",
+        "US",
+        "Israel"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran launched missile attacks on Qatar and four other Gulf states, escalating regional tensions and drawing condemnation, as part of its ongoing conflict with the US and Israel."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "6ec649ed2be7c950",
+    "title_original": "#إعلام_العدو   بلدية \"تل أبيب\": تضرر 200 مبنى من جراء الصواريخ الإيرانية",
+    "content_original": "#إعلام_العدو بلدية \"تل أبيب\": تضرر 200 مبنى من جراء الصواريخ الإيرانية",
+    "url": "https://t.me/Electrohizbullah/156433",
+    "published": "2026-03-01T07:26:54+00:00",
+    "fetched_at": "2026-03-01T07:30:03.904480+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "200 Buildings in Tel Aviv Damaged by Iranian Missiles",
+    "relevant": true,
+    "summary_en": "Iranian missiles struck Tel Aviv, causing damage to 200 buildings. This represents a significant escalation in the conflict, demonstrating Iran's capability to target Israeli urban centers. The incident will likely provoke a strong response from Israel and its allies.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran launched a ballistic missile attack on Tel Aviv, damaging 200 buildings, marking a significant escalation in the conflict."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
     "id": "30770e854a2b834c",
     "title_original": "В Дубае прогремело несколько взрывов, сообщают СМИ",
     "content_original": "В Дубае прогремело несколько взрывов, сообщают СМИ",
@@ -772,6 +957,42 @@
     "lng": 54.56
   },
   {
+    "id": "0e5555fd80cbf4c4",
+    "title_original": "📝 Шиитский форпост 📝 снова пострадал Бахрейн Продолжает прилетать и по Бахрейну. На самом деле,  катарские шейхи  ещё...",
+    "content_original": "📝 Шиитский форпост 📝 снова пострадал Бахрейн Продолжает прилетать и по Бахрейну. На самом деле, катарские шейхи ещё сравнительно легко отделались : в ОАЭ всё горят отели и аэропорт, а в маленьком шиитском государстве, увы, гражданские высотки тоже попали под раздачу. В очередной раз прилетело на территорию отеля Crowne Plaza Manama в дипломатическом квартале — аккурат в паре кварталов от штаба 5-го флота ВМС США . На юге Манамы начались демонстрации с чёрным знаменем месте на фоне сообщений о гибели Али Хаменеи . Картинка, конечно, красивая, но и только. 📌 В Сети появилась, конечно, версия, что иранцы попытаются раздуть протесты на территории Бахрейна ещё сильнее, дабы повлиять на обстановку в стране и привести правильных людей к власти, но такими темпами население Бахрейна и местные шейхи к Ирану, наоборот, станут испытывать ещё больше антипатии. #Иран #Катар #США 🧨 @rybar_mena — о ближневосточном хаосе с любовью 💸 Поддержать нас",
+    "url": "https://t.me/rybar/77972",
+    "published": "2026-03-01T07:20:33+00:00",
+    "fetched_at": "2026-03-01T07:29:56.964512+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Missile Strikes Hit Manama, Targeting Crowne Plaza Hotel Near US 5th Fleet HQ",
+    "relevant": true,
+    "summary_en": "Missiles struck the Crowne Plaza Manama hotel in Bahrain's diplomatic district, close to the US 5th Fleet headquarters. The attack caused damage to civilian infrastructure and sparked protests in southern Manama. This escalation demonstrates Iran's intent to pressure US presence in the Gulf through indirect strikes on allied territories.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Bahrain"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "Missile strikes targeting a hotel near US 5th Fleet HQ in Bahrain indicate Iran's intent to pressure US presence in the Gulf."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "16054c9e82a5099b",
     "title_original": "КСИР заявил о начале \"самой мощной\" атаки на Израиль и базы США в регионе",
     "content_original": "КСИР заявил о начале \"самой мощной\" атаки на Израиль и базы США в регионе",
@@ -845,6 +1066,43 @@
     "merged_source_count": 2,
     "lat": 31.5,
     "lng": 34.8
+  },
+  {
+    "id": "2e775b73cc3d5937",
+    "title_original": "#باكستان   وسائل إعلام باكستانية: قتلى وجرحى خلال اقتحام محتجين على مقتل المرشد الإيراني مقر القنصلية الأمريكية في كر...",
+    "content_original": "#باكستان وسائل إعلام باكستانية: قتلى وجرحى خلال اقتحام محتجين على مقتل المرشد الإيراني مقر القنصلية الأمريكية في كراتشي",
+    "url": "https://t.me/Electrohizbullah/156431",
+    "published": "2026-03-01T07:12:28+00:00",
+    "fetched_at": "2026-03-01T07:30:03.903510+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Protesters storm US consulate in Karachi over Iranian leader's death, causing casualties",
+    "relevant": true,
+    "summary_en": "Protesters in Karachi, Pakistan, stormed the US consulate in response to the killing of an Iranian leader, resulting in multiple casualties. This incident highlights the regional tensions and potential for escalation due to the ongoing Iran-US conflict. The strategic significance lies in the potential for further anti-US sentiment and protests in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "death",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Pakistan protesters",
+        "Iranian proxies"
+      ],
+      "location": "Karachi, Pakistan",
+      "brief": "Protesters stormed the US consulate in Karachi in response to an Iranian leader's death, resulting in casualties and highlighting regional proxy conflict escalation."
+    },
+    "lat": 24.8546842,
+    "lng": 67.0207055
   },
   {
     "id": "5a01585d4c96441f",
