@@ -40,6 +40,159 @@
     "lng": 34.8
   },
   {
+    "id": "36240c0a5bfb26fd",
+    "title_original": "Взрывы в Дубае и военная операция в Иране. Спецэфир телеканала РБК",
+    "content_original": "Ормузский пролив",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a3dbea9a79471245aff331",
+    "published": "2026-03-01T12:00:21+03:00",
+    "fetched_at": "2026-03-01T09:02:04.269412+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions in Dubai and Military Operation in Iran - RBC TV Special Report",
+    "relevant": true,
+    "summary_en": "The report likely covers recent military actions in the region, including potential attacks on Dubai and ongoing operations in Iran. This is significant due to the strategic importance of Dubai as a major economic hub and its proximity to the conflict zones, as well as the implications for regional stability and international security.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike|airstrike|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UAE",
+        "Houthis",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Dubai, Iran",
+      "brief": "The report indicates a significant escalation in the Iran-US conflict with explosions in Dubai and ongoing military operations in Iran, suggesting direct and indirect engagement by multiple parties."
+    },
+    "merged_source_count": 2,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "aa8946b4c8684dcc",
+    "title_original": "В Белгородской области при атаке дронов пострадали четыре мирных жителя",
+    "content_original": "Все находятся в медицинских учреждениях",
+    "url": "https://tass.ru/proisshestviya/26597463",
+    "published": "2026-03-01T11:56:30+03:00",
+    "fetched_at": "2026-03-01T09:01:58.751840+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Four civilians injured in drone attack in Belgorod region",
+    "relevant": true,
+    "summary_en": "Unspecified drones attacked the Belgorod region of Russia, injuring four civilians. The incident occurred within Russian territory, indicating a potential escalation of conflict beyond the usual frontlines. This could signify increased vulnerability of Russian infrastructure to drone attacks amid ongoing regional tensions.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Russia",
+        "Unspecified drone operators"
+      ],
+      "location": "Belgorod region, Russia",
+      "brief": "Four civilians were injured in a drone attack on the Belgorod region of Russia, indicating potential escalation of conflict beyond usual frontlines."
+    },
+    "merged_source_count": 2,
+    "lat": 50.5965678,
+    "lng": 36.5878916
+  },
+  {
+    "id": "ec172dc04874e6b4",
+    "title_original": "Танкер под флагом Палау подвергся атаке у берегов Омана",
+    "content_original": "Танкер под флагом Палау подвергся атаке у берегов Омана",
+    "url": "https://ria.ru/20260301/oman-2077627773.html",
+    "published": "2026-03-01T11:52:57+03:00",
+    "fetched_at": "2026-03-01T09:01:59.231594+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tanker under Palau flag attacked off the coast of Oman",
+    "relevant": true,
+    "summary_en": "A Palau-flagged tanker was attacked off the coast of Oman, likely impacting maritime security in the region. This incident could be linked to ongoing tensions in the Gulf and Red Sea, potentially involving Houthi or Iranian forces. The attack highlights the vulnerability of commercial shipping in strategic waterways amidst the conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "houthi",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Houthis",
+        "Palau-flagged tanker"
+      ],
+      "location": "Oman coast",
+      "brief": "A Palau-flagged tanker was attacked off the coast of Oman, likely linked to Houthi or Iranian forces, indicating increased maritime security risks in the region."
+    },
+    "lat": -38.6771308,
+    "lng": 178.0431614
+  },
+  {
+    "id": "edaefc7415ac056c",
+    "title_original": "В торговый порт Омана попали два беспилотника",
+    "content_original": "В торговый порт Омана попали два беспилотника",
+    "url": "https://ria.ru/20260301/oman-2077627156.html",
+    "published": "2026-03-01T11:49:22+03:00",
+    "fetched_at": "2026-03-01T09:01:59.232005+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Two Drones Strike Oman's Commercial Port",
+    "relevant": true,
+    "summary_en": "Two drones struck the commercial port of Oman, likely impacting regional maritime trade and security. The incident occurred amid heightened tensions in the region due to the ongoing Iran-US conflict. The attack could be linked to Houthi or Iranian proxy forces aiming to disrupt international shipping routes.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "houthi",
+      "attack",
+      "conflict",
+      "strike",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Houthis",
+        "Oman"
+      ],
+      "location": "Oman",
+      "brief": "Two drones struck Oman's commercial port, likely a proxy operation by Iran-linked forces aiming to disrupt regional maritime trade amid heightened Iran-US tensions."
+    },
+    "lat": 21.0000287,
+    "lng": 57.0036901
+  },
+  {
     "id": "bde73532f32a4945",
     "title_original": "Is Dubai airport open today? What we know after Iranian missile strikes damage site, iconic Burj Al Arab hotel",
     "content_original": "A temporary partial closure of the UAE airspace has impacted flights, including those operated by Dubai International Airport-based airlines Emirates, flydubai.",
@@ -74,6 +227,41 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "be1a0eda4a23774c",
+    "title_original": "В территориальных водах Омана под обстрел попал нефтяной танкер",
+    "content_original": "Пострадали четыре человека",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26597357",
+    "published": "2026-03-01T11:39:25+03:00",
+    "fetched_at": "2026-03-01T09:01:58.753504+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Oil Tanker Attacked in Omani Territorial Waters",
+    "relevant": true,
+    "summary_en": "An oil tanker was attacked in the territorial waters of Oman, resulting in four casualties. This incident highlights the escalating maritime security threats in the region amid the ongoing conflict, potentially impacting international shipping and energy supplies. The attack's perpetrators and their affiliations remain unclear, but it could be linked to the broader proxy operations in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "International Shipping"
+      ],
+      "location": "Omani Territorial Waters",
+      "brief": "An oil tanker attack in Omani waters resulting in casualties signals escalating maritime security threats in the region."
+    }
   },
   {
     "id": "3b05bc52082dd236",
@@ -884,6 +1072,337 @@
     "lng": -79.2854845
   },
   {
+    "id": "b647c85d21bf3dbb",
+    "title_original": "هجومان جديدان يستهدفان قاعدة \"حرير\" الجوية في أربيل شمال العراق",
+    "content_original": "بغداد في 01 مارس /قنا/ تعرضت قاعدة \"حرير\" الجوية بإقليم كردستان العراق، فجر اليوم، لهجومين متتاليين دون تحديد طبيعة ما إذا كانا بصواريخ أو طائرات مسيرة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/هجومان-جديدان-يستهدفان-قاعدة-حرير-الجوية-في-اربيل-شمال-العراق",
+    "published": "2026-03-01T09:02:08.039532+00:00",
+    "fetched_at": "2026-03-01T09:02:08.039536+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "New Attacks Target Harir Air Base in Erbil, Northern Iraq",
+    "relevant": true,
+    "summary_en": "Unidentified attackers launched two consecutive strikes on Harir Air Base in Erbil, northern Iraq, using unknown munitions, likely missiles or drones. The attacks occurred overnight, targeting a base that hosts US forces and is part of the US-led coalition operations in Iraq. This incident highlights the ongoing threat to US and coalition assets from Iran-backed militias in the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "US",
+        "Iran-aligned militias"
+      ],
+      "location": "Harir Air Base, Erbil, Iraq",
+      "brief": "Unidentified attackers, likely Iran-aligned militias, conducted two consecutive drone or missile strikes on Harir Air Base in Erbil, Iraq, targeting a facility that hosts US forces."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "4c2e1edfd35252fe",
+    "title_original": "تعرض ميناء الدقم التجاري في سلطنة عمان لاستهداف بطائرتين مسيرتين",
+    "content_original": "مسقط في 01 مارس /قنا/ تعرض ميناء الدقم التجاري في سلطنة عمان اليوم، لاستهداف بطائرتين مسيرتين.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/تعرض-ميناء-الدقم-التجاري-في-سلطنة-عمان-لاستهداف-بطايرتين-مسيرتين",
+    "published": "2026-03-01T09:02:08.039426+00:00",
+    "fetched_at": "2026-03-01T09:02:08.039435+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Drone Attack Targets Duqm Commercial Port in Oman",
+    "relevant": true,
+    "summary_en": "Two drones targeted the Duqm commercial port in Oman. This incident is significant as it suggests potential threats to critical infrastructure in the region, potentially linked to the ongoing Iran-US conflict and related proxy activities. The strategic importance of the port, which is a key logistics hub, could impact regional stability and maritime security.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "attack",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "Regional Proxies"
+      ],
+      "location": "Duqm, Oman",
+      "brief": "Drone strike on Duqm commercial port in Oman indicates potential escalation in regional tensions linked to Iran-US conflict and proxy activities."
+    },
+    "lat": 19.6230411,
+    "lng": 57.6340004
+  },
+  {
+    "id": "9abae8b771588275",
+    "title_original": "#الجمهورية_الإسلامية   مراسل الميادين: عدوان أميركي إسرائيلي يستهدف شمال طهران",
+    "content_original": "#الجمهورية_الإسلامية مراسل الميادين: عدوان أميركي إسرائيلي يستهدف شمال طهران",
+    "url": "https://t.me/Electrohizbullah/156484",
+    "published": "2026-03-01T08:59:43+00:00",
+    "fetched_at": "2026-03-01T09:02:57.349736+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US-Israeli Aggression Targets Northern Tehran",
+    "relevant": true,
+    "summary_en": "US and Israeli forces have reportedly launched an attack targeting northern Tehran, Iran. This marks a significant escalation in the conflict, with strikes directly on Iranian territory. The attack's strategic significance lies in its potential to provoke further Iranian retaliation and escalate regional tensions.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Northern Tehran, Iran",
+      "brief": "US and Israeli forces have launched a major airstrike targeting northern Tehran, marking a significant escalation in the conflict with direct strikes on Iranian territory."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "1e5ec23d9fcdc04c",
+    "title_original": "Live updates: U.S. and Israel launch new strikes as Iran vows to avenge Khamenei",
+    "content_original": "Iran’s Islamic Revolutionary Guard Corps and President Donald Trump traded threats following the death of Ayatollah Ali Khamenei in an Israeli airstrike.",
+    "url": "https://www.washingtonpost.com/world/2026/03/01/trump-iran-israel-khamenei-strikes-live-updates/",
+    "published": "2026-03-01T08:59:02+00:00",
+    "fetched_at": "2026-03-01T09:02:41.090594+00:00",
+    "source_name": "Washington Post World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "U.S. and Israel launch new strikes as Iran vows to avenge Khamenei",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The U.S. and Israel have conducted new strikes following the death of Ayatollah Ali Khamenei in an Israeli airstrike. Iran's IRGC and President Trump exchanged threats, indicating escalating tensions and potential for further military engagements. This development signifies a significant escalation in the conflict with both sides preparing for retaliatory actions.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "airstrike",
+      "death",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike|escalation|threat_statement",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "The U.S. and Israel launched new airstrikes following Ayatollah Khamenei's death, prompting threats of vengeance from Iran and escalating the conflict to a major level."
+    },
+    "merged_source_count": 3,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "360952c1ed1e0430",
+    "title_original": "حملات هوایی به فرودگاه مشهد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅ ...",
+    "content_original": "حملات هوایی به فرودگاه مشهد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44946",
+    "published": "2026-03-01T08:53:29+00:00",
+    "fetched_at": "2026-03-01T09:02:56.065336+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Airstrikes Target Mashhad Airport",
+    "relevant": true,
+    "summary_en": "Unspecified forces have conducted airstrikes on Mashhad Airport in Iran. This represents a significant escalation as it targets critical civilian infrastructure deep within Iranian territory. The attack could indicate a shift in US or allied targeting strategy to disrupt Iranian logistics and air operations.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "US or allied forces",
+        "Iran"
+      ],
+      "location": "Mashhad Airport, Iran",
+      "brief": "Unspecified forces conducted airstrikes on Mashhad Airport, escalating tensions by targeting critical civilian infrastructure in Iran."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "ddbc6794ad0c8f7d",
+    "title_original": "⚡️  Oman says an oil tanker was attacked off its port of Khasab on the Strait of Hormuz, injuring 4 mariners on board",
+    "content_original": "⚡️ Oman says an oil tanker was attacked off its port of Khasab on the Strait of Hormuz, injuring 4 mariners on board",
+    "url": "https://t.me/warmonitors/40172",
+    "published": "2026-03-01T08:51:31+00:00",
+    "fetched_at": "2026-03-01T09:02:54.113304+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Oil Tanker Attacked Near Oman's Khasab Port in the Strait of Hormuz",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An oil tanker was attacked near Oman's port of Khasab in the strategically vital Strait of Hormuz, resulting in injuries to four mariners. The incident highlights the ongoing tensions and potential for escalation in the region, given its proximity to conflict zones and critical maritime routes. The attack's perpetrators and method remain unspecified, but it could impact oil shipping and regional security dynamics.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "oil tanker crew"
+      ],
+      "location": "Strait of Hormuz, near Khasab Port, Oman",
+      "brief": "An oil tanker was attacked near Oman's Khasab Port in the Strait of Hormuz, resulting in injuries to four mariners, highlighting regional tensions and potential escalation."
+    },
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": "e62ff41a99449daf",
+    "title_original": "Ayatollah 'taken out in 30-bomb barrage' as America and Israel hit 500 targets in Operation Epic Fury: Trump tells Iranians: 'Your hour of freedom is at hand'",
+    "content_original": "Ayatollah 'taken out in 30-bomb barrage' as America and Israel hit 500 targets in Operation Epic Fury: Trump tells Iranians: 'Your hour of freedom is at hand'",
+    "url": "https://www.dailymail.co.uk/news/article-15602571/Ayatollah-bomb-barrage-America-Israel-hit-targets-Operation-Epic-Fury-Trump-Iranians-freedom.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T08:51:22+00:00",
+    "fetched_at": "2026-03-01T09:02:44.811524+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Ayatollah reportedly killed in 30-bomb attack as US and Israel strike 500 targets in Operation Epic Fury",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel reportedly conducted a massive joint operation, hitting 500 targets in Iran under Operation Epic Fury, including an attack that allegedly killed a senior Ayatollah in a barrage of 30 bombs. This signifies a significant escalation in the conflict, with potential major implications for Iran's leadership and military capabilities.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "bomb",
+      "conflict",
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US and Israel conducted a massive joint airstrike campaign (Operation Epic Fury) hitting 500 targets in Iran, including a strike that reportedly killed a senior Ayatollah."
+    },
+    "merged_source_count": 8,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "d5d0823077d7a0ab",
+    "title_original": "#الجمهورية_الإسلامية   مراسل الميادين: عدوان أميركي إسرائيلي على طهران",
+    "content_original": "#الجمهورية_الإسلامية مراسل الميادين: عدوان أميركي إسرائيلي على طهران",
+    "url": "https://t.me/Electrohizbullah/156477",
+    "published": "2026-03-01T08:50:01+00:00",
+    "fetched_at": "2026-03-01T09:02:57.346260+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US-Israeli Aggression on Tehran",
+    "relevant": true,
+    "summary_en": "US and Israeli forces have reportedly launched an attack on Tehran, Iran. This marks a significant escalation in the ongoing conflict, with direct strikes on the Iranian capital. The strategic significance is high, indicating a potential shift in the operational scope of the war.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "US and Israeli forces have launched a direct attack on Tehran, marking a significant escalation in the conflict with strategic implications."
+    },
+    "merged_source_count": 9,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "9f1f8d61006e629a",
+    "title_original": "موجة صاروخية حيدرية جديدة نحو الأراضي المحتلة",
+    "content_original": "موجة صاروخية حيدرية جديدة نحو الأراضي المحتلة",
+    "url": "https://t.me/Electrohizbullah/156473",
+    "published": "2026-03-01T08:45:51+00:00",
+    "fetched_at": "2026-03-01T09:02:57.343649+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "New Hezbollah Rocket Barrage Targets Israeli-Occupied Territories",
+    "relevant": true,
+    "summary_en": "Hezbollah has launched a new wave of rockets targeting Israeli-occupied territories. This attack occurred from Lebanon into northern Israel. The escalation signifies ongoing tensions and conflict between Hezbollah and Israel amid the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "hezbollah",
+      "attack",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Lebanon-Israel border",
+      "brief": "Hezbollah launched a rocket barrage targeting Israeli-occupied territories, escalating regional tensions amid the Iran-US conflict."
+    }
+  },
+  {
     "id": "6decbea3144f8cc4",
     "title_original": "Новая серия взрывов прозвучала в Дохе",
     "content_original": "Люди наблюдают с балкона за взрывами в Дохе, Катар",
@@ -915,6 +1434,41 @@
     },
     "lat": 25.29,
     "lng": 51.53
+  },
+  {
+    "id": "e9cd0ce79595aee4",
+    "title_original": "🇺🇸 🇮🇱   ❌   🇮🇷  - The final number of dead at the Shajareh Tayyebeh girls’ school in Minab, southern Iran, is 108 sch...",
+    "content_original": "🇺🇸 🇮🇱 ❌ 🇮🇷 - The final number of dead at the Shajareh Tayyebeh girls’ school in Minab, southern Iran, is 108 school girls, a spokesperson for the Iranian Red Crescent Society said — more than half of the roughly 170 students who attend the school. It remains…",
+    "url": "https://t.me/CIG_telegram/69786",
+    "published": "2026-03-01T08:44:10+00:00",
+    "fetched_at": "2026-03-01T09:02:52.193369+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "108 Dead in Minab School Incident in Southern Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A tragic incident at the Shajareh Tayyebeh girls' school in Minab, southern Iran, has resulted in the deaths of 108 schoolgirls, with more than half of the school's 170 students affected. The incident's cause is not specified, but its occurrence in Iran during active hostilities raises concerns about potential military or collateral damage implications, especially given US strikes on Iranian territory.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "dead",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "major",
+      "parties_involved": [
+        "Iran"
+      ],
+      "location": "Minab, Southern Iran",
+      "brief": "A tragic incident at a girls' school in southern Iran resulted in 108 fatalities, raising concerns during active hostilities."
+    },
+    "merged_source_count": 2,
+    "lat": 27.1,
+    "lng": 57.08
   },
   {
     "id": "333086f232f48698",
@@ -952,6 +1506,189 @@
     "merged_source_count": 3,
     "lat": 33.31,
     "lng": 44.39
+  },
+  {
+    "id": "3d13714485c51ce8",
+    "title_original": "موجة صواريخ حيدرية نحو فلسطين المحتلة",
+    "content_original": "موجة صواريخ حيدرية نحو فلسطين المحتلة",
+    "url": "https://t.me/Electrohizbullah/156472",
+    "published": "2026-03-01T08:40:41+00:00",
+    "fetched_at": "2026-03-01T09:02:57.343115+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile barrage launched by Hezbollah towards Israel",
+    "relevant": true,
+    "summary_en": "Hezbollah has launched a barrage of missiles targeting Israel, escalating tensions on Israel's northern border. This attack is likely in response to ongoing Israeli operations in Gaza and against Iran-linked targets. The incident signifies a significant escalation in regional hostilities and direct involvement by Hezbollah in the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hezbollah",
+      "attack",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Hezbollah launches a missile barrage targeting Israel, escalating regional tensions significantly."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "4d6a4d103e18108a",
+    "title_original": "مركز الأمن البحري العماني: استهداف ناقلة نفط على بعد حوالي 5 أميال بحرية من مسندم في عمان",
+    "content_original": "مركز الأمن البحري العماني: استهداف ناقلة نفط على بعد حوالي 5 أميال بحرية من مسندم في عمان",
+    "url": "https://t.me/Electrohizbullah/156470",
+    "published": "2026-03-01T08:38:47+00:00",
+    "fetched_at": "2026-03-01T09:02:57.342047+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Oil Tanker Targeted Near Musandam, Oman",
+    "relevant": true,
+    "summary_en": "An oil tanker was attacked approximately 5 nautical miles off the coast of Musandam, Oman. The incident occurred in a strategically significant location near the Strait of Hormuz, a critical maritime chokepoint. This attack could indicate an escalation in maritime hostilities related to the ongoing Iran-US conflict, potentially impacting regional oil security and shipping routes.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "Unknown Proxy Group"
+      ],
+      "location": "Musandam, Oman, near Strait of Hormuz",
+      "brief": "An oil tanker was attacked near the strategically vital Strait of Hormuz, indicating potential escalation in maritime hostilities."
+    },
+    "merged_source_count": 2,
+    "lat": 26.1523215,
+    "lng": 56.3294895
+  },
+  {
+    "id": "41d748d27760aa58",
+    "title_original": "🇴🇲 Omani Maritime Security Center: An oil tanker flying the Palau flag was targeted about 5 nautical miles off Mussan...",
+    "content_original": "🇴🇲 Omani Maritime Security Center: An oil tanker flying the Palau flag was targeted about 5 nautical miles off Mussandam in Oman.",
+    "url": "https://t.me/CIG_telegram/69782",
+    "published": "2026-03-01T08:37:50+00:00",
+    "fetched_at": "2026-03-01T09:02:52.190081+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Oil Tanker Targeted Off Oman's Mussandam Peninsula",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An oil tanker flying the Palau flag was attacked approximately 5 nautical miles off Mussandam in Oman. This incident highlights the ongoing maritime threats in the strategically vital Gulf of Oman region, potentially linked to the broader Iran-US conflict and regional proxy activities.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Oman",
+        "Palau-flagged oil tanker"
+      ],
+      "location": "Gulf of Oman, Mussandam Peninsula, Oman",
+      "brief": "An oil tanker was attacked off the coast of Oman, likely linked to ongoing maritime tensions in the Gulf of Oman region amid the Iran-US conflict."
+    },
+    "lat": 24.2138029,
+    "lng": 58.9845823
+  },
+  {
+    "id": "a11cb8947c1a71ac",
+    "title_original": "#إعلام_العدو   دوي انفجارات قوية في تل أبيب",
+    "content_original": "#إعلام_العدو دوي انفجارات قوية في تل أبيب",
+    "url": "https://t.me/Electrohizbullah/156469",
+    "published": "2026-03-01T08:37:34+00:00",
+    "fetched_at": "2026-03-01T09:02:57.341525+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Strong Explosions Heard in Tel Aviv",
+    "relevant": true,
+    "summary_en": "Explosions occurred in Tel Aviv, likely linked to ongoing hostilities between Israel and Iran-backed groups like Hamas or Hezbollah. This signifies an escalation in the conflict with potential Iranian involvement through its proxies. The incident's strategic significance involves Israel's security and potential retaliatory actions against Iran or its proxies.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "hamas",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Explosions in Tel Aviv indicate escalation in conflict with likely involvement of Iran-backed Hezbollah."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "f78427bbe9b09a0f",
+    "title_original": "🇵🇰 🇺🇸  Security personnel at the American Consulate General in Karachi, Pakistan, opened fire on Pakistani Shias atte...",
+    "content_original": "🇵🇰 🇺🇸 Security personnel at the American Consulate General in Karachi, Pakistan, opened fire on Pakistani Shias attempting to breach into the compound. 10 people were killed in the parking lot of the Consulate General. If American citizens were involved in the shooting, it may cause a diplomatic incident as the Pakistani protesters were killed on Pakistani soil, not American soil, as they were killed outside of the Consulate General. 🔗 https://t.me/ThePakistanNews/12746?single",
+    "url": "https://t.me/CIG_telegram/69774",
+    "published": "2026-03-01T08:34:38+00:00",
+    "fetched_at": "2026-03-01T09:02:52.186394+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "US Consulate Security Fires on Pakistani Shia Protesters in Karachi",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US security personnel at the American Consulate General in Karachi, Pakistan, opened fire on Pakistani Shia protesters attempting to breach the compound, resulting in 10 deaths in the consulate's parking lot. The incident could escalate tensions due to the killing of Pakistani citizens on Pakistani soil, potentially leading to a diplomatic incident between the US and Pakistan.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "US",
+        "Pakistan",
+        "Shia protesters"
+      ],
+      "location": "Karachi, Pakistan",
+      "brief": "US consulate security personnel opened fire on Pakistani Shia protesters, resulting in 10 deaths, escalating regional tensions."
+    },
+    "lat": 24.8546842,
+    "lng": 67.0207055
   },
   {
     "id": "707a805da41452a7",
@@ -4964,6 +5701,44 @@
     "merged_source_count": 2,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "1cf796b688110fd5",
+    "title_original": "Pro-Iran protesters try to storm US missions in Pakistan, Iraq",
+    "content_original": "Pro-Iranian protesters angered by the death of Iran supreme leader Ali Khamenei tried to storm the US consulate in Pakistan's Karachi on Sunday, leaving eight dead, and the fortified Green Zone hosting Washington's embassy in the Iraqi capital Baghdad. Iranian state media confirmed the death of Khamenei, Iran's supreme leader since 1989 and sworn enemy of the West, on Sunday, after the opening salvo of a massive US and Israeli attack. In the Pakistani megacity of Karachi, hundreds of pro-Iranian protesters tried to enter the US mission, an AFP journalist saw.",
+    "url": "https://www.al-monitor.com/originals/2026/03/pro-iran-protesters-try-storm-us-missions-pakistan-iraq",
+    "published": "2026-03-01T04:00:19-05:00",
+    "fetched_at": "2026-03-01T09:02:12.413199+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Pro-Iran protesters storm US missions in Pakistan and Iraq",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Pro-Iranian protesters, reacting to the death of Iran's Supreme Leader Ali Khamenei, attempted to storm the US consulate in Karachi, Pakistan, and the Green Zone in Baghdad, Iraq, resulting in eight deaths. This escalation highlights the regional volatility and anti-US sentiment following Khamenei's death and the ongoing US-Israeli attacks on Iran.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "death",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iranian protesters",
+        "Pakistan",
+        "Iraq"
+      ],
+      "location": "Pakistan, Iraq",
+      "brief": "Pro-Iranian protesters stormed US diplomatic facilities in Pakistan and Iraq following the death of Iran's Supreme Leader, resulting in eight deaths and escalating regional tensions."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "797cbcfba9eb4b38",

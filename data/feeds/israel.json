@@ -1,5 +1,39 @@
 [
   {
+    "id": "fabb751f1cbb391c",
+    "title_original": "העליונות האווירית מתרחבת: צה\"ל פועל בלב טהרן, \"הטלוויזיה האיראנית הותקפה\"",
+    "content_original": "לראשונה מאז מבצע \"עם כלביא\" והחיסולים במכת הפתיחה, חיל האוויר החל בגל תקיפות בבירת איראן - ותועדו פטריות עשן. זו המשמעות המבצעית",
+    "url": "https://www.ynet.co.il/news/article/sj4jau11kze",
+    "published": "2026-03-01T10:58:23+02:00",
+    "fetched_at": "2026-03-01T09:02:04.595050+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Expands Airstrikes: Attacks Target Tehran, Iranian TV Station Hit",
+    "relevant": true,
+    "summary_en": "The Israeli Air Force has launched a new wave of airstrikes in Tehran, reportedly hitting an Iranian TV station, marking the first such operation since Operation 'With the Lion Cubs.' This signifies an escalation in Israeli operations targeting Iran's capital and critical infrastructure.",
+    "translated": true
+  },
+  {
+    "id": "997860c986516fcd",
+    "title_original": "דיווח: מפקד משמרות המהפכה החדש - אחמד וחידי, האחראי לפיגוע בבואנוס איירס",
+    "content_original": "יממה אחרי חיסול מוחמד פאכפור במכת הפתיחת של המערכה, נמסר כי מחליפו הוא שר הפנים לשעבר, שהיה מבוקש בגין מעורבות בפיצוץ בניין הקהילה היהודית בארגנטינה ב-1994. לפני כשנתיים ביקשה הממשלה בבואנוס איירס לעצור אותו",
+    "url": "https://www.ynet.co.il/news/article/hy111lobf11x",
+    "published": "2026-03-01T10:38:09+02:00",
+    "fetched_at": "2026-03-01T09:02:04.595279+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "New IRGC Commander Ahmad Vahidi Linked to 1994 Buenos Aires Bombing",
+    "relevant": true,
+    "summary_en": "Ahmad Vahidi, the new IRGC commander, is reportedly the successor to Mohammad Pakpour and was previously wanted by Argentina for his alleged involvement in the 1994 Jewish community center bombing in Buenos Aires. This connection highlights his history of involvement in international terrorism and could escalate tensions amid the ongoing conflict.",
+    "translated": true
+  },
+  {
     "id": "a48993d6456b4ed8",
     "title_original": "IDF Home Front: We've been more ready for Iran's ballistic missiles after probing June war",
     "content_original": "'Iran is here, home front is central.'",
@@ -83,6 +117,23 @@
     "translated": true,
     "relevant": true,
     "summary_en": "The IDF has conducted extensive airstrikes, dropping 1,200 bombs on 500 Iranian targets since the war began. This indicates a significant escalation in Israeli operations targeting Iranian assets. The strikes likely aim to degrade Iran's military capabilities and deter further aggression."
+  },
+  {
+    "id": "a0259405bdc1002f",
+    "title_original": "מפקד מערך ההגנה האווירית לשעבר על התקיפות באיראן: \"זה ייקח עוד ימים\" | האזינו",
+    "content_original": "תא\"ל (מיל') רן כוכב, לשעבר מפקד מערך ההגנה האווירית ודובר צה\"ל, סיפר הבוקר ב-103fm על שביעות הרצון שלו מיום התקיפות הראשון באיראן - והזהיר מהבאות: \"המציאות קצת מאתגרת\"",
+    "url": "https://www.maariv.co.il/news/military/article-1290493",
+    "published": "2026-03-01T08:51:04+00:00",
+    "fetched_at": "2026-03-01T09:02:05.180741+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Former Israeli Air Defense Commander on Iran Strikes: 'It Will Take More Days'",
+    "relevant": true,
+    "summary_en": "A former Israeli Air Defense commander and IDF spokesperson discussed the first day of attacks on Iran, expressing satisfaction but warning of further actions to come. This highlights ongoing Israeli operations against Iran and suggests potential escalation in the conflict.",
+    "translated": true
   },
   {
     "id": "67959e7ced45d9a9",
