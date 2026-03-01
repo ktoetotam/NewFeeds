@@ -145,6 +145,80 @@
     }
   },
   {
+    "id": "d02bf74c671da49e",
+    "title_original": "При падении обломков беспилотников в Дубае пострадали два человека",
+    "content_original": "При падении обломков беспилотников в Дубае пострадали два человека",
+    "url": "https://ria.ru/20260301/dubay-2077609482.html",
+    "published": "2026-03-01T10:08:31+03:00",
+    "fetched_at": "2026-03-01T07:11:17.284472+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Two injured in Dubai by falling drone debris",
+    "relevant": true,
+    "summary_en": "Two people were injured in Dubai due to debris from drones, likely related to the ongoing conflict as Houthi forces have previously targeted the UAE with missile and drone attacks. This incident underscores the regional impact of the conflict and the potential for collateral damage in areas not directly involved in hostilities.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "houthi",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "UAE",
+        "Iran",
+        "US"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Drone debris from Houthi attacks on the UAE caused injuries in Dubai, highlighting the regional impact of the Iran-US conflict."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "05b139bfcac2a7e3",
+    "title_original": "СМИ: база США в Ираке дважды подверглась обстрелам за несколько часов",
+    "content_original": "СМИ: база США в Ираке дважды подверглась обстрелам за несколько часов",
+    "url": "https://ria.ru/20260301/baza-2077608883.html",
+    "published": "2026-03-01T10:04:42+03:00",
+    "fetched_at": "2026-03-01T07:11:17.284982+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Base in Iraq Attacked Twice Within Hours",
+    "relevant": true,
+    "summary_en": "An unidentified group launched two separate attacks on a US military base in Iraq within a few hours. The attacks targeted the base's infrastructure but no casualties have been reported yet. This escalation highlights the continued threat under which US forces operate in Iraq amid ongoing regional tensions.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "US",
+        "Iran-backed militias",
+        "Iraq"
+      ],
+      "location": "Iraq",
+      "brief": "An unidentified group, likely Iran-backed militias, conducted two attacks on a US military base in Iraq within hours, targeting infrastructure without reported casualties."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
     "id": "808f236db13b096d",
     "title_original": "Fars: Иран ударил по военной базе США в Курдистане",
     "content_original": "Американский объект был атакован второй раз за последние несколько часов",
@@ -771,6 +845,488 @@
     "merged_source_count": 2,
     "lat": 31.5,
     "lng": 34.8
+  },
+  {
+    "id": "5a01585d4c96441f",
+    "title_original": "Major General Abdolrahim Mousavi, Chief of Staff of the Iranian Armed Forces was martyred in US-Israeli aggression on...",
+    "content_original": "Major General Abdolrahim Mousavi, Chief of Staff of the Iranian Armed Forces was martyred in US-Israeli aggression on Iran. @PressTV",
+    "url": "https://t.me/presstv/177402",
+    "published": "2026-03-01T07:10:06+00:00",
+    "fetched_at": "2026-03-01T07:12:13.276662+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian Armed Forces Chief of Staff killed in US-Israeli attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Major General Abdolrahim Mousavi, Chief of Staff of the Iranian Armed Forces, was reportedly killed in a US-Israeli strike on Iran. This represents a significant escalation, targeting a top Iranian military leadership figure. The incident is likely to provoke a strong response from Iran and further intensify the ongoing conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "killed",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "A US-Israeli strike killed Iran's Chief of Staff of the Armed Forces, Major General Abdolrahim Mousavi, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 6,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "1565ae65c9d9dfda",
+    "title_original": "دوي انفجارات في الدوحة",
+    "content_original": "دوي انفجارات في الدوحة",
+    "url": "https://t.me/Electrohizbullah/156430",
+    "published": "2026-03-01T07:10:01+00:00",
+    "fetched_at": "2026-03-01T07:12:22.945139+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosions Heard in Doha",
+    "relevant": true,
+    "summary_en": "Explosions were reported in Doha, Qatar. This is significant given Doha's proximity to US military bases and its role as a major regional hub. The cause and impact of the explosions are currently unknown, but this could indicate a potential escalation or attack on US interests in the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Qatar",
+        "Iranian proxies"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Explosions in Doha, Qatar, a major regional hub near US military bases, suggest a potential proxy operation targeting US interests in the region."
+    },
+    "lat": 25.29,
+    "lng": 51.53
+  },
+  {
+    "id": "636e3134ddb9afb8",
+    "title_original": "وكالة صفا: سقوط صواريخ إيرانية وسط الكيان",
+    "content_original": "وكالة صفا: سقوط صواريخ إيرانية وسط الكيان",
+    "url": "https://t.me/Electrohizbullah/156429",
+    "published": "2026-03-01T07:09:58+00:00",
+    "fetched_at": "2026-03-01T07:12:22.944724+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missiles Hit Central Israel",
+    "relevant": true,
+    "summary_en": "Iranian missiles struck central Israel, marking a significant escalation in the conflict. This attack by Iran targets Israeli territory directly, potentially prompting a strong Israeli military response. The incident highlights the ongoing regional tensions and the risk of further escalation between Iran and its adversaries.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|hezbollah_action|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Central Israel",
+      "brief": "Iran launched ballistic missiles targeting central Israel, marking a significant escalation with potential for further regional conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "4faa10fd9072b6dc",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: سقوط صاروخ في منطقة بيت شيمش. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: سقوط صاروخ في منطقة بيت شيمش. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156428",
+    "published": "2026-03-01T07:09:06+00:00",
+    "fetched_at": "2026-03-01T07:12:22.944335+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Rocket lands in Beit Shemesh area, Israel",
+    "relevant": true,
+    "summary_en": "A rocket struck the Beit Shemesh area in Israel. This incident is significant as it indicates ongoing rocket fire targeting Israeli territory, likely from Palestinian militant groups in Gaza, escalating tensions and posing a threat to civilian populations.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Palestinian militant groups",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "A rocket fired by Palestinian militant groups in Gaza struck the Beit Shemesh area in Israel, escalating regional tensions and posing a threat to civilian populations."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "9a0bfd59f999f5ef",
+    "title_original": "انفجارات عنيفة تسمع في جنوب لبنان",
+    "content_original": "انفجارات عنيفة تسمع في جنوب لبنان",
+    "url": "https://t.me/Electrohizbullah/156426",
+    "published": "2026-03-01T07:07:53+00:00",
+    "fetched_at": "2026-03-01T07:12:22.943309+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Loud Explosions Heard in Southern Lebanon",
+    "relevant": true,
+    "summary_en": "Unspecified explosions have been reported in Southern Lebanon, likely linked to ongoing regional tensions and potential Hezbollah activities. This area is a known hotspot for conflict between Hezbollah and Israel, and such incidents could indicate escalating hostilities or preemptive actions amid the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Lebanon"
+      ],
+      "location": "Southern Lebanon",
+      "brief": "Explosions in Southern Lebanon likely indicate Hezbollah activities amid regional tensions, potentially escalating hostilities with Israel."
+    },
+    "merged_source_count": 2,
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "02d3d79c12bf379b",
+    "title_original": "انفجارات عنيفة تهز وسط و شمال اسرائيل",
+    "content_original": "انفجارات عنيفة تهز وسط و شمال اسرائيل",
+    "url": "https://t.me/Electrohizbullah/156425",
+    "published": "2026-03-01T07:07:32+00:00",
+    "fetched_at": "2026-03-01T07:12:22.942909+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Violent Explosions Rock Central and Northern Israel",
+    "relevant": true,
+    "summary_en": "Unknown explosions have occurred in central and northern Israel, likely linked to the ongoing conflict. This could indicate increased hostilities or attacks by Iranian proxies like Hezbollah. The strategic significance depends on the source and targets of the explosions, which are not yet specified.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iranian proxies"
+      ],
+      "location": "Central and Northern Israel",
+      "brief": "Multiple explosions in central and northern Israel likely indicate escalated Hezbollah actions as Iranian proxies, signaling increased regional tensions."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "8c97f121433a9e07",
+    "title_original": "موج حملات موشکی ایران آغاز شد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ...",
+    "content_original": "موج حملات موشکی ایران آغاز شد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44928",
+    "published": "2026-03-01T07:04:39+00:00",
+    "fetched_at": "2026-03-01T07:12:21.828332+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran Launches Wave of Missile Attacks",
+    "relevant": true,
+    "summary_en": "Iran has initiated a new wave of missile attacks, likely targeting US forces or assets in the region. This escalation signifies a significant intensification of hostilities between Iran and the US, with potential implications for regional stability and US military posture in the Middle East.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "Iran launches a wave of missile attacks targeting US forces or assets, significantly escalating hostilities."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "7299ff2b30fdff6f",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي على كامل الأراضي الفلسطينية المحتلة. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي على كامل الأراضي الفلسطينية المحتلة. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156424",
+    "published": "2026-03-01T07:03:48+00:00",
+    "fetched_at": "2026-03-01T07:12:22.942501+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound Across Occupied Palestinian Territories",
+    "relevant": true,
+    "summary_en": "Air raid sirens are sounding throughout the occupied Palestinian territories, likely indicating incoming threats or attacks. This suggests potential escalation involving Israel and Palestinian militant groups, with broader regional implications given the ongoing US-Iran conflict and Hezbollah's activities.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Palestinian militant groups",
+        "Hezbollah",
+        "Iran",
+        "US"
+      ],
+      "location": "Occupied Palestinian Territories",
+      "brief": "Air raid sirens in the occupied Palestinian territories signal potential escalation amid ongoing US-Iran tensions, with possible involvement of regional actors like Hezbollah."
+    },
+    "lat": 31.5197847,
+    "lng": 35.0494777
+  },
+  {
+    "id": "9f0c6739f4df4b6d",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في حيفا ومحيطها. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في حيفا ومحيطها. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156422",
+    "published": "2026-03-01T07:02:58+00:00",
+    "fetched_at": "2026-03-01T07:12:22.941581+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Haifa and Surroundings",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Haifa and its surrounding areas, indicating a potential threat or attack in northern Israel. This development is significant as it suggests increased tensions and potential escalation in the region, likely linked to ongoing hostilities between Israel and Hezbollah or other Iranian-backed groups.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "threat",
+      "hezbollah",
+      "attack",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Haifa, Israel",
+      "brief": "Air raid sirens in Haifa indicate a potential Hezbollah attack, escalating tensions in northern Israel."
+    },
+    "lat": 32.79,
+    "lng": 34.99
+  },
+  {
+    "id": "77e7a953b42dfbc6",
+    "title_original": "#إعلام_العدو   \"جيش\" الاحتلال الإسرائيلي: صفارات الإنذار تدوي في الشمال والوسط والقدس",
+    "content_original": "#إعلام_العدو \"جيش\" الاحتلال الإسرائيلي: صفارات الإنذار تدوي في الشمال والوسط والقدس",
+    "url": "https://t.me/Electrohizbullah/156421",
+    "published": "2026-03-01T07:02:46+00:00",
+    "fetched_at": "2026-03-01T07:12:22.941108+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Army: Air Raid Sirens Sound in Northern, Central Israel and Jerusalem",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated across northern, central Israel, and Jerusalem, indicating a potential escalation in hostilities. This suggests possible rocket or missile attacks from Hezbollah or other Iranian-backed groups. The development signifies a significant military incident with potential regional security implications.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "rocket",
+      "hezbollah",
+      "missile",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel (Northern, Central, Jerusalem)",
+      "brief": "Air raid sirens across Israel indicate potential rocket or missile attacks by Hezbollah, signaling escalation in Iran-backed hostilities."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "a851c48c7ba02945",
+    "title_original": "حرق وتدمير القنصلية الأمريكية في كراتشي باكستان",
+    "content_original": "حرق وتدمير القنصلية الأمريكية في كراتشي باكستان",
+    "url": "https://t.me/Electrohizbullah/156420",
+    "published": "2026-03-01T07:02:15+00:00",
+    "fetched_at": "2026-03-01T07:12:22.940666+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US Consulate in Karachi, Pakistan Set Ablaze and Destroyed",
+    "relevant": true,
+    "summary_en": "Unidentified attackers set fire to and destroyed the US Consulate in Karachi, Pakistan. This incident represents a significant escalation in anti-US sentiment and potential proxy activity in the region. The strategic significance includes the targeting of a critical US diplomatic facility in a major city, indicating heightened insecurity for US assets abroad amid regional tensions.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iranian proxies",
+        "Pakistan-based militants"
+      ],
+      "location": "Karachi, Pakistan",
+      "brief": "The destruction of the US Consulate in Karachi by unidentified attackers marks a significant escalation in proxy operations against US interests in the region."
+    },
+    "merged_source_count": 2,
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
+    "id": "9fbac3f5e969dea0",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في القدس ومحيطها #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في القدس ومحيطها #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156415",
+    "published": "2026-03-01T06:59:36+00:00",
+    "fetched_at": "2026-03-01T07:12:22.938280+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air raid sirens sound in Jerusalem and surrounding areas",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Jerusalem and its surroundings, likely due to incoming threats or attacks. This indicates a potential escalation in hostilities in the region, possibly linked to ongoing conflicts with groups like Hamas or Hezbollah. The strategic significance involves the heightened alert level in a major Israeli city, reflecting the broader conflict dynamics.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hamas",
+      "hezbollah",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iranian proxies"
+      ],
+      "location": "Jerusalem and surrounding areas",
+      "brief": "Air raid sirens in Jerusalem indicate a significant escalation in regional hostilities, likely involving Iranian-backed groups."
+    },
+    "lat": 49.1014542,
+    "lng": 6.1556601
+  },
+  {
+    "id": "f8b2a499aa69c4fa",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في تل أبيب ومحيطها. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في تل أبيب ومحيطها. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156414",
+    "published": "2026-03-01T06:59:35+00:00",
+    "fetched_at": "2026-03-01T07:12:22.937795+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Tel Aviv and Surrounding Areas",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Tel Aviv and its surroundings, indicating a potential threat or attack. This suggests a possible escalation in hostilities involving Israel, likely linked to the ongoing conflict with Iran or its proxies. The incident underscores the regional volatility and potential for direct confrontation.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "attack",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Air raid sirens in Tel Aviv indicate a potential Hezbollah or Iranian-backed attack, signaling escalation in regional hostilities."
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "00b862fa2b8ccc29",
