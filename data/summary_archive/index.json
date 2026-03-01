@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T17-09-57.276843_plus_00-00.json",
+    "generated_at": "2026-03-01T17:09:57.276843+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 639,
+    "summary_preview": "The Iran-US conflict has escalated significantly with confirmed US casualties (3 troops killed in Operation Epic Fury) and Iran's expansion of attacks to regional Gulf states. The IRGC has claimed str"
+  },
+  {
     "filename": "2026-03-01T16-44-37.778775_plus_00-00.json",
     "generated_at": "2026-03-01T16:44:37.778775+00:00",
     "threat_label": "MAJOR",

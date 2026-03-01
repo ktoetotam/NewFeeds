@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-01T17:09:57.276843+00:00",
+  "generated_at": "2026-03-01T17:39:16.540270+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 639,
+    "incident_count_24h": 653,
     "incident_count_6h": 240,
     "severity_breakdown": {
-      "major": 242,
-      "high": 262,
+      "major": 255,
+      "high": 263,
       "medium": 132,
       "low": 3
     }
   },
   "source_count": {
-    "attacks_analyzed": 177,
-    "articles_analyzed": 251,
+    "attacks_analyzed": 176,
+    "articles_analyzed": 194,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -32,55 +32,51 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has escalated significantly with confirmed US casualties (3 troops killed in Operation Epic Fury) and Iran's expansion of attacks to regional Gulf states. The IRGC has claimed strikes on a Bahrain naval base and three US/British oil tankers, while Kuwait reports 1 death and 32 injuries from Iranian attacks. The death of Supreme Leader Khamenei has triggered succession planning, with a Temporary Leadership Council now operational. US CENTCOM explicitly denied Iranian claims of hitting the USS Abraham Lincoln.",
+  "executive_summary": "The Iran-US conflict has escalated significantly with 653 incidents in 24h. Iran has launched widespread ballistic missile attacks across the region targeting Israel, UAE (Dubai Airport, Abu Dhabi port), and Gulf states, while the IRGC claims to have targeted the USS Abraham Lincoln with 4 missiles. The death of Supreme Leader Khamenei has triggered succession planning with a Temporary Leadership Council now operational. US military confirmed 3 troops killed in Operation Epic Fury — the first American combat casualties. Israel has mobilized 100,000 reservists and dropped 2,000 bombs on Iran.",
   "whats_new": [
-    "IRGC claims 4 drones struck US naval base at Salman Port, Bahrain, causing significant damage to command and support facilities",
-    "IRGC announces strike on three US/British oil tankers in the Gulf region",
-    "Kuwait reports 1 fatality, 32 injuries at Al Adan Hospital from Iranian attacks on foreign nationals",
-    "UAE reports 3 dead, 58 injured; air defenses intercepted 20 ballistic missiles, 2 cruise missiles, 311 drones",
-    "Iranian drone attacked UAE oil rig in Persian Gulf (RBC/Farej TV report)",
-    "Iranian forces shot down US drone over Ahwaz, wreckage displayed on state media",
-    "IDF mobilizes approximately 100,000 reserve soldiers, elevated combat readiness across all sectors",
-    "Trump claims 48 Iranian leaders killed in US attack; Jordan/Oman condemn Iranian attacks on their territories",
-    "UK reviewing terror threat level amid Middle East crisis"
+    "Death toll from US-Israeli airstrike on Iranian girls school rises to 165 (from 148 previously)",
+    "Israel calls up 100,000 reservists and reinforces eastern border with rapid response units",
+    "Maersk suspends all vessel crossings in Strait of Hormuz due to conflict",
+    "US releases footage of B-2 stealth bombers en route to attack Iranian ballistic missile facilities",
+    "UK announces review of terror threat level amid Iran strikes",
+    "Trump claims 48 Iranian officials killed, states new Iranian leadership asked to negotiate"
   ],
   "confirmed_events": [
-    "Three US service members killed, five seriously wounded in Operation Epic Fury against Iran (confirmed by US CENTCOM)",
-    "Khamenei assassination triggers Temporary Leadership Council; President Pezeshkian announces succession process has begun",
-    "Iranian ballistic missile strikes on Israel: Beit Shemesh (8 killed, 27 injured), Jerusalem (9 killed)",
-    "US CENTCOM denies Iranian claim that ballistic missiles struck USS Abraham Lincoln - 'didn't even come close'",
-    "Joint US-Israeli airstrike on girls' school in Minab, Hormozgan province killed 148 civilians",
-    "Maersk suspended all vessel crossings in Strait of Hormuz; two ships struck by projectiles in the strait"
+    "Confirmed by multiple sources: 3 US service members killed, 5 wounded in direct engagement with Iranian-backed forces — first US combat casualties",
+    "Confirmed: Iranian ballistic missiles hit Dubai Airport and Sharjah, causing fires",
+    "Confirmed: Iranian attack on Abu Dhabi kills 3, injures 58; UAE air defense intercepted 20 ballistic missiles, 2 cruise missiles, 311 drones",
+    "Confirmed: 9 killed in Iranian missile strike on Beit Shemesh, highest single-day Israeli casualty toll",
+    "Confirmed: Kuwait reports 1 fatality, 32 injuries from Iranian attacks at Al Adan Hospital",
+    "Confirmed: US CENTCOM sank Iranian Jamaran-class corvette in Chabahar Port"
   ],
   "unverified_emerging": [
-    "Former Iranian President Mahmoud Ahmadinejad reportedly killed in Israeli strike (unconfirmed, multiple outlets)",
-    "Trump claims 48 Iranian leaders killed in US attack - specific casualty figures unverified",
-    "IRGC claims USS Abraham Lincoln hit - US CENTCOM denies, but Iranian narrative may persist in information space"
+    "IRGC claims 560 US personnel killed and injured in Bahrain missile strike (source: RIA Novosti, unverified, US has not confirmed)",
+    "Reports of explosion in Tehran — nature unclear, whether airstrike or air defense (source: Islamic Resistance Iraq TG channel)",
+    "Massive fire at US military base in Qatar following Iranian missile and drone attacks (source: Hezbollah Electronic Army TG, unverified by US)"
   ],
   "operational_impacts": {
     "people_travel": [
-      "Over 1,000 flights disrupted; hundreds of thousands stranded or diverted due to airspace closures in Dubai, Abu Dhabi, Doha",
-      "Jebel Jais and tourist sites closed in UAE; remote work advisories issued"
+      "Over 1,000 flights by major Middle Eastern airlines stranded or diverted due to airspace closures in Dubai, Abu Dhabi, Doha",
+      "Key transit hubs Dubai, Abu Dhabi and Doha closed airspace"
     ],
     "supply_chain": [
-      "Maersk suspended Strait of Hormuz transits - major impact on global oil supply chains",
-      "Two ships struck by projectiles in Strait of Hormuz - escalating maritime vulnerability",
-      "Attack on UAE oil rig threatens regional energy infrastructure"
+      "Maersk suspends vessel crossings in Strait of Hormuz — critical global oil chokepoint carrying 20% of world oil",
+      "Strait of Hormuz closure risk threatens global oil supply chains"
     ],
     "market_macro": [
-      "Global oil markets facing significant disruption from Strait of Hormuz closure",
-      "Aviation sector massively impacted with major hub closures across Gulf region"
+      "Brent crude jumped 10% to approximately $80/barrel, could spike to $100 if Strait closes",
+      "Israeli hospitals overcrowded with wounded patients indicating significant casualties"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The conflict will continue escalating over the next 24-72 hours. Iran has demonstrated willingness to expand attacks beyond Israel to Gulf partners (UAE, Kuwait, Jordan, Oman), suggesting a broader regionalization of hostilities. The succession process in Tehran may provide a diplomatic off-ramp, but IRGC's continued military operations indicate hardliners remain in control. US military operations (Operation Epic Fury) are described as 'ongoing' by CENTCOM, suggesting continued strikes on Iranian targets.",
+    "base_case": "The conflict is at a critical inflection point. Iran has demonstrated willingness to strike deep into Israeli territory and target US allies across the Gulf, while the US continues major combat operations with B-2 bombers and carrier assets. The death of Khamenei creates a power vacuum but IRGC remains operational and has signaled continued escalation capacity. Diplomatic signals from Trump (new Iranian leadership wants to negotiate) suggest potential off-ramp, but military momentum continues. Expect continued Iranian proxy attacks on US bases in Iraq and Gulf states.",
     "escalation_risks": [
-      "Iranian attacks on Gulf state infrastructure could draw additional US allies into direct conflict",
-      "IRGC strikes on Bahrain naval base represent attack on US territory - may prompt stronger American response",
-      "Hezbollah and Iraqi proxy attacks on US bases likely to increase as IRGC coordinates regional campaign",
-      "Mass casualty Israeli strikes on Iranian civilians may provoke harderline response from new leadership",
-      "Unrestricted Iranian missile campaign against Gulf states could close Strait of Hormuz permanently"
+      "IRGC claims targeting USS Abraham Lincoln — if confirmed as direct hit, could trigger US retaliation against Iranian territory at unprecedented scale",
+      "Strait of Hormuz closure would catastrophic global oil supply disruption",
+      "Iranian attacks on Gulf state infrastructure could draw Saudi Arabia and other Gulf states into direct conflict",
+      "Russia or China intervention to support Iran could expand conflict scope",
+      "Mass casualty attacks on Israeli population centers could trigger even more devastating Israeli response"
     ],
-    "de_escalation_pathways": "De-escalation requires either: (1) Iran accepting new leadership structure without continued military escalation, or (2) US/Israel achieving sufficient degradation of Iranian military capacity to force negotiation. Trump indicated willingness to 'talk' to new Iranian leadership, but IRGC's current offensive posture suggests hardliners control operational decisions. International pressure from Russia, China, or Gulf states could create diplomatic space, though none has emerged as broker."
+    "de_escalation_pathways": "Trump's statement that new Iranian leadership asked to negotiate and he agreed provides a potential diplomatic opening. However, IRGC military leadership remains intact and has pledged continued confrontation. Any de-escalation would require either: (1) Iran accepting a negotiated ceasefire while saving face, or (2) one side achieving decisive military advantage. The Temporary Leadership Council succession process could either accelerate negotiations or harden Iranian resolve."
   }
 }

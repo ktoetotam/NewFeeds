@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-03-01T17:09:57.276843+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 639,
+    "incident_count_6h": 240,
+    "severity_breakdown": {
+      "major": 242,
+      "high": 262,
+      "medium": 132,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 177,
+    "articles_analyzed": 251,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated significantly with confirmed US casualties (3 troops killed in Operation Epic Fury) and Iran's expansion of attacks to regional Gulf states. The IRGC has claimed strikes on a Bahrain naval base and three US/British oil tankers, while Kuwait reports 1 death and 32 injuries from Iranian attacks. The death of Supreme Leader Khamenei has triggered succession planning, with a Temporary Leadership Council now operational. US CENTCOM explicitly denied Iranian claims of hitting the USS Abraham Lincoln.",
+  "whats_new": [
+    "IRGC claims 4 drones struck US naval base at Salman Port, Bahrain, causing significant damage to command and support facilities",
+    "IRGC announces strike on three US/British oil tankers in the Gulf region",
+    "Kuwait reports 1 fatality, 32 injuries at Al Adan Hospital from Iranian attacks on foreign nationals",
+    "UAE reports 3 dead, 58 injured; air defenses intercepted 20 ballistic missiles, 2 cruise missiles, 311 drones",
+    "Iranian drone attacked UAE oil rig in Persian Gulf (RBC/Farej TV report)",
+    "Iranian forces shot down US drone over Ahwaz, wreckage displayed on state media",
+    "IDF mobilizes approximately 100,000 reserve soldiers, elevated combat readiness across all sectors",
+    "Trump claims 48 Iranian leaders killed in US attack; Jordan/Oman condemn Iranian attacks on their territories",
+    "UK reviewing terror threat level amid Middle East crisis"
+  ],
+  "confirmed_events": [
+    "Three US service members killed, five seriously wounded in Operation Epic Fury against Iran (confirmed by US CENTCOM)",
+    "Khamenei assassination triggers Temporary Leadership Council; President Pezeshkian announces succession process has begun",
+    "Iranian ballistic missile strikes on Israel: Beit Shemesh (8 killed, 27 injured), Jerusalem (9 killed)",
+    "US CENTCOM denies Iranian claim that ballistic missiles struck USS Abraham Lincoln - 'didn't even come close'",
+    "Joint US-Israeli airstrike on girls' school in Minab, Hormozgan province killed 148 civilians",
+    "Maersk suspended all vessel crossings in Strait of Hormuz; two ships struck by projectiles in the strait"
+  ],
+  "unverified_emerging": [
+    "Former Iranian President Mahmoud Ahmadinejad reportedly killed in Israeli strike (unconfirmed, multiple outlets)",
+    "Trump claims 48 Iranian leaders killed in US attack - specific casualty figures unverified",
+    "IRGC claims USS Abraham Lincoln hit - US CENTCOM denies, but Iranian narrative may persist in information space"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Over 1,000 flights disrupted; hundreds of thousands stranded or diverted due to airspace closures in Dubai, Abu Dhabi, Doha",
+      "Jebel Jais and tourist sites closed in UAE; remote work advisories issued"
+    ],
+    "supply_chain": [
+      "Maersk suspended Strait of Hormuz transits - major impact on global oil supply chains",
+      "Two ships struck by projectiles in Strait of Hormuz - escalating maritime vulnerability",
+      "Attack on UAE oil rig threatens regional energy infrastructure"
+    ],
+    "market_macro": [
+      "Global oil markets facing significant disruption from Strait of Hormuz closure",
+      "Aviation sector massively impacted with major hub closures across Gulf region"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict will continue escalating over the next 24-72 hours. Iran has demonstrated willingness to expand attacks beyond Israel to Gulf partners (UAE, Kuwait, Jordan, Oman), suggesting a broader regionalization of hostilities. The succession process in Tehran may provide a diplomatic off-ramp, but IRGC's continued military operations indicate hardliners remain in control. US military operations (Operation Epic Fury) are described as 'ongoing' by CENTCOM, suggesting continued strikes on Iranian targets.",
+    "escalation_risks": [
+      "Iranian attacks on Gulf state infrastructure could draw additional US allies into direct conflict",
+      "IRGC strikes on Bahrain naval base represent attack on US territory - may prompt stronger American response",
+      "Hezbollah and Iraqi proxy attacks on US bases likely to increase as IRGC coordinates regional campaign",
+      "Mass casualty Israeli strikes on Iranian civilians may provoke harderline response from new leadership",
+      "Unrestricted Iranian missile campaign against Gulf states could close Strait of Hormuz permanently"
+    ],
+    "de_escalation_pathways": "De-escalation requires either: (1) Iran accepting new leadership structure without continued military escalation, or (2) US/Israel achieving sufficient degradation of Iranian military capacity to force negotiation. Trump indicated willingness to 'talk' to new Iranian leadership, but IRGC's current offensive posture suggests hardliners control operational decisions. International pressure from Russia, China, or Gulf states could create diplomatic space, though none has emerged as broker."
+  }
+}

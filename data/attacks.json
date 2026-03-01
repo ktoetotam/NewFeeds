@@ -1,5 +1,42 @@
 [
   {
+    "id": "6c041338e37122b7",
+    "title_original": "US suffers first war fatalities as Iran’s counterstrikes widen in West Asia",
+    "content_original": "The US said the first Americans had been killed in the war with Iran that spread to several countries in West Asia, while threatening to upend energy markets.",
+    "url": "https://www.hindustantimes.com/world-news/us-news/us-suffers-first-war-fatalities-as-iran-s-counterstrikes-widen-in-west-asia-101772384706971.html",
+    "published": "2026-03-01T22:41:28+05:30",
+    "fetched_at": "2026-03-01T17:14:17.357204+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "US suffers first war fatalities as Iran's counterstrikes widen in West Asia",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "American military personnel have been killed for the first time in the expanding US-Iran conflict, as Iranian counterstrikes spread across multiple countries in West Asia. The fatalities mark a significant escalation in the conflict that has now spread to several nations and threatens to disrupt global energy markets.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "war",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Iranian forces"
+      ],
+      "location": "West Asia",
+      "brief": "Iranian counterstrikes cause first US military fatalities, marking major escalation in expanding US-Iran conflict across West Asia"
+    },
+    "lat": 9.6021766,
+    "lng": 122.4670994
+  },
+  {
     "id": "5fd7e711fe0f7a5b",
     "title_original": "'Names will change, regime will stay': How Iranians on the street see life after Khamenei's death in US-Israel strikes",
     "content_original": "Top security chief Ali Larijani announced transition plans and warned Iran would hit Israel and United States with a force “they've never experienced before”",
@@ -143,6 +180,46 @@
     "lng": 47.0
   },
   {
+    "id": "fb2738218ca18553",
+    "title_original": "Иран заявил о гибели и ранениях 560 американских солдат",
+    "content_original": "При ударе двумя иранскими ракетами места расположения военных США в Бахрейне погибли и ранены 560 американских военнослужащих, сообщает Корпус стражей исламской революции (КСИР) Ирана, передает Fars.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a4711b9a794754d12e51d6",
+    "published": "2026-03-01T20:05:25+03:00",
+    "fetched_at": "2026-03-01T17:13:52.023423+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Claims 560 US Soldiers Killed and Wounded in Bahrain Missile Strike",
+    "relevant": true,
+    "summary_en": "The IRGC claimed two Iranian missiles struck US military positions in Bahrain, killing and wounding 560 American servicemembers. If verified, this would represent a significant escalation and major casualties for US forces in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "missile",
+      "irgc",
+      "wounded",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran (IRGC)",
+        "United States",
+        "Bahrain"
+      ],
+      "location": "Bahrain",
+      "brief": "IRGC claims ballistic missile strike on US military base in Bahrain resulted in 560 American casualties, representing direct Iranian attack on US forces."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "24f2d38d36a877be",
     "title_original": "Iran Guards say ‘struck’ U.S. aircraft carrier USS Abraham Lincoln: state media",
     "content_original": "The ‌USS ​Lincoln is one ⁠of two aircraft ‌carriers deployed to the region in recent ‌weeks and ​the only one ⁠relatively close ⁠to Iranian shores",
@@ -213,6 +290,150 @@
     },
     "lat": 26.0,
     "lng": 52.0
+  },
+  {
+    "id": "47d9b9fed4e4d1d4",
+    "title_original": "Иран заявил об ударах по трем танкерам США и Британии",
+    "content_original": "Иран нанес ракетные удары по трем танкерам Соединенных Штатов и Великобритании в акватории Персидского залива и Ормузского пролива. Об этом сообщила пресс-служба Корпуса стражей исламской революции (КСИР).",
+    "url": "https://www.kommersant.ru/doc/8477555",
+    "published": "2026-03-01T19:57:38+03:00",
+    "fetched_at": "2026-03-01T17:13:50.593944+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran claims strikes on three US and British tankers",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) announced that Iran fired missile strikes on three tankers belonging to the United States and the United Kingdom in the waters of the Persian Gulf and Strait of Hormuz. This represents a direct escalation in Iranian attacks on Western maritime assets in the strategic shipping corridor.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "United Kingdom"
+      ],
+      "location": "Persian Gulf, Strait of Hormuz",
+      "brief": "Iran's IRGC fired missile strikes on three US and British tankers in the Persian Gulf and Strait of Hormuz, marking a direct escalation in attacks on Western maritime assets."
+    },
+    "merged_source_count": 2,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "d18c80eaf1c2ab67",
+    "title_original": "МИД Ирана прокомментировал потерю нескольких военных командиров",
+    "content_original": "МИД Ирана прокомментировал потерю нескольких военных командиров",
+    "url": "https://ria.ru/20260301/iran-2077720797.html",
+    "published": "2026-03-01T19:51:21+03:00",
+    "fetched_at": "2026-03-01T17:13:47.098804+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Foreign Ministry commented on the loss of several military commanders",
+    "relevant": true,
+    "summary_en": "Iran's Foreign Ministry has issued a statement regarding the deaths of several military commanders, likely in the context of ongoing US and Israeli strikes against Iranian targets and proxy forces in the region. The statement comes as part of the escalating Iran-US armed conflict that began in 2026.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "proxy",
+      "conflict",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "russia",
+      "brief": "Iran's Foreign Ministry issued a statement on the deaths of several military commanders resulting from ongoing US and Israeli strikes against Iranian targets in the escalating 2026 Iran-US conflict."
+    },
+    "lat": 64.6863136,
+    "lng": 97.7453061
+  },
+  {
+    "id": "3d1b269d19b11ce3",
+    "title_original": "Иран нанес удар по трем американским и британским танкерам",
+    "content_original": "Иран нанес удар по трем американским и британским танкерам",
+    "url": "https://ria.ru/20260301/tankery-2077721618.html",
+    "published": "2026-03-01T19:49:59+03:00",
+    "fetched_at": "2026-03-01T17:13:47.098991+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran strikes three American and British tankers",
+    "relevant": true,
+    "summary_en": "Iran launched strikes against three oil tankers belonging to the United States and United Kingdom. The attacks occurred in the Gulf region and represent a significant escalation of Iranian maritime operations against Western shipping interests. This marks another front in the ongoing Iran-US conflict, with implications for global oil supply routes and international maritime security.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "United Kingdom"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran launched strikes against three US and UK oil tankers in the Gulf region, marking a significant escalation in Iranian maritime operations against Western shipping interests."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "6dbd59b7353b42a4",
+    "title_original": "\"Нас ждут потери\". В США рассказали о произошедшей трагедии из-за Ирана",
+    "content_original": "\"Нас ждут потери\". В США рассказали о произошедшей трагедии из-за Ирана",
+    "url": "https://ria.ru/20260301/ssha-2077720377.html",
+    "published": "2026-03-01T19:49:35+03:00",
+    "fetched_at": "2026-03-01T17:13:47.099391+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "\"Losses Await Us\": US Reports on Tragedy Due to Iran",
+    "relevant": true,
+    "summary_en": "US officials have acknowledged that American forces will suffer casualties as a result of Iranian actions in the ongoing conflict. The statement highlights the escalating military dimension of the Iran-US hostilities and suggests expectations of further losses as tensions continue to mount in the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "threat_statement",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Middle East",
+      "brief": "US officials acknowledge American forces will suffer casualties from Iranian actions in ongoing conflict, warning of expected losses as tensions escalate."
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "2f849fe4f4ec87e1",
@@ -1467,6 +1688,46 @@
     "lng": 51.39
   },
   {
+    "id": "c62d86f6dd32e904",
+    "title_original": "⚡️  US releases footage of B2 bombers en route to attack ballistic missile facilities in Iran",
+    "content_original": "⚡️ US releases footage of B2 bombers en route to attack ballistic missile facilities in Iran",
+    "url": "https://t.me/warmonitors/40291",
+    "published": "2026-03-01T17:11:35+00:00",
+    "fetched_at": "2026-03-01T17:14:38.592261+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US releases footage of B2 bombers en route to attack ballistic missile facilities in Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US military has released footage showing B-2 Spirit stealth bombers en route to strike ballistic missile facilities inside Iran. This represents a significant escalation in US strikes against Iranian military infrastructure, targeting Iran's ballistic missile capabilities—a key component of Tehran's deterrence and offensive arsenal. The deployment of B-2 bombers, which are capable of penetrating heavily defended airspace with precision-guided munitions, demonstrates the US commitment to degrading Iran's missile capabilities as part of the ongoing conflict.",
+    "keyword_matches": 11,
+    "matched_keywords": [
+      "conflict",
+      "offensive",
+      "missile",
+      "attack",
+      "ballistic",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US B-2 stealth bombers conducted airstrikes targeting ballistic missile facilities inside Iran, representing a major escalation in direct US-Iran military engagement."
+    },
+    "merged_source_count": 8,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "aff44586d6391b8d",
     "title_original": "Иран атаковал баллистическими ракетами авианосец США",
     "content_original": "Корпус стражей исламской революции (КСИР) атаковал авианосец ВМС США &laquo;Авраам Линкольн&raquo; (Abraham Lincoln) в рамках операции &laquo;Правдивое обещание&nbsp;&mdash; 4&raquo;, сообщил КСИР, передает IRNA в телеграм-канале.",
@@ -1504,6 +1765,44 @@
     "lng": 52.0
   },
   {
+    "id": "baa13fe179f462d1",
+    "title_original": "🚨 صدای انفجار در تهران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SA...",
+    "content_original": "🚨 صدای انفجار در تهران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44980",
+    "published": "2026-03-01T17:08:48+00:00",
+    "fetched_at": "2026-03-01T17:14:39.941946+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Sound of Explosion in Tehran",
+    "relevant": true,
+    "summary_en": "Reports emerging of an explosion in Tehran, the Iranian capital. The nature of the explosion and whether it was caused by an airstrike, air defense activity, or another incident remains unclear. This development comes amid the ongoing Iran-US armed conflict and would represent a significant escalation if confirmed as a strike on Tehran itself.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "air defense",
+      "airstrike",
+      "explosion",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Unconfirmed explosion reported in Tehran capital amid ongoing US-Iran conflict, potentially indicating major escalation with direct strikes on Iranian soil."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "4fcdaf36be0c0129",
     "title_original": "Иран сбил американский БПЛА в Ахвазе",
     "content_original": "Иран сбил американский БПЛА в Ахвазе",
@@ -1539,6 +1838,42 @@
     "lng": 48.69
   },
   {
+    "id": "5aca423ad4ed4860",
+    "title_original": "#قطر   اندلع حريق هائل في قاعدة عسكرية أمريكية بقطر إثر هجمات صاروخية وطائرات مسيرة إيرانية.",
+    "content_original": "#قطر اندلع حريق هائل في قاعدة عسكرية أمريكية بقطر إثر هجمات صاروخية وطائرات مسيرة إيرانية.",
+    "url": "https://t.me/Electrohizbullah/156735",
+    "published": "2026-03-01T17:05:31+00:00",
+    "fetched_at": "2026-03-01T17:14:40.881195+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "#قطر   اندلع حريق هائل في قاعدة عسكرية أمريكية بقطر إثر هجمات صاروخية وطائرات مسيرة إيرانية.",
+    "summary_en": "{\"h\":\"Massive Fire Breaks Out at US Military Base in Qatar Following Iranian Missile and Drone Attacks\",\"r\":true,\"s\":\"Iranian forces launched missile and drone attacks targeting a US military base in Qatar,",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Qatar"
+      ],
+      "location": "Qatar",
+      "brief": "Iranian missile and drone attacks directly targeted a US military base in Qatar, causing a massive fire in a significant escalation of direct Iran-US military engagement."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
     "id": "88890db8c166bb63",
     "title_original": "Jordan, Oman Foreign Ministers Condemn Iranian Attacks on Their Countries",
     "content_original": "Amman, March 1 (QNA) - Jordanian Foreign Minister Ayman Safadi condemned today the Iranian attack on the Sultanate of Oman.",
@@ -1572,6 +1907,45 @@
     },
     "lat": 26.0,
     "lng": 52.0
+  },
+  {
+    "id": "50d01b60b657d3a8",
+    "title_original": "💥 🇮🇶 🇮🇷 🇮🇶 🇮🇶  Iraqi outlets disagree on the source of the bomb which struck the Erbil Int'l Airport.  Some say it wa...",
+    "content_original": "💥 🇮🇶 🇮🇷 🇮🇶 🇮🇶 Iraqi outlets disagree on the source of the bomb which struck the Erbil Int'l Airport. Some say it was an Iranian Fateh-110 missile, other say it was a drone launched by one of the many Shi'ite paramilitaries. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69875",
+    "published": "2026-03-01T17:00:17+00:00",
+    "fetched_at": "2026-03-01T17:14:37.201870+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "💥 🇮🇶 🇮🇷 🇮🇶 🇮🇶  Iraqi outlets disagree on the source of the bomb which struck the Erbil Int'l Airport.  Some say it wa...",
+    "translated": true,
+    "summary_en": "{\"h\":\"Iraqi outlets disagree on source of bomb that struck Erbil Int'l Airport - some say Iranian Fateh-110 missile, others say Shi'ite paramilitary drone\",\"r\":true,\"s\":\"A bomb struck",
+    "relevant": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "bomb",
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Shi'ite paramilitaries",
+        "Iraq",
+        "IRGC"
+      ],
+      "location": "Erbil International Airport, Iraqi Kurdistan",
+      "brief": "A bomb struck Erbil International Airport with conflicting reports on whether it was an Iranian Fateh-110 missile or a Shi'ite paramilitary drone"
+    },
+    "merged_source_count": 4,
+    "lat": 36.2404123,
+    "lng": 43.9465692
   },
   {
     "id": "35fc8e84199a6cc4",
@@ -1687,6 +2061,86 @@
     "lng": 51.39
   },
   {
+    "id": "7f0ebccd45cbcb69",
+    "title_original": "— ❗️ 🇺🇸 / 🇮🇷  BREAKING: U.S. CENTCOM announces that 3 American soldiers have been killed so far by Iranian ballistic ...",
+    "content_original": "— ❗️ 🇺🇸 / 🇮🇷 BREAKING: U.S. CENTCOM announces that 3 American soldiers have been killed so far by Iranian ballistic missiles @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69872",
+    "published": "2026-03-01T16:54:54+00:00",
+    "fetched_at": "2026-03-01T17:14:37.199662+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "U.S. CENTCOM announces 3 American soldiers killed by Iranian ballistic missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "U.S. Central Command has confirmed that three American soldiers have been killed so far by Iranian ballistic missile strikes. The casualties mark the first confirmed American deaths in the escalating Iran-U.S. conflict. The missiles were part of Iran's ongoing ballistic missile and drone campaign against U.S. bases and assets in the Middle East region.",
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "ballistic",
+      "killed",
+      "conflict",
+      "missile",
+      "drone",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "U.S. Central Command"
+      ],
+      "location": "Middle East (unspecified)",
+      "brief": "Three American soldiers confirmed killed by Iranian ballistic missile strikes, marking the first direct American casualties in the escalating Iran-US conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "2d16f76e3ce377fa",
+    "title_original": "📝 Гибнут американские солдаты 📝   В  Пентагоне  подтвердили потери среди личного состава американских войск, но речи ...",
+    "content_original": "📝 Гибнут американские солдаты 📝 В Пентагоне подтвердили потери среди личного состава американских войск, но речи о сотнях погибших, как заявляли в КСИР, естественно, не идет. Погибли трое , получили тяжелые ранения пятеро американцев, еще несколько - получили травмы. Информации о местонахождении пострадавших или обстоятельствах не было. Таким образом, ни на одном из пораженных Ираном объектов формально пока нет пострадавших. Видимо, базы, которые должны были защищать регион, оказались пустыми . Ведь и с Аль-Удейда , и с Ас-Салема , и с базы 5-ого флота в Бахрейне американцы проводили эвакуацию персонала или за день до атак, или практически сразу после. Впрочем, конфликт еще не окончен, а удары по базам продолжаются. И судя по весьма масштабным пожарам, а некоторые продолжаются уже второй день, далеко не все объекты осмотрены экстренными службами. #Иран #США 🧨 @rybar_mena — о ближневосточном хаосе с любовью 💸 Поддержать нас",
+    "url": "https://t.me/rybar/78020",
+    "published": "2026-03-01T16:52:05+00:00",
+    "fetched_at": "2026-03-01T17:14:35.735481+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "📝 Гибнут американские солдаты 📝   В  Пентагоне  подтвердили потери среди личного состава американских войск, но речи ...",
+    "summary_en": "{\"h\":\"American Soldiers Dying\",\"r\":true,\"s\":\"Pentagon confirmed 3 American deaths and 5 serious injuries from Iranian attacks, contradicting IRGC claims of hundreds killed. US forces evacuated personnel from Al-Udeid (Qatar), Al-Salam (Kuwait), and the 5th Fleet base in Bahrain either one day before or immediately after the",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "deaths",
+      "irgc",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "Qatar",
+        "Kuwait",
+        "Bahrain"
+      ],
+      "location": "Middle East (Qatar, Kuwait, Bahrain)",
+      "brief": "Pentagon confirmed 3 US deaths and 5 serious injuries from Iranian attacks; US forces evacuated from Al-Udeid, Al-Salam, and Bahrain 5th Fleet base."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "c41ac52c1a46a649",
     "title_original": "КСИР атаковал авианосец ВМС США USS Abraham Lincoln баллистическими ракетами",
     "content_original": "КСИР атаковал авианосец ВМС США USS Abraham Lincoln баллистическими ракетами",
@@ -1726,6 +2180,42 @@
     "lng": 52.0
   },
   {
+    "id": "a761751f867637dd",
+    "title_original": "⚡️ Airstrike on Zangan, Iran",
+    "content_original": "⚡️ Airstrike on Zangan, Iran",
+    "url": "https://t.me/warmonitors/40286",
+    "published": "2026-03-01T16:51:33+00:00",
+    "fetched_at": "2026-03-01T17:14:38.588903+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "⚡️ Airstrike on Zangan, Iran",
+    "translated": true,
+    "summary_en": "{\"h\":\"Airstrike on Zangan, Iran\",\"r\":true,\"s\":\"An airstrike has been conducted on Zangan, Iran. The specific perpetrator and details of the strike are not specified in the headline, but the location indicates a strike on Iranian territory during the ongoing Iran-US conflict",
+    "relevant": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "airstrike",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Zangan, Iran",
+      "brief": "Airstrike conducted on Iranian territory in Zangan during the Iran-US conflict, marking direct US engagement on Iranian soil."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "74919f5b7b4764ae",
     "title_original": "Press TV: Иран атаковал танкер, собиравшийся пройти через Ормузский пролив",
     "content_original": "Экипаж судна эвакуировали",
@@ -1760,6 +2250,43 @@
     },
     "lat": 26.56,
     "lng": 56.25
+  },
+  {
+    "id": "a29b967c66891775",
+    "title_original": "9 Killed in City near Jerusalem After Iranian Missile Strike",
+    "content_original": "The toll in Beit Shemesh was the highest in Israel since the start of the conflict with Iran on Saturday.",
+    "url": "https://www.nytimes.com/2026/03/01/world/middleeast/9-killed-beit-shemesh-iranian-missiles.html",
+    "published": "2026-03-01T16:46:03+00:00",
+    "fetched_at": "2026-03-01T17:14:17.651024+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "9 Killed in City near Jerusalem After Iranian Missile Strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian missile strike killed 9 people in Beit Shemesh, a city near Jerusalem, marking the highest single-day casualty toll in Israel since the conflict with Iran began on Saturday. This strike represents a significant escalation in the ongoing Iran-Israel conflict, demonstrating Iran's capability to strike deep into Israeli territory.",
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "killed",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, near Jerusalem, Israel",
+      "brief": "Iranian ballistic missile strike killed 9 people in Beit Shemesh near Jerusalem, marking the highest single-day casualty toll in Israel since the Iran-Israel conflict began and representing a significant escalation."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "7202b6c38d5474b7",
