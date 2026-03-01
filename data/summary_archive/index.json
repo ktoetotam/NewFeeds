@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T00-19-40.254669_plus_00-00.json",
+    "generated_at": "2026-03-01T00:19:40.254669+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 220,
+    "summary_preview": "The Iran–US conflict has dramatically escalated with a series of major attacks and retaliatory strikes in the last 24 hours, involving direct military engagements, missile barrages, and regional insta"
+  },
+  {
     "filename": "2026-03-01T00-04-02.061197_plus_00-00.json",
     "generated_at": "2026-03-01T00:04:02.061197+00:00",
     "threat_label": "MAJOR",
