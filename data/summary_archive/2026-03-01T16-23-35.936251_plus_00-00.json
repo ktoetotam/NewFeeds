@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-03-01T16:23:35.936251+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 623,
+    "incident_count_6h": 235,
+    "severity_breakdown": {
+      "major": 229,
+      "high": 259,
+      "medium": 132,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 174,
+    "articles_analyzed": 345,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached a new level of intensity with confirmed US casualties (3 troops killed), Iran targeting a US aircraft carrier, and the death of Supreme Leader Khamenei triggering succession planning. Iranian attacks have expanded to Gulf states (UAE, Kuwait) causing civilian casualties, while maritime operations in the Strait of Hormuz have forced shipping suspensions. The situation remains volatile with active strikes across multiple fronts.",
+  "whats_new": [
+    "US CENTCOM directly fact-checks Iran: ballistic missiles targeting USS Abraham Lincoln 'didn't even come close' — carrier not hit, continues operations",
+    "Temporary Leadership Council begins work to replace Khamenei, successor may be named within 48 hours per Iranian Foreign Minister",
+    "Former Iranian President Mahmoud Ahmadinejad reportedly killed in Israeli strike on Tehran residence",
+    "Death toll at Minab girls school rises to 153 (from 148) per Iranian Ministry of Education",
+    "US Navy sank Iranian Jamaran-class corvette in Chabahar Port as part of Operation Epic Fury"
+  ],
+  "confirmed_events": [
+    "3 US service members killed, 5 seriously wounded in Operation Epic Fury — confirmed by CENTCOM and multiple sources",
+    "Iranian ballistic missile strikes on UAE (Dubai Airport, Sharjah, Abu Dhabi port) killed 3 and injured 58; UAE intercepted 20 missiles, 2 cruise missiles, 311 drones",
+    "Kuwait reports 1 fatality, 32 injuries at Al Adan Hospital from Iranian attacks",
+    "IDF mobilizes 100,000 reservists, elevated alert levels across all sectors with emphasis on northern border (Hezbollah front)",
+    "Maersk suspended all vessel crossings in Strait of Hormuz; two commercial ships struck by projectiles in the strait"
+  ],
+  "unverified_emerging": [
+    "IRGC claims 4 ballistic missiles struck USS Abraham Lincoln — US CENTCOM denies, says missiles didn't come close",
+    "Trump claims 48 Iranian leaders killed in attack — unverified, specific targets not confirmed",
+    "Former President Mahmoud Ahmadinejad killed in Israeli strike — single source report, not independently corroborated",
+    "Iranian attack on Jerusalem killed 9, caused destruction — multiple sources report but casualty figures vary"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Hundreds of thousands of travellers stranded or diverted due to airspace closures in Dubai, Abu Dhabi, Doha",
+      "Over 1,000 flights by major Middle Eastern airlines affected by regional airspace closures"
+    ],
+    "supply_chain": [
+      "Maersk suspension of Strait of Hormuz crossings disrupts global oil supply chains",
+      "Critical infrastructure targeted: Dubai Airport, Sharjah, Abu Dhabi port active targets"
+    ],
+    "market_macro": [
+      "Global oil markets face supply disruption risk from Strait of Hormuz closure",
+      "Aviation sector severely impacted with major hub closures across Gulf region"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue escalating with Iran launching retaliatory strikes on Gulf allies and Israel. US operations ahead of schedule per Trump suggests intensified campaign. Iran's succession process may temporarily fragment decision-making but IRGC retains operational control. Gulf states (UAE, Kuwait, Jordan, Oman) now directly targeted will likely increase cooperation with US-led coalition. Maritime chokepoint vulnerabilities will drive insurance and shipping costs sharply higher.",
+    "escalation_risks": [
+      "Hezbollah escalation on Israel's northern border with 100,000 IDF reservists mobilized",
+      "Direct Iranian naval confrontation risk with US carrier groups in Arabian Sea/Gulf of Oman",
+      "Houthi attacks on Red Sea shipping potentially expanding conflict theater",
+      "Regional Arab states joining anti-Iran coalition could trigger proxy escalation",
+      "Iranian retaliation targeting critical Gulf oil infrastructure"
+    ],
+    "de_escalation_pathways": "De-escalation appears unlikely in near-term. Iran has frame this as existential threat following Supreme Leader's death. Trump administration appears committed to accelerated military campaign. Only potential off-ramp would be if Iran concludes succession process and seeks negotiated ceasefire, or if US achieves decisive degradation of Iranian military capacity that forces regime to recalculate."
+  }
+}

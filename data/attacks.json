@@ -1,5 +1,112 @@
 [
   {
+    "id": "5fd7e711fe0f7a5b",
+    "title_original": "'Names will change, regime will stay': How Iranians on the street see life after Khamenei's death in US-Israel strikes",
+    "content_original": "Top security chief Ali Larijani announced transition plans and warned Iran would hit Israel and United States with a force “they've never experienced before”",
+    "url": "https://www.hindustantimes.com/world-news/names-will-change-regime-will-stay-how-iranians-on-the-street-see-life-after-khameneis-death-in-us-israel-strikes-101772380909813.html",
+    "published": "2026-03-01T21:39:41+05:30",
+    "fetched_at": "2026-03-01T16:27:55.466379+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "'Names will change, regime will stay': How Iranians on the street see life after Khamenei's death in US-Israel strikes",
+    "translated": true,
+    "summary_en": "{\"h\":\"'Names will change, regime will stay': How Iranians on the street see life after Khamenei's death in US-Israel strikes\",\"r\":true,\"s\":\"Top Iranian security chief Ali Larijani announced transition plans following Supreme Leader Khamenei's death in US-Israel strikes, warning that Iran would respond to Israel and the United States with a force '",
+    "relevant": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran|airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC",
+        "Ali Larijani"
+      ],
+      "location": "Iran (Tehran)",
+      "brief": "US-Israel strikes kill Supreme Leader Khamenei; Iranian Security Chief Ali Larijani announces transition plans, warning of Iranian response."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "635c2ec2ba715a41",
+    "title_original": "U.S. military says three of its troops killed in first Iran operation casualties",
+    "content_original": "The U.S. military’s Central Command ‌said ⁠that their troops ⁠suffered additional, less serious injuries as well",
+    "url": "https://www.thehindu.com/news/international/us-troops-dead-in-iran-operation/article70692443.ece",
+    "published": "2026-03-01T21:37:54+05:30",
+    "fetched_at": "2026-03-01T16:27:55.045473+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "U.S. military says three of its troops killed in first Iran operation casualties",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "U.S. Central Command confirmed three American troops were killed in operations against Iran, marking the first U.S. military casualties in the direct Iran operation. Additional U.S. personnel sustained less serious injuries in what represents a significant escalation in the ongoing U.S.-Iran conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "south_asia",
+      "brief": "Three US troops killed in first direct Iran operation casualties, marking significant escalation in US-Iran conflict."
+    },
+    "lat": 11.0046133,
+    "lng": 124.6069737
+  },
+  {
+    "id": "4d8444eab0a30e1c",
+    "title_original": "Jebel Jais, other tourist sites shut in UAE, remote work advisory issued amid Iran strikes | Key points",
+    "content_original": "The UAE came under attack after Iran launched retaliatory strikes on multiple countries in the region, targeting key military bases and installations of the US.",
+    "url": "https://www.hindustantimes.com/world-news/jebel-jais-tourist-sites-shut-in-uae-remote-work-advisory-amid-iran-strikes-hotel-stay-extended-key-points-101772374863491.html",
+    "published": "2026-03-01T21:32:59+05:30",
+    "fetched_at": "2026-03-01T16:27:55.466813+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Jebel Jais, other tourist sites shut in UAE, remote work advisory issued amid Iran strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory strikes targeting US military bases and installations across multiple regional countries, including the UAE. The attacks forced the closure of tourist sites like Jebel Jais and prompted remote work advisories in the UAE, demonstrating Iran's strategy to expand the conflict's impact beyond purely military targets to civilian infrastructure and economic centers.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "UAE"
+      ],
+      "location": "UAE",
+      "brief": "Iran launched retaliatory ballistic missile strikes against US military bases in the UAE and other regional countries, forcing tourist site closures and remote work advisories."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "e3457b3a1d7fd62e",
     "title_original": "Donald Trump hosts fundraiser at Mar-a-Lago as Middle East lights up with Iranian missiles targeting US and its allies",
     "content_original": "While Iran vowed retaliation for airstrikes that reportedly killed its Supreme Leader, President Trump attended a Mar-a-Lago fundraiser. He mingled with donors and danced to music as US military prepared joint strikes on Iran. Trump later announced the war's commencement on Truth Social.",
@@ -144,6 +251,81 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "ac6b833155b2b126",
+    "title_original": "В США заявили, что Иран не поразил американский авианосец",
+    "content_original": "В США заявили, что Иран не поразил американский авианосец",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26601157",
+    "published": "2026-03-01T19:15:06+03:00",
+    "fetched_at": "2026-03-01T16:27:26.347143+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Says Iran Did Not Hit American Aircraft Carrier",
+    "relevant": true,
+    "summary_en": "US officials stated that Iran did not manage to hit an American aircraft carrier during its recent missile and drone attacks on US forces in the region. The claim addresses whether Iranian ballistic missiles or drones successfully targeted the USS Dwight D. Eisenhower or other carrier groups deployed in the Gulf/Arabian Sea. The denial comes amid conflicting reports about the extent of damage from Iran's April 2026 strike package.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "ballistic",
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East/Gulf Region",
+      "brief": "Iran launched ballistic missiles and drones targeting USS Dwight D. Eisenhower carrier group but failed to hit, according to US officials."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "de9e28c8d6df680a",
+    "title_original": "Трамп назвал причиной атаки на Иран угрозу скорого создания ядерного оружия",
+    "content_original": "Был бы ядерный боезаряд в течение двух недель, утверждает американский лидер",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26601677",
+    "published": "2026-03-01T19:12:52+03:00",
+    "fetched_at": "2026-03-01T16:27:26.347522+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Trump names threat of imminent nuclear weapon creation as reason for attack on Iran",
+    "relevant": true,
+    "summary_en": "US President Trump has stated that the US attack on Iran was justified by the threat of Iran acquiring a nuclear weapon within two weeks. This statement outlines the strategic rationale for US military action against Iranian nuclear facilities and military assets, framing it as a preventive strike to halt Tehran's alleged accelerated nuclear weapons program.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "threat",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US President Trump ordered preventive military strikes on Iran citing imminent nuclear weapon threat within two weeks as justification for direct attack on Iranian nuclear facilities and military assets."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "d0dabe889c318673",
@@ -547,6 +729,43 @@
     },
     "lat": 50.5965678,
     "lng": 36.5878916
+  },
+  {
+    "id": "524175e8bed954c2",
+    "title_original": "\"חששנו שהבניין מלא בלכודים\": סרן א' משחזרת את החילוץ בתל אביב",
+    "content_original": "בבוקר לוחמי פיקוד העורף עוד היו בפעילות מבצעית ברמאללה, אבל עם האזעקה הראשונה הוקפצו לת\"א, יצאו למשימה מסוכנת בבניין שנפגע מטיל איראני וחילצו את הקשישה והמטפלת שמותה נקבע בהמשך. \"זיהינו לכודות מתחת להריסות. הקשישה שכבה מתחת לארונות, נס שהייתה בהכרה\", מספרת מפקדת הפלוגה",
+    "url": "https://www.ynet.co.il/news/article/syv39nzk11e",
+    "published": "2026-03-01T18:10:38+02:00",
+    "fetched_at": "2026-03-01T16:27:33.255110+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "'We feared the building was full of trapped people': Captain A' reconstructs the Tel Aviv rescue",
+    "relevant": true,
+    "summary_en": "IDF Home Front Command fighters who were on operational duty in Ramla were dispatched to Tel Aviv after the first siren sounded, responding to a building struck by an Iranian missile. They rescued an elderly woman and a caretaker from the rubble; the caretaker's death was later confirmed. The company commander reported identifying trapped victims beneath the debris, with the elderly woman found unconscious under cabinets—describing it as a miracle she retained consciousness.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "death",
+      "missile",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IDF"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iranian ballistic missile struck a building in Tel Aviv, resulting in rescue operations by IDF Home Front Command and one confirmed fatality."
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "0f19ce14cb26859d",
@@ -1719,6 +1938,46 @@
     "lng": 51.39
   },
   {
+    "id": "542d09be2bc7d444",
+    "title_original": "#عاجـــــــــــــــل   المقاومة الاسلامية في العراق تدك قواعد الاحتلال في اربيل",
+    "content_original": "#عاجـــــــــــــــل المقاومة الاسلامية في العراق تدك قواعد الاحتلال في اربيل",
+    "url": "https://t.me/Electrohizbullah/156701",
+    "published": "2026-03-01T16:27:16+00:00",
+    "fetched_at": "2026-03-01T16:28:17.777909+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Urgent: Islamic Resistance in Iraq Strikes Occupation Bases in Erbil",
+    "relevant": true,
+    "summary_en": "The Islamic Resistance in Iraq (an IRGC-linked proxy group within the PMF) launched an attack targeting occupation forces in Erbil, the capital of the Iraqi Kurdistan Region. This represents another in a series of Iranian proxy attacks on US forces and interests in Iraq, consistent with the broader Iran-US armed conflict and the ongoing campaign by IRGC-aligned militias against American personnel in the region.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "pmf",
+      "attack",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Islamic Resistance in Iraq (PMF/IRGC proxy)",
+        "United States forces",
+        "Iran"
+      ],
+      "location": "Erbil, Iraqi Kurdistan Region, Iraq",
+      "brief": "IRGC-linked Islamic Resistance in Iraq launched an attack on US occupation forces in Erbil, marking another in a series of Iranian proxy attacks on US interests in Iraq."
+    },
+    "merged_source_count": 2,
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
     "id": "07d064e80230ab0d",
     "title_original": "Fars: Израиль и США обстреливают границы Ирана",
     "content_original": "Fars: Израиль и США обстреливают границы Ирана",
@@ -1752,6 +2011,38 @@
     },
     "lat": 30.3354128,
     "lng": 48.2896822
+  },
+  {
+    "id": "cce7e572467ca356",
+    "title_original": "Pentagon confirms three American deaths in Iran war",
+    "content_original": "The US military on Sunday confirmed that three American service members have been killed and five seriously wounded as part of Operation Epic Fury, a joint military assault by the United States and Israel against Iran launched a day earlier. Several others sustained minor shrapnel injuries and concussions and are being returned to duty. “Major combat operations continue and our response effort is ongoing,” the US Central Command said in a social media post. Calling the situation “fluid”, the...",
+    "url": "https://www.scmp.com/news/us/diplomacy/article/3345054/pentagon-confirms-three-american-deaths-iran-war?utm_source=rss_feed",
+    "published": "2026-03-01T16:21:58+00:00",
+    "fetched_at": "2026-03-01T16:27:50.586648+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true,
+    "title_en": "Pentagon confirms three American deaths in Iran war",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US military confirmed three American service members killed and five seriously wounded in Operation Epic Fury, a joint US-Israel assault against Iran launched the previous day. Several other troops sustained minor shrapnel injuries and concussions. US Central Command stated major combat operations continue and the response effort is ongoing, describing the situation as 'fluid'.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "wounded",
+      "deaths",
+      "war",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "7c2824725c7dadfb",
@@ -1828,6 +2119,45 @@
     "lng": 47.99
   },
   {
+    "id": "3e17598007260072",
+    "title_original": "IRAN-HORMOZGAN-MINAB-ELEMENTARY SCHOOL-DEATH-RISING",
+    "content_original": "(260301) -- TEHRAN, March 1, 2026 (Xinhua) -- Rescuers and local residents try to save the wounded from debris at an attacked girls' elementary school in Minab, Iran's southern province of Hormozgan, Feb. 28, 2026. The death toll from a joint U.S.-Israeli strike on a girls' elementary school in Iran's southern province of Hormozgan rose to 148, semi-official Tasnim news agency reported on Sunday. The attack also",
+    "url": "http://iranherald.com/news/278895818/iran-hormozgan-minab-elementary-school-death-rising",
+    "published": "2026-03-01T16:15:32+00:00",
+    "fetched_at": "2026-03-01T16:27:22.546708+00:00",
+    "source_name": "Iran Herald",
+    "source_category": "independent",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Death toll rises to 148 in US-Israeli strike on girls' elementary school in Iran's Hormozgan province",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A joint US-Israeli strike on a girls' elementary school in Minab, Hormozgan province, Iran, has killed 148 people. The attack represents a significant escalation with direct strikes on civilian infrastructure inside Iran, marking an expansion of the conflict beyond military targets.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "death",
+      "conflict",
+      "attack",
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, Hormozgan province, Iran",
+      "brief": "Joint US-Israeli airstrike on a civilian girls' elementary school killed 148 people, marking a major escalation with direct attacks on civilian infrastructure inside Iran."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
     "id": "4c9efed59243568c",
     "title_original": "NYT: время убийства Хаменеи определило ЦРУ",
     "content_original": "Время налета израильских ВВС на резиденцию верховного лидера Ирана аятоллы Али Хаменеи было выбрано с учетом информации Центрального разведывательного управления США (ЦРУ). Об этом сообщает The New York Times (NYT) со ссылкой на анонимные источники.",
@@ -1863,6 +2193,49 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "e4872b8cf1959aa9",
+    "title_original": "عشرات المسيّرات العراقية تدك قواعد الاحتلال في المنطقة.",
+    "content_original": "عشرات المسيّرات العراقية تدك قواعد الاحتلال في المنطقة.",
+    "url": "https://t.me/Electrohizbullah/156697",
+    "published": "2026-03-01T16:10:32+00:00",
+    "fetched_at": "2026-03-01T16:28:17.775770+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Dozens of Iraqi drones strike occupation bases in the region",
+    "relevant": true,
+    "summary_en": "Iraqi drones (likely from PMF/Kata'ib Hezbollah) struck multiple US military bases in Iraq and possibly Syria, in what appears to be a coordinated drone attack wave. The attacks represent a significant escalation by Iranian proxy forces in retaliation for US strikes on Iran and IRGC assets. This follows the pattern of escalating proxy attacks as part of the broader Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "drone",
+      "hezbollah",
+      "irgc",
+      "conflict",
+      "pmf",
+      "attack",
+      "proxy",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "PMF",
+        "Kata'ib Hezbollah",
+        "United States",
+        "Iran"
+      ],
+      "location": "Iraq, Syria",
+      "brief": "Dozens of Iraqi drones from Iranian proxy forces struck US military bases in Iraq and Syria in a major coordinated attack representing significant escalation by Tehran's network."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "cee2da1118b46003",
@@ -1906,6 +2279,43 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "a238d38a89ca906b",
+    "title_original": "Unconfirmed reports in state media suggest Mahmoud Ahmadinejad killed",
+    "content_original": "Unconfirmed reports in state media suggest Mahmoud Ahmadinejad killed Iranian state media has suggested that the former Iranian president, Mahmoud Ahmadinejad, has been killed in Tehran, though it remains unconfirmed. Several Israeli and international media reports cited the&nbsp;Iran Labor News Agency as&nbsp;saying the controversial former president was killed in a Saturday strike on his home. However, the news site said his death “cannot be confirmed”.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/unconfirmed-reports-state-media-suggest-mahmoud-ahmadinejad-killed",
+    "published": "2026-03-01T16:08:34+00:00",
+    "fetched_at": "2026-03-01T16:27:39.954877+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Unconfirmed reports in state media suggest Mahmoud Ahmadinejad killed",
+    "translated": true,
+    "summary_en": "{\"h\":\"Unconfirmed reports suggest former Iranian president Mahmoud Ahmadinejad killed in Tehran strike\",\"r\":true,\"s\":\"Unconfirmed reports from Iranian state media indicate former president Mahmoud Ahmadinejad was killed in a Saturday strike on his home in Tehran. Israeli and international media cited the Iran Labor News Agency reporting his death, though the outlet noted it cannot be confirmed. If",
+    "relevant": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "death",
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Unconfirmed reports claim former Iranian president Mahmoud Ahmadinejad was killed in a strike on his Tehran home, reportedly from US or Israeli forces."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "490ff548a53a9730",

@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T16-23-35.936251_plus_00-00.json",
+    "generated_at": "2026-03-01T16:23:35.936251+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 623,
+    "summary_preview": "The Iran-US conflict has reached a new level of intensity with confirmed US casualties (3 troops killed), Iran targeting a US aircraft carrier, and the death of Supreme Leader Khamenei triggering succ"
+  },
+  {
     "filename": "2026-03-01T16-03-32.407470_plus_00-00.json",
     "generated_at": "2026-03-01T16:03:32.407470+00:00",
     "threat_label": "MAJOR",
