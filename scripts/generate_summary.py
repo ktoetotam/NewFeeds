@@ -261,7 +261,7 @@ def call_minimax(api_key: str, user_prompt: str) -> dict | None:
     }
 
     payload = {
-        "model": "MiniMax-Text-01",
+        "model": "MiniMax-M2.5",
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt},
