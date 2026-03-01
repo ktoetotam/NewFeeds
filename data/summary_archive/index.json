@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T09-53-10.532477_plus_00-00.json",
+    "generated_at": "2026-03-01T09:53:10.532477+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 431,
+    "summary_preview": "The Iran-US conflict has reached an unprecedented level of escalation following the US-Israeli coordinated strikes on Iran on February 28, 2026. Iran's Supreme Leader Ayatollah Ali Khamenei has been k"
+  },
+  {
     "filename": "2026-03-01T09-20-45.494811_plus_00-00.json",
     "generated_at": "2026-03-01T09:20:45.494811+00:00",
     "threat_label": "MAJOR",

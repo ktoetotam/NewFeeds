@@ -74,6 +74,114 @@
     "lng": 54.0
   },
   {
+    "id": "3558d25d7b91c814",
+    "title_original": "ЦАХАЛ сообщила о частичном разрушении систем ПВО в Иране",
+    "content_original": "ЦАХАЛ сообщила о частичном разрушении систем ПВО в Иране",
+    "url": "https://ria.ru/20260301/tsakhal-2077645008.html",
+    "published": "2026-03-01T13:09:06+03:00",
+    "fetched_at": "2026-03-01T10:26:24.923039+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF Reports Partial Destruction of Iranian Air Defense Systems",
+    "relevant": true,
+    "summary_en": "The IDF has announced the partial destruction of Iranian air defense systems, likely as part of ongoing operations against Iranian military infrastructure. This strike signifies a significant escalation in the conflict, demonstrating Israel's willingness to target Iran's defensive capabilities directly. The strategic impact includes potential vulnerabilities in Iran's air defense network, affecting its ability to respond to future attacks.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "idf",
+      "strike",
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israel reports partial destruction of Iranian air defense systems, indicating a significant escalation in military operations against Iranian infrastructure."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "05b9ef31ea166e2e",
+    "title_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
+    "content_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
+    "url": "https://ria.ru/20260301/vzryvy-2077644868.html",
+    "published": "2026-03-01T13:09:01+03:00",
+    "fetched_at": "2026-03-01T10:26:24.923249+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosions reported near Red Crescent building in Tehran",
+    "relevant": true,
+    "summary_en": "Explosions occurred near the Red Crescent building in Tehran, potentially impacting a humanitarian organization. This incident raises concerns about the safety of civilian infrastructure amidst ongoing conflict. The strategic significance depends on whether the attack was deliberate or collateral damage from ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Unknown"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Explosions near the Red Crescent building in Tehran raise concerns about civilian infrastructure safety amidst ongoing tensions."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "5911253b972e56c5",
+    "title_original": "СМИ: Иран использовал гиперзвуковые крылатые ракеты для ударов по базам США",
+    "content_original": "СМИ: Иран использовал гиперзвуковые крылатые ракеты для ударов по базам США",
+    "url": "https://ria.ru/20260301/iran-2077643473.html",
+    "published": "2026-03-01T13:02:29+03:00",
+    "fetched_at": "2026-03-01T10:26:24.924010+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Uses Hypersonic Cruise Missiles to Strike US Bases",
+    "relevant": true,
+    "summary_en": "Iran reportedly launched hypersonic cruise missiles targeting US military bases in the region. This marks a significant escalation in Iran's military capabilities and tactics against US forces. The use of advanced hypersonic technology poses new challenges for US missile defense systems in the area.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US"
+      ],
+      "location": "US military bases in the region",
+      "brief": "Iran launches hypersonic cruise missiles at US military bases, marking a significant escalation in military capabilities and posing new challenges for US defenses."
+    },
+    "lat": 38.9007448,
+    "lng": -77.0440189
+  },
+  {
     "id": "eba6d8a2bccdeff1",
     "title_original": "Iran fires missiles at Israel, Gulf states after US-Israeli strike kills Khamenei",
     "content_original": "Iran acknowledged Khamenei's death in the joint Israeli-American airstrike Saturday (February 28, 2026) at his Tehran office hours, which has thrown the future of the Islamic Republic into question and raised the risk of regional instability",
@@ -268,6 +376,41 @@
     "lng": 178.0431614
   },
   {
+    "id": "46fae053f5e12b10",
+    "title_original": "Why Iran's attack on Gulf states mimics Iraq's assault on Saudi Arabia - analysis",
+    "content_original": "Iran's attack might have the opposite effect, bringing Gulf countries closer together and enabling cooperation with the US and among themselves.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888353",
+    "published": "2026-03-01T11:52:31+00:00",
+    "fetched_at": "2026-03-01T10:26:33.749910+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Iran's attack on Gulf states mimics Iraq's assault on Saudi Arabia - analysis",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses Iran's recent attacks on Gulf states and their potential to backfire, pushing Gulf countries closer together and fostering cooperation with the US. This development is significant as it indicates a possible shift in regional alliances and a strengthening of anti-Iranian coalitions in response to Iranian aggression.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Gulf States",
+        "US"
+      ],
+      "location": "Gulf states",
+      "brief": "Iran's recent attacks on Gulf states could backfire, pushing Gulf countries closer together and fostering cooperation with the US."
+    },
+    "lat": 35.5577724,
+    "lng": -79.2854845
+  },
+  {
     "id": "edaefc7415ac056c",
     "title_original": "В торговый порт Омана попали два беспилотника",
     "content_original": "В торговый порт Омана попали два беспилотника",
@@ -305,6 +448,43 @@
     },
     "lat": 21.0000287,
     "lng": 57.0036901
+  },
+  {
+    "id": "00e87bcf8e23126d",
+    "title_original": "Sirens, shelters and an empty Old City: Jerusalem rattled on the first day of war with Iran",
+    "content_original": "The war comes as Israel prepares to celebrate Purim, a Jewish holiday commemorating the overthrow of an oppressive Persian regime, offering a powerful parallel for the current moment.",
+    "url": "https://www.jpost.com/israel-news/article-888352",
+    "published": "2026-03-01T11:47:37+00:00",
+    "fetched_at": "2026-03-01T10:26:33.751700+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Jerusalem on high alert as war with Iran begins",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article describes the state of Jerusalem with residents taking shelter and the Old City being empty due to the outbreak of war with Iran. This signifies the immediate impact on civilian life and the heightened state of alert in Israel as hostilities commence. The timing during the Purim holiday adds a symbolic layer to the conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Jerusalem, Israel",
+      "brief": "The article indicates the outbreak of war between Iran and Israel/US, with Jerusalem on high alert and civilians taking shelter during the Purim holiday, suggesting a major escalation in regional hostilities."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "bde73532f32a4945",
@@ -376,6 +556,42 @@
       "location": "Omani Territorial Waters",
       "brief": "An oil tanker attack in Omani waters resulting in casualties signals escalating maritime security threats in the region."
     }
+  },
+  {
+    "id": "c012d57b6d5f2cc1",
+    "title_original": "Under renewed missile fire, Israel’s civilian vulnerabilities resurface - analysis",
+    "content_original": "State Comptroller audit highlights structural gaps in shelters, schools, and hospitals as Israel faces renewed missile attacks.",
+    "url": "https://www.jpost.com/israel-news/article-888351",
+    "published": "2026-03-01T11:36:33+00:00",
+    "fetched_at": "2026-03-01T10:26:33.749722+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Israel's civilian vulnerabilities resurface under renewed missile fire - analysis",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel is facing renewed missile attacks, highlighting structural gaps in civilian infrastructure like shelters, schools, and hospitals, as reported by the State Comptroller audit. This raises concerns about Israel's preparedness and civilian resilience amid ongoing conflicts with regional adversaries like Hezbollah and Hamas. The findings underscore potential weaknesses in Israel's civil defense capabilities during escalations.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "hamas",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Israel",
+      "brief": "Israel experiences renewed missile attacks highlighting vulnerabilities in civilian infrastructure amid ongoing regional conflicts."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "3b05bc52082dd236",
@@ -927,6 +1143,191 @@
     "lng": 47.0
   },
   {
+    "id": "7c270f795a21ab99",
+    "title_original": "البحرين تعلن اعتراض موجة جديدة من الصواريخ البالستية والمسيرات الإيرانية",
+    "content_original": "المنامة في 01 مارس /قنا/ أعلن مركز الاتصال الوطني البحريني أن منظومات الدفاع الجوي الصاروخي تصدت بكفاءة ويقظة لموجة جديدة",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/البحرين-تعلن-اعتراض-موجة-جديدة-من-الصواريخ-البالستية-والمسيرات-الايرانية",
+    "published": "2026-03-01T10:26:36.435840+00:00",
+    "fetched_at": "2026-03-01T10:26:36.435843+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Bahrain Announces Interception of New Wave of Iranian Ballistic Missiles and Drones",
+    "relevant": true,
+    "summary_en": "Bahrain's air defense systems intercepted a new wave of Iranian ballistic missiles and drones. The incident occurred on March 1st, demonstrating ongoing threats to US allies in the Gulf. This highlights the persistent escalation of Iranian attacks on US-backed regional assets.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "ballistic",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US allies"
+      ],
+      "location": "Bahrain",
+      "brief": "Bahrain intercepted a wave of Iranian ballistic missiles and drones, indicating ongoing escalation and threats to US regional interests."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "72728e19ac02bb47",
+    "title_original": "💥 🚢   An oil tanker flying the flag of Palau was struck by an Iranian drone in the Strait of Hormuz an hour ago. Oman...",
+    "content_original": "💥 🚢 An oil tanker flying the flag of Palau was struck by an Iranian drone in the Strait of Hormuz an hour ago. Oman’s Maritime Security Center reported that all 20 crew members have been safely evacuated, though several individuals sustained injuries. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69801",
+    "published": "2026-03-01T10:24:17+00:00",
+    "fetched_at": "2026-03-01T10:27:18.736381+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian drone strikes Palau-flagged oil tanker in Strait of Hormuz",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian drone struck a Palau-flagged oil tanker in the Strait of Hormuz, resulting in the evacuation of all 20 crew members, with several sustaining injuries. This incident highlights the ongoing threat to maritime traffic in the strategically vital waterway amidst the Iran-US conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "drone",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Palau-flagged oil tanker"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "Iranian drone strike on a Palau-flagged oil tanker in the Strait of Hormuz resulted in crew evacuation and injuries, escalating maritime tensions in the Iran-US conflict."
+    },
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": "327552221aa0a49d",
+    "title_original": "Married At First Sight star shares terrifying footage from Dubai apartment amid missile attacks: 'I've just heard about 20 explosions'",
+    "content_original": "Married At First Sight star shares terrifying footage from Dubai apartment amid missile attacks: 'I've just heard about 20 explosions'",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603405/MAFS-Dubai-missile-attacks-Iran-war-Mikey-Pembroke.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T10:23:56+00:00",
+    "fetched_at": "2026-03-01T10:27:11.309962+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Married At First Sight star shares footage of missile attacks in Dubai",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A reality TV star posted alarming footage from their Dubai apartment during missile attacks, reporting hearing around 20 explosions. This highlights the potential spillover of the Iran-US conflict into the UAE, a US ally, and raises concerns about the safety of civilians and expatriates in the region. The incident underscores the broader strategic implications for Gulf states amid escalating regional tensions.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Missile attacks in Dubai, likely linked to the Iran-US conflict, demonstrate potential escalation and regional instability with civilian impact."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "43194034d27b976b",
+    "title_original": "Missiles fired at Cyprus and strikes 'narrowly miss' British troops in Bahrain as Iran 'lashes out' in wake of Donald Trump's assault - while UK terror threat level is 'under review'",
+    "content_original": "Missiles fired at Cyprus and strikes 'narrowly miss' British troops in Bahrain as Iran 'lashes out' in wake of Donald Trump's assault - while UK terror threat level is 'under review'",
+    "url": "https://www.dailymail.co.uk/news/article-15603563/Missiles-fired-Cyprus-strikes-narrowly-miss-British-troops-Bahrain-Iran-lashes-wake-Donald-Trumps-assault-UK-terror-threat-level-review.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T10:22:20+00:00",
+    "fetched_at": "2026-03-01T10:27:11.310707+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Missiles target Cyprus and British troops in Bahrain as Iran retaliates following Trump's assault",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting Cyprus and Bahrain, narrowly missing British troops stationed there, in response to recent US aggression. This escalation demonstrates Iran's willingness to expand the conflict beyond the Middle East, posing a direct threat to international forces and regional stability.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UK",
+        "Bahrain",
+        "Cyprus"
+      ],
+      "location": "Cyprus, Bahrain",
+      "brief": "Iran launched ballistic missile attacks targeting Cyprus and Bahrain, directly threatening US and UK forces, marking a significant escalation of the conflict beyond the Middle East."
+    },
+    "merged_source_count": 4,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "ac96019d88e58dcf",
+    "title_original": "🇺🇸 🇮🇱 ⚔️ 🇮🇷   American/Israeli standoff munitions strikes in Tabriz, northwestern Iran @CIG_telegram",
+    "content_original": "🇺🇸 🇮🇱 ⚔️ 🇮🇷 American/Israeli standoff munitions strikes in Tabriz, northwestern Iran @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69800",
+    "published": "2026-03-01T10:21:50+00:00",
+    "fetched_at": "2026-03-01T10:27:18.735660+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "American/Israeli standoff munitions strikes in Tabriz, northwestern Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel conducted coordinated standoff munitions strikes targeting Tabriz in northwestern Iran. This action represents a significant escalation, showcasing joint military operations against Iranian territory. The strikes likely targeted IRGC or military infrastructure in the region, reflecting deepening collaboration between the US and Israel amidst the ongoing conflict.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Tabriz, Iran",
+      "brief": "US and Israel conducted coordinated standoff munitions strikes on IRGC/military targets in Tabriz, Iran, marking a significant escalation in military operations."
+    },
+    "lat": 38.08,
+    "lng": 46.29
+  },
+  {
     "id": "e7493c1349458cfa",
     "title_original": "В Дубае два человека ранены после падения обломов беспилотников",
     "content_original": "В Дубае два человека ранены после падения обломов беспилотников",
@@ -962,6 +1363,42 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "b11d842a90dae92e",
+    "title_original": "🚨 رادیو ارتش اسرائیل اعلام کرد که در پی اصابت موشک‌های ایران به اراضی اشغالی، ۲ نفر کشته و ۴۵۶ نفر زخمی شده‌اند ـ ـ ـ...",
+    "content_original": "🚨 رادیو ارتش اسرائیل اعلام کرد که در پی اصابت موشک‌های ایران به اراضی اشغالی، ۲ نفر کشته و ۴۵۶ نفر زخمی شده‌اند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44952",
+    "published": "2026-03-01T10:18:37+00:00",
+    "fetched_at": "2026-03-01T10:27:22.598258+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian missile strikes on Israeli-occupied territories result in 2 deaths and 456 injuries",
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting Israeli-occupied territories, causing 2 fatalities and 456 injuries. This incident highlights the escalating conflict between Iran and Israel, with potential regional implications. The strikes signify Iran's continued efforts to target Israeli assets amid broader hostilities.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "deaths",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC proxies"
+      ],
+      "location": "Israeli-occupied territories",
+      "brief": "Iran launched missile strikes on Israeli-occupied territories resulting in 2 deaths and 456 injuries, indicating escalated regional conflict."
+    }
   },
   {
     "id": "a6a5cfa09d2d2287",
@@ -1111,6 +1548,78 @@
     "merged_source_count": 7,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "c71cf0e7d9fea4d1",
+    "title_original": "🇮🇷 ⚔️ 🇧🇭 🇶🇦 🇦🇪 🇰🇼 🇸🇦  In a matter of hours, Iran imposed a total naval and air blockade of the Gulf Countries, Kuwait...",
+    "content_original": "🇮🇷 ⚔️ 🇧🇭 🇶🇦 🇦🇪 🇰🇼 🇸🇦 In a matter of hours, Iran imposed a total naval and air blockade of the Gulf Countries, Kuwait, Bahrain, Qatar, the UAE and partially Saudi Arabia. Iran is more than capable to keep the airports in all of these countries closed for the coming weeks causing billions of dollars not just in material damage but also in lost revenue. Loss of air traffic is going to be especially painful to Bahrain, Qatar and the UAE whose commercial airlines generate billions in revenue yearly. The Gulf Monarchies spent billions developing airports which they now can't use. Tens of thousands of foreign tourists and expats who came to those countries to launder money and escape taxation elsewhere now have to live in permanent threat of drones and missiles. 2025 was the best year for aviation in the history of the UAE. The Dubai Airport (DXB) handled a record 95.2 million passengers while baggage volumes reached a record 86.75 million. DXB is now connected to 291 destinations in 110 coun...",
+    "url": "https://t.me/CIG_telegram/69797",
+    "published": "2026-03-01T10:03:25+00:00",
+    "fetched_at": "2026-03-01T10:27:18.733529+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iran imposes total naval and air blockade of Gulf countries",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has imposed a comprehensive naval and air blockade on Gulf countries including Kuwait, Bahrain, Qatar, the UAE, and partially Saudi Arabia. This blockade threatens to close airports for weeks, causing billions in economic losses and severely impacting the commercial aviation sectors of Bahrain, Qatar, and the UAE. The strategic significance lies in Iran's demonstration of its capability to disrupt critical infrastructure and economies of its regional adversaries.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "blockade"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Gulf countries",
+        "US allies"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran imposes a comprehensive naval and air blockade on Gulf countries, threatening regional stability and causing significant economic disruption."
+    },
+    "merged_source_count": 2,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "d08990b81a6f8e3f",
+    "title_original": "Trump’s current war on Iran picks up where a longstanding enmity left off",
+    "content_original": "The mutual resentments that have fueled tensions between the US and Iran have simmered for nearly half a century For millions of younger Americans, the sudden explosion of Iran onto the national political stage and consciousness may seem like a bolt from the blue. Yet for older generations and those with deeper historical awareness, Donald Trump ’s announcement on Saturday of strikes against a distant foe is more like the outcome of a collision long foretold. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/mar/01/trump-us-iran-war-history",
+    "published": "2026-03-01T10:00:38+00:00",
+    "fetched_at": "2026-03-01T10:27:07.998412+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Trump’s current war on Iran picks up where longstanding enmity left off",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses the historical tensions between the US and Iran, culminating in the recent military strikes announced by Donald Trump. This signifies the escalation of a long-standing conflict, with significant military and strategic implications for both nations and the broader Middle East region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Middle East",
+      "brief": "The article describes escalating military strikes by the US against Iran, marking a significant escalation in the longstanding conflict between the two nations."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "808f236db13b096d",
