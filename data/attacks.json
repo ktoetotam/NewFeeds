@@ -1,5 +1,41 @@
 [
   {
+    "id": "310ec13cd9eff79b",
+    "title_original": "US–Israel war on Iran: Dos and don’ts for UAE residents amid high alert",
+    "content_original": "As the US and Israel's military campaign against Iran escalates, the UAE implements broad public safety measures. Residents are urged to comply with official instructions, seek shelter during alerts, and avoid spreading unverified information, which carries legal penalties. Educational institutions have shifted to distance learning, and travel disruptions persist due to airspace closures.",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/usisrael-war-on-iran-day-2-dos-donts-missile-alerts-school-closures-other-critical-updates-for-uae-residents-as-emirates-on-high-alert/articleshow/128928208.cms",
+    "published": "2026-03-02T03:42:14+05:30",
+    "fetched_at": "2026-03-01T22:28:39.838406+00:00",
+    "source_name": "Times of India World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "US–Israel war on Iran: Dos and don’ts for UAE residents amid high alert",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The UAE has implemented broad public safety measures as the US-Israel military campaign against Iran escalates. Residents are urged to comply with official instructions, seek shelter during alerts, and avoid spreading unverified information, which carries legal penalties. Educational institutions have shifted to distance learning, and travel disruptions persist due to airspace closures.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "UAE"
+      ],
+      "location": "UAE",
+      "brief": "UAE implements public safety measures as US-Israel military campaign against Iran escalates, urging residents to comply with shelter alerts and avoid misinformation."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "0e531e54b642e475",
     "title_original": "Iran's Gandhi Hospital hit in Israeli strikes, video shows damage and chaos",
     "content_original": "In a military offensive against Iran, Israeli strikes have reportedly damaged the Gandhi Hospital, amidst ongoing attacks on military sites.",
@@ -68,6 +104,79 @@
     },
     "lat": 26.0,
     "lng": 52.0
+  },
+  {
+    "id": "2484e87eb61b37e3",
+    "title_original": "\"Вступить в войну\": Пушков выступил с предупреждением после ударов по Ирану",
+    "content_original": "\"Вступить в войну\": Пушков выступил с предупреждением после ударов по Ирану",
+    "url": "https://ria.ru/20260302/iran-2077758636.html",
+    "published": "2026-03-02T01:26:00+03:00",
+    "fetched_at": "2026-03-01T22:28:10.037750+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "\"To enter the war\": Pushkov issued a warning after strikes on Iran",
+    "relevant": true,
+    "summary_en": "Russian Senator Alexey Pushkov issued a warning following the US strikes on Iran, cautioning about the potential for broader escalation into full-scale war. The statement represents the Russian perspective on the Iran-US hostilities and the risks of further military escalation in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Russia"
+      ],
+      "location": "Iran",
+      "brief": "Russian Senator Pushkov warned of potential full-scale war escalation following US strikes on Iran, reflecting Russia's perspective on the escalating Iran-US tensions."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "533885815b8e4e49",
+    "title_original": "Bahrain Reports Iranian Attack on Offshore Facility Near Salman Port",
+    "content_original": "Manama, March 02 (QNA) - The Kingdom of Bahrain reported on Sunday that an offshore facility near Salman Port was targeted in an Iranian attack.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/2/bahrain-reports-iranian-attack-on-offshore-facility-near-salman-port",
+    "published": "2026-03-02T01:09:08+00:00",
+    "fetched_at": "2026-03-01T22:28:22.876703+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Bahrain Reports Iranian Attack on Offshore Facility Near Salman Port",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched an attack targeting an offshore facility near Salman Port in Bahrain. This strike represents an escalation in the Iran-US conflict, directly targeting a key US Gulf ally and strategic maritime infrastructure in the Gulf region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Salman Port, Bahrain, Gulf region",
+      "brief": "Iran launched an attack on an offshore facility near Salman Port in Bahrain, targeting a key US Gulf ally and strategic maritime infrastructure, representing a significant escalation in the Iran-US conflict."
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "9f83ddb6c0f05f57",
@@ -215,6 +324,44 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "acb6fbbe499ddbce",
+    "title_original": "אלף סדקים בחומה",
+    "content_original": "היממות הקרובות יוקדשו לגריעת \"משפחות יעדים\" נוספות ובהן מטרות משטר, ביטחון פנים, משמרות המהפכה ובאסיג' – עם הפנים להגשמת הרעיון המסדר השאפתני של המערכה: הכשרת הקרקע להתקוממות אזרחית שתביא לקריסת משטר האייתוללות",
+    "url": "https://www.ynet.co.il/news/article/yokra14695078",
+    "published": "2026-03-02T00:04:00+02:00",
+    "fetched_at": "2026-03-01T22:28:17.374381+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "A Thousand Cracks in the Wall",
+    "relevant": true,
+    "summary_en": "The article discusses upcoming operations targeting additional 'target families' including Iranian regime figures, internal security forces, IRGC, and the Quds Force. The strategic goal described is preparing the ground for a civilian uprising that would bring down the Iranian theocratic regime.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "quds force",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "IRGC",
+        "Quds Force",
+        "Iranian regime"
+      ],
+      "location": "Iran (targeted)",
+      "brief": "Article describes planned US-Israeli operations targeting Iranian regime figures, IRGC and Quds Force to prepare ground for civilian uprising against Tehran government."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "e874a88816fcb3fb",
@@ -948,6 +1095,369 @@
     "lng": 44.17
   },
   {
+    "id": "5fb5de28eb55692c",
+    "title_original": "#الجمهورية_الإسلامية حرس الثورة الإسلامية: الموجة 9 من الوعد الصادق 4 استهدفت مواقع بالأراضي المحتلة والقواعد الأمريك...",
+    "content_original": "#الجمهورية_الإسلامية حرس الثورة الإسلامية: الموجة 9 من الوعد الصادق 4 استهدفت مواقع بالأراضي المحتلة والقواعد الأمريكية بالمنطقة. #الاعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156924",
+    "published": "2026-03-01T22:28:42+00:00",
+    "fetched_at": "2026-03-01T22:29:06.454168+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "#الجمهورية_الإسلامية حرس الثورة الإسلامية: الموجة 9 من الوعد الصادق 4 استهدفت مواقع بالأراضي المحتلة والقواعد الأمريك...",
+    "summary_en": "{\"h\":\"IRGC: Wave 9 of True Promise 4 Targeted Sites in Occupied Lands and US Bases in Region\",\"r\":true,\"s\":\"The Islamic Revolutionary Guard Corps (IRGC) announced that Wave 9 of Operation True Promise 4 targeted military sites in the occupied territories (Israel) and American bases across the region. This represents a continued escalation in Iran's direct",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "Israel"
+      ],
+      "location": "Middle East region (occupied territories/Israel and US bases in region)",
+      "brief": "IRGC launched Wave 9 of Operation True Promise 4 targeting Israeli military sites and American bases across the region, marking direct Iranian strike on US forces."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "179b43f062f1f721",
+    "title_original": "US-Israeli strike kills 20 in Tehran, Iranian media reports",
+    "content_original": "US-Israeli strike kills 20 in Tehran, Iranian media reports At least 20 people have been killed in a US-Israeli attack on the Iranian capital, according to Iranian state-linked media, marking another deadly attack in the widening assault on the country. Mehr News Agency reported that the strike hit the Niloufar Square area of Tehran late on Sunday night, leaving 20 dead.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-israeli-strike-kills-20-tehran-iranian-media-reports",
+    "published": "2026-03-01T22:25:54+00:00",
+    "fetched_at": "2026-03-01T22:28:24.688145+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US-Israeli strike kills 20 in Tehran, Iranian media reports",
+    "translated": true,
+    "summary_en": "{\"h\":\"US-Israeli strike kills 20 in Tehran, Iranian media reports\",\"r\":true,\"s\":\"A joint US-Israeli strike killed at least 20 people in Tehran's Niloufar Square area late Sunday night, according to Iranian state-linked media. The attack marks another deadly escalation in the widening assault on Iranian territory, targeting the capital directly. This strike represents a significant intensification ",
+    "relevant": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran (Niloufar Square area)",
+      "brief": "A joint US-Israeli airstrike killed at least 20 people in Tehran, marking direct escalation between the US and Iran."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "c164272f5f89e7f2",
+    "title_original": "— ❗️ 🇮🇷 / 🇬🇧 / 🇨🇾  BREAKING:  Initial reports of an Iranian missile or drone strike at Akrotiri Airbase, Cyprus, whic...",
+    "content_original": "— ❗️ 🇮🇷 / 🇬🇧 / 🇨🇾 BREAKING: Initial reports of an Iranian missile or drone strike at Akrotiri Airbase, Cyprus, which houses British forces and aircraft @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69958",
+    "published": "2026-03-01T22:25:11+00:00",
+    "fetched_at": "2026-03-01T22:29:01.331603+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "— ❗️ 🇮🇷 / 🇬🇧 / 🇨🇾  BREAKING:  Initial reports of an Iranian missile or drone strike at Akrotiri Airbase, Cyprus, whic...",
+    "translated": true,
+    "summary_en": "{\"h\":\"Initial reports of an Iranian missile or drone strike at Akrotiri Airbase, Cyprus, which houses British forces and aircraft\",\"r\":true,\"s\":\"Iran has launched a missile or drone strike at Akrotiri Airbase in Cyprus, where British forces",
+    "relevant": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "b2be2c5afc8643c7",
+    "title_original": "#العراق   3 طائرات مسيرة انتحارية هاجمت القاعدة الأمريكية في مطار بغداد الدولي",
+    "content_original": "#العراق 3 طائرات مسيرة انتحارية هاجمت القاعدة الأمريكية في مطار بغداد الدولي",
+    "url": "https://t.me/Electrohizbullah/156922",
+    "published": "2026-03-01T22:24:37+00:00",
+    "fetched_at": "2026-03-01T22:29:06.453625+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iraq: 3 suicide drones attacked the American base at Baghdad International Airport",
+    "relevant": true,
+    "summary_en": "Three suicide drones targeted the US base located at Baghdad International Airport. The attack represents another in a series of drone and missile strikes on US forces operating from Iraqi territory, consistent with the ongoing Iran-US conflict and IRGC proxy operations in Iraq.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "suicide",
+      "missile",
+      "conflict",
+      "drone",
+      "attack",
+      "proxy",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike|proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Iraq",
+        "United States"
+      ],
+      "location": "Baghdad International Airport, Iraq",
+      "brief": "Three suicide drones targeted a US base at Baghdad International Airport in an IRGC proxy operation consistent with ongoing Iran-US conflict dynamics."
+    },
+    "merged_source_count": 2,
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "eacdd4eed4868d07",
+    "title_original": "#إعلام_العدو   هيئة البث الإسرائيلية: الدفعة الصاروخية الإيرانية الأخيرة باتجاه القدس تزامنت مع انعقاد المجلس الوزاري...",
+    "content_original": "#إعلام_العدو هيئة البث الإسرائيلية: الدفعة الصاروخية الإيرانية الأخيرة باتجاه القدس تزامنت مع انعقاد المجلس الوزاري المصغر.",
+    "url": "https://t.me/Electrohizbullah/156919",
+    "published": "2026-03-01T22:23:02+00:00",
+    "fetched_at": "2026-03-01T22:29:06.451705+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Broadcasting Authority: Latest Iranian missile barrage towards Jerusalem coincided with Cabinet Committee meeting",
+    "relevant": true,
+    "summary_en": "Israeli media reported that the latest Iranian missile volley directed at Jerusalem occurred simultaneously with a meeting of Israel's Cabinet Committee (security cabinet). This timing suggests potential Iranian targeting of Israeli leadership during a strategic gathering, representing a significant escalation in the ongoing conflict between Iran and Israel.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Jerusalem",
+      "brief": "Iranian ballistic missile barrage targeted Jerusalem during an Israeli Cabinet Committee meeting, suggesting deliberate strike on Israeli leadership during strategic gathering."
+    },
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "9412c5e29c44168c",
+    "title_original": "📝 Иранская   война 📝 главные события к исходу 1 марта Вторые сутки борьбы  Ирана  против  США  и  Израиля  прошли во ...",
+    "content_original": "📝 Иранская война 📝 главные события к исходу 1 марта Вторые сутки борьбы Ирана против США и Израиля прошли во всех отношениях громко. ➡️ В ночь на первое марта ударам подвергся международный аэропорт Дубая , был подожжен Бурдж аль-Араб . Множественным ударам подверглась Доха , не обошли стороной Бахрейн , где со вчерашнего дня продолжается возгорание и пострадали американцы . Впервые за время конфликта удару подвергся самый нейтральный в регионе Оман . Были и сообщения об ударе по Кипру , впрочем, впоследствии опровергнутые . ➡️ У израильского побережья поражен неизвестный объект , а днем продолжились прилеты по окрестностям аэропорта Бен-Гуриона . Много пострадавших оказалось в Бейт-Шемеше . ❗️ Главным событием стало подтверждение гибели Верховного лидера Ирана Али Хаменеи . Вместе с ним подтвердилась гибель еще нескольких высокопоставленных, но менее значимых иранских деятелей . Параллельно прошли массовые митинги памяти павшего Хаменеи. 📌 Впрочем, всем нашлась замена. У КСИР новый гл...",
+    "url": "https://t.me/rybar/78033",
+    "published": "2026-03-01T22:22:44+00:00",
+    "fetched_at": "2026-03-01T22:28:59.309131+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "📝 Иранская   война 📝 главные события к исходу 1 марта Вторые сутки борьбы  Ирана  против  США  и  Израиля  прошли во ...",
+    "summary_en": "{\"h\":\"Iranian War: Main Events as of March 1 - Second Day of Conflict with USA and",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "USA",
+        "Israel"
+      ],
+      "location": "Middle East",
+      "brief": "Second day of direct military conflict between Iran and US/Israel forces reported as of March 1."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "19f76f65561c079d",
+    "title_original": "⚡️ #BREAKING  Israel’s Red Alert System: Possible drone strike at the British Royal Air Force Akrotiri base in Cyprus.",
+    "content_original": "⚡️ #BREAKING Israel’s Red Alert System: Possible drone strike at the British Royal Air Force Akrotiri base in Cyprus.",
+    "url": "https://t.me/warmonitors/40339",
+    "published": "2026-03-01T22:21:32+00:00",
+    "fetched_at": "2026-03-01T22:29:03.261365+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "⚡️ #BREAKING  Israel’s Red Alert System: Possible drone strike at the British Royal Air Force Akrotiri base in Cyprus.",
+    "translated": true,
+    "summary_en": "{\"h\":\"Possible drone strike detected at British RAF Akrotiri base in Cyprus - Israeli Red Alert\", \"r\":true,\"s\":\"Israel's Red Alert System has detected a",
+    "relevant": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Houthis",
+        "Israel",
+        "United Kingdom",
+        "Iran (potential)"
+      ],
+      "location": "Cyprus - RAF Akrotiri base",
+      "brief": "Israel's Red Alert System detected a possible drone strike on British RAF Akrotiri base in Cyprus, likely launched by Houthi forces."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "d3b022464536963d",
+    "title_original": "Footage purportedly shows the bodies of the three American soldiers who were killed in an Iranian strike on a US base...",
+    "content_original": "Footage purportedly shows the bodies of the three American soldiers who were killed in an Iranian strike on a US base in Kuwait have been transferred @PressTV",
+    "url": "https://t.me/presstv/177538",
+    "published": "2026-03-01T22:20:38+00:00",
+    "fetched_at": "2026-03-01T22:28:55.588576+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Footage purportedly shows the bodies of the three American soldiers who were killed in an Iranian strike on a US base...",
+    "translated": true,
+    "summary_en": "{\"h\":\"Footage Shows Bodies of Three US Soldiers Killed in Iranian Strike on Kuwait Base\",\"r\":true,\"s\":\"Iranian forces struck a US base in Kuwait, killing three American soldiers",
+    "relevant": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Kuwait"
+      ],
+      "location": "Kuwait",
+      "brief": "Iranian forces struck a US base in Kuwait, killing three American soldiers in a direct attack on US personnel."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "da727de4010c7842",
+    "title_original": "🚨 انفجار های متعدد در تهران و کرج ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا...",
+    "content_original": "🚨 انفجار های متعدد در تهران و کرج ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45064",
+    "published": "2026-03-01T22:19:46+00:00",
+    "fetched_at": "2026-03-01T22:29:05.166814+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Multiple Explosions in Tehran and Karaj",
+    "relevant": true,
+    "summary_en": "Reports emerging of multiple explosions in Tehran (Iran's capital) and Karaj (city northwest of Tehran). Given the ongoing Iran-US conflict context and the channel's focus on Iran-US developments, these explosions are likely related to US strikes on Iranian territory, representing a significant escalation with direct attacks on Iranian soil.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran and Karaj, Iran",
+      "brief": "Multiple explosions reported in Tehran and Karaj, likely indicating US strikes on Iranian territory as part of escalating Iran-US conflict."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "5d7f249e9a13f374",
+    "title_original": "طائرة أمريكية تشتبك مع طائرة مسيرة غالباً فوق قاعدة الشدادي شمال دير الزور..",
+    "content_original": "طائرة أمريكية تشتبك مع طائرة مسيرة غالباً فوق قاعدة الشدادي شمال دير الزور..",
+    "url": "https://t.me/Electrohizbullah/156911",
+    "published": "2026-03-01T22:18:42+00:00",
+    "fetched_at": "2026-03-01T22:29:06.450194+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "American aircraft engages with drone mostly over Al-Shaddadi base north of Deir ez-Zor",
+    "relevant": true,
+    "summary_en": "An American aircraft engaged with a drone over Al-Shaddadi base in northern Deir ez-Zor, Syria. The incident occurred at the US-operated base in northeastern Syria, a region where Iranian-linked forces and IRGC proxies maintain significant presence. This engagement highlights ongoing tensions between US forces and Iranian-aligned groups operating in Syria's contested eastern territories.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC proxies",
+        "Syrian Democratic Forces"
+      ],
+      "location": "Al-Shaddadi base, northern Deir ez-Zor, Syria",
+      "brief": "US aircraft engaged and shot down a drone near the Al-Shaddadi base in northeastern Syria, where Iranian-linked IRGC proxies maintain a significant presence."
+    },
+    "lat": 34.8,
+    "lng": 38.99
+  },
+  {
     "id": "724f0b9730c26fea",
     "title_original": "В районе Тель-Авива прозвучали сирены воздушной тревоги",
     "content_original": "В районе Тель-Авива прозвучали сирены воздушной тревоги",
@@ -987,6 +1497,42 @@
     "lng": 34.78
   },
   {
+    "id": "6c3b591acfab26f2",
+    "title_original": "🚨 گزارش های مردمی از بمباران تبریز توسط جنگنده های آمریکا ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و ا...",
+    "content_original": "🚨 گزارش های مردمی از بمباران تبریز توسط جنگنده های آمریکا ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45057",
+    "published": "2026-03-01T22:15:16+00:00",
+    "fetched_at": "2026-03-01T22:29:05.164895+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Citizen Reports of Tabriz Being Bombed by American Fighter Jets",
+    "relevant": true,
+    "summary_en": "Unverified citizen reports indicate American fighter jets have bombed the city of Tabriz in northwestern Iran. If confirmed, this would represent a significant escalation in the ongoing Iran-US conflict, marking another direct strike on Iranian territory following earlier US attacks on Iranian military and nuclear facilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tabriz, northwestern Iran",
+      "brief": "Unverified citizen reports claim US fighter jets bombed Tabriz, representing potential major escalation in direct US-Iran engagement"
+    },
+    "lat": 38.08,
+    "lng": 46.29
+  },
+  {
     "id": "12f846538c9bdb2e",
     "title_original": "В результате удара США и Израиля по Тегерану повреждено здание больницы Ганди",
     "content_original": "Вооруженные силы США и Израиля нанесли удар по больнице Ганди в центре Тегерана, сообщает иранское агентство Tasnim. Как сообщают журналисты, в результате чрезвычайной ситуации медицинский персонал переводит пациентов и новорожденных в более безопасные палаты.",
@@ -1021,6 +1567,47 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "de0f4a6659ffc16f",
+    "title_original": "🚨 برخورد موشک در بحرین ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SA...",
+    "content_original": "🚨 برخورد موشک در بحرین ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45056",
+    "published": "2026-03-01T22:14:08+00:00",
+    "fetched_at": "2026-03-01T22:29:05.164372+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile Impact in Bahrain",
+    "relevant": true,
+    "summary_en": "Reports emerging of a missile impact in Bahrain, a key US ally hosting the US Navy's 5th Fleet headquarters. The incident comes amid heightened tensions in the Gulf region following Iranian ballistic missile and drone attacks on US bases and the ongoing Israel-Hamas conflict. Details on the source of the missile and any casualties remain under investigation, but any attack on Bahraini territory represents a significant escalation in the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "hamas",
+      "missile",
+      "conflict",
+      "drone",
+      "attack",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Bahrain, Manama",
+      "brief": "Iranian missile struck Bahrain, home to US Navy 5th Fleet, marking escalation following Iranian ballistic missile and drone attacks on US bases."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "f2e26a11a6b1ac65",
@@ -7168,6 +7755,42 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "d1d9c9e66db0f70b",
+    "title_original": "Hormuz erupts: Attacks, GPS jamming, Houthi threats rock Strait amid US-Israeli strikes",
+    "content_original": "The Strait of Hormuz region became a flashpoint Sunday after U.S.-Israeli strikes on Iran under Operation Epic Fury triggered electronic warfare activity and multiple \"attacks\" on vessels along one of the world’s most critical energy waterways, according to reports. The sudden escalation followed a Feb. 28 warning from U.S. maritime authorities urging commercial vessels to avoid strategic waterways if possible, including the Persian Gulf, Gulf of Oman and Arabian Sea, citing heightened security risks. \"It is recommended that vessels keep clear of this area if possible,\" the advisory warned. \"The Persian Gulf, Strait of Hormuz and adjacent waters are the most dangerous place right now for commercial shipping,\" Jakob P. Larsen, head of maritime security at BIMCO , told Fox News Digital. \"Ships in the Persian Gulf are under threat from Iranian attacks,\" Larsen said. HISTORIC US-ISRAEL STRIKES ON IRAN UNDERWAY AS TEHRAN FACES REGIME SURVIVAL TEST \"To protect themselves, most ships stay as ...",
+    "url": "https://www.foxnews.com/world/strait-hormuz-maritime-incidents-follow-us-israeli-operation-epic-fury-strikes-iran",
+    "published": "2026-03-01T17:22:46-05:00",
+    "fetched_at": "2026-03-01T22:28:41.372166+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Hormuz erupts: Attacks, GPS jamming, Houthi threats rock Strait amid US-Israeli strikes",
+    "translated": true,
+    "summary_en": "{\"h\":\"Hormuz erupts: Attacks, GPS jamming, Houthi threats rock Strait amid US-Israeli strikes\",\"r\":true,\"s\":\"U.S.-Israeli strikes on Iran under Operation Epic Fury have triggered electronic warfare and multiple attacks",
+    "relevant": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "houthi"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "Houthis"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "U.S.-Israeli strikes on Iran under Operation Epic Fury have triggered electronic warfare, GPS jamming, and multiple attacks in the Strait of Hormuz with Houthi threats emerging."
+    },
+    "lat": 26.56,
+    "lng": 56.25
   },
   {
     "id": "e1fe506d69dc0153",
