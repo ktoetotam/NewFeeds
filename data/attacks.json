@@ -1,5 +1,80 @@
 [
   {
+    "id": "01a0fd9d447c20dc",
+    "title_original": "Trump properties in Dubai attacked? Claim viral amid Palm Jumeirah fire as Iran strikes back",
+    "content_original": "Iran unleashed a massive missile and drone attack, with Dubai facing the brunt of it, after the US and Israel mounted an offensive.&nbsp;",
+    "url": "https://www.hindustantimes.com/world-news/us-news/trump-properties-in-dubai-attacked-claim-viral-amid-palm-jumeirah-fire-as-iran-strikes-back-101772321941155.html",
+    "published": "2026-03-01T05:34:13+05:30",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Trump properties in Dubai reportedly attacked amid Iran strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a large-scale missile and drone attack targeting Dubai in response to US and Israeli offensives. The attack resulted in damage, including to Trump properties on Palm Jumeirah. This escalation signifies Iran's intent to strike US-linked assets and highlights the vulnerability of Gulf states to regional conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "drone",
+      "strike",
+      "missile",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Dubai"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran launched a large-scale missile and drone attack on Dubai targeting US-linked assets, including Trump properties, escalating regional tensions."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "61baf7f33fb8442b",
+    "title_original": "Dubai Airport to Burj Al Arab - Full list of UAE locations damaged in Iranian attack",
+    "content_original": "Explosions and drone incidents hit key locations in Dubai after Iran fired missiles in retaliation for US-Israeli strikes.",
+    "url": "https://www.hindustantimes.com/world-news/us-news/dubai-news-live-dubai-airport-to-burj-al-arab-full-list-of-uae-locations-damaged-in-iranian-attack-101772321424120.html",
+    "published": "2026-03-01T05:20:36+05:30",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "UAE locations damaged in Iranian attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missiles and drones targeting key locations in the UAE, including Dubai, in retaliation for US-Israeli strikes. The attacks damaged areas between Dubai Airport and Burj Al Arab. This escalation highlights the regional spillover of the US-Iran conflict and threatens UAE infrastructure and stability.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|drone_strike|ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US",
+        "Israel"
+      ],
+      "location": "UAE, Dubai",
+      "brief": "Iran launched missiles and drones targeting key locations in the UAE, including Dubai, in retaliation for US-Israeli strikes, escalating regional tensions."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "49b8084eeb765ce4",
     "title_original": "Iran Guards say targeted Israeli bases, Defence Ministry in new wave of attacks",
     "content_original": "Israel’s emergency service Magen David Adom reported on February 28, that an Iranian missile strike injured 21 people in the area of Tel Aviv, including one person in critical condition.",
@@ -70,6 +145,187 @@
     "merged_source_count": 2,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "610cee4d52f524be",
+    "title_original": "В соцсетях расходится видео последствий удара по аэропорту Абу-Даби",
+    "content_original": "В соцсетях расходится видео последствий удара по аэропорту Абу-Даби",
+    "url": "https://ria.ru/20260301/aeroport-2077571219.html",
+    "published": "2026-03-01T03:06:35+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Video of Abu Dhabi Airport Strike Consequences Spreads on Social Media",
+    "relevant": true,
+    "summary_en": "Unidentified actors struck Abu Dhabi International Airport, causing unspecified damage. The incident occurred in the UAE, a key US ally, and follows recent threats from Iran-linked groups. This attack could signal an escalation in the conflict's spillover into the Gulf region and may provoke a response from the US and its allies.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Unidentified actors",
+        "UAE",
+        "Iran-linked groups"
+      ],
+      "location": "Abu Dhabi International Airport, UAE",
+      "brief": "An unidentified drone strike on Abu Dhabi International Airport, a key US ally, signals potential escalation in the Iran-US conflict spillover into the Gulf region."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "3e7ab917221fd458",
+    "title_original": "В Тель-Авиве вновь звучит воздушная тревога",
+    "content_original": "В Тель-Авиве вновь звучит воздушная тревога",
+    "url": "https://ria.ru/20260301/trevoga-2077570998.html",
+    "published": "2026-03-01T03:02:52+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound Again in Tel Aviv",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Tel Aviv, indicating a potential threat from missile or drone attacks. This suggests ongoing tensions and possible escalation in the conflict between Israel and Iran-linked groups like Hezbollah or Hamas. The incident highlights the continued risk of regional conflict spillover into Israeli territory.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "hamas",
+      "drone",
+      "raid",
+      "threat",
+      "hezbollah",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Air raid sirens in Tel Aviv indicate potential missile or drone attacks, signaling escalating tensions between Israel and Iran-linked Hezbollah."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "76c51cd2aca6fd1a",
+    "title_original": "Tasnim: на базе США в эмирате Эль-Фуджайра произошел взрыв",
+    "content_original": "Tasnim: на базе США в эмирате Эль-Фуджайра произошел взрыв",
+    "url": "https://tass.ru/proisshestviya/26595073",
+    "published": "2026-03-01T02:57:34+03:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosion at US Base in Fujairah Emirate",
+    "relevant": true,
+    "summary_en": "An explosion occurred at a US military base in the Emirate of Fujairah. This incident is significant as it targets a critical US facility in the UAE, potentially indicating an escalation in Iranian proxy operations against US assets in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "explosion",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Iranian proxies",
+        "UAE"
+      ],
+      "location": "Fujairah Emirate, UAE",
+      "brief": "An explosion at a US military base in Fujairah, UAE, indicates a significant escalation in Iranian proxy operations targeting US assets in the region."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "0aa7c834543e81f2",
+    "title_original": "В Дубае прогремел взрыв",
+    "content_original": "В Дубае прогремел взрыв",
+    "url": "https://ria.ru/20260301/vzryv-2077570183.html",
+    "published": "2026-03-01T02:55:23+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Explosion in Dubai",
+    "relevant": true,
+    "summary_en": "An explosion occurred in Dubai, which is significant due to the city's importance as a major hub for international trade and commerce in the region. While the cause of the explosion is not specified, it could potentially impact regional stability and US interests given Dubai's proximity to conflict zones and its role in global shipping and logistics.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "explosion",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "unknown"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "An explosion in Dubai, a major international trade hub, raises concerns about regional stability and potential impact on US interests."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "3680fc1a32d225ad",
+    "title_original": "ЦАХАЛ сообщила о запуске нескольких ракет из Ирана в сторону Израиля",
+    "content_original": "ЦАХАЛ сообщила о запуске нескольких ракет из Ирана в сторону Израиля",
+    "url": "https://ria.ru/20260301/rakety-2077569944.html",
+    "published": "2026-03-01T02:51:31+03:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF Reports Multiple Rockets Launched from Iran Towards Israel",
+    "relevant": true,
+    "summary_en": "The IDF has reported that multiple rockets were launched from Iran towards Israel. This incident signifies a direct military escalation by Iran against Israel, potentially widening the conflict. The strategic significance includes the risk of further regional escalation and the involvement of additional actors.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "idf",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IDF"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched multiple rockets targeting Israel, marking a direct military escalation with potential for regional conflict expansion."
+    },
+    "merged_source_count": 3,
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "39d66be2bad70ff7",
@@ -889,6 +1145,43 @@
     "lng": 51.23
   },
   {
+    "id": "d88ceb848e79c2af",
+    "title_original": "Unauthorized war or justified action? US Congress split on Iran strikes",
+    "content_original": "Republicans broadly support President Donald Trump while Democrats criticize his “major combat operation” as an undeclared war US President Donald Trump&rsquo;s unilateral decision to launch strikes against Iran has met a mixed response in Congress, as lawmakers are split over the issue, mostly along party lines. Democrats in Congress are now seeking to stop the campaign under the 1973 War Powers Act. Washington and West Jerusalem launched the attack on Saturday, with Trump openly stating that the operation was aimed at bringing about regime change in Iran to eliminate &ldquo;imminent threats&rdquo; to the American people. The attacks killed over 200 people, according to the Iranian Red Crescent Society. Tehran responded by launching retaliatory strikes against targets in Israel as well as US bases in the region. READ MORE: US-Israeli attack on Iran plunges Middle East into chaos: LIVE UPDATES, VIDEOS, PHOTOS Iran called the attack a blatant violation of its sovereignty. Russia and Chi...",
+    "url": "https://www.rt.com/news/633270-us-congress-split-strikes-iran/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "2026-03-01T00:08:21+00:00",
+    "source_name": "RT",
+    "source_category": "state",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "US Congress split on Iran strikes: unauthorized war or justified action?",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US Congress is divided over President Trump's unilateral decision to launch strikes against Iran, with Republicans supporting the action and Democrats seeking to halt it under the War Powers Act. The attacks, which Trump claims aim to eliminate 'imminent threats' and bring regime change in Iran, have resulted in over 200 casualties according to Iranian sources. This escalation highlights the deepening political divide in the US regarding the ongoing conflict with Iran.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "US Congress",
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "location": "Iran",
+      "brief": "US Congress is divided over President Trump's unilateral decision to launch strikes against Iran, with Republicans supporting the action and Democrats seeking to halt it under the War Powers Act."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "997fb5d9079ab658",
     "title_original": "Целями ударов по Израилю являются базы и военные объекты, заявили в КСИР",
     "content_original": "Целями ударов по Израилю являются базы и военные объекты, заявили в КСИР",
@@ -921,6 +1214,365 @@
     },
     "lat": 31.5,
     "lng": 34.8
+  },
+  {
+    "id": "940ccd650f62e448",
+    "title_original": "لحظة اصابة صاروخ إيراني ثقيل على مقر الأسطول الأمريكي الخامس في البحرين",
+    "content_original": "لحظة اصابة صاروخ إيراني ثقيل على مقر الأسطول الأمريكي الخامس في البحرين",
+    "url": "https://t.me/Electrohizbullah/156249",
+    "published": "2026-03-01T00:06:57+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian missile strikes U.S. Fifth Fleet headquarters in Bahrain",
+    "relevant": true,
+    "summary_en": "An Iranian missile hit the U.S. Fifth Fleet headquarters in Bahrain, indicating a direct escalation targeting a critical U.S. military asset in the region. This attack signifies Iran's intent to strike at high-profile U.S. military installations despite heightened defenses. The strike is likely to provoke a significant U.S. response and raises tensions in the Gulf.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "missile",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "Bahrain, U.S. Fifth Fleet headquarters",
+      "brief": "Iran launched a direct missile strike on the U.S. Fifth Fleet headquarters in Bahrain, marking a significant escalation in hostilities."
+    },
+    "merged_source_count": 3,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "cbf67bbb52261bdb",
+    "title_original": "صواريخ إيرانية تسقط على اهداف صهيونية في القدس",
+    "content_original": "صواريخ إيرانية تسقط على اهداف صهيونية في القدس",
+    "url": "https://t.me/Electrohizbullah/156248",
+    "published": "2026-03-01T00:06:17+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian missiles strike Zionist targets in Jerusalem",
+    "relevant": true,
+    "summary_en": "Iran has launched missiles targeting Zionist assets in Jerusalem, escalating regional tensions. This direct attack on Israeli territory by Iran signifies a significant escalation in the ongoing conflict. The strike's strategic significance lies in its potential to provoke a broader regional conflict involving Israel and its allies.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Jerusalem",
+      "brief": "Iran launches ballistic missiles targeting Israeli assets in Jerusalem, marking a significant escalation in regional tensions."
+    },
+    "merged_source_count": 2,
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "3d527703847655ed",
+    "title_original": "صواريخ إيرانية أثناء عبورها عبر أجواء طولكرم اتجاه الأراضي المحتلة وإصابتها لأهداف بشكل مباشر.",
+    "content_original": "صواريخ إيرانية أثناء عبورها عبر أجواء طولكرم اتجاه الأراضي المحتلة وإصابتها لأهداف بشكل مباشر.",
+    "url": "https://t.me/Electrohizbullah/156246",
+    "published": "2026-03-01T00:04:50+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missiles Fired Over Tulkarm Towards Occupied Territories Hit Targets Directly",
+    "relevant": true,
+    "summary_en": "Iranian forces launched missiles over Tulkarm, West Bank, striking targets in Israeli-occupied territories. This incident signifies Iran's direct engagement in the conflict with Israel, escalating tensions in the region. The attack demonstrates Iran's willingness to target Israeli assets from new launch trajectories.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies",
+        "Hamas"
+      ],
+      "location": "Tulkarm, West Bank, Israeli-occupied territories",
+      "brief": "Iran directly engages in the conflict by launching missiles from Tulkarm over into Israeli-occupied territories, escalating regional tensions."
+    },
+    "lat": 31.95,
+    "lng": 35.3
+  },
+  {
+    "id": "7a0cea41f96ed569",
+    "title_original": "#لبنان   مراسل المنار: اصوات انفجارات شمال فلسطين المحتلة بالتزامن مع محاولات الدفاع الصهيونية اعتراض صواريخ ايرانية",
+    "content_original": "#لبنان مراسل المنار: اصوات انفجارات شمال فلسطين المحتلة بالتزامن مع محاولات الدفاع الصهيونية اعتراض صواريخ ايرانية",
+    "url": "https://t.me/Electrohizbullah/156245",
+    "published": "2026-03-01T00:04:34+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosions Heard in Northern Occupied Palestine as Israeli Defense Attempts to Intercept Iranian Missiles",
+    "relevant": true,
+    "summary_en": "Iranian missiles were launched towards northern Israel, leading to explosions in the area. The Israeli defense systems were actively attempting to intercept these missiles. This incident signifies an escalation in the conflict with direct engagement between Iranian and Israeli forces.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "intercept"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Northern Israel",
+      "brief": "Iran launched ballistic missiles targeting northern Israel, resulting in explosions and active Israeli defense interception efforts."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "56bbb238307634af",
+    "title_original": "#إعلام_العدو   إصابات في منطقة جبال القدس من جراء الصلية الأخيرة من إيران",
+    "content_original": "#إعلام_العدو إصابات في منطقة جبال القدس من جراء الصلية الأخيرة من إيران",
+    "url": "https://t.me/Electrohizbullah/156242",
+    "published": "2026-03-01T00:00:28+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Casualties in Jerusalem Mountains from Recent Iranian Barrage",
+    "relevant": true,
+    "summary_en": "Iran launched an attack causing casualties in the Jerusalem Mountains area. This indicates an escalation in the conflict with potential implications for Israeli security and regional stability. The incident highlights the ongoing threat posed by Iranian actions against Israeli territory.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Jerusalem Mountains",
+      "brief": "Iran launched a proxy attack causing casualties in the Jerusalem Mountains, escalating regional tensions and posing a significant threat to Israeli security."
+    },
+    "lat": 31.7986087,
+    "lng": 35.0240375
+  },
+  {
+    "id": "7b1f8c6ac528fa0b",
+    "title_original": "🇧🇭 🇮🇷 🇺🇸 | NOW: Iranian ballistic missile makes a direct impact at the US 5th Fleet HQ in Bahrain.  @FotrosResistancee",
+    "content_original": "🇧🇭 🇮🇷 🇺🇸 | NOW: Iranian ballistic missile makes a direct impact at the US 5th Fleet HQ in Bahrain. @FotrosResistancee",
+    "url": "https://t.me/CIG_telegram/69735",
+    "published": "2026-02-28T23:56:42+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian ballistic missile strikes US 5th Fleet HQ in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a ballistic missile that directly impacted the US 5th Fleet Headquarters in Bahrain. This attack signifies a significant escalation in the conflict, targeting a critical US naval command center in the region. The strike will likely prompt immediate US military responses and raises tensions in the Gulf.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "ballistic",
+      "strike",
+      "missile",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "US 5th Fleet"
+      ],
+      "location": "Bahrain",
+      "brief": "Iran launched a ballistic missile strike on the US 5th Fleet Headquarters in Bahrain, marking a major escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "a0663330b2afad3a",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: سقوط صاروخ ايراني في مستوطنة بيت شيمش بالقدس. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: سقوط صاروخ ايراني في مستوطنة بيت شيمش بالقدس. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156240",
+    "published": "2026-02-28T23:56:25+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missile Strikes Settlement in Beit Shemesh, Jerusalem",
+    "relevant": true,
+    "summary_en": "An Iranian missile reportedly landed in the Israeli settlement of Beit Shemesh near Jerusalem. This incident signifies an escalation in the conflict with potential direct engagement between Iran and Israel on Israeli territory. The strike could provoke a strong Israeli response against Iranian assets or proxies.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Beit Shemesh, Jerusalem, Israel",
+      "brief": "Iran launched a ballistic missile strike on an Israeli settlement near Jerusalem, marking a significant escalation with potential for direct Iran-Israel conflict."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "e20ef31c0a0418ec",
+    "title_original": "More footage of the aftermath of Iran's missile strikes in occupied territories  @PressTV",
+    "content_original": "More footage of the aftermath of Iran's missile strikes in occupied territories @PressTV",
+    "url": "https://t.me/presstv/177329",
+    "published": "2026-02-28T23:52:26+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran's missile strikes hit occupied territories",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile strikes targeting occupied territories, likely referring to Israeli-occupied areas. This indicates an escalation in Iran's direct military engagement against Israel. The strikes signify Iran's continued efforts to retaliate against Israeli actions and expand the conflict's geographic scope.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Israeli-occupied territories",
+      "brief": "Iran escalated the conflict by launching ballistic missile strikes targeting Israeli-occupied territories, indicating direct military engagement and expanding the conflict's geographic scope."
+    }
+  },
+  {
+    "id": "1e6aadcb9dcbb342",
+    "title_original": "تماس‌های ترامپ با سران کشورها",
+    "content_original": "شفقنا- کاخ سفید اعلام کرد که دونالد ترامپ، رئیس‌جمهور آمریکا، روز شنبه در پی عملیات نظامی مشترک واشنگتن-تل‌آویو علیه ایران، با رهبران تعدادی از کشورهای منطقه و دبیرکل ناتو تماس‌های تلفنی برقرار کرد. به‌گزارش سرویس ترجمه شفقنا، به نقل از آرتی، سخنگوی کاخ سفید، کارولین لویت در پلتفرم «ایکس» تصریح کرد، ترامپ با رهبران بریتانیا، کویت [&#8230;] نوشته تماس‌های ترامپ با سران کشورها اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222367/",
+    "published": "2026-02-28T23:51:35+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Trump Calls regional leaders and NATO chief after US-Israel joint military operation against Iran",
+    "relevant": true,
+    "summary_en": "Donald Trump, the US President, held phone calls with leaders of several regional countries and the NATO Secretary-General following a joint US-Israel military operation against Iran. The calls aimed to discuss the operation and its implications, highlighting the international coordination amidst the ongoing conflict. This signifies continued diplomatic efforts to manage the escalation and maintain alliances in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US and Israel conducted a joint military operation against Iran, prompting diplomatic discussions with regional leaders and NATO."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "d5e8be2e4350e809",
+    "title_original": "الإمارات تدين الاعتداءات الصاروخية الإيرانية التي استهدفتها وعددا من الدول بالمنطقة",
+    "content_original": "أبوظبي في 28 فبراير/قنا/ أعربت الإمارات العربية المتحدة عن إدانتها واستنكارها بأشد العبارات للاعتداءات الصاروخية الإيرانية السافرة التي استهدفتها وعددا من الدول الشقيقة في المنطقة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-2/28/الامارات-تدين-الاعتداءات-الصاروخية-الايرانية-التي-استهدفتها-وعددا-من-الدول-بالمنطقة",
+    "published": "2026-02-28T23:49:42.447375+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "UAE Condemns Iranian Missile Attacks Targeting It and Other Regional States",
+    "relevant": true,
+    "summary_en": "The UAE has strongly condemned and denounced the blatant Iranian missile attacks targeting the UAE and several allied countries in the region. This indicates a significant escalation in the ongoing conflict, highlighting Iran's continued use of missile strikes against regional states. The strategic significance involves regional instability and potential further military responses from affected nations.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "regional allies"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran conducted missile attacks targeting the UAE and other regional states, marking a significant escalation in the conflict."
+    },
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "438affb5a685a199",
