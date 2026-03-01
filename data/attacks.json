@@ -1299,6 +1299,82 @@
     "lng": 55.27
   },
   {
+    "id": "da935bb483bc7ecd",
+    "title_original": "🔴 Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei martyred in US-Israeli attacks on Iran @PressTV",
+    "content_original": "🔴 Leader of the Islamic Revolution Ayatollah Seyyed Ali Khamenei martyred in US-Israeli attacks on Iran @PressTV",
+    "url": "https://t.me/presstv/177352",
+    "published": "2026-03-01T01:28:31+00:00",
+    "fetched_at": "2026-03-01T01:32:09.490140+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian Supreme Leader Ayatollah Khamenei reportedly killed in US-Israeli attacks on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Supreme Leader of Iran, Ayatollah Seyyed Ali Khamenei, is reportedly killed in coordinated US-Israeli attacks on Iran. This event marks a significant escalation in the ongoing conflict, with potential major implications for Iranian leadership and command structure. The strategic significance could lead to further escalation or retaliatory actions by Iran against US and Israeli interests globally.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli coordinated attacks reportedly result in the death of Iranian Supreme Leader Ayatollah Khamenei, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "3aa28ad98860338a",
+    "title_original": "A CIA facility in Dubai was reportedly targeted by an Iranian missile strike. @PressTV",
+    "content_original": "A CIA facility in Dubai was reportedly targeted by an Iranian missile strike. @PressTV",
+    "url": "https://t.me/presstv/177351",
+    "published": "2026-03-01T01:27:04+00:00",
+    "fetched_at": "2026-03-01T01:32:09.489480+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran reportedly targets CIA facility in Dubai with missile strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike targeting a CIA facility in Dubai, United Arab Emirates. This attack signifies an escalation in the conflict as it involves Iranian action against US intelligence assets outside of traditional conflict zones. The incident could provoke a strong US response and further destabilize the region.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "CIA"
+      ],
+      "location": "Dubai, United Arab Emirates",
+      "brief": "Iran reportedly launched a missile strike targeting a CIA facility in Dubai, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "7d82541ad06a534e",
     "title_original": "# الإمارات_العبرية_المتحدة  الامارات: سماع دوي انفجارين في دبي",
     "content_original": "# الإمارات_العبرية_المتحدة الامارات: سماع دوي انفجارين في دبي",

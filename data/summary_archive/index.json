@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T01-24-56.986497_plus_00-00.json",
+    "generated_at": "2026-03-01T01:24:56.986497+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 255,
+    "summary_preview": "The Iran-US conflict has reached an unprecedented level of escalation as of 28 February 2026. A coordinated US-Israeli preventive strike on Iran has been met with massive Iranian retaliatory attacks a"
+  },
+  {
     "filename": "2026-03-01T01-18-10.116551_plus_00-00.json",
     "generated_at": "2026-03-01T01:18:10.116551+00:00",
     "threat_label": "MAJOR",
