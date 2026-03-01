@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-03-01T18:04:58.843492+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 665,
+    "incident_count_6h": 237,
+    "severity_breakdown": {
+      "major": 262,
+      "high": 268,
+      "medium": 132,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 173,
+    "articles_analyzed": 196,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached a critical inflection point with 665 total incidents in 24h. While kinetic operations continue—US confirmed 3 troops killed in Operation Epic Fury, Iran hit UAE and Gulf targets with ballistic missiles—the most significant development is Trump stating Iran's 'new leadership wants to talk' and IMO advising vessels to avoid the Strait of Hormuz. This signals potential diplomatic off-ramps amid continued military escalation.",
+  "whats_new": [
+    "Trump claims 48 Iranian officials killed, states new Iranian leadership wants to negotiate and he agreed to talks",
+    "IMO issues recommendation for vessels to avoid Strait of Hormuz amid heightened Gulf tensions",
+    "Kuwait reports 1 fatality, 32 injuries at Al Adan Hospital from Iranian attacks",
+    "Iraqi resistance forces attacked US base in Erbil with missiles and drones—three strikes in succession",
+    "Iranian state media reports parts of IRIB (state radio and television) building targeted in Zionist-American attack",
+    "Iranian drones now approaching Israel from Dead Sea direction, per War Monitors"
+  ],
+  "confirmed_events": [
+    "CONFIRMED BY MULTIPLE SOURCES: 3 US service members killed, 5 seriously wounded in ongoing combat operations—first American combat casualties in conflict",
+    "CONFIRMED BY MULTIPLE SOURCES: Iran launched ballistic missiles hitting Dubai Airport and Sharjah, causing fires; UAE reports 3 dead, 58 injured, with 20 missiles/2 cruise missiles/311 drones intercepted",
+    "CONFIRMED BY MULTIPLE SOURCES: IRGC claims to have launched 4 ballistic missiles targeting USS Abraham Lincoln—US has not confirmed strike",
+    "Iran attacked Abu Dhabi port—major escalation against critical UAE infrastructure",
+    "IDF confirms 2,000 bombs dropped on Iran (50% of total from June 2025's 12-Day War)",
+    "US Central Command sank Iranian Jamaran-class corvette in Chabahar Port"
+  ],
+  "unverified_emerging": [
+    "Unconfirmed reports of Israeli strike on Iranian television station in Tehran—War Monitors/TG sources only; Iranian state media later confirmed parts of IRIB building were targeted, suggesting partial corroboration",
+    "Trump claims US destroyed Iran's naval headquarters and nine Iranian ships—specific US confirmation pending; represents claim of major escalation in naval operations"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Dubai Airport targeted—major commercial aviation disruption in region",
+      "IMO advisory to avoid Strait of Hormuz signals HIGH risk to maritime travel",
+      "Turkish-Iran border at Khoy experiencing congestion as Iranians attempt to flee—land border disruption"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz advisory threatens 20% of global oil shipments—potential major supply chain disruption",
+      "Abu Dhabi port attack directly targets critical Gulf logistics infrastructure",
+      "Brent crude jumped 10% to ~$80/barrel, analysts predict possible spike to $100"
+    ],
+    "market_macro": [
+      "Oil prices surge 10% on conflict escalation—market macro impact HIGH",
+      "IMO Strait of Hormuz advisory adds significant energy market uncertainty",
+      "B-2 stealth bomber deployment confirmed—strategic escalation with long-range strike capability"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Military operations will likely continue at current tempo for 24-48h while diplomatic channels open. Iran has demonstrated willingness to strike Gulf targets (UAE, Kuwait) and US bases (Erbil), but the Trump negotiation signal suggests both sides may seek mediated de-escalation. IRGC still retains significant missile capacity; proxy attacks (Hezbollah, Iraqi resistance) will continue. Israel's 2,000-bomb campaign and US carrier targeting suggest peak kinetic phase may be approaching but not yet concluded.",
+    "escalation_risks": [
+      "Iranian counterstrike on US aircraft carrier—CONFIRMED IRGC fired at Lincoln, status unknown; could trigger major naval engagement",
+      "Hezbollah activation—Hezbollah supporters holding mass rallies mourning Khamenei, potential for expanded front against Israel",
+      "Sleeper cell threat inside US—counterterrorism agencies monitoring Iran-linked cells following leadership strikes",
+      "Strait of Hormuz closure—IMO advisory suggests heightened risk; Iran may attempt blockade",
+      "Russian/Chinese intervention—Russia expressing concern, China has strategic interest in Gulf stability"
+    ],
+    "de_escalation_pathways": "Trump's statement that 'new Iranian leadership wants to talk' represents most significant diplomatic signal. Iran's Foreign Minister stated willingness to 'defend our people at any cost' but also signaled openness. Key off-ramps: direct US-Iran negotiations (possibly through Swiss or Omani channels), mutual ceasefire with verified limits on IRGC missile deployments, or negotiated security arrangement for Gulf shipping lanes. However, hardliners on both sides—IRGC commanders promising continued confrontation, Israel with 100,000 reservists mobilized—could override diplomatic momentum."
+  }
+}

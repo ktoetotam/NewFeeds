@@ -1,5 +1,52 @@
 [
   {
+    "id": "3f6a216a44bc2196",
+    "title_original": "\"היו ניסיונות יירוט לטיל שנפל בבית שמש. המיירט החטיא\" | פרטים חדשים מהאסון",
+    "content_original": "גורמים ביטחוניים התייחסו לפגיעה הקטלנית של הטיל האיראני שהביאה למותם של 9: \"התקדמנו בהגנה, אבל אין 100%. איום הטילים הוא קיומי ממש\". על המשך המערכה: \"נפגע בכל מנגנוני הדיכוי. הכוונה היא להסיר את האיום האיראני לחלוטין. זה ייקח זמן, לא יום ולא יומיים. יכול להיות שעוד יהיו ימים לא פשוטים\"",
+    "url": "https://www.ynet.co.il/news/article/ske861ftwe",
+    "published": "2026-03-01T19:49:54+02:00",
+    "fetched_at": "2026-03-01T18:08:52.654104+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "\"היו ניסיונות יירוט לטיל שנפל בבית שמש. המיירט החטיא\" | פרטים חדשים מהאסון",
+    "summary_en": "{\"h\":\"Interception Attempts for Missile That Fell in Beit Shemesh. The Interceptor Miss",
+    "relevant": true,
+    "translated": true
+  },
+  {
+    "id": "ff8ef472c614d3e5",
+    "title_original": "Iranian Foreign Minister admits Iran's armed forces are 'independent, somewhat isolated'",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888422",
+    "published": "2026-03-01T19:45:33+00:00",
+    "fetched_at": "2026-03-01T18:08:53.439255+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "fcc51643c5660b27",
+    "title_original": "המשחק הכפול של הקרמלין: גינויים חריפים על המתקפה לצד רווח אפשרי באוקראינה",
+    "content_original": "לא במקרה קולו של נשיא רוסיה לא נשמע פומבית מאז תחילת המתקפה באיראן. פוטין אמנם שיגר איגרת תנחומים בעקבות חיסול חמינאי, אבל הסטת הקשב של האמריקנים למערכה מול איראן עשויה לתרום להגברת הלחץ בזירה האוקראינית",
+    "url": "https://www.ynet.co.il/news/article/b18kq3ztwg",
+    "published": "2026-03-01T19:42:46+02:00",
+    "fetched_at": "2026-03-01T18:08:52.654328+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "המשחק הכפול של הקרמלין: גינויים חריפים על המתקפה לצד רווח אפשרי באוקראינה",
+    "summary_en": "[API unavailable — Hebrew source]",
+    "translated": false
+  },
+  {
     "id": "c6e235a48ac0babc",
     "title_original": "איראן מונעת ממאות אזרחים לחצות את הגבול לטורקיה: \"לא מאפשרת להם לעזוב\"",
     "content_original": "עדי ראייה סיפרו לרויטרס שאזרחים איראנים שרצו לחצות את הגבול לטורקיה תקועים במעבר הגבול ח'וי בצפון-מערב המדינה, יום אחרי שישראל וארה\"ב פתחו במתקפה. \"אנשים רוצים להגיע לטורקיה אבל לא מורשים להיכנס\". הסיבה לא ברורה, ייתכן שמדובר בתקלה טכנית: \"מערכת בידוק הדרכונים לא עובדת\"",
@@ -14,6 +61,22 @@
     "title_en": "איראן מונעת ממאות אזרחים לחצות את הגבול לטורקיה: \"לא מאפשרת להם לעזוב\"",
     "summary_en": "[API unavailable — Hebrew source]",
     "translated": false
+  },
+  {
+    "id": "25f35def7bccfd5e",
+    "title_original": "War timing likely moved up to preempt anti-war vote in US Congress - analysis",
+    "content_original": "There is no question that the primary thrust of Trump's decision to attack Iran was his belief of the need to remove it as a nuclear threat and as a general threat within the Middle East.",
+    "url": "https://www.jpost.com/american-politics/article-888420",
+    "published": "2026-03-01T19:30:23+00:00",
+    "fetched_at": "2026-03-01T18:08:53.439545+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "War timing likely moved up to preempt anti-war vote in US Congress - analysis",
+    "translated": false,
+    "summary_en": "[API unavailable — English source]"
   },
   {
     "id": "b4cef744fd7cdda5",
@@ -220,6 +283,22 @@
     "skip_translation": true,
     "translated": true,
     "relevant": false
+  },
+  {
+    "id": "56686dcb098d24ef",
+    "title_original": "במסווה של בור ביוב - מנהרה חוצה משטחי איו\"ש נחשפה בצפון ירושלים",
+    "content_original": "פיר מנהרה המקשר בין שטחי יהודה ושומרון לשטחי ישראל, נחשף על ידי לוחמי מג\"ב עוטף ירושלים, באזור צפון ירושלים בקרבת כביש 60 סמוך לקו תפר, בתום סריקות באזור \"הם זיהו בתוך הפיר סולמות מובנים\"",
+    "url": "https://www.maariv.co.il/news/military/article-1290721",
+    "published": "2026-03-01T17:55:27+00:00",
+    "fetched_at": "2026-03-01T18:08:53.224702+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "במסווה של בור ביוב - מנהרה חוצה משטחי איו\"ש נחשפה בצפון ירושלים",
+    "summary_en": "[API unavailable — Hebrew source]",
+    "translated": false
   },
   {
     "id": "f105a27e28d6d251",

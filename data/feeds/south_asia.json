@@ -1,5 +1,22 @@
 [
   {
+    "id": "ddd773a8e76d2cab",
+    "title_original": "Iran raises a red flag over iconic mosque after Khamenei's death: What it means",
+    "content_original": "After the Supreme Leader's killing, Tehran raised what it calls the red “flag of revenge” over the dome of the Jamkaran Mosque.",
+    "url": "https://www.hindustantimes.com/world-news/iran-raises-red-flag-over-iconic-mosque-after-supreme-leaders-death-what-it-means-101772382460873.html",
+    "published": "2026-03-01T23:14:50+05:30",
+    "fetched_at": "2026-03-01T18:09:18.015711+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Iran raises a red flag over iconic mosque after Khamenei's death: What it means",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "After Supreme Leader Khamenei was killed, Tehran raised the red 'flag of revenge' over the dome of the Jamkaran Mosque. This symbolic act signals Iran's intent to retaliate against those responsible for the Supreme Leader's death, representing a major escalation in the ongoing Iran-US conflict and a call to action for Iranian forces and proxies."
+  },
+  {
     "id": "17e5344f44ca13b2",
     "title_original": "Afghanistan says it thwarted Pakistani airstrike on Bagram Air Base",
     "url": "https://www.thehindu.com/news/international/afghanistan-says-it-thwarted-pakistani-airstrike-on-bagram-air-base/article70692661.ece",
@@ -12,6 +29,22 @@
     "skip_translation": true,
     "translated": true,
     "relevant": false
+  },
+  {
+    "id": "32f8c0967814be97",
+    "title_original": "As US-Iran tensions rise, oil emerges as Pakistan’s biggest economic risk",
+    "content_original": "If the war between Iran and the United States escalates, the single biggest economic threat to Pakistan will come from oil. Brent crude settled around $72.5 a barrel on Friday, already up nearly 19 per cent year-to-date, according to CNBC . Rumours are swirling of oil touching $100. For Pakistan, even modest increases carry heavy consequences. For every $10 rise in oil prices, the current account deficit increases by roughly $1.5–$2 billion, explains former chief executive officer of the Pakistan Business Council, Ehsan Malik. “If prices were to climb to $100, the deficit could expand by $5–$7bn on an annualised basis, potentially undoing recent gains that allowed FY25 to post a $2bn current account surplus.” Markets are extremely erratic right now, says energy analyst Syed Rashid Husain. Iran produces roughly 3–3.5 million barrels of oil per day, exporting about 1–1.5m barrels. While this is far lower than the output of the United States (about 13.5m barrels per day) or Saudi Arabia (...",
+    "url": "https://www.dawn.com/news/1977118/as-us-iran-tensions-rise-oil-emerges-as-pakistans-biggest-economic-risk",
+    "published": "2026-03-01T22:59:38+05:00",
+    "fetched_at": "2026-03-01T18:09:16.397807+00:00",
+    "source_name": "Dawn (Pakistan)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "As US-Iran tensions rise, oil emerges as Pakistan’s biggest economic risk",
+    "translated": false,
+    "summary_en": "[API unavailable — English source]"
   },
   {
     "id": "c89c42d96e3d3b4b",
@@ -29,6 +62,34 @@
     "translated": true,
     "summary_en": "{\"h\":\"Hezbollah supporters mourn Khamenei in Lebanon mass rally\",\"r\":true,\"s\":\"Hezbollah supporters held a mass rally in Lebanon to mourn the assassination of Iran's Supreme Leader Khamenei, whom the report states was killed alongside other Iranian officials. Hezbollah",
     "relevant": true
+  },
+  {
+    "id": "3499c4fe1d32c143",
+    "title_original": "Geo News broadcast faces repeated disruptions, has nothing to do with message aired after screen hack",
+    "url": "https://www.geo.tv/latest/653574-geo-news-says-aired-message-after-hack-not-linked-to-channel",
+    "published": "2026-03-01T22:51:00+05:00",
+    "fetched_at": "2026-03-01T18:09:16.593063+00:00",
+    "source_name": "Geo TV (Pakistan)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "2982a9e6a6b2e81a",
+    "title_original": "Samson’s 97 puts India into T20 World Cup semi-final against England",
+    "url": "https://www.dawn.com/news/1977119/samsons-97-puts-india-into-t20-world-cup-semi-final-against-england",
+    "published": "2026-03-01T22:49:37+05:00",
+    "fetched_at": "2026-03-01T18:09:16.396130+00:00",
+    "source_name": "Dawn (Pakistan)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
   },
   {
     "id": "a6082d2571cb18fa",

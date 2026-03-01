@@ -180,6 +180,312 @@
     "lng": 54.0
   },
   {
+    "id": "f1a84f7819c86ffe",
+    "title_original": "США и Израиль ударили по больнице в центре Тегерана",
+    "content_original": "США и Израиль ударили по больнице в центре Тегерана",
+    "url": "https://ria.ru/20260301/bolnitsa-2077732368.html",
+    "published": "2026-03-01T21:06:22+03:00",
+    "fetched_at": "2026-03-01T18:08:46.500296+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "USA and Israel strike hospital in central Tehran",
+    "relevant": true,
+    "summary_en": "US and Israeli forces carried out a strike on a hospital in central Tehran, marking a significant escalation in the ongoing Iran-US conflict. The attack on a civilian medical facility represents a major intensification of hostilities against Iranian territory, potentially targeting Iranian leadership or military assets operating within the capital.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "USA",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "US and Israeli forces struck a hospital in central Tehran, marking a major escalation with direct attacks on Iranian territory and civilian infrastructure."
+    },
+    "merged_source_count": 4,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "224264a9e08998d4",
+    "title_original": "Иракские шииты заявили об ударе дронами по американской базе в Эрбиле",
+    "content_original": "Иракские шииты заявили об ударе дронами по американской базе в Эрбиле",
+    "url": "https://ria.ru/20260301/iran-2077731547.html",
+    "published": "2026-03-01T21:02:16+03:00",
+    "fetched_at": "2026-03-01T18:08:46.500696+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iraqi Shia Groups Claim Drone Strike on US Base in Erbil",
+    "relevant": true,
+    "summary_en": "Iraqi Shia militant groups claimed responsibility for a drone attack on the American military base in Erbil, Iraq. This marks another in a series of Iranian proxy attacks on US forces in Iraq, following the broader escalation between Iran and the United States.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "proxy",
+      "attack",
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Iranian proxies",
+        "Iraqi Shia groups",
+        "United States",
+        "Iraq"
+      ],
+      "location": "Erbil, Iraq",
+      "brief": "Iraqi Shia militant groups claimed a drone strike on a US military base in Erbil, marking another Iranian proxy attack on US forces amid broader Iran-US escalation."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "fea4fcfca283f05c",
+    "title_original": "Der Spiegel сообщил об обстреле Ираном баз с немецкими солдатами",
+    "content_original": "Иран обстрелял базы в Ираке и Иордании, где в том числе дислоцированы немецкие военнослужащие, пишет Der Spiegel.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a47d759a79472e707f9000",
+    "published": "2026-03-01T20:57:07+03:00",
+    "fetched_at": "2026-03-01T18:08:52.312842+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Der Spiegel reports Iran shelled bases with German soldiers",
+    "relevant": true,
+    "summary_en": "Iran shelled bases in Iraq and Jordan where German military personnel are stationed, according to Der Spiegel. This represents an expansion of Iranian attacks to target facilities with German (NATO ally) forces, potentially increasing the risk of broader coalition involvement in the conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Germany",
+        "Iraq",
+        "Jordan",
+        "NATO"
+      ],
+      "location": "Iraq, Jordan",
+      "brief": "Iran expanded attacks to shell bases in Iraq and Jordan hosting German military personnel, risking broader NATO coalition involvement in the conflict."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "eb7f65ec929e80db",
+    "title_original": "В КСИР заявили, что после иранских ударов 560 военных США погибли и получили ранения",
+    "content_original": "В результате ударов Ирана по местам дислокации войск США на Ближнем Востоке погибли и получили ранения около 560 американских военных. Об этом заявил Корпус стражей исламской революции (КСИР) Ирана, сообщает Khabarpu.",
+    "url": "https://www.kommersant.ru/doc/8477576",
+    "published": "2026-03-01T20:54:52+03:00",
+    "fetched_at": "2026-03-01T18:08:51.028532+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "В КСИР заявили, что после иранских ударов 560 военных США погибли и получили ранения",
+    "summary_en": "{\"h\":\"IRGC claims 560 US military personnel killed and wounded after Iranian strikes\",\"r\":true,\"s\":\"The Islamic Revolutionary Guard Corps (IRGC) claimed that approximately 560 US military personnel were killed and wounded as a result of Iranian strikes on US military installations in the Middle East. The claim was reported by Khabarpu,",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "wounded",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States"
+      ],
+      "location": "Middle East",
+      "brief": "IRGC claims Iranian strikes on US military installations in the Middle East resulted in approximately 560 US military personnel killed and wounded"
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "b41e397d81026aa5",
+    "title_original": "СМИ: офис гостелевидения Ирана подвергся удару со стороны США и Израиля",
+    "content_original": "СМИ: офис гостелевидения Ирана подвергся удару со стороны США и Израиля",
+    "url": "https://ria.ru/20260301/iran-2077728845.html",
+    "published": "2026-03-01T20:47:35+03:00",
+    "fetched_at": "2026-03-01T18:08:46.503076+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Media: office of Iranian state television hit by US and Israel",
+    "relevant": true,
+    "summary_en": "US and Israeli forces struck the office of Iran's state television broadcaster (IRIB). This represents an attack on Iranian media infrastructure, likely as part of efforts to disrupt Iranian communications and propaganda capabilities during the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (Tehran)",
+      "brief": "US and Israeli forces struck the office of Iran's state television broadcaster IRIB in an attack targeting Iranian media and propaganda infrastructure."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "bf4550d1280690f2",
+    "title_original": "Системы ПВО ОАЭ отразили атаку иранских БПЛА на арсенал военно-морской базы",
+    "content_original": "Как указали в Минобороны Объединенных Арабских Эмиратов, жертв нет",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26602555",
+    "published": "2026-03-01T20:47:31+03:00",
+    "fetched_at": "2026-03-01T18:08:45.808239+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAE Air Defense Repelled Iranian Drone Attack on Naval Base Arsenal",
+    "relevant": true,
+    "summary_en": "UAE air defense systems successfully intercepted and repelled an Iranian drone attack targeting an arsenal at a naval base. According to the UAE Ministry of Defense, there were no casualties. The attack demonstrates continued Iranian proxy or direct strikes on US-allied Gulf states as part of the broader Iran-US conflict escalation.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "air defense",
+      "drone",
+      "conflict",
+      "attack",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States (ally)"
+      ],
+      "location": "UAE Naval Base",
+      "brief": "UAE air defense repelled an Iranian drone attack on a naval base arsenal with no casualties reported, demonstrating continued Iranian strikes on US-allied Gulf states."
+    },
+    "lat": 13.0704914,
+    "lng": 42.6627364
+  },
+  {
+    "id": "12d95143fec2399b",
+    "title_original": "Гибель лидера Ирана, потери и нарушение перевозок. Конфликт на Ближнем Востоке",
+    "content_original": "Иранские силы поразили в Персидском заливе и Ормузском проливе три танкера, принадлежащие США и Британии, поток крупных судов в регионе практически прекратился",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26602235",
+    "published": "2026-03-01T20:47:28+03:00",
+    "fetched_at": "2026-03-01T18:08:45.808431+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Гибель лидера Ирана, потери и нарушение перевозок. Конфликт на Ближнем Востоке",
+    "summary_en": "{\"h\":\"Death of Iranian leader, losses and transport disruption. Conflict in the Middle East\",\"r\":true,\"s\":\"Iranian forces struck three tankers belonging to the USA and Britain in the Persian Gulf and Strait of Hormuz, effectively halting the flow of large vessels through the strategic waterway. This attack marks a significant escalation in",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "United Kingdom"
+      ],
+      "location": "Persian Gulf, Strait of Hormuz",
+      "brief": "Iranian forces struck three US and British tankers in the Persian Gulf and Strait of Hormuz, halting large vessel traffic through the strategic waterway."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "d76b840d9a811430",
+    "title_original": "Tasnim сообщило о гибели шести сотрудников ЦРУ при ударе Ирана по ОАЭ",
+    "content_original": "Tasnim сообщило о гибели шести сотрудников ЦРУ при ударе Ирана по ОАЭ",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26602527",
+    "published": "2026-03-01T20:46:18+03:00",
+    "fetched_at": "2026-03-01T18:08:45.809028+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tasnim Reports Six CIA Employees Killed in Iranian Strike on UAE",
+    "relevant": true,
+    "summary_en": "Iran launched a strike on the United Arab Emirates resulting in the deaths of six CIA employees, according to Tasnim news agency. The attack represents a significant escalation targeting US intelligence personnel stationed in the UAE, which hosts major US military facilities including Al-Minhad Air Base. This incident marks one of the first reports of direct US intelligence community casualties in the current Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "strike",
+      "conflict",
+      "deaths",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates",
+        "CIA"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "Iran launched a strike on the UAE killing six CIA employees, marking a significant escalation in direct US-Iran engagement."
+    },
+    "merged_source_count": 2,
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "e3457b3a1d7fd62e",
     "title_original": "Donald Trump hosts fundraiser at Mar-a-Lago as Middle East lights up with Iranian missiles targeting US and its allies",
     "content_original": "While Iran vowed retaliation for airstrikes that reportedly killed its Supreme Leader, President Trump attended a Mar-a-Lago fundraiser. He mingled with donors and danced to music as US military prepared joint strikes on Iran. Trump later announced the war's commencement on Truth Social.",
@@ -510,6 +816,42 @@
     },
     "lat": 26.0,
     "lng": 52.0
+  },
+  {
+    "id": "3f6a216a44bc2196",
+    "title_original": "\"היו ניסיונות יירוט לטיל שנפל בבית שמש. המיירט החטיא\" | פרטים חדשים מהאסון",
+    "content_original": "גורמים ביטחוניים התייחסו לפגיעה הקטלנית של הטיל האיראני שהביאה למותם של 9: \"התקדמנו בהגנה, אבל אין 100%. איום הטילים הוא קיומי ממש\". על המשך המערכה: \"נפגע בכל מנגנוני הדיכוי. הכוונה היא להסיר את האיום האיראני לחלוטין. זה ייקח זמן, לא יום ולא יומיים. יכול להיות שעוד יהיו ימים לא פשוטים\"",
+    "url": "https://www.ynet.co.il/news/article/ske861ftwe",
+    "published": "2026-03-01T19:49:54+02:00",
+    "fetched_at": "2026-03-01T18:08:52.654104+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "\"היו ניסיונות יירוט לטיל שנפל בבית שמש. המיירט החטיא\" | פרטים חדשים מהאסון",
+    "summary_en": "{\"h\":\"Interception Attempts for Missile That Fell in Beit Shemesh. The Interceptor Miss",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Hezbollah",
+        "Houthis"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Ballistic missile fell in Beit Shemesh Israel with failed interception attempts"
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "6dbd59b7353b42a4",
@@ -1247,6 +1589,42 @@
     "lng": 178.0431614
   },
   {
+    "id": "50b80b4a2364e67e",
+    "title_original": "Three US soldiers were killed in attack in Kuwait: Report",
+    "content_original": "Three US soldiers were killed in attack in Kuwait: Report The attack that killed three US soldiers occurred in Kuwait, NBC News reported, citing US officials. US Central Command confirmed on Sunday that three service members died and five others sustained serious injuries. Officials have not yet released further details about the circumstances of the attack.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-us-soldiers-were-killed-attack-kuwait-report",
+    "published": "2026-03-01T18:05:38+00:00",
+    "fetched_at": "2026-03-01T18:09:00.409495+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Three US soldiers killed in attack in Kuwait: Report",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US soldiers were killed and five others injured in an attack in Kuwait, according to US Central Command. The attack occurred in Kuwait, a key US ally hosting American military bases in the Gulf region. Officials have not yet released details on the circumstances or perpetrators of the attack.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Kuwait",
+        "Unknown attackers (potentially Iran-backed)"
+      ],
+      "location": "Kuwait",
+      "brief": "Three US soldiers killed and five injured in an attack on a US ally in the Gulf region, with perpetrators yet to be identified."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "b34527a859627368",
     "title_original": "Число погибших при ударе по школе в Иране достигло 153",
     "content_original": "Число погибших при ударе по школе в Иране достигло 153",
@@ -1357,6 +1735,81 @@
     "lng": 54.38
   },
   {
+    "id": "25c2b7e506b484d9",
+    "title_original": "🔺  IRGC: Three US and English oil tankers were hit by Iranian missiles. @PressTV",
+    "content_original": "🔺 IRGC: Three US and English oil tankers were hit by Iranian missiles. @PressTV",
+    "url": "https://t.me/presstv/177494",
+    "published": "2026-03-01T17:56:03+00:00",
+    "fetched_at": "2026-03-01T18:09:35.544367+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC: Three US and English oil tankers were hit by Iranian missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC claims Iranian missiles struck three US and British oil tankers. This represents a significant escalation in the Iran-US conflict, targeting critical energy infrastructure and shipping in the Gulf region, threatening global oil supply routes.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "Iran",
+        "United States",
+        "United Kingdom"
+      ],
+      "location": "Gulf region",
+      "brief": "IRGC claims Iranian ballistic missiles struck three US and British oil tankers in the Gulf, marking a significant escalation targeting critical energy infrastructure and global oil supply routes."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "086e50c9cd106072",
+    "title_original": "US and Israeli attack on Iran: At least 153 girls killed in strike on school",
+    "content_original": "US and Israeli attack on Iran: At least 153 girls killed in strike on school At least 153 people, almost all of them young girls, have been killed in an air strike on a primary school in&nbsp;southern&nbsp; Iran , according to the city’s governor. The attack on Saturday morning hit Shajareh Tayyebeh school in the city of Minab, in Hormozgan province, as the&nbsp; United States &nbsp;and&nbsp; Israel&nbsp; began launching strikes on targets across Iran. The victims were between seven and 12 years old, according to Iran's Tasnim and Fars news agencies. A staff member at the Minab school, who asked not to be named, told Middle East Eye she remains in shock at the intensity of the attack. Through tears, she said she used to watch the young girls playing at school every day. After today’s strikes, however, she saw their bodies lying on classroom benches and in different corners of the school. Read more:&nbsp; US and Israeli attack on Iran: At least 153 girls killed in strike on school &nbsp...",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-israeli-attack-iran-least-153-girls-killed-strike-school",
+    "published": "2026-03-01T17:54:13+00:00",
+    "fetched_at": "2026-03-01T18:09:00.409767+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US and Israeli attack on Iran: At least 153 girls killed in strike on school",
+    "translated": true,
+    "summary_en": "{\"h\":\"US and Israeli attack on Iran: At least 153 girls killed in strike on school\",\"r\":true,\"s\":\"US and Israeli forces launched an air",
+    "relevant": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US and Israeli forces conducted a deadly airstrike on a school in Iran, killing at least 153 girls in a major direct engagement resulting in mass civilian casualties."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "64c2f5c101af5823",
     "title_original": "Ракета упала рядом с круизным лайнером с 3,5 тыс. человек в Абу-Даби",
     "content_original": "Ракета неизвестного происхождения упала рядом с портом в Абу-Даби, где был пришвартован круизный лайнер&nbsp;Mein Schiff 4,&nbsp;принадлежащий германскому туристическому концерну TUI, сообщает Bild.",
@@ -1427,6 +1880,76 @@
       "brief": "The US and Israel conducted a major airstrike on an Iranian school resulting in 153 fatalities, marking a significant escalation in the conflict."
     },
     "merged_source_count": 6,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "cffc2868f570deae",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷   Satellite images show the destruction at the Chabahar/Konarak naval and airbase, eastern Iran. A drone fac...",
+    "content_original": "🇺🇸 ⚔️ 🇮🇷 Satellite images show the destruction at the Chabahar/Konarak naval and airbase, eastern Iran. A drone facility, multiple bunkers, reinforced aircraft shelters and several ships were destroyed or damaged to varying degrees. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69897",
+    "published": "2026-03-01T17:52:40+00:00",
+    "fetched_at": "2026-03-01T18:09:41.288912+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Satellite images show destruction at Chabahar/Konarak naval and airbase in eastern Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Satellite imagery reveals extensive damage to Iran's Chabahar/Konarak naval and airbase following US strikes. The attack destroyed or damaged a drone facility, multiple bunkers, reinforced aircraft shelters, and several ships to varying degrees. The destruction of this strategic eastern Iranian base represents a significant degradation of Iran's naval and drone capabilities in the Gulf of Oman region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Chabahar/Konarak, eastern Iran",
+      "brief": "US strikes on Iran's strategic Chabahar/Konarak naval and airbase caused extensive destruction to drone facilities, bunkers, aircraft shelters, and multiple ships."
+    },
+    "lat": 25.29,
+    "lng": 60.64
+  },
+  {
+    "id": "286a3c4303c6843e",
+    "title_original": "🚨 حملات هوایی آمریکا به کرج ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅ ...",
+    "content_original": "🚨 حملات هوایی آمریکا به کرج ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44983",
+    "published": "2026-03-01T17:52:15+00:00",
+    "fetched_at": "2026-03-01T18:09:45.173410+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "🚨 حملات هوایی آمریکا به کرج ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅ ...",
+    "summary_en": "{\"h\":\"US Air Attacks on Karaj\",\"r\":true,\"s\":\"US air forces have conducted strikes on targets in Karaj, Iran. Karaj is a major city in Alborz province, located near Tehran. This represents a significant escalation in US military operations directly targeting Iranian territory during the ongoing Iran-US armed conflict.\"",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Karaj, Alborz Province, Iran",
+      "brief": "US conducted air strikes on targets in Karaj near Tehran, marking significant escalation of direct US military operations against Iranian territory."
+    },
     "lat": 32.65,
     "lng": 54.56
   },
