@@ -1,5 +1,44 @@
 [
   {
+    "id": "b5a12c8fb8ae62d6",
+    "title_original": "Khamenei — the supreme leader who held ultimate control over Iran’s political, military, religious institutions",
+    "content_original": "Iran’s Supreme Leader Ayatollah Ali Khamenei, who ruled he Islamic republic for over 30 years, has been killed in a an strike by US and Israel — the two countries that had been calling for a regime change in Tehran. Khamenei, 86, became Iran’s highest authority in 1989, following the death of the Islamic Republic’s founder, Ayatollah Ruhollah Khomeini. He remained in power after overcoming 1999 student demonstrations, 2009 mass protests sparked by disputed presidential elections and 2019 demonstrations that were brutally suppressed. He also survived the 2022-2023 “Woman, Life, Freedom” movement sparked by the death in custody of Iranian Kurdish woman Mahsa Amini, who had been arrested for allegedly violating the strict dress code for women. As supreme leader, he held ultimate control over Iran’s political, military and religious institutions, shaping domestic policy and guiding foreign relations. An article published in Al Jazeera said “critical to Khamenei’s power is the loyalty of tw...",
+    "url": "https://www.dawn.com/news/1976762/khamenei-the-supreme-leader-who-held-ultimate-control-over-irans-political-military-religious-institutions",
+    "published": "2026-03-01T07:41:09+05:00",
+    "fetched_at": "2026-03-01T02:44:32.397778+00:00",
+    "source_name": "Dawn (Pakistan)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Khamenei killed in US-Israel strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader Ayatollah Ali Khamenei has been killed in a strike by the US and Israel. This event marks a significant escalation in the ongoing conflict, as Khamenei was the ultimate authority over Iran's political, military, and religious institutions. His death could lead to further instability within Iran and potentially provoke a strong response from Iranian forces against US and Israeli interests in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "killed",
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US and Israel conduct a strike that kills Iran's Supreme Leader Ayatollah Ali Khamenei, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "1b1b4bc0bdd27094",
     "title_original": "Iran-Israel conflict LIVE: Israel launches fresh strikes on Iran missile, air defence sites",
     "content_original": "The United States and Israel defended their attacks on Iran, which called resulting civilian deaths a \"war crime\" during an UNSC emergency meeting",
@@ -151,6 +190,76 @@
     "lng": 54.0
   },
   {
+    "id": "781d603a653835fb",
+    "title_original": "На севере Израиля перехватили БПЛА",
+    "content_original": "На севере Израиля перехватили БПЛА, который был запущен из Ирана. В регионе прозвучали сирены, оповещающие о воздушной атаке.",
+    "url": "https://www.kommersant.ru/doc/8477274",
+    "published": "2026-03-01T05:41:00+03:00",
+    "fetched_at": "2026-03-01T02:44:08.556094+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drone Intercepted in Northern Israel",
+    "relevant": true,
+    "summary_en": "A drone launched from Iran was intercepted in northern Israel, triggering air raid sirens in the region. This incident highlights ongoing tensions and potential escalation between Iran and Israel amid the broader conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "raid",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Northern Israel",
+      "brief": "An Iranian drone was intercepted in northern Israel, escalating tensions between the two nations."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "1810e02fd1ec8782",
+    "title_original": "Al Jazeera: на северо-востоке Тегерана произошли мощные взрывы",
+    "content_original": "Al Jazeera: на северо-востоке Тегерана произошли мощные взрывы",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26595565",
+    "published": "2026-03-01T05:35:35+03:00",
+    "fetched_at": "2026-03-01T02:44:03.269804+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Powerful Explosions Reported in Northeast Tehran",
+    "relevant": true,
+    "summary_en": "Explosions occurred in northeast Tehran, likely impacting Iranian infrastructure or military assets. This could be part of ongoing US strikes targeting Iran's capabilities or internal sabotage. The incident's strategic significance depends on the target and extent of damage, potentially affecting Iran's war efforts or morale.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Northeast Tehran, Iran",
+      "brief": "Explosions in northeast Tehran likely indicate US strikes targeting Iranian military or infrastructure assets, representing a significant escalation in regional tensions."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "01a0fd9d447c20dc",
     "title_original": "Trump properties in Dubai attacked? Claim viral amid Palm Jumeirah fire as Iran strikes back",
     "content_original": "Iran unleashed a massive missile and drone attack, with Dubai facing the brunt of it, after the US and Israel mounted an offensive.&nbsp;",
@@ -188,6 +297,47 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "808f2287561781cb",
+    "title_original": "КСИР объявил о начале самого мощного наступления в истории Ирана",
+    "content_original": "Иран начнет самую мощную наступательную операцию в его истории &laquo;через несколько мгновений&raquo;, сообщила пресс-служба Корпуса стражей исламской революции (КСИР) на фоне смерти верховного лидера Али Хаменеи.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a3a3689a79477c9abe164d",
+    "published": "2026-03-01T05:26:50+03:00",
+    "fetched_at": "2026-03-01T02:44:10.297841+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Announces Start of Iran's Most Powerful Offensive in History",
+    "relevant": true,
+    "summary_en": "The IRGC has declared the commencement of Iran's most powerful offensive operation in history, coinciding with the death of Supreme Leader Ali Khamenei. This suggests a significant escalation in the ongoing conflict, potentially aimed at US forces and regional allies. The timing and scale of the operation could dramatically shift the dynamics of the war and provoke a strong response from the US and its allies.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "war",
+      "offensive",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US",
+        "regional allies"
+      ],
+      "location": "Middle East",
+      "brief": "The IRGC has announced the start of Iran's most powerful offensive in history, indicating a major escalation in the Iran-US conflict following the death of Supreme Leader Ali Khamenei."
+    },
+    "merged_source_count": 4,
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "c413ef5aae65dd41",
@@ -917,6 +1067,40 @@
     "lng": 34.8
   },
   {
+    "id": "12f62f8dfd23599e",
+    "title_original": "Pezeshkian condemns ‘savage’ US-Israeli attack on school that killed nearly 90",
+    "content_original": "Pezeshkian condemns ‘savage’ US-Israeli attack on school that killed nearly 90",
+    "url": "https://presstv.ir/Detail/2026/02/28/764841/pezeshkian-condemns-savage-us-israeli-attack-school-that-killed",
+    "published": "2026-03-01T02:43:55.397665+00:00",
+    "fetched_at": "2026-03-01T02:43:55.397667+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Pezeshkian condemns US-Israeli attack on school killing nearly 90",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Mohammad Reza Pezeshkian, an Iranian official, condemned a US-Israeli attack on a school that resulted in nearly 90 casualties. The incident likely occurred in a region where US and Israeli forces are active, such as Gaza or Lebanon. This highlights the ongoing conflict and its impact on civilian infrastructure, potentially escalating regional tensions.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Gaza or Lebanon",
+      "brief": "Iranian official condemns US-Israeli attack on a school resulting in nearly 90 casualties, highlighting ongoing conflict and its impact on civilians."
+    }
+  },
+  {
     "id": "f9660ccb5cc0a563",
     "title_original": "Al Jazeera: силы ПВО Катара отражают ракетную атаку Ирана",
     "content_original": "Системы противовоздушной обороты сбили несколько ракет над Дохой, сообщил телеканал",
@@ -953,6 +1137,44 @@
     },
     "lat": 25.29,
     "lng": 51.53
+  },
+  {
+    "id": "4f2aa18f8aa8e931",
+    "title_original": "IRGC announces start of 'most devastating offensive operation in history of Iran'",
+    "content_original": "IRGC announces start of 'most devastating offensive operation in history of Iran' The Iranian Revolutionary Guard Corps (IRGC) has announced the start of “the most devastating offensive operation in the history of the Islamic Republic of Iran”. The offensive will begin in “just moments”, the IRGC said, and will target the “occupied territories and American terrorist bases” in the region.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-announces-start-most-devastating-offensive-operation-history-iran",
+    "published": "2026-03-01T02:41:00+00:00",
+    "fetched_at": "2026-03-01T02:44:18.168171+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "IRGC announces start of 'most devastating offensive operation in history of Iran'",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC declared the commencement of its most devastating offensive operation targeting 'occupied territories and American terrorist bases' in the region. This suggests imminent large-scale attacks on US forces and interests in Iraq, Syria, and the Gulf. The announcement marks a significant escalation in the ongoing conflict, indicating potential heightened hostilities and threats to US military assets.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "offensive",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US",
+        "US Military"
+      ],
+      "location": "Middle East (Iraq, Syria, Gulf region)",
+      "brief": "IRGC announces the start of a major offensive operation targeting US forces and interests in the Middle East, indicating imminent large-scale attacks on occupied territories and American bases."
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "d89d57f82872b3a0",
@@ -1126,6 +1348,44 @@
     },
     "lat": 32.08,
     "lng": 34.78
+  },
+  {
+    "id": "5a4a1abb9ee9738a",
+    "title_original": "— ❗️ 🇮🇷 / 🇮🇷 / 🇮🇱  BREAKING:  Hezbollah joins the war against Israel and the United States @Middle_East_Spectator",
+    "content_original": "— ❗️ 🇮🇷 / 🇮🇷 / 🇮🇱 BREAKING: Hezbollah joins the war against Israel and the United States @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69743",
+    "published": "2026-03-01T02:25:44+00:00",
+    "fetched_at": "2026-03-01T02:44:53.444263+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Hezbollah joins the war against Israel and the United States",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Hezbollah has entered the conflict, escalating tensions by engaging in military actions against both Israel and the United States. This development marks a significant expansion of hostilities in the region, with potential implications for the stability of Lebanon and the broader Middle East. The involvement of Hezbollah, a key Iranian proxy, indicates a potential coordination of efforts between Iran and its allies against US and Israeli interests.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "proxy",
+      "war",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "United States"
+      ],
+      "location": "Lebanon",
+      "brief": "Hezbollah has escalated the conflict by engaging in military actions against both Israel and the United States, significantly expanding hostilities in the region."
+    },
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "ef618ecb15cd8400",
@@ -1309,6 +1569,43 @@
       "location": "Unspecified proxy region",
       "brief": "The message celebrating the death of an enemy combatant indicates ongoing proxy operations and hostilities between Iran-backed groups and likely US-aligned forces."
     }
+  },
+  {
+    "id": "27fecefc0a003058",
+    "title_original": "Dubai Airport LIVE: Major air hub struck as Iran launches drone strikes on UAE",
+    "content_original": "Dubai airport 'struck by Iranian drone'",
+    "url": "https://www.express.co.uk/news/world/2176751/dubai-airport-live-iran-attack-uae-us",
+    "published": "2026-03-01T02:15:00+00:00",
+    "fetched_at": "2026-03-01T02:44:46.572458+00:00",
+    "source_name": "Daily Express",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Dubai Airport Struck by Iranian Drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched drone strikes targeting Dubai Airport in the UAE. This attack on a major international air hub represents a significant escalation of hostilities in the region. The strike will likely prompt a strong response from the US and its allies, given the strategic importance of the UAE to global trade and regional security.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran launched drone strikes on Dubai Airport, a major escalation targeting a critical international hub, likely prompting strong US and allied response."
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "afe25eba75e658e0",
@@ -5278,6 +5575,44 @@
       "location": "Tehran, Iran",
       "brief": "The assassination of Iran's Supreme Leader Ali Khamenei by Israel marks a critical escalation, potentially triggering a direct and severe response from Iran against Israel and its allies in the region."
     },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "ceb9e02ed6c6f937",
+    "title_original": "Iran's Ali Khamenei, who based iron rule on fiery hostility to US and Israel, dies at 86",
+    "content_original": "By Parisa Hafezi WASHINGTON, Feb. 28 (Reuters) - The 36-year rule of Ayatollah Ali Khamenei built Iran into a powerful anti-U.S. force, spreading its military sway across the Middle East, while using an iron fist to crush repeated unrest at home. He was killed on Saturday, aged 86, Iranian state media announced, in air strikes by Israel and the U.S. that pulverised his central Tehran compound, after decades of efforts to resolve the dispute over Iran's nuclear program diplomatically failed.",
+    "url": "https://www.al-monitor.com/originals/2026/02/irans-ali-khamenei-who-based-iron-rule-fiery-hostility-us-and-israel-dies-86",
+    "published": "2026-02-28T21:36:45-05:00",
+    "fetched_at": "2026-03-01T02:44:18.347625+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran's Supreme Leader Ali Khamenei killed in US-Israel airstrikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader Ayatollah Ali Khamenei was killed in airstrikes conducted by the US and Israel on his central Tehran compound. This marks a significant escalation in the ongoing conflict, as Khamenei had been a key figure in Iran's anti-US stance and regional military strategy. The failure of diplomatic efforts to resolve Iran's nuclear program likely contributed to this decisive military action.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "US and Israel conduct airstrikes killing Iran's Supreme Leader Ali Khamenei, marking a major escalation in the conflict."
+    },
+    "merged_source_count": 4,
     "lat": 35.69,
     "lng": 51.39
   },
