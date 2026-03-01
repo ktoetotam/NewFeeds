@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T06-18-34.236767_plus_00-00.json",
+    "generated_at": "2026-03-01T06:18:34.236767+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 331,
+    "summary_preview": "The Iran-US conflict has reached a critical inflection point following US-Israeli strikes on Iran that reportedly killed Supreme Leader Khamenei. Iran has launched comprehensive retaliatory attacks—ba"
+  },
+  {
     "filename": "2026-03-01T05-41-54.489842_plus_00-00.json",
     "generated_at": "2026-03-01T05:41:54.489842+00:00",
     "threat_label": "MAJOR",
