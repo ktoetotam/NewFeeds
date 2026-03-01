@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T07-59-38.321997_plus_00-00.json",
+    "generated_at": "2026-03-01T07:59:38.321997+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 378,
+    "summary_preview": "The Iran–US armed conflict has reached MAJOR escalation levels following US-Israeli 'Operation Epic Fury' strikes on 2026-02-28, with Iran responding through mass ballistic missile and drone attacks a"
+  },
+  {
     "filename": "2026-03-01T07-37-12.287157_plus_00-00.json",
     "generated_at": "2026-03-01T07:37:12.287157+00:00",
     "threat_label": "MAJOR",
