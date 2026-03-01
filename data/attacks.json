@@ -190,6 +190,47 @@
     "lng": 55.27
   },
   {
+    "id": "c413ef5aae65dd41",
+    "title_original": "Fars: КСИР анонсировал наступление против Израиля и баз США в ближайшие минуты",
+    "content_original": "Fars: КСИР анонсировал наступление против Израиля и баз США в ближайшие минуты",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26595547",
+    "published": "2026-03-01T05:21:32+03:00",
+    "fetched_at": "2026-03-01T02:24:10.961679+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Announces Imminent Offensive Against Israel and US Bases",
+    "relevant": true,
+    "summary_en": "The IRGC has announced an imminent offensive targeting Israel and US bases, signaling a significant escalation in the conflict. This announcement indicates potential missile or drone attacks on US military installations in the region and Israeli targets. The strategic significance lies in the direct confrontation with US forces and the broadening of the conflict's scope to include Israel.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "missile",
+      "irgc",
+      "drone",
+      "offensive",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|irgc_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Israel",
+        "US",
+        "Hezbollah"
+      ],
+      "location": "Middle East (Israel, US military bases)",
+      "brief": "The IRGC has announced an imminent offensive targeting Israel and US bases, indicating a major escalation with potential missile or drone attacks on critical military installations."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "61baf7f33fb8442b",
     "title_original": "Dubai Airport to Burj Al Arab - Full list of UAE locations damaged in Iranian attack",
     "content_original": "Explosions and drone incidents hit key locations in Dubai after Iran fired missiles in retaliation for US-Israeli strikes.",
@@ -224,6 +265,78 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "dc4b4cb9fafd1c6f",
+    "title_original": "СМИ: ПВО Тегерана отражает атаку",
+    "content_original": "СМИ: ПВО Тегерана отражает атаку",
+    "url": "https://ria.ru/20260301/pvo-2077578650.html",
+    "published": "2026-03-01T05:18:14+03:00",
+    "fetched_at": "2026-03-01T02:24:11.214793+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tehran Air Defenses Repel Attack",
+    "relevant": true,
+    "summary_en": "Iranian air defenses in Tehran intercepted and repelled an aerial attack, indicating ongoing hostilities within Iranian territory. This event highlights the continued threat under which Iranian urban centers operate amidst the conflict. The attack's source and success rate of interception remain unspecified but suggest active engagement by Iranian military assets.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Unknown attacker (likely US or allied forces)"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Iranian air defenses in Tehran intercepted and repelled an aerial attack, indicating ongoing hostilities and threats to Iranian urban centers."
+    },
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "82eb464094fa9738",
+    "title_original": "СМИ: иранский БПЛА пролетел рядом с \"Бурдж-Халифой\" и взорвался",
+    "content_original": "СМИ: иранский БПЛА пролетел рядом с \"Бурдж-Халифой\" и взорвался",
+    "url": "https://ria.ru/20260301/bpla-2077578383.html",
+    "published": "2026-03-01T05:13:48+03:00",
+    "fetched_at": "2026-03-01T02:24:11.215251+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Drone flies near Burj Khalifa and explodes in Dubai",
+    "relevant": true,
+    "summary_en": "An Iranian drone reportedly flew near the Burj Khalifa in Dubai and detonated. This incident highlights the potential for Iranian drone operations to target high-profile locations in the UAE, escalating regional tensions and posing security concerns for Gulf states allied with the US.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US allies"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "An Iranian drone detonated near the Burj Khalifa in Dubai, escalating regional tensions and posing security concerns for US-allied Gulf states."
+    },
+    "merged_source_count": 4,
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "49b8084eeb765ce4",
@@ -1015,6 +1128,44 @@
     "lng": 34.78
   },
   {
+    "id": "ef618ecb15cd8400",
+    "title_original": "Watch: How US-Israel strikes on Iran unfolded",
+    "content_original": "Iran launched retaliatory attacks in the Middle East after US-Israel strikes across the country.",
+    "url": "https://www.bbc.com/news/videos/clyv5rnd8r0o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-03-01T02:23:51+00:00",
+    "fetched_at": "2026-03-01T02:24:50.460435+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "US-Israel strikes on Iran and Iranian retaliation in the Middle East",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel conducted strikes on Iran, prompting retaliatory attacks by Iran across the Middle East. This signifies an escalation in the conflict with multiple actors engaging in direct military actions, highlighting the regional implications and potential for further escalation.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "IRGC",
+        "Hezbollah",
+        "Houthis"
+      ],
+      "location": "Middle East",
+      "brief": "The US and Israel conducted strikes on Iran, prompting retaliatory attacks by Iran across the Middle East, indicating a significant escalation in the conflict with multiple actors engaging in direct military actions."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "281e41467addec27",
     "title_original": "СМИ: США не ожидают сильного изменения цен на нефть после удара по Ирану",
     "content_original": "СМИ: США не ожидают сильного изменения цен на нефть после удара по Ирану",
@@ -1046,6 +1197,118 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "59fb098858aef235",
+    "title_original": "#الجمهورية_الإسلامية   الحرس الثوري: أعنف عملية هجومية في تاريخ القوات المسلحة للجمهورية الإسلامية الإيرانية ستبدأ خل...",
+    "content_original": "#الجمهورية_الإسلامية الحرس الثوري: أعنف عملية هجومية في تاريخ القوات المسلحة للجمهورية الإسلامية الإيرانية ستبدأ خلال لحظات نحو الأراضي المحتلة وقواعد الإرهابيين الأمريكيين. إن معی ربی سیهدین....",
+    "url": "https://t.me/Electrohizbullah/156324",
+    "published": "2026-03-01T02:18:12+00:00",
+    "fetched_at": "2026-03-01T02:25:00.408525+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC Announces Imminent Major Offensive Against US Bases and Occupied Territories",
+    "relevant": true,
+    "summary_en": "The IRGC has declared that the most intense offensive operation in the history of Iran's armed forces will commence shortly, targeting US bases and occupied territories. This signifies a significant escalation in the ongoing conflict and poses a direct threat to US military assets in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "offensive",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "US"
+      ],
+      "location": "US bases and occupied territories",
+      "brief": "IRGC announces imminent major offensive targeting US military assets, signaling a significant escalation in the Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 40.8472515,
+    "lng": -73.8322691
+  },
+  {
+    "id": "a8980b82018a0b5f",
+    "title_original": "Iran state media confirms killing of Ayatollah Ali Khamenei following US-Israeli missile strikes",
+    "content_original": "Confirmation of supreme leader’s killing follows announcement by Donald Trump that ‘one of the most evil people in history, is dead’ US-Israel war on Iran – latest reports War on Iran: how the US-Israeli bid for regime change unfolded Iran’s supreme leader Ali Khamenei has been killed, Iranian state media confirmed early on Sunday, in the opening salvo of a war aimed at regime change that was launched on Saturday by the US and Israel. Khamenei had not been heard from since the strikes began, and satellite imagery showed that his secure compound was heavily damaged in the initial barrage on Saturday. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/feb/28/khamenei-likely-killed-us-israel-iran-strikes",
+    "published": "2026-03-01T02:18:01+00:00",
+    "fetched_at": "2026-03-01T02:24:50.759618+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran state media confirms killing of Ayatollah Ali Khamenei following US-Israeli missile strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian state media has confirmed the death of Supreme Leader Ayatollah Ali Khamenei, who was killed in US-Israeli missile strikes targeting his compound. This development follows US President Donald Trump's announcement of Khamenei's death, marking a significant escalation in the ongoing US-Israeli campaign against Iran. The killing of Khamenei is likely to have profound implications for Iran's leadership and the trajectory of the conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "killed",
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli missile strikes killed Iran's Supreme Leader Ayatollah Ali Khamenei, marking a major escalation in the conflict."
+    },
+    "merged_source_count": 15,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "8407555da9e04e2b",
+    "title_original": "فزتَ وربّ الكعبة  هنيئاً لكَ الشهادة  على يد أشقى الأشقياء",
+    "content_original": "فزتَ وربّ الكعبة هنيئاً لكَ الشهادة على يد أشقى الأشقياء",
+    "url": "https://t.me/Electrohizbullah/156322",
+    "published": "2026-03-01T02:16:46+00:00",
+    "fetched_at": "2026-03-01T02:25:00.407353+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Martyrdom Message Celebrating Death of Enemy",
+    "relevant": true,
+    "summary_en": "The message appears to be celebrating the death of an enemy combatant, referring to them as 'the most wretched of the wretched' and invoking religious language about martyrdom. This suggests ongoing hostilities and potential casualties within the conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC proxies"
+      ],
+      "location": "Unspecified proxy region",
+      "brief": "The message celebrating the death of an enemy combatant indicates ongoing proxy operations and hostilities between Iran-backed groups and likely US-aligned forces."
+    }
   },
   {
     "id": "afe25eba75e658e0",
@@ -1118,6 +1381,41 @@
     },
     "lat": 26.07,
     "lng": 50.55
+  },
+  {
+    "id": "22d1571ad0a337d7",
+    "title_original": "چندین شهادت دیگر هم داریم که صبح دیروز اتفاق افتاده است بزودی اعلام میشوند",
+    "content_original": "چندین شهادت دیگر هم داریم که صبح دیروز اتفاق افتاده است بزودی اعلام میشوند",
+    "url": "https://t.me/saberin_news/44909",
+    "published": "2026-03-01T02:05:56+00:00",
+    "fetched_at": "2026-03-01T02:24:59.584070+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Additional Casualties Reported from Yesterday Morning to be Announced Soon",
+    "relevant": true,
+    "summary_en": "The statement indicates further casualties from yesterday morning's events in the Iran-US conflict will be disclosed shortly. This suggests ongoing hostilities and potential escalation, though specific details on the incidents or their locations are not yet provided.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC proxies"
+      ],
+      "location": "unconfirmed",
+      "brief": "Additional casualties from ongoing proxy operations between Iran-backed forces and US interests are expected to be announced, indicating sustained hostilities."
+    },
+    "lat": 42.0835606,
+    "lng": -88.312708
   },
   {
     "id": "88784589a7acfcc8",
