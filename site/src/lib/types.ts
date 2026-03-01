@@ -6,6 +6,7 @@ export interface Article {
   summary_en: string;
   url: string;
   published: string;
+  fetched_at?: string;
   source_name: string;
   source_category: "state" | "state-aligned" | "proxy" | "unknown";
   language: string;

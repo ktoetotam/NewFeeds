@@ -131,6 +131,7 @@ def fetch_rss_source(source: dict, region: str) -> list[dict]:
                 "content_original": content if content else title,
                 "url": link,
                 "published": parse_date(published),
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
                 "source_name": name,
                 "source_category": source.get("category", "unknown"),
                 "language": source.get("language", "unknown"),

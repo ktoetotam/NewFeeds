@@ -181,7 +181,7 @@ export default function AttackMap({
                 </div>
                 <div style={{ color: "#555", marginBottom: 6, fontSize: 12 }}>
                   📍 {attack.classification?.location} ·{" "}
-                  {formatTimeAgo(attack.published)}
+                  {formatTimeAgo(attack.published, attack.fetched_at)}
                 </div>
                 {attack.classification?.brief && (
                   <div style={{ lineHeight: 1.5, color: "#333", marginBottom: 6 }}>

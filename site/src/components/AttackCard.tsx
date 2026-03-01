@@ -157,7 +157,7 @@ const AttackCard = forwardRef<HTMLElement, AttackCardProps>(function AttackCard(
           }}
           suppressHydrationWarning
         >
-          {formatTimeAgo(article.published)}
+          {formatTimeAgo(article.published, article.fetched_at)}
         </span>
       </div>
 

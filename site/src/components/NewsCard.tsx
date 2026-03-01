@@ -83,7 +83,7 @@ export default function NewsCard({ article }: NewsCardProps) {
           }}
           suppressHydrationWarning
         >
-          {formatTimeAgo(article.published)}
+          {formatTimeAgo(article.published, article.fetched_at)}
         </span>
       </div>
 

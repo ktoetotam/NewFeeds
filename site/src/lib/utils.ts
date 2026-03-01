@@ -3,13 +3,17 @@
  * No Node.js-specific imports (fs, path, etc.) here.
  */
 
-export function formatTimeAgo(isoDate: string): string {
+export function formatTimeAgo(isoDate: string, fetchedAt?: string): string {
   const now = Date.now();
   const then = new Date(isoDate).getTime();
   if (isNaN(then)) return "Unknown";
 
   const diffMs = now - then;
-  const minutes = Math.floor(diffMs / 60000);
+  // If published is in the future, fall back to fetched_at
+  const effectiveMs = diffMs < 0 && fetchedAt
+    ? now - new Date(fetchedAt).getTime()
+    : diffMs;
+  const minutes = Math.floor(effectiveMs / 60000);
   const hours = Math.floor(minutes / 60);
   const days = Math.floor(hours / 24);
 

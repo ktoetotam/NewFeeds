@@ -124,6 +124,7 @@ def fetch_telegram_channel(source: dict, region: str) -> list[dict]:
                 "content_original": content if content else title,
                 "url": msg_url,
                 "published": published,
+                "fetched_at": datetime.now(timezone.utc).isoformat(),
                 "source_name": name,
                 "source_category": source.get("category", "proxy"),
                 "language": source.get("language", "ar"),
