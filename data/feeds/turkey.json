@@ -1,5 +1,36 @@
 [
   {
+    "id": "c2b71cddab36aa32",
+    "title_original": "US, Israel say ‘severe blow’ dealt to Iran command centers",
+    "url": "https://www.dailysabah.com/world/mid-east/us-israel-say-severe-blow-dealt-to-iran-command-centers",
+    "published": "2026-03-02T00:00:00+03:00",
+    "fetched_at": "2026-03-01T21:11:40.373682+00:00",
+    "source_name": "Daily Sabah World",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "turkey",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "3d360c0c1c552bc3",
+    "title_original": "Trump suggests US war on Iran could last 4 weeks",
+    "content_original": "President Donald Trump on Sunday suggested the U.S. is envisaging a four-week military operation against Iran, where American and Israeli strikes have killed the country’s supreme...",
+    "url": "https://www.dailysabah.com/world/mid-east/trump-suggests-us-war-on-iran-could-last-4-weeks",
+    "published": "2026-03-01T23:50:00+03:00",
+    "fetched_at": "2026-03-01T21:11:40.373930+00:00",
+    "source_name": "Daily Sabah World",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "turkey",
+    "skip_translation": true,
+    "title_en": "Trump suggests US war on Iran could last 4 weeks",
+    "translated": true,
+    "summary_en": "{\"h\":\"Trump suggests US war on Iran could last 4 weeks\",\"r\":true,\"s\":\"President Trump suggested the U.S. is planning a four-week military operation against Iran, amid ongoing American and Israeli strikes that have targeted Iranian leadership and military assets. The comment indicates U.S. leadership's预期 timeframe for the current escalation with Iran",
+    "relevant": true
+  },
+  {
     "id": "dc916dd158f9bf80",
     "title_original": "Iran open to talks, Trump ‘eventually’ willing: White House",
     "url": "https://www.dailysabah.com/world/mid-east/iran-open-to-talks-trump-eventually-willing-white-house",

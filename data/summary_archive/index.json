@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T21-07-18.952040_plus_00-00.json",
+    "generated_at": "2026-03-01T21:07:18.952040+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 724,
+    "summary_preview": "The Iran-US conflict has escalated dramatically in the past 6 hours with confirmed US combat casualties (3 killed, 5 wounded) and direct US strikes on Iranian territory using B-2 stealth bombers. Iran"
+  },
+  {
     "filename": "2026-03-01T20-41-57.145729_plus_00-00.json",
     "generated_at": "2026-03-01T20:41:57.145729+00:00",
     "threat_label": "MAJOR",
