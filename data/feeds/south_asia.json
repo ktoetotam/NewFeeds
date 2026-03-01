@@ -1,5 +1,39 @@
 [
   {
+    "id": "0bbfcfed5d0d13d2",
+    "title_original": "PV Sindhu stranded in Dubai as flights remain suspended after tensions across West Asia",
+    "content_original": "PV Sindhu said she was safe but stuck with her team; she added that the speed at which the tensions have escalated is “terrifying”",
+    "url": "https://www.thehindu.com/news/national/pv-sindhu-stranded-in-dubai-as-flights-remain-suspended-after-tensions-across-west-asia/article70690465.ece",
+    "published": "2026-03-01T06:23:55+05:30",
+    "fetched_at": "2026-03-01T01:00:05.514050+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "PV Sindhu stranded in Dubai due to tensions in West Asia",
+    "translated": true,
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]"
+  },
+  {
+    "id": "8860a5148b98a639",
+    "title_original": "Missile interceptors in U.S.-Iran war| Explained",
+    "content_original": "Missile defense refers to a military system that finds and destroys incoming missiles before they hit their targets",
+    "url": "https://www.thehindu.com/sci-tech/missile-interceptors-in-us-iran-war-explained/article70689390.ece",
+    "published": "2026-03-01T06:04:04+05:30",
+    "fetched_at": "2026-03-01T01:00:05.514268+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Missile interceptors in U.S.-Iran war explained",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses missile defense systems used by the U.S. in the ongoing conflict with Iran, detailing how these systems detect and destroy incoming missiles before they hit their targets. This is significant as it pertains to the military strategies and technologies employed by the U.S. to protect its assets and forces in the region from Iranian missile attacks. Understanding these systems is crucial for analyzing the effectiveness of U.S. defenses and potential Iranian countermeasures."
+  },
+  {
     "id": "c5b18490c24142cc",
     "title_original": "Is Chet Hanks OK? Tom Hanks' son reveals he's stranded in Colombia without US passport, ‘Free me…’",
     "content_original": "Tom Hanks’ son Chet Hanks asked to be freed, explaining how he got trapped in Colombia without his US passport.",
@@ -49,6 +83,23 @@
     "translated": true,
     "relevant": true,
     "summary_en": "Reza Pahlavi, a prominent opposition figure, declared the end of the Islamic Republic after the reported death of Iran's Supreme Leader Ali Khamenei. This statement reflects potential political upheaval and uncertainty within Iran amid the ongoing conflict with the US, which could impact the regime's stability and decision-making in the war."
+  },
+  {
+    "id": "d1f4eabbccc70a2b",
+    "title_original": "How US-Iran tensions could shape world markets",
+    "content_original": "The United States and Israel launched strikes on Iran on Saturday, targeting its leadership and plunging the Middle East into a new conflict that President Donald Trump said would end a security threat and give Iranians a chance to topple their rulers. The strikes put nearby oil-producing Gulf Arab countries on edge as fears of escalation grew, and Tehran responded by launching missiles towards Israel. Here’s how the conflict could play out across world markets. Oil spike Oil is the main barometer of Middle East tension. Iran is a major producer and lies opposite the oil-rich Arabian Peninsula across the Strait of Hormuz, through which about 20 per cent of global oil supply passes. Conflict could limit oil entering the global market and push up prices. Brent crude traded on Friday around $73 a barrel, already up by a fifth this year. Some oil majors and top trading houses suspended crude oil and fuel shipments via the Strait of Hormuz because of the attacks, four trading sources said o...",
+    "url": "https://www.dawn.com/news/1976825/how-us-iran-tensions-could-shape-world-markets",
+    "published": "2026-03-01T05:55:27+05:00",
+    "fetched_at": "2026-03-01T01:00:04.538333+00:00",
+    "source_name": "Dawn (Pakistan)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "How US-Iran tensions could impact world markets",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article discusses the potential effects of escalating US-Iran tensions on global markets, particularly oil prices, due to Iran's role as a major oil producer and the strategic importance of the Strait of Hormuz. The ongoing conflict, marked by US and Israeli strikes on Iran and Iranian missile responses, raises concerns of regional escalation and its impact on nearby oil-producing Gulf countries."
   },
   {
     "id": "966ccc12234eae72",

@@ -147,6 +147,43 @@
     "lng": 54.56
   },
   {
+    "id": "797cbcfba9eb4b38",
+    "title_original": "ЦАХАЛ сообщила, что извлекает людей из-под завалов после удара Ирана",
+    "content_original": "ЦАХАЛ сообщила, что извлекает людей из-под завалов после удара Ирана",
+    "url": "https://ria.ru/20260301/izrail-2077574071.html",
+    "published": "2026-03-01T03:46:20+03:00",
+    "fetched_at": "2026-03-01T00:58:45.028994+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF Reports Rescue Operations Underway After Iranian Strike",
+    "relevant": true,
+    "summary_en": "The IDF (ZAHAL) announced it is conducting rescue operations to extract individuals trapped under rubble following an Iranian strike. This indicates a direct attack by Iran on Israeli territory, highlighting the ongoing escalation between the two nations. The incident underscores the regional volatility and potential for further military exchanges.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "idf",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IDF"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched a direct strike on Israeli territory, prompting IDF rescue operations for individuals trapped under rubble, indicating a significant escalation in regional hostilities."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "eae21199dd63da25",
     "title_original": "Дочь главы МИД Израиля показала поврежденную иранской ракетой квартиру",
     "content_original": "Тегеран, Иран",
@@ -327,6 +364,39 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "34d74be26a85070c",
+    "title_original": "الحرس الثوري يستهدف سفينتين وقاعدة بحرية للعدو الاميركي",
+    "content_original": "اعلن الحرس الثوري في بيانه رقم 4 عن استهداف سفينتين وقاعدة بحرية للعدو الاميركي في الموجة الخامسة من عمليات \"الوعد الصادق 4\"....",
+    "url": "https://www.alalam.ir/news/7420163",
+    "published": "2026-03-01T03:03:09+00:00",
+    "fetched_at": "2026-03-01T00:58:38.561474+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC Targets Two US Naval Vessels and a Naval Base",
+    "relevant": true,
+    "summary_en": "The IRGC announced in its statement number 4 that it targeted two US naval vessels and a naval base as part of the fifth wave of 'Operation True Promise 4'. This indicates ongoing Iranian retaliation against US naval assets in the region, escalating tensions in the maritime domain.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Iranian maritime territory",
+      "brief": "IRGC conducted a direct military operation targeting two US naval vessels and a naval base as part of 'Operation True Promise 4', escalating regional maritime tensions."
+    }
   },
   {
     "id": "3e7ab917221fd458",
@@ -1218,6 +1288,230 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "95d2c9facd6dcc96",
+    "title_original": "Fresh explosions heard in Tehran as Israel says air defense sites struck",
+    "content_original": "Fresh explosions heard in Tehran as Israel says air defense sites struck Two explosions were heard in the Iranian capital, Tehran,&nbsp;Mehr news agency has reported.&nbsp; In a post on X, Israel’s Air Force said it has completed another wave of strikes on ballistic missile arrays and air defence systems in western and central Iran. One of the targeted sites was a missile launch site in the central Qom region, it said.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-explosions-heard-tehran-israel-says-air-defense-sites-struck",
+    "published": "2026-03-01T00:59:23+00:00",
+    "fetched_at": "2026-03-01T00:59:37.628660+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Explosions in Tehran as Israel claims strikes on air defense sites",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel's Air Force reportedly struck ballistic missile arrays and air defense systems in western and central Iran, including a missile launch site in Qom. The attacks resulted in explosions heard in Tehran, indicating a significant escalation in Israeli operations against Iranian military infrastructure.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "air defense",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Qom, Iran",
+      "brief": "Israel conducts airstrikes on Iranian ballistic missile arrays and air defense systems in a significant escalation of military operations."
+    },
+    "merged_source_count": 3,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "5d1913696dd4e904",
+    "title_original": "Iran attacks rock Dubai's Palm, Burj Al Arab, airport",
+    "content_original": "Explosions rocked Dubai's Palm Jumeirah man-made island and drone debris caused a fire at the Burj Al Arab ultra-luxury hotel as waves of Iranian missiles targeted the UAE on Saturday, authorities said. Dubai airport, the world's busiest for international traffic, and Jebel Ali seaport also suffered damage as the unprecedented attacks hit some of the city's major landmarks and revenue-earners. Two witnesses on the Palm - an upscale, palm tree-shaped residential and leisure development - heard an explosion and saw smoke rising from a five-star hotel. The Dubai media office confirmed an \"incident\" in a building on the Palm Jumeirah caused a fire and injured four people. Hours later, a second blast exploded close to the same building, after what looked like a drone plunged from above, another witness saw. The United Arab Emirates said 137 missiles and 209 drones were fired at its territory by Iran, most of them intercepted by defence systems. Debris from an intercepted drone sparked a fir...",
+    "url": "https://www.newarab.com/news/iran-attacks-rock-dubais-palm-burj-al-arab-airport",
+    "published": "2026-03-01T00:54:23+00:00",
+    "fetched_at": "2026-03-01T00:59:38.271974+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran attacks rock Dubai's Palm, Burj Al Arab, airport",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting Dubai's Palm Jumeirah, Burj Al Arab hotel, Dubai airport, and Jebel Ali seaport in the UAE. The attacks caused damage to major landmarks and infrastructure, with four people injured at the Palm Jumeirah. This escalation signifies a significant expansion of the conflict into the UAE, a key US ally in the region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US (as UAE ally)"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran launched missile attacks on major Dubai landmarks including Palm Jumeirah and Burj Al Arab, causing significant escalation in regional tensions."
+    },
+    "merged_source_count": 4,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "a2142f4d9ada66e5",
+    "title_original": "Fars news reports Khamenei family killed in strikes",
+    "content_original": "Fars news reports Khamenei family killed in strikes Iranian supreme leader’s daughter, son-in-law and grandson have been killed in a strike, semi-official Fars news agency reported.&nbsp; US President Donald Trump has declared that Iran’s Supreme Leader Ayatollah Ali Khamenei is dead.&nbsp; Iranian officials have called the&nbsp;reports of Khamenei's death part of “psychological warfare” conducted by Iran’s enemies.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fars-reports-khamenei-family-killed-strikes",
+    "published": "2026-03-01T00:50:30+00:00",
+    "fetched_at": "2026-03-01T00:59:37.629159+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Khamenei family reportedly killed in strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader Ayatollah Ali Khamenei's daughter, son-in-law, and grandson were reportedly killed in a strike, according to the semi-official Fars news agency. The US President has declared Khamenei dead, while Iranian officials dismiss these reports as psychological warfare. This development, if confirmed, would mark a significant escalation and potential turning point in the conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "dead",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "Reports indicate US strikes killed Iran's Supreme Leader Ayatollah Ali Khamenei's family members, escalating tensions to a critical level."
+    },
+    "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "8edee2678a2a8be9",
+    "title_original": "Moment an Iranian missile hit Beit Shemesh in occupied al-Quds . @PressTV",
+    "content_original": "Moment an Iranian missile hit Beit Shemesh in occupied al-Quds . @PressTV",
+    "url": "https://t.me/presstv/177348",
+    "published": "2026-03-01T00:49:12+00:00",
+    "fetched_at": "2026-03-01T01:00:26.053627+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian missile hits Beit Shemesh in occupied al-Quds",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile struck Beit Shemesh in occupied East Jerusalem, marking a significant escalation in the conflict as it targets a location within Israel's claimed borders. This attack demonstrates Iran's willingness to expand the conflict beyond its immediate vicinity and directly engage Israeli territory. The strike is likely to provoke a strong response from Israel and its allies, potentially escalating regional tensions further.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Beit Shemesh, occupied East Jerusalem",
+      "brief": "Iran launches a ballistic missile strike on Beit Shemesh in occupied East Jerusalem, marking a significant escalation by directly targeting a location within Israel's claimed borders."
+    },
+    "lat": 31.746214,
+    "lng": 34.9886825
+  },
+  {
+    "id": "d66a5c4b8f46375e",
+    "title_original": "#الجمهورية_الإسلامية   طائرات سلاح الجو التابعة للجمهورية الاسلامية تحبط العديد من الاستهدافات من صواريخ امريكية جنوب...",
+    "content_original": "#الجمهورية_الإسلامية طائرات سلاح الجو التابعة للجمهورية الاسلامية تحبط العديد من الاستهدافات من صواريخ امريكية جنوب ايران.",
+    "url": "https://t.me/Electrohizbullah/156272",
+    "published": "2026-03-01T00:39:34+00:00",
+    "fetched_at": "2026-03-01T01:00:33.751424+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Air Force Thwarts Multiple US Missile Strikes in Southern Iran",
+    "relevant": true,
+    "summary_en": "Iranian Air Force intercepted several US missile strikes targeting southern Iran. This indicates ongoing hostilities and US attempts to target Iranian territory. The interceptions highlight Iran's air defense capabilities and the active engagement in defending against US attacks.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Southern Iran",
+      "brief": "Iranian Air Force intercepted multiple US missile strikes targeting southern Iran, showcasing ongoing hostilities and Iran's defensive capabilities."
+    },
+    "lat": 29.0,
+    "lng": 54.0
+  },
+  {
+    "id": "060b47f2d3abc1bc",
+    "title_original": "مراسل الميادين: الرشقات الجديدة من الصواريخ التي استهدفت كيان الاحتلال والقواعد الأميركية هي من الجيل الجديد",
+    "content_original": "مراسل الميادين: الرشقات الجديدة من الصواريخ التي استهدفت كيان الاحتلال والقواعد الأميركية هي من الجيل الجديد",
+    "url": "https://t.me/Electrohizbullah/156271",
+    "published": "2026-03-01T00:39:22+00:00",
+    "fetched_at": "2026-03-01T01:00:33.750827+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "New Generation Missiles Target US Bases and Israeli Occupation",
+    "relevant": true,
+    "summary_en": "Iran or its proxies have launched a new generation of missiles targeting US bases and Israeli positions. This indicates a potential escalation in the conflict with the deployment of advanced weaponry. The strategic significance lies in the enhanced capabilities being demonstrated by Iranian-aligned forces against high-value targets.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|proxy_operation|ballistic_missile|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Hezbollah",
+        "Iranian proxies"
+      ],
+      "location": "US bases in the region, Israeli positions",
+      "brief": "Iran or its proxies have escalated the conflict by launching a new generation of ballistic missiles targeting US bases and Israeli positions, demonstrating advanced capabilities and signaling a potential major escalation in the conflict."
+    },
+    "lat": 52.4577754,
+    "lng": -1.8692099
   },
   {
     "id": "c19be291f72467f5",

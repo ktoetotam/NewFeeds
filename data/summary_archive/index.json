@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T00-49-18.957616_plus_00-00.json",
+    "generated_at": "2026-03-01T00:49:18.957616+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 233,
+    "summary_preview": "The Iran–US conflict has escalated to full-scale regional warfare following US-Israeli preventive strikes on Iran on 2026-02-28. Iran has responded with mass missile and drone attacks on Israel and 14"
+  },
+  {
     "filename": "2026-03-01T00-19-40.254669_plus_00-00.json",
     "generated_at": "2026-03-01T00:19:40.254669+00:00",
     "threat_label": "MAJOR",
