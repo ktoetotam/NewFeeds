@@ -1,5 +1,19 @@
 [
   {
+    "id": "c8f54d71c75c3798",
+    "title_original": "פצוע בינוני ו-5 פצועים קל מפגיעה ישירה בכביש בירושלים | תיעודים מהזירה",
+    "url": "https://www.ynet.co.il/news/article/rymqdmztwg",
+    "published": "2026-03-01T23:05:47+02:00",
+    "fetched_at": "2026-03-01T21:11:19.832237+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
+  },
+  {
     "id": "c919dced2e8a0833",
     "title_original": "טראמפ: \"המבצע באיראן יימשך ארבעה שבועות, או פחות\"",
     "content_original": "הנשיא האמריקני מעריך כי המבצע באיראן יימשך כחודש: \"זו מדינה גדולה\". מוקדם יותר אמר טראמפ כי המבצע \"מתקדם מהר יותר מהמתוכנן\", וגם שוחח עם ראש הממשלה נתניהו",
@@ -160,6 +174,23 @@
     "region": "israel",
     "skip_translation": false,
     "relevant": false,
+    "translated": true
+  },
+  {
+    "id": "79bf9c5f6141b2f9",
+    "title_original": "טראמפ חושף: כך תיראה המלחמה מול איראן בשבועות הקרובים",
+    "content_original": "בריאיון לדיילי מייל חשף דונלד טראמפ כי שלושה חיילים אמריקנים נהרגו בלחימה מול איראן, העריך שהמערכה עשויה להימשך כארבעה שבועות והותיר פתח לשיחות עתידיות עם טהרן",
+    "url": "https://www.maariv.co.il/news/world/article-1290796",
+    "published": "2026-03-01T20:50:03+00:00",
+    "fetched_at": "2026-03-01T21:11:20.429394+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "טראמפ חושף: כך תיראה המלחמה מול איראן בשבועות הקרובים",
+    "summary_en": "{\"h\":\"Trump reveals: This is what the war with Iran will look like in the coming weeks\",\"r\":true,\"s\":\"In a Daily Mail interview, Donald Trump revealed that three American soldiers were killed in fighting against Iran, estimating the campaign could last about four weeks while leaving the door open for future negotiations with Tehran. This marks the first official disclosure of US casualties in the ",
+    "relevant": true,
     "translated": true
   },
   {

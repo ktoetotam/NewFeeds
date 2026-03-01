@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-03-01T21:07:18.952040+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 724,
+    "incident_count_6h": 199,
+    "severity_breakdown": {
+      "major": 313,
+      "high": 275,
+      "medium": 133,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 134,
+    "articles_analyzed": 161,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated dramatically in the past 6 hours with confirmed US combat casualties (3 killed, 5 wounded) and direct US strikes on Iranian territory using B-2 stealth bombers. Iran has launched ballistic missiles at Israeli civilian targets (9 killed in Beit Shemesh) and struck US bases in Erbil, Qatar, and Kuwait. Trump projects the operation will last four weeks. The conflict has expanded to include civilian infrastructure strikes on both sides with UAE closing its Tehran embassy and Gulf markets suspending trading.",
+  "whats_new": [
+    "Trump announces US operation against Iran will last approximately 4 weeks, stating 'it's a big country' and operations are 'progressing faster than planned'",
+    "UAE announces closure of embassy in Tehran and withdrawal of ambassador and diplomatic staff",
+    "IRGC claims to have destroyed another American MQ-9 Reaper drone - second such claim",
+    "Iranian state TV reports targeting US forces headquarters in Bahrain with fire reported",
+    "Trump claims 48 Iranian 'leaders' killed in US attack and 9 Iranian naval ships destroyed",
+    "Energy markets in turmoil: UAE stock markets closed March 2-3 following Iran strikes",
+    "Iran threatens to close Strait of Hormuz as part of retaliatory campaign"
+  ],
+  "confirmed_events": [
+    "Three US service members killed and five wounded in Iranian ballistic missile/strike operations - CONFIRMED by CENTCOM (multiple sources: Pentagon, CENTCOM, QNA, Al Jazeera)",
+    "Iranian ballistic missile strike on Beit Shemesh killed 9 civilians including Sarah Elimelech, her daughter Ronit, and Oren Katz - CONFIRMED by Israeli media (Ynet, Jerusalem Post)",
+    "US B-2 stealth bombers conducted airstrikes targeting ballistic missile facilities inside Iran - CONFIRMED by US CENTCOM footage release",
+    "IRGC announced it targeted three American and British oil tankers in the Gulf - CONFIRMED by multiple Iranian sources (Al Alam, Press TV)",
+    "Iranian ballistic missiles and drones struck US base in Erbil causing fire at ammunition depot - CONFIRMED by multiple sources (RBC, War Monitors, Middle East Eye)"
+  ],
+  "unverified_emerging": [
+    "Unconfirmed explosion reported in Tehran amid ongoing US-Iran conflict - single source (War Monitors)",
+    "US-Israeli strike on Gandhi Hospital in Tehran causing massive destruction - single source (Press TV)",
+    "US-Israeli airstrike on school in Iran killing at least 153 girls - single source, unverified casualty figure",
+    "Attack on Camp Buehring in Kuwait (3 US soldiers killed) - single source, contradicts earlier CENTCOM figures",
+    "IRGC claims to have struck USS Abraham Lincoln - Pentagon denied"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Multiple Gulf airports closed due to Iranian missile and drone strikes",
+      "UAE Capital Markets Authority ordered Abu Dhabi Securities Exchange and Dubai Financial Market closed March 2-3",
+      "Airspace restrictions and flight diversions across Gulf region"
+    ],
+    "supply_chain": [
+      "Gulf ports experiencing significant disruption - three major ports shutdown",
+      "Strait of Hormuz under threat - Iran explicitly threatens closure impacting 20% of global oil supply",
+      "Oil tanker attacks on US/UK vessels disrupting shipping through Persian Gulf",
+      "Regional supply chains in disarray with business disruption described as 'most widespread since pandemic'"
+    ],
+    "market_macro": [
+      "UAE stock markets closed for two days - first closure in response to regional conflict",
+      "Energy markets on edge as Iran war threatens oil supplies - Brent crude spiking",
+      "Regional business shutdown causing economic disruption across Gulf states",
+      "Three major port closures impacting global shipping routes"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict will continue to escalate over the next 24-72 hours with Iran conducting additional ballistic missile strikes against US bases and Israeli targets. Trump projects a 4-week timeline but operations are progressing faster than anticipated. Iranian retaliation will focus on US military assets in Iraq, Qatar, Kuwait, and Bahrain while maintaining pressure on Israel through proxy attacks. Civilian infrastructure strikes on both sides signal a dangerous expansion of the conflict. Strait of Hormuz remains a critical flashpoint with Iran capable of disrupting 20% of global oil supply.",
+    "escalation_risks": [
+      "Iran closes Strait of Hormuz - would trigger massive global energy crisis and US military response",
+      "Iranian sleeper cells activated in US or Gulf states - potential terrorist attacks",
+      "Further civilian casualties triggering public pressure for expanded operations",
+      "Israel conducts independent ground operations targeting Iranian assets",
+      "Russian or Chinese intervention supporting Iran - potential for wider global conflict",
+      "Continued Iranian ballistic missile barrages overwhelming Israeli air defense"
+    ],
+    "de_escalation_pathways": "Trump indicates Iran 'wants negotiations' suggesting diplomatic off-ramp exists despite military escalation. European powers (France, UK, Germany) announced defensive measures but could mediate. However, Khamenei's death removes key Iranian leadership figure and complicates succession - IRGC currently driving retaliation. Any de-escalation requires both sides to conclude military objectives are achieved, but current trajectory suggests intensity will increase before potential negotiated settlement."
+  }
+}

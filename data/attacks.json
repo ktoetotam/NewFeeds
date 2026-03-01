@@ -1,5 +1,75 @@
 [
   {
+    "id": "0e531e54b642e475",
+    "title_original": "Iran's Gandhi Hospital hit in Israeli strikes, video shows damage and chaos",
+    "content_original": "In a military offensive against Iran, Israeli strikes have reportedly damaged the Gandhi Hospital, amidst ongoing attacks on military sites.",
+    "url": "https://www.hindustantimes.com/world-news/irans-gandhi-hospital-hit-in-israeli-strikes-video-shows-damage-and-chaos-101772393411605.html",
+    "published": "2026-03-02T02:30:15+05:30",
+    "fetched_at": "2026-03-01T21:11:43.049475+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Iran's Gandhi Hospital hit in Israeli strikes, video shows damage and chaos",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli forces have struck Gandhi Hospital in Iran as part of an ongoing military offensive against Iranian military sites. The strike caused significant damage and chaos at the civilian medical facility, representing an escalation in Israel's campaign against Iran that has targeted both military and civilian infrastructure.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (Gandhi Hospital)",
+      "brief": "Israeli airstrike on Gandhi Hospital in Iran marks significant escalation targeting civilian medical infrastructure."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "e33ad987539a6f4a",
+    "title_original": "UAE closes Embassy in Iran after four killed in attacks across the Gulf",
+    "content_original": "The move marks the strongest condemnation yet by a Gulf state since Tehran began targeting the region with a barrage of strikes",
+    "url": "https://www.thehindu.com/news/international/uae-closes-embassy-in-iran-after-several-killed-in-attacks-across-the-gulf/article70692876.ece",
+    "published": "2026-03-02T02:16:03+05:30",
+    "fetched_at": "2026-03-01T21:11:42.812031+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "UAE closes Embassy in Iran after four killed in attacks across the Gulf",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The UAE has closed its embassy in Iran following attacks that killed four people across the Gulf region. The move represents the strongest condemnation by a Gulf state since Tehran began its campaign of strikes targeting US bases and regional interests. This diplomatic action signals escalating tensions between Iran and Gulf states aligned with the US.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "UAE",
+        "Iran",
+        "United States"
+      ],
+      "location": "Gulf region, Tehran (UAE Embassy)",
+      "brief": "UAE closes embassy in Iran following attacks that killed four people across the Gulf, marking strongest Gulf state condemnation since Tehran began strikes on US bases."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "5619616b492e0237",
     "title_original": "UAE halts stock markets for two days after Iran strikes",
     "content_original": "The United Arab Emirates (UAE) has ordered its stock markets closed on Monday and Tuesday as the country reels from Iran’s retaliatory missile and drone strikes , in a sign of the growing economic disruption sweeping the Gulf. Iran carried out the strikes in Gulf countries that have US bases and assets after joint attacks on the Islamic republic by Israel and America. The UAE Capital Markets Authority said the Abu Dhabi Securities Exchange and Dubai Financial Market would remain shut on March 2 and March 3, citing its supervisory and regulatory role over the country’s capital markets. “The Authority will continue to monitor developments in the region and assess the situation on an ongoing basis, taking any further measures as necessary,” it said in a statement. The UAE’s two exchanges are home to some of the region’s most valuable listed companies. The closure keeps billions of dollars in listed assets in suspension as investors await clarity on the scale of damage from Saturday and Su...",
@@ -34,6 +104,42 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "e874a88816fcb3fb",
+    "title_original": "ПВО Ирана сбила еще один американский ударный БПЛА MQ-9 Reaper",
+    "content_original": "ПВО Ирана сбила еще один американский ударный БПЛА MQ-9 Reaper",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26603733",
+    "published": "2026-03-01T23:58:31+03:00",
+    "fetched_at": "2026-03-01T21:11:12.816255+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Air Defense Shot Down Another American MQ-9 Reaper Strike Drone",
+    "relevant": true,
+    "summary_en": "Iranian air defense forces successfully intercepted and shot down another American MQ-9 Reaper strike drone. The incident represents a further escalation in the ongoing hostilities between Iran and the United States, continuing the pattern of Iranian forces targeting US military assets in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "air defense",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East/Gulf Region",
+      "brief": "Iranian air defense forces shot down an American MQ-9 Reaper drone, marking a direct escalation in US-Iran hostilities with Iran targeting another US military asset."
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "ba65437d01b2bcf8",
@@ -1505,6 +1611,80 @@
     "lng": 58.9845823
   },
   {
+    "id": "ddf76138bd5d96ac",
+    "title_original": "Dramatic footage shows several Iranian missiles easily evading Israel-US air defense systems, hitting targets in occu...",
+    "content_original": "Dramatic footage shows several Iranian missiles easily evading Israel-US air defense systems, hitting targets in occupied Palestine. @PressTV",
+    "url": "https://t.me/presstv/177528",
+    "published": "2026-03-01T21:08:28+00:00",
+    "fetched_at": "2026-03-01T21:11:57.828994+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Dramatic footage shows several Iranian missiles easily evading Israel-US air defense systems, hitting targets in occu...",
+    "translated": true,
+    "summary_en": "{\"h\":\"Dramatic footage shows Iranian missiles evading Israel-US air defense systems, hitting targets in occupied Palestine\",\"r\":true,\"s\":\"Iranian missiles successfully evaded Israel-US air defense systems and struck targets in occupied Palestine, according to footage cited by Iranian state media. The incident demonstrates a significant capability gap in the Israel-US integrated air defense network",
+    "relevant": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "occupied Palestine",
+      "brief": "Iranian missiles evaded Israel-US air defense systems and struck targets in occupied Palestine, according to Iranian state media footage."
+    },
+    "lat": 31.5197847,
+    "lng": 35.0494777
+  },
+  {
+    "id": "96012d9e61d58364",
+    "title_original": "Seven wounded in Jerusalem after Iran missile barrage",
+    "content_original": "Seven wounded in Jerusalem after Iran missile barrage Seven people have been injured in Jerusalem following the latest Iranian missile barrage, according to Israeli emergency services. Ambulance officials said one of the wounded remains in serious condition, while medics treated others for lighter injuries as sirens sounded across the city.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/seven-wounded-jerusalem-after-iran-missile-barrage",
+    "published": "2026-03-01T21:06:41+00:00",
+    "fetched_at": "2026-03-01T21:11:27.434029+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Seven wounded in Jerusalem after Iran missile barrage",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile barrage striking Jerusalem, injuring seven people according to Israeli emergency services. One victim remains in serious condition while others were treated for lighter injuries as air raid sirens sounded across the city. The attack represents a significant escalation in Iran's retaliatory campaign against Israel, which is closely tied to the broader Iran-United States conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "raid",
+      "wounded",
+      "attack",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Jerusalem",
+      "brief": "Iran launched a ballistic missile barrage on Jerusalem injuring seven people, representing a significant escalation in the Iran-Israel conflict."
+    },
+    "merged_source_count": 4,
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
     "id": "f1a84f7819c86ffe",
     "title_original": "США и Израиль ударили по больнице в центре Тегерана",
     "content_original": "США и Израиль ударили по больнице в центре Тегерана",
@@ -1541,6 +1721,43 @@
     "merged_source_count": 4,
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "f2d3f34e10c2b501",
+    "title_original": "Several Israeli missiles aimed to intercept Iranian missile but failed to do so. @PressTV",
+    "content_original": "Several Israeli missiles aimed to intercept Iranian missile but failed to do so. @PressTV",
+    "url": "https://t.me/presstv/177527",
+    "published": "2026-03-01T21:06:18+00:00",
+    "fetched_at": "2026-03-01T21:11:57.828332+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Several Israeli missiles aimed to intercept Iranian missile but failed to do so",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli missiles attempted to intercept an incoming Iranian missile but failed to do so, according to PressTV. This represents a significant development in the ongoing Iran-Israel military confrontation, as successful Iranian missile strikes on Israeli territory would mark a major escalation beyond the current proxy warfare and limited strikes paradigm. The failed interception capability could embolden further Iranian missile attacks and force Israel to reconsider its air defense strategies.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "air defense",
+      "intercept",
+      "missile",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Israeli missiles failed to intercept an incoming Iranian missile, representing a significant escalation in Iran-Israel military confrontation."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "52f06bf9dcb8030e",
@@ -1620,6 +1837,190 @@
     "lng": 44.01
   },
   {
+    "id": "a593aebc52e8e11f",
+    "title_original": "Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed",
+    "content_original": "The grim toll signaled that Iran was more prepared for war than the Trump administration anticipated, U.S. military officials said.",
+    "url": "https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html",
+    "published": "2026-03-01T21:02:15+00:00",
+    "fetched_at": "2026-03-01T21:11:43.448129+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three U.S. service members were killed in the Iran war, with U.S. military officials stating the grim toll signaled that Iran was more prepared for conflict than the Trump administration had anticipated. The casualties represent a significant escalation in the ongoing hostilities and suggest Iranian forces were better equipped and ready than U.S. intelligence had assessed.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "war",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Western Asia (Iraq/Syria)",
+      "brief": "Three U.S. service members killed in Iran war, indicating Iran was more prepared for conflict than anticipated."
+    },
+    "lat": 51.2086975,
+    "lng": 89.2343748
+  },
+  {
+    "id": "a593aebc52e8e11f",
+    "title_original": "Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed",
+    "content_original": "Smoke rose on Sunday near Erbil International Airport, which hosts U.S.-led coalition troops in Iraq’s autonomous Kurdistan region.",
+    "url": "https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html",
+    "published": "2026-03-01T21:02:15+00:00",
+    "fetched_at": "2026-03-01T21:11:44.450785+00:00",
+    "source_name": "NYT Top Stories",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed",
+    "translated": true,
+    "summary_en": "{\"h\":\"Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed\",\"r\":true,\"s\":\"Three U.S. service members were killed in an attack near Erbil International Airport in Iraq's Kurdistan region, where U.S.-led coalition forces are stationed. The attack, which occurred amid escalating Iran-U.S. hostilities, marks a significant escalation with direct American",
+    "relevant": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "war",
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "US-led coalition forces"
+      ],
+      "location": "Erbil International Airport, Iraqi Kurdistan",
+      "brief": "Three U.S. service members were killed in an Iran-linked attack near Erbil International Airport in Iraq's Kurdistan region where U.S.-led coalition forces are stationed."
+    },
+    "lat": 36.2404123,
+    "lng": 43.9465692
+  },
+  {
+    "id": "fd8e7df6c6669075",
+    "title_original": "الصاروخ الإيراني اخترق دفاعات الكيان الصهيوني في القدس المحتلة",
+    "content_original": "الصاروخ الإيراني اخترق دفاعات الكيان الصهيوني في القدس المحتلة",
+    "url": "https://t.me/Electrohizbullah/156874",
+    "published": "2026-03-01T21:00:21+00:00",
+    "fetched_at": "2026-03-01T21:12:08.850971+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missile Penetrated Zionist Entity's Defenses in Occupied Jerusalem",
+    "relevant": true,
+    "summary_en": "An Iranian missile penetrated Israeli air defenses and struck the occupied Jerusalem area, representing a significant breach of Israeli missile defense systems. The attack adds to the ongoing exchange of strikes between Iran and Israel as part of the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Jerusalem (Occupied Palestine)",
+      "brief": "Iranian ballistic missile breached Israeli air defenses and struck occupied Jerusalem, marking a significant escalation in direct Iran-Israel hostilities within the broader Iran-US conflict."
+    },
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "08774d715156cee1",
+    "title_original": "'Imminent threat' or 'war of choice'? Trump justifies Iran attack as Democrats raise doubt",
+    "content_original": "President Trump justified attacking Iran without congressional approval by claiming the Iranian regime presented an 'imminent' threat to the U.S., which Democrats questioned.",
+    "url": "https://www.latimes.com/politics/story/2026-03-01/imminent-threat-or-war-of-choice-trump-justifies-iran-attack-as-democrats-raise-doubt",
+    "published": "2026-03-01T20:58:23+00:00",
+    "fetched_at": "2026-03-01T21:11:54.077028+00:00",
+    "source_name": "LA Times World & Nation",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "'Imminent threat' or 'war of choice'? Trump justifies Iran attack as Democrats raise doubt",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "President Trump justified launching military strikes against Iran without congressional approval, claiming the Iranian regime posed an 'imminent' threat to U.S. interests and personnel. Democrats questioned this justification, raising constitutional concerns about presidential war powers and whether the attack constituted a 'war of choice' rather than a necessary response to an immediate threat.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "threat",
+      "war",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "U.S. Congress"
+      ],
+      "location": "Iran",
+      "brief": "Trump justified US military strikes on Iran as responding to an imminent threat while Democrats questioned the justification and presidential war powers."
+    },
+    "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "f4e96786a31b2cd9",
+    "title_original": "🚨 اصابت های پشت سرهم موشک های ایرانی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمر...",
+    "content_original": "🚨 اصابت های پشت سرهم موشک های ایرانی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45038",
+    "published": "2026-03-01T20:58:02+00:00",
+    "fetched_at": "2026-03-01T21:12:07.486357+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "🚨 اصابت های پشت سرهم موشک های ایرانی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمر...",
+    "summary_en": "{\"h\":\"Consecutive Iranian Missile Hits Reported\",\"r\":true,\"s\":\"An Arabic-language news channel reports",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Iranian proxies"
+      ],
+      "location": "Middle East (unspecified)",
+      "brief": "Consecutive Iranian ballistic missile hits reported by Arabic-language news channel, indicating direct Iran-US engagement"
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "fea4fcfca283f05c",
     "title_original": "Der Spiegel сообщил об обстреле Ираном баз с немецкими солдатами",
     "content_original": "Иран обстрелял базы в Ираке и Иордании, где в том числе дислоцированы немецкие военнослужащие, пишет Der Spiegel.",
@@ -1693,6 +2094,196 @@
     "merged_source_count": 2,
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "39dd6d364fec53a7",
+    "title_original": "Trump open to talks with Iran as conflict deepens in Middle East",
+    "content_original": "US president signals willingness to engage with Tehran’s surviving leadership as strikes and retaliatory attacks intensify across region US-Israel war on Iran – latest updates Donald Trump said on Sunday he was prepared to talk to what was left of the Iranian leadership in the wake of the killing of the country’s supreme leader by US-Israeli air strikes aimed at overthrowing the regime. Trump was speaking as a second day of intense bombing of Iranian cities and Tehran’s missile counter-attacks sent tremors across the region and through the global economy. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/mar/01/trump-open-to-talks-with-iran-as-conflict-deepens-in-middle-east",
+    "published": "2026-03-01T20:54:00+00:00",
+    "fetched_at": "2026-03-01T21:11:55.009280+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Trump open to talks with Iran as conflict deepens in Middle East",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US President Donald Trump said he is prepared to talk to Iran's surviving leadership after US-Israeli air strikes killed Iran's supreme leader. This comes as a second day of intense bombing of Iranian cities continues, with Tehran launching missile counter-attacks that are sending tremors across the region and through the global economy.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "western Iran",
+      "brief": "US-Israeli air strikes kill Iran's supreme leader while Tehran launches ballistic missile counter-attacks in major direct military engagement between the two nations."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "ea56bd2f153c03f3",
+    "title_original": "اللحظات الأولى بعد سقوط صاروخ إيراني في القدس المحتلة",
+    "content_original": "اللحظات الأولى بعد سقوط صاروخ إيراني في القدس المحتلة",
+    "url": "https://t.me/Electrohizbullah/156866",
+    "published": "2026-03-01T20:48:52+00:00",
+    "fetched_at": "2026-03-01T21:12:08.846551+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "The first moments after an Iranian missile fell in occupied Jerusalem",
+    "relevant": true,
+    "summary_en": "An Iranian missile struck occupied Jerusalem as part of Iran's ongoing ballistic missile campaign against Israel. This attack represents a significant escalation in the Iran-Israel conflict and comes amid the broader US-Iran war, with Iran continuing its retaliation for US and Israeli strikes on Iranian territory and IRGC assets.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "attack",
+      "war",
+      "conflict",
+      "irgc",
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "occupied Jerusalem (Israel)",
+      "brief": "Iranian ballistic missile struck occupied Jerusalem as part of Iran's retaliatory campaign against US and Israeli strikes, marking a significant escalation in the Iran-Israel conflict within the broader US-Iran war."
+    },
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "e7dd5b43a0485114",
+    "title_original": "🚨 اصابت موشک ایران به قلب تل‌آویو با عبور از لایه های پدافندی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات...",
+    "content_original": "🚨 اصابت موشک ایران به قلب تل‌آویو با عبور از لایه های پدافندی ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45033",
+    "published": "2026-03-01T20:48:32+00:00",
+    "fetched_at": "2026-03-01T21:12:07.483549+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missile Strikes Heart of Tel Aviv After Penetrating Air Defense Systems",
+    "relevant": true,
+    "summary_en": "Iranian ballistic missile has struck central Tel Aviv after breaching Israeli air defense layers, marking a significant escalation in the conflict. The successful penetration of Israeli defenses represents a substantial military achievement for Iran and a serious strategic concern for Israel and the United States. This attack comes amid ongoing hostilities between Iran and the US, with Israel as a key US ally in the region.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "air defense",
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iranian ballistic missiles struck central Tel Aviv after breaching Israeli air defense systems, marking a significant escalation in regional conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "e960f42b4fb31db0",
+    "title_original": "سقوط صاروخ إيراني في القدس المحتلة",
+    "content_original": "سقوط صاروخ إيراني في القدس المحتلة",
+    "url": "https://t.me/Electrohizbullah/156865",
+    "published": "2026-03-01T20:48:09+00:00",
+    "fetched_at": "2026-03-01T21:12:08.845895+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian missile falls in occupied Jerusalem",
+    "relevant": true,
+    "summary_en": "An Iranian missile has struck occupied Jerusalem, representing another Iranian ballistic missile attack on Israeli territory as part of the ongoing Iran-US conflict and regional hostilities. The strike demonstrates Iran's continued escalation of missile attacks against Israel, which is closely tied to the broader conflict with the US and its allies in the region.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict",
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "occupied Jerusalem",
+      "brief": "Iranian ballistic missile struck occupied Jerusalem as part of escalating Iranian attacks on Israeli territory in the ongoing Iran-US regional conflict."
+    },
+    "merged_source_count": 5,
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "3ffba2be6af43b1e",
+    "title_original": "Socialite Hofit Golan insists Dubai 'still feels like a safe place' just hours after witnessing Iranian missile strikes as she shares glimpse of her fellow expats returning to the beach",
+    "content_original": "Socialite Hofit Golan insists Dubai 'still feels like a safe place' just hours after witnessing Iranian missile strikes as she shares glimpse of her fellow expats returning to the beach",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-15604475/Socialite-Hofit-Golan-insists-Dubai-feels-safe-place-returning-beach-iran.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T20:47:47+00:00",
+    "fetched_at": "2026-03-01T21:11:56.397802+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Socialite Hofit Golan insists Dubai 'still feels like a safe place' just hours after witnessing Iranian missile strikes as she shares glimpse of her fellow expats returning to the beach",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Social media personality Hofit Golan was in Dubai during Iranian missile strikes and reported witnessing the attacks, yet claims the city still feels safe with expats already returning to the beach. The article provides a civilian perspective on the Iranian strikes targeting the Gulf region, specifically Dubai, a major financial hub with significant Western and Israeli expat populations.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Gulf region"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Social media personality Hofit Golan reports witnessing Iranian missile strikes in Dubai while claiming the city still feels safe, providing civilian perspective on Iranian ballistic missile strikes targeting the Gulf region."
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "b41e397d81026aa5",
@@ -1956,6 +2547,41 @@
     },
     "lat": 31.95,
     "lng": 35.3
+  },
+  {
+    "id": "55ff9f1ec76d94c3",
+    "title_original": "RAF typhoon shoots down Iranian drone 'heading for Qatar'",
+    "content_original": "RAF typhoon shoots down Iranian drone 'heading for Qatar'",
+    "url": "https://www.dailymail.co.uk/news/article-15604441/RAF-typhoon-shoots-Iranian-drone-heading-Qatar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T20:43:25+00:00",
+    "fetched_at": "2026-03-01T21:11:56.398150+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "RAF typhoon shoots down Iranian drone 'heading for Qatar'",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Royal Air Force Typhoon jets shot down an Iranian drone that was heading toward Qatar, where major US military assets are based (Al Udeid Air Base). This incident demonstrates direct Iranian aggressive action against US-allied targets in the Gulf region and marks further escalation with UK forces now actively engaging Iranian military assets.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Kingdom",
+        "United States"
+      ],
+      "location": "Qatar (Gulf region)",
+      "brief": "RAF Typhoon jets shot down an Iranian drone heading toward Al Udeid Air Base in Qatar, where major US military assets are stationed, representing direct Iranian aggression against US-allied targets in the Gulf."
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "1720e03b27e846d1",
