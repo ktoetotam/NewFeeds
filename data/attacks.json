@@ -36,6 +36,229 @@
     "lng": 178.0431614
   },
   {
+    "id": "4fcdaf36be0c0129",
+    "title_original": "Иран сбил американский БПЛА в Ахвазе",
+    "content_original": "Иран сбил американский БПЛА в Ахвазе",
+    "url": "https://ria.ru/20260301/voennye-2077692618.html",
+    "published": "2026-03-01T17:07:29+03:00",
+    "fetched_at": "2026-03-01T14:08:50.107953+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran shoots down US drone in Ahvaz",
+    "relevant": true,
+    "summary_en": "Iran has shot down a US drone in Ahvaz, marking another escalation in the ongoing conflict. This incident occurred within Iranian territory, highlighting the continued tensions and military engagements between Iran and the US. The downing of the drone is likely to provoke further US responses and underscores the ongoing aerial surveillance and countermeasures in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Ahvaz, Iran",
+      "brief": "Iran shoots down a US drone within its territory, escalating ongoing tensions."
+    },
+    "lat": 31.32,
+    "lng": 48.69
+  },
+  {
+    "id": "35fc8e84199a6cc4",
+    "title_original": "Иран нанес удары баллистическими ракетами по авианосцу США",
+    "content_original": "Иран нанес удары баллистическими ракетами по авианосцу США",
+    "url": "https://ria.ru/20260301/iran-2077690750.html",
+    "published": "2026-03-01T16:59:39+03:00",
+    "fetched_at": "2026-03-01T14:08:50.109723+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes US Aircraft Carrier with Ballistic Missiles",
+    "relevant": true,
+    "summary_en": "Iran launched ballistic missile strikes targeting a US aircraft carrier, likely in the Persian Gulf or nearby waters. This represents a significant escalation in direct military confrontation between Iran and the US, posing a direct threat to a major US naval asset. The strategic significance includes potential disruption of US naval operations and increased risks of further military escalation in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "US Navy"
+      ],
+      "location": "Persian Gulf or nearby waters",
+      "brief": "Iran launched ballistic missile strikes against a US aircraft carrier, marking a major escalation in direct military confrontation."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "fb07be66ef30b285",
+    "title_original": "Kuwaiti Defense Ministry Announces Detection of 97 Ballistic Missiles, 283 Drones Fired by Iran",
+    "content_original": "Kuwait, March 1 (QNA) - The Kuwaiti Ministry of Defense announced today that it had intercepted 97 ballistic missiles and 283 drones since the start of the Iranian aggression.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/kuwaiti-defense-ministry-announces-detection-of-97-ballistic-missiles-283-drones-fired-by-iran",
+    "published": "2026-03-01T16:58:16+00:00",
+    "fetched_at": "2026-03-01T14:09:03.848346+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Kuwait Detects 97 Ballistic Missiles and 283 Drones Fired by Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Kuwaiti Defense Ministry reported the interception of 97 ballistic missiles and 283 drones launched by Iran since the onset of hostilities. This highlights the ongoing threat under which Kuwait and other Gulf states are operating due to Iranian aggression. The large number of projectiles underscores the scale of Iran's missile and drone campaign in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "threat",
+      "drone",
+      "ballistic",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "Gulf states"
+      ],
+      "location": "Kuwait",
+      "brief": "Iran launched 97 ballistic missiles and 283 drones towards Kuwait, demonstrating significant offensive capability and regional threat."
+    },
+    "merged_source_count": 2,
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "57dfe338407de36f",
+    "title_original": "В Тегеране тысячи иранцев оплакивают погибшего верховного лидера Хаменеи",
+    "content_original": "Али Хаменеи погиб 28 февраля при атаках США и Израиля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26600277",
+    "published": "2026-03-01T16:56:58+03:00",
+    "fetched_at": "2026-03-01T14:08:49.412952+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Thousands in Tehran Mourn Death of Supreme Leader Khamenei",
+    "relevant": true,
+    "summary_en": "Thousands of Iranians in Tehran are mourning the death of Supreme Leader Ali Khamenei, who was reportedly killed on February 28 during US and Israeli attacks. This event signifies a significant escalation in the ongoing conflict and could have major implications for Iran's leadership and military strategy moving forward.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The death of Supreme Leader Khamenei in a US and Israeli attack marks a major escalation in the Iran-US conflict, with significant implications for regional stability and Iran's leadership."
+    },
+    "merged_source_count": 5,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "c41ac52c1a46a649",
+    "title_original": "КСИР атаковал авианосец ВМС США USS Abraham Lincoln баллистическими ракетами",
+    "content_original": "КСИР атаковал авианосец ВМС США USS Abraham Lincoln баллистическими ракетами",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26600271",
+    "published": "2026-03-01T16:52:04+03:00",
+    "fetched_at": "2026-03-01T14:08:49.413554+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Attacks US Navy Aircraft Carrier USS Abraham Lincoln with Ballistic Missiles",
+    "relevant": true,
+    "summary_en": "The IRGC launched ballistic missile attacks targeting the US Navy aircraft carrier USS Abraham Lincoln. This incident occurred in an unspecified location, likely in the Persian Gulf or nearby waters. The attack represents a significant escalation, demonstrating Iran's willingness to directly target high-value US military assets in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "ballistic",
+      "missile",
+      "irgc",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|irgc_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Persian Gulf",
+      "brief": "IRGC launches ballistic missile attack on US Navy aircraft carrier USS Abraham Lincoln, marking a major escalation in Iran-US tensions."
+    },
+    "merged_source_count": 4,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "74919f5b7b4764ae",
+    "title_original": "Press TV: Иран атаковал танкер, собиравшийся пройти через Ормузский пролив",
+    "content_original": "Экипаж судна эвакуировали",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26600047",
+    "published": "2026-03-01T16:48:16+03:00",
+    "fetched_at": "2026-03-01T14:08:49.414162+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Attacks Tanker in Strait of Hormuz",
+    "relevant": true,
+    "summary_en": "Iran reportedly attacked a tanker attempting to transit the Strait of Hormuz, leading to the evacuation of the ship's crew. This incident highlights the ongoing threat to maritime traffic in the strategically vital waterway amid the conflict. The attack could provoke further international response and increase tensions in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Tanker (unknown nationality)"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "Iran attacked a tanker in the strategically vital Strait of Hormuz, prompting an international response and highlighting maritime security threats."
+    },
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
     "id": "7d12eceec460a4dd",
     "title_original": "Fars: США ударами пытаются способствовать проникновению сепаратистов в Иран",
     "content_original": "По информации агентства, иранскими пограничниками замечена повышенная активность противника в районе границ исламской республики",
@@ -620,6 +843,44 @@
     },
     "lat": 3.1454307,
     "lng": 101.7093968
+  },
+  {
+    "id": "72c05d8d0bc0d283",
+    "title_original": "3 הרוגים באמירויות, אזעקות בירדן, גם המתווכת עומאן נפגעה | התקיפות במפרץ",
+    "content_original": "האיראנים תוקפים לטענתם מטרות אמריקניות במדינות ערב. אזרחים זרים נהרגו באיחוד האמירויות, שרה מהמדינה הזהירה: \"לא נשב בחיבוק ידיים בזמן שאנחנו מטרה לתקיפות\". בירדן הודיעו על 49 כטב\"מים ששוגרו לעברה. שר החוץ הירדני: \"הותקפנו ללא הצדקה\". נמל בעומאן, שניסתה לתווך בין ארה\"ב ואיראן, הותקף על ידי כטב\"מים. גינויים בקטאר: \"דפוס הרסני המאיים על תפקידם של המתווכים\"",
+    "url": "https://www.ynet.co.il/news/article/bkmr7iby11g",
+    "published": "2026-03-01T15:49:43+02:00",
+    "fetched_at": "2026-03-01T14:08:58.177575+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian attacks on US targets in Arab states; casualties in UAE, missile launches toward Jordan and Oman",
+    "relevant": true,
+    "summary_en": "Iran has launched attacks targeting US assets across Arab countries, resulting in civilian casualties in the UAE and missile launches toward Jordan and Oman, a mediator in the US-Iran conflict. These actions threaten regional stability and diplomatic efforts, prompting condemnation from countries like Qatar.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UAE",
+        "Jordan",
+        "Oman"
+      ],
+      "location": "Arab states, UAE, Jordan, Oman",
+      "brief": "Iran launched attacks targeting US assets across Arab countries, resulting in civilian casualties in the UAE and missile launches toward Jordan and Oman, escalating regional tensions and threatening diplomatic efforts."
+    },
+    "lat": 24.0,
+    "lng": 54.0
   },
   {
     "id": "2bcbf370abb9bc79",
@@ -1285,6 +1546,81 @@
     "lng": 35.2257856
   },
   {
+    "id": "66c1516928ba77c8",
+    "title_original": "وزارة الدفاع الإماراتية تعلن عن 3 وفيات و58 إصابة نتيجة الهجمات الإيرانية",
+    "content_original": "أبوظبي في 01 مارس /قنا/ ‏أعلنت وزارة الدفاع الإماراتية أن القوات الجوية والدفاع الجوي تمكنت صباح اليوم الثاني للهجوم الإيراني من تدمير 20 صاروخا باليستيا فيما سقطت 8 صواريخ في البحر.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزارة-الدفاع-الاماراتية-تعلن-عن-3-وفيات-و58-اصابة-نتيجة-الهجمات-الايرانية",
+    "published": "2026-03-01T14:09:01.683785+00:00",
+    "fetched_at": "2026-03-01T14:09:01.683788+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "UAE Defense Ministry Reports 3 Deaths and 58 Injuries from Iranian Attacks",
+    "relevant": true,
+    "summary_en": "The UAE Defense Ministry announced that Iranian attacks resulted in 3 fatalities and 58 injuries. The UAE Air Force and Air Defense intercepted 20 ballistic missiles, while 8 missiles fell into the sea. This highlights the ongoing escalation and direct military engagement between Iran and the UAE amidst the broader conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "conflict",
+      "air defense",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Iranian Armed Forces"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "Iran launched ballistic missile attacks on the UAE resulting in 3 deaths and 58 injuries, with UAE forces intercepting 20 missiles."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "597cbcbeca05ccd1",
+    "title_original": "استشهاد فلسطينيين اثنين وإصابة آخرين في قصف إسرائيلي شمالي قطاع غزة",
+    "content_original": "غزة في 01 مارس /قنا/ استشهد فلسطينيان، اليوم، وأصيب آخرون، جراء قصف إسرائيلي شمالي قطاع غزة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/استشهاد-فلسطينيين-اثنين-واصابة-اخرين-في-قصف-اسراييلي-شمالي-قطاع-غزة",
+    "published": "2026-03-01T14:09:01.683690+00:00",
+    "fetched_at": "2026-03-01T14:09:01.683694+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Two Palestinians killed and others injured in Israeli shelling in northern Gaza",
+    "relevant": true,
+    "summary_en": "Two Palestinians were killed and several others injured in an Israeli shelling attack in northern Gaza. This incident is part of ongoing hostilities between Israel and Palestinian factions in the region. The attack highlights the continued tensions and military operations along the Israel-Gaza border amid the broader regional conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "shelling",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Palestinian factions"
+      ],
+      "location": "Gaza Strip, Northern Gaza",
+      "brief": "Israeli shelling in northern Gaza results in two Palestinian fatalities and multiple injuries amid ongoing regional hostilities."
+    },
+    "lat": 31.5,
+    "lng": 34.47
+  },
+  {
     "id": "fc8de5fba91b092d",
     "title_original": "В Дохе произошли взрывы",
     "content_original": "Работают системы ПВО",
@@ -1321,6 +1657,337 @@
     "merged_source_count": 2,
     "lat": 25.29,
     "lng": 51.53
+  },
+  {
+    "id": "2e6a60d2baeeee4f",
+    "title_original": "⚡️  Iranian attack on naval base in Abu Dhabi",
+    "content_original": "⚡️ Iranian attack on naval base in Abu Dhabi",
+    "url": "https://t.me/warmonitors/40250",
+    "published": "2026-03-01T14:06:32+00:00",
+    "fetched_at": "2026-03-01T14:09:45.355368+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian attack on naval base in Abu Dhabi",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched an attack on a naval base in Abu Dhabi, UAE. This is a significant escalation as it targets US allies in the Gulf region and directly threatens maritime security in the strategically vital area. The attack likely involved missiles or drones and will prompt a response from both the UAE and US forces in the region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "Iran launched a missile or drone attack on a UAE naval base, a significant escalation threatening US allies and maritime security in the Gulf region."
+    },
+    "merged_source_count": 2,
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "63170b06b072f72e",
+    "title_original": "‘It’s Surreal’: Iranians in Disbelief After Supreme Leader Assassinated",
+    "content_original": "Large crowds of people celebrated the killing of Ayatollah Ali Khamenei in American and Israeli strikes, while many others gathered to mourn.",
+    "url": "https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html",
+    "published": "2026-03-01T14:05:02+00:00",
+    "fetched_at": "2026-03-01T14:09:23.162584+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iranians React to Supreme Leader Ayatollah Ali Khamenei's Assassination",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Large crowds in Iran celebrated the killing of Ayatollah Ali Khamenei following reported American and Israeli strikes, while others mourned his death. This event signifies a significant escalation in the conflict and potential power vacuum within Iran's leadership structure. The assassination could lead to further instability and retaliatory actions by Iranian forces against US and Israeli targets.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The assassination of Ayatollah Ali Khamenei by reported American and Israeli strikes marks a significant escalation in the Iran-US conflict, with potential for a power vacuum and further regional instability."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "e4033b30bd8cde84",
+    "title_original": "۳ کشته و ۵۸ زخمی‌ در امارات در پی درگیری‌های خاورمیانه/یک نفر در کویت جان باخت",
+    "content_original": "شفقنا &#8211; از زمان تنش درگیری‌های در خاورمیانه که با حملات آمریکا و اسرائیل به ایران آغاز و با عملیات تلافی‌جویانه تهران همراه شد، حداقل سه نفر در امارات متحده عربی کشته و ۵۸ نفر دیگر زخمی شده‌اند. به گزارش سرویس ترجمه شفقنا، وزارت دفاع امارات در بیانیه‌ای اعلام کرد که این کشور ۱۶۵ موشک [&#8230;] نوشته ۳ کشته و ۵۸ زخمی‌ در امارات در پی درگیری‌های خاورمیانه/یک نفر در کویت جان باخت اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222871/",
+    "published": "2026-03-01T14:02:29+00:00",
+    "fetched_at": "2026-03-01T14:08:48.175256+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "3 killed and 58 injured in UAE amid Middle East tensions; 1 dead in Kuwait",
+    "relevant": true,
+    "summary_en": "At least three people were killed and 58 injured in the UAE as a result of ongoing Middle East tensions, which began with US and Israeli strikes on Iran and retaliatory operations by Tehran. The UAE Ministry of Defense reported that the country intercepted 165 missiles, highlighting the escalating conflict's impact on regional stability and civilian safety.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "dead"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "UAE"
+      ],
+      "location": "UAE",
+      "brief": "Escalation in Middle East tensions results in missile attacks on UAE with casualties, following US-Israeli strikes on Iran and retaliatory operations by Tehran."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "d2cc846bdb090e43",
+    "title_original": "⚡️ #BREAKING  Iranian Revolutionary Guards: We launched 4 ballistic missiles at the US aircraft carrier Lincoln",
+    "content_original": "⚡️ #BREAKING Iranian Revolutionary Guards: We launched 4 ballistic missiles at the US aircraft carrier Lincoln",
+    "url": "https://t.me/warmonitors/40249",
+    "published": "2026-03-01T14:01:32+00:00",
+    "fetched_at": "2026-03-01T14:09:45.353996+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian Revolutionary Guards claim launch of 4 ballistic missiles at US aircraft carrier Lincoln",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC claims to have fired four ballistic missiles targeting the USS Lincoln in an apparent escalation of hostilities. This action, if confirmed, represents a direct attack on a major US naval asset in the region. The strategic significance includes potential escalation and a strong US response, given the direct targeting of a US aircraft carrier.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "attack",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC",
+        "USS Lincoln"
+      ],
+      "location": "Middle East",
+      "brief": "IRGC claims to have launched ballistic missiles at US aircraft carrier USS Lincoln, indicating a direct attack on a major US naval asset."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "f0ca0a8e9975e7c9",
+    "title_original": "سپاه پاسداران: ناو هواپیمابر آمریکا هدف موشک های بالستیک ایران قرار گرفت",
+    "content_original": "شفقنا- سپاه پاسداران اعلام کرد: ناو هواپیمابر آبراهام لینکلن با 4 موشک ایرانی هدف قرار گرفت. به گزارش شفقنا، روابط عمومی سپاه پاسداران انقلاب اسلامی در اطلاعیه شماره ۷ عملیات وعده صادق ۴ بیان کرد: پیرو اقدامات غرور آفرین نیروهای مسلح جمهوری اسلامی ایران و حمله به اهداف دشمنان آمریکایی &#8211; صهیونی، ناو هواپیمابر آبراهام [&#8230;] نوشته سپاه پاسداران: ناو هواپیمابر آمریکا هدف موشک های بالستیک ایران قرار گرفت اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222868/",
+    "published": "2026-03-01T14:00:37+00:00",
+    "fetched_at": "2026-03-01T14:08:48.175485+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC Claims US Abraham Lincoln Aircraft Carrier Struck by Iranian Ballistic Missiles",
+    "relevant": true,
+    "summary_en": "The IRGC announced that the US aircraft carrier USS Abraham Lincoln was hit by four Iranian ballistic missiles as part of Operation Promise of Truth 4. This marks a significant escalation, targeting a critical US naval asset in the region, though US confirmation is pending.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Iranian territorial waters",
+      "brief": "IRGC claims to have struck the USS Abraham Lincoln with ballistic missiles, marking a major escalation in US-Iran tensions."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "8a62862a3132b69c",
+    "title_original": "The US Army's Abraham Lincoln aircraft carrier was attacked with four ballistic missiles: IRGC  @PressTV",
+    "content_original": "The US Army's Abraham Lincoln aircraft carrier was attacked with four ballistic missiles: IRGC @PressTV",
+    "url": "https://t.me/presstv/177462",
+    "published": "2026-03-01T13:55:08+00:00",
+    "fetched_at": "2026-03-01T14:09:37.574477+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC attacks US Abraham Lincoln aircraft carrier with four ballistic missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC launched four ballistic missiles targeting the US Navy's Abraham Lincoln aircraft carrier, marking a significant escalation in direct military confrontation. This attack occurred in an unspecified location, likely in the Persian Gulf or Arabian Sea. The incident signifies a dangerous escalation as it involves direct targeting of a critical US military asset and could provoke a strong US military response.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "ballistic",
+      "irgc",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|irgc_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Persian Gulf or Arabian Sea",
+      "brief": "IRGC launches ballistic missile attack on US aircraft carrier, escalating direct military confrontation."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "c0752ab7483d047a",
+    "title_original": "🚨 سپاه پاسداران: ناو هواپیمابر آبراهام لینکلن ارتش آمریکا مورد حمله چهار فروند موشک بالستیک قرار گرفت ـ ـ ـ ـ ـ ـ ـ ـ...",
+    "content_original": "🚨 سپاه پاسداران: ناو هواپیمابر آبراهام لینکلن ارتش آمریکا مورد حمله چهار فروند موشک بالستیک قرار گرفت ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44966",
+    "published": "2026-03-01T13:52:47+00:00",
+    "fetched_at": "2026-03-01T14:09:47.306150+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC Claims Attack on USS Abraham Lincoln with Four Ballistic Missiles",
+    "relevant": true,
+    "summary_en": "The IRGC claims to have launched four ballistic missiles targeting the USS Abraham Lincoln aircraft carrier. This incident, if confirmed, would represent a significant escalation in hostilities, directly involving a US naval asset in the region. The strategic significance is high due to the potential for direct military confrontation between Iran and the US Navy.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "ballistic",
+      "irgc",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|irgc_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "maritime, likely Gulf region",
+      "brief": "IRGC claims to have launched ballistic missiles targeting USS Abraham Lincoln, indicating a major escalation with direct engagement of US naval forces."
+    },
+    "lat": 6.5175177,
+    "lng": 1.2045805
+  },
+  {
+    "id": "5332dd895e564a13",
+    "title_original": "#الجمهورية_الإسلامية   حاملة الطائرات الأميركية أبراهام لينكولن تم استهدافها ب 4 صواريخ باليستية",
+    "content_original": "#الجمهورية_الإسلامية حاملة الطائرات الأميركية أبراهام لينكولن تم استهدافها ب 4 صواريخ باليستية",
+    "url": "https://t.me/Electrohizbullah/156645",
+    "published": "2026-03-01T13:52:42+00:00",
+    "fetched_at": "2026-03-01T14:09:48.573046+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US Aircraft Carrier Abraham Lincoln Targeted by 4 Ballistic Missiles",
+    "relevant": true,
+    "summary_en": "Iranian forces reportedly launched four ballistic missiles targeting the US aircraft carrier Abraham Lincoln in the Arabian Sea. This attack signifies a significant escalation in the conflict, directly engaging a critical US naval asset. The strategic significance lies in the potential disruption of US naval operations and the risk of escalation between Iran and the US.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Arabian Sea",
+      "brief": "Iran launched four ballistic missiles targeting the US aircraft carrier Abraham Lincoln, marking a major escalation in the conflict."
+    },
+    "lat": 15.0,
+    "lng": 65.0
+  },
+  {
+    "id": "11fcd06ef01e9f11",
+    "title_original": "🇮🇷 ❌ 🇺🇸 🇮🇱 🇦🇪   — Dubai Airport and Sharjah are burning right now from Iranian missile hits.",
+    "content_original": "🇮🇷 ❌ 🇺🇸 🇮🇱 🇦🇪 — Dubai Airport and Sharjah are burning right now from Iranian missile hits.",
+    "url": "https://t.me/CIG_telegram/69838",
+    "published": "2026-03-01T13:52:11+00:00",
+    "fetched_at": "2026-03-01T14:09:43.459909+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian missiles hit Dubai Airport and Sharjah, causing fires",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile strikes targeting Dubai Airport and Sharjah in the UAE. The attacks resulted in fires at both locations. This escalation signifies a direct Iranian attack on critical UAE infrastructure, likely in retaliation against US allies in the region and could provoke further military responses from the US and its partners.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Dubai, Sharjah, UAE",
+      "brief": "Iran launched ballistic missile strikes on Dubai Airport and Sharjah, causing fires and directly targeting critical UAE infrastructure in a major escalation against US allies."
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "d8883e23b9a82806",

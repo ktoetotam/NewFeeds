@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T14-04-58.004209_plus_00-00.json",
+    "generated_at": "2026-03-01T14:04:58.004209+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 540,
+    "summary_preview": "The Iran-US conflict has escalated to MAJOR threat level following a US-Israeli coordinated strike on Iran on 2026-02-28, triggering Iran's comprehensive retaliation against US bases across the Middle"
+  },
+  {
     "filename": "2026-03-01T13-49-36.842778_plus_00-00.json",
     "generated_at": "2026-03-01T13:49:36.842778+00:00",
     "threat_label": "MAJOR",

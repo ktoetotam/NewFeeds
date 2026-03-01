@@ -1,0 +1,98 @@
+{
+  "generated_at": "2026-03-01T14:04:58.004209+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 540,
+    "incident_count_6h": 181,
+    "severity_breakdown": {
+      "major": 186,
+      "high": 228,
+      "medium": 122,
+      "low": 4
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 569,
+    "articles_analyzed": 3144,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated to MAJOR threat level following a US-Israeli coordinated strike on Iran on 2026-02-28, triggering Iran's comprehensive retaliation against US bases across the Middle East and missile attacks on Israel. Iran's Supreme Leader Ayatollah Khamenei was reportedly killed in the initial strike, creating a leadership vacuum as Iran executes waves of 'Al-Wa'd Al-Sadeq 4' operations. The 24h window recorded 540 incidents (186 Major, 228 High), with direct military engagement between US and Iranian forces now confirmed across naval, aerial, and ballistic missile domains.",
+  "whats_new": [
+    "Iranian President Masoud Bzeshkian vows to continue military operations, stating Iran will 'push enemies to despair' by destroying their bases and capabilities",
+    "IRGC announces seventh and eighth waves of 'Al-Wa'd Al-Sadeq 4' operation, indicating sustained retaliatory campaign against US and Israeli targets",
+    "Iranian Foreign Minister Abbas Iraqi emphasizes Iran will 'vigorously defend its sovereignty' amid ongoing hostilities",
+    "Ali Larijani, Secretary of Iran's Supreme National Security Council, states Iran targets US bases only, not regional countries - attempts to limit Gulf state escalation",
+    "Iranian Shahed drones strike shopping center in Sharjah, UAE - escalating attacks on Gulf civilian infrastructure",
+    "Third wave of Iranian suicide drones targets Dubai and Bahrain, destroying hotel in Bahrain and damaging airport"
+  ],
+  "confirmed_events": [
+    "US and Israel launched coordinated preventive airstrike on Iran on 2026-02-28, targeting government facilities and IRGC centers - confirmed by multiple sources",
+    "Iran's ballistic missile barrage struck Haifa and Galilee region in Israel - multiple source corroboration",
+    "Iran struck 14 US military bases across Iraq, Syria, and Gulf region with coordinated ballistic missile and drone attacks - confirmed by IRGC announcements",
+    "IRGC Navy launched missiles against US Navy support ship (MST) in Gulf region - direct naval engagement confirmed",
+    "Ayatollah Ali Khamenei, Iran's Supreme Leader, killed in US-Israeli strike on Tehran compound - reported by multiple state-affiliated and international sources",
+    "Gulf states (Saudi Arabia, UAE, Bahrain, Kuwait, Qatar, Jordan, Iraq) targeted by Iranian missile and drone strikes on US military bases - confirmed by multiple regional sources",
+    "Oil tanker struck by Iranian drones in Strait of Hormuz, causing fire - confirmed by shipping reports",
+    "Iraq extended airspace closure for additional 24 hours due to security tensions - official government announcement",
+    "US Naval Command headquarters in Bahrain targeted by suicide attacks - ongoing situation reported",
+    "Saudi Arabia summoned Iran's ambassador in response to attacks - diplomatic escalation confirmed"
+  ],
+  "unverified_emerging": [
+    "IRGC claims 200 US military personnel killed in Iranian strikes - casualty figures unverified, no independent confirmation",
+    "Death toll from girls school strike in Lamerd, Iran rises to 148 according to War Monitors - single source, targeting of civilian facility unconfirmed by US/Israeli sources",
+    "Former Iranian President Mahmoud Ahmadinejad reportedly killed - conflicting reports (Ynet, Kommersant vs other sources), unverified",
+    "At least 60-85 children killed in school strike in southern Iran - casualty figures from single sources, attribution to US/Israel unconfirmed",
+    "Mahmoud Ahmadinejad killed alongside bodyguards - Ynet reports this, but other sources have not corroborated",
+    "Pakistani PM Shehbaz Sharif cancels trip to Russia over regional clashes - impact on regional diplomacy unconfirmed",
+    "China condemns US-Israel attack and warns against wider conflict - diplomatic position stated, no actionable de-escalation proposed"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Iraq extends airspace closure for additional 24 hours - significant disruption to regional air traffic",
+      "Tourists stranded in Dubai and Abu Dhabi due to flight cancellations - 131 Hong Kong residents confirmed stranded, tennis players seeking shelter",
+      "UAE hotels instructed to extend stays for stranded tourists unable to leave due to flight restrictions",
+      "Thailand evacuates citizens from Iran and Israel - international evacuation underway",
+      "Civilian aviation in Gulf region severely impacted by active missile exchanges and airspace closures"
+    ],
+    "supply_chain": [
+      "Oil tanker struck in Strait of Hormuz by Iranian drones - critical global oil transit chokepoint disrupted, potential price surge",
+      "Iranian attack on Duqm commercial port in Oman - GCC condemned attack on critical maritime infrastructure",
+      "Shopping center in Sharjah, UAE struck by Iranian Shahed drone - civilian supply chain infrastructure targeted",
+      "US military logistics through Gulf bases disrupted by Iranian missile strikes on 14 bases - supply chain tensions mounting",
+      "Gulf ports (Dubai, Bahrain, Oman) experiencing direct attacks affecting maritime trade routes"
+    ],
+    "market_macro": [
+      "Oil prices expected to surge following Strait of Hormuz tanker attack - global oil markets reacting to chokepoint disruption",
+      "Iranian attacks on UAE and Bahrain targeting Western tourists and businesses - tourism sector in Gulf under direct threat",
+      "Western officials criticize US for repeated mistakes in handling Iran - potential policy uncertainty affecting markets",
+      "Saudi Arabia-Iran diplomatic relations further strained following ambassador summons - regional economic cooperation disrupted",
+      "UAE relationship with Iran complicated by 500,000 Iranian migrants in Dubai - potential internal security concerns"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is expected to continue at MAJOR threat level with sustained Iranian retaliatory operations ('Al-Wa'd Al-Sadeq 4' waves) targeting US bases and Israeli interests. With Iran's Supreme Leader killed, a new leadership council has begun functioning - this power transition may either prompt de-escalation or harden Tehran's position. Iranian statements distinguish between targeting US forces (primary) versus regional neighbors (secondary), suggesting attempts to limit Gulf state escalation while maintaining pressure on US assets. Further waves of ballistic missile and drone attacks on US installations across Iraq, Syria, and Gulf are highly probable within 24-72h.",
+    "escalation_risks": [
+      "Iranian attacks on Gulf civilian infrastructure (Sharjah shopping center, Dubai hotels, Bahrain airport) may draw UAE directly into conflict",
+      "Iranian missiles targeting Greek Cyprus hosting British troops - potential NATO involvement escalation",
+      "Protests in Pakistan and Iraq over Khamenei killing - anti-US sentiment could spillover into attacks on US diplomatic facilities",
+      "Iranian attacks on oil infrastructure in Strait of Hormuz - global energy market disruption and potential US military response",
+      "Hezbollah and Hamas may activate Northern Israel front, multiplying theaters of engagement",
+      "Potential for Iranian cyberattacks on Gulf state financial and infrastructure systems"
+    ],
+    "de_escalation_pathways": "De-escalation pathways remain limited in the near-term given the severity of casualties (Iranian Supreme Leader killed, civilian school strikes with 148+ deaths, US personnel casualties claimed). However, Iran's stated position that it does not target Gulf neighbors (only US bases) provides diplomatic opening. Chinese condemnation and calls for ceasefire offer limited mediation channel. The new Iranian leadership council's composition and objectives will be critical - if pragmatic factions prevail, ground for negotiation exists. US commitment to ally defense remains unconditional according to USUN statements, constraining immediate de-escalation. Regional powers (Saudi Arabia, UAE) may act as intermediaries given Iran's explicit distinction between US and Gulf state targets."
+  }
+}

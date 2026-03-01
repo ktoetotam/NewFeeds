@@ -1,5 +1,22 @@
 [
   {
+    "id": "72c05d8d0bc0d283",
+    "title_original": "3 הרוגים באמירויות, אזעקות בירדן, גם המתווכת עומאן נפגעה | התקיפות במפרץ",
+    "content_original": "האיראנים תוקפים לטענתם מטרות אמריקניות במדינות ערב. אזרחים זרים נהרגו באיחוד האמירויות, שרה מהמדינה הזהירה: \"לא נשב בחיבוק ידיים בזמן שאנחנו מטרה לתקיפות\". בירדן הודיעו על 49 כטב\"מים ששוגרו לעברה. שר החוץ הירדני: \"הותקפנו ללא הצדקה\". נמל בעומאן, שניסתה לתווך בין ארה\"ב ואיראן, הותקף על ידי כטב\"מים. גינויים בקטאר: \"דפוס הרסני המאיים על תפקידם של המתווכים\"",
+    "url": "https://www.ynet.co.il/news/article/bkmr7iby11g",
+    "published": "2026-03-01T15:49:43+02:00",
+    "fetched_at": "2026-03-01T14:08:58.177575+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian attacks on US targets in Arab states; casualties in UAE, missile launches toward Jordan and Oman",
+    "relevant": true,
+    "summary_en": "Iran has launched attacks targeting US assets across Arab countries, resulting in civilian casualties in the UAE and missile launches toward Jordan and Oman, a mediator in the US-Iran conflict. These actions threaten regional stability and diplomatic efforts, prompting condemnation from countries like Qatar.",
+    "translated": true
+  },
+  {
     "id": "212bfdf4956910ae",
     "title_original": "דיווחים איראניים: מחמוד אחמדינג'אד חוסל לצד שומרי ראשו",
     "content_original": "דיווחים איראניים: מחמוד אחמדינג'אד חוסל לצד שומרי ראשו",
@@ -116,6 +133,40 @@
     "title_en": "4 critically injured in Jerusalem",
     "relevant": true,
     "summary_en": "4 people were critically injured in Jerusalem, likely due to ongoing conflict-related violence. This incident is significant as it indicates ongoing tensions and potential escalation within Israel amidst the broader regional conflict. The strategic impact relates to potential retaliatory measures and increased security measures in the area.",
+    "translated": true
+  },
+  {
+    "id": "5563a0408fcd78cb",
+    "title_original": "המצוקה הלאומית בשיא: זינוק של למעלה מ-620% בפניות לקו הסיוע של נט\"ל",
+    "content_original": "עלייה של עשרות אחוזי במספרי הפונים למוקדי הסיוע הנפשי, אזרחים וחיילי מילואים המדווחים כי החרדה הביטחונית משפיעה על תפקודם: הורים בחרדה מבקשים הדרכה, לוחמים עם פוסט טראומה חווים נסיגה נפשית",
+    "url": "https://www.maariv.co.il/news/israel/article-1290621",
+    "published": "2026-03-01T14:08:13+00:00",
+    "fetched_at": "2026-03-01T14:08:58.770164+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "National distress at peak: Over 620% increase in calls to NATAL crisis hotline",
+    "relevant": true,
+    "summary_en": "The ongoing conflict has led to a dramatic surge in calls to Israel's crisis hotline, NATAL, indicating heightened anxiety and mental health issues among civilians and reservists. This reflects the escalating security concerns and their impact on daily functioning and mental well-being. The data underscores the psychological toll of the conflict on the Israeli population.",
+    "translated": true
+  },
+  {
+    "id": "d572d2ccf7551a65",
+    "title_original": "\"מפרקים את המדפים\": קולות מהשטח בזמן קניות בסופר",
+    "content_original": "ביקור בשעות הצהריים בסופר ביבנה מגלה עומס מורגש אך לא חריג, קניות מוגברות בעקבות המלחמה ואזעקות שמכניסות לקוחות לממ\"ד באמצע הקנייה. חלק מהמוצרים אזלו, אך העובדים מדגישים: אין מחסור",
+    "url": "https://www.maariv.co.il/news/israel/article-1290620",
+    "published": "2026-03-01T14:03:24+00:00",
+    "fetched_at": "2026-03-01T14:08:58.770370+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Supermarket Shopping Amid War: Increased Purchases and Empty Shelves in Yavne",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
     "translated": true
   },
   {
