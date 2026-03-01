@@ -70,6 +70,79 @@
     "lng": 52.0
   },
   {
+    "id": "fcd52a72abddcb5c",
+    "title_original": "Стармер разрешил США использовать британские базы для ударов по Ирану",
+    "content_original": "Премьер-министр Великобритании Кир Стармер заявил, что предоставил США разрешение на использование британских военных баз на Ближнем Востоке. Вашингтон воспользуется ими для уничтожения мест хранения ракет и пусковых установок, объяснил премьер.",
+    "url": "https://www.kommersant.ru/doc/8477612",
+    "published": "2026-03-02T00:37:22+03:00",
+    "fetched_at": "2026-03-01T21:43:37.783344+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Starmer allows US to use British bases for strikes on Iran",
+    "relevant": true,
+    "summary_en": "UK Prime Minister Keir Starmer has granted the United States permission to use British military bases in the Middle East for strikes against Iran. Washington will use these bases to destroy missile storage sites and launch pads, according to the prime minister. This represents a significant escalation of British involvement in the Iran-US conflict and provides the US with additional staging areas for operations against Iranian military infrastructure.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "United Kingdom",
+        "Iran"
+      ],
+      "location": "British military bases in Middle East (targeting Iran)",
+      "brief": "UK Prime Minister Keir Starmer grants US permission to use British bases in the Middle East for strikes against Iran targeting missile storage sites and launch pads, representing significant escalation in US-Iran tensions."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "e599a35f4f290f0e",
+    "title_original": "Трамп сообщил о гибели всех военных руководителей Ирана",
+    "content_original": "Все военное руководство&nbsp;Ирана ликвидировано в результате военной операции США и Израиля, заявил американский президент Дональд Трамп.",
+    "url": "https://www.rbc.ru/politics/02/03/2026/69a4af1e9a7947527ffcfe2d",
+    "published": "2026-03-02T00:27:35+03:00",
+    "fetched_at": "2026-03-01T21:43:39.497984+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Trump Announces Death of All Iranian Military Leaders",
+    "relevant": true,
+    "summary_en": "US President Donald Trump stated that all of Iran's military leadership has been eliminated as a result of a joint US and Israel military operation. The claim represents a major escalation in the ongoing Iran-US conflict, suggesting the complete decimation of Iran's military command structure.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "death",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US President Trump announces elimination of all Iranian military leadership in joint US-Israel operation, marking major escalation in Iran-US conflict"
+    },
+    "merged_source_count": 8,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "5619616b492e0237",
     "title_original": "UAE halts stock markets for two days after Iran strikes",
     "content_original": "The United Arab Emirates (UAE) has ordered its stock markets closed on Monday and Tuesday as the country reels from Iran’s retaliatory missile and drone strikes , in a sign of the growing economic disruption sweeping the Gulf. Iran carried out the strikes in Gulf countries that have US bases and assets after joint attacks on the Islamic republic by Israel and America. The UAE Capital Markets Authority said the Abu Dhabi Securities Exchange and Dubai Financial Market would remain shut on March 2 and March 3, citing its supervisory and regulatory role over the country’s capital markets. “The Authority will continue to monitor developments in the region and assess the situation on an ongoing basis, taking any further measures as necessary,” it said in a statement. The UAE’s two exchanges are home to some of the region’s most valuable listed companies. The closure keeps billions of dollars in listed assets in suspension as investors await clarity on the scale of damage from Saturday and Su...",
@@ -395,6 +468,45 @@
     "merged_source_count": 2,
     "lat": 32.79,
     "lng": 34.99
+  },
+  {
+    "id": "ef81e2d8664ddfef",
+    "title_original": "At least seven people wounded by Iranian missile strike in Jerusalem area",
+    "content_original": "Israel Police is sweeping the area for missile shrapnel and urges the public to stay area from the site of the strike.",
+    "url": "https://www.jpost.com/israel-news/article-888444",
+    "published": "2026-03-01T23:03:51+00:00",
+    "fetched_at": "2026-03-01T21:43:40.501823+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "At least seven people wounded by Iranian missile strike in Jerusalem area",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian missiles struck the Jerusalem area, wounding at least seven people. Israeli police are sweeping the area for missile shrapnel and urging the public to stay away from the strike site. This represents an expansion of Iranian ballistic missile attacks into Israeli territory, marking a significant escalation in the ongoing Iran-US conflict and broader regional hostilities.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "wounded",
+      "missile",
+      "strike",
+      "ballistic",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Jerusalem, Israel",
+      "brief": "Iranian ballistic missiles struck the Jerusalem area, wounding at least seven people and marking a significant expansion of Iranian ballistic missile attacks into Israeli territory."
+    },
+    "merged_source_count": 5,
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "fe3bee83f550daf2",
@@ -1020,6 +1132,46 @@
     }
   },
   {
+    "id": "5a438bb6ea928718",
+    "title_original": "With Iraqi militia attacks on US forces, Iraq edges toward Iran war frontline",
+    "content_original": "Iranian-backed militias have launched a series of drone attacks targeting US bases in Iraq, raising the question: has Iraq become the next frontline in the widening Iran war?",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888439",
+    "published": "2026-03-01T22:04:21+00:00",
+    "fetched_at": "2026-03-01T21:43:40.502970+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "With Iraqi militia attacks on US forces, Iraq edges toward Iran war frontline",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian-backed militias in Iraq have launched a series of drone attacks targeting US military bases in the country. These attacks raise significant concerns that Iraq is becoming the next frontline in the widening Iran-United States conflict, as Tehran leverages its proxy forces to increase pressure on American assets in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "war",
+      "drone",
+      "proxy",
+      "militia",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Iraqi militias (Iranian-backed)",
+        "United States",
+        "Iraq"
+      ],
+      "location": "Iraq",
+      "brief": "Iranian-backed militias in Iraq launched drone attacks on US military bases, marking a significant escalation as Iraq risks becoming the next frontline in the Iran-US conflict."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
     "id": "50c99dba6cd01b2f",
     "title_original": "ЦАХАЛ заявил о 30 ударах по ракетным объектам и системам ПВО Ирана",
     "content_original": "Это сделано \"для минимизации огня в направлении Государства Израиль\", заявили в армии",
@@ -1320,6 +1472,42 @@
     "lng": 34.8
   },
   {
+    "id": "981da221933c258b",
+    "title_original": "US-Israeli strike targets IRIB facility; broadcasts continue",
+    "content_original": "US-Israeli strike targets IRIB facility; broadcasts continue",
+    "url": "https://presstv.ir/Detail/2026/03/01/764873/Iran-IRIB-building-United-States-Israel-strike-Channel-2",
+    "published": "2026-03-01T21:43:05.964428+00:00",
+    "fetched_at": "2026-03-01T21:43:05.964430+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "US-Israeli strike targets IRIB facility; broadcasts continue",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US and Israeli forces conducted a joint strike targeting a facility belonging to IRIB (Islamic Republic of Iran Broadcasting), the Iranian state media outlet. Despite the strike, broadcasts continued, indicating partial effectiveness or redundant capabilities. The attack represents an effort to degrade Iran's information and propaganda capabilities as part of the broader US-Israeli military campaign against Iranian assets.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (IRIB facility)",
+      "brief": "US-Israeli joint airstrike targeted IRIB state broadcasting facility in Iran, though broadcasts continued indicating limited operational impact."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "5fd7e711fe0f7a5b",
     "title_original": "'Names will change, regime will stay': How Iranians on the street see life after Khamenei's death in US-Israel strikes",
     "content_original": "Top security chief Ali Larijani announced transition plans and warned Iran would hit Israel and United States with a force “they've never experienced before”",
@@ -1465,6 +1653,79 @@
     "lng": 54.0
   },
   {
+    "id": "46bae67e464ed0cc",
+    "title_original": "من مكان سقوط الصاروخ في رمات شلومو في القدس واستمرار تواجد قوات الانقاذ وسيارات الاسعاف",
+    "content_original": "من مكان سقوط الصاروخ في رمات شلومو في القدس واستمرار تواجد قوات الانقاذ وسيارات الاسعاف",
+    "url": "https://t.me/Electrohizbullah/156885",
+    "published": "2026-03-01T21:31:59+00:00",
+    "fetched_at": "2026-03-01T21:44:36.494753+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "من مكان سقوط الصاروخ في رمات شلومو في القدس واستمرار تواجد قوات الانقاذ وسيارات الاسعاف",
+    "summary_en": "{\"h\":\"Rocket Falls in Ramat Shlomo, Jerusalem; Rescue Forces Continue Operations\",\"r\":true,\"s\":\"A rocket landed in the Ramat Shlomo neighborhood of Jerusalem, with rescue forces and ambulances remaining on scene. The incident appears to be part of ongoing cross-border hostilities, likely involving rocket fire from Lebanese Hezbollah",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "rocket",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Ramat Shlomo, Jerusalem, Israel",
+      "brief": "A rocket landed in the Ramat Shlomo neighborhood of Jerusalem during ongoing cross-border hostilities involving Iran-backed proxy forces."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "f87967fe4a9eedcb",
+    "title_original": "Israeli air defense systems have failed to intercept missiles launched from Iran. @PressTV",
+    "content_original": "Israeli air defense systems have failed to intercept missiles launched from Iran. @PressTV",
+    "url": "https://t.me/presstv/177531",
+    "published": "2026-03-01T21:27:54+00:00",
+    "fetched_at": "2026-03-01T21:44:25.942161+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Israeli air defense systems have failed to intercept missiles launched from Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missiles at Israel that evaded Israeli air defense systems, representing a significant operational failure of Israeli missile defense. This incident highlights the escalating exchange between Iran and Israel as part of the broader Iran-US conflict, with implications for regional air defense capabilities and potential retaliation cycles.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "air defense",
+      "missile",
+      "intercept",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched ballistic missiles at Israel that evaded Israeli air defense systems, marking a significant escalation in the Iran-Israel conflict within the broader Iran-US conflict."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "2a9dfa2bcf84c774",
     "title_original": "При атаке БПЛА на машину на дороге Донецк — Горловка погиб человек",
     "content_original": "При атаке БПЛА на машину на дороге Донецк — Горловка погиб человек",
@@ -1498,6 +1759,44 @@
     },
     "lat": 48.3618629,
     "lng": 38.0665859
+  },
+  {
+    "id": "9615dc6bde08edfe",
+    "title_original": "إغلاق مفترق \"راموت\" في القدس المحتلة؛ بسبب الدمار الكبير بفعل سقوط صاروخ إيراني.",
+    "content_original": "إغلاق مفترق \"راموت\" في القدس المحتلة؛ بسبب الدمار الكبير بفعل سقوط صاروخ إيراني.",
+    "url": "https://t.me/Electrohizbullah/156880",
+    "published": "2026-03-01T21:22:00+00:00",
+    "fetched_at": "2026-03-01T21:44:36.492036+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Closure of Ramot junction in occupied Jerusalem due to major damage from Iranian rocket strike",
+    "relevant": true,
+    "summary_en": "An Iranian rocket struck the Ramot junction in occupied Jerusalem, causing major damage that necessitated its closure. This represents an escalation in the Iran-Israel conflict front, extending the ongoing Iran-US war to directly target Israeli territory.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "war",
+      "rocket",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Ramot junction, occupied Jerusalem",
+      "brief": "Iranian rocket strike on Ramot junction in Jerusalem causes major damage and closure, escalating Iran-US conflict to directly target Israeli territory."
+    },
+    "lat": 31.809649,
+    "lng": 35.204075
   },
   {
     "id": "00ffe27c6c30f8fc",
@@ -1538,6 +1837,79 @@
     "merged_source_count": 2,
     "lat": 33.1,
     "lng": 44.17
+  },
+  {
+    "id": "fe9e446b3ffce3be",
+    "title_original": "#الولايات_المتحدة_الأمريكية   ترامب: قُتل لنا 3 جنود على يد إيران، ومن المحتمل أن يكون هناك المزيد من القتلى الأمريكي...",
+    "content_original": "#الولايات_المتحدة_الأمريكية ترامب: قُتل لنا 3 جنود على يد إيران، ومن المحتمل أن يكون هناك المزيد من القتلى الأمريكيين في هذه الحرب.",
+    "url": "https://t.me/Electrohizbullah/156878",
+    "published": "2026-03-01T21:18:32+00:00",
+    "fetched_at": "2026-03-01T21:44:36.490900+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Trump: 3 of our soldiers were killed by Iran, there may be more American casualties",
+    "relevant": true,
+    "summary_en": "US former President Trump stated that 3 American soldiers have been killed by Iran, and there may be additional American casualties in this war. The statement indicates ongoing US casualties from Iranian attacks, suggesting continued hostilities and potential escalation in the Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "war",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC",
+        "Iranian proxies"
+      ],
+      "location": "Middle East theater (exact location unspecified)",
+      "brief": "Former President Trump reports 3 American soldiers killed by Iran with potential additional casualties, indicating direct US-Iran engagement."
+    },
+    "lat": 35.1523098,
+    "lng": -86.569949
+  },
+  {
+    "id": "9d608045eaf9dcca",
+    "title_original": "#إعلام_العدو   مشاهد جديدة...  لحظة سقوط صاروخ إيراني بشكل مباشر في القدس المحتلة.",
+    "content_original": "#إعلام_العدو مشاهد جديدة... لحظة سقوط صاروخ إيراني بشكل مباشر في القدس المحتلة.",
+    "url": "https://t.me/Electrohizbullah/156877",
+    "published": "2026-03-01T21:15:56+00:00",
+    "fetched_at": "2026-03-01T21:44:36.490411+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "#إعلام_العدو   مشاهد جديدة...  لحظة سقوط صاروخ إيراني بشكل مباشر في القدس المحتلة.",
+    "summary_en": "{\"h\":\"New scenes... moment an Iranian missile falls directly in occupied Jerusalem\",\"r\":true,\"s\":\"New footage shows the moment",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Jerusalem (Occupied)",
+      "brief": "New footage shows Iranian ballistic missile directly striking occupied Jerusalem in major escalation."
+    },
+    "lat": 31.7788472,
+    "lng": 35.2257856
   },
   {
     "id": "886603fef93b1350",
