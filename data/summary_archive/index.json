@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-02-28T23-45-41.133217_plus_00-00.json",
+    "generated_at": "2026-02-28T23:45:41.133217+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 184,
+    "summary_preview": "The Iran–US conflict has escalated significantly, with both sides engaging in direct military actions, including missile strikes, drone attacks, and naval incidents. The involvement of regional actors"
+  },
+  {
     "filename": "2026-02-28T23-32-23.667843_plus_00-00.json",
     "generated_at": "2026-02-28T23:32:23.667843+00:00",
     "threat_label": "MAJOR",
