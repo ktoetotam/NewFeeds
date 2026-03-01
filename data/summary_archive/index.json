@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T19-20-05.233828_plus_00-00.json",
+    "generated_at": "2026-03-01T19:20:05.233828+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 689,
+    "summary_preview": "The Iran-US conflict has entered a critical new phase with confirmed US casualties for the first time — three American service members killed in Iranian strikes on Gulf bases. US-Israeli operations ha"
+  },
+  {
     "filename": "2026-03-01T18-56-50.451688_plus_00-00.json",
     "generated_at": "2026-03-01T18:56:50.451688+00:00",
     "threat_label": "MAJOR",

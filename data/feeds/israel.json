@@ -188,6 +188,22 @@
     "translated": true
   },
   {
+    "id": "9db705751ca1fb9b",
+    "title_original": "האסון הכבד בבית שמש: שתי השאלות הקשות מספרות את הסיפור",
+    "content_original": "בצה״ל מעריכים כי ראש הנפץ של הטיל שהוביל לאסון בבית שמש, היה בסדר גודל של 500 ק״ג חומר נפץ: ״גם במהלך מלחמת ׳עם כלביא׳ ראינו שטיל בסדר גודל כזה שפוגע בממ\"ד או במקלט, מביא לחדירה שלו פנימה\"",
+    "url": "https://www.maariv.co.il/news/military/article-1290754",
+    "published": "2026-03-01T19:19:17+00:00",
+    "fetched_at": "2026-03-01T19:24:05.590439+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "האסון הכבד בבית שמש: שתי השאלות הקשות מספרות את הסיפור",
+    "summary_en": "[API unavailable — Hebrew source]",
+    "translated": false
+  },
+  {
     "id": "eaeac612067bd6d3",
     "title_original": "Former Israel Navy chief says, 'They promised us hell but they were revealed as pathetic'",
     "content_original": "Marom argued that the strike reshaped regional alignments and revealed weaknesses in Iran’s threat posture.",
@@ -203,6 +219,22 @@
     "translated": true,
     "relevant": true,
     "summary_en": "Former Israeli Navy chief Eli Marom criticized Iran and its proxies, stating that threats to Israel proved empty after a recent strike exposed weaknesses in Iran's regional threat posture and reshaped Middle Eastern alliances."
+  },
+  {
+    "id": "708b838ad5eb21bc",
+    "title_original": "מומחה לטורקיה: ארדואן מסתכל על איראן והוא בפאניקה - זאת הסיבה",
+    "content_original": "ד\"ר חי איתן כהן ינרוג'ק מעריך כי נשיא טורקיה חושש מנפילת המשטר האיראני ומהקמת אוטונומיה כורדית או משטר פרו-ישראלי בטהרן, ואף בוחן תרחיש של יצירת אזור חיץ כדי למנוע גל פליטים",
+    "url": "https://www.maariv.co.il/news/world/article-1290739",
+    "published": "2026-03-01T19:03:10+00:00",
+    "fetched_at": "2026-03-01T19:24:05.590888+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "מומחה לטורקיה: ארדואן מסתכל על איראן והוא בפאניקה - זאת הסיבה",
+    "summary_en": "[API unavailable — Hebrew source]",
+    "translated": false
   },
   {
     "id": "fd83b16fa1e692b6",
