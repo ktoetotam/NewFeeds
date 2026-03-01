@@ -106,6 +106,42 @@
     "lng": 52.0
   },
   {
+    "id": "4026e162d898fb42",
+    "title_original": "КСИР: авианосец США Abraham Lincoln после удара отошел от Ирана",
+    "content_original": "Судно покинуло район, где выполняло свою миссию, и направилось в сторону Индийского океана, сообщила пресс-служба Корпуса стражей исламской революции",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26604217",
+    "published": "2026-03-02T01:51:24+03:00",
+    "fetched_at": "2026-03-01T23:03:32.979564+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC: US Aircraft Carrier Abraham Lincoln Withdrew From Iran After Strike",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps claims that the US aircraft carrier Abraham Lincoln was hit and subsequently withdrew from its operational area near Iran, moving toward the Indian Ocean. The IRGC press service reported that the vessel left the zone where it was conducting its mission. This claim, if verified, would represent a significant successful strike by Iran against a high-value US naval target in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "US Navy"
+      ],
+      "location": "Persian Gulf/Gulf of Oman region",
+      "brief": "IRGC claims to have struck US aircraft carrier Abraham Lincoln, causing its withdrawal toward Indian Ocean"
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "d7116b5ed56759b4",
     "title_original": "СМИ: БПЛА пытался атаковать логистический центр посольства США в Багдаде",
     "content_original": "СМИ: БПЛА пытался атаковать логистический центр посольства США в Багдаде",
@@ -291,6 +327,280 @@
     "lng": 47.0
   },
   {
+    "id": "b24752f78fe564f7",
+    "title_original": "אזעקות בחיפה והסביבה",
+    "content_original": "אזעקות בחיפה והסביבה",
+    "url": "https://mivzakim.net/r/13964876/rss",
+    "published": "2026-03-02T01:03:17+02:00",
+    "fetched_at": "2026-03-01T23:03:46.929578+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Sirens in Haifa and surrounding area",
+    "relevant": true,
+    "summary_en": "Air raid sirens sounded in Haifa and surrounding areas, indicating potential rocket or missile threats. Given the ongoing conflict with Hezbollah on Israel's northern border, these sirens likely represent incoming projectiles from Lebanese territory toward this major Israeli port city.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "missile",
+      "rocket",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Haifa, Israel",
+      "brief": "Air raid sirens in Haifa indicate incoming rockets or missiles from Hezbollah in southern Lebanon, marking another escalation in the cross-border conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 32.79,
+    "lng": 34.99
+  },
+  {
+    "id": "24d772ffb1a57743",
+    "title_original": "צבע אדום (01:01): טירת כרמל, חוף הכרמל",
+    "content_original": "צבע אדום (01:01): טירת כרמל, חוף הכרמל",
+    "url": "https://mivzakim.net/r/13964872/rss",
+    "published": "2026-03-02T01:01:51+02:00",
+    "fetched_at": "2026-03-01T23:03:45.789462+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Red alert (01:01): Kiryat Carmel, Carmel Coast",
+    "relevant": true,
+    "summary_en": "Israeli Home Front Command issued a red alert (air raid siren) for Kiryat Carmel and the Carmel Coast area in Haifa at 01:01. This indicates a potential incoming rocket or missile threat, likely related to the ongoing conflict involving Hezbollah and Iranian proxy forces along Israel's northern border.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "proxy",
+      "missile",
+      "rocket",
+      "conflict",
+      "raid",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Kiryat Carmel, Carmel Coast, Haifa, Israel",
+      "brief": "Israeli Home Front Command issued red alert for Kiryat Carmel and Carmel Coast in Haifa amid potential incoming rocket or missile threat from Hezbollah Iranian proxy forces."
+    },
+    "lat": 32.79,
+    "lng": 34.99
+  },
+  {
+    "id": "4a361f8107fbb541",
+    "title_original": "אזעקות נוספות הופעלו בגליל המערבי וברמת הגולן",
+    "content_original": "אזעקות נוספות הופעלו בגליל המערבי וברמת הגולן",
+    "url": "https://mivzakim.net/r/13964863/rss",
+    "published": "2026-03-02T00:53:04+02:00",
+    "fetched_at": "2026-03-01T23:03:45.790488+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Additional sirens activated in Western Galilee and Golan Heights",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Western Galilee and the Golan Heights, indicating incoming rocket or missile threats to northern Israel. This represents ongoing cross-border hostilities likely involving Hezbollah, the Iranian proxy forces operating from Lebanon, which are part of the broader Iran-US conflict network.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hezbollah",
+      "proxy",
+      "missile",
+      "rocket",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Western Galilee and Golan Heights, Israel",
+      "brief": "Air raid sirens activated in Western Galilee and Golan Heights amid incoming rocket or missile threats from Hezbollah forces in Lebanon, indicating ongoing cross-border hostilities between the Iranian proxy and Israel."
+    },
+    "merged_source_count": 2,
+    "lat": 32.88,
+    "lng": 35.3
+  },
+  {
+    "id": "b4698ec9184a1db4",
+    "title_original": "התרעות נוספות על חדירת כטב\"ם בגליל ובצפון הגולן",
+    "content_original": "התרעות נוספות על חדירת כטב\"ם בגליל ובצפון הגולן",
+    "url": "https://mivzakim.net/r/13964860/rss",
+    "published": "2026-03-02T00:50:36+02:00",
+    "fetched_at": "2026-03-01T23:03:45.790674+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Additional alerts of UAV infiltration in the Galilee and northern Golan Heights",
+    "relevant": true,
+    "summary_en": "Israeli air defense systems issued additional alerts for UAV (drone) infiltrations in the Galilee region and northern Golan Heights. The specific origin of the drones was not immediately identified, but such incursions typically originate from Iranian-backed forces in the region, likely Hezbollah in Lebanon or Iranian proxies operating in Syria. These alerts indicate continued probing of Israeli air defenses and potential surveillance or attack preparations by hostile forces along Israel's northern frontier.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "hezbollah",
+      "air defense",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Galilee and northern Golan Heights, Israel",
+      "brief": "Israeli air defense issued alerts for UAV infiltrations in the Galilee and northern Golan Heights, likely originating from Iranian-backed Hezbollah forces."
+    },
+    "merged_source_count": 2,
+    "lat": 32.88,
+    "lng": 35.3
+  },
+  {
+    "id": "84f4dd989dff1887",
+    "title_original": "התרעות משולבות על ירי טילים וחשש לחדירת כטב\"ם בגליל המערבי",
+    "content_original": "התרעות משולבות על ירי טילים וחשש לחדירת כטב\"ם בגליל המערבי",
+    "url": "https://mivzakim.net/r/13964859/rss",
+    "published": "2026-03-02T00:47:59+02:00",
+    "fetched_at": "2026-03-01T23:03:45.790863+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Combined warnings of missile fire and concern of drone infiltration in the Western Galilee",
+    "relevant": true,
+    "summary_en": "Israeli authorities issued combined alerts for missile fire and potential drone infiltration in the Western Galilee region of northern Israel. The alerts indicate ongoing threats from the northern front, likely involving Hezbollah forces in Lebanon. This represents continued hostilities on Israel's border with Lebanon, a key proxy front in the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "proxy",
+      "drone",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Western Galilee, Northern Israel",
+      "brief": "Israeli authorities issued combined alerts for missile fire and potential drone infiltration in Western Galilee, indicating ongoing threats from Hezbollah forces in Lebanon."
+    },
+    "lat": 32.88,
+    "lng": 35.3
+  },
+  {
+    "id": "d1fc67c1b47f0f30",
+    "title_original": "הכטב\"ם בצפון ממשיך להפעיל אזעקות - ניסיונות יירוט של צה\"ל",
+    "content_original": "הכטב\"ם בצפון ממשיך להפעיל אזעקות - ניסיונות יירוט של צה\"ל",
+    "url": "https://mivzakim.net/r/13964858/rss",
+    "published": "2026-03-02T00:47:10+02:00",
+    "fetched_at": "2026-03-01T23:03:45.791049+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "UAV in northern Israel continues to trigger alarms - IDF interception attempts",
+    "relevant": true,
+    "summary_en": "A UAV (likely hostile) continues to trigger air raid alarms in northern Israel, with the IDF attempting interceptions. This represents ongoing aerial threats from Iranian proxy forces on Israel's northern border, connected to the wider Iran-US conflict and Hezbollah activity in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hezbollah",
+      "proxy",
+      "conflict",
+      "raid",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Northern Israel",
+      "brief": "Hostile UAV triggering air raid alarms in northern Israel represents ongoing Iranian proxy aerial threats from Hezbollah on Israel's northern border."
+    },
+    "merged_source_count": 3,
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "49693a42e2b23a03",
+    "title_original": "חדירת כלי טיס (00:44): מטה אשר",
+    "content_original": "חדירת כלי טיס (00:44): מטה אשר",
+    "url": "https://mivzakim.net/r/13964852/rss",
+    "published": "2026-03-02T00:45:14+02:00",
+    "fetched_at": "2026-03-01T23:03:45.791636+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Airborne Infiltration (00:44): Ashdod",
+    "relevant": true,
+    "summary_en": "Israeli sources report an aircraft infiltration incident at Ashdod headquarters. The minimal details available suggest either an unauthorized aircraft entry or air defense activation at this strategic Israeli port city location. Further details on the nature of the aircraft and any intercepts remain unavailable.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Unknown aircraft (potentially Iran-backed)"
+      ],
+      "location": "Ashdod, Israel",
+      "brief": "Israeli sources report aircraft infiltration incident at Ashdod headquarters with uncertain nature of aircraft and no confirmation of intercepts or origin."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "fcd52a72abddcb5c",
     "title_original": "Стармер разрешил США использовать британские базы для ударов по Ирану",
     "content_original": "Премьер-министр Великобритании Кир Стармер заявил, что предоставил США разрешение на использование британских военных баз на Ближнем Востоке. Вашингтон воспользуется ими для уничтожения мест хранения ракет и пусковых установок, объяснил премьер.",
@@ -324,6 +634,81 @@
       "brief": "UK Prime Minister Keir Starmer grants US permission to use British bases in the Middle East for strikes against Iran targeting missile storage sites and launch pads, representing significant escalation in US-Iran tensions."
     },
     "geocode_failed": true
+  },
+  {
+    "id": "37398eefb4cef480",
+    "title_original": "ירי בלתי פוסק לרחבי הארץ; 7 פצועים, אחד מהם קשה, מפגיעת טיל בירושלים",
+    "content_original": "​הנרצחים בפגיעת הטיל בבית שמש: שרה אלימלך ובתה רונית אלימלך, אורן כץ וגבריאל ברוך רווח. שמותיהם של 5 נרצחים נוספים עדיין לא פורסמו | טראמפ הודיע ש-9 ספינות של חיל הים האיראני הושמדו, ואמר: \"המבצע יימשך ארבעה שבועות - או פחות\"",
+    "url": "https://mivzakim.net/r/13964847/rss",
+    "published": "2026-03-02T00:36:30+02:00",
+    "fetched_at": "2026-03-01T23:03:45.792020+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Ongoing Missile Fire Across Israel; 7 Wounded in Jerusalem Strike, Trump Announces 9 Iranian Navy Ships Destroyed",
+    "relevant": true,
+    "summary_en": "Iranian missiles struck Israel, hitting Jerusalem and Beit Shemesh, killing at least 9 civilians including Sarah Elimelech and her daughter Ronit, and wounding 7. US President Trump announced that 9 Iranian navy ships have been destroyed and stated the operation would last four weeks or less.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "wounded",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Jerusalem, Beit Shemesh, Israel",
+      "brief": "Iranian ballistic missiles struck Jerusalem and Beit Shemesh killing at least 9 civilians while Trump announced the US destroyed 9 Iranian navy ships in an escalating direct conflict."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "950d9d157088f417",
+    "title_original": "قصف إيراني عنيف متواصل على كيان العدو وسقوط عشرات القتلى والجرحى",
+    "content_original": "المسيرة نت| متابعات: كثفت القوات المسلحة الإيرانية اليوم ضرباتها الصاروخية مستهدفة مدينة يافا المحتلة التي يطلق عليها العدو تسمية [تل أبيب]، بالتوازي مع قصف استهدف حيفا والقدس المحتلة.",
+    "url": "https://almasirah.net.ye/static/static/7d51a4df-5605-4c95-9d1c-355a76571e46.jpg",
+    "published": "2026-03-02T00:29:39+00:00",
+    "fetched_at": "2026-03-01T23:04:27.099883+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Intense Ongoing Iranian Bombing on Enemy Entity, Dozens Killed and Wounded",
+    "relevant": true,
+    "summary_en": "The Iranian armed forces intensified their missile strikes targeting occupied Yafa (Tel Aviv), in parallel with attacks on Haifa and occupied Jerusalem. The bombardment has resulted in dozens of casualties, representing a significant escalation in Iran's direct military offensive against Israeli territory.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "offensive",
+      "wounded",
+      "killed",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Tel Aviv (Yafa), Haifa, Jerusalem, Israel",
+      "brief": "Iranian armed forces conducted intensified ballistic missile strikes on Israeli cities including Tel Aviv, Haifa, and Jerusalem, resulting in dozens of casualties and marking a significant escalation in Iran's direct military offensive against Israel."
+    },
+    "lat": 32.08,
+    "lng": 34.78
   },
   {
     "id": "e599a35f4f290f0e",
@@ -398,6 +783,45 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "e4c871d6e879951d",
+    "title_original": "المقاومة الإسلامية في العراق تستهدف القواعد الأمريكية بـ 23 عملية استراتيجية ثأرًا لدماء الشهداء",
+    "content_original": "المسيرة نت| متابعة خاصة: كشفت المقاومة الإسلامية في العراق عن دخول مواجهة كسر العظم مع الاحتلال الأمريكي في المنطقة طورًا غير مسبوق؛ إذ تحولت العمليات إلى استراتيجية إغراق جوي عبر أسرابٍ من الطائرات المسيّرة وصواريخ باليستية نوعية.",
+    "url": "https://almasirah.net.ye/static/static/9b15a782-d34f-4b5e-9db9-d0276e801c17.jpg",
+    "published": "2026-03-02T00:21:55+00:00",
+    "fetched_at": "2026-03-01T23:04:27.100076+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Islamic Resistance in Iraq Targets US Bases with 23 Strategic Operations in Revenge for Martyred Fighters",
+    "relevant": true,
+    "summary_en": "The Islamic Resistance in Iraq (IRGC-aligned Shia militia) claimed responsibility for 23 strategic operations against American bases in Iraq, marking what they describe as an unprecedented phase of 'skeleton-breaking' confrontation. The operations reportedly involved drone swarms and ballistic missiles targeting US installations, framed as retaliation for the blood of 'martyrs' killed in recent US strikes on IRGC assets.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "ballistic",
+      "irgc",
+      "drone",
+      "killed",
+      "militia"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Islamic Resistance in Iraq",
+        "IRGC",
+        "United States"
+      ],
+      "location": "Iraq",
+      "brief": "IRGC-aligned Shia militia in Iraq claimed 23 drone and ballistic missile operations against US bases in revenge for martyred fighters, describing it as an unprecedented skeleton-breaking confrontation phase."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "acb6fbbe499ddbce",
@@ -624,6 +1048,79 @@
     "lng": 52.0
   },
   {
+    "id": "e9fa07b9d876b903",
+    "title_original": "الموجة التاسعة لحرس الثورة الإسلامية: طهران تضرب العمق الصهيوني والتعزيزات الأمريكية",
+    "content_original": "المسيرة نت| متابعة خاصة: في تصعيدٍ دراماتيكي أطلقت الجمهورية الإسلامية الإيرانية \"الموجة التاسعة\" من هجماتها الصاروخية المكثفة، مستهدفةً حيزًا جغرافيًّا واسعًا يمتد من أقصى شمال فلسطين المحتلة إلى أقصى جنوبها، في ردٍّ ميداني مباشر يفنّد مزاعم الاحتلال الإسرائيلي بالسيطرة على الأجواء الإيرانية.",
+    "url": "https://almasirah.net.ye/static/static/ee754820-538c-4e7d-9a42-4bd0aee0a53d.jpg",
+    "published": "2026-03-01T23:35:35+00:00",
+    "fetched_at": "2026-03-01T23:04:27.100905+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "The Ninth Wave of the Islamic Revolutionary Guard: Tehran strikes deep into Zionist territory and American reinforcements",
+    "relevant": true,
+    "summary_en": "The Islamic Republic of Iran launched its ninth wave of intensive missile attacks, targeting a geographic area spanning from the far north to the far south of occupied Palestine, in a direct field response that refutes Israeli claims of controlling Iranian airspace.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "occupied Palestine / Israel",
+      "brief": "Iran's IRGC launched ninth wave of intensive ballistic missile attacks targeting Israeli territory from north to south, with US reinforcements mentioned as potential targets"
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "b58df0fa8ce857d6",
+    "title_original": "تغطية خاصة | حول استشهاد السيد علي خامنئي بعدوان أمريكي صهيوني وقراءة في كلمة السيد القائد عبدالملك الحوثي | مع حسان عليان و علي الديلمي و د. حكم أمهز و خالد الرواس و د. رضا اسكندر و العميد نضال زهوي و حسن حردان و د. عماد أبو الحسن   12 رمضان 1447هـ 01 مارس 2026م",
+    "content_original": "تقديم: أحمد عبدالوهاب",
+    "url": "https://almasirah.net.ye/static/static/630a1117-988d-40fd-bcef-dbb9b5fa2bfd.jpg",
+    "published": "2026-03-01T23:30:06+00:00",
+    "fetched_at": "2026-03-01T23:04:27.101086+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Special Coverage | On the Martyrdom of Mr. Ali Khamenei After American-Zionist Aggression and a Reading of the Speech of Mr. Leader Abdul-Malik al-Houthi",
+    "summary_en": "This Houthis-affiliated report claims that Iran's Supreme Leader Ali Khamenei was martyred in an American-Israeli attack, with the article also covering",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "houthi",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "Houthis"
+      ],
+      "location": "Iran",
+      "brief": "Houthis-affiliated report claims Iran's Supreme Leader Ali Khamenei was martyred in an American-Israeli attack"
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "8ab0465cb760c755",
     "title_original": "Иран атаковал морской объект у порта в Бахрейне",
     "content_original": "Иран атаковал морской объект у порта в Бахрейне",
@@ -689,6 +1186,44 @@
     },
     "lat": 26.07,
     "lng": 50.55
+  },
+  {
+    "id": "7e0b5f4c79041198",
+    "title_original": "حزب الله اللبناني يعزي في استشهاد السيد خامنئي ويؤكد مواصلة جهاده والوقوف بقوة مع إيران",
+    "content_original": "المسيرة نت| متابعات: عزى حزب الله اللبناني المجاهدين والمؤمنين وأمة المقاومة والشعب الإيراني العظيم الصابر الثابت في استشهاد السيد على الخامنئي الذي استشهد في عدوان أمريكي صهيوني غادر.",
+    "url": "https://almasirah.net.ye/static/static/c3158060-7576-49cb-a8db-c741b97a6841.jpg",
+    "published": "2026-03-01T23:19:11+00:00",
+    "fetched_at": "2026-03-01T23:04:27.102206+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Lebanese Hezbollah mourns martyrdom of Mr. Khameini, confirms continuation of jihad and standing strongly with Iran",
+    "relevant": true,
+    "summary_en": "Lebanese Hezbollah has offered condolences for the martyrdom of Mr. Ali Khameini, who was killed in what it described as a treacherous American-Zionist aggression, affirming to the patient and steadfast Iranian people that it will continue its jihad and stand strongly with Iran. This statement demonstrates Hezbollah's continued commitment to the resistance axis and its unwavering support for Iran amid the ongoing armed conflict with the United States.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "hezbollah",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Hezbollah",
+        "Israel",
+        "United States"
+      ],
+      "location": "Lebanon/Syria region",
+      "brief": "Hezbollah mourns martyrdom of Ali Khameini killed in what it calls American-Zionist aggression, affirming continued jihad and support for Iran."
+    },
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "66a1f52f7215be03",
@@ -770,6 +1305,43 @@
     "lng": 34.99
   },
   {
+    "id": "d0230a2c128165b2",
+    "title_original": "البحرين تؤكد إسقاط 61 صاروخا و34 طائرة مسيرة إيرانية",
+    "content_original": "المنامة في 01 مارس /قنا/ أكدت البحرين تصدي منظومات الدفاع الجوي الصاروخي بنجاح للعديد من الصواريخ والطائرات المسيرة الإيرانية التي استهدفت البحرين.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/البحرين-توكد-اسقاط-61-صاروخا-و34-طايرة-مسيرة-ايرانية",
+    "published": "2026-03-01T23:03:52.058919+00:00",
+    "fetched_at": "2026-03-01T23:03:52.058925+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Bahrain confirms downing 61 missiles and 34 Iranian drones",
+    "relevant": true,
+    "summary_en": "Iran launched 61 ballistic missiles and 34 drones targeting Bahrain, which successfully intercepted all threats using its air defense systems. The attack targeted the US-aligned Gulf state home to the US Navy's 5th Fleet, representing a significant escalation of Iranian strikes on American regional allies and bases.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "ballistic",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Bahrain/Gulf",
+      "brief": "Iran launched 61 ballistic missiles and 34 drones at Bahrain (home to US Navy's 5th Fleet), all of which were intercepted by Bahraini air defenses."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "ef81e2d8664ddfef",
     "title_original": "At least seven people wounded by Iranian missile strike in Jerusalem area",
     "content_original": "Israel Police is sweeping the area for missile shrapnel and urges the public to stay area from the site of the strike.",
@@ -844,6 +1416,48 @@
     },
     "lat": 33.31,
     "lng": 44.39
+  },
+  {
+    "id": "839f0d7b73eb0435",
+    "title_original": "استشهاد 4 من منتسبي الحشد الشعبي بقصف أمريكي صهيوني في ديالى",
+    "content_original": "الثورة نت/.. أعلنت هيئة الحشد الشعبي في العراق، الليلة الماضية، عن استشهاد 4 من منتسبيها جراء قصف صهيوني أمريكي غادر في محافظة ديالى. وقالت الهيئة في بيان نشرته وكالة الأنباء العراقية، إنها &#8220;شيعت كوكبة من شهداء لواء 41 الذين ارتقوا جراء القصف الصهيوني الأمريكي الغادر في ديالى&#8221;. وأضافت، أن &#8220;الشهداء هم البطل محمد مشتاق عباس [&#8230;]",
+    "url": "https://althawrah.ye/archives/1143918",
+    "published": "2026-03-01T23:00:26+00:00",
+    "fetched_at": "2026-03-01T23:04:24.945883+00:00",
+    "source_name": "Al-Thawra Yemen",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Martyrdom of 4 PMF members in American-Zionist strike in Diyala",
+    "relevant": true,
+    "summary_en": "Four members of Iraq's Popular Mobilization Forces (PMF) were martyred in an American-Zionist strike in Diyala province. The PMF confirmed the deaths of members from the 41st Brigade, describing the attack as 'treacherous.' This represents another strike against Iranian proxy forces in Iraq, continuing the pattern of US/Israeli targeting of IRGC-linked militias in the region.",
+    "translated": true,
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "proxy",
+      "pmf",
+      "irgc",
+      "attack",
+      "strike",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "PMF (Popular Mobilization Forces)",
+        "Iraq"
+      ],
+      "location": "Diyala province, Iraq",
+      "brief": "Four members of Iraq's Iran-backed Popular Mobilization Forces were killed in a US-Israeli strike in Diyala, marking another attack on Iranian proxy forces in Iraq."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "cda9c36d86224f44",
@@ -939,6 +1553,36 @@
       "strike",
       "missile",
       "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "cd8f4cf0a033e353",
+    "title_original": "Khamenei killing: America and Israel cross a new line in international politics",
+    "content_original": "The killing of a head of state and the end of old restraints Iranian Supreme Leader Ali Khamenei is dead and the international system is entering a far more dangerous phase than many appear willing to acknowledge. One may hold any opinion about the Islamic Republic of Iran, about its ideology or ruling elite. There are ample grounds for criticism,&nbsp;some severe. Yet one basic fact remains: Ali Khamenei was the legitimate head of a UN member state, recognized by virtually the entire international community, and a lawful participant in international relations. This included ongoing political negotiations with those who ultimately organized the attack, negotiations that continued until the moment the hostilities began. The targeted destruction of a state&rsquo;s leadership by another state as a matter of deliberate policy marks a fundamentally new stage in world politics. This is not merely another episode of regime change. Even when compared with the brutal ends of Muammar Gaddafi or ...",
+    "url": "https://www.rt.com/news/633393-khamenei-killing-america-and-israel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "2026-03-01T22:48:36+00:00",
+    "fetched_at": "2026-03-01T23:03:36.376307+00:00",
+    "source_name": "RT",
+    "source_category": "state",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Khamenei killing: America and Israel cross a new line in international politics",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian Supreme Leader Ali Khamenei has been killed in an attack attributed to the United States and Israel, marking the assassination of a sitting head of state and a UN member nation. The article frames this as a dramatic breach of international norms, warning that the international system is entering a far more dangerous phase with no remaining restraints on escalation between the parties.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "killed"
     ],
     "classification": {
       "is_attack": true,
