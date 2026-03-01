@@ -109,7 +109,7 @@ Severity: major=direct US-Iran engagement/ballistic/nuclear/mass casualties, hig
             {"role": "user", "content": prompt},
         ],
         "temperature": 0.1,
-        "max_tokens": 250,
+        "max_tokens": 350,
     }
 
     try:
@@ -133,10 +133,23 @@ Severity: major=direct US-Iran engagement/ballistic/nuclear/mass casualties, hig
         text = choices[0].get("message", {}).get("content", "")
         text = text.strip()
 
-        # Handle markdown wrapping
+        if not text:
+            logger.warning(f"Empty LLM response for {article['id']}")
+            return default_classification(article)
+
+        # Strip markdown code fences
         if text.startswith("```"):
-            text = text.split("\n", 1)[-1]
-            text = text.rsplit("```", 1)[0]
+            text = re.sub(r'^```[\w]*\n?', '', text)
+            text = re.sub(r'\n?```$', '', text).strip()
+
+        # Fallback: extract first JSON object from response
+        if not text.startswith("{"):
+            m = re.search(r'\{.*\}', text, re.DOTALL)
+            if m:
+                text = m.group(0)
+            else:
+                logger.warning(f"No JSON found in LLM response for {article['id']}: {text[:100]!r}")
+                return default_classification(article)
 
         classification = json.loads(text)
 
