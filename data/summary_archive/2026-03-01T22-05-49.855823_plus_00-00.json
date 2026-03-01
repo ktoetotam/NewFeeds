@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-03-01T22:05:49.855823+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 737,
+    "incident_count_6h": 188,
+    "severity_breakdown": {
+      "major": 328,
+      "high": 274,
+      "medium": 132,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 132,
+    "articles_analyzed": 168,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated significantly in the past 4 hours with confirmed US casualties now at 8 (3 killed in action, 5 wounded) — the first US military fatalities in direct combat with Iranian forces. US-Israeli strikes have expanded deep into Iranian territory, with satellite-confirmed destruction at Chabahar/Konarak naval base and a mass casualty event at a school (153 girls killed). Iran has expanded its retaliation to directly target Israeli civilian centers (Jerusalem, Beit Shemesh) and US military assets (Kuwait, Erbil). The conflict is broadening geographically with the UAE closing its Tehran embassy and European powers warning they may join the war.",
+  "whats_new": [
+    "US-Israeli airstrike on a school in Iran killed at least 153 girls — confirmed by multiple sources, representing the largest single civilian casualty event",
+    "Satellite imagery confirms extensive destruction at Chabahar/Konarak naval and airbase in eastern Iran — strategic drone and naval facility devastated",
+    "US fighter jets bombed the 31st Ashura Division military base in Tabriz — direct strike on Iranian territory",
+    "IRGC launched ninth wave of 'True Promise 4' operation targeting Israeli positions and American military assets",
+    "UK PM Starmer confirmed UK will allow US to use British bases for defensive strikes against Iranian missiles",
+    "Trump suggested the US war on Iran could last approximately 4 weeks, stating operations are 'progressing faster than planned'",
+    "Iranian ballistic missiles struck Jerusalem area, wounding at least 7 people, with major damage at Ramot junction"
+  ],
+  "confirmed_events": [
+    "CENTCOM confirms 3 US service members killed in action and 5 seriously wounded in Iranian retaliatory strikes — first US combat casualties",
+    "Iranian ballistic missile strike on Beit Shemesh shelter killed at least 9 civilians including a founder's daughter and volunteer, with 11 missing and 46 injured",
+    "UAE closed its embassy in Tehran and withdrew all diplomatic staff following Iranian missile attacks on UAE territory",
+    "US and Israeli forces conducted joint airstrike on Gandhi Hospital in Tehran, causing massive destruction — Iranian state media facility targeted",
+    "Iranian drone struck Camp Buehring, a US military base in northwestern Kuwait"
+  ],
+  "unverified_emerging": [
+    "IRGC claims it targeted US carrier Abraham Lincoln with four cruise missiles, causing the vessel to flee its mission area — unconfirmed by US sources",
+    "Circulating unverified reports on social media claim bodies of dead American soldiers are being transferred from US bases in the Gulf region",
+    "Israeli air defense systems failed to intercept missiles launched from Iran — while reported by Iranian state media, Israeli confirmation pending"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Air raid sirens continue non-stop in central and southern Israel",
+      "Airports and ports across Gulf region experiencing closures and disruptions",
+      "Protests and police clashes near US embassy in Baghdad — security advisory in effect"
+    ],
+    "supply_chain": [
+      "Gulf businesses reeling from Iran strikes — most widespread regional disruption since pandemic",
+      "Port shutdowns and airport closures across Gulf states",
+      "Three US/British oil tankers struck in Gulf — critical energy infrastructure targeted",
+      "Strait of Hormuz under threat — global oil supply route at risk"
+    ],
+    "market_macro": [
+      "Energy markets on edge as Iran war threatens oil supplies",
+      "Analysts predict oil and commodity prices will surge when markets reopen",
+      "Gulf markets suspended trading — regional financial disruption"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is on a trajectory toward expanded regional involvement. With 8 confirmed US casualties and Iran demonstrating willingness to directly target US military assets (Kuwait, Erbil) and Israeli civilian centers, the conflict is likely to intensify. Trump has indicated a 4-week timeline for operations, suggesting sustained high-intensity strikes. European powers (UK, France, Germany) are signaling potential direct involvement. The IRGC's 9th wave of operations and Iran's stated determination to continue fighting indicate no de-escalation in the near term.",
+    "escalation_risks": [
+      "European nations (France, Germany, UK) warning they could join war on Iran — expansion beyond US-Israel alliance",
+      "Iran threatening to close Strait of Hormuz — global oil supply disruption",
+      "Hezbollah and Houthi proxies intensifying attacks on Israel — multi-front escalation",
+      "Potential for Iranian cyberattacks on US/Gulf infrastructure",
+      "Risk of accidental escalation involving other Gulf states"
+    ],
+    "de_escalation_pathways": "No clear de-escalation pathway is apparent. Iran has stated it will determine when and how the war ends, rejecting external pressure. Trump has vowed to continue until 'objectives achieved.' The killing of Iranian leadership figures and mass civilian casualties have eliminated diplomatic off-ramps. The only theoretical pathway would be complete military defeat of Iranian capacity to strike back, which Trump projects could take 4 weeks, or a mutual face-saving cessation that neither side appears willing to accept at present."
+  }
+}

@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T22-05-49.855823_plus_00-00.json",
+    "generated_at": "2026-03-01T22:05:49.855823+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 737,
+    "summary_preview": "The Iran-US conflict has escalated significantly in the past 4 hours with confirmed US casualties now at 8 (3 killed in action, 5 wounded) — the first US military fatalities in direct combat with Iran"
+  },
+  {
     "filename": "2026-03-01T21-39-36.205892_plus_00-00.json",
     "generated_at": "2026-03-01T21:39:36.205892+00:00",
     "threat_label": "MAJOR",

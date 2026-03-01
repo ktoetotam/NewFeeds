@@ -70,6 +70,44 @@
     "lng": 52.0
   },
   {
+    "id": "9f83ddb6c0f05f57",
+    "title_original": "СМИ: американское ПВО не справилось с ударами Ирана",
+    "content_original": "СМИ: американское ПВО не справилось с ударами Ирана",
+    "url": "https://ria.ru/20260302/iran-2077757206.html",
+    "published": "2026-03-02T01:03:55+03:00",
+    "fetched_at": "2026-03-01T22:09:38.346673+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Media: US Air Defense Failed to Cope with Iranian Strikes",
+    "relevant": true,
+    "summary_en": "According to media reports, American air defense systems were unable to effectively intercept Iranian missile and drone strikes. This development represents a significant military and strategic concern, suggesting potential vulnerabilities in US defensive capabilities against Iranian weapons systems, while indicating the effectiveness of Iran's attack methods.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "intercept",
+      "missile",
+      "attack",
+      "air defense",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile|drone_strike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East (Gulf region/Iraq/Syria)",
+      "brief": "Iranian missile and drone strikes exposed significant vulnerabilities in US air defense systems, representing a major strategic concern in US-Iran military tensions."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "fcd52a72abddcb5c",
     "title_original": "Стармер разрешил США использовать британские базы для ударов по Ирану",
     "content_original": "Премьер-министр Великобритании Кир Стармер заявил, что предоставил США разрешение на использование британских военных баз на Ближнем Востоке. Вашингтон воспользуется ими для уничтожения мест хранения ракет и пусковых установок, объяснил премьер.",
@@ -1024,6 +1062,43 @@
     "lng": 34.99
   },
   {
+    "id": "f80a2906533c2d8b",
+    "title_original": "البحرين: هجوم إيراني على منشأة بحرية بالقرب من ميناء سلمان",
+    "content_original": "المنامة في 01 مارس /قنا/ أعلنت مملكة البحرين، اليوم، عن تعرض إحدى المنشآت البحرية بالقرب من ميناء سلمان، لهجوم إيراني.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/البحرين-هجوم-ايراني-على-منشاة-بحرية-بالقرب-من-ميناء-سلمان",
+    "published": "2026-03-01T22:09:45.840019+00:00",
+    "fetched_at": "2026-03-01T22:09:45.840023+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Bahrain: Iranian attack on maritime facility near Salman Port",
+    "relevant": true,
+    "summary_en": "Bahrain announced on March 1 that an Iranian attack targeted a maritime facility near Salman Port. The attack is part of Iran's ongoing retaliation against US allies in the Gulf region. Salman Port is a strategically significant location, and Bahrain hosts the US Navy's 5th Fleet, making this strike directly tied to the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Salman Port, Bahrain",
+      "brief": "Iran launched an attack on a maritime facility near Salman Port in Bahrain, marking a significant escalation in Iran's retaliatory strikes against US allies in the Gulf region."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "b5fb47e44e6a8a2d",
     "title_original": "Иран атаковал военные объекты в Ираке и Иордании, пишут СМИ",
     "content_original": "Иран атаковал военные объекты в Ираке и Иордании, пишут СМИ",
@@ -1132,6 +1207,41 @@
     }
   },
   {
+    "id": "42a4d3a36c15b227",
+    "title_original": "🚨 الجزیره: موشک‌های ایرانی جلسه هیئت وزیران صهیونی در قدس اشغالی را هدف قرار داد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ...",
+    "content_original": "🚨 الجزیره: موشک‌های ایرانی جلسه هیئت وزیران صهیونی در قدس اشغالی را هدف قرار داد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45054",
+    "published": "2026-03-01T22:05:56+00:00",
+    "fetched_at": "2026-03-01T22:10:27.062530+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Al Jazeera: Iranian missiles targeted Israeli cabinet meeting in occupied Jerusalem",
+    "relevant": true,
+    "summary_en": "Iranian missiles struck the location of the Israeli cabinet meeting in occupied Jerusalem, marking a significant direct attack on Israeli government leadership. This represents a major escalation in the Iran-Israel conflict, targeting the highest levels of Israeli political authority with precision strikes.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "occupied Jerusalem",
+      "brief": "Iranian ballistic missiles targeted the Israeli cabinet meeting in occupied Jerusalem, marking a direct attack on Israeli government leadership and major escalation in the Iran-Israel conflict."
+    },
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
     "id": "5a438bb6ea928718",
     "title_original": "With Iraqi militia attacks on US forces, Iraq edges toward Iran war frontline",
     "content_original": "Iranian-backed militias have launched a series of drone attacks targeting US bases in Iraq, raising the question: has Iraq become the next frontline in the widening Iran war?",
@@ -1172,6 +1282,42 @@
     "lng": 44.17
   },
   {
+    "id": "ba4bcb35950cdee1",
+    "title_original": "حملات موشکی سپاه به قطر",
+    "content_original": "حملات موشکی سپاه به قطر",
+    "url": "https://t.me/saberin_news/45051",
+    "published": "2026-03-01T22:01:48+00:00",
+    "fetched_at": "2026-03-01T22:10:27.060795+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "حملات موشکی سپاه به قطر",
+    "summary_en": "{\"h\":\"IRGC Missile Attacks on Qatar\",\"r\":true,\"s\":\"The",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Qatar",
+      "brief": "IRGC ballistic missile strikes targeting Qatar, representing significant escalation against US-aligned Gulf state with major US military presence."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
     "id": "50c99dba6cd01b2f",
     "title_original": "ЦАХАЛ заявил о 30 ударах по ракетным объектам и системам ПВО Ирана",
     "content_original": "Это сделано \"для минимизации огня в направлении Государства Израиль\", заявили в армии",
@@ -1207,6 +1353,42 @@
     "merged_source_count": 3,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "f5a0a3edb63a70ff",
+    "title_original": "Keir Starmer Iran statement in full as Prime Minister address nation on Gulf crisis",
+    "content_original": "LONDON, ENGLAND - FEBRUARY 28: British prime minister Keir Starmer delivers a statement after the U.S. And Israel Attack Iran at Downing Street on February 28, 2026 in London, England. The United States and Israel launched a joint strike on Iran earlier this morning, prompting Iran to retaliate with a wave of missiles toward Israel and regional U.S. military sites. (Photo by Jonathan Brady-WPA Pool/Getty Images)",
+    "url": "https://www.express.co.uk/news/world/2176954/keir-starmer-iran-statement-full-prime-minister-address-nation-gulf-crisis",
+    "published": "2026-03-01T21:59:00+00:00",
+    "fetched_at": "2026-03-01T22:10:20.188008+00:00",
+    "source_name": "Daily Express",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Keir Starmer Iran statement in full as Prime Minister address nation on Gulf crisis",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "British Prime Minister Keir Starmer addressed the nation on the Gulf crisis following US and Israel launching joint strikes on Iran, prompting Iran to retaliate with missiles toward Israel and regional US military sites. The statement comes as part of Britain's response to the escalating conflict in the Middle East, with US forces in Iraq, Syria, and the Gulf region now actively targeted by Iranian retaliation.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "United Kingdom"
+      ],
+      "location": "Gulf region, Middle East",
+      "brief": "British PM Keir Starmer addressed the nation following US-Israel joint strikes on Iran and Iran's subsequent ballistic missile retaliation toward Israel and regional US military sites."
+    },
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "011e15c33f7103be",
@@ -1250,6 +1432,42 @@
     "lng": 51.39
   },
   {
+    "id": "3a7d366e9d31ed0d",
+    "title_original": "⚡️ #BREAKING  Reports of Iranian attack on the U.S Navy’s Fifth Fleet base in Bahrain",
+    "content_original": "⚡️ #BREAKING Reports of Iranian attack on the U.S Navy’s Fifth Fleet base in Bahrain",
+    "url": "https://t.me/warmonitors/40337",
+    "published": "2026-03-01T21:56:31+00:00",
+    "fetched_at": "2026-03-01T22:10:25.872810+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Reports of Iranian attack on the U.S. Navy's Fifth Fleet base in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has launched an attack on the U.S. Navy's Fifth Fleet base in Bahrain. The attack represents a significant escalation in the ongoing Iran-US conflict, targeting the primary US naval command in the Persian Gulf region. Details on casualties and damage are still emerging.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Bahrain"
+      ],
+      "location": "Bahrain, U.S. Navy Fifth Fleet base",
+      "brief": "Iran launched a direct attack on the U.S. Navy's Fifth Fleet base in Bahrain, representing a significant escalation in direct US-Iran engagement."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "741a5eb874f66f27",
     "title_original": "WATCH: Cluster munitions seemingly used during latest Iranian missile barrage against Israel",
     "content_original": "Following the barrage, Magen David Adom said its paramedics were dispatched to sites of reported missile impacts in central Israel.",
@@ -1284,6 +1502,191 @@
       "brief": "Iran launched a ballistic missile barrage on central Israel with reported cluster munitions, causing casualties and representing a significant escalation in Iran-Israel hostilities."
     },
     "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "518597b02dcb6231",
+    "title_original": "🚨 شبکه ۱۲ اسرائیل: موشک ها و پهپاد از جنوب لبنان شلیک شدند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و ...",
+    "content_original": "🚨 شبکه ۱۲ اسرائیل: موشک ها و پهپاد از جنوب لبنان شلیک شدند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45048",
+    "published": "2026-03-01T21:55:22+00:00",
+    "fetched_at": "2026-03-01T22:10:27.059381+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Channel 12 Israel: Rockets and drones fired from southern Lebanon",
+    "relevant": true,
+    "summary_en": "Israeli Channel 12 reports that rockets and drones were launched from southern Lebanon toward Israel. This represents continued cross-border attacks from Hezbollah-controlled territory in southern Lebanon, constituting one of the active fronts in the broader Iran-US conflict and regional escalation.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran"
+      ],
+      "location": "southern Lebanon and northern Israel",
+      "brief": "Rockets and drones launched from Hezbollah-controlled southern Lebanon toward Israel represent continued cross-border proxy attacks in the broader Iran-US regional conflict."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "a7dcd7019595c9f8",
+    "title_original": "#إعلام_العدو     القناة 12 العبرية: يجري فحص احتمال بأن الإنذارات الأخيرة على الحدود الشمالية مصدرها إطلاق مسيرة من ل...",
+    "content_original": "#إعلام_العدو القناة 12 العبرية: يجري فحص احتمال بأن الإنذارات الأخيرة على الحدود الشمالية مصدرها إطلاق مسيرة من لبنان",
+    "url": "https://t.me/Electrohizbullah/156903",
+    "published": "2026-03-01T21:54:31+00:00",
+    "fetched_at": "2026-03-01T22:10:27.854879+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Channel 12 Examining Whether Recent Northern Border Alarms Caused by Drone Launch from Lebanon",
+    "relevant": true,
+    "summary_en": "Israeli Channel 12 reports that authorities are examining whether recent sirens and warnings on the northern border originated from a drone launch from Lebanon. This incident occurs on the Hezbollah front, where Iranian-backed forces operate and have been conducting attacks against Israel since the broader Iran-US conflict began.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "location": "Northern Israel-Lebanon border",
+      "brief": "Israeli Channel 12 reports authorities examining whether recent northern border sirens and warnings were caused by a drone launch from Lebanon, occurring on the Hezbollah front where Iranian-backed forces operate."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "0ce057eb7dc8e129",
+    "title_original": "🚨 حملات پهپادی حزب الله لبنان به اسرائیل ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و...",
+    "content_original": "🚨 حملات پهپادی حزب الله لبنان به اسرائیل ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45045",
+    "published": "2026-03-01T21:53:15+00:00",
+    "fetched_at": "2026-03-01T22:10:27.057716+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Hezbollah Lebanon Drone Attacks on Israel",
+    "relevant": true,
+    "summary_en": "Hezbollah in Lebanon launched drone attacks against Israel. This represents continued escalation by Iranian proxy forces as part of the ongoing Iran-US conflict and broader regional hostilities involving IRGC-linked groups.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "proxy",
+      "hezbollah",
+      "irgc",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Lebanon/Israel border",
+      "brief": "Hezbollah in Lebanon launched drone attacks against Israel, representing continued escalation by Iranian proxy forces as part of the ongoing Iran-US conflict."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "16ee2e579f34e8a9",
+    "title_original": "Images show the wreckage of an Israeli drone, reportedly shot down by Iranian air defense systems over Khorramabad. @...",
+    "content_original": "Images show the wreckage of an Israeli drone, reportedly shot down by Iranian air defense systems over Khorramabad. @PressTV",
+    "url": "https://t.me/presstv/177533",
+    "published": "2026-03-01T21:52:49+00:00",
+    "fetched_at": "2026-03-01T22:10:21.092525+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Images show wreckage of Israeli drone shot down by Iranian air defense over Khorramabad",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian air defense systems shot down an Israeli drone over Khorramabad, Iran, with images of the wreckage subsequently published. This incident represents another escalation in the ongoing Iran-Israel military confrontation, with Israeli drones continuing to operate in Iranian airspace despite Tehran's air defense responses.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "air defense",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Khorramabad, Iran",
+      "brief": "Iranian air defense shot down an Israeli drone operating in Iranian airspace, representing another escalation in the Iran-Israel military confrontation."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "b13ca6270e860aa6",
+    "title_original": "#إعلام_العدو   دوي صفارات الإنذار في ميرون ومحيطها خشية تسلل طائرات مسيّرة. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو دوي صفارات الإنذار في ميرون ومحيطها خشية تسلل طائرات مسيّرة. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156897",
+    "published": "2026-03-01T21:50:31+00:00",
+    "fetched_at": "2026-03-01T22:10:27.852538+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Meron and Surroundings Over Fear of Drone Infiltration",
+    "relevant": true,
+    "summary_en": "Israeli air raid sirens sounded in Meron (northern Israel) and surrounding areas due to fears of incoming drone infiltration. This incident occurs on the northern Israeli front near the Lebanon border, where Hezbollah forces have been conducting ongoing attacks against Israeli positions.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "raid",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Meron, northern Israel (near Lebanon border)",
+      "brief": "Israeli air raid sirens sounded in Meron and surrounding areas due to fears of incoming drone infiltration from Hezbollah forces operating near the Lebanon border."
+    },
+    "lat": 31.5,
     "lng": 34.8
   },
   {
