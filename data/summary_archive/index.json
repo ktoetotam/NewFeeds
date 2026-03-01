@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T02-55-14.715514_plus_00-00.json",
+    "generated_at": "2026-03-01T02:55:14.715514+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 276,
+    "summary_preview": "The Iran–US–Israel conflict has reached a critical escalation point following the US-Israeli coordinated strike on Iran on 2026-02-28, which Iranian and multiple international sources now confirm kill"
+  },
+  {
     "filename": "2026-03-01T02-37-52.345694_plus_00-00.json",
     "generated_at": "2026-03-01T02:37:52.345694+00:00",
     "threat_label": "MAJOR",
