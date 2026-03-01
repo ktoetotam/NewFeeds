@@ -146,6 +146,46 @@
     "lng": 54.0
   },
   {
+    "id": "d1d09d9abe6da3e2",
+    "title_original": "Трамп заявил, что операция США против Ирана идет, \"опережая график\"",
+    "content_original": "Трамп заявил, что операция США против Ирана идет, \"опережая график\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26601419",
+    "published": "2026-03-01T18:46:58+03:00",
+    "fetched_at": "2026-03-01T15:54:01.981071+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Trump Says US Operation Against Iran Is Going 'Ahead of Schedule'",
+    "relevant": true,
+    "summary_en": "US President Trump announced that the American military operation against Iran is proceeding ahead of schedule. The statement indicates rapid US escalation in strikes against Iranian military assets, nuclear facilities, and IRGC targets. This claim suggests significant early progress in US offensive operations against Iran, marking a notable escalation in the ongoing armed conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "nuclear",
+      "irgc",
+      "offensive",
+      "military operation",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "Trump announces US military operation against Iran is proceeding ahead of schedule with rapid escalation in strikes against Iranian military assets, nuclear facilities, and IRGC targets."
+    },
+    "merged_source_count": 3,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "c0a447491750fa02",
     "title_original": "Отель Fairmont в Дубае продолжает работу после пожара из-за обломков ракеты",
     "content_original": "Отель Fairmont в Дубае продолжает работу после пожара из-за обломков ракеты",
@@ -1942,6 +1982,40 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "55f741c8f6cc86a2",
+    "title_original": "Iranian missiles kill nine in Israel, as UAE, Oman and Kuwait targeted too",
+    "content_original": "Iranian missiles kill nine in Israel, as UAE, Oman and Kuwait targeted too Submitted by MEE staff on Sun, 03/01/2026 - 15:21 Attack on Beit Shemesh wounds 28 others, marking deadliest attack on Israel since war began Israeli emergency service officers inspect destroyed house at the scene of a missile attack near Bet Shemesh, some 30 kilometres west of Jerusalem on 1 March 2026 (AFP/Ahmad Gharabli) Off An Iranian missile attack on the Israeli city of Beit Shemesh killed at least nine people on Sunday, medics said.&nbsp; The Magen David Adom emergency service said that nine were killed and at least 28 were wounded by the attack. Two of those wounded are in serious condition. Israeli police said it was a direct hit on a building in the city, located 30km from Jerusalem.&nbsp; Search and rescue teams were in the area, according to Israel’s military, as well as a helicopter to evacuate those wounded.&nbsp; An army spokesperson added that the circumstances of the impact from the Iranian ball...",
+    "url": "https://www.middleeasteye.net/news/iranian-missiles-kill-nine-israel-uae-oman-and-kuwait-targeted-too",
+    "published": "2026-03-01T15:45:38+00:00",
+    "fetched_at": "2026-03-01T15:54:16.651910+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian missiles kill nine in Israel, as UAE, Oman and Kuwait targeted too",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a ballistic missile attack on the Israeli city of Beit Shemesh, killing at least nine people and wounding at least 28 others. The attack marks the deadliest on Israel since the current Iran-US conflict began, with two of the wounded in serious condition.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "ballistic",
+      "attack",
+      "wounded",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    },
+    "merged_source_count": 8
   },
   {
     "id": "88dd56ffabb1fab3",

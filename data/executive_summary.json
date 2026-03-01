@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-01T15:50:16.695921+00:00",
+  "generated_at": "2026-03-01T16:03:32.407470+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 620,
-    "incident_count_6h": 241,
+    "incident_count_24h": 619,
+    "incident_count_6h": 234,
     "severity_breakdown": {
       "major": 223,
-      "high": 260,
+      "high": 259,
       "medium": 133,
       "low": 4
     }
   },
   "source_count": {
-    "attacks_analyzed": 192,
-    "articles_analyzed": 404,
+    "attacks_analyzed": 193,
+    "articles_analyzed": 370,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -32,58 +32,52 @@
       "western"
     ]
   },
-  "executive_summary": "The conflict has entered a critical new phase with the confirmed death of Iran's Supreme Leader Ayatollah Ali Khamenei in US-Israeli strikes on Tehran, along with 40 senior Iranian officials. Iran has responded with expanded missile attacks across the region, including strikes on Dubai Airport, Kuwait, and UAE. Three US service members were killed in Operation Epic Fury — the first American casualties. The IRGC claims to have struck the USS Abraham Lincoln with 4 ballistic missiles (US denies). Maersk has suspended all vessel transits through the Strait of Hormuz.",
+  "executive_summary": "The Iran-US conflict has escalated dramatically with confirmed US casualties (3 troops killed) and Iran expanding missile attacks to Gulf allies. The death of Supreme Leader Khamenei has triggered Iran's succession planning while IRGC continues retaliatory strikes. US operations are ahead of schedule according to Trump, and maritime incidents in the Strait of Hormuz have emerged. The conflict is now directly impacting regional partners with UAE, Kuwait, Bahrain, and Jordan reporting casualties from Iranian missiles.",
   "whats_new": [
-    "Khamenei confirmed dead in US-Israeli strike on Tehran — multiple sources confirm assassination of Iran's Supreme Leader",
-    "Former President Mahmoud Ahmadinejad killed in Israeli airstrike on his Tehran residence",
-    "Israeli strike on Iranian girls school killed 148 people — confirmed by multiple sources",
-    "Iran launched missiles at Dubai Airport and Sharjah — causing fires, 3 killed and 58 injured in UAE",
-    "Kuwait reports 1 fatality, 32 injuries at Al Adan Hospital from Iranian attacks",
-    "Maersk suspends ALL vessel crossings in Strait of Hormuz — commercial shipping halted",
-    "Two ships struck by projectiles in Strait of Hormuz — UK Maritime Trade Organisation reports incident",
-    "Jordan and Oman condemn Iranian attacks on their territories — diplomatic fallout spreading",
-    "Iranian Foreign Minister: successor to Khamenei could be named within 48 hours"
+    "US sinks Iranian ship in Gulf of Oman during Operation Epic Fury - direct naval engagement confirmed",
+    "Two commercial ships struck near Strait of Hormuz, raising concerns over oil supply chain disruption",
+    "Iranian missile attacks on Gulf states escalate: Kuwait (1 dead, 32 injured), UAE (3 dead, 58 injured), Bahrain (hotel strike)",
+    "Temporary Leadership Council begins work to replace Khamenei per Iranian Constitution - succession process activated",
+    "Trump claims 48 Iranian 'leaders' killed in US attack; operations progressing ahead of schedule"
   ],
   "confirmed_events": [
-    "Three US service members killed, five wounded in Operation Epic Fury — confirmed by CENTCOM",
-    "Ayatollah Ali Khamenei killed in US-Israeli strikes on Tehran — multi-source confirmation",
-    "148 fatalities in Israeli-US strike on Iranian girls school — major escalation confirmed",
-    "Iran launched ballistic missiles on Tel Aviv, Jerusalem, Beit Shemesh — 8+ killed, 27+ injured",
-    "IRGC launched 4 ballistic missiles at USS Abraham Lincoln — IRGC claims confirmed, US denies hit",
-    "Israel claims air superiority over Iran within 24 hours — IDF targeting Iranian infrastructure"
+    "Three US service members killed, five wounded in Operation Epic Fury - first American casualties confirmed by CENTCOM",
+    "Iranian ballistic missiles hit Beit Shemesh, Israel - 8 killed, 27 injured; Jerusalem strike kills 9",
+    "Iran launched missiles at Dubai Airport and Sharjah, causing fires - critical UAE infrastructure targeted",
+    "IRGC claims 4 ballistic missiles fired at USS Abraham Lincoln - US CENTCOM denies hit, says missiles did not come close",
+    "Israeli-US strike on girls school in Iran now confirmed 148 fatalities - major civilian casualty incident"
   ],
   "unverified_emerging": [
-    "IRGC claims USS Abraham Lincoln was struck by ballistic missiles — US military denies, states missiles did not come close (single-source contradiction)",
-    "IDF claims 40 top Iranian officials killed in initial Tehran strikes — limited corroboration",
-    "Attack reported in Zanjan, northwestern Iran — details unclear, perpetrator unknown",
-    "Seyed Ali Khamenei referenced in resistance statements — unclear if distinct from deceased Supreme Leader"
+    "Former Iranian President Mahmoud Ahmadinejad reportedly killed in US-Israeli airstrike on Tehran home - single source, unconfirmed",
+    "IRGC claims successful strike on USS Abraham Lincoln - US denies, significant discrepancy in reports",
+    "Attack in Zanjan, northwestern Iran - details unspecified, potential internal instability or external strike",
+    "Seyed Ali Khamenei referenced in IRGC statements - unclear if successor already designated or if this is symbolic"
   ],
   "operational_impacts": {
     "people_travel": [
-      "Dubai Airport targeted by Iranian missiles — significant risk to air travel in Gulf region",
-      "All commercial vessel transits suspended through Strait of Hormuz by Maersk",
-      "Kuwait and UAE actively intercepting missiles — ongoing air defense operations"
+      "Maersk suspended all vessel transits through Strait of Hormuz - commercial shipping halt",
+      "Air traffic disruptions at Dubai Airport following Iranian missile strikes",
+      "Regional airlines likely rerouting flights away from conflict zones"
     ],
     "supply_chain": [
-      "Strait of Hormuz shipping disrupted — Maersk suspension signals major supply chain risk",
-      "Two ships hit near Strait of Hormuz — oil shipment routes directly threatened",
-      "Maersk suspension could impact global oil supply chains if prolonged"
+      "Two ships hit by projectiles near Strait of Hormuz - maritime chokepoint under threat",
+      "Global oil supply chains at risk if Strait of Hormuz remains contested",
+      "Maersk suspension indicates major shipping disruption affecting global trade routes"
     ],
     "market_macro": [
-      "Oil prices likely to rise amid Strait of Hormuz disruption concerns",
-      "Fire at Dubai's Fairmont Hotel from missile debris — civilian infrastructure damage spreading",
-      "Regional airlines and shipping firms facing immediate operational threats"
+      "Oil prices likely to rise amid Strait of Hormuz incidents and Gulf state attacks",
+      "Russia and China calling for cessation of military operations - diplomatic pressure mounting",
+      "Regional diplomatic fracture widening as Jordan and Oman condemn Iranian attacks"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The killing of Khamenei has fundamentally altered the conflict's nature. Iran has named a potential successor and established wartime governance committees, indicating regime continuity rather than collapse. Iranian missile attacks on Gulf allies (UAE, Kuwait, Jordan, Oman) demonstrate expanded retaliatory strategy. With Israel claiming air superiority and IRGC threatening continued strikes, expect continued high-intensity exchanges. The Strait of Hormuz closure threat is the most significant supply chain risk.",
+    "base_case": "The conflict will likely intensify with Iran continuing missile barrages against Israel and Gulf allies while US operations accelerate. Khamenei's death creates leadership uncertainty but Iran has demonstrated continued military capacity. Commercial shipping through Strait of Hormuz will remain disrupted. Gulf states may face additional Iranian strikes as retaliation for their cooperation with US operations.",
     "escalation_risks": [
-      "Iran names successor and mobilizes IRGC for sustained campaign — possible decapitation-retaliation cycle",
-      "Gulf states (UAE, Kuwait, Jordan, Oman) now directly targeted — regional coalition hardening",
-      "USS Abraham Lincoln incident remains disputed — potential for miscalculation if Iran believes strike successful",
-      "Proxy forces (Hezbollah, Iraqi PMF) may activate — multi-front escalation",
-      "Russia and China increasing diplomatic engagement — potential for external intervention"
+      "Iranian attacks on Gulf allies could drag additional states into conflict",
+      "USS Abraham Lincoln incident (whether true or false) carries high escalation potential if repeated",
+      "Israel announces intensification of strikes against Iran - Netanyahu ordered continued campaign",
+      "Power vacuum in Tehran could lead to internal instability or rash military decisions"
     ],
-    "de_escalation_pathways": "No immediate de-escalation pathways apparent. Iran's leadership vacuum and wartime mobilization suggest continued hostilities. International pressure from Russia (condolences to Iran), China (maintaining ties), and diplomatic activity (Turkey-UAE talks) exists but has not translated into ceasefire momentum. The 48-hour successor announcement may provide a diplomatic off-ramp if the new leader signals willingness to negotiate."
+    "de_escalation_pathways": "Russia and China have jointly called for end to military operations - limited mediation leverage given their stated neutrality. Iranian succession process may eventually create negotiation opportunity, but current trajectory suggests continued escalation. Gulf state casualties may pressure those countries to seek accommodations with Iran rather than remain aligned with US-Coalition."
   }
 }
