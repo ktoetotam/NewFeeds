@@ -1,5 +1,148 @@
 [
   {
+    "id": "043cbb4e402b67c6",
+    "title_original": "В столкновениях рядом с посольством США в Исламабаде есть убитые",
+    "content_original": "В столкновениях рядом с посольством США в Исламабаде есть убитые",
+    "url": "https://ria.ru/20260301/islamabad-2077662629.html",
+    "published": "2026-03-01T14:52:24+03:00",
+    "fetched_at": "2026-03-01T11:55:24.302277+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Clashes Near US Embassy in Islamabad Result in Casualties",
+    "relevant": true,
+    "summary_en": "Unspecified clashes occurred near the US Embassy in Islamabad, Pakistan, resulting in fatalities. This incident is significant due to the potential threat to US diplomatic personnel and facilities in the region. The context and perpetrators of the attack are currently unclear, but it could be related to broader regional tensions.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "threat",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "unknown assailants",
+        "US diplomatic personnel"
+      ],
+      "location": "Islamabad, Pakistan",
+      "brief": "Clashes near the US Embassy in Islamabad resulted in casualties, posing a significant threat to US diplomatic facilities and personnel in the region."
+    },
+    "lat": 33.6938118,
+    "lng": 73.0651511
+  },
+  {
+    "id": "720f3cc062e872fa",
+    "title_original": "В Тель-Авиве звучит воздушная тревога",
+    "content_original": "В Тель-Авиве звучит воздушная тревога",
+    "url": "https://ria.ru/20260301/izrail-2077661909.html",
+    "published": "2026-03-01T14:45:39+03:00",
+    "fetched_at": "2026-03-01T11:55:24.302664+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Air raid sirens sound in Tel Aviv",
+    "relevant": true,
+    "summary_en": "Air raid sirens are sounding in Tel Aviv, likely due to incoming threats from Iranian-backed groups or related conflict escalation. This indicates potential missile or drone attacks targeting Israel, escalating regional tensions. The incident highlights the ongoing threats faced by Israel amid the broader US-Iran conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "raid",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Hezbollah"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Air raid sirens in Tel Aviv indicate potential missile or drone attacks by Iranian-backed Hezbollah, escalating regional tensions."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "2275a7925da86737",
+    "title_original": "В Севастополе над морем силы ПВО сбили три цели",
+    "content_original": "ВСУ атаковали район Северной стороны и мыс Фиолент",
+    "url": "https://tass.ru/proisshestviya/26599039",
+    "published": "2026-03-01T14:44:20+03:00",
+    "fetched_at": "2026-03-01T11:55:23.566231+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian Air Defenses Shoot Down Three Targets Over Sevastopol",
+    "relevant": true,
+    "summary_en": "Russian air defense forces intercepted and destroyed three aerial targets over the sea near Sevastopol. The attack targeted the Northern Side district and Cape Fiolent. This incident highlights the ongoing military tensions in the region, likely linked to the broader conflict involving Ukraine and Russia.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "shoot down",
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Russia",
+        "Ukraine"
+      ],
+      "location": "Sevastopol, Crimea",
+      "brief": "Russian air defenses intercepted three aerial targets over Sevastopol, indicating ongoing military tensions likely linked to the Ukraine conflict."
+    },
+    "lat": 44.7705724,
+    "lng": 34.2293563
+  },
+  {
+    "id": "5199ea04b0344dc3",
+    "title_original": "Израильские ВВС нанесли удары по двум иранским истребителям",
+    "content_original": "Израильские ВВС нанесли удары по двум иранским истребителям",
+    "url": "https://ria.ru/20260301/vvs-2077661743.html",
+    "published": "2026-03-01T14:44:10+03:00",
+    "fetched_at": "2026-03-01T11:55:24.302855+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israeli Air Force Strikes Two Iranian Fighter Jets",
+    "relevant": true,
+    "summary_en": "The Israeli Air Force struck two Iranian fighter jets, likely in response to heightened tensions and potential threats. This incident occurred in an unspecified location, likely near Israeli airspace or in regional areas of conflict. The strike signifies escalating military engagements between Israel and Iran amid the broader US-Iran conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Unspecified location near Israeli airspace/regional conflict areas",
+      "brief": "Israeli Air Force conducts airstrike on two Iranian fighter jets amid escalating tensions."
+    }
+  },
+  {
     "id": "7ec1ffa63fe95828",
     "title_original": "'He was in central leadership compound in heart of Tehran': IDF issues statement on Khamenei's death",
     "content_original": "The Israeli military confirmed a large-scale operation killed Iran's Supreme Leader Ayatollah Ali Khamenei in Tehran. The IDF stated Khamenei was responsible for years of repression and aimed to destroy Israel, leading a terror axis. His elimination marks the end of a significant chapter, according to the military. Iran's government acknowledged the US-Israeli strikes shortly after.",
@@ -72,6 +215,80 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "83e6c701f36f4eab",
+    "title_original": "ISNA: в провинции Исфахан при ударах Израиля и США погибли 12 военных КСИР",
+    "content_original": "Уточняется, что это произошло в городе Кашан",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26598921",
+    "published": "2026-03-01T14:35:49+03:00",
+    "fetched_at": "2026-03-01T11:55:23.568772+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "12 IRGC Military Personnel Killed in US and Israeli Strikes in Isfahan Province",
+    "relevant": true,
+    "summary_en": "US and Israeli forces conducted strikes in Isfahan province, Iran, specifically in the city of Kashan, resulting in the deaths of 12 IRGC military personnel. This incident highlights the ongoing escalation of direct military action by the US and Israel against Iranian military assets. The strikes on Isfahan, a key province, may have significant strategic implications for Iran's military capabilities and regional influence.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "deaths",
+      "killed",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Isfahan province, Iran",
+      "brief": "US and Israeli airstrikes in Isfahan province resulted in the deaths of 12 IRGC military personnel, indicating escalating direct military action against Iranian assets."
+    },
+    "lat": 32.65,
+    "lng": 51.68
+  },
+  {
+    "id": "9f8c5559a00b096a",
+    "title_original": "Kuwait Defense Ministry Confirms Hostile Targets Intercepted in Southern Airspace",
+    "content_original": "Kuwait, March 01 (QNA) - The Kuwaiti Ministry of Defense announced that the Kuwaiti air defense system successfully confronted and intercepted a number of hostile aerial targets on Sunday morning, underscoring the readiness of the armed forces to protect the nation's airspaces.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/kuwait-defense-ministry-confirms-hostile-targets-intercepted-in-southern-airspace",
+    "published": "2026-03-01T14:13:54+00:00",
+    "fetched_at": "2026-03-01T11:55:35.610531+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Kuwait intercepts hostile targets in southern airspace",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Kuwait's air defense system intercepted multiple hostile aerial targets in its southern airspace, demonstrating the readiness of its armed forces to protect national airspace. This incident highlights the potential for regional escalation and the involvement of neighboring countries in the ongoing US-Iran conflict.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran-aligned forces",
+        "regional actors"
+      ],
+      "location": "Kuwait southern airspace",
+      "brief": "Kuwait's interception of hostile aerial targets in its southern airspace indicates potential regional escalation amid ongoing Iran-US tensions."
+    },
+    "lat": 29.38,
+    "lng": 47.99
   },
   {
     "id": "be949111360ffee0",
@@ -222,6 +439,45 @@
     },
     "lat": 25.33,
     "lng": 51.23
+  },
+  {
+    "id": "d0b677f8f51258ff",
+    "title_original": "Bahrain Announces Interception of New Wave of Iranian Ballistic Missiles and Drones",
+    "content_original": "Manama, March 01 (QNA) - Bahrain's National Communication Centre announced that the country's missile air defense systems efficiently and vigilantly intercepted a new wave of Iranian ballistic missiles and drones targeting the country, destroying and neutralizing them with high effectiveness.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/bahrain-announces-interception-of-new-wave-of-iranian-ballistic-missiles-and-drones",
+    "published": "2026-03-01T13:11:51+00:00",
+    "fetched_at": "2026-03-01T11:55:35.611870+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Bahrain Intercepts Iranian Ballistic Missiles and Drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Bahrain's missile air defense systems intercepted and neutralized a new wave of Iranian ballistic missiles and drones targeting the country. This incident highlights the ongoing escalation of hostilities in the Gulf region and underscores the threat posed by Iranian missile and drone attacks to US allies like Bahrain.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "threat",
+      "missile",
+      "air defense",
+      "drone",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran launched ballistic missiles and drones targeting Bahrain, which were intercepted by Bahraini air defenses, indicating heightened regional tensions and direct threats to US allies."
+    },
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "05b9ef31ea166e2e",
@@ -823,6 +1079,78 @@
     "lng": 36.5878916
   },
   {
+    "id": "65fc4db241eadcbf",
+    "title_original": "#إعلام_العدو   أنباء أولية عن إصابة عدد من المستوطنين نتيجة سقوط صاروخ إيراني في مستوطنة \"بيت شيمش\" قرب القدس",
+    "content_original": "#إعلام_العدو أنباء أولية عن إصابة عدد من المستوطنين نتيجة سقوط صاروخ إيراني في مستوطنة \"بيت شيمش\" قرب القدس",
+    "url": "https://t.me/Electrohizbullah/156547",
+    "published": "2026-03-01T11:55:48+00:00",
+    "fetched_at": "2026-03-01T11:56:19.261161+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian rocket hits Beit Shemesh settlement near Jerusalem, causing casualties",
+    "relevant": true,
+    "summary_en": "Iran has launched a rocket attack targeting the Beit Shemesh settlement near Jerusalem, resulting in casualties among Israeli settlers. This incident signifies an escalation in the conflict, with Iran directly striking Israeli territory. The attack is likely to provoke a strong response from Israel and its allies.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "rocket",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Beit Shemesh, near Jerusalem, Israel",
+      "brief": "Iran launches a rocket attack on the Beit Shemesh settlement near Jerusalem, causing casualties and escalating regional tensions."
+    },
+    "merged_source_count": 3,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "05b0b419f82fdf0e",
+    "title_original": "#إعلام_العدو   تسلل طائرة مسيرة في منطقة العرابا قرب البحر الميت",
+    "content_original": "#إعلام_العدو تسلل طائرة مسيرة في منطقة العرابا قرب البحر الميت",
+    "url": "https://t.me/Electrohizbullah/156544",
+    "published": "2026-03-01T11:54:22+00:00",
+    "fetched_at": "2026-03-01T11:56:19.259496+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Drone Infiltration Near Dead Sea in Araba Area",
+    "relevant": true,
+    "summary_en": "An unidentified drone infiltrated the Araba area near the Dead Sea. This incident is likely linked to regional tensions, potentially involving Israeli forces or neighboring adversaries. The strategic significance involves potential surveillance or probing of Israeli defenses in a sensitive border region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "dead",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Unidentified Proxy"
+      ],
+      "location": "Araba area near the Dead Sea",
+      "brief": "An unidentified drone infiltrated the Araba area near the Dead Sea, likely linked to regional tensions and potential surveillance of Israeli defenses."
+    }
+  },
+  {
     "id": "ec172dc04874e6b4",
     "title_original": "Танкер под флагом Палау подвергся атаке у берегов Омана",
     "content_original": "Танкер под флагом Палау подвергся атаке у берегов Омана",
@@ -894,6 +1222,195 @@
     },
     "lat": 35.5577724,
     "lng": -79.2854845
+  },
+  {
+    "id": "4cc374a5e0036bd0",
+    "title_original": "صفارات الإنذار تدوي في فلسطين المحتلة مجدداً نتيجة إطلاق صواريخ من إيران",
+    "content_original": "صفارات الإنذار تدوي في فلسطين المحتلة مجدداً نتيجة إطلاق صواريخ من إيران",
+    "url": "https://t.me/Electrohizbullah/156543",
+    "published": "2026-03-01T11:52:28+00:00",
+    "fetched_at": "2026-03-01T11:56:19.258971+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air raid sirens sound in occupied Palestine due to rocket launches from Iran",
+    "relevant": true,
+    "summary_en": "Iran has launched rockets targeting occupied Palestine, triggering air raid sirens. This indicates an escalation in Iran's direct or proxy attacks against Israeli targets. The incident underscores the ongoing conflict's regional reach and potential for further escalation.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "proxy",
+      "rocket",
+      "raid",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Occupied Palestine",
+      "brief": "Iran launches rockets targeting occupied Palestine, triggering air raid sirens and indicating escalation in regional conflict through proxy operations."
+    },
+    "lat": 31.5197847,
+    "lng": 35.0494777
+  },
+  {
+    "id": "3e3929092b636ae9",
+    "title_original": "📝 Морская   война или френдли фаер? 📝 Сегодня у побережья Омана нападению подвергся  нефтяной танкер Skylight , шедши...",
+    "content_original": "📝 Морская война или френдли фаер? 📝 Сегодня у побережья Омана нападению подвергся нефтяной танкер Skylight , шедший под флагом Палау . Об том сообщили в Центре морской безопасности страны. В ходе атаки дроном-камикадзе пострадали четыре человека, весь экипаж был эвакуирован. Находились же там 15 индийцев и еще пять граждан Ирана. На данный момент корабль горит. ©️ Но самая интересная деталь: в нападении обвинили иранцев, при этом танкер находится под санкциями Министерства финансов США за... перевозку иранских нефтепродуктов. ❓ Казалось бы, факт наводит на противоречие. Как иранцы могли ударить по цели, которую американцы считают частью теневого флота Исламской республики? 🖍 Однако важно понимать, что Ормузский пролив — такая же зона боя. Танкер мог запросто попасть под огонь, так как одновременно шел удар беспилотниками по порту Дукум в Омане. 🚩 В условиях войны и дестабилизации обстановки в стране у иранцев нет возможности уточнять статус контрабандных танкеров. Тем более, что на кор...",
+    "url": "https://t.me/rybar/78006",
+    "published": "2026-03-01T11:51:35+00:00",
+    "fetched_at": "2026-03-01T11:56:14.725751+00:00",
+    "source_name": "Rybar (TG)",
+    "source_category": "state-aligned",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Oil Tanker Skylight Attacked Off Oman Coast",
+    "relevant": true,
+    "summary_en": "An oil tanker, Skylight, flying the Palau flag was attacked by a suicide drone off the coast of Oman, injuring four crew members and causing the ship to catch fire. The crew, including 15 Indians and five Iranians, was evacuated. The incident is significant as the tanker was under US sanctions for transporting Iranian oil products, raising questions about the motives and actors behind the attack amid ongoing maritime tensions in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "drone",
+      "suicide"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Palau-flagged vessel"
+      ],
+      "location": "Oman Coast",
+      "brief": "A suicide drone attack on the US-sanctioned Palau-flagged oil tanker Skylight resulted in casualties and a fire, marking a significant naval incident in the region."
+    },
+    "lat": -38.6771308,
+    "lng": 178.0431614
+  },
+  {
+    "id": "a50d817961561ee9",
+    "title_original": "Iranian missile warhead landed near Jerusalem's Old City, say police",
+    "content_original": "Iranian missile warhead landed near Jerusalem's Old City, say police An Iranian missile warhead landed near Jerusalem's Old City on Saturday, according to Israeli police. Footage released by police on Sunday said that the warhead landed 100 metres from the historical neighbourhood. In a statement, the police said the warhead narrowly missed the city's holy sites.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-missile-warhead-landed-near-jerusalems-old-city-say-police",
+    "published": "2026-03-01T11:51:21+00:00",
+    "fetched_at": "2026-03-01T11:55:39.235235+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian missile warhead lands near Jerusalem's Old City",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile warhead landed near Jerusalem's Old City, just 100 meters from a historical neighborhood, narrowly missing the city's holy sites. This incident represents a significant escalation in the conflict, as it directly threatens Israeli population centers and religious sites. The strike demonstrates Iran's capability to target Israeli territory with ballistic missiles, raising tensions and the risk of further escalation.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "strike",
+      "warhead",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US"
+      ],
+      "location": "Jerusalem, Israel",
+      "brief": "An Iranian ballistic missile warhead landed near Jerusalem's Old City, representing a major escalation with potential for direct US-Iran engagement due to the threat to Israeli and religious sites."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "0e243d295856275f",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي مجددًا في مستوطنات الجليل الأعلى ومنطقة القدس. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي مجددًا في مستوطنات الجليل الأعلى ومنطقة القدس. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156539",
+    "published": "2026-03-01T11:49:48+00:00",
+    "fetched_at": "2026-03-01T11:56:19.256916+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound Again in Upper Galilee and Jerusalem Settlements",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Upper Galilee and Jerusalem settlements, indicating potential rocket or missile attacks from neighboring regions. This suggests ongoing escalation on Israel's northern border, likely linked to Hezbollah or other Iran-backed groups. The strategic significance involves heightened tensions and potential retaliatory measures by Israel in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "missile",
+      "rocket",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Upper Galilee, Jerusalem settlements",
+      "brief": "Hezbollah or Iran-backed groups likely launched rocket or missile attacks on Israeli settlements, escalating tensions on Israel's northern border."
+    },
+    "merged_source_count": 2,
+    "lat": 51.0088257,
+    "lng": 2.3124081
+  },
+  {
+    "id": "a332a22c5c989bc8",
+    "title_original": "#إعلام_العدو   القناة 12 العبرية: سقوط صاروخ إيراني في منطقة يركون. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو القناة 12 العبرية: سقوط صاروخ إيراني في منطقة يركون. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156536",
+    "published": "2026-03-01T11:49:48+00:00",
+    "fetched_at": "2026-03-01T11:56:19.255403+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missile Strikes Yarkon Area",
+    "relevant": true,
+    "summary_en": "An Iranian missile has reportedly struck the Yarkon area, according to Israeli Channel 12. This incident signifies a potential escalation in the conflict as Iranian forces target Israeli territory, raising concerns about regional stability and prompting immediate military responses from Israel.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|proxy_operation|escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Yarkon area, Israel",
+      "brief": "Iranian missile strike on the Yarkon area in Israel marks a significant escalation in regional conflict, prompting immediate military responses from Israel."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "edaefc7415ac056c",
@@ -973,6 +1490,47 @@
     "lng": 34.8
   },
   {
+    "id": "71d59e53219f46ec",
+    "title_original": "⚡️ Iranian missile direct Impact in Israel reported",
+    "content_original": "⚡️ Iranian missile direct Impact in Israel reported",
+    "url": "https://t.me/warmonitors/40210",
+    "published": "2026-03-01T11:46:32+00:00",
+    "fetched_at": "2026-03-01T11:56:17.250870+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian missile directly impacts Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile struck within Israel, marking a significant escalation in the conflict. This direct attack on Israeli territory could provoke a strong military response from Israel and its allies. The incident highlights the growing threat posed by Iran's missile capabilities in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "threat",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched a ballistic missile that struck within Israel, marking a significant escalation and direct attack on Israeli territory."
+    },
+    "merged_source_count": 5,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "bde73532f32a4945",
     "title_original": "Is Dubai airport open today? What we know after Iranian missile strikes damage site, iconic Burj Al Arab hotel",
     "content_original": "A temporary partial closure of the UAE airspace has impacted flights, including those operated by Dubai International Airport-based airlines Emirates, flydubai.",
@@ -1009,6 +1567,80 @@
     "lng": 54.0
   },
   {
+    "id": "ad2833c0d3ce4ff3",
+    "title_original": "At least 148 dead after reported strike on school, Iran says",
+    "content_original": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area.",
+    "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-03-01T11:40:44+00:00",
+    "fetched_at": "2026-03-01T11:56:07.366035+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "At least 148 dead after reported strike on school, Iran says",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has accused the US and Israel of conducting a strike on a school that resulted in at least 148 casualties. The US is investigating the reports, while Israel denies involvement. This incident could escalate tensions and lead to further retaliatory actions by Iran.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "dead",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "western Iran",
+      "brief": "A reported airstrike on a school in western Iran has resulted in at least 148 casualties, with Iran accusing the US and Israel, escalating tensions to a major level."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "8e14cb5d0af5e789",
+    "title_original": "With Khamenei's killing, US-Iran relations have crossed a threshold. How far are they both willing to go?",
+    "content_original": "With Khamenei's killing, US-Iran relations have crossed a threshold. How far are they both willing to go? Submitted by Elijah J Magnier on Sun, 03/01/2026 - 09:14 When a conflict is framed as existential and leadership elimination becomes normalised, wars seldom remain limited People mourn the death of Iran’s Supreme Leader Ayatollah Ali Khamenei, who was killed in joint US and Israeli strikes, at a square in Tehran on 1 March 2026 (AFP) On US President Donald Trump’s description of the US-Israeli attack on Iran on Saturday as a \"regime change war\" now fits the situation.&nbsp; The assassination of Ali Hosseini Khamenei , Iran’s supreme leader, marks a shift from pressure tactics to deep structural destabilisation. The conflict has gone beyond signalling or psychological warfare. Targeting the highest political and religious leader in Iran is a clear escalation toward destabilising the system.&nbsp; Political rhetoric during wartime typically serves several functions: signalling resolv...",
+    "url": "https://www.middleeasteye.net/opinion/khamenei-killing-crossed-threshold-us-iran-relations-willing-go",
+    "published": "2026-03-01T11:40:38+00:00",
+    "fetched_at": "2026-03-01T11:55:39.235967+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Khamenei killed in US-Israeli strikes, escalating US-Iran conflict",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's Supreme Leader Ayatollah Ali Khamenei was killed in joint US and Israeli strikes, marking a significant escalation in the conflict. This shift from pressure tactics to targeting leadership suggests both nations are escalating the war aims. The assassination is likely to provoke severe retaliation from Iran, further intensifying the conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "war",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US and Israeli forces conducted a joint strike that resulted in the death of Iran's Supreme Leader Ayatollah Ali Khamenei, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "be1a0eda4a23774c",
     "title_original": "В территориальных водах Омана под обстрел попал нефтяной танкер",
     "content_original": "Пострадали четыре человека",
@@ -1042,6 +1674,85 @@
       "location": "Omani Territorial Waters",
       "brief": "An oil tanker attack in Omani waters resulting in casualties signals escalating maritime security threats in the region."
     }
+  },
+  {
+    "id": "429b3b16a2e69687",
+    "title_original": "#إعلام_العدو   صفارات الإنذار تدوي في عسقلان والقدس. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو صفارات الإنذار تدوي في عسقلان والقدس. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156534",
+    "published": "2026-03-01T11:38:17+00:00",
+    "fetched_at": "2026-03-01T11:56:19.254346+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air Raid Sirens Sound in Ashkelon and Jerusalem",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Ashkelon and Jerusalem, indicating potential rocket or missile attacks. This suggests ongoing escalation between Israel and Palestinian militant groups, likely linked to the broader Iran-US conflict through Hezbollah or Hamas activities.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "rocket",
+      "raid",
+      "hezbollah",
+      "hamas"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Palestinian militant groups",
+        "Iran",
+        "Hezbollah",
+        "Hamas"
+      ],
+      "location": "Ashkelon and Jerusalem, Israel",
+      "brief": "Air raid sirens in Israeli cities indicate escalation through proxy militant groups amid broader Iran-US conflict dynamics."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "78aa1f7d8e8a41aa",
+    "title_original": "رشقة صاروخية جديدة الان وسط فلسطين",
+    "content_original": "رشقة صاروخية جديدة الان وسط فلسطين",
+    "url": "https://t.me/Electrohizbullah/156533",
+    "published": "2026-03-01T11:38:09+00:00",
+    "fetched_at": "2026-03-01T11:56:19.253774+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "New Rocket Barrage in Central Palestine",
+    "relevant": true,
+    "summary_en": "Unidentified militants have launched a new rocket barrage targeting central Palestine. This attack is likely linked to ongoing tensions and hostilities in the region, potentially involving Palestinian groups and Israeli forces. The incident signifies continued escalation and instability in the area amidst the broader conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "rocket",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Unidentified militants",
+        "Palestinian groups",
+        "Israeli forces"
+      ],
+      "location": "Central Palestine",
+      "brief": "Unidentified militants launched a rocket barrage in Central Palestine, likely linked to ongoing regional tensions and hostilities between Palestinian groups and Israeli forces."
+    },
+    "lat": 36.2110657,
+    "lng": 44.0006456
   },
   {
     "id": "c012d57b6d5f2cc1",
@@ -1114,6 +1825,78 @@
     },
     "lat": 34.5269503,
     "lng": 69.1850584
+  },
+  {
+    "id": "6f19ae0d4d859b89",
+    "title_original": "⚡️ The Palau-flagged oil tanker Skylight was attacked by the IRGC after it ignored instructions",
+    "content_original": "⚡️ The Palau-flagged oil tanker Skylight was attacked by the IRGC after it ignored instructions",
+    "url": "https://t.me/warmonitors/40206",
+    "published": "2026-03-01T11:31:38+00:00",
+    "fetched_at": "2026-03-01T11:56:17.248650+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "IRGC attacks Palau-flagged oil tanker Skylight for ignoring instructions",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC attacked the Palau-flagged oil tanker Skylight in response to it disregarding instructions. This incident occurred in a maritime zone where the IRGC has been asserting control amid the ongoing conflict. The attack signifies an escalation in Iran's use of force against commercial shipping that does not comply with its directives, posing risks to maritime security in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Palau-flagged oil tanker"
+      ],
+      "location": "maritime zone under IRGC control",
+      "brief": "IRGC attacks Palau-flagged oil tanker Skylight for ignoring maritime instructions, indicating escalation in Iran's use of force against commercial shipping."
+    }
+  },
+  {
+    "id": "9bd7592a3d5e3997",
+    "title_original": "⚡️ Missiles have arrived, red alerts",
+    "content_original": "⚡️ Missiles have arrived, red alerts",
+    "url": "https://t.me/warmonitors/40205",
+    "published": "2026-03-01T11:31:32+00:00",
+    "fetched_at": "2026-03-01T11:56:17.247945+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Missiles have arrived, red alerts",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Missiles have been launched, triggering red alert warnings. This suggests an ongoing missile attack, likely against US forces or allies in the region, indicating a significant escalation in hostilities. The strategic significance involves immediate threats to military assets and civilian populations, prompting urgent defensive actions.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "regional allies"
+      ],
+      "location": "Middle East",
+      "brief": "Missile launches triggering red alerts indicate a major escalation with direct ballistic missile attacks against US forces or allies, posing immediate threats to military assets and civilian populations."
+    },
+    "merged_source_count": 3,
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "73e221aab98fb526",

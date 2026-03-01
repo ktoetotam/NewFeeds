@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T11-11-18.433185_plus_00-00.json",
+    "generated_at": "2026-03-01T11:11:18.433185+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 465,
+    "summary_preview": "The Iran-US conflict has escalated to a MAJOR Level 1 (Score 2817) with 465 incidents in the last 24 hours. A coordinated US-Israeli airstrike on Iran on 28 February killed Supreme Leader Khamenei and"
+  },
+  {
     "filename": "2026-03-01T10-24-50.631337_plus_00-00.json",
     "generated_at": "2026-03-01T10:24:50.631337+00:00",
     "threat_label": "MAJOR",
