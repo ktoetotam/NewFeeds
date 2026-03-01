@@ -146,6 +146,118 @@
     "lng": 54.0
   },
   {
+    "id": "d0dabe889c318673",
+    "title_original": "Что происходит в ОАЭ на фоне атаки против Ирана. Главное",
+    "content_original": "Иран наносит удары по объектам в странах Персидского залива, заявляя, что атакует «американские цели». Пострадали ряд объектов в ОАЭ, в том числе в Абу-Даби и Дубае, застряли тысячи туристов. Ситуация в стране — в материале РБК",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a453989a794737a5e5313e",
+    "published": "2026-03-01T19:06:53+03:00",
+    "fetched_at": "2026-03-01T16:07:29.789634+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "What's happening in the UAE amid the attack against Iran. The main points",
+    "relevant": true,
+    "summary_en": "Iran has launched strikes on facilities in UAE, including Abu Dhabi and Dubai, claiming to target 'American targets.' Several facilities were damaged and thousands of tourists were stranded. This represents an expansion of Iranian attacks to include Gulf states hosting US military assets and infrastructure.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "UAE (Abu Dhabi, Dubai)",
+      "brief": "Iran launched strikes on UAE facilities claiming to target American targets, damaging several facilities and stranding thousands of tourists, representing an expansion of Iranian attacks to Gulf states hosting US military assets."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "177e40402ba25cc0",
+    "title_original": "В ходе атаки на Иран были убиты 48 лидеров, утверждает Трамп",
+    "content_original": "В ходе атаки на Иран были убиты 48 лидеров, утверждает Трамп",
+    "url": "https://ria.ru/20260301/tramp-2077714674.html",
+    "published": "2026-03-01T19:06:06+03:00",
+    "fetched_at": "2026-03-01T16:07:23.192924+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Trump claims 48 leaders killed in attack on Iran",
+    "relevant": true,
+    "summary_en": "Former US President Donald Trump has claimed that 48 Iranian leaders were killed in an attack on Iran. The claim comes amid the ongoing armed conflict between the United States and Iran, which has seen ballistic missile strikes, drone attacks, and reciprocal military operations. The report, if verified, would represent a significant escalation in the conflict and a major loss of Iranian leadership figures.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "ballistic",
+      "drone",
+      "missile",
+      "killed",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Former US President Trump claimed 48 Iranian leaders were killed in a US attack on Iran amid ongoing direct military engagement between the two nations."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "f255946b8631323e",
+    "title_original": "США: иранские ракеты не смогли долететь до авианосца Abraham Lincoln",
+    "content_original": "Центральное командование ВС США (CENTCOM) прокомментировало заявление Корпуса стражей исламской революции (КСИР) Ирана об ударе по американскому авианосцу USS Abraham Lincoln. В CENTCOM заявили, что запущенные Ираном ракеты не достигли совей цели.",
+    "url": "https://www.kommersant.ru/doc/8477541",
+    "published": "2026-03-01T19:00:33+03:00",
+    "fetched_at": "2026-03-01T16:07:28.467624+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US: Iranian missiles failed to reach aircraft carrier Abraham Lincoln",
+    "relevant": true,
+    "summary_en": "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed to have launched missiles at the US aircraft carrier USS Abraham Lincoln, but US Central Command (CENTCOM) stated the missiles did not reach their target. The incident represents another escalation attempt in the ongoing Iran-US armed conflict, with Iran continuing to target US military assets in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "CENTCOM"
+      ],
+      "location": "Arabian Gulf/Gulf of Oman",
+      "brief": "IRGC launched ballistic missiles at USS Abraham Lincoln carrier but failed to reach target, representing escalation in direct US-Iran military engagement."
+    },
+    "lat": 30.5202882,
+    "lng": 47.8363052
+  },
+  {
     "id": "d1d09d9abe6da3e2",
     "title_original": "Трамп заявил, что операция США против Ирана идет, \"опережая график\"",
     "content_original": "Трамп заявил, что операция США против Ирана идет, \"опережая график\"",
@@ -1832,6 +1944,41 @@
     "lng": 58.9845823
   },
   {
+    "id": "64e0fe4186a73466",
+    "title_original": "Hundreds of thousands of travellers stranded or diverted by airspace closures in Middle East",
+    "content_original": "Chaos as key transit hubs in Dubai, Abu Dhabi and Doha close, and more than 1,000 flights by major Middle Eastern airlines cancelled Iran confirms killing of Ayatollah Khamenei US-Israel war on Iran: latest updates A visual guide to the US-Israeli strikes How the US-Israeli bid for regime change unfolded The US and Israel’s attack on Iran continued to cause severe disruption to flights throughout the Middle East and beyond on Sunday. Countries across the region closed their airspace and three of the key airports that connect Europe, Africa and the west to Asia halted operations. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/mar/01/hundreds-of-thousands-of-travellers-stranded-or-diverted-amid-air-space-closures-in-middle-east",
+    "published": "2026-03-01T16:03:46+00:00",
+    "fetched_at": "2026-03-01T16:08:12.386331+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Hundreds of thousands of travellers stranded or diverted by airspace closures in Middle East",
+    "translated": true,
+    "summary_en": "{\"h\":\"Hundreds of thousands of travellers stranded or diverted by airspace closures in Middle East\",\"r\":true,\"s\":\"The US and Israel's attack on Iran has caused severe disruption to Middle Eastern aviation, with key transit hubs in Dubai, Abu Dhabi and Doha closing their airspace and halting operations. More than 1,000 flights by major Middle Eastern airlines have",
+    "relevant": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Middle East (Iran, UAE, Qatar)",
+      "brief": "US and Israel attack on Iran causes massive aviation disruption with key transit hubs Dubai, Abu Dhabi and Doha closing airspace and halting operations."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "644578868599effd",
     "title_original": "Kuwait Slams Iranian Attacks on Oman",
     "content_original": "Kuwait, March 01 (QNA) - Kuwait has expressed its vigorous condemnation and denunciation of the Iranian attacks that targeted the Sultanate of Oman, considering them a brazen violation of international law and the UN Charter.",
@@ -1866,6 +2013,80 @@
     },
     "lat": 26.0,
     "lng": 52.0
+  },
+  {
+    "id": "f04cc5e978829c35",
+    "title_original": "US military says three of its service members killed in Iran operation",
+    "content_original": "Five additional personnel have been reported seriously wounded as part of Operation Epic Fury, US military said US-Israel war on Iran – latest updates Three US service members have been killed in action as part of US military operations against Iran , the US Central Command said in a statement on Sunday. These are the first confirmed deaths since the US began launching strikes against Iran on Saturday. Five additional personnel have been reported seriously wounded as part of Operation Epic Fury, the US military said. Authorities have not yet publicly identified the three soldiers who were killed. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/mar/01/iran-attack-us-service-members-killed",
+    "published": "2026-03-01T16:00:41+00:00",
+    "fetched_at": "2026-03-01T16:08:12.386695+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "US military says three of its service members killed in Iran operation",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US Central Command confirmed three US service members killed in action as part of Operation Epic Fury against Iran, marking the first confirmed US deaths since the US began launching strikes against Iran on Saturday. Five additional personnel were seriously wounded in the operations. Authorities have not yet publicly identified the killed soldiers.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "wounded",
+      "killed",
+      "deaths"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran (western region)",
+      "brief": "US military operation Epic Fury against Iran resulted in three US service members killed and five wounded, marking the first confirmed US deaths since strikes began."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "16c15327d8255a7e",
+    "title_original": "A US military base in Kuwait was targeted by an Iranian Shahed drone.  @PressTV",
+    "content_original": "A US military base in Kuwait was targeted by an Iranian Shahed drone. @PressTV",
+    "url": "https://t.me/presstv/177476",
+    "published": "2026-03-01T16:00:01+00:00",
+    "fetched_at": "2026-03-01T16:08:16.732289+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "US military base in Kuwait targeted by Iranian Shahed drone",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian forces launched a Shahed drone at a US military base in Kuwait, marking another Iranian retaliation against US assets in the region as part of the ongoing 2026 Iran-US conflict. This follows the pattern of Iranian drone and missile attacks on US bases across Iraq, Syria, and Kuwait in response to US strikes on Iranian targets. The attack demonstrates Iran's continued pressure campaign against US forces across multiple regional locations.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Kuwait"
+      ],
+      "location": "Kuwait",
+      "brief": "Iranian Shahed drone targeted US military base in Kuwait as part of Iranian retaliation against US assets in the 2026 Iran-US conflict."
+    },
+    "lat": 29.38,
+    "lng": 47.99
   },
   {
     "id": "21f681aa27c36954",
@@ -8463,6 +8684,43 @@
     "merged_source_count": 2,
     "lat": 19.6230411,
     "lng": 57.6340004
+  },
+  {
+    "id": "60a489fb99a92939",
+    "title_original": "Iranians grieve, celebrate, worry after Khamenei's killing",
+    "content_original": "Iranians were experiencing a mix of shock, grief and joy after the death of supreme leader Ayatollah Ali Khamenei as Israeli and US strikes extended into a second day Sunday. The attacks unleashed on Saturday killed Khamenei and top military leaders and prompted Iranian authorities to retaliate with strikes on Israel and across the Gulf. At the first reports of Khamenei's death, many Iranians erupted into cheers from apartment buildings in the capital Tehran while others blared car horns and blasted music in the streets.",
+    "url": "https://www.al-monitor.com/originals/2026/03/iranians-grieve-celebrate-worry-after-khameneis-killing",
+    "published": "2026-03-01T11:00:24-05:00",
+    "fetched_at": "2026-03-01T16:07:38.418671+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranians grieve, celebrate, worry after Khamenei's killing",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli and US strikes killed Iran's Supreme Leader Ayatollah Ali Khamenei and top military leaders on Saturday, with attacks continuing into Sunday. Iranian authorities responded with retaliatory strikes on Israel and across the Gulf. Reports of Khamenei's death triggered mixed reactions in Tehran, with some celebrating and honking car horns while others expressed grief and worry.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "killed",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel",
+        "IRGC"
+      ],
+      "location": "Tehran, Iran / Israel / Gulf region",
+      "brief": "US and Israeli strikes killed Iran's Supreme Leader Ali Khamenei and top military leaders, triggering Iranian retaliatory missile attacks on Israel and Gulf targets."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "aa4bc5e3751fff89",
