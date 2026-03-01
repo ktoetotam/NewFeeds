@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T10-24-50.631337_plus_00-00.json",
+    "generated_at": "2026-03-01T10:24:50.631337+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 446,
+    "summary_preview": "The Iran–US conflict has escalated to full-scale regional war following the US-Israeli joint strike on Iran that killed Supreme Leader Khamenei and senior IRGC commanders on 2026-02-28. Iran has respo"
+  },
+  {
     "filename": "2026-03-01T09-53-10.532477_plus_00-00.json",
     "generated_at": "2026-03-01T09:53:10.532477+00:00",
     "threat_label": "MAJOR",

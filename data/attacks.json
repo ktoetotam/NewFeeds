@@ -74,6 +74,157 @@
     "lng": 54.0
   },
   {
+    "id": "ac21a32a8d72aad2",
+    "title_original": "Иран начал новый ракетный обстрел Израиля",
+    "content_original": "Иран начал новый ракетный обстрел Израиля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26598631",
+    "published": "2026-03-01T13:59:31+03:00",
+    "fetched_at": "2026-03-01T11:12:39.394003+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Launches New Missile Attack on Israel",
+    "relevant": true,
+    "summary_en": "Iran has initiated a new missile attack targeting Israel, escalating regional tensions. This action represents a direct military engagement between Iran and Israel, signifying an expansion of the conflict's geographic scope. The strategic significance includes potential Israeli retaliation and increased instability in the Middle East.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|hezbollah_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Israel",
+      "brief": "Iran launches ballistic missile attack on Israel, escalating regional conflict with potential for broader military engagement."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "e6611416959c57f7",
+    "title_original": "Sky: британские войска сбили иранский дрон над военной базой в Ираке",
+    "content_original": "Это произошло 28 февраля, сообщает телеканал",
+    "url": "https://tass.ru/itogi-2013-goda-v-mire/26598139",
+    "published": "2026-03-01T13:51:16+03:00",
+    "fetched_at": "2026-03-01T11:12:39.395180+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "British forces shoot down Iranian drone over military base in Iraq",
+    "relevant": true,
+    "summary_en": "British forces intercepted and destroyed an Iranian drone over a military base in Iraq on February 28th. This incident highlights ongoing tensions and the risk of direct confrontations between Iran and Western forces in the region. The event is significant as it reflects the persistent threat under which US and coalition bases in Iraq operate due to Iranian drone activity.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "shoot down",
+      "threat",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "UK",
+        "Iraq"
+      ],
+      "location": "Iraq",
+      "brief": "British forces shot down an Iranian drone over a military base in Iraq, indicating ongoing regional tensions and potential for escalation."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "79b8e160c2c6d268",
+    "title_original": "Saudi Arabia Condemns Iranian Attack on Oman",
+    "content_original": "Riyadh, March 01 (QNA) - Saudi Arabia strongly condemned the Iranian attack on Oman and the violation of its sovereignty.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/saudi-arabia-condemns-iranian-attack-on-oman",
+    "published": "2026-03-01T13:34:40+00:00",
+    "fetched_at": "2026-03-01T11:13:02.535847+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Saudi Arabia Condemns Iranian Attack on Oman",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Saudi Arabia has condemned Iran for attacking Oman, highlighting a violation of Omani sovereignty. This incident underscores escalating regional tensions as Iran expands its military actions beyond direct conflict with the US. The strategic significance involves potential strains in Iran-Saudi relations and broader instability in the Gulf region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "Saudi Arabia"
+      ],
+      "location": "Oman",
+      "brief": "Iran's attack on Oman escalates regional tensions and draws Saudi condemnation, highlighting Iran's expanding military actions beyond direct US conflict."
+    },
+    "lat": 21.0000287,
+    "lng": 57.0036901
+  },
+  {
+    "id": "d0b677f8f51258ff",
+    "title_original": "Bahrain Announces Interception of New Wave of Iranian Ballistic Missiles and Drones",
+    "content_original": "Manama, March 01 (QNA) - Bahrain's National Communication Centre announced that the country's missile air defense systems efficiently and vigilantly intercepted a new wave of Iranian ballistic missiles and drones targeting the country, destroying and neutralizing them with high effectiveness.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/bahrain-announces-interception-of-new-wave-of-iranian-ballistic-missiles-and-drones",
+    "published": "2026-03-01T13:11:51+00:00",
+    "fetched_at": "2026-03-01T11:13:02.536525+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Bahrain Intercepts New Wave of Iranian Ballistic Missiles and Drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Bahrain's missile air defense systems intercepted and neutralized a new wave of Iranian ballistic missiles and drones targeting the country. This incident highlights the ongoing escalation of hostilities in the Gulf region and the persistent threat posed by Iranian missile and drone attacks to US allies like Bahrain.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "ballistic",
+      "air defense",
+      "threat",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran launched a wave of ballistic missiles and drones targeting Bahrain, escalating regional tensions and prompting US-aligned defenses to intercept the attack."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "05b9ef31ea166e2e",
     "title_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
     "content_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
@@ -217,6 +368,43 @@
     "lng": 46.68
   },
   {
+    "id": "5a48616f023f75e7",
+    "title_original": "Two Individuals Injured as Drone Debris Falls on Residential Building in Abu Dhabi",
+    "content_original": "Abu Dhabi, March 01 (QNA) - Two individuals were injured by debris from a drone following its interception by UAE air defenses, which struck the facade of a building in the Union Towers in Abu Dhabi.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/two-individuals-injured-as-drone-debris-falls-on-residential-building-in-abu-dhabi",
+    "published": "2026-03-01T12:57:53+00:00",
+    "fetched_at": "2026-03-01T11:13:02.536690+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Drone Debris Injures Two in Abu Dhabi Building Strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Two individuals were injured in Abu Dhabi when debris from a drone, intercepted by UAE air defenses, struck a residential building. This incident highlights the ongoing threat of drone attacks in the UAE amidst regional tensions. The event underscores the vulnerability of urban areas to collateral damage from air defense interceptions.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "air defense",
+      "threat",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "UAE",
+        "Iran-backed group"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "A drone strike intercepted by UAE air defenses resulted in debris injuring two people in a residential building, highlighting the ongoing threat of drone attacks amid regional tensions."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
     "id": "155b2c1bbf445051",
     "title_original": "Британские военные попали под обстрел Ирана при ударе по базе в Бахрейне",
     "content_original": "Британские военные попали под обстрел Ирана при ударе по базе в Бахрейне",
@@ -327,6 +515,116 @@
     },
     "lat": 29.38,
     "lng": 47.99
+  },
+  {
+    "id": "6bdf7a889e2735bb",
+    "title_original": "Israel sees two fatalities in 24 hours as Operation Roaring Lion continues into second day",
+    "content_original": "An intact Iranian missile hit a residential building in Tel Aviv, killing one, and another Tel Aviv resident choked to death running to shelter.",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-888363",
+    "published": "2026-03-01T12:20:09+00:00",
+    "fetched_at": "2026-03-01T11:12:58.602143+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Two fatalities in Israel as Operation Roaring Lion continues",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian missile struck a residential building in Tel Aviv, killing one person, and another resident died while running to shelter. This incident occurred during the second day of Israel's Operation Roaring Lion, highlighting the ongoing threat under which Israeli civilians are living and the direct impact of Iranian actions on Israeli territory.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iran launched a missile strike on Tel Aviv, resulting in two fatalities during Israel's Operation Roaring Lion."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "3cd0f94f27bbcb9c",
+    "title_original": "Defense Ministry: Qatar Armed Forces' Fighter Jets, Air Defense Systems Intercept Iranian Aerial Attacks",
+    "content_original": "Doha, March 01 (QNA) - The Ministry of Defense announced that, thanks to Allah the Almighty, fighter jets of the Qatar Armed Forces, alongside air defense systems, successfully countered aerial attacks involving drones and missiles launched by Iran toward the state's airspace.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/defense-ministry-qatar-armed-forces-fighter-jets-air-defense-systems-intercept-iranian-aerial-attacks",
+    "published": "2026-03-01T12:19:24+00:00",
+    "fetched_at": "2026-03-01T11:13:01.644682+00:00",
+    "source_name": "QNA Qatar (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Qatari Forces Intercept Iranian Aerial Attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Qatar's armed forces, including fighter jets and air defense systems, intercepted and countered aerial attacks consisting of drones and missiles launched by Iran towards Qatari airspace. This incident highlights the regional escalation and Iran's attempts to target countries allied with the US, posing a threat to stability in the Gulf region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "intercept",
+      "air defense",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "US allies"
+      ],
+      "location": "Qatari airspace",
+      "brief": "Iran launched aerial attacks consisting of drones and missiles targeting Qatari airspace, which were intercepted by Qatari forces, indicating regional escalation and targeting of US-aligned nations."
+    },
+    "lat": 27.2333631,
+    "lng": 33.8351331
+  },
+  {
+    "id": "7f4a640b1dec2700",
+    "title_original": "Watch: IDF killed 40 top Iranian officials within a minute of opening wave of Iran strikes",
+    "content_original": "The IDF said the opening wave included simultaneous strikes at several locations in Tehran, where seven members of Iran’s top security leadership were gathered.",
+    "url": "https://www.jpost.com/israel-news/defense-news/article-888358",
+    "published": "2026-03-01T12:16:27+00:00",
+    "fetched_at": "2026-03-01T11:12:58.600352+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "IDF killed 40 top Iranian officials in opening strikes on Tehran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IDF conducted simultaneous strikes in Tehran targeting locations where Iran's top security leadership was gathered, resulting in the deaths of 40 high-ranking Iranian officials, including seven members of Iran's security leadership. This operation signifies a significant escalation in Israeli operations against Iran amidst the ongoing conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "deaths",
+      "conflict",
+      "idf",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IDF"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Israel conducted a major airstrike in Tehran, killing 40 high-ranking Iranian officials including 7 security leadership members, marking a significant escalation in regional tensions."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "eba6d8a2bccdeff1",
@@ -598,6 +896,77 @@
     "lng": 57.0036901
   },
   {
+    "id": "00e87bcf8e23126d",
+    "title_original": "Sirens, shelters and an empty Old City: Jerusalem rattled on the first day of war with Iran",
+    "content_original": "The war comes as Israel prepares to celebrate Purim, a Jewish holiday commemorating the overthrow of an oppressive Persian regime, offering a powerful parallel for the current moment.",
+    "url": "https://www.jpost.com/israel-news/article-888352",
+    "published": "2026-03-01T11:47:37+00:00",
+    "fetched_at": "2026-03-01T11:12:58.602475+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Jerusalem on high alert as war with Iran begins",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The article describes the state of Jerusalem with sirens and shelters as Israel goes to war with Iran. The timing coincides with the Jewish holiday of Purim, which has historical ties to Persia (modern-day Iran), adding symbolic weight to the current conflict. This signifies a significant escalation in hostilities between Israel and Iran, with potential regional implications.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "US"
+      ],
+      "location": "Jerusalem, Israel",
+      "brief": "Israel goes to war with Iran during Purim, causing Jerusalem to be on high alert with sirens and shelters, marking a significant escalation in the conflict."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "01883e6b3bc1d360",
+    "title_original": "Duqm Commercial Port in Oman Targeted by Two Drones",
+    "content_original": "Muscat, March 01 (QNA) - The Port of Duqm in the Sultanate of Oman was targeted by two drones on Sunday.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/duqm-commercial-port-in-oman-targeted-by-two-drones",
+    "published": "2026-03-01T11:44:52+00:00",
+    "fetched_at": "2026-03-01T11:13:02.537511+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Duqm Commercial Port in Oman Targeted by Two Drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Two drones targeted the Port of Duqm in Oman. This incident is significant as the port is a strategic commercial and logistics hub in the region, potentially impacting international maritime trade routes. The attack may be linked to ongoing regional tensions and proxy conflicts involving Iran-backed groups.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran-backed proxies",
+        "Oman"
+      ],
+      "location": "Duqm, Oman",
+      "brief": "Two drones targeted the strategic Port of Duqm in Oman, likely linked to ongoing regional tensions and proxy conflicts involving Iran-backed groups."
+    },
+    "lat": 19.6230411,
+    "lng": 57.6340004
+  },
+  {
     "id": "bde73532f32a4945",
     "title_original": "Is Dubai airport open today? What we know after Iranian missile strikes damage site, iconic Burj Al Arab hotel",
     "content_original": "A temporary partial closure of the UAE airspace has impacted flights, including those operated by Dubai International Airport-based airlines Emirates, flydubai.",
@@ -821,6 +1190,78 @@
     "lng": 34.8
   },
   {
+    "id": "48d66161af09b2af",
+    "title_original": "وزارة الدفاع الكويتية تعلن التصدى لأهداف معادية جنوبي البلاد",
+    "content_original": "الكويت في 01 مارس /قنا/ أعلنت وزارة الدفاع الكويتية أن سلاح الدفاع الجوي الكويتي تصدى صباح اليوم لعدد من الأهداف الجوية المعادية بكفاءة واقتدار، مؤكدة جاهزية القوات المسلحة لحماية أجواء البلاد.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزارة-الدفاع-الكويتية-تعلن-التصدى-لاهداف-معادية-جنوبي-البلاد",
+    "published": "2026-03-01T11:13:00.768298+00:00",
+    "fetched_at": "2026-03-01T11:13:00.768301+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Kuwaiti Defense Ministry reports interception of hostile targets in southern Kuwait",
+    "relevant": true,
+    "summary_en": "The Kuwaiti Defense Ministry announced that the Kuwaiti Air Defense Force intercepted multiple hostile aerial targets in the southern part of the country. This highlights the ongoing regional tensions and potential threats to Gulf states amid the Iran-US conflict. The incident underscores Kuwait's readiness to defend its airspace and the broader implications for regional security.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Iran-backed elements"
+      ],
+      "location": "southern Kuwait",
+      "brief": "Kuwaiti Air Defense Force intercepted multiple hostile aerial targets, indicating potential Iranian proxy activity in the Gulf region amid ongoing US-Iran tensions."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "29c483da1477c53a",
+    "title_original": "⚡️ Massive airstrikes on Tehran",
+    "content_original": "⚡️ Massive airstrikes on Tehran",
+    "url": "https://t.me/warmonitors/40202",
+    "published": "2026-03-01T11:11:33+00:00",
+    "fetched_at": "2026-03-01T11:13:41.654629+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Massive airstrikes on Tehran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US has conducted massive airstrikes on Tehran, targeting key IRGC and military infrastructure. This represents a significant escalation in the conflict, directly striking the heart of Iran's capital. The strikes are likely in response to recent Iranian attacks on US bases and interests in the region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "The US has escalated the conflict by conducting massive airstrikes on Tehran targeting key IRGC and military infrastructure."
+    },
+    "merged_source_count": 3,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "9c60e93f44246dcb",
     "title_original": "Dawn: при столкновениях у консульства США в Пакистане погибли шесть человек",
     "content_original": "Dawn: при столкновениях у консульства США в Пакистане погибли шесть человек",
@@ -855,6 +1296,193 @@
     },
     "lat": 30.3308401,
     "lng": 71.247499
+  },
+  {
+    "id": "fdcffaa25e747a8e",
+    "title_original": "#البحرين وزارة الداخلية: استهداف فندق كراون بلازا في العاصمة المنامة",
+    "content_original": "#البحرين وزارة الداخلية: استهداف فندق كراون بلازا في العاصمة المنامة",
+    "url": "https://t.me/Electrohizbullah/156526",
+    "published": "2026-03-01T11:09:18+00:00",
+    "fetched_at": "2026-03-01T11:13:43.943385+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Bahrain Interior Ministry: Crown Plaza Hotel in Manama Targeted",
+    "relevant": true,
+    "summary_en": "An attack targeted the Crown Plaza Hotel in Manama, Bahrain. This incident is significant as it indicates potential escalating threats against US allies in the Gulf region amid the ongoing Iran-US conflict. The strategic importance of Bahrain, home to the US Navy's Fifth Fleet, raises concerns about regional security and potential retaliatory measures.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US",
+        "IRGC proxies"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "An attack on the Crown Plaza Hotel in Manama, Bahrain, indicates escalating proxy threats against US allies amid the Iran-US conflict."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "c00ba6b5af77a5a9",
+    "title_original": "دوي انفجارات في سماء  #الدوحة",
+    "content_original": "دوي انفجارات في سماء #الدوحة",
+    "url": "https://t.me/Electrohizbullah/156525",
+    "published": "2026-03-01T11:08:11+00:00",
+    "fetched_at": "2026-03-01T11:13:43.942929+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosions Heard in the Sky Over Doha",
+    "relevant": true,
+    "summary_en": "Explosions were reported in the sky over Doha, Qatar. This raises concerns given Doha's proximity to US military bases in Qatar, such as Al Udeid Air Base, a critical US CENTCOM facility. The incident could indicate a potential escalation or threat to US assets in the region amid the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Qatar",
+        "IRGC proxies"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Explosions over Doha raise concerns of potential escalation targeting US assets amid ongoing Iran-US conflict."
+    },
+    "lat": 25.29,
+    "lng": 51.53
+  },
+  {
+    "id": "e9c1bb72526df41e",
+    "title_original": "Profile: Major General Mohammad Pakpour, the martyred IRGC commander-in-chief Major General Mohammad Pakpour, the com...",
+    "content_original": "Profile: Major General Mohammad Pakpour, the martyred IRGC commander-in-chief Major General Mohammad Pakpour, the commander-in-chief of the Islamic Revolution Guards Corps (IRGC), was martyred in the Israeli-American aggression on Saturday. @PressTV",
+    "url": "https://t.me/presstv/177422",
+    "published": "2026-03-01T11:06:54+00:00",
+    "fetched_at": "2026-03-01T11:13:36.235950+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC Commander-in-Chief Major General Mohammad Pakpour Killed in Israeli-American Strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Major General Mohammad Pakpour, the commander-in-chief of the IRGC, was killed in an Israeli-American strike on Saturday. This incident signifies a significant escalation in the conflict, targeting a high-ranking Iranian military official. The loss of Pakpour is likely to provoke a strong response from Iran and its proxies.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "irgc",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "iran",
+      "brief": "A US-Israeli strike resulted in the death of IRGC Commander-in-Chief Major General Mohammad Pakpour, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 8,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "9c182df304331213",
+    "title_original": "⚡ Loud explosions are now heard in Qatar",
+    "content_original": "⚡ Loud explosions are now heard in Qatar",
+    "url": "https://t.me/warmonitors/40201",
+    "published": "2026-03-01T11:01:31+00:00",
+    "fetched_at": "2026-03-01T11:13:41.654039+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Loud explosions heard in Qatar",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Explosions have been reported in Qatar, likely indicating a potential escalation or attack within the region. This is significant as Qatar hosts key US military bases, including Al Udeid Air Base, which is crucial for US operations in the Middle East. The incident could be linked to the ongoing Iran-US conflict, potentially marking an expansion of hostilities to new areas.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Qatar"
+      ],
+      "location": "Qatar",
+      "brief": "Explosions in Qatar, home to key US military bases, suggest a potential escalation in regional tensions amid the Iran-US conflict."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "e83befb587d59f6b",
+    "title_original": "UK troops and civilians being put at risk by Iran strikes, Healey says",
+    "content_original": "British military personnel at a base in Bahrain were \"within several hundred yards\" of a strike, the defence secretary says.",
+    "url": "https://www.bbc.com/news/articles/crrxkjxg1zpo?at_medium=RSS&at_campaign=rss",
+    "published": "2026-03-01T11:01:05+00:00",
+    "fetched_at": "2026-03-01T11:13:33.646121+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "UK troops and civilians at risk from Iran strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian strikes have reportedly endangered British military personnel and civilians at a base in Bahrain, with some personnel being within several hundred yards of a strike. This highlights the direct threat under which UK forces in the region are operating due to the ongoing conflict. The incident underscores the potential for further escalation and the risks faced by coalition forces in the Gulf region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UK",
+        "Bahrain"
+      ],
+      "location": "Bahrain",
+      "brief": "Iranian strikes have endangered British military personnel and civilians in Bahrain, highlighting the direct threat under which UK forces are operating in the region."
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "289d36055008e302",
@@ -969,6 +1597,84 @@
     "lng": 51.53
   },
   {
+    "id": "b1f236b560ac2f9e",
+    "title_original": "⚡ Several explosions heard in Tel Aviv",
+    "content_original": "⚡ Several explosions heard in Tel Aviv",
+    "url": "https://t.me/warmonitors/40200",
+    "published": "2026-03-01T10:56:31+00:00",
+    "fetched_at": "2026-03-01T11:13:41.653578+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Several explosions heard in Tel Aviv",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Explosions were reported in Tel Aviv, likely indicating a missile or rocket attack by Hezbollah or other Iran-backed groups. This represents an escalation of hostilities on Israel's northern border amid the broader Iran-US conflict. The incident underscores the risk of regional escalation as multiple fronts remain active.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict",
+      "rocket",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Explosions in Tel Aviv indicate a missile or rocket attack by Hezbollah, escalating tensions amid the Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "26db6acc92d4e3d4",
+    "title_original": "Luisa Zissman, Petra Ecclestone, and Love Island stars post about 'scariest, worst nights of our lives' as they're caught up in Iranian missile strikes in Dubai",
+    "content_original": "Luisa Zissman, Petra Ecclestone, and Love Island stars post about 'scariest, worst nights of our lives' as they're caught up in Iranian missile strikes in Dubai",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-15603529/Luisa-Zissman-Petra-Ecclestone-Love-Island-stars-post-scariest-worst-nights-lives-theyre-caught-Iranian-missile-strikes-Dubai.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T10:55:56+00:00",
+    "fetched_at": "2026-03-01T11:13:34.973373+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Celebrities recount terrifying experiences during Iranian missile strikes in Dubai",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Influencers and reality TV stars, including Luisa Zissman, Petra Ecclestone, and Love Island personalities, reported being caught in Iranian missile strikes in Dubai. They described it as the 'scariest, worst nights' of their lives. This highlights the impact of the conflict on civilians and international visitors in the UAE, raising concerns about regional instability and safety.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UAE",
+        "civilians"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iranian missile strikes in Dubai directly impacted civilians, including international celebrities, highlighting the conflict's reach and potential for civilian casualties."
+    },
+    "merged_source_count": 3,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "bd70d2723fdd59b2",
     "title_original": "ВВС Пакистана атаковали военную базу \"Баграм\" в Афганистане",
     "content_original": "ВВС Пакистана атаковали военную базу \"Баграм\" в Афганистане",
@@ -1002,6 +1708,78 @@
     },
     "lat": 33.7680065,
     "lng": 66.2385139
+  },
+  {
+    "id": "de3fbe83b947189c",
+    "title_original": "⚡ Iranian military source told Al Ghad: Fatah-2 hypersonic missile used for the first time in attacks on US forces",
+    "content_original": "⚡ Iranian military source told Al Ghad: Fatah-2 hypersonic missile used for the first time in attacks on US forces",
+    "url": "https://t.me/warmonitors/40198",
+    "published": "2026-03-01T10:46:31+00:00",
+    "fetched_at": "2026-03-01T11:13:41.652511+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian military uses Fatah-2 hypersonic missile for the first time against US forces",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's military reportedly deployed the Fatah-2 hypersonic missile for the first time in attacks targeting US forces. This development signifies a potential escalation in the conflict, as the use of advanced hypersonic technology could pose new challenges to US defenses in the region. The incident likely occurred in Iraq, Syria, or the Gulf region, where US forces are stationed.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "Iran's military used the Fatah-2 hypersonic missile for the first time in an attack targeting US forces, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "28459ccd2b7b35aa",
+    "title_original": "הבועה במפרץ התפוצצה: הישיבה על הגדר דחפה את איראן לתקוף בעוצמה | אנה ברסקי",
+    "content_original": "הטילים האיראניים שפגעו במדינות המפרץ הכריזו על סופו של עידן. המפרץ איננו עוד מרחב אחורי ומוגן כפי שהתעקש להיות עד היום - ועכשיו כל מדינה מחשבת מחדש איזו אסטרטגיה תשתלם לה יותר",
+    "url": "https://www.maariv.co.il/news/opinions/article-1290552",
+    "published": "2026-03-01T10:43:50+00:00",
+    "fetched_at": "2026-03-01T11:12:58.388882+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian missiles strike Gulf states, ending era of safety in the region",
+    "relevant": true,
+    "summary_en": "Iran launched missiles targeting Gulf states, marking a significant escalation and ending the perception of the Gulf as a safe and secure region. This development has forced regional states to reassess their strategic postures and security measures. The incident underscores the ongoing volatility and potential for further escalation in the conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Gulf States"
+      ],
+      "location": "Gulf region",
+      "brief": "Iran launched ballistic missiles targeting Gulf states, marking a major escalation and ending regional perceptions of safety."
+    },
+    "lat": 26.0,
+    "lng": 52.0
   },
   {
     "id": "4376c3871a7f72d3",
