@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T12-36-13.863513_plus_00-00.json",
+    "generated_at": "2026-03-01T12:36:13.863513+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 503,
+    "summary_preview": "The Iran-US-Israeli conflict has reached a critical new phase with the confirmed death of Iran's Supreme Leader Ayatollah Khamenei in a joint US-Israeli strike on Tehran. Over 500 incidents have been "
+  },
+  {
     "filename": "2026-03-01T11-53-41.631561_plus_00-00.json",
     "generated_at": "2026-03-01T11:53:41.631561+00:00",
     "threat_label": "MAJOR",
