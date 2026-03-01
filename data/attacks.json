@@ -1,5 +1,41 @@
 [
   {
+    "id": "a6082d2571cb18fa",
+    "title_original": "First US casualties confirmed: Did Pentagon reveal identities of 3 Service Members killed amid Op Epic fury?",
+    "content_original": "The Pentagon reported that three American service members died and five were injured during a joint operation against Iran.",
+    "url": "https://www.hindustantimes.com/world-news/us-news/first-us-casualties-confirmed-in-iran-strikes-did-us-reveal-identities-of-3-service-members-killed-amid-op-epic-fury-101772384301809.html",
+    "published": "2026-03-01T22:45:44+05:30",
+    "fetched_at": "2026-03-01T17:43:28.114944+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "First US casualties confirmed: Did Pentagon reveal identities of 3 Service Members killed amid Op Epic fury?",
+    "translated": true,
+    "summary_en": "{\"h\":\"First US casualties confirmed: Did Pentagon reveal identities of 3 Service Members killed amid Op Epic fury?\",\"r\":true,\"s\":\"The Pentagon confirmed three American service members were killed and five injured during a joint operation against Iran. This marks the first US casualties confirmed in the ongoing 2026 Iran-US conflict. The operation, referred to as 'Op Epic,' represents a significant",
+    "relevant": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "south_asia",
+      "brief": "Three US service members killed and five injured during joint US operation against Iran, marking first confirmed US casualties in current conflict."
+    },
+    "lat": 11.0046133,
+    "lng": 124.6069737
+  },
+  {
     "id": "6c041338e37122b7",
     "title_original": "US suffers first war fatalities as Iran’s counterstrikes widen in West Asia",
     "content_original": "The US said the first Americans had been killed in the war with Iran that spread to several countries in West Asia, while threatening to upend energy markets.",
@@ -178,6 +214,80 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "14aaf182c3f831bb",
+    "title_original": "Fars: несколько ракет ударили по востоку Тегерана",
+    "content_original": "Информации о причиненном ущербе пока нет",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26602331",
+    "published": "2026-03-01T20:20:30+03:00",
+    "fetched_at": "2026-03-01T17:42:56.795653+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Fars: several rockets strike eastern Tehran",
+    "relevant": true,
+    "summary_en": "Several rockets struck eastern Tehran, according to Fars news agency. No information on casualties or damage has been reported yet. This marks another escalation in the ongoing conflict, with attacks now reaching the Iranian capital itself following the pattern of US and allied strikes on Iranian military and strategic targets.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "allied forces",
+        "Iran"
+      ],
+      "location": "Tehran, Iran (eastern Tehran)",
+      "brief": "Several rockets struck eastern Tehran marking another escalation with attacks now reaching the Iranian capital following US and allied strikes on Iranian military targets."
+    },
+    "merged_source_count": 4,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "f4ccbc69aa82ded5",
+    "title_original": "Беспилотники атаковали военную базу США в Ираке, пишут СМИ",
+    "content_original": "Беспилотники атаковали военную базу США в Ираке, пишут СМИ",
+    "url": "https://ria.ru/20260301/irak-2077725412.html",
+    "published": "2026-03-01T20:19:11+03:00",
+    "fetched_at": "2026-03-01T17:42:56.993288+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drones attack US military base in Iraq, media reports",
+    "relevant": true,
+    "summary_en": "Unidentified drones attacked a US military base in Iraq. The attack comes amid the ongoing Iran-US armed conflict, where Iran and its proxies have been targeting US bases in Iraq and Syria as part of retaliatory strikes. This represents another incident in the escalating series of proxy attacks on American military installations in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "proxy",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Iran proxies",
+        "United States"
+      ],
+      "location": "Iraq",
+      "brief": "Unidentified drones attacked a US military base in Iraq as part of escalating proxy attacks by Iran and its proxies targeting US bases in Iraq and Syria."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "fb2738218ca18553",
@@ -1430,6 +1540,84 @@
     "lng": 55.27
   },
   {
+    "id": "7f4414677705707c",
+    "title_original": "القيادة المركزية الأمريكية تعلن مقتل وإصابة 8 جنود ضمن العمليات القتالية الجارية",
+    "content_original": "واشنطن في 01 مارس /قنا/ أعلنت القيادة المركزية الأمريكية (سنتكوم) مقتل 3 من أفراد القوات الأمريكية وإصابة 5 آخرين بجروح خطيرة، وذلك ضمن العمليات القتالية الجارية بين الولايات المتحدة وإسرائيل ضد إيران.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/القيادة-المركزية-الامريكية-تعلن-مقتل-واصابة-8-جنود-ضمن-العمليات-القتالية-الجارية",
+    "published": "2026-03-01T17:43:07.840743+00:00",
+    "fetched_at": "2026-03-01T17:43:07.840753+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "US Central Command announces killing and injury of 8 soldiers in ongoing combat operations",
+    "relevant": true,
+    "summary_en": "US Central Command (CENTCOM) announced the death of 3 American service members and serious injuries to 5 others in ongoing combat operations between the United States and Israel against Iran. The casualties represent direct US military involvement in the escalating Iran-US conflict and highlight the expanding scope of American combat operations in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Gulf region",
+      "brief": "US Central Command confirms 3 killed and 5 injured American service members in combat operations against Iran, marking direct US military casualties in escalating conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "a2628773d11e4420",
+    "title_original": "🗺  Updated strike map. Notable new strike locations include: --> The French Naval Base in Abu Dhabi, --> Port of Duqm...",
+    "content_original": "🗺 Updated strike map. Notable new strike locations include: --> The French Naval Base in Abu Dhabi, --> Port of Duqm in Oman, --> Tabriz North Missile Base in northern Iran. Note: Only an approximate 4% of claimed strikes on Iran have been confirmed and marked. 🔗 War Mapper",
+    "url": "https://t.me/CIG_telegram/69895",
+    "published": "2026-03-01T17:41:56+00:00",
+    "fetched_at": "2026-03-01T17:43:49.324245+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "🗺  Updated strike map. Notable new strike locations include: --> The French Naval Base in Abu Dhabi, --> Port of Duqm...",
+    "translated": true,
+    "summary_en": "{\"h\":\"Updated Strike Map Shows New Targets Including French Naval Base in Abu Dhabi, Port of Duqm, and Iranian Missile Base\",\"r\":true,\"s\":\"The war mapping account reports expanded strike locations in the Iran-US conflict, now including the French Naval Base in Abu Dhabi, Port of Duqm in Oman,",
+    "relevant": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "war",
+      "strike",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "military_deployment",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "France",
+        "United Arab Emirates",
+        "Oman"
+      ],
+      "location": "Middle East - Abu Dhabi (UAE), Port of Duqm (Oman), Iran",
+      "brief": "Updated war mapping shows expanded strike targets in the Iran-US conflict now including French Naval Base in Abu Dhabi and Port of Duqm in Oman, signaling escalation of targeting scope."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "f257902494d47652",
     "title_original": "ОАЭ оставляют за собой право ответить на удар по военной базе в Абу-Даби",
     "content_original": "Минобороны страны решительно осудило военное нападение, расценив его как вопиющий акт агрессии и грубое нарушение национального суверенитета",
@@ -1576,6 +1764,46 @@
     "lng": 54.0
   },
   {
+    "id": "6c00ff53c1a9e06c",
+    "title_original": "'We've just been hit by a drone!' British expat in Dubai films aftermath of Iranian attack as emirate is bombarded in revenge for Ayatollah's death",
+    "content_original": "'We've just been hit by a drone!' British expat in Dubai films aftermath of Iranian attack as emirate is bombarded in revenge for Ayatollah's death",
+    "url": "https://www.dailymail.co.uk/news/article-15604047/hit-drone-British-expat-Dubai-films-aftermath-Iranian-attack-emirate-Ayatollahs-death.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T17:36:02+00:00",
+    "fetched_at": "2026-03-01T17:43:44.335430+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "British expat in Dubai films aftermath of Iranian drone attack as emirate is bombarded in revenge for Ayatollah's death",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian drones attacked Dubai (UAE) in apparent retaliation for the killing of an Iranian Ayatollah, with a British expatriate filming the aftermath. This strike represents Iranian retaliation against a US-aligned Gulf state amid the ongoing Iran-US conflict, with the UAE hosting US military assets and being strategically positioned in the Gulf region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "death",
+      "drone",
+      "conflict",
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States",
+        "British expatriate"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iranian drones struck Dubai in retaliation for the killing of an Iranian Ayatollah, targeting a US-aligned Gulf state hosting American military assets."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "49ba4ef781e272f5",
     "title_original": "AFP: ВС Саудовской Аравии отразили удар по аэропорту и военной базе",
     "content_original": "Ракеты перехвачены",
@@ -1652,6 +1880,79 @@
     "lng": 54.38
   },
   {
+    "id": "b3d9165c3aaaab29",
+    "title_original": "⚡️ Iranian drones now approaching Israel from the Dead Sea",
+    "content_original": "⚡️ Iranian drones now approaching Israel from the Dead Sea",
+    "url": "https://t.me/warmonitors/40298",
+    "published": "2026-03-01T17:31:33+00:00",
+    "fetched_at": "2026-03-01T17:43:50.516875+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian drones now approaching Israel from the Dead Sea",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian drones are approaching Israel from the Dead Sea direction, representing a direct military threat to Israeli territory as part of ongoing hostilities in the regional conflict between Iran and its adversaries.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "dead",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Dead Sea",
+      "brief": "Iranian drones approaching Israeli territory from the Dead Sea direction represent a direct military threat as part of ongoing Iran-Israel hostilities."
+    },
+    "lat": 31.5414738,
+    "lng": 35.4787059
+  },
+  {
+    "id": "1bd29a036d58c161",
+    "title_original": "#الجمهورية_الإسلامية    وسائل إعلام إيرانية: تعرض أجزاء من مبنى الإذاعة والتلفزيون الإيراني لهجوم صهيوني-أميركي",
+    "content_original": "#الجمهورية_الإسلامية وسائل إعلام إيرانية: تعرض أجزاء من مبنى الإذاعة والتلفزيون الإيراني لهجوم صهيوني-أميركي",
+    "url": "https://t.me/Electrohizbullah/156754",
+    "published": "2026-03-01T17:27:55+00:00",
+    "fetched_at": "2026-03-01T17:43:52.468356+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Media: Parts of Iranian Radio and Television Building Targeted in Zionist-American Attack",
+    "relevant": true,
+    "summary_en": "Iranian state media reported that parts of the Iranian Radio and Television building were targeted in a Zionist-American attack. The attack represents another escalation in the ongoing US-Israel military campaign against Iranian territory and infrastructure, following strikes on nuclear facilities, military bases, and IRGC assets.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "nuclear",
+      "attack",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (Tehran)",
+      "brief": "Israeli-American forces targeted Iranian Radio and Television building in Tehran, marking another direct strike on Iranian territory amid escalating US-Israel military campaign."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "e1fe506d69dc0153",
     "title_original": "Iran's firebrand ex-President Ahmadinejad killed US-Israel airstrikes",
     "content_original": "Former Iranian president Mahmoud Ahmadinejad, 69, was killed along with his bodyguard in an airstrike on his Tehran home during U.S.-Israeli military strikes, state-linked ILNA new...",
@@ -1686,6 +1987,125 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "eb9f6de853a6892a",
+    "title_original": "#الجمهورية_الإسلامية   التلفزيون الإيراني: تم استهداف قاعدة عسكرية أمريكية في أربيل بالصواريخ والمسيرات",
+    "content_original": "#الجمهورية_الإسلامية التلفزيون الإيراني: تم استهداف قاعدة عسكرية أمريكية في أربيل بالصواريخ والمسيرات",
+    "url": "https://t.me/Electrohizbullah/156743",
+    "published": "2026-03-01T17:18:09+00:00",
+    "fetched_at": "2026-03-01T17:43:52.464415+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian TV: American military base in Erbil targeted with missiles and drones",
+    "relevant": true,
+    "summary_en": "Iranian state television reported that an American military base in Erbil, Iraqi Kurdistan was targeted with missiles and drones. This represents another Iranian retaliation strike against US forces in Iraq, continuing the pattern of IRGC and proxy attacks on US bases in the region as part of the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "irgc",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "Iraq"
+      ],
+      "location": "Erbil, Iraqi Kurdistan",
+      "brief": "Iranian state TV reported IRGC missiles and drones targeted an American military base in Erbil, marking another Iranian retaliation strike against US forces in Iraq."
+    },
+    "merged_source_count": 3,
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "0806a76c0ba82935",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: الإصابة في \"بيت شيمش\" لم تكن خللاً فقد جرت محاولات اعتراض لكنها أخطأت الهدف",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: الإصابة في \"بيت شيمش\" لم تكن خللاً فقد جرت محاولات اعتراض لكنها أخطأت الهدف",
+    "url": "https://t.me/Electrohizbullah/156740",
+    "published": "2026-03-01T17:16:08+00:00",
+    "fetched_at": "2026-03-01T17:43:52.462952+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli media: Beit Shemesh hit was not a malfunction - interception attempts missed target",
+    "relevant": true,
+    "summary_en": "Israeli media reports that the missile/drone strike on Beit Shemesh was not due to a system malfunction, but rather that air defense interception attempts were made and failed to hit the incoming projectile. This indicates an attempted interception by Israeli air defenses that missed its target, representing a penetration of Israel's air defense envelope during the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "drone",
+      "air defense",
+      "conflict",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "high",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Houthi missile/drone strike successfully hit Beit Shemesh after Israeli air defense interception attempts failed to intercept the incoming projectile."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "5e33fd0076c39ec2",
+    "title_original": "First US service members killed in operation against Iran",
+    "content_original": "Three members of the US military have been killed and five others wounded in the operation against Iran, the Pentagon said Sunday , announcing the first American deaths in the US-Israeli campaign that killed the Islamic republic's supreme leader. Iran launched a new round of retaliatory attacks across the Gulf on Sunday after vowing to avenge the slain Ayatollah Ali Khamenei, defying a threat from President Donald Trump to strike with unprecedented force. As crowds gathered in Tehran, with some grieving and others celebrating, explosions rang out and the Israeli military announced it was again striking targets in the heart of the capital. \"Three US service members have been killed in action and five are seriously wounded as part of Operation Epic Fury,\" the Pentagon said, adding several others sustained minor shrapnel injuries and concussions. \"Major combat operations continue and our response effort is ongoing.\" Iran's Revolutionary Guards announced a \"large-scale\" attack on Sunday, a...",
+    "url": "https://www.newarab.com/news/first-us-service-members-killed-operation-against-iran",
+    "published": "2026-03-01T17:15:26+00:00",
+    "fetched_at": "2026-03-01T17:43:11.619325+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "First US service members killed in operation against Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US service members were killed and five wounded in the US-Israeli operation against Iran that also killed Supreme Leader Ali Khamenei, marking the first American combat deaths in the escalating conflict. Iran launched new retaliatory attacks across the Gulf following the assassination, while Israel continued striking targets in Tehran.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "deaths",
+      "killed",
+      "wounded",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran,Gulf region",
+      "brief": "US-Israeli operation killed Iran's Supreme Leader and three US service members in first American combat deaths, prompting Iranian retaliatory attacks across the Gulf."
+    },
+    "merged_source_count": 9,
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "c62d86f6dd32e904",
@@ -8302,6 +8722,42 @@
     "merged_source_count": 2,
     "lat": 26.07,
     "lng": 50.55
+  },
+  {
+    "id": "6859e606069df16f",
+    "title_original": "Enemy within: Counterterrorism experts fear sleeper cells could be poised inside USto",
+    "content_original": "American counterterrorism agencies are quietly monitoring suspected sleeper cells on U.S. soil in the wake of joint U.S.–Israel strikes on Iran , stepping up surveillance amid heightened fears of possible retaliation from Iran-linked operatives or sympathizers. Federal and local law enforcement have also boosted on-the-ground security in major U.S. cities as part of a precautionary posture, even though no specific, credible threats have been publicly identified. The move comes on the heels of a Saturday morning operation, dubbed Operation Epic Fury, that resulted in the death of Iran’s Supreme Leader Ayatollah Ali Khamenei and several senior Iranian officials in a coordinated U.S.–Israeli military campaign. US, ISRAEL STRIKE IRAN: AYATOLLAH KHAMENEI, 40 TOP IRANIAN LEADERS KILLED Security experts warn that the fallout could extend beyond the Middle East. \"If ever there's going to be a Hezbollah cell or a Hamas cell act in the United States in a violent way, it's now,\" Chris Swecker, a ...",
+    "url": "https://www.foxnews.com/politics/enemy-within-counterterrorism-experts-fear-sleeper-cells-could-poised-inside-usto",
+    "published": "2026-03-01T12:33:48-05:00",
+    "fetched_at": "2026-03-01T17:43:29.259650+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Enemy within: Counterterrorism experts fear sleeper cells could be poised inside US",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "U.S. counterterrorism agencies are monitoring suspected Iran-linked sleeper cells on American soil following joint U.S.-Israel strikes that killed Iran's Supreme Leader Ayatollah Ali Khamenei and senior Iranian officials in Operation Epic Fury. Federal and local law enforcement have increased surveillance and security in major U.S. cities amid heightened fears of retaliation from Iran-linked operatives or sympathizers, though no specific credible threats have been publicly identified.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "United States",
+      "brief": "US counterterrorism agencies monitor Iran-linked sleeper cells on American soil following US-Israel strikes that killed Iran's Supreme Leader and senior officials in Operation Epic Fury."
+    },
+    "lat": 39.7837304,
+    "lng": -100.445882
   },
   {
     "id": "6bdf7a889e2735bb",
