@@ -70,6 +70,76 @@
     "lng": -79.2854845
   },
   {
+    "id": "6decbea3144f8cc4",
+    "title_original": "Новая серия взрывов прозвучала в Дохе",
+    "content_original": "Люди наблюдают с балкона за взрывами в Дохе, Катар",
+    "url": "https://www.rbc.ru/politics/28/02/2026/69a2bfd59a794775fa3f353c",
+    "published": "2026-03-01T08:45:07+03:00",
+    "fetched_at": "2026-03-01T06:04:00.025081+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Series of Explosions Heard in Doha",
+    "relevant": true,
+    "summary_en": "Explosions occurred in Doha, Qatar, potentially impacting the security of US bases and regional stability. The incident's proximity to US military installations in Qatar makes it significant amidst ongoing Iran-US hostilities. The cause of the explosions and any link to the conflict remain unclear but warrant investigation due to the strategic importance of Qatar for US operations in the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "unknown"
+      ],
+      "location": "Doha, Qatar",
+      "brief": "Unexplained explosions in Doha raise concerns due to proximity to US military installations amid Iran-US tensions."
+    },
+    "lat": 25.29,
+    "lng": 51.53
+  },
+  {
+    "id": "333086f232f48698",
+    "title_original": "В Багдаде демонстранты пытаются прорваться к посольству США",
+    "content_original": "В Багдаде демонстранты пытаются прорваться к посольству США",
+    "url": "https://ria.ru/20260301/bagdad-2077595412.html",
+    "published": "2026-03-01T08:44:02+03:00",
+    "fetched_at": "2026-03-01T06:03:55.183395+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Protesters Attempt to Breach US Embassy in Baghdad",
+    "relevant": true,
+    "summary_en": "Protesters in Baghdad are attempting to breach the US Embassy. This incident highlights the ongoing instability and anti-US sentiment in Iraq amid the Iran-US conflict. The situation could escalate if US forces or local security respond with force, potentially drawing in additional military assets.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Iraqi protesters",
+        "Iran-backed militias"
+      ],
+      "location": "Baghdad, Iraq",
+      "brief": "Protesters attempting to breach the US Embassy in Baghdad represents an escalation in anti-US sentiment and potential proxy action amid the Iran-US conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 33.31,
+    "lng": 44.39
+  },
+  {
     "id": "194edfac2fe2af75",
     "title_original": "В Белгородской области при атаке ВСУ пострадали два человека",
     "content_original": "Мужчину доставили в Шебекинскую ЦРБ бойцы самообороны, женщина обратилась в больницу самостоятельно",
@@ -707,6 +777,411 @@
     "lng": 54.56
   },
   {
+    "id": "68d6f3760c668569",
+    "title_original": "البحرين تعلن إسقاط 45 صاروخا وتسع طائرات مسيرة إيرانية",
+    "content_original": "المنامة في 01 مارس /قنا/ أعلنت القيادة العامة لقوة دفاع البحرين تدمير منظومات الدفاع الجوي التابعة لها تدمير وإسقاط 45 صاروخا",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/البحرين-تعلن-اسقاط-45-صاروخا-وتسع-طايرات-مسيرة-ايرانية",
+    "published": "2026-03-01T06:04:03.342801+00:00",
+    "fetched_at": "2026-03-01T06:04:03.342805+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Bahrain Announces Interception of 45 Missiles and Nine Iranian Drones",
+    "relevant": true,
+    "summary_en": "Bahrain's Defense Force intercepted and destroyed 45 missiles and nine Iranian drones targeting its territory. This incident highlights the ongoing threat posed by Iranian proxies and the strategic importance of Bahrain, home to the US Navy's Fifth Fleet, in the regional conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "Iranian proxies",
+        "US Navy Fifth Fleet"
+      ],
+      "location": "Bahrain",
+      "brief": "Bahrain intercept 45 missiles and 9 Iranian drones in a significant proxy operation targeting its territory, highlighting the threat to US strategic interests in the region."
+    },
+    "merged_source_count": 4,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "a41db90fe33793ac",
+    "title_original": "إيران تعلن مقتل المرشد الأعلى علي خامنئي",
+    "content_original": "طهران في 01 مارس /قنا/ أعلنت إيران فجر اليوم، مقتل علي خامنئي المرشد الأعلى الإيراني في أعقاب في ‌غارات ‌إسرائيلية وأمريكية على مناطق",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/ايران-تعلن-مقتل-المرشد-الاعلى-علي-خامنيي",
+    "published": "2026-03-01T06:04:03.342626+00:00",
+    "fetched_at": "2026-03-01T06:04:03.342629+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Iran announces the death of Supreme Leader Ali Khamenei",
+    "relevant": true,
+    "summary_en": "Iran has announced the death of Supreme Leader Ali Khamenei following Israeli and US strikes on unspecified areas. This event marks a significant escalation in the ongoing conflict, as the loss of Iran's highest authority could lead to further instability and potential retaliatory actions by Iranian forces. The strategic implications for the region and the conflict's trajectory are profound, given Khamenei's central role in Iranian decision-making.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "death",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Iran",
+      "brief": "The death of Iran's Supreme Leader Ali Khamenei following US and Israeli strikes marks a major escalation in the conflict, likely leading to further instability and retaliatory actions."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "ac9c6c243ed91131",
+    "title_original": "ولي العهد الكويتي والرئيس الأمريكي يبحثان آخر تطورات الهجوم الإيراني على الكويت",
+    "content_original": "الكويت في 01 مارس /قنا/ بحث سمو الشيخ صباح خالد الحمد الصباح ولي العهد الكويتي خلال اتصال هاتفي مع الرئيس دونالد ترامب رئيس",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/ولي-العهد-الكويتي-والرييس-الامريكي-يبحثان-اخر-تطورات-الهجوم-الايراني-على-الكويت",
+    "published": "2026-03-01T06:04:03.342535+00:00",
+    "fetched_at": "2026-03-01T06:04:03.342539+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Kuwaiti Crown Prince and US President Discuss Latest Developments in Iranian Attack on Kuwait",
+    "relevant": true,
+    "summary_en": "The Kuwaiti Crown Prince, Sheikh Mishaal Al-Ahmad Al-Jaber Al-Sabah, and US President Donald Trump discussed the recent Iranian attack on Kuwait during a phone call. This indicates potential US support and coordination with Kuwait amid escalating regional tensions. The conversation underscores the strategic importance of Kuwait to the US in countering Iranian aggression in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "United States"
+      ],
+      "location": "Kuwait",
+      "brief": "Iran launched an attack on Kuwait, prompting urgent discussions between Kuwaiti and US leaders regarding potential US support and regional security coordination."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "3bf9a12ea32f9bfc",
+    "title_original": "وزارة الداخلية تعلن تسجيل 8 إصابات جديدة جراء الهجوم الإيراني",
+    "content_original": "الدوحة في 01 مارس/قنا/ أعلنت وزارة الداخلية تسجيل (8) إصابات جديدة، ليبلغ إجمالي الإصابات منذ بدء الهجوم الإيراني على الدولة",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزارة-الداخلية-تعلن-تسجيل-8-اصابات-جديدة-جراء-الهجوم-الايراني",
+    "published": "2026-03-01T06:04:02.245204+00:00",
+    "fetched_at": "2026-03-01T06:04:02.245213+00:00",
+    "source_name": "QNA Qatar (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Qatari Interior Ministry Reports 8 New Injuries from Iranian Attack",
+    "relevant": true,
+    "summary_en": "The Qatari Interior Ministry announced 8 new injuries resulting from an Iranian attack, bringing the total number of casualties since the attack began. This indicates ongoing hostilities and potential escalation in the region, affecting Qatar's security and stability.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "US"
+      ],
+      "location": "Qatar",
+      "brief": "Iranian attack results in 8 new injuries in Qatar, indicating ongoing hostilities and potential escalation in the region."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "4d784b319912b59c",
+    "title_original": "هجمات على قاعدة العدو الامريكي في أربيل",
+    "content_original": "هجمات على قاعدة العدو الامريكي في أربيل",
+    "url": "https://t.me/Electrohizbullah/156409",
+    "published": "2026-03-01T06:01:50+00:00",
+    "fetched_at": "2026-03-01T06:04:49.211508+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Attacks on US Base in Erbil",
+    "relevant": true,
+    "summary_en": "Unspecified attacks targeted the US base in Erbil, Iraq. This is significant as it involves direct action against US military assets in a region critical to US operations. The attacks could be part of ongoing proxy warfare by Iranian-linked groups.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Iranian-linked proxy groups"
+      ],
+      "location": "Erbil, Iraq",
+      "brief": "Unspecified attacks on a US base in Erbil, Iraq, likely conducted by Iranian-linked proxy groups, representing a significant escalation in regional proxy warfare."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "e43cddd3648b7545",
+    "title_original": "⚡ Al Arabiya correspondent: 3 strikes in Juffair and the diplomatic area of ​​Bahrain",
+    "content_original": "⚡ Al Arabiya correspondent: 3 strikes in Juffair and the diplomatic area of ​​Bahrain",
+    "url": "https://t.me/warmonitors/40170",
+    "published": "2026-03-01T05:57:03+00:00",
+    "fetched_at": "2026-03-01T06:04:46.947294+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Three strikes reported in Juffair and Bahrain's diplomatic area",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Unspecified strikes occurred in Juffair and Bahrain's diplomatic area. This is significant as Bahrain hosts a major US naval base, the US Navy's 5th Fleet, making it a potential target in the ongoing conflict. The strikes could indicate an escalation by Iranian-linked groups targeting US interests in the Gulf region.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran-linked groups",
+        "US",
+        "Bahrain"
+      ],
+      "location": "Juffair, Bahrain",
+      "brief": "Drone strikes reported in Juffair and Bahrain's diplomatic area, targeting areas near the US Navy's 5th Fleet base, indicating potential escalation by Iranian proxies."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "8f6010324336f282",
+    "title_original": "⚡️ Three loud explosions heard in Dubai",
+    "content_original": "⚡️ Three loud explosions heard in Dubai",
+    "url": "https://t.me/warmonitors/40166",
+    "published": "2026-03-01T05:56:58+00:00",
+    "fetched_at": "2026-03-01T06:04:46.945244+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Three loud explosions heard in Dubai",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three explosions occurred in Dubai, likely linked to the ongoing conflict given the city's proximity to the conflict zone and its status as a strategic location. The cause and exact location of the explosions are not yet clear, but this could indicate an escalation or a potential attack on UAE infrastructure. The incident is significant due to its potential impact on regional stability and the UAE's involvement in the conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US",
+        "Iran-backed proxies"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Explosions in Dubai likely represent an escalation in the Iran-US conflict, potentially targeting UAE infrastructure due to its strategic importance and proximity to conflict zones."
+    },
+    "merged_source_count": 5,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "8f149daec4875bdb",
+    "title_original": "⚡ Al-Hadath report: Three explosions have been heard since this morning in Manama, Bahrain",
+    "content_original": "⚡ Al-Hadath report: Three explosions have been heard since this morning in Manama, Bahrain",
+    "url": "https://t.me/warmonitors/40160",
+    "published": "2026-03-01T05:56:51+00:00",
+    "fetched_at": "2026-03-01T06:04:46.941900+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Explosions Heard in Manama, Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three explosions have been reported in Manama, Bahrain, since this morning. The incidents occurred in a location with US military presence, raising concerns about potential attacks on US assets in the region. The strategic significance involves possible escalation in proxy activities targeting US bases in the Gulf.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Bahrain",
+        "IRGC proxies"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "Explosions in Manama, Bahrain, targeting areas with US military presence, indicate potential escalation in Iranian proxy operations against US assets in the region."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "af402356de006c7a",
+    "title_original": "⚡️ Continuous sirens in Israel for almost an hour",
+    "content_original": "⚡️ Continuous sirens in Israel for almost an hour",
+    "url": "https://t.me/warmonitors/40161",
+    "published": "2026-03-01T05:56:51+00:00",
+    "fetched_at": "2026-03-01T06:04:46.942382+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Continuous sirens in Israel for almost an hour",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Continuous sirens in Israel indicate a significant security alert, likely due to incoming rocket or missile fire from Hezbollah or other Iran-backed groups. This suggests heightened tensions and potential escalation on Israel's northern border with Lebanon. The extended duration of the alert implies a substantial threat or ongoing hostilities in the area.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "missile",
+      "hezbollah",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Continuous sirens in Israel indicate a significant security alert likely due to incoming rocket or missile fire from Hezbollah, suggesting heightened tensions and potential escalation on the northern border."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "d06434ce748bcdf1",
+    "title_original": "⚡️  Strike on the Crowne Plaza Hotel in Bahrain (26.2440282, 50.5900971)",
+    "content_original": "⚡️ Strike on the Crowne Plaza Hotel in Bahrain (26.2440282, 50.5900971)",
+    "url": "https://t.me/warmonitors/40159",
+    "published": "2026-03-01T05:56:47+00:00",
+    "fetched_at": "2026-03-01T06:04:46.941439+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Strike on Crowne Plaza Hotel in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An attack targeted the Crowne Plaza Hotel in Bahrain, with coordinates 26.2440282, 50.5900971. The incident is significant as Bahrain hosts a major US naval base and serves as a critical hub for US military operations in the Gulf. The motive and perpetrators are currently unknown, but this could indicate an escalation in targeting US interests in the region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "high",
+      "parties_involved": [
+        "Houthis",
+        "US",
+        "Bahrain",
+        "Iran (potential proxy)"
+      ],
+      "location": "Crowne Plaza Hotel, Bahrain (26.2440282, 50.5900971)",
+      "brief": "A high-severity attack on a hotel in Bahrain, a critical US military hub, likely conducted by Houthi or Iranian proxy forces, indicating escalating tensions in the Gulf region."
+    },
+    "lat": 26.2436716,
+    "lng": 50.5903674
+  },
+  {
+    "id": "1386f66ccf1d0b3e",
+    "title_original": "⚡️ Live red alerts",
+    "content_original": "⚡️ Live red alerts",
+    "url": "https://t.me/warmonitors/40155",
+    "published": "2026-03-01T05:56:32+00:00",
+    "fetched_at": "2026-03-01T06:04:46.939421+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Live red alerts",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "This is a placeholder for live red alerts, which typically indicate ongoing or imminent military actions, missile launches, or other significant escalations in the Iran-US conflict. The significance is high as it suggests real-time military developments requiring immediate attention.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel",
+        "Houthis",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "Ongoing or imminent military actions and missile launches indicate a significant escalation in the Iran-US conflict with potential for direct engagement."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "781d603a653835fb",
     "title_original": "На севере Израиля перехватили БПЛА",
     "content_original": "На севере Израиля перехватили БПЛА, который был запущен из Ирана. В регионе прозвучали сирены, оповещающие о воздушной атаке.",
@@ -741,6 +1216,44 @@
     },
     "lat": 33.06,
     "lng": 35.24
+  },
+  {
+    "id": "1246a3a800153d0a",
+    "title_original": "התגובה האיראנית לחיסול חמינאי יצאה לפועל נגד ישראל - ויש מסר לטראמפ | אבי אשכנזי",
+    "content_original": "לאחר שהודיעו באופן רשמי על מותו, האיראנים הוציאו לפועל את תגובתם ושיגרו במספר גלים טילים הבוקר לעבר מדינת ישראל, במקביל לתקיפות נגד מדינות במפרץ",
+    "url": "https://www.maariv.co.il/news/military/article-1290424",
+    "published": "2026-03-01T05:40:46+00:00",
+    "fetched_at": "2026-03-01T06:04:00.827692+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran launches missile attacks on Israel and Gulf states in response to Khamenei's assassination",
+    "relevant": true,
+    "summary_en": "Iran has launched multiple waves of missiles targeting Israel and Gulf states in retaliation for the assassination of Ayatollah Khamenei. This represents a significant escalation in the conflict, demonstrating Iran's willingness to directly engage Israel and US-aligned Gulf states militarily.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US",
+        "Gulf states"
+      ],
+      "location": "Israel, Gulf states",
+      "brief": "Iran launches ballistic missile attacks on Israel and Gulf states in major escalation following Ayatollah Khamenei's assassination."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "1810e02fd1ec8782",

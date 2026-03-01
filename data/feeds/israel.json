@@ -1,5 +1,39 @@
 [
   {
+    "id": "993c4f3dc5e9f578",
+    "title_original": "התשה או סדקים בשליטה? בישראל מנתחים את הירי האיראני",
+    "content_original": "אזעקות בלתי פוסקות שהובילו לכך שמיליונים נשארו במרחבים המוגנים יותר משעה - אבל ירי שיחסית אינו נרחב: בישראל בודקים אם מדובר בניסיון התשה - או דווקא בסדקים בניהול המערכה",
+    "url": "https://www.ynet.co.il/news/article/sy11ieu11kzx",
+    "published": "2026-03-01T07:54:05+02:00",
+    "fetched_at": "2026-03-01T06:04:00.136939+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Analysis in Israel: Iranian Missile Attacks - Exhaustion or Cracks in Control?",
+    "relevant": true,
+    "summary_en": "Israel is evaluating whether recent Iranian missile attacks indicate an attempt to exhaust Israeli defenses or potential cracks in Iran's command and control. The ongoing alerts have kept millions in shelters for over an hour, despite the relatively limited scope of the attacks. This assessment is crucial for understanding Iran's strategic intentions and capabilities amidst the conflict.",
+    "translated": true
+  },
+  {
+    "id": "4ab0901681d6bfcd",
+    "title_original": "השגרירים שטראמפ שלח לאירופה הפכו לחיילים נאמנים במלחמתו נגדה",
+    "content_original": "שגריר ארה\"ב בבלגיה האשים את הממשלה באנטישמיות בעקבות חקירת מוהלים שפעלו ללא הסמכה | השגריר בצרפת (במקרה אבא של ג'ארד קושנר) לא טרח להגיע לשתי שיחות הבהרה במשרד החוץ | השגרירה ביוון כינתה את התושבים \"פרזיטים שצריכים להתחיל לעבוד\" | רוב הנציגים שהצניח טראמפ עם אפס ניסיון מדיני | ורק השגריר בישראל מתיישר לימין עם המארחים",
+    "url": "https://www.ynet.co.il/news/article/yokra14692440",
+    "published": "2026-03-01T07:36:47+02:00",
+    "fetched_at": "2026-03-01T06:04:00.137324+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Trump's Ambassadors in Europe Become Loyal Soldiers in His War Against It",
+    "relevant": false,
+    "summary_en": "[Not relevant to Iran–US war monitor]",
+    "translated": true
+  },
+  {
     "id": "0f442a11ca8d4435",
     "title_original": "איש התקשורת החשוד בעבירות מין בבן 15 - כתב ynet יואב זיתון",
     "content_original": "לפי המשטרה מפגש מוסכם הוביל לאונס, זיתון מכחיש יחסים בכפייה וטוען שלא ידע את גילו של הנער. מעצרו הוארך עד מחר",
@@ -32,6 +66,23 @@
     "translated": true,
     "relevant": true,
     "summary_en": "This editorial discusses the ongoing conflict in the context of Jewish history and identity, particularly in relation to Iran (Persia). It highlights the importance of remembering historical patterns and protecting vulnerable communities amidst the current chaos of the US-Iran conflict."
+  },
+  {
+    "id": "1246a3a800153d0a",
+    "title_original": "התגובה האיראנית לחיסול חמינאי יצאה לפועל נגד ישראל - ויש מסר לטראמפ | אבי אשכנזי",
+    "content_original": "לאחר שהודיעו באופן רשמי על מותו, האיראנים הוציאו לפועל את תגובתם ושיגרו במספר גלים טילים הבוקר לעבר מדינת ישראל, במקביל לתקיפות נגד מדינות במפרץ",
+    "url": "https://www.maariv.co.il/news/military/article-1290424",
+    "published": "2026-03-01T05:40:46+00:00",
+    "fetched_at": "2026-03-01T06:04:00.827692+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran launches missile attacks on Israel and Gulf states in response to Khamenei's assassination",
+    "relevant": true,
+    "summary_en": "Iran has launched multiple waves of missiles targeting Israel and Gulf states in retaliation for the assassination of Ayatollah Khamenei. This represents a significant escalation in the conflict, demonstrating Iran's willingness to directly engage Israel and US-aligned Gulf states militarily.",
+    "translated": true
   },
   {
     "id": "e6ca95ee8b55f9af",

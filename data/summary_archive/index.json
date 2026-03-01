@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T05-41-54.489842_plus_00-00.json",
+    "generated_at": "2026-03-01T05:41:54.489842+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 319,
+    "summary_preview": "The Iran–US armed conflict has reached an unprecedented level of escalation as of 28 February 2026. A coordinated US-Israeli preventive strike targeted Iranian leadership and IRGC infrastructure acros"
+  },
+  {
     "filename": "2026-03-01T05-19-47.123578_plus_00-00.json",
     "generated_at": "2026-03-01T05:19:47.123578+00:00",
     "threat_label": "MAJOR",
