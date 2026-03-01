@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T13-20-14.407529_plus_00-00.json",
+    "generated_at": "2026-03-01T13:20:14.407529+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 518,
+    "summary_preview": "The Iran–US armed conflict has escalated to MAJOR (Level 1/5) with 518 incidents in the last 24 hours. The most critical development is the confirmed killing of Iran's Supreme Leader Ayatollah Ali Kha"
+  },
+  {
     "filename": "2026-03-01T12-36-13.863513_plus_00-00.json",
     "generated_at": "2026-03-01T12:36:13.863513+00:00",
     "threat_label": "MAJOR",

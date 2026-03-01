@@ -36,6 +36,377 @@
     "lng": 178.0431614
   },
   {
+    "id": "b6a0db8ca29ae6ac",
+    "title_original": "США и Израиль обстреливают западные границы Ирана, сообщают СМИ",
+    "content_original": "США и Израиль обстреливают западные границы Ирана, сообщают СМИ",
+    "url": "https://ria.ru/20260301/fars-2077684767.html",
+    "published": "2026-03-01T16:32:43+03:00",
+    "fetched_at": "2026-03-01T13:34:11.061052+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israel reportedly strike western borders of Iran",
+    "relevant": true,
+    "summary_en": "The US and Israel have reportedly launched strikes on the western borders of Iran. This action represents a significant escalation, involving coordinated attacks by two key allies against Iranian territory. The strikes likely target IRGC positions and military infrastructure in the border regions, indicating an expansion of direct military action against Iran.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Western borders of Iran",
+      "brief": "The US and Israel have reportedly launched coordinated strikes targeting IRGC positions and military infrastructure on Iran's western borders, marking a significant escalation in regional tensions."
+    },
+    "lat": -12.853783,
+    "lng": -73.6051796
+  },
+  {
+    "id": "a3fa855271f9ff6e",
+    "title_original": "СМИ: экс-президент Ирана погиб при атаке США и Израиля",
+    "content_original": "СМИ: экс-президент Ирана погиб при атаке США и Израиля",
+    "url": "https://ria.ru/20260301/iran-2077684389.html",
+    "published": "2026-03-01T16:31:32+03:00",
+    "fetched_at": "2026-03-01T13:34:11.061230+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Former Iranian President Killed in US and Israeli Attack",
+    "relevant": true,
+    "summary_en": "Unspecified media reports indicate that a former Iranian President was killed during a joint US and Israeli attack. The incident's location and specific circumstances are not detailed, but it signifies an escalation in direct targeting of Iranian leadership by the US and Israel. This could provoke a significant response from Iran, further intensifying the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "unspecified",
+      "brief": "A joint US and Israeli attack resulted in the killing of a former Iranian President, representing a significant escalation in direct targeting of Iranian leadership."
+    },
+    "merged_source_count": 2
+  },
+  {
+    "id": "3c50d6df3295c81a",
+    "title_original": "Ilna сообщил о смерти экс-президента Ахмадинежада при ударе по Ирану",
+    "content_original": "Бывший президент Ирана Махмуд Ахмадинежад погиб при ударе по району Нармак в&nbsp;Тегеране, сообщает агентство Ilna со ссылкой на источники.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a43e699a79478899dab293",
+    "published": "2026-03-01T16:28:46+03:00",
+    "fetched_at": "2026-03-01T13:34:17.115701+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Former Iranian President Ahmadinejad reportedly killed in Tehran strike",
+    "relevant": true,
+    "summary_en": "Former Iranian President Mahmoud Ahmadinejad has reportedly been killed in a strike on Tehran's Narmak district. This incident highlights the ongoing escalation of the conflict and the targeting of high-profile figures within Iran. The strategic significance of this event could further inflame tensions and provoke a strong response from Iran.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "A reported US strike in Tehran results in the death of former Iranian President Mahmoud Ahmadinejad, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "07d064e80230ab0d",
+    "title_original": "Fars: Израиль и США обстреливают границы Ирана",
+    "content_original": "Fars: Израиль и США обстреливают границы Ирана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26599993",
+    "published": "2026-03-01T16:23:13+03:00",
+    "fetched_at": "2026-03-01T13:34:10.423969+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel and US Strike Iranian Borders",
+    "relevant": true,
+    "summary_en": "Israel and the US have launched strikes on Iran's borders, indicating a coordinated military action against Iranian territory. This escalation suggests direct targeting of Iranian military assets or positions. The strategic significance involves heightened tensions and potential Iranian retaliation against US and Israeli interests in the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Iranian borders",
+      "brief": "Israel and the US have launched coordinated strikes targeting Iranian military assets on Iran's borders, escalating regional tensions and prompting potential Iranian retaliation."
+    },
+    "lat": 30.3354128,
+    "lng": 48.2896822
+  },
+  {
+    "id": "7c2824725c7dadfb",
+    "title_original": "Bahraini Interior Ministry: Hotel in Manama Targeted, Material Damage Reported, No Fatalities",
+    "content_original": "Manama, March 01 (QNA) - The Iranian aggression targeted the Crowne Plaza Hotel in Manama, causing material damage without fatalities, the Bahraini Interior Ministry reported in a statement.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/bahraini-interior-ministry-hotel-in-manama-targeted-material-damage-reported-no-fatalities",
+    "published": "2026-03-01T16:19:25+00:00",
+    "fetched_at": "2026-03-01T13:34:27.441253+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Bahraini Hotel Targeted in Iranian Aggression",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran targeted the Crowne Plaza Hotel in Manama, Bahrain, causing material damage but no fatalities. This attack represents an escalation of Iranian aggression against Bahraini territory. The incident highlights the regional spillover of the US-Iran conflict and potential threats to Gulf states.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "US"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "Iran targeted a hotel in Bahrain, escalating regional tensions and highlighting the spillover of the US-Iran conflict."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "6f5cbd914180afdf",
+    "title_original": "ПВО Кувейта перехватили почти 100 ракет из Ирана и более 280 беспилотников",
+    "content_original": "Силы ПВО Кувейта с субботы перехватили в общей сложности 97 баллистических ракет и 283 беспилотных летательных аппарата, запущенных с территории Ирана. Об этом заявил официальный представитель кувейтского Минобороны полковник Сауд Абдулазиз Аль-Атван, сообщает Arab Times Kuwait.",
+    "url": "https://www.kommersant.ru/doc/8477459",
+    "published": "2026-03-01T16:16:50+03:00",
+    "fetched_at": "2026-03-01T13:34:15.921384+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Kuwaiti Air Defenses Intercept Nearly 100 Iranian Missiles and Over 280 Drones",
+    "relevant": true,
+    "summary_en": "Kuwaiti air defenses have intercepted a total of 97 ballistic missiles and 283 drones launched from Iran since Saturday. This was announced by Kuwaiti Defense Ministry spokesperson Colonel Saud Abdulaziz Al-Atwan, highlighting the ongoing escalation of hostilities in the region. The incident underscores the direct threat under which US allies in the Gulf are operating amidst the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "conflict",
+      "threat",
+      "intercept"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Kuwait"
+      ],
+      "location": "Kuwait",
+      "brief": "Iran launched a massive missile and drone attack targeting Kuwait, with nearly 100 ballistic missiles and 280 drones intercepted by Kuwaiti air defenses."
+    },
+    "merged_source_count": 2,
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "4c9efed59243568c",
+    "title_original": "NYT: время убийства Хаменеи определило ЦРУ",
+    "content_original": "Время налета израильских ВВС на резиденцию верховного лидера Ирана аятоллы Али Хаменеи было выбрано с учетом информации Центрального разведывательного управления США (ЦРУ). Об этом сообщает The New York Times (NYT) со ссылкой на анонимные источники.",
+    "url": "https://www.kommersant.ru/doc/8477442",
+    "published": "2026-03-01T16:11:55+03:00",
+    "fetched_at": "2026-03-01T13:34:15.921751+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "CIA Determined Timing of Israeli Strike on Khamenei's Residence",
+    "relevant": true,
+    "summary_en": "The CIA reportedly provided intelligence that influenced the timing of an Israeli airstrike targeting Iranian Supreme Leader Ayatollah Ali Khamenei's residence. This suggests US involvement in strategic decision-making for the operation against a high-value Iranian target. The strike signifies an escalation in direct targeting of Iran's top leadership amidst ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "airstrike",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "United States",
+        "CIA"
+      ],
+      "location": "Iran (Tehran, Khamenei's residence)",
+      "brief": "The CIA provided intelligence that influenced the timing of an Israeli airstrike on Iranian Supreme Leader Ayatollah Ali Khamenei's residence, indicating US involvement in strategic decision-making for the operation."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "cee2da1118b46003",
+    "title_original": "ТАСС: ответные удары Ирана затронули 10 стран Ближнего Востока",
+    "content_original": "С ударами иранских ракет и БПЛА столкнулись Бахрейн, Иордания, Ирак, Катар, Кувейт, Объединенные Арабские Эмираты, Оман, Саудовская Аравия, где расположены военные базы США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26599831",
+    "published": "2026-03-01T16:09:00+03:00",
+    "fetched_at": "2026-03-01T13:34:10.425467+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Retaliatory Strikes Affect 10 Middle Eastern Countries",
+    "relevant": true,
+    "summary_en": "Iran launched missile and drone attacks impacting Bahrain, Jordan, Iraq, Qatar, Kuwait, UAE, Oman, and Saudi Arabia, where US military bases are located. This represents a significant escalation as Iranian retaliation affects multiple countries and US assets in the region. The strikes demonstrate Iran's capability to project force across the Middle East despite US countermeasures.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Bahrain",
+        "Jordan",
+        "Iraq",
+        "Qatar",
+        "Kuwait",
+        "UAE",
+        "Oman",
+        "Saudi Arabia"
+      ],
+      "location": "Middle East",
+      "brief": "Iran launched missile and drone attacks on multiple Middle Eastern countries targeting US military bases, marking a significant escalation in regional conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "490ff548a53a9730",
+    "title_original": "Снаряд попал в судно у берегов Омана, сообщили в Великобритании",
+    "content_original": "Снаряд попал в судно у берегов Омана, сообщили в Великобритании",
+    "url": "https://ria.ru/20260301/britanija-2077676973.html",
+    "published": "2026-03-01T16:05:24+03:00",
+    "fetched_at": "2026-03-01T13:34:11.065206+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Projectile Strikes Vessel Off Coast of Oman, UK Reports",
+    "relevant": true,
+    "summary_en": "A projectile struck a vessel off the coast of Oman, according to UK reports. This incident is likely linked to the ongoing conflict in the region, potentially involving Houthi or Iranian forces targeting maritime traffic in the strategically vital Gulf of Oman. The incident underscores the escalating threats to international shipping in the region amidst the broader conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "houthi"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "UK",
+        "Houthis",
+        "Iran"
+      ],
+      "location": "Gulf of Oman",
+      "brief": "A projectile strike on a vessel off the coast of Oman indicates escalating maritime tensions in the strategically vital Gulf of Oman, likely involving Houthi or Iranian forces."
+    },
+    "lat": 24.2138029,
+    "lng": 58.9845823
+  },
+  {
+    "id": "644578868599effd",
+    "title_original": "Kuwait Slams Iranian Attacks on Oman",
+    "content_original": "Kuwait, March 01 (QNA) - Kuwait has expressed its vigorous condemnation and denunciation of the Iranian attacks that targeted the Sultanate of Oman, considering them a brazen violation of international law and the UN Charter.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/kuwait-slams-iranian-attacks-on-oman",
+    "published": "2026-03-01T16:02:50+00:00",
+    "fetched_at": "2026-03-01T13:34:27.441602+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Kuwait Condemns Iranian Attacks on Oman",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Kuwait has condemned Iran's attacks on Oman, calling them a blatant violation of international law and the UN Charter. This highlights escalating regional tensions as Iran expands its military actions beyond direct conflict with the US. The strategic significance involves potential destabilization of Gulf states and increased diplomatic pressure on Iran.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "Kuwait",
+        "US"
+      ],
+      "location": "Gulf region",
+      "brief": "Kuwait condemns Iran's attacks on Oman as a violation of international law, indicating escalating regional tensions and potential destabilization in the Gulf."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "9b28b6b17e9b99f2",
     "title_original": "В Минобороны ОАЭ заявили о гибели минимум трех человек из-за ударов Ирана",
     "content_original": "В Минобороны ОАЭ заявили о гибели минимум трех человек из-за ударов Ирана",
@@ -922,6 +1293,76 @@
     "lng": 51.23
   },
   {
+    "id": "9b38b8b19c5a9b17",
+    "title_original": "⚡️ #BREAKING  Former Iranian President Mahmoud Ahmadinejad reportedly killed in Israeli strike",
+    "content_original": "⚡️ #BREAKING Former Iranian President Mahmoud Ahmadinejad reportedly killed in Israeli strike",
+    "url": "https://t.me/warmonitors/40242",
+    "published": "2026-03-01T13:21:32+00:00",
+    "fetched_at": "2026-03-01T13:35:18.542563+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Former Iranian President Mahmoud Ahmadinejad reportedly killed in Israeli strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Former Iranian President Mahmoud Ahmadinejad was reportedly killed in an Israeli strike, marking a significant escalation in the conflict. This incident could provoke a strong reaction from Iran, potentially leading to further military escalation. The strategic significance lies in the potential impact on Iranian domestic politics and the ongoing conflict with Israel.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "The reported Israeli strike that killed former Iranian President Mahmoud Ahmadinejad marks a significant escalation in the conflict, with potential for direct military engagement between Israel and Iran."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "13355b847d33f2ba",
+    "title_original": "🚩  تنويه: الإستهدافات الإيرانية هي لأهداف عسكرية وغرف قيادة.  تحصُن هؤلاء واختبائهم بين ما يسمونهم بالمدنيين \"المستوط...",
+    "content_original": "🚩 تنويه: الإستهدافات الإيرانية هي لأهداف عسكرية وغرف قيادة. تحصُن هؤلاء واختبائهم بين ما يسمونهم بالمدنيين \"المستوطنين\" هو اتخاذهم دروعاً بشرية، وهذا ما سيزيد من كلفة الدم لديهم.",
+    "url": "https://t.me/Electrohizbullah/156628",
+    "published": "2026-03-01T13:20:36+00:00",
+    "fetched_at": "2026-03-01T13:35:20.805341+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Strikes Target Military and Command Centers",
+    "relevant": true,
+    "summary_en": "Iran has launched strikes targeting military installations and command centers, reportedly using civilian areas as cover, which increases the risk of civilian casualties. This tactic is being condemned as the use of human shields, escalating the human cost of the conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "civilian population"
+      ],
+      "location": "military installations and command centers",
+      "brief": "Iran launches strikes on US military installations and command centers, using civilian areas as cover, escalating the conflict and increasing civilian casualties."
+    }
+  },
+  {
     "id": "d0b677f8f51258ff",
     "title_original": "Bahrain Announces Interception of New Wave of Iranian Ballistic Missiles and Drones",
     "content_original": "Manama, March 01 (QNA) - Bahrain's National Communication Centre announced that the country's missile air defense systems efficiently and vigilantly intercepted a new wave of Iranian ballistic missiles and drones targeting the country, destroying and neutralizing them with high effectiveness.",
@@ -961,6 +1402,42 @@
     "lng": 52.0
   },
   {
+    "id": "d7d991e5772bef9c",
+    "title_original": "Iranian city of Kermanshah was targeted by Israeli forces. @PressTV",
+    "content_original": "Iranian city of Kermanshah was targeted by Israeli forces. @PressTV",
+    "url": "https://t.me/presstv/177445",
+    "published": "2026-03-01T13:10:04+00:00",
+    "fetched_at": "2026-03-01T13:35:13.054710+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Israeli forces target Iranian city of Kermanshah",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli forces conducted strikes on the Iranian city of Kermanshah. This attack represents an escalation of hostilities, with Israeli forces directly targeting Iranian territory. The strike's strategic significance lies in its potential to provoke further Iranian retaliation and widen the conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Kermanshah, Iran",
+      "brief": "Israeli forces conducted airstrikes on the Iranian city of Kermanshah, marking a significant escalation in regional hostilities."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "05b9ef31ea166e2e",
     "title_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
     "content_original": "Взрывы прогремели в районе здания Красного Полумесяца в Тегеране",
@@ -994,6 +1471,81 @@
     "merged_source_count": 2,
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "b86dac2c7a272ff7",
+    "title_original": "#إعلام_العدو   القناة 12 العبرية عن وزارة الدفاع الإماراتية: مقتل 3 أشخاص وإصابة 58 آخرين بجروح في هجمات إيرانية على ...",
+    "content_original": "#إعلام_العدو القناة 12 العبرية عن وزارة الدفاع الإماراتية: مقتل 3 أشخاص وإصابة 58 آخرين بجروح في هجمات إيرانية على الإمارات.",
+    "url": "https://t.me/Electrohizbullah/156621",
+    "published": "2026-03-01T13:08:26+00:00",
+    "fetched_at": "2026-03-01T13:35:20.801842+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian attacks on UAE kill 3 and injure 58",
+    "relevant": true,
+    "summary_en": "Iran launched attacks on the UAE, resulting in 3 fatalities and 58 injuries. This incident highlights the escalating tensions and direct military confrontation between Iran and US-aligned Gulf states. The attacks signify Iran's willingness to target regional adversaries amid the broader conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "Iranian proxies"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "Iran conducted attacks on the UAE through proxy forces, resulting in 3 deaths and 58 injuries, demonstrating increased regional aggression."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "77f9f5aa166ed551",
+    "title_original": "#إعلام_العدو   هيئة البث الإسرائيلية: 8 قتلى و27 مصابا جراء سقوط الصاروخ الإيراني في بيت شيمش.",
+    "content_original": "#إعلام_العدو هيئة البث الإسرائيلية: 8 قتلى و27 مصابا جراء سقوط الصاروخ الإيراني في بيت شيمش.",
+    "url": "https://t.me/Electrohizbullah/156619",
+    "published": "2026-03-01T13:05:34+00:00",
+    "fetched_at": "2026-03-01T13:35:20.800805+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian missile strike kills 8 and injures 27 in Beit Shemesh, Israel",
+    "relevant": true,
+    "summary_en": "An Iranian missile attack resulted in 8 fatalities and 27 injuries in Beit Shemesh, Israel. This incident signifies a significant escalation in the conflict, demonstrating Iran's capability to target Israeli population centers. The strike is likely to provoke a strong Israeli response against Iranian assets.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|hezbollah_action|proxy_operation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iran launched a missile strike on Israel, resulting in 8 fatalities and 27 injuries, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 6,
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "5911253b972e56c5",
