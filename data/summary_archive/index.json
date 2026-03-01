@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T11-53-41.631561_plus_00-00.json",
+    "generated_at": "2026-03-01T11:53:41.631561+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 478,
+    "summary_preview": "The Iran–US conflict has reached an unprecedented escalation level following the US-Israeli airstrike on Iran that killed Supreme Leader Ayatollah Ali Khamenei on 2026-02-28. Iran has responded with b"
+  },
+  {
     "filename": "2026-03-01T11-11-18.433185_plus_00-00.json",
     "generated_at": "2026-03-01T11:11:18.433185+00:00",
     "threat_label": "MAJOR",

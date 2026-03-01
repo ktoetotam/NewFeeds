@@ -1,5 +1,185 @@
 [
   {
+    "id": "0f19ce14cb26859d",
+    "title_original": "Iran-Israel conflict: Oil tanker with 15 Indian crew members hit off Oman coast after drones strike Duqm port",
+    "content_original": "Four injured; the 20-person crew was ‌evacuated after the attack, which occurred about 5 nautical miles north of Musandam’s Khasab Port",
+    "url": "https://www.thehindu.com/news/international/oil-tanker-hit-off-oman-coast-15-indians-evacuation-hit-after-drones-strike-duqm-port/article70691524.ece",
+    "published": "2026-03-01T18:02:12+05:30",
+    "fetched_at": "2026-03-01T12:37:52.655169+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Oil tanker attacked off Oman coast near Duqm port by drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An oil tanker with 15 Indian crew members was struck by drones near Duqm port off the coast of Oman, resulting in four injuries and the evacuation of the 20-person crew. The incident occurred approximately 5 nautical miles north of Musandam’s Khasab Port. This attack highlights the ongoing maritime threat in the region amid the Iran-Israel conflict and potential escalation in the strategic Gulf of Oman area.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "threat",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Oman",
+        "India"
+      ],
+      "location": "Oman coast near Duqm port",
+      "brief": "An oil tanker with Indian crew was attacked by drones off the Oman coast near Duqm port, resulting in injuries and crew evacuation."
+    }
+  },
+  {
+    "id": "2bcbf370abb9bc79",
+    "title_original": "В Кувейте несколько ЛЭП повреждены обломками беспилотников",
+    "content_original": "В Кувейте несколько ЛЭП повреждены обломками беспилотников",
+    "url": "https://ria.ru/20260301/kuveyt-2077671768.html",
+    "published": "2026-03-01T15:33:52+03:00",
+    "fetched_at": "2026-03-01T12:37:23.121663+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Power Lines in Kuwait Damaged by Drone Debris",
+    "relevant": true,
+    "summary_en": "Unidentified drones were reportedly destroyed over Kuwait, with their debris causing damage to multiple power lines in the country. This incident highlights the potential for collateral damage from drone and missile interceptions in the region amid ongoing hostilities. The strategic significance lies in the vulnerability of civilian infrastructure to the fallout of military operations in the Gulf area.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Kuwait",
+        "Unidentified drone Operators"
+      ],
+      "location": "Kuwait",
+      "brief": "Unidentified drones were intercepted over Kuwait, causing collateral damage to power infrastructure, highlighting regional tensions and potential for escalation."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "3220c9ea0d68051d",
+    "title_original": "Reuters сообщил об ударе по второму танкеру рядом с Ормузским проливом",
+    "content_original": "Нефтяной танкер MKD Vyom, который ходит под флагом Маршалловым островом, получил повреждения у берегов Омана, сообщает Reuters со ссылкой на источники.",
+    "url": "https://www.rbc.ru/politics/01/03/2026/69a4302d9a794709d01ebf49",
+    "published": "2026-03-01T15:27:02+03:00",
+    "fetched_at": "2026-03-01T12:37:28.128478+00:00",
+    "source_name": "RBC",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tanker Attacked Near Strait of Hormuz",
+    "relevant": true,
+    "summary_en": "A Marshall Islands-flagged oil tanker, MKD Vyom, was damaged off the coast of Oman near the Strait of Hormuz. The incident was reported by Reuters, citing sources. This attack is significant as it targets commercial shipping in a critical maritime chokepoint, potentially escalating tensions in the region and disrupting global oil supply routes.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Marshall Islands-flagged vessel",
+        "Commercial shipping interests"
+      ],
+      "location": "Strait of Hormuz, off the coast of Oman",
+      "brief": "A Marshall Islands-flagged oil tanker, MKD Vyom, was attacked and damaged near the Strait of Hormuz, a critical maritime chokepoint, escalating regional tensions."
+    },
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": "707d620da8963cef",
+    "title_original": "КСИР начал седьмой и восьмой этапы операции против Израиля и США",
+    "content_original": "Корпус стражей Исламской революции (КСИР) сообщил о начале седьмого и восьмого этапов операции «Правдивое обещание 4» против Израиля и США. Новость дополняется.",
+    "url": "https://www.kommersant.ru/doc/8477436",
+    "published": "2026-03-01T15:19:19+03:00",
+    "fetched_at": "2026-03-01T12:37:27.202151+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC Launches Seventh and Eighth Phases of Operation Against Israel and US",
+    "relevant": true,
+    "summary_en": "The IRGC has initiated the seventh and eighth phases of Operation 'True Promise 4' targeting Israel and the US. This escalation indicates ongoing hostilities and direct engagement by Iranian forces against US and Israeli interests. The strategic significance lies in the continued offensive operations by Iran amidst the broader conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Israel",
+        "US"
+      ],
+      "location": "Middle East",
+      "brief": "The IRGC has escalated hostilities by initiating the seventh and eighth phases of Operation 'True Promise 4' targeting Israel and the US, indicating direct engagement and offensive operations against US and Israeli interests."
+    },
+    "merged_source_count": 3,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "6893e64b2cbacd06",
+    "title_original": "قتلى وجرحى خلال اقتحام قنصلية اميركا بكراتشي احتجاجا على اغتيال السيد الخامنئي",
+    "content_original": "نجح العشرات من الباكستانيين اليوم الاحد، باقتحام ومهاجمة القنصلية الامريكية في كراتشي، احتجاجا على اغتيال قائد الثورة الاسلامية في ايران آية الله الا...",
+    "url": "https://www.alalam.ir/news/7420413",
+    "published": "2026-03-01T15:03:21+00:00",
+    "fetched_at": "2026-03-01T12:37:16.369599+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Casualties During Attack on US Consulate in Karachi Over Khamenei's Assassination",
+    "relevant": true,
+    "summary_en": "Protesters in Karachi, Pakistan, stormed and attacked the US consulate to demonstrate against the assassination of Iran's Supreme Leader Ayatollah Khamenei. The incident resulted in casualties among both the attackers and potentially consulate staff. This highlights escalating anti-US sentiment in Pakistan linked to the ongoing Iran-US conflict and underscores the regional impact of the conflict's escalation.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iranian protesters",
+        "US consulate staff"
+      ],
+      "location": "Karachi, Pakistan",
+      "brief": "Anti-US protesters stormed the US consulate in Karachi following Khamenei's assassination, resulting in casualties among attackers and potentially consulate staff."
+    },
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
     "id": "7ec1ffa63fe95828",
     "title_original": "'He was in central leadership compound in heart of Tehran': IDF issues statement on Khamenei's death",
     "content_original": "The Israeli military confirmed a large-scale operation killed Iran's Supreme Leader Ayatollah Ali Khamenei in Tehran. The IDF stated Khamenei was responsible for years of repression and aimed to destroy Israel, leading a terror axis. His elimination marks the end of a significant chapter, according to the military. Iran's government acknowledged the US-Israeli strikes shortly after.",
@@ -258,6 +438,41 @@
     }
   },
   {
+    "id": "9f8c5559a00b096a",
+    "title_original": "Kuwait Defense Ministry Confirms Hostile Targets Intercepted in Southern Airspace",
+    "content_original": "Kuwait, March 01 (QNA) - The Kuwaiti Ministry of Defense announced that the Kuwaiti air defense system successfully confronted and intercepted a number of hostile aerial targets on Sunday morning, underscoring the readiness of the armed forces to protect the nation's airspaces.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/1/kuwait-defense-ministry-confirms-hostile-targets-intercepted-in-southern-airspace",
+    "published": "2026-03-01T14:13:54+00:00",
+    "fetched_at": "2026-03-01T12:37:32.751979+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Kuwaiti Air Defense Intercepts Hostile Targets in Southern Airspace",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Kuwait's air defense system intercepted multiple hostile aerial targets in the country's southern airspace. This incident highlights the ongoing regional tensions and the readiness of Kuwait's armed forces to defend against potential threats. The strategic significance lies in Kuwait's proximity to conflict zones and the potential for escalation in the region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "Unknown aggressor"
+      ],
+      "location": "Kuwait southern airspace",
+      "brief": "Kuwait's air defense intercepted multiple hostile aerial targets, indicating regional tensions and potential threats from unidentified aggressors."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "e388e238e73aef19",
     "title_original": "В Ормузском проливе тонет пораженный иранской ракетой танкер",
     "content_original": "Из судна идет черный дым",
@@ -292,6 +507,43 @@
     "merged_source_count": 4,
     "lat": 26.56,
     "lng": 56.25
+  },
+  {
+    "id": "c7bdb9f6a8b2c9b5",
+    "title_original": "הפגיעה הקשה ביותר במלחמה: שני פצועים אנוש ושניים קשה בבית שמש",
+    "content_original": "19 פצועים בפגיעה ישירה במקלט בבית כנסת בבית שמש, בהם גם ילדים. כוחות רבים של הכבאות ופיקוד העורף הוזעקו למקום, ומחלצים נפגעים מתוך ההריסות. הפגיעה - במהלך מטח שכלל אזעקות בלתי פוסקות.",
+    "url": "https://www.ynet.co.il/news/article/byej2obkwx",
+    "published": "2026-03-01T14:09:24+02:00",
+    "fetched_at": "2026-03-01T12:37:28.278072+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Severe attack in Jerusalem: two critically injured and two seriously injured",
+    "relevant": true,
+    "summary_en": "A direct strike on a synagogue shelter in Jerusalem resulted in 19 injuries, including children, with two critically and two seriously injured. Firefighting and rear command forces were deployed to the scene to rescue victims from the debris. The attack occurred during a barrage of ongoing rocket alerts, highlighting the escalating violence in the region and the direct threat to civilian populations.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "threat",
+      "rocket",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Jerusalem",
+      "brief": "A rocket attack on a Jerusalem synagogue resulted in 19 injuries, including two critically and two seriously injured, indicating a significant escalation in hostilities."
+    },
+    "lat": 31.7788472,
+    "lng": 35.2257856
   },
   {
     "id": "fc8de5fba91b092d",
@@ -853,6 +1105,304 @@
     "lng": 54.56
   },
   {
+    "id": "3bcb19bb3655f675",
+    "title_original": "#إعلام_العدو   تستمر عمليات الإنقاذ من الملجأ في الموقع: حتى الآن تم علاج العشرات، بينهم: 3 حالات حرجة جدًا 2 حالات خ...",
+    "content_original": "#إعلام_العدو تستمر عمليات الإنقاذ من الملجأ في الموقع: حتى الآن تم علاج العشرات، بينهم: 3 حالات حرجة جدًا 2 حالات خطيرة 1 حالة متوسطة 14 حالة خفيفة 4 قتلى",
+    "url": "https://t.me/Electrohizbullah/156586",
+    "published": "2026-03-01T12:37:33+00:00",
+    "fetched_at": "2026-03-01T12:38:12.942991+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Rescue operations ongoing at shelter site with casualties reported",
+    "relevant": true,
+    "summary_en": "Rescue operations are underway at a shelter site, with dozens treated, including 3 critically injured, 2 seriously injured, 1 moderately injured, 14 lightly injured, and 4 fatalities. The context suggests a military strike or attack, likely in the region affected by the Iran-US conflict, indicating potential escalation and significant casualties.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "IRGC proxies"
+      ],
+      "location": "region affected by Iran-US conflict",
+      "brief": "A military strike or attack on a shelter site has resulted in casualties, including fatalities and injuries, indicating ongoing proxy operations in the region affected by the Iran-US conflict."
+    }
+  },
+  {
+    "id": "ef1187e5f5c46b7b",
+    "title_original": "Four people killed in Iranian strike west of Jerusalem",
+    "content_original": "Four people killed in Iranian strike west of Jerusalem Four people have been killed following an Iranian strike on a city west of Jerusalem. Israel's national emergency service said an Iranian missile&nbsp;hit a building in the central Israeli city of Beit Shemesh.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-critically-injured-iranian-strike-west-jerusalem",
+    "published": "2026-03-01T12:31:37+00:00",
+    "fetched_at": "2026-03-01T12:37:34.083217+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Four killed in Iranian missile strike near Jerusalem",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike on Beit Shemesh, a city west of Jerusalem, resulting in four fatalities. The attack targeted a building in the central Israeli city. This incident signifies an escalation in the conflict with Iran directly targeting Israeli population centers.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "killed",
+      "strike",
+      "attack",
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|hezbollah_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Beit Shemesh, near Jerusalem, Israel",
+      "brief": "Iran escalated the conflict by launching a ballistic missile strike on a city near Jerusalem, resulting in four fatalities and marking a direct attack on Israeli population centers."
+    },
+    "merged_source_count": 11,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "678a0e06cd88d83e",
+    "title_original": "🚨 کشته شدن 20 اسرائیلی در حمله لحظات پیش موشکی ایران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار ...",
+    "content_original": "🚨 کشته شدن 20 اسرائیلی در حمله لحظات پیش موشکی ایران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44956",
+    "published": "2026-03-01T12:31:30+00:00",
+    "fetched_at": "2026-03-01T12:38:12.162030+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Missile Attack Kills 20 Israelis",
+    "relevant": true,
+    "summary_en": "Iran launched a missile attack targeting Israel, resulting in the deaths of 20 Israelis. This attack signifies a significant escalation in the ongoing conflict between Iran and Israel, with potential regional implications. The incident is likely to provoke a strong response from Israel and its allies.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "conflict",
+      "deaths",
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|hezbollah_action|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC proxies"
+      ],
+      "location": "Israel",
+      "brief": "Iran launched a ballistic missile attack on Israel, resulting in 20 casualties, marking a significant escalation in regional hostilities."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "82c8fd640b7454d0",
+    "title_original": "Zayed Port in Abu Dhabi, UAE, was targeted by Iranian missile attacks. @PressTV",
+    "content_original": "Zayed Port in Abu Dhabi, UAE, was targeted by Iranian missile attacks. @PressTV",
+    "url": "https://t.me/presstv/177436",
+    "published": "2026-03-01T12:30:00+00:00",
+    "fetched_at": "2026-03-01T12:38:06.156578+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iranian missile attacks target Zayed Port in Abu Dhabi, UAE",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile attacks targeting Zayed Port in Abu Dhabi, UAE. This represents a significant escalation as it involves direct strikes on critical infrastructure in the UAE, a key US ally. The attack threatens regional stability and raises the risk of further military confrontation in the Gulf.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Zayed Port, Abu Dhabi, UAE",
+      "brief": "Iran launched ballistic missile attacks on Zayed Port in Abu Dhabi, a critical infrastructure site and key US ally, marking a significant escalation in regional tensions and increasing the risk of direct US-Iran military confrontation."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "5c05b574b409154e",
+    "title_original": "⚡️ Impacts reported on Port Zayed in Abu Dhabi",
+    "content_original": "⚡️ Impacts reported on Port Zayed in Abu Dhabi",
+    "url": "https://t.me/warmonitors/40227",
+    "published": "2026-03-01T12:26:36+00:00",
+    "fetched_at": "2026-03-01T12:38:10.970654+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Impacts reported on Port Zayed in Abu Dhabi",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Unspecified impacts have been reported at Port Zayed in Abu Dhabi, potentially indicating a military strike or attack. This development is significant as it involves a critical port in the UAE, a US ally, and could signal an escalation in regional hostilities. The incident may prompt a response from the US and its allies in the region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike|airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran-aligned group",
+        "UAE",
+        "US"
+      ],
+      "location": "Port Zayed, Abu Dhabi, UAE",
+      "brief": "Unspecified impacts at Port Zayed in Abu Dhabi, a critical port in a US ally nation, suggest a potential military strike or attack, indicating escalation in regional hostilities."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "f5213cca549b7d00",
+    "title_original": "#الإمارات   استهداف مجمع the vella في دبي الذي يضم شخصيات دبلوماسية",
+    "content_original": "#الإمارات استهداف مجمع the vella في دبي الذي يضم شخصيات دبلوماسية",
+    "url": "https://t.me/Electrohizbullah/156574",
+    "published": "2026-03-01T12:22:18+00:00",
+    "fetched_at": "2026-03-01T12:38:12.935764+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Drone Strike Targets Dubai's The Vella Complex Housing Diplomatic Figures",
+    "relevant": true,
+    "summary_en": "Unidentified attackers targeted The Vella complex in Dubai, which houses diplomatic personnel. The incident raises concerns about the security of foreign diplomats in the UAE amid regional tensions. This could signify an escalation in proxy operations targeting international interests in the Gulf.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "proxy",
+      "strike",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Unidentified attackers",
+        "Diplomatic personnel",
+        "UAE security forces"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "A drone strike targeting The Vella complex in Dubai, housing diplomatic figures, indicates an escalation in proxy operations amid regional tensions."
+    },
+    "merged_source_count": 2,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "2b48ff9c27767fad",
+    "title_original": "⚡️  Drone intercepted in Kuwaiti skies",
+    "content_original": "⚡️ Drone intercepted in Kuwaiti skies",
+    "url": "https://t.me/warmonitors/40226",
+    "published": "2026-03-01T12:21:36+00:00",
+    "fetched_at": "2026-03-01T12:38:10.970009+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Drone intercepted in Kuwaiti skies",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An unidentified drone was intercepted in Kuwaiti airspace, likely linked to the ongoing conflict between Iran and the US. This incident highlights the potential for regional escalation as Iranian-backed groups or Iranian forces may be targeting US assets or regional allies. Kuwait's airspace is strategically significant due to its proximity to US military bases and the Persian Gulf.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Kuwait",
+        "Iranian-backed groups"
+      ],
+      "location": "Kuwaiti airspace",
+      "brief": "An unidentified drone intercepted in Kuwaiti airspace likely linked to Iran-US tensions, indicating potential regional escalation through proxy operations."
+    },
+    "lat": 29.2733964,
+    "lng": 47.4979476
+  },
+  {
+    "id": "d24be06448c5dd16",
+    "title_original": "⚡ #BREAKING  Reuters, citing maritime security sources: Marshall Islands crude oil tanker MKD VYOM hit by a projectil...",
+    "content_original": "⚡ #BREAKING Reuters, citing maritime security sources: Marshall Islands crude oil tanker MKD VYOM hit by a projectile off the coast of Oman",
+    "url": "https://t.me/warmonitors/40225",
+    "published": "2026-03-01T12:21:32+00:00",
+    "fetched_at": "2026-03-01T12:38:10.969332+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Crude oil tanker MKD VYOM hit by projectile off Oman coast",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A Marshall Islands-flagged crude oil tanker, MKD VYOM, was struck by a projectile off the coast of Oman. This incident highlights the escalating maritime insecurity in the region amid the ongoing conflict, with potential implications for international shipping and oil trade. The attack's perpetrators and exact circumstances remain unclear, but it occurs in a maritime zone critical for global energy transit.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Houthis",
+        "International shipping companies"
+      ],
+      "location": "Oman coast",
+      "brief": "A Marshall Islands-flagged crude oil tanker was struck by a projectile off the Oman coast, indicating escalating maritime insecurity in the region amid the Iran-US conflict."
+    },
+    "lat": -38.6771308,
+    "lng": 178.0431614
+  },
+  {
     "id": "6bdf7a889e2735bb",
     "title_original": "Israel sees two fatalities in 24 hours as Operation Roaring Lion continues into second day",
     "content_original": "An intact Iranian missile hit a residential building in Tel Aviv, killing one, and another Tel Aviv resident choked to death running to shelter.",
@@ -923,6 +1473,123 @@
     },
     "lat": 27.2333631,
     "lng": 33.8351331
+  },
+  {
+    "id": "94d2d15af763299c",
+    "title_original": "המפכ\"ל: אל תתקרבו לזירות הנפילה - שרידי הטילים עלולים להתפוצץ",
+    "content_original": "מפכ\"ל המשטרה סקר הבוקר את זירות הנפילה במחוז תל אביב: עד כה פונו 23 פצועים ואישה אחת נהרגה. המשטרה מזהירה: אל תתקרבו לשרידי טילים ואל תצלמו את הזירות",
+    "url": "https://www.maariv.co.il/news/military/article-1290579",
+    "published": "2026-03-01T12:18:54+00:00",
+    "fetched_at": "2026-03-01T12:37:28.759148+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Police Chief Warns Public to Stay Away from Missile Debris Sites",
+    "relevant": true,
+    "summary_en": "The Tel Aviv district police chief warned the public to avoid areas where missile debris has fallen after a recent attack, as remnants could explode. So far, 23 people have been injured and one woman has been killed. The warning highlights the ongoing threat to civilians from missile attacks and the need for caution in affected areas.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "threat",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran-backed groups"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Missile attack on Tel Aviv results in casualties and ongoing public safety threat from debris."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "9b149d633150aa97",
+    "title_original": "Obituary: Ayatollah Ali Khamenei, Iran's Supreme Leader and dominant political figure for decades",
+    "content_original": "Obituary: Ayatollah Ali Khamenei, Iran's Supreme Leader and dominant political figure for decades Submitted by MEE staff on Sun, 03/01/2026 - 11:02 The successor to Ayatollah Ruhollah Khomeini was killed during a US-Israel missile attack on Tehran Iran's Supreme Leader Ayatollah Ali Khamenei during an address in Tehran on 17 February 2026 (AFP/Handout) Off Iran's supreme leader, Ayatollah Ali Khamenei , who was killed on Saturday in US - Israeli air strikes, was a key figure in Iranian political life for more than 40 years, and the country’s political and religious figurehead since 1989. During that time, he presided over a nation undergoing significant social and political change, and repositioning itself in the wider world. Born into a clerical family on 19 April 1939, Khamenei undertook religious training at seminaries in the holy city of Mashhad, as well as Najaf in Iraq . He returned to Iran and eventually settled in Qom, where he furthered his clerical studies under figures inclu...",
+    "url": "https://www.middleeasteye.net/news/ayatollah-ali-khamenei-iran-supreme-leader",
+    "published": "2026-03-01T12:17:55+00:00",
+    "fetched_at": "2026-03-01T12:37:34.084535+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Ayatollah Ali Khamenei killed in US-Israel missile attack on Tehran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Ayatollah Ali Khamenei, Iran's Supreme Leader, was killed during a US-Israel missile strike on Tehran. As the country's political and religious figurehead since 1989, his death marks a significant escalation in the ongoing conflict and a major shift in Iran's leadership structure. The strategic implications of his loss could lead to further instability within Iran and potentially alter the dynamics of the war.",
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "killed",
+      "death",
+      "strike",
+      "attack",
+      "missile",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "US-Israel missile strike kills Iran's Supreme Leader Ayatollah Ali Khamenei, marking a major escalation in the conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "65f85b95aa25addf",
+    "title_original": "⚡️ #BREAKING  Iranian missile strike wipes out entire block in central Israel",
+    "content_original": "⚡️ #BREAKING Iranian missile strike wipes out entire block in central Israel",
+    "url": "https://t.me/warmonitors/40223",
+    "published": "2026-03-01T12:16:38+00:00",
+    "fetched_at": "2026-03-01T12:38:10.968237+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian missile strike destroys entire block in central Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike targeting central Israel, destroying an entire city block. This attack represents a significant escalation in the conflict, demonstrating Iran's capability to strike deep into Israeli territory. The strike is likely to provoke a strong military response from Israel and its allies.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "attack",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "central Israel",
+      "brief": "Iran launched a ballistic missile strike destroying an entire city block in central Israel, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 4,
+    "lat": 31.9,
+    "lng": 34.8
   },
   {
     "id": "7f4a640b1dec2700",
@@ -1003,6 +1670,160 @@
     "lng": 34.8
   },
   {
+    "id": "9c5c53dd43b9cb3b",
+    "title_original": "🚨 بندر زاید ابوظبی زیر موشک های ایران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آم...",
+    "content_original": "🚨 بندر زاید ابوظبی زیر موشک های ایران ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44954",
+    "published": "2026-03-01T12:12:16+00:00",
+    "fetched_at": "2026-03-01T12:38:12.160916+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Missile Threat to Abu Dhabi Port Zayed",
+    "relevant": true,
+    "summary_en": "Iran has reportedly targeted Abu Dhabi Port Zayed with missiles, escalating tensions in the Gulf region. This attack directly threatens UAE infrastructure and US interests in the area. The incident signifies a potential expansion of the conflict beyond current fronts and raises concerns about regional stability.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "threat",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Abu Dhabi Port Zayed, UAE",
+      "brief": "Iran has escalated tensions by targeting Abu Dhabi Port Zayed with missiles, posing a direct threat to UAE infrastructure and US interests in the Gulf region."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "e1b90b68e957b7da",
+    "title_original": "⚡️ Israeli journalist Amit Segal claims this is Abu Dhabi at the moment",
+    "content_original": "⚡️ Israeli journalist Amit Segal claims this is Abu Dhabi at the moment",
+    "url": "https://t.me/warmonitors/40219",
+    "published": "2026-03-01T12:11:36+00:00",
+    "fetched_at": "2026-03-01T12:38:10.965742+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israeli journalist claims Abu Dhabi is under attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli journalist Amit Segal suggests that Abu Dhabi is currently experiencing an attack or significant military activity. This is significant due to Abu Dhabi's strategic importance as a major regional hub and its close ties to the US. If confirmed, this could indicate an escalation in regional hostilities involving Iran-linked actors.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack|hezbollah_action|proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "UAE",
+        "Houthis",
+        "Hezbollah",
+        "Iranian proxies"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "Israeli journalist reports potential attack or significant military activity in Abu Dhabi, indicating possible escalation by Iranian proxies in a key US ally state."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "49d85fd6289d17c8",
+    "title_original": "What we know about the US-Israeli killing of Ali Khamenei",
+    "content_original": "SupremeLeader Ayatollah Ali Khamenei , 86, who ruled Iran for more than three decades, was killed on 28 February 2026 in a coordinated US-Israeli strike targeting Iran's senior leadership. Tehran's state media confirmed his death hours later and declared a 40-day national mourning period, amid waves of strikes on Iran by Israel and the US. The killing marks the most consequential decapitation strike against the Islamic Republic since its founding in 1979 and has triggered immediate retaliation and a formal constitutional transition inside Iran. What happened? The strike took place during the opening phase of a broader US-Israeli military campaign targeting Iranian military and strategic sites. Within hours of the initial wave, Israeli and US officials publicly stated that Khamenei had been killed. After hours of denials, Iranian authorities later confirmed his death on state television. The Supreme National Security Council formally acknowledged the assassination and announced 40 days ...",
+    "url": "https://www.newarab.com/news/what-we-know-about-us-israeli-killing-ali-khamenei",
+    "published": "2026-03-01T12:11:25+00:00",
+    "fetched_at": "2026-03-01T12:37:34.560473+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US-Israeli Strike Kills Iran's Supreme Leader Ali Khamenei",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US and Israel conducted a coordinated strike that killed Iran's Supreme Leader Ayatollah Ali Khamenei on February 28, 2026. The attack was part of a broader military campaign targeting Iranian leadership and strategic sites, triggering immediate retaliation and a constitutional transition in Iran. This is the most significant decapitation strike against Iran since 1979, escalating the ongoing conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "strike",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US and Israel conduct a coordinated strike killing Iran's Supreme Leader Ayatollah Ali Khamenei, triggering immediate retaliation and a constitutional transition in Iran."
+    },
+    "merged_source_count": 11,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "8b32f7cad2bbdab4",
+    "title_original": "UK personnel just 200 metres away from Iranian missile strike",
+    "content_original": "British forces in Bahrain and Iraq being drawn into Iran conflict in defence of civilian sites and military assets US-Israeli attack on Iran – live updates Three hundred British personnel were within 200 metres (650ft) of an Iranian missile and drone strike on the US naval base in Bahrain on Saturday, one of several incidents where UK forces have been drawn into the war in the Middle East. No casualties were reported in the incident, one of more than 25 waves of retaliatory attacks in response to the massive US-Israeli joint bombing campaign launched against Iran on Saturday. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/mar/01/iran-missile-strikes-bahrain-iraq-uk-military-personnel-middle-east",
+    "published": "2026-03-01T12:10:52+00:00",
+    "fetched_at": "2026-03-01T12:38:03.747293+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "UK personnel narrowly avoid Iranian missile strike in Bahrain",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Approximately 300 British personnel were within 200 meters of an Iranian missile and drone strike on a US naval base in Bahrain. The incident occurred amidst over 25 waves of retaliatory attacks by Iran following a massive US-Israeli joint bombing campaign against Iran. The proximity of UK forces highlights the risk of escalation and potential involvement of additional coalition partners in the conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UK",
+        "Bahrain"
+      ],
+      "location": "Bahrain",
+      "brief": "Iran launched a missile and drone strike on a US naval base in Bahrain, narrowly missing approximately 300 British personnel."
+    },
+    "merged_source_count": 4,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "0c3a45899eca89fb",
     "title_original": "Как над Абу-Даби сбили новые ракеты. Видео",
     "content_original": "Над Абу-Даби&nbsp;произошла новая серия взрывов.",
@@ -1041,6 +1862,41 @@
     "merged_source_count": 3,
     "lat": 24.45,
     "lng": 54.38
+  },
+  {
+    "id": "9b5372aaccceb1ec",
+    "title_original": "نفتکش تحت تحریم آمریکا در سواحل عمان مورد اصابت قرار گرفت",
+    "content_original": "شفقنا &#8211; مرکز امنیت دریایی عمان اعلام کرد، یک نفتکش با پرچم پالائو که تحت تحریم‌های آمریکا قرار دارد، روز یک‌شنبه در نزدیکی شبه جزیره مسندم عمان مورد هدف قرار گرفت و چهار نفر زخمی شدند. به گزارش سرویس ترجمه شفقنا، این حمله پس از حملات پهپادی که بندر تجاری دقم در دریای عرب را [&#8230;] نوشته نفتکش تحت تحریم آمریکا در سواحل عمان مورد اصابت قرار گرفت اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222797/",
+    "published": "2026-03-01T12:08:25+00:00",
+    "fetched_at": "2026-03-01T12:37:20.900834+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "US-sanctioned oil tanker struck off Oman coast",
+    "relevant": true,
+    "summary_en": "An oil tanker flying the Palau flag and subject to US sanctions was attacked near the Musandam Peninsula in Oman, resulting in four injuries. This incident follows recent drone attacks on the commercial port of Duqm in the Arabian Sea, highlighting escalating maritime tensions in the region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Oman"
+      ],
+      "location": "Musandam Peninsula, Oman",
+      "brief": "An oil tanker under US sanctions was attacked off the coast of Oman, resulting in injuries and escalating maritime tensions in the region."
+    },
+    "lat": 25.6490341,
+    "lng": 56.2562342
   },
   {
     "id": "36240c0a5bfb26fd",
