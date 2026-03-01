@@ -51,9 +51,11 @@ export function getAllArticles(): Article[] {
 
 export function getAttackArticles(): Article[] {
   const attacks = readJSON<Article[]>(path.join(DATA_DIR, "attacks.json"), []);
-  // Always sort most-recent first so #1 is the newest attack
-  attacks.sort((a, b) => effectiveTime(b) - effectiveTime(a));
-  return attacks;
+  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
+  // Filter to last 24 hours, then sort most-recent first so #1 is the newest attack
+  return attacks
+    .filter((a) => effectiveTime(a) >= cutoff)
+    .sort((a, b) => effectiveTime(b) - effectiveTime(a));
 }
 
 export function getThreatLevel(): ThreatLevel {

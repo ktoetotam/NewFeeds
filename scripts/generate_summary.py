@@ -38,7 +38,9 @@ ARCHIVE_DIR = DATA_DIR / "summary_archive"
 
 MAX_ARCHIVE_FILES = 100  # keep last 100 versions
 
-SYSTEM_PROMPT = """You are a senior intelligence analyst producing an executive briefing on the Iran–United States armed conflict (2026) and all connected fronts (Israel, Houthis, Hezbollah, IRGC proxies, Gulf states).
+EVENT_WINDOW_HOURS = 4  # only events from the last N hours are fed to the LLM
+
+SYSTEM_PROMPT = f"""You are a senior intelligence analyst producing an executive briefing on the Iran–United States armed conflict (2026) and all connected fronts (Israel, Houthis, Hezbollah, IRGC proxies, Gulf states).
 
 Your audience is a crisis management team that needs an actionable, factual, concise situational overview. Write in a professional, analytical tone — like a NATO SITREP or corporate security briefing.
 
@@ -51,6 +53,14 @@ CRITICAL RULES:
 - Use bullet points for clarity. Keep each bullet to 1-2 sentences.
 - Use 24h clock and CET timezone for all times.
 - Do NOT include any company-specific or organizational recommendations.
+
+PREVIOUS BRIEFING EVALUATION — you MUST apply this discipline every cycle:
+- Compare the previous briefing against the new data (covering the last {EVENT_WINDOW_HOURS}h window).
+- DROP any item from the previous briefing that: has resolved/concluded, is no longer supported by new data, is now obvious background context, or has been superseded by a more significant development.
+- DOWNGRADE items that are still true but less urgent than newer events (move to background context rather than a top bullet).
+- ELEVATE items that have escalated or gained new corroboration.
+- The final output must be LEAN: prefer 3-5 high-signal bullets per section over a long list. If nothing genuinely new happened in a section, say so briefly rather than padding with stale repetition.
+- DO NOT carry forward boilerplate or generic standing warnings that appear in every cycle unchanged — re-state only if the situation actively warrants it.
 
 UNVERIFIED/EMERGING SECTION — include ALL of the following if present in the data, even from a single source, flagging the source:
 - Deaths or incapacitation of heads of state, military commanders, or senior officials
@@ -113,6 +123,40 @@ def load_threat_level(filepath: str | Path | None = None) -> dict:
         except (json.JSONDecodeError, IOError):
             pass
     return {}
+
+
+def load_previous_summary(output_path: str | Path | None = None) -> dict | None:
+    """Load the most recently generated executive summary, if it exists."""
+    fp = Path(output_path) if output_path else DATA_DIR / "executive_summary.json"
+    if fp.exists():
+        try:
+            with open(fp, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except (json.JSONDecodeError, IOError):
+            pass
+    return None
+
+
+def filter_by_window(items: list[dict], hours: int) -> list[dict]:
+    """Return only items whose published/fetched_at timestamp falls within the last *hours* hours."""
+    from datetime import timedelta
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
+    result = []
+    for item in items:
+        for field in ("published", "fetched_at"):
+            raw = item.get(field, "")
+            if not raw:
+                continue
+            try:
+                ts = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+                if ts.tzinfo is None:
+                    ts = ts.replace(tzinfo=timezone.utc)
+                if ts >= cutoff:
+                    result.append(item)
+                    break
+            except (ValueError, TypeError):
+                continue
+    return result
 
 
 def load_feed_articles(feeds_dir: str | Path | None = None) -> list[dict]:
@@ -232,32 +276,59 @@ def build_articles_block(articles: list[dict]) -> str:
     return "\n".join(lines)
 
 
-def build_user_prompt(attacks: list[dict], threat: dict, articles: list[dict]) -> str:
+def build_previous_summary_block(previous: dict | None) -> str:
+    """Summarise the previous executive summary for context continuity."""
+    if not previous:
+        return "No previous summary available."
+    gen = previous.get("generated_at", "unknown time")
+    exec_s = previous.get("executive_summary", "")
+    threat = previous.get("threat_snapshot", {})
+    return (
+        f"Generated at: {gen}\n"
+        f"Threat level: {threat.get('label', '?')} (Level {threat.get('level', '?')}), "
+        f"trend: {threat.get('trend', '?')}, "
+        f"{threat.get('incident_count_24h', 0)} incidents in 24h window\n"
+        f"Summary: {exec_s}"
+    )
+
+
+def build_user_prompt(attacks: list[dict], threat: dict, articles: list[dict], previous_summary: dict | None = None) -> str:
     """Construct the full user prompt with all data."""
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     attacks_block = build_attacks_block(attacks)
     threat_block = build_threat_block(threat)
     articles_block = build_articles_block(articles)
+    prev_block = build_previous_summary_block(previous_summary)
 
     return f"""Generate an executive briefing for the Iran–US conflict situation as of {now}.
+
+=== PREVIOUS BRIEFING (evaluate critically — see pruning rules in system prompt) ===
+{prev_block}
 
 === THREAT LEVEL ===
 {threat_block}
 
-=== CLASSIFIED ATTACK EVENTS (ordered by severity, then recency) ===
+=== CLASSIFIED ATTACK EVENTS — LAST {EVENT_WINDOW_HOURS}h (ordered by severity, then recency) ===
 {attacks_block}
 
-=== RECENT INTELLIGENCE FEED ARTICLES (by region) ===
+=== INTELLIGENCE FEED ARTICLES — LAST {EVENT_WINDOW_HOURS}h (by region) ===
 {articles_block}
 
 === INSTRUCTIONS ===
-Based STRICTLY on the data above, produce a structured executive summary.
-- "whats_new": Focus on the most recent developments (last 1-2 hours if timestamps allow, otherwise last 6h).
-- "confirmed_events": Events reported by multiple sources or with clear evidence of occurrence.
-- "unverified_emerging": Claims from single sources, state propaganda figures, or unconfirmed reports. Always flag the source.
-- "operational_impacts": Assess near-term impacts on civilian travel/aviation, maritime/supply chains, and energy markets.
-- "outlook_24_72h": Analytical forecast based on the pattern of events, trend, and severity trajectory.
+Based STRICTLY on the data above, produce a lean, high-signal executive summary.
+
+1. EVALUATE THE PREVIOUS BRIEFING FIRST:
+   - Identify what has changed, escalated, resolved, or become stale since the last cycle.
+   - Explicitly drop items that are no longer active or have become obvious background.
+   - Only carry forward items from the previous briefing if they are still developing or directly relevant to new events.
+
+2. BUILD THE NEW SUMMARY:
+   - "whats_new": ONLY events from the last {EVENT_WINDOW_HOURS} hours that represent genuine change. If nothing is materially new, say so in one line — do not pad.
+   - "confirmed_events": Multi-source or evidence-backed events only. Max 5 bullets. Drop any that appeared in the previous cycle unchanged unless they escalated.
+   - "unverified_emerging": Single-source or unconfirmed claims. Always flag the source. Remove anything that has since been confirmed or disproven.
+   - "operational_impacts": Only list impacts actively supported by the current data. Do NOT repeat generic standing warnings cycle after cycle.
+   - "outlook_24_72h": Update the forecast based on new trajectory — do not recycle the previous outlook verbatim.
 
 {OUTPUT_SCHEMA_DESCRIPTION}"""
 
@@ -505,21 +576,29 @@ def generate_and_save(
 
     output_path = Path(output_path)
 
+    # Load previous summary for context continuity before archiving it
+    previous_summary = load_previous_summary(output_path)
+
     # Archive existing summary before overwriting
     archive_current_summary(output_path)
 
+    # Restrict to events within the last EVENT_WINDOW_HOURS
+    attacks_windowed = filter_by_window(attacks, EVENT_WINDOW_HOURS)
+    articles_windowed = filter_by_window(articles, EVENT_WINDOW_HOURS)
+
     logger.info(
-        f"Generating executive summary from {len(attacks)} attacks, "
-        f"{len(articles)} feed articles"
+        f"Generating executive summary from {len(attacks_windowed)}/{len(attacks)} attacks "
+        f"and {len(articles_windowed)}/{len(articles)} feed articles "
+        f"in the last {EVENT_WINDOW_HOURS}h window"
     )
 
     # Build prompt and call LLM
-    user_prompt = build_user_prompt(attacks, threat, articles)
+    user_prompt = build_user_prompt(attacks_windowed, threat, articles_windowed, previous_summary)
     result = call_minimax(api_key, user_prompt)
 
     if result is None:
         logger.warning("Using fallback deterministic summary")
-        result = build_fallback_summary(attacks, threat)
+        result = build_fallback_summary(attacks_windowed, threat)
 
     # Enrich with metadata
     current = threat.get("current", {})
@@ -537,10 +616,11 @@ def generate_and_save(
             "severity_breakdown": current.get("severity_breakdown", {}),
         },
         "source_count": {
-            "attacks_analyzed": len(attacks),
-            "articles_analyzed": len(articles),
+            "attacks_analyzed": len(attacks_windowed),
+            "articles_analyzed": len(articles_windowed),
+            "event_window_hours": EVENT_WINDOW_HOURS,
             "regions_covered": sorted(
-                set(a.get("region", "unknown") for a in attacks + articles)
+                set(a.get("region", "unknown") for a in attacks_windowed + articles_windowed)
             ),
         },
         **result,
