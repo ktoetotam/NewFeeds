@@ -634,6 +634,80 @@
     "lng": 35.24
   },
   {
+    "id": "1246a3a800153d0a",
+    "title_original": "התגובה האיראנית לחיסול חמינאי יצאה לפועל נגד ישראל - ויש מסר לטראמפ | אבי אשכנזי",
+    "content_original": "לאחר שהודיעו באופן רשמי על מותו, האיראנים הוציאו לפועל את תגובתם ושיגרו במספר גלים טילים הבוקר לעבר מדינת ישראל, במקביל לתקיפות נגד מדינות במפרץ",
+    "url": "https://www.maariv.co.il/news/military/article-1290424",
+    "published": "2026-03-01T05:40:46+00:00",
+    "fetched_at": "2026-03-01T05:43:34.523626+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran launches missile attacks on Israel and Gulf states in response to Khamenei's assassination",
+    "relevant": true,
+    "summary_en": "Iran has retaliated for the assassination of its leader by launching multiple waves of missiles targeting Israel and conducting attacks on states in the Gulf region. This represents a significant escalation in the conflict, demonstrating Iran's willingness to strike directly at Israel and expand hostilities in the Gulf.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|hezbollah_action|proxy_operation|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Gulf States",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Israel, Gulf Region",
+      "brief": "Iran launches ballistic missile attacks on Israel and Gulf states in a major escalation following the assassination of Ayatollah Khamenei."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "bc075372bb562da3",
+    "title_original": "Protesters Try to Storm Baghdad Zone Housing US Embassy",
+    "content_original": "Protesters Try to Storm Baghdad Zone Housing US Embassy",
+    "url": "https://english.aawsat.com/node/5246042",
+    "published": "2026-03-01T05:37:04+00:00",
+    "fetched_at": "2026-03-01T05:43:41.522411+00:00",
+    "source_name": "Asharq Al-Awsat",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Protesters Try to Storm Baghdad Zone Housing US Embassy",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Protesters attempted to storm the Green Zone in Baghdad, which houses the US Embassy. This incident highlights the ongoing instability and anti-US sentiment in Iraq, posing a direct threat to US diplomatic facilities and personnel. The situation underscores the challenges faced by US forces and diplomats in Iraq amid regional tensions.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Iraqi protesters",
+        "US Embassy"
+      ],
+      "location": "Baghdad, Iraq",
+      "brief": "Anti-US protesters attempted to storm the Green Zone in Baghdad housing the US Embassy, demonstrating ongoing instability and anti-US sentiment in Iraq."
+    },
+    "lat": 33.31,
+    "lng": 44.39
+  },
+  {
     "id": "1810e02fd1ec8782",
     "title_original": "Al Jazeera: на северо-востоке Тегерана произошли мощные взрывы",
     "content_original": "Al Jazeera: на северо-востоке Тегерана произошли мощные взрывы",
@@ -707,6 +781,81 @@
     "lng": 55.27
   },
   {
+    "id": "ba5055a86f43e2d6",
+    "title_original": "اسرائیل هیوم: مقر سازمان سیا در دبی هدف حمله موشکی ایران قرار گرفت",
+    "content_original": "شفقنا- در ادامه موج حملات موشکی ایران به پایگاه‌های آمریکا در منطقه، برخی رسانه‌های عبری از جمله روزنامه «اسرائیل هیوم» اعلام کردند که مقر سازمان اطلاعات مرکزی آمریکا (CIA) در دبی نیز هدف حمله قرار گرفته است. به گزارش شفقنا؛ وبگاه شبکه الهدهد نوشت: «این خبر در حالی منتشر می‌شود که پیش‌تر گزارش‌هایی از هدف [&#8230;] نوشته اسرائیل هیوم: مقر سازمان سیا در دبی هدف حمله موشکی ایران قرار گرفت اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222495/",
+    "published": "2026-03-01T05:31:06+00:00",
+    "fetched_at": "2026-03-01T05:43:23.161370+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iran reportedly targets CIA headquarters in Dubai with missile attack",
+    "relevant": true,
+    "summary_en": "Iran has reportedly launched a missile attack targeting the CIA headquarters in Dubai, as part of ongoing strikes on US bases in the region. This development, if confirmed, signifies an escalation in the conflict with potential significant implications for US intelligence operations and regional security.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "CIA"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran reportedly launched a missile attack targeting the CIA headquarters in Dubai, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "b283c07eff77fd0c",
+    "title_original": "صدای انفجار در اهواز  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SAB...",
+    "content_original": "صدای انفجار در اهواز ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/44926",
+    "published": "2026-03-01T05:29:35+00:00",
+    "fetched_at": "2026-03-01T05:44:28.424274+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosion Heard in Ahvaz",
+    "relevant": true,
+    "summary_en": "An explosion has been reported in Ahvaz, Iran. This could be significant given Ahvaz's proximity to the Iran-Iraq border and potential military or IRGC assets in the area. The incident may indicate ongoing sabotage or military activity amid the US-Iran conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "explosion",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "potential US-backed groups"
+      ],
+      "location": "Ahvaz, Iran",
+      "brief": "An explosion in Ahvaz, likely a proxy operation, indicates ongoing sabotage activity near the Iran-Iraq border with potential military implications amid US-Iran tensions."
+    },
+    "lat": 31.32,
+    "lng": 48.69
+  },
+  {
     "id": "808f2287561781cb",
     "title_original": "КСИР объявил о начале самого мощного наступления в истории Ирана",
     "content_original": "Иран начнет самую мощную наступательную операцию в его истории &laquo;через несколько мгновений&raquo;, сообщила пресс-служба Корпуса стражей исламской революции (КСИР) на фоне смерти верховного лидера Али Хаменеи.",
@@ -746,6 +895,43 @@
     "merged_source_count": 4,
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "d6b1f0042c76be88",
+    "title_original": "مراسم سوگواری شهادت رهبر انقلاب اسلامی در حرم امام رضا(ع)",
+    "content_original": "شفقنا- مراسم عزاداری شهادت رهبر انقلاب اسلامی از ساعتی پیش در حرم امام رضا (ع) آغاز شد. به گزارش شفقنا، از سحرگاه امروز ۱۰ اسفند و با اعلام رسمی خبر شهادت رهبر انقلاب، حضرت آیت‌الله خامنه‌ای، در حمله تروریستی آمریکایی-صهیونیستی، بسیاری از مردم مشهد برای عزاداری راهی حرم امام رضا(ع) شدند. همچنین در دقایق نخست اعلام [&#8230;] نوشته مراسم سوگواری شهادت رهبر انقلاب اسلامی در حرم امام رضا(ع) اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2222496/",
+    "published": "2026-03-01T05:26:07+00:00",
+    "fetched_at": "2026-03-01T05:43:23.161627+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Mourning Ceremony for the Martyrdom of Iran's Supreme Leader at Imam Reza Shrine",
+    "relevant": true,
+    "summary_en": "A mourning ceremony for the reported martyrdom of Iran's Supreme Leader Ayatollah Khamenei has begun at the Imam Reza Shrine in Mashhad following an alleged US-Israeli terrorist attack. The ceremony started after the announcement of his death on the morning of the 10th of Esfand, drawing many mourners to the shrine. This event signifies a potential escalation in the ongoing conflict and regional tensions.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "death",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Mashhad, Iran",
+      "brief": "A major escalation involving the reported assassination of Iran's Supreme Leader by a US-Israeli attack, triggering significant regional tensions and mourning ceremonies."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "c413ef5aae65dd41",
@@ -825,6 +1011,47 @@
     "lng": 54.0
   },
   {
+    "id": "dc9dfc05101ab913",
+    "title_original": "Admiral Shamkhani, Major General Pakpour martyred in US-Israeli aggression against Iran",
+    "content_original": "Shafaqna English- Admiral Ali Shamkhani and the Major General of IRGC, Mohammad Pakpour, were martyred on Saturday (February 28, 2026) in US-Israeli aggression against Iran, Irna reported. Source: Shafaqna Persian www.shafaqna.com",
+    "url": "https://en.shafaqna.com/442767/admiral-shamkhani-major-general-pakpour-martyred-in-us-israeli-aggression-against-iran/",
+    "published": "2026-03-01T05:20:11+00:00",
+    "fetched_at": "2026-03-01T05:43:21.781868+00:00",
+    "source_name": "Shafaqna English",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Admiral Shamkhani and IRGC Major General Pakpour killed in US-Israeli attack on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Admiral Ali Shamkhani and IRGC Major General Mohammad Pakpour were killed in a US-Israeli strike on Iran. This represents a significant escalation as it targets high-ranking Iranian military leadership. The incident is likely to provoke a strong response from Iran and further intensify the ongoing conflict.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "killed",
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli strike kills top Iranian military leaders Admiral Shamkhani and IRGC Major General Pakpour, marking a significant escalation in the conflict."
+    },
+    "merged_source_count": 6,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "dc4b4cb9fafd1c6f",
     "title_original": "СМИ: ПВО Тегерана отражает атаку",
     "content_original": "СМИ: ПВО Тегерана отражает атаку",
@@ -859,6 +1086,43 @@
     },
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "2fa6e86eb5b139ad",
+    "title_original": "Iran ‘internationalises battlefield’ as retaliatory missiles put Gulf in firing line",
+    "content_original": "Thunderous blasts ⁠and towering fireballs from Iranian missiles streaking across Gulf states vindicated their ⁠leaders’ long-held fears that Tehran can bring war to their doorstep, likely to harden Arab rulers’ support for US-Israeli strikes. Even in the Palm, Dubai’s swankiest resort, explosions rattled buildings and hit a luxury hotel, sending panicked residents running for cover as missiles and interceptors tore across the sky. It was a stark sign that the conflict had spilled beyond Iran’s...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3345006/iran-internationalises-battlefield-retaliatory-missiles-put-gulf-firing-line?utm_source=rss_feed",
+    "published": "2026-03-01T05:15:09+00:00",
+    "fetched_at": "2026-03-01T05:43:52.534316+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true,
+    "title_en": "Iran escalates conflict by targeting Gulf states with retaliatory missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory missiles targeting Gulf states, including the UAE, causing explosions in areas like Dubai's Palm resort. This escalation puts Gulf states directly in the crossfire and is likely to solidify their support for US-Israeli operations against Iran. The incident signifies a dangerous expansion of the conflict beyond Iran's borders.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Gulf States",
+        "UAE",
+        "Israel"
+      ],
+      "location": "Gulf states, including UAE (e.g., Dubai's Palm resort)",
+      "brief": "Iran escalated the conflict by launching ballistic missiles targeting Gulf states, including the UAE, causing explosions in civilian areas and solidifying Gulf states' support for US-Israeli operations."
+    },
+    "lat": 35.5577724,
+    "lng": -79.2854845
   },
   {
     "id": "82eb464094fa9738",
