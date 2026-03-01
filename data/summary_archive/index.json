@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T03-58-45.370650_plus_00-00.json",
+    "generated_at": "2026-03-01T03:58:45.370650+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 284,
+    "summary_preview": "The Iran–US conflict has reached a critical escalation point with multiple major developments in the past 24 hours. The US and Israel conducted coordinated airstrikes on Iran targeting IRGC infrastruc"
+  },
+  {
     "filename": "2026-03-01T02-55-14.715514_plus_00-00.json",
     "generated_at": "2026-03-01T02:55:14.715514+00:00",
     "threat_label": "MAJOR",
