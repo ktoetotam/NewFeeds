@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T22-59-35.888236_plus_00-00.json",
+    "generated_at": "2026-03-01T22:59:35.888236+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 750,
+    "summary_preview": "The Iran-US conflict has reached a critical inflection point with the confirmed assassination of Iran's Supreme Leader Ali Khamenei in a joint US-Israeli covert operation in Tehran. This killing of Ir"
+  },
+  {
     "filename": "2026-03-01T22-42-29.528109_plus_00-00.json",
     "generated_at": "2026-03-01T22:42:29.528109+00:00",
     "threat_label": "MAJOR",
