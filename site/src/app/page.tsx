@@ -90,7 +90,7 @@ export default function HomePage() {
                 </span>
               </div>
               <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
-                {attacks.length} classified incidents tracked.
+                {attacks.length} incidents tracked.
                 {majorCount + highCount > 0 && (
                   <> <strong style={{ color: "#ef4444" }}>{majorCount + highCount} major/high</strong> in last 48h.</>
                 )}
@@ -196,7 +196,7 @@ export default function HomePage() {
                 color: "var(--color-text-muted)",
               }}
             >
-              — last {attacks.length} classified incidents
+              — last {attacks.length} incidents
             </span>
           </h2>
           <HomeAttackMap attacks={attacks} />
