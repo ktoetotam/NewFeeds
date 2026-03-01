@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T01-18-10.116551_plus_00-00.json",
+    "generated_at": "2026-03-01T01:18:10.116551+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 248,
+    "summary_preview": "The Iran-US conflict has reached an unprecedented level of escalation with the US and Israel launching coordinated strikes on Iran (Feb 28), resulting in reports of Khamenei's death and triggering Ira"
+  },
+  {
     "filename": "2026-03-01T01-09-26.535527_plus_00-00.json",
     "generated_at": "2026-03-01T01:09:26.535527+00:00",
     "threat_label": "MAJOR",
