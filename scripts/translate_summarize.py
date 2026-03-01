@@ -31,7 +31,7 @@ LANGUAGE_NAMES = {
 # Rate limiting
 MAX_RETRIES = 5
 RETRY_DELAY = 5   # seconds base for rate-limit backoff
-BATCH_DELAY = 1.0  # seconds between requests (~60 RPM; retry logic handles 429s)
+BATCH_DELAY = 0.2  # seconds between requests (~300 RPM, well under 500 RPM limit)
 
 SYSTEM_PROMPT = """
 You are an intelligence analyst running a real-time war monitor for the ongoing Iran–United States armed conflict (2026) and all its connected fronts.
@@ -75,7 +75,7 @@ def call_minimax(prompt: str, system_prompt: str, api_key: str) -> str:
     }
 
     payload = {
-        "model": "MiniMax-Text-01",
+        "model": "MiniMax-M2.5",
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": prompt},

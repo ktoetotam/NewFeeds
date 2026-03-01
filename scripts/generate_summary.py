@@ -1,7 +1,7 @@
 """
 generate_summary.py — Generate an executive briefing from attacks, threat level, and feed data.
 
-Uses MiniMax-Text-01 to synthesize a structured, analytical executive summary
+Uses MiniMax-M2.5 to synthesize a structured, analytical executive summary
 in the style of a corporate crisis-management briefing.
 
 Can be run standalone:

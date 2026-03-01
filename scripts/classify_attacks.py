@@ -103,7 +103,7 @@ Severity: major=direct US-Iran engagement/ballistic/nuclear/mass casualties, hig
     }
 
     payload = {
-        "model": "MiniMax-Text-01",
+        "model": "MiniMax-M2.5",
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": prompt},
