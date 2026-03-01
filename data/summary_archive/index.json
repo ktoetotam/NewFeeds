@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T01-50-56.572411_plus_00-00.json",
+    "generated_at": "2026-03-01T01:50:56.572411+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 259,
+    "summary_preview": "The Iran–US conflict has reached a critical inflection point with the confirmed death of Supreme Leader Ali Khamenei in a US-Israeli coordinated strike, triggering Iran's declaration of 40 days nation"
+  },
+  {
     "filename": "2026-03-01T01-37-16.055292_plus_00-00.json",
     "generated_at": "2026-03-01T01:37:16.055292+00:00",
     "threat_label": "MAJOR",
