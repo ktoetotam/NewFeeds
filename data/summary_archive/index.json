@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T16-03-32.407470_plus_00-00.json",
+    "generated_at": "2026-03-01T16:03:32.407470+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 619,
+    "summary_preview": "The Iran-US conflict has escalated dramatically with confirmed US casualties (3 troops killed) and Iran expanding missile attacks to Gulf allies. The death of Supreme Leader Khamenei has triggered Ira"
+  },
+  {
     "filename": "2026-03-01T15-50-16.695921_plus_00-00.json",
     "generated_at": "2026-03-01T15:50:16.695921+00:00",
     "threat_label": "MAJOR",
