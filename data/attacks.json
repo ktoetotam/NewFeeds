@@ -36,6 +36,182 @@
     "lng": 178.0431614
   },
   {
+    "id": "7d12eceec460a4dd",
+    "title_original": "Fars: США ударами пытаются способствовать проникновению сепаратистов в Иран",
+    "content_original": "По информации агентства, иранскими пограничниками замечена повышенная активность противника в районе границ исламской республики",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26600129",
+    "published": "2026-03-01T16:39:28+03:00",
+    "fetched_at": "2026-03-01T13:51:16.171226+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Strikes Aimed at Facilitating Separatist Infiltration into Iran",
+    "relevant": true,
+    "summary_en": "The US has reportedly launched strikes targeting areas near Iran's borders to support separatist infiltration into Iran. Iranian border guards have observed increased enemy activity in these regions. This development signifies a potential escalation in US efforts to destabilize Iran through proxy forces and direct military action.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "US",
+        "Iran",
+        "Iranian separatists"
+      ],
+      "location": "Iranian border regions",
+      "brief": "The US has launched strikes near Iran's borders to facilitate separatist infiltration, indicating an escalation in US efforts to destabilize Iran through proxy operations."
+    }
+  },
+  {
+    "id": "76f16f0e545a2432",
+    "title_original": "Иранские СМИ сообщили о гибели бывшего президента Махмуда Ахмадинежада",
+    "content_original": "Бывший президент Ирана Махмуд Ахмадинежад стал жертвой авиаудара, нанесенного США и Израилем по столице страны. Об этом сообщило иранское агентство ILNA.",
+    "url": "https://www.kommersant.ru/doc/8477472",
+    "published": "2026-03-01T16:38:52+03:00",
+    "fetched_at": "2026-03-01T13:51:21.406198+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Former Iranian President Ahmadinejad reportedly killed in US-Israeli airstrike",
+    "relevant": true,
+    "summary_en": "Mahmoud Ahmadinejad, former President of Iran, was reportedly killed in a US-Israeli airstrike on the capital Tehran. This incident, if confirmed, could significantly escalate tensions between Iran and the US-Israel alliance amid the ongoing conflict. The strategic implications include potential retaliatory actions by Iran and increased volatility in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "airstrike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Israel"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "A US-Israeli airstrike reportedly killed former Iranian President Mahmoud Ahmadinejad, signaling a significant escalation in the Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "f32cdf719634fb68",
+    "title_original": "Танкер MKD VYOM получил повреждения при атаке у берегов Омана, пишут СМИ",
+    "content_original": "Танкер MKD VYOM получил повреждения при атаке у берегов Омана, пишут СМИ",
+    "url": "https://ria.ru/20260301/tanker-2077686262.html",
+    "published": "2026-03-01T16:38:51+03:00",
+    "fetched_at": "2026-03-01T13:51:16.747024+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Tanker MKD VYOM Damaged in Attack Off the Coast of Oman",
+    "relevant": true,
+    "summary_en": "An unidentified attacker targeted the tanker MKD VYOM off the coast of Oman, causing damage. This incident highlights the escalating maritime insecurity in the region amid the ongoing US-Iran conflict, with potential implications for international shipping and oil trade. The attack's proximity to the Gulf of Oman, a critical maritime chokepoint, raises concerns about further disruptions to regional energy supplies.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "Unknown attackers"
+      ],
+      "location": "Off the coast of Oman",
+      "brief": "An unidentified attacker damaged the tanker MKD VYOM off the coast of Oman, escalating maritime tensions amid the US-Iran conflict."
+    }
+  },
+  {
+    "id": "d616360a3ff73e50",
+    "title_original": "В результате иранских ударов по ОАЭ погибли трое человек, 58 пострадали",
+    "content_original": "В результате ударов Ирана по ОАЭ погибли три человека, 58 получили ранения. Об этом рассказали в Министерстве обороны страны, сообщает Gulf News.",
+    "url": "https://www.kommersant.ru/doc/8477474",
+    "published": "2026-03-01T16:37:40+03:00",
+    "fetched_at": "2026-03-01T13:51:21.406404+00:00",
+    "source_name": "Kommersant",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iranian Strikes on UAE Result in Three Deaths and 58 Injuries",
+    "relevant": true,
+    "summary_en": "Iran launched strikes targeting the UAE, resulting in three fatalities and 58 injuries. The UAE Ministry of Defense confirmed the casualties, as reported by Gulf News. This escalation highlights the direct impact of the Iran-US conflict on regional states and raises concerns about further instability in the Gulf.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "deaths",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "UAE",
+      "brief": "Iran launched strikes on the UAE resulting in three deaths and 58 injuries, escalating regional tensions amid the Iran-US conflict."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "d5d31b69bc5dd135",
+    "title_original": "В ВМС Британии сообщили, что у побережья ОАЭ атаке подверглось судно",
+    "content_original": "В ВМС Британии сообщили, что у побережья ОАЭ атаке подверглось судно",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26600099",
+    "published": "2026-03-01T16:34:35+03:00",
+    "fetched_at": "2026-03-01T13:51:16.171833+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "British Navy Reports Ship Attacked Off UAE Coast",
+    "relevant": true,
+    "summary_en": "A British naval vessel was attacked off the coast of the UAE, indicating potential escalation in maritime hostilities in the region. The incident occurred near a critical maritime route, highlighting the ongoing threats to international naval operations in the area. This attack underscores the volatile security situation in the Gulf amid the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "medium",
+      "parties_involved": [
+        "UK",
+        "Iran-aligned forces"
+      ],
+      "location": "UAE coast",
+      "brief": "A British naval vessel was attacked off the UAE coast, indicating potential escalation in maritime hostilities in the region."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
     "id": "b6a0db8ca29ae6ac",
     "title_original": "США и Израиль обстреливают западные границы Ирана, сообщают СМИ",
     "content_original": "США и Израиль обстреливают западные границы Ирана, сообщают СМИ",
@@ -1143,6 +1319,347 @@
     "lng": 51.53
   },
   {
+    "id": "d8883e23b9a82806",
+    "title_original": "وزيرا الخارجية الأردني والعماني يدينان الاعتداءات الإيرانية على بلديهما",
+    "content_original": "عمان في 01 مارس /قنا/ أدان أيمن الصفدي وزير الخارجية الأردني، اليوم، الاعتداء الإيراني على سلطنة عمان.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/1/وزيرا-الخارجية-الاردني-والعماني-يدينان-الاعتداءات-الايرانية-على-بلديهما",
+    "published": "2026-03-01T13:51:25.928700+00:00",
+    "fetched_at": "2026-03-01T13:51:25.928703+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Jordanian and Omani Foreign Ministers Condemn Iranian Attacks on Their Countries",
+    "relevant": true,
+    "summary_en": "Jordanian Foreign Minister Ayman Safadi and his Omani counterpart have condemned recent Iranian attacks on their respective nations. This highlights escalating tensions in the region as Iran expands its retaliatory actions beyond US targets. The statement underscores the regional impact of the ongoing US-Iran conflict and potential risks to neighboring countries.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Jordan",
+        "Oman",
+        "US"
+      ],
+      "location": "Jordan, Oman",
+      "brief": "Iran escalates regional tensions by conducting attacks on Jordan and Oman, prompting condemnation from both nations' foreign ministers."
+    },
+    "lat": 31.17,
+    "lng": 36.94
+  },
+  {
+    "id": "5c5052036a601dad",
+    "title_original": "🇮🇷 ❌ 🇮🇱 ❗️  — A mass casualty incident has been declared in Beit Shemesh, a city near Jerusalem following an Iranian ...",
+    "content_original": "🇮🇷 ❌ 🇮🇱 ❗️ — A mass casualty incident has been declared in Beit Shemesh, a city near Jerusalem following an Iranian missile strike Many wounded and trapped people reported 🔗 Faytuks News (@Faytuks)",
+    "url": "https://t.me/CIG_telegram/69835",
+    "published": "2026-03-01T13:50:40+00:00",
+    "fetched_at": "2026-03-01T13:52:08.526959+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Mass casualty incident in Beit Shemesh after Iranian missile strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a missile strike on Beit Shemesh, a city near Jerusalem, resulting in a mass casualty incident with many wounded and trapped individuals. This represents a significant escalation in the conflict as Iranian forces target Israeli population centers far from the typical conflict zones. The attack highlights the ongoing threat under which Israeli civilians are living amidst the broader regional conflict.",
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "threat",
+      "missile",
+      "wounded",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iran launched a ballistic missile strike on Beit Shemesh, Israel, causing a mass casualty incident and representing a significant escalation in the conflict."
+    },
+    "merged_source_count": 8,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "36ba66b95869da31",
+    "title_original": "#إعلام_العدو  \"قناة كان\" العبرية: طائرة بدون طيار إيرانية مفخخة ضربت شقة يقيم فيها \"إسرائيليون\" بالقرب من أحد مراكز ا...",
+    "content_original": "#إعلام_العدو \"قناة كان\" العبرية: طائرة بدون طيار إيرانية مفخخة ضربت شقة يقيم فيها \"إسرائيليون\" بالقرب من أحد مراكز التمثيل \"الإسرائيلي\" في أبو ظبي وأصيب عدد منهم",
+    "url": "https://t.me/Electrohizbullah/156642",
+    "published": "2026-03-01T13:49:24+00:00",
+    "fetched_at": "2026-03-01T13:52:12.166085+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Explosive Drone Strikes Apartment with Israelis in Abu Dhabi",
+    "relevant": true,
+    "summary_en": "An Iranian explosive-laden drone targeted an apartment in Abu Dhabi housing Israelis near an Israeli diplomatic center, injuring multiple people. This attack demonstrates Iran's willingness to strike Israeli targets in the UAE, escalating regional tensions and posing a direct threat to Israeli nationals abroad. The incident could provoke a response from Israel and its allies, further fueling the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "threat",
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "UAE",
+        "IRGC proxies"
+      ],
+      "location": "Abu Dhabi, UAE",
+      "brief": "An Iranian explosive-laden drone strike on an apartment building in Abu Dhabi housing Israelis near an Israeli diplomatic center resulted in multiple injuries, escalating regional tensions and posing a direct threat to Israeli nationals."
+    },
+    "merged_source_count": 2,
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "021a0b2b2ec18925",
+    "title_original": "Oil tanker bursts into flames after being hit by Iranian drones in Strait of Hormuz as markets brace for price surge in aftermath of attacks",
+    "content_original": "Oil tanker bursts into flames after being hit by Iranian drones in Strait of Hormuz as markets brace for price surge in aftermath of attacks",
+    "url": "https://www.dailymail.co.uk/news/article-15603805/Oil-tanker-bursts-flames-hit-Iranian-drones-Straits-Hormuz-markets-brace-price-surge-aftermath-attacks.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-01T13:49:08+00:00",
+    "fetched_at": "2026-03-01T13:52:02.985353+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iranian drones hit oil tanker in Strait of Hormuz, causing fire",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An oil tanker was struck by Iranian drones in the Strait of Hormuz, resulting in a fire. This incident is likely to cause a surge in oil prices as markets react to the attack. The strategic significance lies in the disruption of maritime traffic in a critical global oil transit chokepoint.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Oil Tanker (unknown nationality)"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "Iranian drones struck an oil tanker in the Strait of Hormuz, causing a fire and likely disrupting global oil transit."
+    },
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": "502f8ab417a454e6",
+    "title_original": "🇮🇷 🇦🇪 Fire in Dubai industrial zone after Iranian strike.",
+    "content_original": "🇮🇷 🇦🇪 Fire in Dubai industrial zone after Iranian strike.",
+    "url": "https://t.me/CIG_telegram/69832",
+    "published": "2026-03-01T13:47:36+00:00",
+    "fetched_at": "2026-03-01T13:52:08.524844+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Fire in Dubai industrial zone after Iranian strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran reportedly struck an industrial zone in Dubai, UAE, causing a fire. This attack on UAE territory represents an escalation of hostilities by Iran against a US ally in the region. The incident highlights the risk of regional conflict spillover and potential disruption to critical infrastructure.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iran escalated regional tensions by striking an industrial zone in Dubai, UAE, causing a fire and highlighting the risk of broader conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "178cb4173117fbf6",
+    "title_original": "🇮🇷 🇦🇪 ⚡️ Explosions in Port Zayed, Abu Dhabi",
+    "content_original": "🇮🇷 🇦🇪 ⚡️ Explosions in Port Zayed, Abu Dhabi",
+    "url": "https://t.me/CIG_telegram/69830",
+    "published": "2026-03-01T13:47:26+00:00",
+    "fetched_at": "2026-03-01T13:52:08.523367+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Explosions in Port Zayed, Abu Dhabi",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Explosions occurred in Port Zayed, Abu Dhabi, likely linked to the ongoing conflict between Iran and the US. This incident is significant as it targets the UAE, a key US ally in the region, and could indicate an escalation in Iranian proxy operations or retaliatory attacks against Gulf states involved in the conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "US",
+        "UAE",
+        "Iranian proxies"
+      ],
+      "location": "Port Zayed, Abu Dhabi, UAE",
+      "brief": "Explosions in Port Zayed, Abu Dhabi, likely a proxy operation linked to the Iran-US conflict, targeting a key US ally in the Gulf region."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "2c5f55721fe5df90",
+    "title_original": "⚡️  An Iranian \"Shahed\" drone reportedly strikes a shopping center in Sharjah, UAE",
+    "content_original": "⚡️ An Iranian \"Shahed\" drone reportedly strikes a shopping center in Sharjah, UAE",
+    "url": "https://t.me/warmonitors/40248",
+    "published": "2026-03-01T13:46:35+00:00",
+    "fetched_at": "2026-03-01T13:52:09.929253+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian Shahed drone Strikes Shopping Center in Sharjah, UAE",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian Shahed drone reportedly hit a shopping center in Sharjah, UAE, marking an escalation of Iranian attacks on Gulf states. This incident could further strain UAE-Iran relations and provoke a response from the US, which maintains a significant military presence in the region. The attack highlights the vulnerability of civilian infrastructure to drone strikes in the ongoing conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "drone",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "US"
+      ],
+      "location": "Sharjah, UAE",
+      "brief": "An Iranian Shahed drone strike on a Sharjah shopping center represents a significant escalation in Iranian attacks on Gulf states, potentially drawing US involvement."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "6ca4fde9040d704e",
+    "title_original": "⚡️ Before and after an Iranian strike on a building in central Israel",
+    "content_original": "⚡️ Before and after an Iranian strike on a building in central Israel",
+    "url": "https://t.me/warmonitors/40247",
+    "published": "2026-03-01T13:46:33+00:00",
+    "fetched_at": "2026-03-01T13:52:09.928562+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian strike hits building in central Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched a strike targeting a building in central Israel, demonstrating an escalation in the conflict as Iranian forces directly attack Israeli territory. This incident signifies a potential expansion of hostilities beyond the current fronts and raises concerns about further escalation between Iran and Israel.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "US"
+      ],
+      "location": "central Israel",
+      "brief": "Iran launched a direct strike on a building in central Israel, escalating regional tensions and signaling potential expansion of hostilities."
+    },
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "6efc20b1015b2022",
+    "title_original": "אסון נפילת הטיל האיראני בבית השמש: תשעה נרצחו, הרס כבד בזירה הקשה",
+    "content_original": "בזירה קשה בבית שמש בה פגע טיל איראני, נקבע מותם של תשעה אנשים ועשרות נפצעו. \"כשהגענו הבחנו בהרס משמעותי בזירה ובדיירים שחולצו מהמבנה\", אמר פרמדיק שהגיע לזירה",
+    "url": "https://www.maariv.co.il/news/israel/article-1290611",
+    "published": "2026-03-01T13:38:02+00:00",
+    "fetched_at": "2026-03-01T13:51:23.351762+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian missile strike in Jerusalem causes deaths and destruction",
+    "relevant": true,
+    "summary_en": "An Iranian missile strike in Jerusalem resulted in nine fatalities and significant destruction, with dozens injured. The incident highlights the escalation of the conflict into Israeli territory and the direct threat posed by Iranian missile capabilities.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "threat",
+      "conflict",
+      "missile",
+      "deaths",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|hezbollah_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "Jerusalem, Israel",
+      "brief": "Iran launched a ballistic missile strike in Jerusalem causing nine fatalities and significant destruction, marking a major escalation in the conflict with direct engagement in Israeli territory."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "be949111360ffee0",
     "title_original": "Ynet: порядка 40 зданий повреждены в центре Израиля при обстреле из Ирана",
     "content_original": "Ynet: порядка 40 зданий повреждены в центре Израиля при обстреле из Ирана",
@@ -1180,6 +1697,44 @@
     "merged_source_count": 2,
     "lat": 31.9,
     "lng": 34.8
+  },
+  {
+    "id": "1d5398ca9413e501",
+    "title_original": "⚡️ The death toll following an Israeli-US strike on a girls school in Iran has reportedly risen to 148",
+    "content_original": "⚡️ The death toll following an Israeli-US strike on a girls school in Iran has reportedly risen to 148",
+    "url": "https://t.me/warmonitors/40245",
+    "published": "2026-03-01T13:36:33+00:00",
+    "fetched_at": "2026-03-01T13:52:09.927434+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Death toll from Israeli-US strike on Iranian girls school rises to 148",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Israeli-US strike targeted a girls school in Iran, resulting in at least 148 fatalities. This incident signifies a significant escalation in the conflict, with potential repercussions for regional stability and international response. The strike's targeting of a civilian facility could provoke further backlash from Iran and its allies.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "US",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "A major escalation occurred with an Israeli-US airstrike on an Iranian civilian facility, resulting in at least 148 fatalities at a girls school."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "79b8e160c2c6d268",

@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T13-49-36.842778_plus_00-00.json",
+    "generated_at": "2026-03-01T13:49:36.842778+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 528,
+    "summary_preview": "The Iran–US armed conflict has escalated to MAJOR severity following a US-Israeli preventive strike on Iran (2026-02-28) that killed Supreme Leader Ayatollah Khamenei and senior IRGC officials. Iran h"
+  },
+  {
     "filename": "2026-03-01T13-20-14.407529_plus_00-00.json",
     "generated_at": "2026-03-01T13:20:14.407529+00:00",
     "threat_label": "MAJOR",
