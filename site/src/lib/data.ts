@@ -18,10 +18,24 @@ function readJSON<T>(filePath: string, fallback: T): T {
   }
 }
 
+/** Returns the effective timestamp used for display (matches formatTimeAgo logic). */
+function effectiveTime(a: Article): number {
+  const now = Date.now();
+  const pub = new Date(a.published).getTime();
+  if (!isNaN(pub) && pub <= now) return pub;
+  // published is future / invalid — fall back to fetched_at
+  const fetched = a.fetched_at ? new Date(a.fetched_at).getTime() : NaN;
+  if (!isNaN(fetched)) return fetched;
+  return 0;
+}
+
 export function getArticlesByRegion(region: RegionKey): Article[] {
   const raw = readJSON<Article[]>(path.join(FEEDS_DIR, `${region}.json`), []);
   // Filter out articles marked as irrelevant by the title-relevance filter
-  return raw.filter((a) => a.relevant !== false);
+  const filtered = raw.filter((a) => a.relevant !== false);
+  // Sort newest first using same effective timestamp as the UI display
+  filtered.sort((a, b) => effectiveTime(b) - effectiveTime(a));
+  return filtered;
 }
 
 export function getAllArticles(): Article[] {
@@ -30,23 +44,15 @@ export function getAllArticles(): Article[] {
   for (const region of regions) {
     all.push(...getArticlesByRegion(region));
   }
-  // Sort by published date, newest first
-  all.sort((a, b) => {
-    const da = new Date(a.published).getTime() || 0;
-    const db = new Date(b.published).getTime() || 0;
-    return db - da;
-  });
+  // Sort by effective timestamp (matches display label), newest first
+  all.sort((a, b) => effectiveTime(b) - effectiveTime(a));
   return all;
 }
 
 export function getAttackArticles(): Article[] {
   const attacks = readJSON<Article[]>(path.join(DATA_DIR, "attacks.json"), []);
   // Always sort most-recent first so #1 is the newest attack
-  attacks.sort((a, b) => {
-    const da = new Date(a.published).getTime() || 0;
-    const db = new Date(b.published).getTime() || 0;
-    return db - da;
-  });
+  attacks.sort((a, b) => effectiveTime(b) - effectiveTime(a));
   return attacks;
 }
 

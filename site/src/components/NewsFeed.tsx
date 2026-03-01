@@ -15,18 +15,23 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
     "all" | "translated" | "pending"
   >("translated");
 
+  function effectiveTime(a: Article): number {
+    const now = Date.now();
+    const pub = new Date(a.published).getTime();
+    if (!isNaN(pub) && pub <= now) return pub;
+    const fetched = a.fetched_at ? new Date(a.fetched_at).getTime() : NaN;
+    if (!isNaN(fetched)) return fetched;
+    return 0;
+  }
+
   const allArticles = Object.values(articlesByRegion)
     .flat()
-    .sort((a, b) => {
-      const da = new Date(a.published).getTime() || 0;
-      const db = new Date(b.published).getTime() || 0;
-      return db - da;
-    });
+    .sort((a, b) => effectiveTime(b) - effectiveTime(a));
 
   const regionArticles =
     activeRegion === "all"
       ? allArticles
-      : articlesByRegion[activeRegion] || [];
+      : (articlesByRegion[activeRegion] || []).slice().sort((a, b) => effectiveTime(b) - effectiveTime(a));
 
   const displayedArticles = regionArticles.filter((a) => {
     if (translationFilter === "translated") return a.translated === true;
