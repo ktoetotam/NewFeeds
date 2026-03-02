@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-02T01:59:08.612528+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 770,
+    "incident_count_6h": 214,
+    "severity_breakdown": {
+      "major": 349,
+      "high": 271,
+      "medium": 147,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 162,
+    "articles_analyzed": 178,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US armed conflict has escalated significantly with confirmed Iranian strikes on a UK military base in Cyprus and attacks on Western oil tankers in the Strait of Hormuz. The death of Iran's Supreme Leader Khamenei has triggered coordinated proxy retaliation from Hezbollah (rockets on Haifa) while Israeli forces intensify operations across Beirut. The 24h incident count has risen to 770, with the conflict now spanning six distinct geographic fronts.",
+  "whats_new": [
+    "UK MOD confirms Iranian drone strike on RAF Akrotiri in Cyprus at midnight local time - Iranian capabilities now extending into Eastern Mediterranean",
+    "IRGC claims strikes on 3 US/British oil tankers attempting to exit Persian Gulf through Strait of Hormuz - targeting Western energy infrastructure",
+    "UK PM Starmer confirms US can use British bases for defensive missile strikes on Iran - direct UK involvement in conflict",
+    "Trump warns 'likely more' US troop deaths before conflict ends, acknowledging 3 killed and 5 seriously wounded in Kuwait strike",
+    "Iranian projectiles fired from Lebanon toward Israeli territory - expanding northern front",
+    "Hezbollah explicitly links Haifa rocket attack to Khamenei assassination, claiming revenge for 'blood of Imam'"
+  ],
+  "confirmed_events": [
+    "Iranian ballistic missiles targeted Israeli Cabinet Committee meeting in Jerusalem during session - direct attack on Israeli leadership",
+    "Bahrain confirms downing 61 missiles and 34 Iranian drones at Salman Port and Fifth Fleet base - major interception effort",
+    "Israeli Defense Forces announce strikes on Hezbollah command centers across Beirut and southern Lebanon - intensified northern campaign",
+    "Hezbollah announces targeting Israeli missile defense site in Haifa with rockets and drones - strategic degradation of Israeli air defense",
+    "Multiple explosions confirmed in Tehran and Karaj as part of ongoing US-Israeli strike campaign on Iranian territory"
+  ],
+  "unverified_emerging": [
+    "Unverified citizen reports claim US fighter jets bombed Tabriz - potential major escalation requiring corroboration (source: citizen reports)",
+    "Approximately 170 students and teachers killed in US-Israel attacks on Iran - casualty figure needs verification (source: RIA Novosti)",
+    "Reports of Iranian Shahed-136 drone flying openly over Dubai - potential intelligence/security concern if confirmed (source: Press TV)"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "All commercial flights to/from Gulf states severely disrupted due to missile activity and airspace closures",
+      "UK advises against all travel to Israel, Lebanon, Iran, Iraq, Kuwait, Bahrain, Qatar",
+      "RAF Akrotiri in Cyprus operational but under active threat - military mobility impacted"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz under active threat with IRGC tanker strikes - global oil supply chain at severe risk",
+      "Salman Port in Bahrain targeted - major Gulf logistics hub disrupted",
+      "Gulf shipping routes facing unprecedented threat levels with multiple commercial vessels targeted"
+    ],
+    "market_macro": [
+      "Global energy markets bracing for shock as Hormuz closure threatens - oil prices spiking",
+      "Saudi Arabia summoned Iran envoy amid escalating Gulf crisis - regional economic partnerships fracturing",
+      "Qatar and Kuwait protest Iranian attacks - US-aligned Gulf states consolidating against Tehran"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict will intensify over the next 24-72h with Iran likely executing additional strikes on Gulf shipping and US regional bases. Khamenei's death creates leadership vacuum but IRGC remains operationally capable - expect continued missile barrages toward Israel and US assets. Hezbollah has committed to sustained operations, signaling the northern front will escalate. UK involvement via Cyprus base strikes now makes this a multi-national conflict.",
+    "escalation_risks": [
+      "Strait of Hormuz closure could trigger global energy crisis and international economic collapse",
+      "Iranian drone strike on Cyprus base may prompt UK direct retaliation - expanding conflict to NATO territory",
+      "Hezbollah targeting Israeli air defense systems could degrade Israel's Iron Dome and invite larger Iranian missile strikes",
+      "Regional spillover: 10 killed in Karachi protests at US consulate - conflict spreading to South Asia",
+      "Syria and Iraq proxy fronts may activate, adding additional US military exposure"
+    ],
+    "de_escalation_pathways": "De-escalation appears unlikely in near-term given Trump administration stance that 'more US deaths expected' and IRGC framing of attacks as defensive retaliation. Only pathway would be complete IRGC military infrastructure destruction or decisive regime change - both requiring sustained major combat operations. International mediation (UN, Russia, China) has not emerged as factor despite global economic stakes."
+  }
+}
