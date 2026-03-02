@@ -1,5 +1,80 @@
 [
   {
+    "id": "249bc5211ad9385d",
+    "title_original": "US-Israel attack Iran: Saudi capital Riyadh becomes evacuation hub for wealthy individuals",
+    "content_original": "Riyadh has become a crucial evacuation hub for wealthy individuals and executives as missile and drone attacks disrupt previously secure Gulf cities. With limited alternatives, the Saudi capital's open airspace and operating airport offer the most viable departure point for those seeking to leave the region.",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-attack-iran-saudi-capital-riyadh-becomes-evacuation-hub-for-wealthy-individuals/articleshow/128939403.cms",
+    "published": "2026-03-02T13:49:53+05:30",
+    "fetched_at": "2026-03-02T08:29:23.934827+00:00",
+    "source_name": "Times of India World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Saudi Capital Riyadh Becomes Evacuation Hub for Wealthy Individuals as Gulf Cities Face Missile Attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Wealthy individuals and executives are fleeing Gulf cities due to missile and drone attacks, with Riyadh emerging as the primary evacuation hub thanks to its open airspace and operating airport. The displacement of wealthy civilians from previously secure Gulf cities signals the widening scope of the conflict beyond military installations to affecting civilian infrastructure and business operations across the region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "Saudi Arabia",
+        "UAE"
+      ],
+      "location": "Gulf region (Saudi Arabia, UAE)",
+      "brief": "Missile and drone attacks on Gulf cities force wealthy civilians to evacuate to Riyadh, marking widening conflict scope beyond traditional battlegrounds."
+    },
+    "lat": 29.9665252,
+    "lng": -85.2175889
+  },
+  {
+    "id": "cb9ea29d104717bc",
+    "title_original": "Pentagon tells Congress no sign that Iran was going to attack U.S. first, sources say",
+    "content_original": "These remarks to Congress appear to undercut one of the key arguments for the war made by senior administration officials: that there were indicators ‌that ⁠Iranians might strike U.S. forces in West Asia “perhaps preemptively”",
+    "url": "https://www.thehindu.com/news/international/pentagon-tells-congress-no-sign-that-iran-was-going-to-attack-us-first-sources-say/article70693907.ece",
+    "published": "2026-03-02T13:40:46+05:30",
+    "fetched_at": "2026-03-02T08:29:23.739762+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Pentagon tells Congress no sign that Iran was going to attack U.S. first, sources say",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Pentagon has informed Congress that US intelligence found no indication Iran was planning to attack US forces first in the region, undermining a key administration justification for launching strikes against Iran. Senior officials had claimed there were indicators Iranians might strike US forces in West Asia 'perhaps preemptively,' but the Pentagon's assessment reportedly contradicts this narrative.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Pentagon",
+        "US Congress"
+      ],
+      "location": "Middle East/Gulf region",
+      "brief": "Pentagon told Congress US intelligence found no indication Iran was planning to attack US forces first, undermining administration justification for launching strikes against Iran."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "21731d1123411c9b",
     "title_original": "War widens across West Asia as U.S., Israel launch joint attack on Iran: In Pictures",
     "content_original": "The killing of Khamenei, and U.S. President Donald Trump’s calls for the overthrow of the decades-old Islamic Republic, marked the start of a stunning new U.S. intervention in West Asia and potentially a prolonged war",
@@ -184,6 +259,46 @@
     "lng": 51.39
   },
   {
+    "id": "63019161b2eb0730",
+    "title_original": "العربية: مقتل نائب الأمين العام لحزب الله بغارات اسرائيلية",
+    "content_original": "عمون - أفادت، مصادر صباح اليوم الإثنين الاثنين، بمقتل رئيس كتلة نواب حزب الله محمد رعد في الغارات الإسرائيلية، وأفادت وزارة الصحة اللبنانية بسقوط 31 قتيلا و149 جريحاً حصيلة أولية للغارات الاسرائيلية على لبنان. يأتي ذلك فيما أكد الرئيس اللبناني جوزيف عون بأن إطلاق الصواريخ على إسرائيل يضر بالجهود الرامية إلى تجنيب لبنان الصراع الإقليمي، فيما أفادت وسائل إعلام بإغلاق جميع المدارس والمؤسسات التربوية في لبنان بقرار من وزارة التربية.",
+    "url": "http://www.sahafi.jo/files/art.php?id=e9639119c489a37855f44e57e2e998fc455886a0",
+    "published": "2026-03-02T12:00:00-05:00",
+    "fetched_at": "2026-03-02T08:28:49.629971+00:00",
+    "source_name": "Sahafi Jordan",
+    "source_category": "independent",
+    "language": "ar",
+    "region": "middle_east",
+    "skip_translation": false,
+    "title_en": "Hezbollah parliamentary bloc head killed in Israeli airstrikes on Lebanon",
+    "summary_en": "Israeli airstrikes on Lebanon killed Muhammad Raad, head of Hezbollah's parliamentary bloc, with the Lebanese Health Ministry reporting 31 killed and 149 wounded in initial casualty figures. Lebanese President Joseph Aoun stated that rocket attacks on Israel undermine efforts to protect Lebanon from the regional conflict, while all schools and educational institutions in Lebanon have been ordered closed by the Education Ministry. The targeting of senior Hezbollah political leadership represents a significant",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "conflict",
+      "rocket",
+      "wounded",
+      "killed",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon",
+        "Iran"
+      ],
+      "location": "Lebanon",
+      "brief": "Israeli airstrikes killed Muhammad Raad, head of Hezbollah's parliamentary bloc, along with 30 others with 149 wounded, in a major strike against Iran-linked proxy leadership."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "f0d1d402501545aa",
     "title_original": "Israeli airstrikes kill at least 31 in Lebanon after Hezbollah attack, says health ministry",
     "content_original": "The violence intensifies the ongoing conflict in the Middle East, coinciding with US warnings for Americans in Kuwait.",
@@ -224,6 +339,233 @@
     "lng": 35.86
   },
   {
+    "id": "c9d9d33e41881671",
+    "title_original": "555 иранцев погибли в результате ударов США и Израиля с 28 февраля",
+    "content_original": "555 иранцев погибли в результате ударов США и Израиля с 28 февраля",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26608739",
+    "published": "2026-03-02T11:26:40+03:00",
+    "fetched_at": "2026-03-02T08:28:24.583487+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "555 Iranians killed in US and Israel strikes since February 28",
+    "relevant": true,
+    "summary_en": "At least 555 Iranian nationals have been killed as a result of coordinated US and Israeli military strikes beginning February 28. The casualties include both military personnel and civilians, representing a significant escalation in the ongoing Iran-United States armed conflict. The strikes target IRGC assets, nuclear facilities, and positions across Iran, marking a substantial intensification of hostilities in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "nuclear",
+      "irgc",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Iran",
+      "brief": "At least 555 Iranian nationals killed in coordinated US and Israeli military strikes since February 28, marking a significant escalation in the Iran-US armed conflict."
+    },
+    "merged_source_count": 6,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "371d192ee2ab3c90",
+    "title_original": "Tasnim: в провинции Восточный Азербайджан погибли 27 человек",
+    "content_original": "По данным агентства, 1 марта в городе Мераге из-за атаки погибли 15 человек",
+    "url": "https://tass.ru/proisshestviya/26608645",
+    "published": "2026-03-02T11:24:23+03:00",
+    "fetched_at": "2026-03-02T08:28:24.584520+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "27 people killed in East Azerbaijan province",
+    "summary_en": "According to Tasnim agency, on March 1 in the city of Maragheh (Merageh) in East Azerbaijan province, 15 people were killed due to an attack. The total death toll in the province reached 27 people. The agency did not specify who carried out the attack or provide further",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "death",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "major",
+      "parties_involved": [
+        "Unknown"
+      ],
+      "location": "Maragheh, East Azerbaijan province, Iran",
+      "brief": "Unspecified attack killed 27 people in East Azerbaijan province, perpetrator not identified"
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "4f65208e01d8fd5c",
+    "title_original": "31 شهيدًا و149 جريحًا حصيلة أولية للعدوان الصهيوني على لبنان",
+    "content_original": "متابعات | المسيرة نت: استشهد 31 لبنانيا واصيب 149 اخرون بغارات العدو الصهيوني التي استهدفت الضاحية الجنوبية لبيروت والجنوب اللبناني.",
+    "url": "https://almasirah.net.ye/static/static/3d1586dd-131c-424a-ab4a-57f0572e2eb0.jpg",
+    "published": "2026-03-02T11:22:51+00:00",
+    "fetched_at": "2026-03-02T08:29:05.140173+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "31 martyrs and 149 wounded initial toll for Israeli aggression on Lebanon",
+    "relevant": true,
+    "summary_en": "Israeli airstrikes targeted the southern suburbs of Beirut and southern Lebanon, resulting in 31 killed and 149 wounded according to initial casualty figures. The attacks represent an escalation in Israeli operations against Lebanese territory as part of the ongoing regional conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "wounded",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Beirut southern suburbs and southern Lebanon",
+      "brief": "Israeli airstrikes on Beirut's southern suburbs and southern Lebanon killed 31 people and wounded 149, marking a significant escalation in Israeli operations against Iranian-backed Hezbollah forces."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "1dcb511052199037",
+    "title_original": "Обломки БПЛА повредили кровлю дома на Кубани",
+    "content_original": "Обломки БПЛА повредили кровлю дома на Кубани",
+    "url": "https://ria.ru/20260302/oblomki-2077822950.html",
+    "published": "2026-03-02T11:18:36+03:00",
+    "fetched_at": "2026-03-02T08:28:24.836565+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drone debris damages roof of house in Krasnodar Krai",
+    "relevant": true,
+    "summary_en": "Drone debris fell and damaged the roof of a residential house in Russia's Krasnodar Krai region. The incident appears to be related to Ukrainian drone attacks on Russian territory, marking another instance of cross-border drone strikes impacting civilian infrastructure in southern Russia.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [
+        "Ukraine",
+        "Russia"
+      ],
+      "location": "Krasnodar Krai, Russia",
+      "brief": "Ukrainian drone debris damaged residential roof in southern Russia, unrelated to Iran-US conflict"
+    },
+    "lat": 45.7684014,
+    "lng": 39.0261044
+  },
+  {
+    "id": "4b180afdd55b136f",
+    "title_original": "В иракском Курдистане над аэропортом сбили дроны",
+    "content_original": "В иракском Курдистане над аэропортом сбили дроны",
+    "url": "https://ria.ru/20260302/erbil-2077821566.html",
+    "published": "2026-03-02T11:16:10+03:00",
+    "fetched_at": "2026-03-02T08:28:24.837326+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Drones Shot Down Over Airport in Iraqi Kurdistan",
+    "relevant": true,
+    "summary_en": "Unidentified drones were intercepted and shot down over an airport in Iraqi Kurdistan. The incident occurred amid heightened tensions in the region, with Iranian proxy forces and IRGC-linked groups frequently targeting US assets and bases throughout Iraq. The air defense action underscores the ongoing threat environment in northern Iraq, where US forces and allied installations remain on alert for drone and missile attacks.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "air defense",
+      "threat",
+      "proxy",
+      "irgc",
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Iranian proxy forces",
+        "United States",
+        "Iraq",
+        "Iraqi Kurdistan"
+      ],
+      "location": "Iraqi Kurdistan",
+      "brief": "Unidentified drones shot down over airport in Iraqi Kurdistan amid heightened tensions with Iranian proxy forces and IRGC-linked groups targeting US assets in Iraq."
+    },
+    "lat": 36.4239244,
+    "lng": 44.3283934
+  },
+  {
+    "id": "fe0f4d0831ba4265",
+    "title_original": "صحة لبنان: 31 شهيدًا و149 جريحًا حصيلة أولية للعدوان الصهيوني",
+    "content_original": "استشهد 31 لبنانيا واصيب 149 اخرون بغارات العدو الصهيوني التي استهدفت الضاحية الجنوبية لبيروت والجنوب اللبناني....",
+    "url": "https://www.alalam.ir/news/7420928",
+    "published": "2026-03-02T11:03:29+00:00",
+    "fetched_at": "2026-03-02T08:28:08.778033+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Lebanon Health Ministry: 31 Martyred, 149 Wounded in Initial Toll from Zionist Aggression",
+    "relevant": true,
+    "summary_en": "Lebanese health authorities report 31 killed and 149 wounded in initial casualties from Israeli airstrikes targeting Beirut's southern suburbs and southern Lebanon. The attacks represent an escalation in the ongoing conflict between Israel and Hezbollah, a key Iranian proxy force in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "wounded",
+      "killed",
+      "hezbollah",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Beirut, Lebanon / Southern Lebanon",
+      "brief": "Israeli airstrikes on Beirut's southern suburbs and southern Lebanon killed 31 and wounded 149, marking a major escalation in Israel-Hezbollah conflict involving Iranian proxy forces."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "fdbcb3cbec0b4a25",
     "title_original": "В иракском Эрбиле отражают атаку на аэропорт, пишет Al Jazeera",
     "content_original": "В иракском Эрбиле отражают атаку на аэропорт, пишет Al Jazeera",
@@ -260,6 +602,84 @@
     },
     "lat": 33.1,
     "lng": 44.17
+  },
+  {
+    "id": "c6deb25d2c22f853",
+    "title_original": "דובר צה\"ל: \"חיזבאללה בחר שוב באיראן, וישלם מחיר\"",
+    "content_original": "דובר צה\"ל פתח הבוקר (שני) בהצהרה לתקשורת ברקע כניסת ארגון הטרור חיזבאללה למערכה הלילה - ואמר: \"חיזבאללה פתח באש וישלם מחיר כבד. הזהרנו מראש את חיזבאללה מה יהיה מחיר הפגיעה במדינת ישראל ולהתייצב לצד איראן. ארגון הטרור עשה טעות חמורה. צה\"ל מגיב ויגיב בעוצמה. תקפנו בכירים בחיזבאללה, מהאחרונים שנשארו. חיזבאללה ישלם מחיר כבד מאוד על כך\".",
+    "url": "https://mivzakim.net/r/13965970/rss",
+    "published": "2026-03-02T10:22:46+02:00",
+    "fetched_at": "2026-03-02T08:28:32.393439+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Spokesperson: 'Hezbollah chose Iran again, and will pay the price'",
+    "relevant": true,
+    "summary_en": "The IDF spokesperson announced that Israel will make Hezbollah pay a heavy price for opening fire and aligning with Iran, stating that senior Hezbollah officials were targeted in recent strikes. The spokesperson warned that Israel had pre-warned Hezbollah about the consequences of harming Israel and standing with Iran, describing the group's decision as a serious mistake.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "idf",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel/Lebanon border",
+      "brief": "IDF spokesperson warns Hezbollah will pay heavy price for opening fire and aligning with Iran, announcing senior Hezbollah officials were targeted in recent strikes."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "e95611566125b5d4",
+    "title_original": "ЦАХАЛ бомбит в Ливане. Израильтян готовят ко многим дням наступательной операции против Хизбаллы",
+    "content_original": "ЦАХАЛ бомбит в Ливане. Израильтян готовят ко многим дням наступательной операции против Хизбаллы",
+    "url": "https://news.israelinfo.co.il/141632",
+    "published": "2026-03-02T10:22:33+02:00",
+    "fetched_at": "2026-03-02T08:28:29.583011+00:00",
+    "source_name": "IsraelInfo Events",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF bombs in Lebanon. Israelis being prepared for many days of offensive operation against Hezbollah",
+    "relevant": true,
+    "summary_en": "The Israel Defense Forces (IDF) are conducting bombing operations in Lebanon, and Israeli authorities are preparing the domestic population for a prolonged multi-day ground offensive operation against Hezbollah. This represents a significant escalation in the northern front of the ongoing regional conflict, with Hezbollah being a key IRGC proxy force.",
+    "translated": true,
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "proxy",
+      "offensive",
+      "conflict",
+      "hezbollah",
+      "idf",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah",
+        "IDF"
+      ],
+      "location": "Lebanon",
+      "brief": "IDF conducting bombing operations in Lebanon while preparing Israeli population for prolonged ground offensive against Hezbollah, marking significant escalation in northern front."
+    },
+    "merged_source_count": 3,
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "70fb9cde668ab495",
@@ -415,6 +835,45 @@
     "lng": 54.56
   },
   {
+    "id": "3cfe346416069c42",
+    "title_original": "דובר צה\"ל: תקפנו בכירים בחיזבאללה, יותר מ-100 חימושים הוטלו הבוקר בטהרן",
+    "content_original": "דובר צה\"ל: תקפנו בכירים בחיזבאללה, יותר מ-100 חימושים הוטלו הבוקר בטהרן",
+    "url": "https://mivzakim.net/r/13965938/rss",
+    "published": "2026-03-02T10:11:40+02:00",
+    "fetched_at": "2026-03-02T08:28:32.396739+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Spokesperson: We attacked Hezbollah senior officials, over 100 munitions launched this morning in Tehran",
+    "relevant": true,
+    "summary_en": "IDF claims it attacked Hezbollah senior officials, with reports of over 100 munitions launched in Tehran on Tuesday morning. The strike appears to target Iranian-backed Hezbollah leadership, representing an escalation in Israeli operations against Iran-linked proxies amid the broader regional conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "idf",
+      "strike",
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Israel's IDF launched over 100 munitions striking Hezbollah senior officials in Tehran, marking a significant escalation in Israeli operations against Iranian-backed proxies."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "246f74eda58e995e",
     "title_original": "Иран подтвердил десятую волну атак с использованием ракет",
     "content_original": "Иран подтвердил десятую волну атак с использованием ракет",
@@ -448,6 +907,43 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "4b6371bea54322cc",
+    "title_original": "דובר צה\"ל לגבי תמרון קרקעי בלבנון: \"כל האפשרויות על השולחן\"",
+    "content_original": "דובר צה\"ל מכריז על העמקת הפגיעה באיראן ומזהיר את חיזבאללה מפני \"טעות חמורה\". בשעה שמאות מטוסי קרב תוקפים תשתיות טרור, צה\"ל נערך בגבול הצפון למערכה כוללת",
+    "url": "https://mivzakim.net/r/13965932/rss",
+    "published": "2026-03-02T10:10:05+02:00",
+    "fetched_at": "2026-03-02T08:28:32.397111+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Spokesperson on Lebanon Ground Operation: 'All Options on the Table'",
+    "relevant": true,
+    "summary_en": "The IDF spokesperson announced deepening strikes on Iran and warned Hezbollah of a 'serious mistake' as hundreds of fighter jets attack terror infrastructure. Israel is deploying forces along the northern border in preparation for a potential full-scale campaign against Hezbollah in Lebanon, signaling heightened escalation in the northern front.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "idf",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "military_deployment",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Israel deploys forces along northern border and conducts hundreds of airstrikes on Hezbollah infrastructure with warnings of potential ground operation."
+    },
+    "lat": 33.1,
+    "lng": 35.3
   },
   {
     "id": "4544555fd6a01c29",
@@ -525,6 +1021,45 @@
     "merged_source_count": 3,
     "lat": 33.85,
     "lng": 35.86
+  },
+  {
+    "id": "8e9bcf58e1442786",
+    "title_original": "חיל האוויר תוקף כעת כפרים בדרום לבנון",
+    "content_original": "חיל האוויר תוקף כעת כפרים בדרום לבנון",
+    "url": "https://mivzakim.net/r/13965913/rss",
+    "published": "2026-03-02T10:04:56+02:00",
+    "fetched_at": "2026-03-02T08:28:33.842559+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli Air Force attacking villages in southern Lebanon",
+    "relevant": true,
+    "summary_en": "The Israeli Air Force is currently conducting airstrikes against villages in southern Lebanon. This marks an escalation of the northern front involving Hezbollah, an Iranian proxy force. The strikes represent continued cross-border hostilities connected to the broader Iran-US conflict and IRGC-linked proxy operations in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "proxy",
+      "irgc",
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran",
+        "Lebanon"
+      ],
+      "location": "southern Lebanon",
+      "brief": "Israeli Air Force conducting airstrikes against villages in southern Lebanon in an escalation involving Hezbollah Iranian proxy forces."
+    },
+    "lat": 33.54,
+    "lng": 35.37
   },
   {
     "id": "99e513d013e24e9a",
@@ -1691,6 +2226,42 @@
     "lng": 32.8899027
   },
   {
+    "id": "ea27bf804d1e3df3",
+    "title_original": "الرئيس القبرصي يعلن اصطدام طائرة مسيرة بقاعدة أكروتيري الجوية البريطانية",
+    "content_original": "نيقوسيا في 02 مارس /قنا/ أعلن الرئيس القبرصي نيكوس خريستودوليدس عن اصطدام طائرة مسيرة من طراز \"شاهد\" بقاعدة أكروتيري الجوية البريطانية ما أدى إلى وقوع أضرار طفيفة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/الرييس-القبرصي-يعلن-اصطدام-طايرة-مسيرة-بقاعدة-اكروتيري-الجوية-البريطانية",
+    "published": "2026-03-02T08:28:37.416055+00:00",
+    "fetched_at": "2026-03-02T08:28:37.416058+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Cyprus President announces Shahed drone collision with British Akrotiri air base",
+    "relevant": true,
+    "summary_en": "A Shahed-type drone (Iranian-made) struck the British Akrotiri air base in Cyprus, causing minor damage. This incident demonstrates the expanding reach of Iranian-origin drones targeting Western military installations beyond the traditional Gulf conflict zones.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Kingdom",
+        "Houthis"
+      ],
+      "location": "Cyprus (Akrotiri air base)",
+      "brief": "An Iranian-made Shahed drone struck the British Akrotiri air base in Cyprus, causing minor damage and demonstrating the expanding reach of Iranian-origin drones beyond traditional Gulf conflict zones."
+    },
+    "lat": 34.5803747,
+    "lng": 32.9864312
+  },
+  {
     "id": "b146339b88321438",
     "title_original": "בצל הירי לישראל ותקיפות צה\"ל: ממשלת לבנון התכנסה לישיבת חירום",
     "content_original": "בצל הירי לישראל ותקיפות צה\"ל: ממשלת לבנון התכנסה לישיבת חירום",
@@ -1729,6 +2300,43 @@
     "lng": 35.3
   },
   {
+    "id": "5be59ddeb563de75",
+    "title_original": "Vicky Pattison insists Dubai is in the 'safest country in the world' as suicide drones bombard emirate and celebs and influencers seek shelter",
+    "content_original": "Vicky Pattison insists Dubai is in the 'safest country in the world' as suicide drones bombard emirate and celebs and influencers seek shelter",
+    "url": "https://www.dailymail.co.uk/tvshowbiz/article-15605615/Vicky-Pattison-brands-UAE-safest-country-world-reveals-evacuated-hotel-two-days-ago-Dubai-hit-missile-strikes-suicide-drones.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "published": "2026-03-02T08:27:23+00:00",
+    "fetched_at": "2026-03-02T08:29:39.239939+00:00",
+    "source_name": "Daily Mail",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Vicky Pattison insists Dubai is in the 'safest country in the world' as suicide drones bombard emirate and celebs and influencers seek shelter",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Celebrity Vicky Pattison claimed Dubai is the 'safest country in the world' as reports emerged of suicide drones striking the emirate, forcing celebrities and influencers to seek shelter. The incident marks a significant escalation in the Iran-US conflict, with attacks now targeting the UAE commercial hub and threatening international business interests in the Gulf region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "suicide",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike|houthi_attack",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "United Arab Emirates",
+        "Houthis"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Suicide drones struck Dubai emirate, forcing celebrities and influencers to seek shelter in what marks a significant escalation in Iran-US conflict with attacks now targeting the UAE."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "33a4a149a8ee4001",
     "title_original": "Иран сообщил о запуске ракет в сторону позиций противника",
     "content_original": "Иран сообщил о запуске ракет в сторону позиций противника",
@@ -1764,6 +2372,77 @@
     "lng": 47.0
   },
   {
+    "id": "ff51b626a4c61a3c",
+    "title_original": "الحرس الثورى الإيرانى: قصفنا مقر الحكومة الإسرائيلية فى تل أبيب",
+    "content_original": "كشف الحرس الثوري الإيراني، اليوم الاثنين، عن قصفه مقر الحكومة الإسرائيلية في تل أبيب ومراكز عسكرية بحيفا والقدس المحتلة. وقال الحرس الثوري الإيراني: &#8220;حذّرنا من تداعيات توسع نطاق الهجوم&#8221;، فيما شدد على أن صفارات الإنذار في إسرائيل لن تتوقف. وذكر الحرس الثوري، في بيان: &#8220;ننصح سكان الأراضي المحتلة بالابتعاد عن القواعد العسكرية والمراكز الأمنية والحكومية&#8221;، مشيرًا إلى أنه &#8220;سبق وأن حذّر من توسيع نطاق الهجوم وأن صفارات الإنذار في إسرائيل لن تتوقف&#8221;. وأضاف البيان أن موجة الهجمات العاشرة من عملية&#8221; الوعد الصادق 4&#8243;، استهدفت حكومة الاحتلال في تل أبيب ومراكز عسكرية بحيفا والقدس. وكانت إيران، قد شنت صباح اليوم، هجومًا مُركَّبًا استهدف إسرائيل وقواعد أمريكية في عدد من دول المنطقة، وسط حالة استنفار واسعة وتفعيل أنظمة الدفاع الجوي. ويأتي ذلك غداة هجمات واسعة شنتها الولايات المتحدة وإسرائيل على إيران، أسفرت عن مقتل المرشد الأعلى الإيراني علي خامنئي وعدد من كبار المسؤولين، مما دفع طهران إلى شن هجمات انتقامية استهدفت مواقع إسرائيلية وأمريكية في مختلف أنحاء المن...",
+    "url": "https://www.nile.eg/%d8%a7%d9%84%d8%ad%d8%b1%d8%b3-%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%89-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%89-%d9%82%d8%b5%d9%81%d9%86%d8%a7-%d9%85%d9%82%d8%b1-%d8%a7%d9%84%d8%ad%d9%83%d9%88",
+    "published": "2026-03-02T08:25:27+00:00",
+    "fetched_at": "2026-03-02T08:28:55.487768+00:00",
+    "source_name": "Nile News Egypt",
+    "source_category": "state",
+    "language": "ar",
+    "region": "middle_east",
+    "skip_translation": false,
+    "title_en": "Iranian Revolutionary Guard: We bombed Israeli government headquarters in Tel Aviv",
+    "relevant": true,
+    "summary_en": "The Iranian Revolutionary Guard (IRGC) claimed responsibility for striking the Israeli government headquarters in Tel Aviv, as well as military centers in Haifa and occupied Jerusalem. This wave (the 10th) of the 'Promise of the Honest 4' operation targeted Israeli government and military installations. The IRGC warned that Israeli air raid sirens would continue and advised civilians to stay away from military and government centers, indicating continued escalation.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "irgc",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran (IRGC)",
+        "Israel"
+      ],
+      "location": "Tel Aviv, Haifa, Jerusalem (Israel)",
+      "brief": "IRGC claimed responsibility for the 10th wave of 'Promise of the Honest 4' operation striking Israeli government headquarters in Tel Aviv and military centers in Haifa and occupied Jerusalem."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "41e39c44e1a4af27",
+    "title_original": "حملات موشکی ارتش به پایگاه هوایی آمریکا در کویت",
+    "content_original": "شفقنا- یگان‌های موشکی ارتش جمهوری اسلامی ایران، پایگاه‌های آمریکا در منطقه را مورد هدف حملات موشکی قرار دادند. به گزارش شفقنا، بر اساس اطلاعیه شماره ۶ ارتش جمهوری اسلامی ایران، یگان‌های موشکی نیروهای زمینی و دریایی ارتش از مناطق مختلف، در ساعات گذشته پایگاه هوایی علی السالم آمریکا در کویت و شناورهای دشمن در شمال [&#8230;] نوشته حملات موشکی ارتش به پایگاه هوایی آمریکا در کویت اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2223197/",
+    "published": "2026-03-02T08:23:33+00:00",
+    "fetched_at": "2026-03-02T08:28:14.119588+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Army Missile Attacks on US Airbase in Kuwait",
+    "relevant": true,
+    "summary_en": "Iran's Islamic Republic Army missile units (ground and naval forces) launched missile attacks targeting the US Ali Al-Salem airbase in Kuwait and enemy vessels in the northern region, according to Army Communiqué No. 6. This represents a direct Iranian strike against US military infrastructure in the region, marking a significant escalation in the ongoing Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Kuwait (Ali Al-Salem airbase)",
+      "brief": "Iranian Army missile units launched ballistic missile attacks directly targeting US Ali Al-Salem airbase in Kuwait, marking direct Iranian strike on US military infrastructure."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "0b244a9e2ed4a3fb",
     "title_original": "6 حمله موشکی رژیم صهیونی به مناطق مسکونی سنندج",
     "content_original": "رژیم صهیونی 6 بار نقاط مختلف ‌سنندج را بمباران‌کرد.",
@@ -1797,6 +2476,45 @@
     },
     "lat": 35.3126047,
     "lng": 46.9978639
+  },
+  {
+    "id": "50992e7309546d65",
+    "title_original": "«سرایا أولیاء الدم»: با چندین فروند پهپاد به پایگاه آمریکایی‌ها در فرودگاه بغداد حمله کردیم",
+    "content_original": "شفقنا-گروه عراقی «سرایا اولیا الدم از حمله پهپادی به پایگاه نظامی ویکتوریای آمریکا در فرودگاه بغداد خبر داد. به گزارش شفقنا، سرایا اولیا الدم در بیانیه‌ای اعلام کرد: «در پایبندی به وظیفه شروعی خود و در قصاص خون ولی خدا امام شهید سید علی حسینی خامنه‌ای و در حمایت از جمهوری اسلامی ایران، مجاهدان سلحشور [&#8230;] نوشته «سرایا أولیاء الدم»: با چندین فروند پهپاد به پایگاه آمریکایی‌ها در فرودگاه بغداد حمله کردیم اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2223195/",
+    "published": "2026-03-02T08:19:39+00:00",
+    "fetched_at": "2026-03-02T08:28:14.119821+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Saraya Olya al-Dam: We Attacked American Base at Baghdad Airport with Several Drones",
+    "relevant": true,
+    "summary_en": "The Iraqi group Saraya Olya al-Dam claimed responsibility for a drone attack on the American Victoria Base at Baghdad Airport. In their statement, the group declared the attack was carried out in support of the Islamic Republic of Iran and in retaliation for the killing of the 'martyr leader' (referring to Iranian leadership). This attack represents another IRGC-linked proxy operation against US forces in Iraq as part of the ongoing Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "proxy",
+      "irgc",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Saraya Olya al-Dam",
+        "United States",
+        "Iran"
+      ],
+      "location": "Baghdad Airport, Iraq",
+      "brief": "Iraqi group Saraya Olya al-Dam claimed drone attack on US Victoria Base at Baghdad Airport in support of Iran, marking another proxy strike against American forces in Iraq."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "375f23fee478349d",
@@ -1907,6 +2625,232 @@
     },
     "lat": 33.06,
     "lng": 35.24
+  },
+  {
+    "id": "a8409abeab3465e5",
+    "title_original": "British military base in Cyprus targeted in suspected drone attack",
+    "content_original": "The attack marks the first strike on a British military base in Cyprus since 1986, escalating regional tensions.",
+    "url": "https://www.aljazeera.com/news/2026/3/2/british-military-base-in-cyprus-targeted-in-suspected-drone-attack?traffic_source=rss",
+    "published": "2026-03-02T08:13:09+00:00",
+    "fetched_at": "2026-03-02T08:28:39.365002+00:00",
+    "source_name": "Al Jazeera English",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "British military base in Cyprus targeted in suspected drone attack",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A suspected drone attack targeted a British military base in Cyprus, marking the first strike on such a UK installation since 1986. The attack represents an escalation of regional tensions and marks a significant expansion of hostile operations beyond the primary Iran-US conflict zones into additional US-allied territories in the Eastern Mediterranean.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "United Kingdom",
+        "Iran-backed proxies"
+      ],
+      "location": "Cyprus",
+      "brief": "Suspected drone attack on British military base in Cyprus marks first strike on UK installation since 1986, representing significant escalation of regional tensions beyond primary Iran-US conflict zones."
+    },
+    "lat": 34.9174159,
+    "lng": 32.8899027
+  },
+  {
+    "id": "4579619fcfbf2ff4",
+    "title_original": "#BREAKING   🇮🇱 🇺🇸 🇸🇦 ❌ 🇮🇷  —  Iranian Shahed-136 drone struck ARAMCO oil refineries.",
+    "content_original": "#BREAKING 🇮🇱 🇺🇸 🇸🇦 ❌ 🇮🇷 — Iranian Shahed-136 drone struck ARAMCO oil refineries.",
+    "url": "https://t.me/CIG_telegram/70004",
+    "published": "2026-03-02T08:05:53+00:00",
+    "fetched_at": "2026-03-02T08:29:44.552759+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian Shahed-136 drone struck ARAMCO oil refineries",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian forces launched a Shahed-136 drone strike targeting ARAMCO oil refineries in Saudi Arabia. The attack on this critical energy infrastructure represents a significant escalation, expanding hostilities beyond direct US military targets to include key allied energy assets in the Gulf region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Saudi Arabia"
+      ],
+      "location": "Saudi Arabia",
+      "brief": "Iranian Shahed-136 drone strike targeted ARAMCO oil refineries in Saudi Arabia, marking a significant escalation targeting critical allied energy infrastructure in the Gulf region."
+    },
+    "merged_source_count": 2,
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
+    "id": "57e873c553259def",
+    "title_original": "🚨 انصار الله یمن حمله پهپادی علیه پالایشگاه ارامکوی عربستان را رسماً آغاز کرد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ...",
+    "content_original": "🚨 انصار الله یمن حمله پهپادی علیه پالایشگاه ارامکوی عربستان را رسماً آغاز کرد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45101",
+    "published": "2026-03-02T08:05:19+00:00",
+    "fetched_at": "2026-03-02T08:29:47.016246+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Ansar Allah Yemen officially launches drone attack on Saudi Aramco refinery",
+    "relevant": true,
+    "summary_en": "The Houthi movement (Ansar Allah) in Yemen announced the official launch of drone attacks targeting Saudi Aramco refineries in Saudi Arabia. This represents an escalation in Houthi operations against Saudi energy infrastructure, continuing their campaign of strikes on Gulf states linked to the broader Iran-US conflict and the Red Sea maritime front.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "ansar allah",
+      "drone",
+      "houthi"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis (Ansar Allah)",
+        "Saudi Arabia",
+        "Iran (proxy support)"
+      ],
+      "location": "Yemen/Saudi Arabia",
+      "brief": "Houthis launch drone attack on Saudi Aramco refinery in escalation of attacks on Gulf energy infrastructure"
+    },
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
+    "id": "22cf6efa858d9e60",
+    "title_original": "🇮🇱 ⚔️ 🇱🇧 🇱🇧   Israel bombed Lebanon earlier today, striking the suburbs of Beirut, the Bekaa Valley and other alleged...",
+    "content_original": "🇮🇱 ⚔️ 🇱🇧 🇱🇧 Israel bombed Lebanon earlier today, striking the suburbs of Beirut, the Bekaa Valley and other alleged, Hezbollah sites, in southern Lebanon. At least 31 people were killed as a result. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70003",
+    "published": "2026-03-02T08:05:17+00:00",
+    "fetched_at": "2026-03-02T08:29:44.551627+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Israel bombs Lebanon, striking Beirut suburbs, Bekaa Valley, and Hezbollah sites; at least 31 killed",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli forces conducted airstrikes across Lebanon targeting Beirut suburbs, the Bekaa Valley, and Hezbollah sites in southern Lebanon, resulting in at least 31 casualties. This represents an escalation in Israeli operations against Hezbollah, an Iranian proxy group that is part of the broader Iran-US conflict network and active front in the region.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "proxy",
+      "killed",
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Lebanon - Beirut suburbs, Bekaa Valley, southern Lebanon",
+      "brief": "Israeli airstrikes across Lebanon killed at least 31 people, targeting Hezbollah sites in Beirut suburbs, Bekaa Valley, and southern Lebanon, marking an escalation in Israeli operations against the Iranian proxy group."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "99aba5029b8dfab4",
+    "title_original": "Drone strike hits Aramco oil refinery in Saudi Arabia",
+    "content_original": "Drone strike hits Aramco oil refinery in Saudi Arabia Submitted by MEE staff on Mon, 03/02/2026 - 08:02 Ras Tanura facility shut as precaution as source says situation under control Off A drone strike hit Saudi Arabia’s Aramco refinery in Ras Tanura, according to Reuters. The facility, located on the kingdom’s eastern coast, was shut down as a precautionary measure following the attack. A source told Reuters that the situation was under control. More to follow... US and Israel attack Iran News Post Date Override 0 Update Date Mon, 05/04/2020 - 21:19 Update Date Override 0",
+    "url": "https://www.middleeasteye.net/news/drone-strike-hits-aramco-oil-refinery-saudi-arabia",
+    "published": "2026-03-02T08:04:50+00:00",
+    "fetched_at": "2026-03-02T08:28:41.187381+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Drone strike hits Aramco oil refinery in Saudi Arabia",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A drone strike hit Saudi Arabia's Aramco oil refinery in Ras Tanura, located on the kingdom's eastern coast. The facility was shut down as a precautionary measure, though a source said the situation was under control. This attack on critical oil infrastructure highlights the vulnerability of Saudi energy facilities in the context of the ongoing Iran-US conflict and regional hostilities.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "strike",
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Saudi Arabia"
+      ],
+      "location": "Ras Tanura, Saudi Arabia (eastern coast)",
+      "brief": "A drone strike targeted Aramco's oil refinery in Ras Tanura, Saudi Arabia, hitting critical oil infrastructure and demonstrating continued vulnerability of Saudi energy facilities to Houthi attacks."
+    },
+    "merged_source_count": 2,
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
+    "id": "993024de0f223f7f",
+    "title_original": "پایگاه نیروی هوایی بریتانیا در قبرس هدف حمله پهپادی قرار گرفت/لندن اجازه استفاده از پایگاه‌های نظامی خود برای حمله به تهران را صادر کرد",
+    "content_original": "شفقنا &#8211; مقامات قبرس و وزارت دفاع بریتانیا اعلام کردند که پایگاه نیروی هوایی سلطنتی بریتانیا، آکروتیری، در قبرس مورد حمله پهپادی قرار گرفته و خسارات محدودی به بار آمد ولی تلفات جانی در پی نداشته است. به گزارش سرویس ترجمه شفقنا، در یک هشدار امنیتی که توسط مدیریت پایگاه بریتانیایی برای ساکنان اطراف آکروتیری [&#8230;] نوشته پایگاه نیروی هوایی بریتانیا در قبرس هدف حمله پهپادی قرار گرفت/لندن اجازه استفاده از پایگاه‌های نظامی خود برای حمله به تهران را صادر کرد اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2223176/",
+    "published": "2026-03-02T08:02:21+00:00",
+    "fetched_at": "2026-03-02T08:28:14.120514+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "British Air Base in Cyprus Targeted by Drone Attack/London Authorizes Use of Bases for Attack on Tehran",
+    "relevant": true,
+    "summary_en": "The British Royal Air Force base Akrotiri in Cyprus was targeted in a drone attack, causing limited damage but no casualties, according to Cypriot officials and the UK Ministry of Defence. This attack occurs as London has authorized the use of its military bases for attacks on Tehran, marking a significant escalation in the Iran-US conflict and extending hostilities to UK assets in the Eastern Mediterranean.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "UK",
+        "Iran",
+        "United States"
+      ],
+      "location": "Akrotiri, Cyprus",
+      "brief": "A drone attack targeted the British RAF Akrotiri base in Cyprus, causing limited damage with no casualties, following London's authorization for use of its bases in potential attacks on Tehran."
+    },
+    "lat": 34.6008434,
+    "lng": 32.9561709
   },
   {
     "id": "dd252dd6adbceda2",

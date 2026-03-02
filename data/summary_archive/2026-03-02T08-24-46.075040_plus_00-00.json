@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-03-02T08:24:46.075040+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 859,
+    "incident_count_6h": 210,
+    "severity_breakdown": {
+      "major": 386,
+      "high": 299,
+      "medium": 171,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 139,
+    "articles_analyzed": 158,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict remains at MAJOR severity with 859 incidents in 24h. The assassination of Supreme Leader Khamenei has triggered a new war phase — Iran confirms his death, Hezbollah formally entered the conflict, and the IRGC launched its 10th missile wave. US forces suffered first aircraft loss (F-15 in Kuwait) while Iranian strikes hit Bahrain (5th Fleet), Dubai civilian targets, and Israel. A suspected drone strike on a British base in Cyprus marks the conflict expanding to target a NATO member. No de-escalation pathway visible; Trump suggested 4-week timeline.",
+  "whats_new": [
+    "Suspected drone strike on British air base in Cyprus — conflict geography widens to target NATO member's military infrastructure",
+    "IRGC announced 10th missile wave targeting Tel Aviv, Haifa, and East Jerusalem using Khaibar missiles",
+    "At least 10 killed and 238 wounded in Iranian missile attacks against Israeli-occupied territories — significant casualties",
+    "Saudi Aramco facility hit by drone strike — potential expansion to target key US ally and major oil producer",
+    "Pentagon told Congress no intelligence indicated Iran planned to attack US forces first before US-Israeli strikes killed Khamenei",
+    "WHO Director-General expressed concern over targeting of Gandhi Hospital in Tehran — civilian medical infrastructure now in scope"
+  ],
+  "confirmed_events": [
+    "US and Israeli forces conducting sustained airstrikes across Iran: Tehran, Kerman, Shiraz, Sanandaj, Bandar-Abbas, Kish Island",
+    "Iranian ballistic missile volleys continuing against Israel — civilians sheltering in underground metro stations",
+    "American F-15 shot down in Kuwaiti airspace — first US aircraft loss in current conflict",
+    "Iranian strikes on Bahrain (US 5th Fleet base) with 9-10 impacts confirmed by satellite data",
+    "Hezbollah formally announced entry into war, launching rockets and drones at Israel in retaliation for Khamenei's assassination"
+  ],
+  "unverified_emerging": [
+    "Violent explosions reported in Dubai and Doha — multiple unverified sources claim Iranian attacks but not independently confirmed",
+    "Garma Hospital in Tehran reported damaged — WHO expressed concern but strike not independently confirmed",
+    "Attacker identity in Cyprus drone strike not confirmed — suspected Iranian proxy but unverified"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Emirates Airlines suspended all services to/from Dubai — worst travel chaos since Covid",
+      "Hundreds of thousands of passengers stranded as Middle Eastern air hubs remain closed",
+      "Flight cancellations continue to mount across global airlines"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz shipping disrupted by Iranian retaliatory attacks — critical chokepoint impact",
+      "Saudi Aramco facility fire signals expanding energy infrastructure targeting",
+      "Multiple port and logistics disruptions in Gulf region"
+    ],
+    "market_macro": [
+      "Oil prices surged 13% — Brent to $82.37/barrel (highest since January 2025), WTI to $75.33",
+      "Analysts warn oil could rise to $100 per barrel if conflict continues",
+      "Global supply chain disruption signals as Middle East shipping routes affected"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will likely continue at current intensity for at least 3-4 weeks as Trump indicated. US-Israeli coalition will maintain pressure on Iranian military infrastructure while Iran and its proxies (Hezbollah, Houthis) continue retaliatory strikes across the region. The conflict geography has expanded to include Cyprus and potentially Saudi Arabia, increasing the risk of further regional spillover. No diplomatic pathway appears viable as Iran has rejected negotiations and announced the 10th missile wave.",
+    "escalation_risks": [
+      "Saudi Arabia being dragged into conflict — Aramco strike signals expanding target list",
+      "NATO member (Cyprus) now directly targeted — Article 5 implications if confirmed as Iranian attack",
+      "Iranian proxies (Houthis, Hezbollah) escalating parallel campaigns",
+      "Hospital targeting in Tehran suggests expanding US strike scope beyond military targets",
+      "Risk of miscalculation leading to accidental US-Iran direct combat beyond proxy warfare"
+    ],
+    "de_escalation_pathways": "No visible de-escalation pathway. Iran has refused negotiations through senior officials (Larijani). The assassination of Supreme Leader Khamenei has removed the primary decision-maker for any diplomatic off-ramp. The IRGC's announcement of a 10th missile wave indicates Iran intends to continue escalating. Trump administration has framed this as regime change operation. The only potential off-ramp would be a decisive military outcome within 4 weeks or catastrophic miscalculation forcing external mediation, neither of which appears likely in the near term."
+  }
+}
