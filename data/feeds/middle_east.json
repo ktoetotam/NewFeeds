@@ -85,6 +85,23 @@
     "translated": true
   },
   {
+    "id": "5cbbabc82cd1b1de",
+    "title_original": "Suspected drone strike hits British base at Cyprus",
+    "content_original": "Suspected drone strike hits British base at Cyprus Britain’s Ministry of Defence said a suspected drone struck its military base at Akrotiri in Cyprus around midnight, causing no casualties, adding that the incident is under investigation. The base is the UK’s main hub for operations in the Middle East. The report comes after Prime Minister Keir Starmer said Britain had agreed to a US request to use its bases for strikes on Iran.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/suspected-drone-strike-hits-british-base-cyprus",
+    "published": "2026-03-02T03:00:44+00:00",
+    "fetched_at": "2026-03-02T03:00:57.970349+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Suspected drone strike hits British base at Cyprus",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A suspected drone struck Britain's military base at Akrotiri in Cyprus around midnight, causing no casualties. The base is the UK's main hub for Middle East operations, and the incident follows Prime Minister Keir Starmer's announcement that Britain agreed to a US request to use its bases for strikes on Iran, indicating potential escalation of the Iran-US conflict into additional regional theaters."
+  },
+  {
     "id": "112f7f2e4fe072c8",
     "title_original": "Israel issues evacuation warning for dozens of villages in south Lebanon",
     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-issues-evacuation-warning-dozens-villages-south-lebanon",
@@ -1293,6 +1310,23 @@
     "translated": true,
     "summary_en": "{\"h\":\"Video shows missile falling in Jerusalem\",\"r\":true,\"s\":\"A missile struck Jerusalem, with video capturing the moment of impact. The attack appears to be part of ongoing Iranian-linked hostilities against Israel, representing an escalation in the southern front of",
     "relevant": true
+  },
+  {
+    "id": "e90a9f3891ded821",
+    "title_original": "US officials skeptical of regime change in Tehran after Khamenei killing, say sources",
+    "content_original": "By Gram Slattery and Erin Banco March 1 (Reuters) - Following the killing of Iran's Supreme Leader Ayatollah Ali Khamenei on Saturday, many senior U.S. officials remain skeptical that the U.S. and Israeli military operation against the Islamic Republic will lead to a regime change in the near term. Before and after the start of the attack, U.S. officials, including U.S. President Donald Trump, had suggested that toppling the nation's repressive governing system was one of several U.S. goals, in addition to crippling Iran's ballistic missile and nuclear programs.",
+    "url": "https://www.al-monitor.com/originals/2026/03/us-officials-skeptical-regime-change-tehran-after-khamenei-killing-say-sources",
+    "published": "2026-03-01T21:36:41-05:00",
+    "fetched_at": "2026-03-02T03:00:58.212996+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US officials skeptical of regime change in Tehran after Khamenei killing",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Following the killing of Iran's Supreme Leader Ayatollah Ali Khamenei on Saturday, senior U.S. officials remain skeptical that the U.S. and Israeli military operation against the Islamic Republic will lead to regime change in the near term. Before and after the attack began, U.S. officials including President Trump had suggested that toppling Iran's governing system was a goal alongside crippling its ballistic missile and nuclear programs."
   },
   {
     "id": "8a9858220dc980d7",
