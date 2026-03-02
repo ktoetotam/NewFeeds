@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T16-16-50.482030_plus_00-00.json",
+    "generated_at": "2026-03-02T16:16:50.482030+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 781,
+    "summary_preview": "The Iran-US conflict has intensified dramatically with Iran launching its 11th wave of attacks targeting 500 US and Israeli military sites, while US operations are projected to last 'several weeks' wi"
+  },
+  {
     "filename": "2026-03-02T15-14-38.842561_plus_00-00.json",
     "generated_at": "2026-03-02T15:14:38.842561+00:00",
     "threat_label": "MAJOR",
