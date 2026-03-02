@@ -1,5 +1,22 @@
 [
   {
+    "id": "1b4936450e38039e",
+    "title_original": "رسالة إيرانية إلى غروسي بشأن الهجمات الأمريكية على نطنز",
+    "content_original": "وجّه رئيس منظمة الطاقة الذرية الإيرانية رسالة إلى المدير العام للوكالة الدولية للطاقة الذرية، رافائيل غروسي، أعلن فيها احتجاجه على الهجمات المتكررة و...",
+    "url": "https://www.alalam.ir/news/7421438",
+    "published": "2026-03-03T01:03:17+00:00",
+    "fetched_at": "2026-03-02T22:12:10.467779+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Iranian message to Grossi regarding American attacks on Natanz",
+    "relevant": true,
+    "summary_en": "The head of the Iranian Atomic Energy Organization sent a letter to IAEA Director General Rafael Grossi protesting repeated American attacks on the Natanz nuclear facility. This is significant as Natanz is Iran's primary uranium enrichment site, and US strikes on this facility represent a major escalation targeting critical Iranian nuclear infrastructure in the ongoing conflict.",
+    "translated": true
+  },
+  {
     "id": "ca6f63e000063a56",
     "title_original": "اطلاق الموجة 12 في عمليات الوعد الصادق 4",
     "content_original": "اعلن الحرس الثوري مساء الاثنين اطلاق الموجة 12 من عمليات \"الوعد الصادق 4\" ضد مواقع العدو الصهيوني الاميركي....",
@@ -48,6 +65,23 @@
     "translated": true
   },
   {
+    "id": "c31d4ed44386f48e",
+    "title_original": "Photo shows the aftermath of  US-Israeli criminal   attack on the surrounding area of IRIB HQ in Tehran;  There has b...",
+    "content_original": "Photo shows the aftermath of US-Israeli criminal attack on the surrounding area of IRIB HQ in Tehran; There has been no disruption and the IRIB channels are functioning without problem @PressTV",
+    "url": "https://t.me/presstv/177728",
+    "published": "2026-03-02T22:07:46+00:00",
+    "fetched_at": "2026-03-02T22:14:12.617280+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Photo Shows Aftermath of US-Israeli Attack on IRIB Headquarters in Tehran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A US-Israeli attack targeted the surroundings of the Islamic Republic of Iran Broadcasting (IRIB) headquarters in Tehran. Despite the attack, IRIB channels continue broadcasting without disruption. The strike on Iran's state media infrastructure represents an escalation targeting Iran's information apparatus in the capital."
+  },
+  {
     "id": "b2c3ec90071f4212",
     "title_original": "رسالة قوة القدس بالحرس الثوري للاعداء: لا أمان لكم بعد اليوم في أي مكان",
     "content_original": "أصدر فيلق القدس التابع للحرس الثوري الإيراني بيانًا أعلن فيه أن الولايات المتحدة الأمريكية والكيان الصهيوني الإرهابي هاجما الجمهورية الإسلامية الإيرا...",
@@ -80,6 +114,20 @@
     "relevant": true,
     "summary_en": "The Iranian Revolutionary Guard announced that the 'Athena Nova' fuel tanker, belonging to US allies, remains burning in the Strait of Hormuz after being struck by two drones. The attack demonstrates Iran's continued capability to disrupt maritime traffic in this critical chokepoint, representing another escalation in its campaign to target vessels linked to the US and its allies in the Gulf region.",
     "translated": true
+  },
+  {
+    "id": "9e6afd910cc591c5",
+    "title_original": "The compound of IRIB HQ has been targeted by US-Israeli airstrikes @PressTV",
+    "url": "https://t.me/presstv/177727",
+    "published": "2026-03-02T21:50:27+00:00",
+    "fetched_at": "2026-03-02T22:14:12.616654+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
   },
   {
     "id": "a03a12fd78ca5dd1",

@@ -1,5 +1,19 @@
 [
   {
+    "id": "28548ff4f9315c67",
+    "title_original": "Qatar Stresses Iran's Renewed Targeting of Its Territory Threatens Principles of Good Neighborliness",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/3/qatar-stresses-irans-renewed-targeting-of-its-territory-threatens-principles-of-good-neighborliness",
+    "published": "2026-03-03T00:23:54+00:00",
+    "fetched_at": "2026-03-02T22:13:02.420542+00:00",
+    "source_name": "QNA Qatar (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
     "id": "8a0694dec5b1a5fb",
     "title_original": "Saudi Foreign Minister Discusses Regional Developments with Canadian Counterpart",
     "url": "https://qna.org.qa/en/News-Area/News/2026-3/3/saudi-foreign-minister-discusses-regional-developments-with-canadian-counterpart",
@@ -138,6 +152,37 @@
     "skip_translation": true,
     "translated": true,
     "relevant": false
+  },
+  {
+    "id": "55a894fdaf7da14e",
+    "title_original": "العاهل الأردني والرئيس الموريتاني يؤكدان أهمية تكثيف الجهود للتوصل إلى تهدئة شاملة في الإقليم",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/3/العاهل-الاردني-والرييس-الموريتاني-يوكدان-اهمية-تكثيف-الجهود-للتوصل-الى-تهدية-شاملة-في-الاقليم",
+    "published": "2026-03-02T22:13:01.396476+00:00",
+    "fetched_at": "2026-03-02T22:13:01.396484+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
+  },
+  {
+    "id": "cccf40737affcfc2",
+    "title_original": "قطر توجه رسالة متطابقة إلى الأمم المتحدة ومجلس الأمن بشأن الاعتداء الإيراني على أراضيها",
+    "content_original": "نيويورك في 02 مارس /قنا/ وجهت دولة قطر، رسالة متطابقة، إلى كل من سعادة السيد أنطونيو غوتيرش الأمين العام للأمم المتحدة، وسعادة السيد مايكل والتز المندوب الدائم للولايات المتحدة الأمريكية لدى الأمم المتحدة رئيس مجلس الأمن لشهر مارس، بشأن الاعتداء الإيراني على أراضيها،",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/3/قطر-توجه-رسالة-متطابقة-الى-الامم-المتحدة-ومجلس-الامن-بشان-الاعتداء-الايراني-على-اراضيها",
+    "published": "2026-03-02T22:13:00.144238+00:00",
+    "fetched_at": "2026-03-02T22:13:00.144246+00:00",
+    "source_name": "QNA Qatar (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Qatar sends identical message to UN and Security Council regarding Iranian aggression on its territory",
+    "relevant": true,
+    "summary_en": "Qatar has sent identical diplomatic messages to UN Secretary-General Antonio Guterres and US Ambassador Michael Waltz (presiding over the Security Council for March) regarding Iranian aggression on Qatari territory. The communication represents Qatar formally documenting and protesting Iranian military action against its sovereign territory through international diplomatic channels. This indicates the conflict has expanded to include attacks on Qatar, a key US ally hosting the major Al-Udeid Air Base, with Doha now escalatng the matter to the UN Security Council.",
+    "translated": true
   },
   {
     "id": "241a84dae3473faa",

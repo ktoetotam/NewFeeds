@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T22-08-45.532098_plus_00-00.json",
+    "generated_at": "2026-03-02T22:08:45.532098+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 755,
+    "summary_preview": "The Iran-US conflict intensifies dramatically with 755 incidents in 24h and confirmed 6 US troop deaths. Iran has declared the Strait of Hormuz closed and launched Wave 12 of attacks on US/Israeli tar"
+  },
+  {
     "filename": "2026-03-02T21-21-00.575140_plus_00-00.json",
     "generated_at": "2026-03-02T21:21:00.575140+00:00",
     "threat_label": "MAJOR",
@@ -880,14 +889,5 @@
     "trend": "stable",
     "incident_count_24h": 207,
     "summary_preview": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated US-Israeli airstrikes on Iran, retaliatory missile attacks by Iran on Israel and US ass"
-  },
-  {
-    "filename": "2026-02-28T15-38-08.803620_plus_00-00.json",
-    "generated_at": "2026-02-28T15:38:08.803620+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "escalating",
-    "incident_count_24h": 117,
-    "summary_preview": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated airstrikes by the US and Israel on Iran, ballistic missile attacks by Iran on Israel an"
   }
 ]

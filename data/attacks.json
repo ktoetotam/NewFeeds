@@ -1,5 +1,263 @@
 [
   {
+    "id": "48ebaa4deb1e6611",
+    "title_original": "ЦАХАЛ заявила о ликвидации одного из командиров \"Исламского джихада\"",
+    "content_original": "ЦАХАЛ заявила о ликвидации одного из командиров \"Исламского джихада\"",
+    "url": "https://ria.ru/20260303/tsahal-2078054351.html",
+    "published": "2026-03-03T01:05:27+03:00",
+    "fetched_at": "2026-03-02T22:12:41.399379+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF Announces Elimination of Islamic Jihad Commander",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) announced the elimination of a commander from Islamic Jihad, a Palestinian militant group backed by Iran. This targeted killing is part of ongoing Israeli military operations against Iran-linked militant groups in the Gaza Strip. The elimination of a senior commander represents a significant blow to Islamic Jihad's leadership structure and operational capabilities.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "islamic jihad",
+      "idf",
+      "targeted killing"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Islamic Jihad",
+        "Iran"
+      ],
+      "location": "Gaza Strip",
+      "brief": "IDF announced elimination of Islamic Jihad commander in targeted killing operation against Iran-backed militant group in Gaza."
+    },
+    "lat": 31.5,
+    "lng": 34.47
+  },
+  {
+    "id": "f1ad59dc09707ea1",
+    "title_original": "Иран заявил об ударе по базам США в Кувейте и Ираке",
+    "content_original": "Иранские военные ударили беспилотниками по базе морской пехоты США в Кувейте, сообщает пресс-служба Корпуса стражей исламской революции (КСИР).",
+    "url": "https://www.rbc.ru/rbcfreenews/69a607ec9a7947382aedc45d",
+    "published": "2026-03-03T01:02:48+03:00",
+    "fetched_at": "2026-03-02T22:12:48.735527+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran claims drone strike on US Marine base in Kuwait",
+    "relevant": true,
+    "summary_en": "IRGC forces launched drone strikes against a US Marine base in Kuwait, according to the IRGC press service. The attack marks another escalation in Iran's ongoing missile and drone campaign against US military installations in the Gulf region. This follows previous Iranian strikes on US bases in Iraq and represents a significant expansion of the conflict to additional countries in the region.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "strike",
+      "missile",
+      "irgc",
+      "conflict",
+      "drone",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|drone_strike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "US Marine Corps"
+      ],
+      "location": "Kuwait",
+      "brief": "IRGC forces conducted drone strikes against a US Marine base in Kuwait, marking a direct Iranian attack on US military infrastructure in the Gulf region."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "902b34045b8cf885",
+    "title_original": "Shafaq: мощный взрыв произошел в Эрбиле рядом с военной базой США",
+    "content_original": "Shafaq: мощный взрыв произошел в Эрбиле рядом с военной базой США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26621357",
+    "published": "2026-03-03T00:58:39+03:00",
+    "fetched_at": "2026-03-02T22:12:40.554063+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Powerful explosion occurred in Erbil near US military base",
+    "relevant": true,
+    "summary_en": "A powerful explosion occurred in Erbil, Iraq, near a US military base. Erbil hosts significant US forces and has been targeted by Iranian proxies in the past during the current Iran-US conflict. The article does not specify casualties or attribution for the attack.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "explosion",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iranian proxies",
+        "US forces"
+      ],
+      "location": "Erbil, Iraq (Kurdistan Region)",
+      "brief": "Powerful explosion reported near US military base in Erbil, Iraq, a location previously targeted by Iranian proxies in the ongoing Iran-US conflict, with no casualties or attribution specified."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "b4c5191e2af378e9",
+    "title_original": "США знали о планах Израиля нанести удар по Ирану, заявил Рубио",
+    "content_original": "США знали о планах Израиля нанести удар по Ирану, заявил Рубио",
+    "url": "https://ria.ru/20260303/ssha-2078052874.html",
+    "published": "2026-03-03T00:46:44+03:00",
+    "fetched_at": "2026-03-02T22:12:41.400965+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Knew About Israel's Plans to Strike Iran, Rubio Said",
+    "relevant": true,
+    "summary_en": "US Secretary of State Marco Rubio stated that the United States was aware of Israel's plans to strike Iran. This disclosure indicates US-Israeli coordination on military operations against Iran and suggests the US may have been involved in or approved of Israeli strike planning, potentially marking a significant escalation in the Iran-US-Israel conflict axis.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
+    "id": "953b0e4c7f31682c",
+    "title_original": "شاهد | الحرب الأمريكية الإسرائيلية على إيران تهز الأسواق .. وشلل يضرب الملاحة البحرية والجوية   13-09-1447هـ 02-03-2026م",
+    "content_original": "تقرير: صدام القدمي",
+    "url": "https://almasirah.net.ye/static/static/aeab30a9-0264-4232-b178-3dd72b1e7d1c.jpg",
+    "published": "2026-03-03T00:42:36+00:00",
+    "fetched_at": "2026-03-02T22:13:35.289942+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Watch | American-Israeli War on Iran Shakes Markets, Paralysis Hits Maritime and Air Navigation",
+    "relevant": true,
+    "summary_en": "The US-led war against Iran, conducted jointly with Israel, has sent shockwaves through global markets and disrupted maritime and air navigation in the region. The conflict, which began with Iranian ballistic missile and drone attacks on US bases followed by American and Israeli strikes on Iranian military and nuclear facilities, has caused widespread economic disruption and navigation paralysis across the Middle East.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "nuclear",
+      "war",
+      "conflict",
+      "drone",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Middle East/Gulf Region",
+      "brief": "US-led joint war with Israel against Iran following Iranian ballistic missile and drone attacks on US bases, causing market shockwaves and maritime/air navigation paralysis."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "45f4016546c59fbf",
+    "title_original": "شاهد | عدوان صهيوني واسع يستهدف لبنان   13-09-1447هـ 02-03-2026م",
+    "content_original": "تقرير: زهراء حلاوي",
+    "url": "https://almasirah.net.ye/static/static/cedbc4df-4449-4eb2-9830-b8c236477646.jpg",
+    "published": "2026-03-03T00:40:45+00:00",
+    "fetched_at": "2026-03-02T22:13:35.290884+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Watch | Extensive Zionist aggression targets Lebanon",
+    "relevant": true,
+    "summary_en": "Israeli forces launched extensive military strikes targeting Lebanon, marking a significant escalation in hostilities. The attacks reportedly hit multiple locations across Lebanese territory, potentially involving Lebanese Hezbollah positions or infrastructure. This represents another front in the broader regional conflict involving Iran-linked forces and Israel.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Lebanon",
+      "brief": "Israeli forces launched extensive military strikes across multiple locations in Lebanon targeting Hezbollah positions, marking a significant escalation in hostilities."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "958c749855ac8b9e",
+    "title_original": "التمادي الصهيوني وتغيير قواعد الاشتباك.. كيف وصلت إيران إلى عملية الوعد الصادق (4)",
+    "content_original": "المسيرة نت | إبراهيم يحيى الديلمي: دخلت الجمهورية الإسلامية الإيرانية بعد انتصار ثورتها سنة 1979م في صراع دائم مع الولايات المتحدة الأمريكية وكيان العدو الإسرائيلي وحلفاء الشر في المنطقة.",
+    "url": "https://almasirah.net.ye/static/static/e040ab17-cfef-48dc-9307-7c24f2ffa727.jpg",
+    "published": "2026-03-03T00:33:01+00:00",
+    "fetched_at": "2026-03-02T22:13:35.292164+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Zionist Aggression and Changing Rules of Engagement.. How Iran Reached the Promise Kept Operation (4)",
+    "relevant": true,
+    "summary_en": "This article (part 4 of a series) analyzes how Iran arrived at launching the 'Promise Kept' operation - the direct missile and drone attack on Israel in April 2024. It discusses the historical context of Iran's confrontation with the US and Israel since the 1979 revolution, and examines the changes in rules of engagement that led to this significant escalation in Iranian-Israeli hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Middle East",
+      "brief": "Iran launched direct missile and drone attack on Israel in April 2024, marking significant escalation in regional confrontation with US ally."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "67ad286f8c3ca97b",
     "title_original": "رسالة \"غرفة النوم\": تهاوي أُسطورة الرّدع الصهيوني تحت مخالب المسيّرات الإيرانية",
     "content_original": "من قلب \"قيسارية\" المحتلّة، حَيثُ كان يظن طاغية الصهاينة أنه في حصن مشيد، ومن بين شقوق الجدران التي أنفق العدوّ المليارات لترميم هيبتها، انبعثت صرخة الحقيقة لتدوي في أرجاء كَيان الاحتلال: \"لا عاصم لكم اليوم من أمر الله\".",
@@ -73,6 +331,122 @@
     "lng": 51.39
   },
   {
+    "id": "9008dfde9bb138a0",
+    "title_original": "ציד המשגרים והטילים",
+    "content_original": "מערכי השיגור והייצור של הטילים הבליסטיים הם אחת המטרות העיקריות של התקיפות באיראן. הכוחות הישראלים והאמריקאים מתמודדים מול האיום שהאיראנים הקפידו להסתיר אחרי המלחמה הקודמת",
+    "url": "https://mivzakim.net/r/13968758/rss",
+    "published": "2026-03-03T00:10:26+02:00",
+    "fetched_at": "2026-03-02T22:12:57.430088+00:00",
+    "source_name": "Mivzakim World",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Hunting Launchers and Missiles",
+    "relevant": true,
+    "summary_en": "Israeli and US forces are targeting Iran's ballistic missile launch and production facilities as primary objectives in strikes on Iranian territory. The article notes that these forces are confronting an Iranian threat that Tehran has carefully concealed since the previous war. The targeting of missile capabilities represents a strategic effort to degrade Iran's offensive reach in the ongoing regional conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "war",
+      "offensive",
+      "conflict",
+      "threat",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Israeli and US forces are conducting strikes on Iranian ballistic missile launch and production facilities as primary objectives."
+    },
+    "merged_source_count": 6,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "9008dfde9bb138a0",
+    "title_original": "ציד המשגרים והטילים",
+    "content_original": "מערכי השיגור והייצור של הטילים הבליסטיים הם אחת המטרות העיקריות של התקיפות באיראן. הכוחות הישראלים והאמריקאים מתמודדים מול האיום שהאיראנים הקפידו להסתיר אחרי המלחמה הקודמת",
+    "url": "https://mivzakim.net/r/13968758/rss",
+    "published": "2026-03-03T00:10:26+02:00",
+    "fetched_at": "2026-03-02T22:12:53.767010+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Hunting Launchers and Missiles",
+    "relevant": true,
+    "summary_en": "Israeli and American forces are prioritizing attacks on Iranian ballistic missile launch and production facilities as key military targets. The forces are confronting an Iranian threat that was carefully concealed following the previous conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "missile",
+      "threat",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran (target) / Israel (launching from)",
+      "brief": "Israeli and American forces are conducting strikes on Iranian ballistic missile launch and production facilities, representing direct US-Iran military engagement."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "1910d2190efccb1e",
+    "title_original": "דיווח: הפיצוצים בירדן - תקיפה בבסיס אמריקני",
+    "content_original": "דיווח: הפיצוצים בירדן - תקיפה בבסיס אמריקני",
+    "url": "https://mivzakim.net/r/13968757/rss",
+    "published": "2026-03-03T00:09:31+02:00",
+    "fetched_at": "2026-03-02T22:12:53.767210+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Report: Explosions in Jordan - attack on American base",
+    "relevant": true,
+    "summary_en": "Reports indicate explosions occurred in Jordan, with initial assessments suggesting an attack on an American military base. The incident represents a significant escalation as it marks direct aggression against US forces in a country that has served as a key base for American operations in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Jordan",
+        "Iran",
+        "Iranian Proxy Forces"
+      ],
+      "location": "Jordan",
+      "brief": "Explosions reported at American base in Jordan mark direct aggression against US forces, representing significant escalation in Iran-US conflict"
+    },
+    "merged_source_count": 2,
+    "lat": 31.17,
+    "lng": 36.94
+  },
+  {
     "id": "5c58c66c3c4a1c5e",
     "title_original": "США показали кадры уничтожения кораблей Ирана в Оманском заливе",
     "content_original": "Центральное командование США опубликовало в соцсети Х запись удара по судам в Оманском заливе.",
@@ -108,6 +482,44 @@
     },
     "lat": 24.2138029,
     "lng": 58.9845823
+  },
+  {
+    "id": "98047c33b4f8638e",
+    "title_original": "תגובה לא פרופורציונלית",
+    "content_original": "במערכת הביטחון מעריכים שבחיזבאללה כבר מבינים שטעו, אבל בישראל אין כוונה להוריד את הרגל מהגז. הרמטכ\"ל הבהיר שצה\"ל לא יסיים את המערכה כל עוד האיום מצפון לא יוסר, ובפיקוד הצפון כבר עובדים על תקיפת בנק המטרות שהכינו",
+    "url": "https://mivzakim.net/r/13968745/rss",
+    "published": "2026-03-03T00:04:51+02:00",
+    "fetched_at": "2026-03-02T22:12:53.768634+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Disproportionate Response",
+    "relevant": true,
+    "summary_en": "Israeli security officials assess that Hezbollah now understands it made a mistake in its recent attacks, but Israel has no intention of letting up pressure. IDF Chief of Staff Herzi Halevi clarified the campaign will not end until the northern threat from Lebanon is removed, with Northern Command already preparing to strike an extensive target bank.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "hezbollah",
+      "idf",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Northern Israel/Lebanon border",
+      "brief": "IDF Chief Herzi Halevi states Israel will continue military pressure on Hezbollah until northern threat from Lebanon is fully removed."
+    },
+    "lat": 33.06,
+    "lng": 35.24
   },
   {
     "id": "d82446f61fcf0159",
@@ -146,6 +558,42 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "e30917976dfbbaa7",
+    "title_original": "תגובה לא פרופורציונלית",
+    "content_original": "במערכת הביטחון מעריכים שבחיזבאללה כבר מבינים שטעו, אבל בישראל אין כוונה להוריד את הרגל מהגז. הרמטכ\"ל הבהיר שצה\"ל לא יסיים את המערכה כל עוד האיום מצפון לא יוסר, ובפיקוד הצפון כבר עובדים על תקיפת בנק המטרות שהכינו",
+    "url": "https://www.ynet.co.il/news/article/yokra14697037",
+    "published": "2026-03-03T00:04:00+02:00",
+    "fetched_at": "2026-03-02T22:12:48.862220+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Disproportionate Response",
+    "relevant": true,
+    "summary_en": "Israeli security officials assess that Hezbollah already understands it made a mistake, but Israel has no intention of letting up. The IDF Chief of Staff clarified that the army will not end the campaign as long as the threat from the north remains, and Northern Command is already working on attacking the target bank they prepared.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "hezbollah",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Israel (Northern Command/Lebanon border)",
+      "brief": "Israeli officials state IDF will continue campaign against Hezbollah in the north with no intention of letting up, as Northern Command develops attack plans."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "ca6f63e000063a56",
@@ -224,6 +672,81 @@
     "lng": 34.8
   },
   {
+    "id": "cbcc7f57a36c2250",
+    "title_original": "צה\"ל: \"הושמד מרכז התקשורת והתעמולה של משטר הטרור האיראני\"",
+    "content_original": "צה\"ל: \"הושמד מרכז התקשורת והתעמולה של משטר הטרור האיראני\"",
+    "url": "https://mivzakim.net/r/13968740/rss",
+    "published": "2026-03-03T00:02:59+02:00",
+    "fetched_at": "2026-03-02T22:12:53.769421+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF: 'The communication and propaganda center of the Iranian terrorist regime was destroyed'",
+    "relevant": true,
+    "summary_en": "The Israel Defense Forces announced the destruction of an Iranian communication and propaganda center, targeting the Iranian regime's informational and psychological operations infrastructure. This strike is part of Israel's ongoing operations against Iranian assets linked to the IRGC and the broader Iran-Israel conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "irgc",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran (IRGC)"
+      ],
+      "location": "Israel",
+      "brief": "Israel Defense Forces destroyed an Iranian communication and propaganda center targeting IRGC informational and psychological operations infrastructure."
+    },
+    "merged_source_count": 3,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "cbcc7f57a36c2250",
+    "title_original": "צה\"ל: \"הושמד מרכז התקשורת והתעמולה של משטר הטרור האיראני\"",
+    "content_original": "צה\"ל: \"הושמד מרכז התקשורת והתעמולה של משטר הטרור האיראני\"",
+    "url": "https://mivzakim.net/r/13968740/rss",
+    "published": "2026-03-03T00:02:59+02:00",
+    "fetched_at": "2026-03-02T22:12:54.646177+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF: 'The communication and propaganda center of the Iranian terrorist regime was destroyed'",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) announced the destruction of an Iranian communication and propaganda center, targeting Tehran's informational warfare capabilities. This strike represents part of Israel's ongoing operations against Iranian regime assets and infrastructure linked to the IRGC.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "irgc",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Middle East (specific location unspecified)",
+      "brief": "Israeli Defense Forces conducted an airstrike destroying an Iranian communication and propaganda center targeting Tehran's informational warfare capabilities."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "f1237a54c162bfa9",
     "title_original": "Кто из российских спортсменов оказался в зоне конфликта вокруг Ирана",
     "content_original": "США и Израиль 28 февраля объявили о нанесении ударов по Ирану. В связи с этим многие россияне не смогли вылететь из стран Ближнего Востока. Кто из спортсменов оказался в зоне конфликта — в материале «РБК Спорт»",
@@ -258,6 +781,46 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "4caa545e6a8f234f",
+    "title_original": "צה\"ל מאשר: הושמד מרכז התקשורת של המשטר האיראני",
+    "content_original": "צה\"ל מאשר: הושמד מרכז התקשורת של המשטר האיראני",
+    "url": "https://mivzakim.net/r/13968735/rss",
+    "published": "2026-03-03T00:02:27+02:00",
+    "fetched_at": "2026-03-02T22:12:53.770011+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF confirms: Communication center of Iranian regime destroyed",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) confirmed destroying a communication center belonging to the Iranian regime. This represents an Israeli military strike targeting Iranian regime infrastructure, continuing the ongoing kinetic operations between Israel and Iran as part of the broader regional conflict involving IRGC assets.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "irgc",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IDF",
+        "Iranian regime"
+      ],
+      "location": "Israel/Iran",
+      "brief": "IDF confirms destroying Iranian regime communication center in Israeli military strike targeting Iranian infrastructure"
+    },
+    "merged_source_count": 3,
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "27648f5bf57c2b6b",
@@ -331,6 +894,41 @@
     "lng": 54.56
   },
   {
+    "id": "a78a2eabb25bdeb7",
+    "title_original": "דיווח: הדי פיצוצים נשמעו בירדן",
+    "content_original": "דיווח: הדי פיצוצים נשמעו בירדן",
+    "url": "https://mivzakim.net/r/13968721/rss",
+    "published": "2026-03-02T23:57:07+02:00",
+    "fetched_at": "2026-03-02T22:12:53.770997+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Report: Sounds of explosions heard in Jordan",
+    "relevant": true,
+    "summary_en": "Reports indicate sounds of explosions were heard in Jordan. Given Jordan's hosting of US military personnel at bases like Al-Mafraq, and the ongoing Iran-US conflict with Iranian attacks on US facilities throughout the region, this incident is likely connected to the conflict. Further details on the source or target of the explosions are needed.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Jordan"
+      ],
+      "location": "Jordan (Al-Mafraq)",
+      "brief": "Explosions heard at Jordanian base hosting US military personnel, likely linked to Iranian attacks on US facilities in the region."
+    },
+    "lat": 31.17,
+    "lng": 36.94
+  },
+  {
     "id": "29f714d1f6bb8ff9",
     "title_original": "Рубио рассказал о целях операции США против Ирана",
     "content_original": "Рубио рассказал о целях операции США против Ирана",
@@ -366,6 +964,84 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "c5a2474770182ec1",
+    "title_original": "צה\"ל פרסם אזהרת פינוי לאולפני אל-מנאר בדאחייה בביירות",
+    "content_original": "צה\"ל פרסם אזהרת פינוי לאולפני אל-מנאר בדאחייה בביירות",
+    "url": "https://mivzakim.net/r/13968710/rss",
+    "published": "2026-03-02T23:51:07+02:00",
+    "fetched_at": "2026-03-02T22:12:55.497130+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF issues evacuation warning for Al-Manar studios in Dahieh, Beirut",
+    "relevant": true,
+    "summary_en": "The IDF issued an evacuation warning for Al-Manar television studios located in the Dahieh district of Beirut, a southern Lebanon suburb controlled by Hezbollah. This represents an Israeli military operation targeting Hezbollah's media infrastructure in the heart of its Beirut stronghold.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "military operation",
+      "hezbollah",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Dahieh, Beirut, Lebanon",
+      "brief": "IDF issued evacuation warning for Al-Manar television studios in Hezbollah-controlled Dahieh district of Beirut, targeting the group's media infrastructure in a major Israeli military operation."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "219b5ecd3ce05197",
+    "title_original": "חיסול בביירות: צה\"ל חיסל את מפקד הג'יהאד האיסלאמי בגזרת לבנון",
+    "content_original": "חיסול בביירות: צה\"ל חיסל את מפקד הג'יהאד האיסלאמי בגזרת לבנון",
+    "url": "https://mivzakim.net/r/13968695/rss",
+    "published": "2026-03-02T23:47:19+02:00",
+    "fetched_at": "2026-03-02T22:12:55.497513+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Elimination in Beirut: IDF eliminates Islamic Jihad commander in Lebanon sector",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) eliminated a commander of the Islamic Jihad militant group in the Beirut area of Lebanon. Islamic Jihad is an Iranian-backed Palestinian proxy group. This targeted killing represents an escalation in IDF operations against Iran-linked militant proxies in Lebanon, following ongoing hostilities with Hezbollah and expanding targeting to include other Iranian-aligned groups in the region.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "proxy",
+      "targeted killing",
+      "islamic jihad",
+      "hezbollah",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Islamic Jihad",
+        "Iran",
+        "Lebanon"
+      ],
+      "location": "Beirut, Lebanon",
+      "brief": "IDF eliminated an Islamic Jihad commander in Beirut, representing escalation against Iranian-backed proxy groups in Lebanon."
+    },
+    "merged_source_count": 6,
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "aa40ddea774e838b",
@@ -1180,6 +1856,117 @@
     "lng": 34.8
   },
   {
+    "id": "4aabf98c99658fa2",
+    "title_original": "47 شهيدًا خلال 3 أيام من العدوان الصهيوأمريكي على أصفهان وسط إيران",
+    "content_original": "الثورة نت/.. أفاد معاون الشؤون الأمنية لمحافظة أصفهان ، باستشهاد 47 شخصا ، خلال الهجوم الذي شنته القوات الأمريكية–الصهيونية على عدة مناطق من المحافظة ، الواقعة وسط إيران ، خلال الأيام الثلاثة الماضية. ونقلت وكالة تسنيم الإيرانية للأنباء ، مساء الاثنين ، عن المسؤول أن جميع التدابير الأمنية والاستخباراتية والشرطية تم اتخاذها تحت إشراف كامل [&#8230;]",
+    "url": "https://althawrah.ye/archives/1144306",
+    "published": "2026-03-02T22:09:26+00:00",
+    "fetched_at": "2026-03-02T22:13:32.930596+00:00",
+    "source_name": "Al-Thawra Yemen",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "47 Martyrs During 3 Days of Zionist-American Aggression on Isfahan in Central Iran",
+    "relevant": true,
+    "summary_en": "A security official in Isfahan province reported that 47 people were killed during a 3-day US-Israeli attack on several areas in central Iran. The attack targeted multiple locations in Isfahan province, marking a significant escalation in the ongoing Iran-US conflict with substantial civilian casualties.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Isfahan, Central Iran",
+      "brief": "US-Israeli joint attack on Isfahan province killed 47 civilians over three days, marking a major escalation in direct US-Iran military engagement."
+    },
+    "lat": 32.65,
+    "lng": 51.68
+  },
+  {
+    "id": "7c5fb1bdf783937b",
+    "title_original": "🚨 ادعای ارتش اسرائیل: ادهم عدنان العثمان، فرمانده جنبش جهاد اسلامی فلسطین در لبنان، ترور شد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ...",
+    "content_original": "🚨 ادعای ارتش اسرائیل: ادهم عدنان العثمان، فرمانده جنبش جهاد اسلامی فلسطین در لبنان، ترور شد ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45204",
+    "published": "2026-03-02T22:06:36+00:00",
+    "fetched_at": "2026-03-02T22:14:21.940274+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli army claims: Adham Adnan Al-Othman, commander of Palestinian Islamic Jihad movement in Lebanon, assassinated",
+    "relevant": true,
+    "summary_en": "The Israeli military claims it assassinated Adham Adnan Al-Othman, a commander of the Palestinian Islamic Jihad movement in Lebanon. This targeted killing targets another Iran-linked proxy group's leadership, expanding Israel's operations against Iranian-aligned forces beyond Gaza and Hezbollah into broader regional proxy networks.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "islamic jihad",
+      "hezbollah",
+      "proxy",
+      "targeted killing"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Palestinian Islamic Jihad",
+        "Lebanon"
+      ],
+      "location": "Lebanon",
+      "brief": "Israeli military assassinated Adham Adnan Al-Othman, a commander of Iran-linked Palestinian Islamic Jihad movement in Lebanon."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "6c3667e04f5da461",
+    "title_original": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
+    "content_original": "Dubai’s reputation as a prosperous destination for expats and influencers has changed for some following Iranian strikes.",
+    "url": "https://www.bbc.com/news/articles/c875rjd990go?at_medium=RSS&at_campaign=rss",
+    "published": "2026-03-02T22:06:27+00:00",
+    "fetched_at": "2026-03-02T22:14:07.039665+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "'Everything has changed': Missile attacks shatter Dubai's safe haven image",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian missile strikes have targeted Dubai, fundamentally altering the city’s perception as a secure hub for expats and influencers. The attacks represent a significant escalation, demonstrating that the Iran-US conflict is now directly impacting major Gulf business centers previously considered safe havens.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Iranian missile strikes on Dubai represent significant escalation, directly targeting major Gulf business hub previously considered safe."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "0a20233eb53bb472",
     "title_original": "WATCH: Israeli fighter pilot evades Iranian missile over skies of Islamic Republic",
     "content_original": "In the footage, the pilot is heard warning of \"another launch\" toward the aircraft, before noting he is \"climbing over the skies\" to evade the missile.",
@@ -1214,6 +2001,44 @@
     },
     "lat": 30.3354128,
     "lng": 48.2896822
+  },
+  {
+    "id": "c25b0ca5a3fdb322",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷  CENTCOM announced the death of two more American soldiers bringing the total number of deaths to 6 American...",
+    "content_original": "🇺🇸 ⚔️ 🇮🇷 CENTCOM announced the death of two more American soldiers bringing the total number of deaths to 6 American troops killed @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70188",
+    "published": "2026-03-02T22:02:47+00:00",
+    "fetched_at": "2026-03-02T22:14:18.156169+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "CENTCOM announces death of two more American soldiers, total US casualties now 6",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "CENTCOM announced the death of two additional American soldiers in the Iran-US conflict, bringing the total number of US troops killed to six. The announcement follows ongoing military exchanges between US forces and Iranian assets/IRGC-linked targets in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "killed",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Middle East",
+      "brief": "Two American soldiers killed in military exchanges between US forces and Iranian assets, bringing total US casualties to six."
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "2bc31a21cafa2b58",
@@ -1252,6 +2077,154 @@
     },
     "lat": 30.3354128,
     "lng": 48.2896822
+  },
+  {
+    "id": "c867c9ed25ad2543",
+    "title_original": "🇮🇷 🇯🇴 ⚡️ - BREAKING: Visual confirmation of a direct impact in Jordan near Muwaffaq Salti Air Base, the power in the ...",
+    "content_original": "🇮🇷 🇯🇴 ⚡️ - BREAKING: Visual confirmation of a direct impact in Jordan near Muwaffaq Salti Air Base, the power in the area can be seen going out immediately after the strike.",
+    "url": "https://t.me/CIG_telegram/70184",
+    "published": "2026-03-02T21:53:09+00:00",
+    "fetched_at": "2026-03-02T22:14:18.153284+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Visual Confirmation of Direct Impact at Jordan's Muwaffaq Salti Air Base",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Visual evidence confirms a direct strike impact near Muwaffaq Salti Air Base in Jordan, with power in the surrounding area going dark immediately after the impact. The air base is known to host US military personnel and assets, making this a significant attack on a US-aligned facility in the region. The specific attacker has not yet been confirmed, but the strike fits the pattern of Iranian proxy or direct operations targeting US bases in Iraq, Syria, and Jordan.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Jordan",
+        "Iranian proxy forces"
+      ],
+      "location": "Jordan - Muwaffaq Salti Air Base",
+      "brief": "Visual evidence confirms direct strike impact at US-hosted Muwaffaq Salti Air Base in Jordan, causing immediate power outages in surrounding area."
+    },
+    "lat": 31.8205079,
+    "lng": 36.7794153
+  },
+  {
+    "id": "85ae88cb0f55c1cd",
+    "title_original": "#لبنان   مراسل المنار: قصف مدفعي يستهدف مدينة الخيام وبلدة مارون الرأس",
+    "content_original": "#لبنان مراسل المنار: قصف مدفعي يستهدف مدينة الخيام وبلدة مارون الرأس",
+    "url": "https://t.me/Electrohizbullah/157238",
+    "published": "2026-03-02T21:50:01+00:00",
+    "fetched_at": "2026-03-02T22:14:23.163800+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Lebanon: Artillery Shelling Targets Khiam City and Maroun al-Ras Town",
+    "relevant": true,
+    "summary_en": "Artillery shelling targeted the city of Khiam and the town of Maroun al-Ras in southern Lebanon near the Israeli border. The shelling represents ongoing cross-border hostilities between Israel and Hezbollah forces in the southern Lebanon theater, a key front in the wider Iran-US/Israel conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "hezbollah",
+      "shelling"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah (Iran proxy)"
+      ],
+      "location": "Khiam City and Maroun al-Ras Town, southern Lebanon near Israeli border",
+      "brief": "Artillery shelling by Israeli forces targeted Hezbollah positions in southern Lebanon near the Israeli border, representing ongoing cross-border proxy hostilities."
+    },
+    "lat": 15.3000177,
+    "lng": 44.1942533
+  },
+  {
+    "id": "17c70d4e80c04b98",
+    "title_original": "U.S. Military Death Toll in Iran War Rises to 6",
+    "content_original": "The number of U.S. service members killed in the first three days of the war grew as officials said the remains of two more troops had been recovered.",
+    "url": "https://www.nytimes.com/2026/03/02/world/middleeast/us-military-death-toll-iran.html",
+    "published": "2026-03-02T21:49:56+00:00",
+    "fetched_at": "2026-03-02T22:13:53.124980+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "U.S. Military Death Toll in Iran War Rises to 6",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The number of U.S. service members killed in the first three days of the Iran-United States war has risen to 6 after officials confirmed the remains of two additional troops were recovered. This marks a significant escalation in American casualties since the conflict began, indicating intensifying hostilities across multiple fronts including strikes on Iranian territory and Iranian retaliation against U.S. bases in the region.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "killed",
+      "war",
+      "death"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Western Middle East",
+      "brief": "Six US service members killed in first three days of Iran-US war, marking significant escalation in American casualties from direct Iranian attack."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "b7c44c26669cf222",
+    "title_original": "U.S. military bases step up security measures as war against Iran continues",
+    "content_original": "Military bases across the country are stepping up security measures amid the U.S.-Israeli war against Iran.",
+    "url": "https://www.latimes.com/california/story/2026-03-02/u-s-military-bases-step-up-security-measures-as-iran-war-continues",
+    "published": "2026-03-02T21:47:32+00:00",
+    "fetched_at": "2026-03-02T22:14:05.311180+00:00",
+    "source_name": "LA Times World & Nation",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "U.S. military bases step up security measures as war against Iran continues",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "U.S. military bases across the region are increasing security measures in response to the ongoing U.S.-Israeli war against Iran. The stepped-up security comes amid continued Iranian ballistic missile and drone strikes against U.S. bases in Iraq, Syria, and the Gulf, as well as threats from Iranian proxies across multiple fronts.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "war",
+      "drone",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile|drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Iraq,Syria,Gulf region",
+      "brief": "Iranian ballistic missile and drone strikes on US bases in Iraq, Syria, and Gulf prompt increased security measures at US military facilities amid ongoing US-Israeli war against Iran."
+    },
+    "lat": 33.1,
+    "lng": 44.17
   },
   {
     "id": "3fecbf123723ba24",
@@ -5389,6 +6362,46 @@
     "merged_source_count": 3,
     "lat": 33.85,
     "lng": 35.86
+  },
+  {
+    "id": "1254d48abfd18544",
+    "title_original": "Trump declares 'I got him before he got me' after Iran's Supreme Leader killed in strike",
+    "content_original": "President Donald Trump said, \"I got him before he got me,\" on Sunday after Iran’s Supreme Leader, Ayatollah Ali Khamenei and other top Iranian leaders were killed after an Israeli strike in Tehran as part of a massive coordinated U.S.-Israeli military offensive called \"Operation Epic Fury.\" \"I got him before he got me,\" Trump told ABC News’ Jonathan Karl on a phone call. \"They tried twice,\" the president said of previous attempts on his life. \"Well, I got him first.\" Trump called the attack \"so successful\" and that many possible Iranian successors were taken out as well. FROM MISSILES TO MINERALS: THE STRATEGIC MEANING BEHIND THE IRAN STRIKE In response to who could likely be the next leader in the region, the president said, \"It’s not going to be anybody that we were thinking of because they’re all dead.\" Six U.S. service members have been killed in action so far since the recent round of hostilities over the weekend. \"It’s war, and you have casualties in war,\" Trump said to Karl afte...",
+    "url": "https://www.foxnews.com/media/trump-declares-i-got-him-before-he-got-me-after-irans-supreme-leader-killed-strike",
+    "published": "2026-03-02T17:05:18-05:00",
+    "fetched_at": "2026-03-02T22:13:54.617669+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Trump declares 'I got him before he got me' after Iran's Supreme Leader killed in strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "President Trump claimed credit for an Israeli strike in Tehran that killed Iran's Supreme Leader Ayatollah Ali Khamenei and other top Iranian leaders as part of 'Operation Epic Fury,' a massive coordinated US-Israeli military offensive. Trump stated 'I got him before he got me,' referencing previous assassination attempts on his life and declaring the attack 'so successful' with many potential Iranian successors also eliminated. This represents a massive escalation in the Iran-US conflict, eliminating the highest-ranking Iranian leader and likely triggering significant retaliation.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "killed",
+      "strike",
+      "offensive",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Israeli strike in Tehran killed Iran's Supreme Leader Ayatollah Ali Khamenei and other top Iranian leaders as part of a coordinated US-Israeli military operation called 'Operation Epic Fury'."
+    },
+    "merged_source_count": 11,
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "5d7627c83d8c517d",
