@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T01-21-16.996227_plus_00-00.json",
+    "generated_at": "2026-03-02T01:21:16.996227+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 742,
+    "summary_preview": "The Iran-US conflict has entered a critical new phase with confirmed Iranian direct attacks on US military assets (3 soldiers killed in Kuwait, Fifth Fleet base in Bahrain), the confirmed death of Ira"
+  },
+  {
     "filename": "2026-03-02T00-49-10.568956_plus_00-00.json",
     "generated_at": "2026-03-02T00:49:10.568956+00:00",
     "threat_label": "MAJOR",
