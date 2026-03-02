@@ -1,5 +1,41 @@
 [
   {
+    "id": "a102d8231841a745",
+    "title_original": "США впервые применили новую ракету PrSM в Иране",
+    "content_original": "США впервые применили новую ракету PrSM в Иране",
+    "url": "https://www.rbc.ru/photoslider/69a5e63c9a7947f27239e0ce",
+    "published": "2026-03-02T22:35:30+03:00",
+    "fetched_at": "2026-03-02T19:53:51.848115+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Uses New PrSM Missile in Iran for First Time",
+    "relevant": true,
+    "summary_en": "The United States has deployed its new Precision Strike Missile (PrSM) against targets in Iran for the first time. The PrSM, a long-range surface-to-surface missile, was used in recent US strikes on Iranian military facilities. This represents a significant escalation, as the US is testing its newest deep-strike weapon against Iranian territory.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US deployed new Precision Strike Missile (PrSM) against Iranian military facilities in significant escalation marking first use of this weapon system against Iran"
+    },
+    "merged_source_count": 11,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "4c923152b79cf19f",
     "title_original": "Watch: ‘Natanz site hit again’ says Iran; IAEA reports no confirmation",
     "content_original": "Iran claims its Natanz nuclear facility was hit again, while the International Atomic Energy Agency says it has no confirmation of damage",
@@ -74,6 +110,80 @@
     "lng": 48.2896822
   },
   {
+    "id": "3fecbf123723ba24",
+    "title_original": "חיל הים האיראני סיים כמו הטיטאניק - ארה\"ב פרסמה תיעוד מהכתישה הימית | צפו",
+    "content_original": "חיל הים האיראני סיים כמו הטיטאניק - ארה\"ב פרסמה תיעוד מהכתישה הימית | צפו",
+    "url": "https://mivzakim.net/r/13968439/rss",
+    "published": "2026-03-02T21:46:56+02:00",
+    "fetched_at": "2026-03-02T19:53:56.856340+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian navy ended like the Titanic - US published documentation of naval crushing | Watch",
+    "relevant": true,
+    "summary_en": "The US military published footage showing the destruction of Iranian naval vessels in what appears to be a significant naval engagement. The Iranian navy suffered a major defeat comparable to the Titanic disaster. This represents a substantial US naval victory in the ongoing Iran-US conflict, demonstrating American maritime superiority in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "naval_incident",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Persian Gulf",
+      "brief": "US military published footage documenting destruction of Iranian naval vessels in significant naval engagement."
+    },
+    "merged_source_count": 2,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "6a388c511033bf20",
+    "title_original": "איראן: \"ישראל וארה\"ב תקפו אתמול את מתקן הגרעין בנתנז\"",
+    "content_original": "איראן: \"ישראל וארה\"ב תקפו אתמול את מתקן הגרעין בנתנז\"",
+    "url": "https://mivzakim.net/r/13968438/rss",
+    "published": "2026-03-02T21:46:35+02:00",
+    "fetched_at": "2026-03-02T19:53:56.856555+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran: \"Israel and the US attacked the nuclear facility in Natanz yesterday\"",
+    "relevant": true,
+    "summary_en": "Israel and the US carried out a strike against Iran's nuclear facility in Natanz yesterday, according to Iranian statements. The attack targets Iran's nuclear infrastructure, representing a significant escalation in the ongoing Iran-US armed conflict and directly threatening Iran's nuclear program capabilities.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Natanz, Iran",
+      "brief": "US and Israel conducted an airstrike against Iran's nuclear facility at Natanz, representing a significant escalation in the Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "4acb8a8eef8208b3",
     "title_original": "Минобороны ОАЭ: силы ПВО уничтожили более 160 баллистических ракет из Ирана",
     "content_original": "В ведомстве сообщили, что 13 ракет упали в море",
@@ -109,6 +219,151 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "f0ea97e5099ed973",
+    "title_original": "צפו: צבא ארה\"ב השמיד את כל 11 ספינות המלחמה האיראניות במפרץ עומאן",
+    "content_original": "צפו: צבא ארה\"ב השמיד את כל 11 ספינות המלחמה האיראניות במפרץ עומאן",
+    "url": "https://mivzakim.net/r/13968432/rss",
+    "published": "2026-03-02T21:39:25+02:00",
+    "fetched_at": "2026-03-02T19:53:56.857134+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Watch: US army destroys all 11 Iranian warships in Gulf of Oman",
+    "relevant": true,
+    "summary_en": "The US military has reportedly destroyed all 11 Iranian warships in the Gulf of Oman. This would represent a major escalation in the naval dimension of the Iran-US conflict, effectively eliminating Iranian naval presence in this strategic waterway. However, the authenticity of this claim cannot be verified from the headline alone.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Gulf of Oman",
+      "brief": "US military reportedly destroyed all 11 Iranian warships in the Gulf of Oman, representing a major escalation and elimination of Iranian naval presence in this strategic waterway."
+    },
+    "lat": 24.2138029,
+    "lng": 58.9845823
+  },
+  {
+    "id": "e5547975ba31ff75",
+    "title_original": "דובר צה\"ל: חיסלנו מאות פעילים במנגנונים הביטחוניים של המשטר האיראני",
+    "content_original": "דובר צה\"ל: חיסלנו מאות פעילים במנגנונים הביטחוניים של המשטר האיראני",
+    "url": "https://mivzakim.net/r/13968427/rss",
+    "published": "2026-03-02T21:37:53+02:00",
+    "fetched_at": "2026-03-02T19:53:56.857539+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Spokesperson: We eliminated hundreds of operatives in the Iranian regime's security mechanisms",
+    "relevant": true,
+    "summary_en": "The IDF Spokesperson announced that Israeli forces have eliminated hundreds of operatives in the security mechanisms of the Iranian regime. This represents a significant escalation in Israeli military operations against Iranian targets, likely part of the broader conflict involving IRGC assets and Iranian-linked forces in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Israel",
+      "brief": "IDF announces elimination of hundreds of operatives in Iranian security mechanisms, marking significant escalation in Israeli military operations against Iranian targets."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "964d3cde1d8f9d5f",
+    "title_original": "צבא ארה״ב מציג תיעוד דרמטי של הפצצת נושאת כטב״מים איראנית | צפו",
+    "content_original": "פיקוד המרכז של צבא ארה\"ב (CENTCOM) מדווח על שינוי דרמטי במאזן הכוחות הימי במפרץ עומאן: בתוך 48 שעות בלבד, חוסלה לחלוטין נוכחותן של 11 ספינות של המשטר האיראני שפעלו באזור. במקביל להצהרה, פרסם צבא ארה\"ב תיעוד יוצא דופן של הפצצת נושאת כטב\"מים איראנית, שהיוותה איום מרכזי על נתיבי השיט הבינלאומיים. בסנטקום הבהירו כי מדובר בסיומו",
+    "url": "https://mivzakim.net/r/13968426/rss",
+    "published": "2026-03-02T21:37:47+02:00",
+    "fetched_at": "2026-03-02T19:53:56.857744+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "US military presents dramatic documentation of bombing Iranian drone carrier | Watch",
+    "relevant": true,
+    "summary_en": "US Central Command (CENTCOM) reported a dramatic shift in the maritime power balance in the Oman Gulf, with 11 vessels of the Iranian regime operating in the area completely eliminated within 48 hours. The US military released unprecedented footage of bombing an Iranian drone carrier that posed a central threat to international shipping lanes, with CENTCOM stating this represents the end of that threat.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC",
+        "CENTCOM"
+      ],
+      "location": "Oman Gulf",
+      "brief": "US military released footage of striking and destroying 11 Iranian drone carrier vessels operating in the Oman Gulf within 48 hours."
+    },
+    "lat": 19.8333333,
+    "lng": 58.0
+  },
+  {
+    "id": "f80e78917463cbbf",
+    "title_original": "חיל האוויר השלים גל תקיפות רחבות והעמיק את השליטה האווירית באיראן",
+    "content_original": "חיל האוויר השלים לפני זמן קצר (שני) שלושה גלי תקיפה נוספים במערב איראן לפגיעה במערכי האש של המשטר האיראני והעמקת השליטה האווירית של צה\"ל במרחב. במסגרת גלי התקיפות, חיל האוויר הטיל מאות חימושים לעבר עשרות משגרי טילים, מערכות הגנה ומערכי אש נוספים שהיו בשימוש משטר הטרור האיראני.",
+    "url": "https://mivzakim.net/r/13968425/rss",
+    "published": "2026-03-02T21:36:56+02:00",
+    "fetched_at": "2026-03-02T19:53:56.857942+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli Air Force completes broad attack waves and deepens aerial control in Iran",
+    "relevant": true,
+    "summary_en": "The Israeli Air Force completed three additional attack waves in western Iran to strike the Iranian regime's fire systems and deepen IDF aerial control in the region. The Air Force dropped hundreds of weapons on dozens of missile launchers, defense systems, and other fire arrays used by the Iranian regime.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "attack",
+      "idf",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (western)",
+      "brief": "Israeli Air Force executed three additional attack waves in western Iran, striking missile launchers, defense systems, and fire arrays with hundreds of weapons to deepen IDF aerial control."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "b009aa5ae5c10df4",
@@ -148,6 +403,265 @@
     },
     "lat": 33.1,
     "lng": 44.17
+  },
+  {
+    "id": "210e33e1a5c95865",
+    "title_original": "ארה\"ב השמידה את כל ספינות המלחמה של איראן בעומאן",
+    "content_original": "ארה\"ב השמידה את כל ספינות המלחמה של איראן בעומאן",
+    "url": "https://mivzakim.net/r/13968423/rss",
+    "published": "2026-03-02T21:36:17+02:00",
+    "fetched_at": "2026-03-02T19:53:56.858129+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "USA Destroyed All of Iran's Warships in Oman",
+    "relevant": true,
+    "summary_en": "The United States military has destroyed all Iranian warships stationed in Oman, representing a significant escalation in the ongoing US-Iran conflict. This strike targeted Iranian naval assets in Omani waters, eliminating Iran's warship fleet in the region and demonstrating US power projection capabilities in the Gulf. The attack marks a substantial military blow to Iran's naval forces and could provoke further Iranian retaliation against US bases and assets in the Middle East.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    },
+    "merged_source_count": 2
+  },
+  {
+    "id": "210e33e1a5c95865",
+    "title_original": "ארה\"ב השמידה את כל ספינות המלחמה של איראן בעומאן",
+    "content_original": "ארה\"ב השמידה את כל ספינות המלחמה של איראן בעומאן",
+    "url": "https://mivzakim.net/r/13968423/rss",
+    "published": "2026-03-02T21:36:17+02:00",
+    "fetched_at": "2026-03-02T19:53:57.505402+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "US Destroyed All of Iran's Warships in Oman",
+    "relevant": true,
+    "summary_en": "US forces reportedly destroyed all Iranian warships stationed in Oman. This represents a significant naval strike against Iran's military assets in the Gulf region, potentially eliminating a substantial portion of Iran's naval capabilities in Omani waters.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Oman,Gulf of Oman",
+      "brief": "US forces destroyed all Iranian warships stationed in Oman, eliminating a significant portion of Iran's naval capabilities in the region."
+    },
+    "lat": 21.0000287,
+    "lng": 57.0036901
+  },
+  {
+    "id": "20a751d260632d29",
+    "title_original": "מרי אן נהרגה מפגיעת הטיל האיראני בתל אביב: \"מלאך עלי אדמות\"",
+    "content_original": "מרי אן דה-ורה, מטפלת סיעודית פיליפינית בת 32 היתה המלאך של משפחת גורין • במשך שנים היא טיפלה באם המשפחה דוריס, ולבנותיה לא נותרו מילים: \"נשמה מיוחדת, אדם כל כך ייחודי, אדיב, מסור ואכפתי\"",
+    "url": "https://mivzakim.net/r/13968417/rss",
+    "published": "2026-03-02T21:32:55+02:00",
+    "fetched_at": "2026-03-02T19:53:56.858935+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Filipino Caregiver Killed in Iranian Missile Strike on Tel Aviv",
+    "relevant": true,
+    "summary_en": "Mary Ann De Vera, a 32-year-old Filipino nursing caregiver, was killed when an Iranian missile struck Tel Aviv. She had been caring for the Gorin family for years, tending to mother Doris and her daughters, who described her as a special soul, a unique, kind, dedicated and caring person.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Philippines"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Iranian ballistic missile strike on Tel Aviv killed Mary Ann De Vera, a 32-year-old Filipino nursing caregiver working for the Gorin family."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "1fdaf3875ce3157e",
+    "title_original": "קטאר והאמירויות מבקשות עזרה ולוחצות על טראמפ: \"הפטריוט ייגמרו תוך 4 ימים\"",
+    "content_original": "מדינות המפרץ הערביות ממשיכות לספוג אש מאיראן, ולפי \"בלומברג\" מבקשות מהנשיא לחפש \"נתיב יציאה\" מהמלחמה, ופונות לבעלות ברית שיעזרו להן לשפר את ההגנה האווירית ויירוט הכטב\"מים. לפי איטליה הן ביקשו סוללות MAMBA, מערכת אירופית נגד טילים בליסטיים, אבל המלאי קטן כי הרוב נשלח לאוקראינה",
+    "url": "https://www.ynet.co.il/news/article/bkurzwmfzg",
+    "published": "2026-03-02T21:32:46+02:00",
+    "fetched_at": "2026-03-02T19:53:51.992084+00:00",
+    "source_name": "Ynet",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Qatar and UAE Request Help and Pressure Trump: 'Patriots Will Run Out in 4 Days'",
+    "relevant": true,
+    "summary_en": "Qatar and the UAE are urgently requesting military assistance from the US and allies, warning that their Patriot air defense systems will be depleted within 4 days due to ongoing Iranian drone and missile attacks. According to reports, Gulf states have turned to Italy requesting European MAMBA ballistic missile defense batteries, but inventory is severely limited as most systems have already been sent to Ukraine.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "ballistic",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "UAE",
+        "United States",
+        "Italy"
+      ],
+      "location": "Qatar, UAE, Persian Gulf",
+      "brief": "Gulf states Qatar and UAE warn their Patriot air defense systems will be depleted within 4 days due to ongoing Iranian drone and missile attacks, urgently requesting additional military assistance from the US and allies including Italy."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "21c04d5b04e76328",
+    "title_original": "צפו: צה\"ל העמיק את השליטה בטהרן, מאות חימושים הוטלו מהאוויר",
+    "content_original": "חיל האוויר השלים הערב שלושה גלי תקיפה עוצמתיים במערב איראן, במסגרתם הוטלו מאות חימושים על עשרות משגרי טילים ומערכות הגנה אסטרטגיות • בצה\"ל מציינים כי המבצע העמיק משמעותית את השליטה האווירית בשמי המדינה, וכי הפגיעה השיטתית במערכי האש נועדה לנטרל את איום הטילים הבליסטיים",
+    "url": "https://mivzakim.net/r/13968413/rss",
+    "published": "2026-03-02T21:32:21+02:00",
+    "fetched_at": "2026-03-02T19:53:56.859128+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Watch: IDF deepens control over Tehran, hundreds of weapons dropped from air",
+    "relevant": true,
+    "summary_en": "The Israeli Air Force completed three powerful attack waves in western Iran, dropping hundreds of weapons on dozens of missile launchers and strategic defense systems. The IDF stated the operation significantly deepened Israeli air control over Iranian airspace, with the systematic targeting of fire arrays designed to neutralize the ballistic missile threat.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "ballistic",
+      "idf",
+      "attack",
+      "threat"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "western Iran",
+      "brief": "Israeli Air Force conducted three major attack waves on Iranian missile launchers and strategic defense systems, significantly deepening Israeli air control over Iranian airspace."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "5c075ec46d77647b",
+    "title_original": "ה\"רובוטריקים\" האיראניים שמשגרים לישראל - והגיים צ'יינג'ר מול הטילים",
+    "content_original": "לטייסי הקרב של חיל האוויר מטרות שונות באיראן, אך המיקוד העיקרי שלהם הוא במערכי השיגור והייצור של הטילים הבליסטיים. בשיתוף פעולה ישראלי-אמריקני, מתמקדים הטייסים בארבע מקבצי מטרות המציבים אתגרים שונים: אתרי אחסון ושיגור, \"ערי טילים\", משאיות המשגרים ואתרי ייצור הטילים",
+    "url": "https://mivzakim.net/r/13968410/rss",
+    "published": "2026-03-02T21:31:36+02:00",
+    "fetched_at": "2026-03-02T19:54:00.180665+00:00",
+    "source_name": "Mivzakim World",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "The Iranian 'robotricks' being launched at Israel - and the game changer against missiles",
+    "relevant": true,
+    "summary_en": "Israeli Air Force pilots are targeting Iranian missile production and launch facilities in an Israeli-American cooperative effort. The focus is on four target clusters: storage and launch sites, 'missile cities,' mobile launcher trucks, and missile production facilities, representing a strategic campaign against Iran's ballistic missile capabilities.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "United States",
+        "Iran"
+      ],
+      "location": "Israel/Iran",
+      "brief": "Israeli Air Force pilots conduct airstrikes on Iranian missile production and launch facilities in coordinated US-Israel operation targeting storage sites, missile cities, mobile launchers, and production facilities."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "906e3fc3b2952cbc",
+    "title_original": "הערכה בישראל: יותר מאלף אנשי משמרות המהפכה נהרגו עד כה",
+    "content_original": "הערכה בישראל: יותר מאלף אנשי משמרות המהפכה נהרגו עד כה",
+    "url": "https://mivzakim.net/r/13968409/rss",
+    "published": "2026-03-02T21:29:44+02:00",
+    "fetched_at": "2026-03-02T19:53:57.505617+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli assessment: Over 1,000 IRGC members killed to date",
+    "relevant": true,
+    "summary_en": "Israeli intelligence officials estimate that more than 1,000 members of Iran's Islamic Revolutionary Guard Corps have been killed since the conflict began. This reflects the significant toll of US and allied strikes on IRGC personnel and assets across the region, including targeting of IRGC commanders, Quds Force operatives, and proxy forces.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "proxy",
+      "irgc",
+      "conflict",
+      "killed",
+      "quds force"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Middle East, Region-wide (Iran, Syria, Iraq, Lebanon, Yemen)",
+      "brief": "Israeli intelligence estimates over 1,000 IRGC members killed by US and allied strikes since conflict began, reflecting heavy toll on Iranian forces."
+    },
+    "merged_source_count": 2,
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "4d85b57657e041f8",
@@ -484,6 +998,43 @@
     "merged_source_count": 6,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "81cdcb3ee66314b9",
+    "title_original": "Britain tried to stay out, Iran hit Cyprus anyway, and Hegseth’s warning landed - comment",
+    "content_original": "Pete Hegseth argues for swift action against Iran, but with conflicting intelligence, is this bold strike the right move for peace?",
+    "url": "https://www.jpost.com/opinion/article-888578",
+    "published": "2026-03-02T20:43:37+00:00",
+    "fetched_at": "2026-03-02T19:53:52.767487+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Britain tried to stay out, Iran hit Cyprus anyway, and Hegseth's warning landed - comment",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Commentary piece analyzing the Iran-US conflict, discussing Britain's attempts to remain uninvolved, Iran's strikes on Cyprus as part of its retaliation, and US Defense Secretary Pete Hegseth's warnings about Iran. The article questions whether the US military approach and swift strikes against Iran are the right path to peace, given conflicting intelligence assessments.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Britain",
+        "Cyprus",
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "Cyprus,Middle East",
+      "brief": "Commentary on Iran's retaliation strike on Cyprus despite Britain's neutrality, alongside US strikes on Iran and Defense Secretary Hegseth's warnings, marking a major escalation in the Iran-US conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "6841d7f63a7d4ac4",
@@ -978,6 +1529,45 @@
     "lng": 54.0
   },
   {
+    "id": "23254af66466a622",
+    "title_original": "IRGC targets US intelligence centers, military depots in 11th wave of attacks   The Iranian armed forces have started...",
+    "content_original": "IRGC targets US intelligence centers, military depots in 11th wave of attacks The Iranian armed forces have started a new wave of extensive drone and missile attacks on targets in the Israeli-occupied territories and US assets in regional countries. @PressTV",
+    "url": "https://t.me/presstv/177719",
+    "published": "2026-03-02T19:51:52+00:00",
+    "fetched_at": "2026-03-02T19:56:08.105894+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC targets US intelligence centers, military depots in 11th wave of attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Iranian Revolutionary Guard Corps (IRGC) has launched a new wave of drone and missile attacks targeting US intelligence centers and military depots in regional countries, as well as Israeli-occupied territories. This marks the 11th consecutive wave of attacks in the escalating Iran-US conflict, demonstrating Iran's sustained offensive campaign against US assets across the Middle East.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "offensive",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|drone_strike|irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "Israel"
+      ],
+      "location": "Iran/Regional Middle East",
+      "brief": "IRGC launched its 11th consecutive wave of drone and missile attacks targeting US intelligence centers and military depots in regional countries and Israeli-occupied territories, marking a significant escalation in the Iran-US conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "b1c88b424fdafb69",
     "title_original": "Глава МО Хили: атака БПЛА нанесла британской базе на Кипре минимальный ущерб",
     "content_original": "По данным телеканала Sky News, атаковавший базу дрон был небольшим",
@@ -1164,6 +1754,184 @@
     "lng": 56.25
   },
   {
+    "id": "af047c4d81da4161",
+    "title_original": "Qatar Says It Shot Down Two Iranian Bombers",
+    "content_original": "It was the first report in this conflict of Iran attempting to attack its Persian Gulf neighbors with warplanes. The incident indicates a sharp escalation in tensions between Iran and Qatar.",
+    "url": "https://www.nytimes.com/2026/03/02/world/middleeast/qatar-iran-bombers-shot-down.html",
+    "published": "2026-03-02T19:45:15+00:00",
+    "fetched_at": "2026-03-02T19:55:47.197893+00:00",
+    "source_name": "New York Times – Iran",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Qatar Says It Shot Down Two Iranian Bombers",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Qatar has shot down two Iranian bombers attempting to attack Persian Gulf neighbors, marking the first reported Iranian air attack on a Gulf state in this conflict. The incident represents a significant escalation, as Iran extends its military operations beyond US targets to include attacks on regional allies hosting American forces.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Qatar"
+      ],
+      "location": "Qatar/Persian Gulf",
+      "brief": "Qatar shot down two Iranian bombers attempting to attack Persian Gulf neighbors, marking the first reported Iranian air attack on a Gulf state in this conflict."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "bbbc3f1c7028d1ab",
+    "title_original": "ارتش اسرائیل: تا خلع سلاح حزب‌الله عملیات در لبنان ادامه دارد",
+    "content_original": "شفقنا- سخنگوی ارتش اسرائیل، ایوی دفرین، اعلام کرد که ارتش این رژیم عملیات خود در لبنان را «تا زمانی که حزب‌الله سلاح خود را کنار بگذارد» ادامه خواهد داد. به گزارش شفقنا؛ وبگاه شبکه الهدهد نوشت: وی این اظهارات را در تکرار گفته‌های ایال زمیر، رئیس ستاد کل ارتش، بیان کرد که امروز در شمال [&#8230;] نوشته ارتش اسرائیل: تا خلع سلاح حزب‌الله عملیات در لبنان ادامه دارد اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2223655/",
+    "published": "2026-03-02T19:43:08+00:00",
+    "fetched_at": "2026-03-02T19:53:43.002331+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Israeli Army: Operations in Lebanon Will Continue Until Hezbollah is Disarmed",
+    "relevant": true,
+    "summary_en": "Israeli army spokesperson Evi De-frin announced that Israel will continue its operations in Lebanon until Hezbollah lays down its weapons, repeating statements made by IDF Chief of Staff Eyal Zamir. This indicates Israel's continued military campaign against Hezbollah on its northern border as part of the ongoing regional conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "conflict",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran (supporting Hezbollah)"
+      ],
+      "location": "Lebanon (northern Israel border)",
+      "brief": "Israel announces continued military operations in Lebanon until Hezbollah disarms, continuing IDF campaign against the Iran-backed Lebanese militia on its northern border."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "a8531b073b1cb224",
+    "title_original": "🇮🇱 🇺🇸 ⚔️ 🇮🇷   Before (Feb 27) and after (March 1) imagery captured shows damage at the Khorgu missile base in Iran fo...",
+    "content_original": "🇮🇱 🇺🇸 ⚔️ 🇮🇷 Before (Feb 27) and after (March 1) imagery captured shows damage at the Khorgu missile base in Iran following US/Israeli strikes. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70157",
+    "published": "2026-03-02T19:37:50+00:00",
+    "fetched_at": "2026-03-02T19:56:12.160804+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Satellite imagery shows damage at Khorgu missile base in Iran following US/Israeli strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Commercial satellite imagery对比显示，伊朗霍尔古导弹基地在2月27日至3月1日期间遭受美以联合打击后出现明显损毁。该基地位于伊朗境内，是弹道导弹存储和发射设施之一，此次打击进一步削弱了伊朗的导弹作战能力，标志着冲突升级至伊朗本土关键军事基础设施。",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Khorgu missile base, Iran",
+      "brief": "US/Israeli joint airstrikes on February 27-March 1 caused significant damage to Iran's Khorgu ballistic missile base, escalating direct hostilities to Iranian territory and degrading Iran's missile capabilities."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "e4759d67f84201b2",
+    "title_original": "الهجوم على لبنان محضر مسبقا",
+    "content_original": "الهجوم على لبنان محضر مسبقا",
+    "url": "https://t.me/Electrohizbullah/157209",
+    "published": "2026-03-02T19:37:49+00:00",
+    "fetched_at": "2026-03-02T19:56:15.754372+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Attack on Lebanon was pre-planned",
+    "relevant": true,
+    "summary_en": "Reports indicate that the attack on Lebanon was pre-planned in advance, suggesting deliberate Israeli military preparation amid ongoing hostilities with Hezbollah and broader Iran-linked regional tensions.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah"
+      ],
+      "location": "Lebanon",
+      "brief": "Pre-planned Israeli military attack on Lebanon amid ongoing hostilities with Hezbollah and broader Iran-linked regional tensions."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "2399a22a04d59c77",
+    "title_original": "🇮🇱 🇺🇸 ⚔️ 🇮🇷   New satellite imagery shows extensive damage to storage buildings, bunkers, and drone launch equipment ...",
+    "content_original": "🇮🇱 🇺🇸 ⚔️ 🇮🇷 New satellite imagery shows extensive damage to storage buildings, bunkers, and drone launch equipment at the Choqa Balk-e facility in western Iran following US and Israeli airstrikes. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70153",
+    "published": "2026-03-02T19:35:03+00:00",
+    "fetched_at": "2026-03-02T19:56:12.160015+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Satellite imagery shows extensive damage at Choqa Balk-e facility in western Iran following US and Israeli airstrikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US and Israeli airstrikes have caused extensive damage to storage buildings, bunkers, and drone launch equipment at the Choqa Balk-e facility in western Iran, according to new satellite imagery. The damage to this Iranian military facility represents a significant blow to Iran's drone capabilities and military infrastructure in the region.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Choqa Balk-e, western Iran",
+      "brief": "US and Israeli airstrikes caused extensive damage to storage buildings, bunkers, and drone launch equipment at an Iranian military facility, significantly impacting Iran's drone capabilities."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "bcd91dec344fc732",
     "title_original": "سرايا القدس تنعى أحد قادتها في لبنان.. وتحمل الكيان تبعات التصعيد",
     "content_original": "المسيرة نت| خاص: نعت سرايا القدس، الجناح العسكري لحركة حركة الجهاد الإسلامي في فلسطين، الشهيد القائد أدهم عدنان العثمان \"أبو حمزة\"، قائد سرايا القدس في الساحة اللبنانية، الذي ارتقى إثر عدوان صهيوني غادر استهدف ضاحية بيروت الجنوبية.",
@@ -1204,6 +1972,81 @@
     "merged_source_count": 2,
     "lat": 33.85,
     "lng": 35.86
+  },
+  {
+    "id": "0b85779b58891778",
+    "title_original": "איראן היא מדינה עצומה - וזה לא עוזר לה: בחיל האוויר יוצאים לציד | אבי אשכנזי",
+    "content_original": "בצה\"ל מעריכים שבעקבות קצב התקיפות הגבוה של חיל האוויר קיימת אפשרות שניתן יהיה בתוך ימים ספורים לראות ירידה משמעותית בקצב הירי מאיראן, בכפוף להצלחה לשמור על חופש הפעולה האווירי",
+    "url": "https://www.maariv.co.il/news/military/article-1291183",
+    "published": "2026-03-02T19:30:33+00:00",
+    "fetched_at": "2026-03-02T19:53:52.550473+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iran is a huge country - and it doesn't help them: The Air Force goes hunting",
+    "relevant": true,
+    "summary_en": "The IDF assesses that following the high pace of Israeli Air Force attacks against Iran, there is potential for a significant reduction in Iranian missile and drone fire within days, provided Israel maintains its aerial operational freedom. This represents an Israeli offensive campaign targeting Iranian military assets to suppress retaliatory attacks.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "offensive",
+      "missile",
+      "drone",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IDF"
+      ],
+      "location": "Iran/Israel region",
+      "brief": "Israeli Air Force conducting high-pace attacks against Iran with IDF assessment of significant reduction in Iranian missile and drone capabilities within days."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "49e2a10ea5d69452",
+    "title_original": "#إعلام_العدو   القناة 13 العبرية: حزب الله أطلق صواريخ ليلة أمس بينما كان الكابينيت يناقش تنفيذ ضربة استباقية ضد الحز...",
+    "content_original": "#إعلام_العدو القناة 13 العبرية: حزب الله أطلق صواريخ ليلة أمس بينما كان الكابينيت يناقش تنفيذ ضربة استباقية ضد الحزب في لبنان. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/157208",
+    "published": "2026-03-02T19:26:50+00:00",
+    "fetched_at": "2026-03-02T19:56:15.753839+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Channel 13: Hezbollah launched rockets last night while cabinet discussed implementing preemptive strike against party in Lebanon",
+    "relevant": true,
+    "summary_en": "Hezbollah launched rockets at Israel during the night while the Israeli cabinet was meeting to discuss implementing a preemptive strike against the group in Lebanon. The timing of the attack coincided with high-level Israeli discussions about taking offensive action against Hezbollah, indicating potential escalation on the northern front.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "attack",
+      "strike",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Hezbollah launched rockets at Israel during Israeli cabinet discussions about preemptive strikes against the group in Lebanon."
+    },
+    "lat": 33.1,
+    "lng": 35.3
   },
   {
     "id": "e8485ec63a4a3b62",
@@ -5496,6 +6339,45 @@
     "lng": 34.8
   },
   {
+    "id": "494e5f4d21a274b1",
+    "title_original": "Fuel tanker ablaze in Strait of Hormuz after drone strike, Iran Revolutionary Guards say",
+    "content_original": "CAIRO, March 2 (Reuters) - Iran's Revolutionary Guards said a fuel tanker, identified as the Honduran-flagged Athe Nova, was burning in the Strait of Hormuz after being hit by two drones, Iranian news agencies reported on Monday. The strait is the world's most vital oil export route, connecting the biggest Gulf oil producers, such as Saudi Arabia, Iran, Iraq and the United Arab Emirates, with the Gulf of Oman and the Arabian Sea.",
+    "url": "https://www.al-monitor.com/originals/2026/03/fuel-tanker-ablaze-strait-hormuz-after-drone-strike-iran-revolutionary-guards-say",
+    "published": "2026-03-02T14:36:42-05:00",
+    "fetched_at": "2026-03-02T19:55:06.606479+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Fuel tanker ablaze in Strait of Hormuz after drone strike, Iran Revolutionary Guards say",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran's Revolutionary Guards reported that the Honduran-flagged fuel tanker Athe Nova was struck by two drones and is burning in the Strait of Hormuz. The attack occurred in the world's most vital oil export route connecting major Gulf oil producers with the Gulf of Oman and Arabian Sea, highlighting the strategic vulnerability of global oil shipments in the ongoing Iran-US conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "drone",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran (IRGC)",
+        "Honduras (vessel flag)",
+        "Commercial shipping"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "Iranian Revolutionary Guards reported a Honduran-flagged fuel tanker was struck by two drones and set ablaze in the Strait of Hormuz, a critical global oil transit chokepoint."
+    },
+    "merged_source_count": 2,
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
     "id": "ddc5e3a027740270",
     "title_original": "אזעקות הופעלו בזרעית שבגבול לבנון",
     "content_original": "אזעקות הופעלו בזרעית שבגבול לבנון.",
@@ -5643,6 +6525,45 @@
     "lng": 47.0
   },
   {
+    "id": "27edb722668da194",
+    "title_original": "Gulf states intercept hundreds of Iranian missiles and drones, issue joint condemnation with US",
+    "content_original": "Several Gulf states on Monday said they intercepted hundreds of Iranian missiles and drones over the past 24 hours as regional tensions escalated in response to U.S. and Israeli strikes against Tehran. Bahrain's National Communication Center said its air defenses intercepted 70 missiles and 59 drones targeting the kingdom. Qatar said it downed two Iranian Su-24 fighter aircraft and intercepted seven ballistic missiles and five drones. The United Arab Emirates Ministry of Defense reported intercepting nine ballistic missiles, six cruise missiles and 148 drones. 3 US WARPLANES SHOT DOWN BY KUWAITI AIR DEFENSES, PILOTS BAIL OUT IN FRIENDLY FIRE INCIDENT, CENTCOM SAYS Since the start of Iran’s retaliatory attacks , the UAE said it has detected 174 ballistic missiles launched toward the country, destroying 161 while 13 fell into the sea. Officials also said 689 Iranian drones were detected, with 645 intercepted and 44 falling within the country’s territory. On Sunday, the UAE announced it w...",
+    "url": "https://www.foxnews.com/world/gulf-states-intercept-hundreds-iranian-missiles-drones-issue-joint-condemnation-us",
+    "published": "2026-03-02T14:31:21-05:00",
+    "fetched_at": "2026-03-02T19:55:48.486393+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Gulf states intercept hundreds of Iranian missiles and drones, issue joint condemnation with US",
+    "translated": true,
+    "summary_en": "Gulf states (Bahrain, Qatar, UAE) intercepted hundreds of Iranian missiles and drones over the past 24 hours in response to US and Israeli strikes against Tehran. Bahrain's air defenses intercepted 70 missiles and 59 drones; Qatar downed two Iranian Su-24 fighter jets, seven ballistic missiles and five drones; the UAE reported intercepting nine ballistic missiles, six cruise missiles and 148 drones. The joint interception effort demonstrates Gulf state coordination with US regional defenses and their active participation in countering",
+    "relevant": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "intercept",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile|drone_strike|iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "Qatar",
+        "UAE",
+        "United States",
+        "Israel"
+      ],
+      "location": "Gulf region (Bahrain, Qatar, UAE)",
+      "brief": "Gulf states intercepted hundreds of Iranian missiles and drones in defensive operation responding to US and Israeli strikes against Tehran, with Bahrain downing 70 missiles and 59 drones, Qatar destroying two Iranian Su-24 jets and seven ballistic missiles."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
     "id": "f311bfe7972684d7",
     "title_original": "Никто не пострадал после падения БПЛА в эмирате Рас-эль-Хайма на севере ОАЭ",
     "content_original": "В заявлении эмирата отмечается, что дроны были спешно перехвачены",
@@ -5678,6 +6599,40 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "3a17c5aa07136dda",
+    "title_original": "DHS remains unfunded as Iran sleeper cell fears spike nationwide amid security warnings",
+    "content_original": "Concerns about potential Iran-linked sleeper cells are rising as the Department of Homeland Security remains unfunded and Tehran and its proxies threaten retaliation over U.S.-Israeli strikes that American officials say killed nearly 50 top Iranian leaders. The sleeper cell concerns came into full focus over the weekend when authorities say a Senegalese man opened fire at patrons of an Austin, Texas, bar while wearing a sweatshirt that read \"Property of Allah.\" Ndiaga Diagne, 53, of Pflugerville, who was also found with an undershirt featuring the Iranian flag, reportedly entered the U.S. during the Clinton administration on a B-2 tourist visa. He became a naturalized citizen during the Obama administration. ENEMY WITHIN: COUNTERTERRORISM EXPERTS FEAR SLEEPER CELLS COULD BE POISED INSIDE US A San Antonio FBI official said the incident is being investigated for a \"potential nexus to terrorism.\" DHS Secretary Kristi Noem told Fox News Digital on Monday that she is in \"direct coordination...",
+    "url": "https://www.foxnews.com/politics/dhs-remains-unfunded-iran-sleeper-cell-fears-spike-nationwide-amid-security-warnings",
+    "published": "2026-03-02T14:29:05-05:00",
+    "fetched_at": "2026-03-02T19:55:48.487205+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "DHS remains unfunded as Iran sleeper cell fears spike nationwide amid security warnings",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Concerns about Iran-linked sleeper cells are rising amid security warnings, as a Senegalese man (Ndiaga Diagne) opened fire at an Austin, Texas bar while wearing a sweatshirt reading 'Property of Allah' and an undershirt featuring the Iranian flag. DHS remains unfunded as US officials say Tehran and its proxies threaten retaliation over US-Israeli strikes that allegedly killed nearly 50 top Iranian leaders.",
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Austin, Texas, USA",
+      "brief": "A shooting attack at an Austin bar by a Senegalese man wearing Iranian-flag clothing raises fears of Iran-linked sleeper cells in the US."
+    },
+    "lat": 30.2711286,
+    "lng": -97.7436995
   },
   {
     "id": "ab576734d901fa96",

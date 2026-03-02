@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-03-02T19:50:00.685492+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 750,
+    "incident_count_6h": 142,
+    "severity_breakdown": {
+      "major": 331,
+      "high": 240,
+      "medium": 173,
+      "low": 6
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 92,
+    "articles_analyzed": 186,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict intensifies into day 4 with major new developments: IRGC claims a US tanker is on fire in the Strait of Hormuz, signaling direct maritime escalation; Israel has flown over 1,000 combat sorties inside Iran; and Qatar's air defense interceptors face depletion within 4 days. Bahrain has now intercepted 70 missiles and 59 drones. Gulf oil/gas production remains shut. The conflict has expanded geographically to include British territory in Cyprus and Pakistan (23 protesters killed over Khamenei's death).",
+  "whats_new": [
+    "IRGC claims US tanker on fire in Strait of Hormuz after drone strike — major maritime escalation",
+    "Qatar interceptor stock will exhaust in 4 days at current usage rate — critical air defense sustainability issue",
+    "Iran launched attacks on British base in Cyprus — conflict expands to European sovereign territory",
+    "Kuwait announces first military death in conflict — escalation of regional involvement",
+    "US B-1 bombers conducted strikes deep inside Iranian territory targeting ballistic missile capabilities",
+    "Israeli Air Force conducted over 1,000 combat flights over Iranian territory — sustained deep-strike campaign",
+    "23 protesters killed in Pakistan after killing of Khamenei — regional instability spreading"
+  ],
+  "confirmed_events": [
+    "UAE air defenses successfully intercepted 9 ballistic missiles, 6 cruise missiles, and 148 drones — confirmed by UAE Ministry of Defense",
+    "Qatar shot down two Iranian Su-24 combat aircraft entering Qatari airspace — confirmed by Qatar Ministry of Defense",
+    "Bahrain Defense Force intercepted new wave of Iranian missiles/drones; total 70 missiles and 59 drones intercepted to date",
+    "Israeli airstrikes on Lebanon killed 52 and wounded 154 — confirmed by Lebanese Health Ministry",
+    "Iranian IRGC and Army launched fresh waves of missiles/drones against US and Israeli targets — confirmed by IRGC statements"
+  ],
+  "unverified_emerging": [
+    "Explosions reported near Isfahan with strikes targeting nuclear and air defense facilities — source unconfirmed but attributed to Israel/US (single source: social media reports)",
+    "Iranian provincial official claims approximately 100 fishing boats caught fire following attack in southern Iran — details unverified (single source: Press TV)",
+    "Unverified social media claim of Iranian total naval and air blockade on Gulf countries including Kuwait, Bahrain, Qatar, UAE, and partially Saudi Arabia",
+    "Iranian Armed Forces claim to have shot down seven US and Israeli drones in recent hours — unverified casualty/confirmation data",
+    "US-Israeli strike on Shajrat Taybeh girls' elementary school in Minab killed 165 civilians including students — requires independent verification"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "US State Department orders all personnel in Israel, West Bank, Gaza to continue sheltering in place",
+      "Airspace closures in UAE and Gulf states continue; tourists stranded in Dubai",
+      "Kuwait airspace impacted by ongoing strikes — pilot ejection incident reported"
+    ],
+    "supply_chain": [
+      "Gulf oil and gas production remains shut down — significant global supply impact",
+      "Strait of Hormuz maritime traffic disrupted by tanker attack — potential shipping lane bottleneck",
+      "Qatar air defense interceptor depletion in 4 days threatens sustained defensive capability"
+    ],
+    "market_macro": [
+      "Gulf oil production shutdown driving global energy price volatility",
+      "Prediction markets active on Iran conflict outcomes — including bets on Khamenei death",
+      "Regional stock markets face significant uncertainty amid conflict escalation"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict enters decisive phase with Iran launching 12+ waves of attacks and Israel conducting 1,000+ sorties inside Iran. US expanding troop deployments. Qatar's interceptor depletion in 4 days creates urgent sustainability question for Gulf air defense. Iranian retaliation capability remains substantial but degrading under sustained US/Israeli strikes. Gulf states increasingly pressuring for diplomatic solution while actively engaging Iranian threats. Risk of Strait of Hormuz maritime incident causing global energy crisis is HIGH.",
+    "escalation_risks": [
+      "Strait of Hormuz tanker attack could trigger global oil supply shock if sustained",
+      "Qatar interceptor depletion could collapse air defense over US Al Udeid base within 96 hours",
+      "Conflict expansion to Cyprus brings NATO territory into direct Iranian targeting",
+      "Iranian proxies (Hezbollah, Houthis) could open additional fronts",
+      "Pakistan instability following Khamenei death could draw additional actors into conflict"
+    ],
+    "de_escalation_pathways": "UAE and Qatar actively pressuring Trump to end bombing campaign — diplomatic channel exists but currently marginal. Iranian leadership vacuum after Khamenei's death creates potential negotiation window but IRGC hardliners currently control response. Russian statements supporting Bahrain's sovereignty indicate Moscow may play mediator role. China's diplomatic engagement with Iran offers back-channel. However, stated US objective of 'regime defeat' and Iranian IRGC commitment to 'keep doors of fire open' suggest both sides currently positioned for continued hostilities rather than compromise."
+  }
+}

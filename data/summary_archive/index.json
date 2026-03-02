@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T19-50-00.685492_plus_00-00.json",
+    "generated_at": "2026-03-02T19:50:00.685492+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 750,
+    "summary_preview": "The Iran-US conflict intensifies into day 4 with major new developments: IRGC claims a US tanker is on fire in the Strait of Hormuz, signaling direct maritime escalation; Israel has flown over 1,000 c"
+  },
+  {
     "filename": "2026-03-02T18-57-40.812703_plus_00-00.json",
     "generated_at": "2026-03-02T18:57:40.812703+00:00",
     "threat_label": "MAJOR",
@@ -880,14 +889,5 @@
     "trend": "escalating",
     "incident_count_24h": 103,
     "summary_preview": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated airstrikes, ballistic missile attacks, and naval confrontations. The situation has dete"
-  },
-  {
-    "filename": "2026-02-28T14-47-51.495405_plus_00-00.json",
-    "generated_at": "2026-02-28T14:47:51.495405+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "escalating",
-    "incident_count_24h": 39,
-    "summary_preview": "The Iran–US conflict has escalated to a critical level with direct military engagements between Iran, the US, and Israel, including airstrikes, ballistic missile attacks, and threats to regional stabi"
   }
 ]
