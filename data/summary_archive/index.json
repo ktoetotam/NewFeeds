@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T12-44-27.934439_plus_00-00.json",
+    "generated_at": "2026-03-02T12:44:27.934439+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 855,
+    "summary_preview": "The Iran-US armed conflict has escalated dramatically with confirmation of multiple major developments: IRGC claims assassination attempt on Israeli PM Netanyahu and IAF Commander; US Central Command "
+  },
+  {
     "filename": "2026-03-02T11-33-48.268012_plus_00-00.json",
     "generated_at": "2026-03-02T11:33:48.268012+00:00",
     "threat_label": "MAJOR",
