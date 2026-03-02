@@ -111,6 +111,155 @@
     "lng": 54.56
   },
   {
+    "id": "67e6f3088fe5fbf6",
+    "title_original": "РФ, Иран и Китай призвали Совет управляющих МАГАТЭ осудить удары по республике",
+    "content_original": "РФ, Иран и Китай призвали Совет управляющих МАГАТЭ осудить удары по республике",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26610239",
+    "published": "2026-03-02T12:32:02+03:00",
+    "fetched_at": "2026-03-02T09:33:31.824889+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russia, Iran, China Call on IAEA Board to Condemn Strikes on Republic",
+    "relevant": true,
+    "summary_en": "Russia, Iran, and China have called on the IAEA Board of Governors to condemn the strikes on Iran, likely referring to recent US military operations against Iranian nuclear facilities and IRGC assets. This diplomatic initiative at the IAEA represents a coordinated effort by the axis of Russia, China, and Iran to internationalize the conflict and pressure the West through multilateral institutions, signaling the broadening geopolitical dimensions of the US-Iran hostilities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "nuclear",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Russia",
+        "Iran",
+        "China",
+        "IAEA",
+        "United States"
+      ],
+      "location": "Iran (nuclear facilities and IRGC assets)",
+      "brief": "Russia, Iran, and China urge IAEA Board to condemn US military strikes on Iranian nuclear facilities and IRGC assets."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "0576d6583aa5d128",
+    "title_original": "Российская туристка рассказала, что на западе Дубая не было массовой эвакуации",
+    "content_original": "Она слышала взрывы ракет и видела их перехваты",
+    "url": "https://tass.ru/obschestvo/26609889",
+    "published": "2026-03-02T12:29:05+03:00",
+    "fetched_at": "2026-03-02T09:33:31.825691+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Russian Tourist Says There Was No Mass Evacuation in Western Dubai",
+    "relevant": true,
+    "summary_en": "A Russian tourist in Dubai reported hearing missile explosions and witnessing air defense intercepts in western Dubai, but noted there was no mass evacuation. This indicates ongoing Houthi missile activity targeting the Gulf region, with UAE air defenses actively engaging incoming threats.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "houthi",
+      "missile",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "UAE"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Russian tourist in Dubai reported hearing missile explosions and seeing air defense intercepts amid ongoing Houthi missile activity targeting the Gulf region."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "39143af265311878",
+    "title_original": "Постпред Ирана при МАГАТЭ заявил об атаках на ядерный объект в Натанзе",
+    "content_original": "Постпред Ирана при МАГАТЭ заявил об атаках на ядерный объект в Натанзе",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26609983",
+    "published": "2026-03-02T12:25:25+03:00",
+    "fetched_at": "2026-03-02T09:33:31.828591+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran's Permanent Representative to IAEA Reports Attacks on Nuclear Facility in Natanz",
+    "relevant": true,
+    "summary_en": "Iran's ambassador to the IAEA has reported attacks on the Natanz nuclear facility. Given the ongoing Iran-US conflict context with US strikes on Iranian nuclear facilities, this represents a significant escalation targeting Iran's nuclear program, which is a critical military and strategic asset.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "nuclear",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Natanz, Iran",
+      "brief": "Iran reports attacks on its Natanz nuclear facility by US strikes, representing a significant escalation targeting Iran's nuclear program."
+    },
+    "merged_source_count": 3,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "a5f49a419ed213a7",
+    "title_original": "ЦАХАЛ ударил по местоположению высокопоставленного представителя \"Хезболлах\"",
+    "content_original": "ЦАХАЛ ударил по местоположению высокопоставленного представителя \"Хезболлах\"",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26609905",
+    "published": "2026-03-02T12:23:41+03:00",
+    "fetched_at": "2026-03-02T09:33:31.830057+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF strikes location of senior Hezbollah official",
+    "relevant": true,
+    "summary_en": "The IDF (Israel Defense Forces) struck a location of a senior Hezbollah official. The strike occurred in the context of ongoing hostilities between Israel and the Iran-backed Hezbollah militant group on Israel's northern border, representing another escalation in the multi-front conflict involving Iranian proxies.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "idf",
+      "conflict",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel's northern border (Lebanon)",
+      "brief": "IDF strikes location of senior Hezbollah official amid ongoing hostilities on Israel's northern border."
+    },
+    "lat": 31.1745655,
+    "lng": 34.2845249
+  },
+  {
     "id": "beb982a44c6c3431",
     "title_original": "Oil surges as Iran conflict disrupts Middle Eastern supply flow",
     "content_original": "Oil prices surged by as much as 13 per cent on Monday after shipping in the crucial Strait of Hormuz was disrupted by retaliatory Iranian attacks following initial bombing by Israel and the United States that killed Iranian Supreme Leader Ayatollah Ali Khamenei. Brent crude futures rose to as much as $82.37 a barrel, the highest since January 2025, before retreating to be up $5.41, or 7.4pc, to $78.28 by 06:05. US West Texas Intermediate crude climbed to an intraday high of $75.33, up over 12pc and the highest since June, though it later pared gains and was up $4.74, or 7.1pc, at $71.76. Both benchmarks jumped as a sustained exchange of counterattacks damaged tankers and sharply disrupted shipments in the Strait of Hormuz, a waterway between Iran and Oman that connects the Gulf to the Arabian Sea. On a typical day, ships carrying oil equal to about one-fifth of global demand from Saudi Arabia, the UAE, Iraq, Iran, and Kuwait sail through the Strait along with tankers hauling diesel, je...",
@@ -145,6 +294,43 @@
     },
     "lat": 26.56,
     "lng": 56.25
+  },
+  {
+    "id": "abbe1e0c69240d11",
+    "title_original": "Cypriot President Announces Drone Strike on British Akrotiri Airbase",
+    "content_original": "Nicosia, March 02 (QNA) - ​Cypriot President Nikos Christodoulides announced that a ⁠Shahed-type unmanned aerial vehicle struck the British RAF Akrotiri airbase, resulting in minor damage.",
+    "url": "https://qna.org.qa/en/News-Area/News/2026-3/2/cypriot-president-announces-drone-strike-on-british-akrotiri-airbase",
+    "published": "2026-03-02T12:06:58+00:00",
+    "fetched_at": "2026-03-02T09:33:47.597544+00:00",
+    "source_name": "QNA General (English)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Cypriot President Announces Drone Strike on British Akrotiri Airbase",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A Shahed-type Iranian unmanned aerial vehicle struck the British RAF Akrotiri airbase in Cyprus, causing minor damage, according to Cypriot President Nikos Christodoulides. The attack targets a key British military installation in the Eastern Mediterranean, representing an expansion of Iranian-linked drone operations against Western allies in the region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United Kingdom",
+        "Cyprus"
+      ],
+      "location": "Akrotiri, Cyprus",
+      "brief": "Iranian Shahed-type drone struck British RAF Akrotiri airbase in Cyprus, causing minor damage in expansion of Iranian-linked attacks beyond the Gulf region."
+    },
+    "lat": 34.6008434,
+    "lng": 32.9561709
   },
   {
     "id": "2fc32406f6448575",
@@ -339,6 +525,193 @@
     "lng": 35.86
   },
   {
+    "id": "19554ac32accc271",
+    "title_original": "الدفاع الجوي الإيراني يسقط مقاتلات حربية أمريكية بالكويت",
+    "content_original": "متابعات | المسيرة نت: أسقطت الدفاعات الجوية الإيرانية، عدد من الطائرات الحربية الأمريكية، صباح اليوم الاثنين، بالقرب من قاعدة جوية أمريكية في الكويت، فيما نجاه طياروها بعد أن قفزوا بالمظلات قبل ارتطام الطائرات بالأرض.",
+    "url": "https://almasirah.net.ye/static/static/5b91c54d-8a4f-4f6f-b53c-5b34420894f9.jpg",
+    "published": "2026-03-02T11:41:28+00:00",
+    "fetched_at": "2026-03-02T09:34:14.083406+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Air Defense Downs American Fighter Jets in Kuwait",
+    "relevant": true,
+    "summary_en": "Iranian air defense forces shot down multiple American fighter jets near an American airbase in Kuwait on Monday morning. The pilots ejected with parachutes before the aircraft crashed. This incident represents a significant direct military confrontation between Iranian and US forces, marking a major escalation in the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Kuwait"
+      ],
+      "location": "Kuwait",
+      "brief": "Iranian air defense forces shot down multiple American fighter jets near a US airbase in Kuwait, marking a significant direct military confrontation between Iranian and US forces."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "3f4a342821df55ea",
+    "title_original": "הותר לפרסום שמו של ההרוג החמישי בבית שמש: יוסף כהן",
+    "content_original": "עד כה, הותרו לפרסום שמותיהם של ארבעה נרצחים בפגיעת הטיל האיראני - שרה אלימלך, רונית אלימלך, אורן כץ וגבריאל רווח. כ-40 בני אדם נפצעו בעקבות הפגיעה הישירה ומעל ל-70 אזרחים פונו ממנה",
+    "url": "https://mivzakim.net/r/13966265/rss",
+    "published": "2026-03-02T11:32:05+02:00",
+    "fetched_at": "2026-03-02T09:33:40.130945+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Fifth Victim in Beit Shemesh Attack Named: Yosef Cohen",
+    "relevant": true,
+    "summary_en": "Israel released the name of the fifth civilian killed in the Iranian ballistic missile strike: Yosef Cohen. Four other victims were previously identified as Sarah Elimelech, Ronit Elimelech, Oran Katz, and Gabri Revach. Approximately 40 people were injured and over 70 civilians were evacuated following the direct hit, marking one of the deadliest Iranian missile attacks on Israeli civilian areas since hostilities escalated.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "missile",
+      "strike",
+      "ballistic",
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iranian ballistic missile strike on Israel kills five civilians including Yosef Cohen with 40 injured and 70 evacuated."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "2379f14cda3834e9",
+    "title_original": "צה\"ל חיסל את בכירי מיניסטריון המודיעין האיראני, גוף המודיעין המרכזי של משטר הטרור האיראני",
+    "content_original": "צה\"ל חיסל את בכירי מיניסטריון המודיעין האיראני, גוף המודיעין המרכזי של משטר הטרור האיראני",
+    "url": "https://mivzakim.net/r/13966261/rss",
+    "published": "2026-03-02T11:31:12+02:00",
+    "fetched_at": "2026-03-02T09:33:40.131584+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF eliminates senior official of Iranian Intelligence Ministry, central intelligence body of Iranian terrorist regime",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) eliminated a senior official from Iran's Intelligence Ministry, which serves as the central intelligence apparatus of the Iranian regime. This targeted killing represents another escalation in the ongoing Iran-Israel conflict, targeting Iran's domestic intelligence infrastructure.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "idf",
+      "conflict",
+      "targeted killing"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Iranian Intelligence Ministry"
+      ],
+      "location": "Israel/Iran",
+      "brief": "Israeli Defense Forces conducted a targeted killing operation eliminating a senior official from Iran's Intelligence Ministry, representing a significant escalation in Israel-Iran hostilities."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "2379f14cda3834e9",
+    "title_original": "צה\"ל חיסל את בכירי מיניסטריון המודיעין האיראני, גוף המודיעין המרכזי של משטר הטרור האיראני",
+    "content_original": "צה\"ל חיסל את בכירי מיניסטריון המודיעין האיראני, גוף המודיעין המרכזי של משטר הטרור האיראני",
+    "url": "https://mivzakim.net/r/13966261/rss",
+    "published": "2026-03-02T11:31:12+02:00",
+    "fetched_at": "2026-03-02T09:33:41.344684+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF eliminates senior officials of Iranian Intelligence Ministry, central intelligence body of Iranian terrorist regime",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) eliminated senior officials from Iran's Intelligence Ministry, which serves as the central intelligence apparatus of the Iranian regime. This targeted assassination represents an escalation in Israeli operations against Iranian intelligence assets and personnel, targeting the core infrastructure of Iran's intelligence apparatus that coordinates proxy operations across the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "idf",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IDF"
+      ],
+      "location": "Middle East (regional)",
+      "brief": "IDF conducted targeted assassination operation eliminating senior officials from Iran's Intelligence Ministry, marking significant escalation in Israeli operations against Iranian intelligence apparatus."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "6b0aa8e947cb687a",
+    "title_original": "תיעוד: כטב\"ם חיזבאללה בשמי צפון הארץ הבוקר",
+    "content_original": "תיעוד: כטב\"ם חיזבאללה בשמי צפון הארץ הבוקר",
+    "url": "https://mivzakim.net/r/13966254/rss",
+    "published": "2026-03-02T11:29:55+02:00",
+    "fetched_at": "2026-03-02T09:33:40.132386+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Documentation: Hezbollah UAV in northern Israeli skies this morning",
+    "relevant": true,
+    "summary_en": "Hezbollah launched an unmanned aerial vehicle (UAV) into northern Israeli airspace this morning. The incident represents another in the ongoing series of cross-border drone and missile exchanges between Hezbollah and Israel, with the Iran-backed Lebanese proxy group continuing its attacks on northern Israel as part of the wider regional conflict linked to the Iran–US hostilities.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "missile",
+      "drone",
+      "conflict",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Northern Israeli airspace",
+      "brief": "Hezbollah launched a UAV into northern Israeli airspace as part of ongoing cross-border drone and missile exchanges between the Iran-backed proxy group and Israel."
+    },
+    "lat": 30.8124247,
+    "lng": 34.8594762
+  },
+  {
     "id": "c9d9d33e41881671",
     "title_original": "555 иранцев погибли в результате ударов США и Израиля с 28 февраля",
     "content_original": "555 иранцев погибли в результате ударов США и Израиля с 28 февраля",
@@ -378,6 +751,82 @@
     "lng": 54.56
   },
   {
+    "id": "7a2492e464a0c0e9",
+    "title_original": "הסהר האדום האיראני: 555 בני אדם נהרגו במדינה מאז תחילת המלחמה",
+    "content_original": "הסהר האדום האיראני: 555 בני אדם נהרגו במדינה מאז תחילת המלחמה",
+    "url": "https://mivzakim.net/r/13966242/rss",
+    "published": "2026-03-02T11:26:11+02:00",
+    "fetched_at": "2026-03-02T09:33:40.133787+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Iranian Red Crescent: 555 people killed in the country since the beginning of the war",
+    "relevant": true,
+    "summary_en": "The Iranian Red Crescent organization reported that 555 people have been killed in Iran since the beginning of the current Iran-US war. This casualty figure reflects the human toll of the ongoing conflict, which has seen US strikes on Iranian territory including military facilities and infrastructure.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Iranian Red Crescent"
+      ],
+      "location": "Iran",
+      "brief": "Iranian Red Crescent reports 555 civilians killed in Iran from US strikes on military facilities and infrastructure since the war began."
+    },
+    "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "1542b5051920d857",
+    "title_original": "ВВС ЦАХАЛа атакуют в Дахье, шиитском квартале Южного Бейрута",
+    "content_original": "ВВС ЦАХАЛа атакуют в Дахье, шиитском квартале Южного Бейрута",
+    "url": "https://news.israelinfo.co.il/news/124717",
+    "published": "2026-03-02T11:24:42+02:00",
+    "fetched_at": "2026-03-02T09:33:37.607647+00:00",
+    "source_name": "IsraelInfo News",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli Air Force attacks in Dahieh, Shiite quarter of Southern Beirut",
+    "relevant": true,
+    "summary_en": "The Israeli Air Force carried out airstrikes in Dahieh, a densely populated Shiite neighborhood in southern Beirut, Lebanon. This area is a known Hezbollah stronghold. The attack represents another escalation in the Israel-Hezbollah front, which is part of the broader Iran-linked proxy warfare dimension of the ongoing conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "attack",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Dahieh, Southern Beirut, Lebanon",
+      "brief": "Israeli Air Force conducted airstrikes on the Shiite Dahieh neighborhood in Beirut, a Hezbollah stronghold, representing another escalation in the Iran-linked Israel-Hezbollah proxy conflict."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "371d192ee2ab3c90",
     "title_original": "Tasnim: в провинции Восточный Азербайджан погибли 27 человек",
     "content_original": "По данным агентства, 1 марта в городе Мераге из-за атаки погибли 15 человек",
@@ -411,6 +860,47 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "de628e215c0cb764",
+    "title_original": "כוחותינו תקפו באופן ממוקד בכיר בחיזבאללה בביירות",
+    "content_original": "כוחותינו תקפו לפני זמן קצר ברובע הדאחייה בביירות מחבל בכיר בארגון הטרור חיזבאללה, זאת לאחר שבמהלך הלילה החליט הארגון להצטרף למלחמה ולפתוח במערכה נגד ישראל • מדובר צה\"ל נמסר כי מדובר בתקיפה ממוקדת, וכי פרטים נוספים יימסרו בהמשך",
+    "url": "https://mivzakim.net/r/13966220/rss",
+    "published": "2026-03-02T11:23:31+02:00",
+    "fetched_at": "2026-03-02T09:33:40.135746+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Israeli forces targeted a senior Hezbollah figure in Beirut",
+    "relevant": true,
+    "summary_en": "Israeli forces conducted a targeted strike in the Dahieh district of Beirut against a senior Hezbollah figure, shortly after the organization declared it was joining the war and launching a campaign against Israel. The IDF confirmed the strike was targeted, with additional details to follow. This represents a significant escalation in the conflict as Hezbollah, Iran's primary Lebanese proxy, has now officially entered hostilities against Israel.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "hezbollah",
+      "strike",
+      "conflict",
+      "idf",
+      "proxy",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Beirut, Lebanon (Dahieh district)",
+      "brief": "Israeli forces conducted a targeted airstrike in Beirut's Dahieh district against a senior Hezbollah figure following the organization's declaration of war against Israel."
+    },
+    "merged_source_count": 8,
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "4f65208e01d8fd5c",
@@ -525,6 +1015,43 @@
     },
     "lat": 36.4239244,
     "lng": 44.3283934
+  },
+  {
+    "id": "22f7807a3790064a",
+    "title_original": "Атака дронов по саудовскому заводу Aramco подбросила цены на нефть. Тель-Авивская биржа на подъеме",
+    "content_original": "Атака дронов по саудовскому заводу Aramco подбросила цены на нефть. Тель-Авивская биржа на подъеме",
+    "url": "https://news.israelinfo.co.il/141633",
+    "published": "2026-03-02T11:10:20+02:00",
+    "fetched_at": "2026-03-02T09:33:37.608065+00:00",
+    "source_name": "IsraelInfo News",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Drone attack on Saudi Aramco plant pushed up oil prices. Tel Aviv Stock Exchange on the rise",
+    "relevant": true,
+    "summary_en": "A drone attack struck a Saudi Aramco facility, causing oil prices to surge. The Tel Aviv Stock Exchange is also trading higher, likely reflecting market movements related to regional tensions and the broader Iran-US conflict affecting energy markets.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "drone",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Iran (backing)",
+        "Saudi Arabia"
+      ],
+      "location": "Saudi Arabia (Eastern Province)",
+      "brief": "A drone attack on a Saudi Aramco facility caused oil price surges, reflecting regional tensions and the Iran-US conflict's impact on energy markets."
+    },
+    "lat": 24.71,
+    "lng": 46.68
   },
   {
     "id": "fe0f4d0831ba4265",
@@ -1251,6 +1778,155 @@
     "lng": 54.56
   },
   {
+    "id": "656c57ea42e4acdb",
+    "title_original": "🇺🇸 🇮🇱 ⚔️ 🇮🇷  Satellite images from Planet Labs show the destruction of the tunnel entrances to an underground missile...",
+    "content_original": "🇺🇸 🇮🇱 ⚔️ 🇮🇷 Satellite images from Planet Labs show the destruction of the tunnel entrances to an underground missile storage facility near the city of Tabriz, northern Iran. The base was targeted multiple times by Israeli and American warplanes in the past two days. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70029",
+    "published": "2026-03-02T09:34:35+00:00",
+    "fetched_at": "2026-03-02T09:35:06.305364+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Satellite images show destruction of tunnel entrances to underground missile storage facility near Tabriz, northern Iran, targeted by Israeli and American warplanes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli and American warplanes have destroyed tunnel entrances to an underground missile storage facility near Tabriz in northern Iran, confirmed by satellite imagery from Planet Labs. The base was targeted multiple times over the past two days as part of ongoing US and Israeli strikes against Iranian military assets. This strike targets Iran's ballistic missile capabilities and represents a significant escalation in the campaign to degrade Tehran's military infrastructure.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "strike",
+      "tunnel",
+      "missile",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tabriz, northern Iran",
+      "brief": "Israeli and American warplanes destroyed tunnel entrances to an underground missile storage facility near Tabriz, confirmed by satellite imagery, representing direct US-Iran military engagement."
+    },
+    "lat": 38.08,
+    "lng": 46.29
+  },
+  {
+    "id": "b70b7310bd5e078f",
+    "title_original": "تجدد الغارات الإسرائيلية على مناطق في جنوب لبنان",
+    "content_original": "بيروت في 02 مارس /قنا/ جدد الكيان الإسرائيلي اليوم شن غارات جوية مكثفة على مناطق متفرقة في جنوب لبنان.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/تجدد-الغارات-الاسراييلية-على-مناطق-في-جنوب-لبنان",
+    "published": "2026-03-02T09:33:45.691868+00:00",
+    "fetched_at": "2026-03-02T09:33:45.691872+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Renewed Israeli Airstrikes on Areas in Southern Lebanon",
+    "relevant": true,
+    "summary_en": "Israel conducted renewed intensive airstrikes on various areas in southern Lebanon. These attacks continue the ongoing hostilities between Israel and Hezbollah along the northern border front. The strikes represent continued escalation in the Israel-Hezbollah conflict, which is part of the broader Iran-US regional war context.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Southern Lebanon",
+      "brief": "Israeli intensive airstrikes on southern Lebanon continue escalating hostilities with Hezbollah, Iran's proxy force along Israel's northern border."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "47ec6c4eb887c859",
+    "title_original": "مجلس الشورى يدين الهجوم الإيراني الغاشم على قطر ويشيد بجهود الجهات المختصة في التعامل مع تداعياته",
+    "content_original": "الدوحة في 02 مارس /قنا/ عقد مجلس الشورى اليوم جلسته الأسبوعية العادية بمقره، في قاعة \"تميم بن حمد\"، برئاسة سعادة السيد حسن بن عبدالله الغانم",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/مجلس-الشورى-يدين-الهجوم-الايراني-الغاشم-على-قطر-ويشيد-بجهود-الجهات-المختصة-في-التعامل-مع-تداعياته",
+    "published": "2026-03-02T09:33:44.634069+00:00",
+    "fetched_at": "2026-03-02T09:33:44.634073+00:00",
+    "source_name": "QNA Qatar (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Qatar Shura Council condemns malicious Iranian attack on Qatar, praises relevant authorities' handling of repercussions",
+    "relevant": true,
+    "summary_en": "Qatar's Shura Council convened its weekly session and condemned what it termed a malicious Iranian attack on Qatar, while praising the efforts of relevant authorities in managing the fallout. The attack on Qatar, which hosts the major US Al Udeid Air Base, represents a significant escalation in the Iran-US conflict, as Qatar is a key US strategic partner in the Gulf. The session was held at the Tamim bin Hamad Hall under the chairmanship of Hassan bin Abdullah Al Ghanim.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Qatar (Al Udeid Air Base)",
+      "brief": "Qatar's Shura Council condemned an Iranian attack on Qatar hosting the US Al Udeid Air Base, calling it a significant escalation."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "6a6903492672a324",
+    "title_original": "#لبنان مراسلة الميادين في الجنوب: الطيران الحربي الإسرائيلي يغير على بلدة عربصاليم",
+    "content_original": "#لبنان مراسلة الميادين في الجنوب: الطيران الحربي الإسرائيلي يغير على بلدة عربصاليم",
+    "url": "https://t.me/Electrohizbullah/157086",
+    "published": "2026-03-02T09:32:24+00:00",
+    "fetched_at": "2026-03-02T09:35:09.553303+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Lebanon: Israeli Combat Aircraft Targets Town of Arab Salime in South",
+    "relevant": true,
+    "summary_en": "Israeli combat aircraft carried out airstrikes on the town of Arab Salime in southern Lebanon. This targeted attack is part of ongoing Israeli military operations against Hezbollah positions in southern Lebanon, representing another escalation in the Iran-linked proxy conflict front along Israel's northern border.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "attack",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Arab Salime, southern Lebanon",
+      "brief": "Israeli combat aircraft conducted airstrikes on the town of Arab Salime targeting Hezbollah positions, representing another escalation in the Iran-linked proxy conflict along Israel's northern border."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
     "id": "02f58870a4aaf25e",
     "title_original": "דיווח: פיצוצים נוספים נשמעו בבחריין וכוויית",
     "content_original": "דיווח: פיצוצים נוספים נשמעו בבחריין וכוויית",
@@ -1287,6 +1963,44 @@
     },
     "lat": 26.07,
     "lng": 50.55
+  },
+  {
+    "id": "7f472231281ff2c7",
+    "title_original": "#لبنان مراسل الميادين: غارة تستهدف بلدة دورس في بعلبك شرق لبنان",
+    "content_original": "#لبنان مراسل الميادين: غارة تستهدف بلدة دورس في بعلبك شرق لبنان",
+    "url": "https://t.me/Electrohizbullah/157085",
+    "published": "2026-03-02T09:31:39+00:00",
+    "fetched_at": "2026-03-02T09:35:09.552798+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Lebanon Al-Mayadeen correspondent: Airstrike targets town of Dours in Baalbek eastern Lebanon",
+    "relevant": true,
+    "summary_en": "An airstrike targeted the town of Dours in Baalbek, eastern Lebanon. The report from Al-Mayadeen correspondent does not specify the perpetrator, but Baalbek is a Hezbollah stronghold area, suggesting this may be an Israeli strike against Iranian proxy forces in Lebanon.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "airstrike",
+      "proxy",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Dours, Baalbek, eastern Lebanon",
+      "brief": "Israeli airstrike targeted Hezbollah stronghold area in Dours, Baalbek eastern Lebanon."
+    },
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "5337c2e38967d76c",
@@ -1328,6 +2042,45 @@
     "lng": 35.37
   },
   {
+    "id": "a1749a0904c1af41",
+    "title_original": "Live updates: Israel strikes Hezbollah in Lebanon as Iran conflict spreads across region",
+    "content_original": "Three U.S. service members have been killed, and President Donald Trump said “there will likely be more” with U.S.-Israeli operations set to continue for weeks.",
+    "url": "https://www.washingtonpost.com/world/2026/03/02/us-israel-iran-hezbollah-military-strikes-live-updates/",
+    "published": "2026-03-02T09:31:16+00:00",
+    "fetched_at": "2026-03-02T09:34:55.795943+00:00",
+    "source_name": "Washington Post World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Live updates: Israel strikes Hezbollah in Lebanon as Iran conflict spreads across region",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israel has launched strikes against Hezbollah targets in Lebanon as part of the expanding Iran-US conflict. Three U.S. service members have been killed, with President Trump warning there will likely be more casualties as U.S.-Israeli operations are set to continue for weeks, indicating sustained military campaign across multiple regional fronts.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "major",
+      "parties_involved": [
+        "US",
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Lebanon",
+      "brief": "Israeli airstrikes on Hezbollah in Lebanon killed three US service members as part of expanding US-Iran conflict with operations set to continue for weeks."
+    },
+    "merged_source_count": 3,
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "0c20eee8ae173cb8",
     "title_original": "העקרב של חיזבאללה לא מפחד להטביע את הצפרדע של לבנון",
     "content_original": "ארגון הטרור לא יכל להימנע מלהגיב להתקפה על איראן ועל החיסול של פטרונו הגדול והמשמעותי ביותר, מנהיגה העליון של איראן חמינאי",
@@ -1364,6 +2117,42 @@
     },
     "lat": 33.85,
     "lng": 35.86
+  },
+  {
+    "id": "133b3cce4db4f299",
+    "title_original": "🚨 انفجار در قطر  ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ایران و آمریکا  🌐 ✅   @SABERIN_...",
+    "content_original": "🚨 انفجار در قطر ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45126",
+    "published": "2026-03-02T09:29:48+00:00",
+    "fetched_at": "2026-03-02T09:35:08.753836+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Explosion Reported in Qatar - Developments in Iran-US Conflict",
+    "summary_en": "A brief social media post reports an explosion in Qatar, though no details are provided regarding the location, target, casualties, or responsible party. Qatar hosts the Al Udeid Air Base, a major US military installation in the",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Unknown",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Qatar (Al Udeid Air Base vicinity)",
+      "brief": "Unconfirmed explosion reported at Qatar location near US Al Udeid Air Base, no details on casualties or responsible party."
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "7936505fae64e42a",
@@ -1441,6 +2230,43 @@
     "lng": 54.56
   },
   {
+    "id": "07ffb47ff5ea9b6f",
+    "title_original": "⚡️  IDF attacks in Dahiya, Beirut",
+    "content_original": "⚡️ IDF attacks in Dahiya, Beirut",
+    "url": "https://t.me/warmonitors/40434",
+    "published": "2026-03-02T09:26:46+00:00",
+    "fetched_at": "2026-03-02T09:35:07.553142+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "IDF attacks in Dahiya, Beirut",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) have launched attacks in the Dahiya district of southern Beirut, a known Hezbollah stronghold. This represents continued Israeli military operations against Hezbollah targets in the Lebanese capital, consistent with the ongoing Israel-Hezbollah front in the broader Iran-US conflict context.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hezbollah",
+      "idf",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Dahiya district, Beirut, Lebanon",
+      "brief": "Israeli Defense Forces launched airstrikes in the Dahiya district of southern Beirut, targeting Hezbollah strongholds in continued military operations against the militant group."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "ec7dc51908aec67f",
     "title_original": "Иран начал новую волну атак на американские базы на Ближнем Востоке",
     "content_original": "Иран начал новую волну атак беспилотников и ракетных ударов по американским базам на Ближнем Востоке, сообщает агентство Fars.",
@@ -1476,6 +2302,47 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "23e525427eb446c1",
+    "title_original": "⚡️  Ras Tanura refinery in Saudi was hit by a drone",
+    "content_original": "⚡️ Ras Tanura refinery in Saudi was hit by a drone",
+    "url": "https://t.me/warmonitors/40432",
+    "published": "2026-03-02T09:26:40+00:00",
+    "fetched_at": "2026-03-02T09:35:07.552003+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Ras Tanura refinery in Saudi was hit by a drone",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A drone strike hit the Ras Tanura refinery in Saudi Arabia, a major oil processing facility on the Persian Gulf. The attack, likely by Houthi rebels (an Iranian proxy), targets Saudi energy infrastructure as part of the broader Iran-US conflict escalation. This strike threatens global oil supplies and represents Iranian proxy warfare against US regional allies.",
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "strike",
+      "houthi",
+      "drone",
+      "conflict",
+      "attack",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "high",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "Saudi Arabia"
+      ],
+      "location": "Ras Tanura, Saudi Arabia (Persian Gulf)",
+      "brief": "Drone strike on major Saudi oil facility by Iranian proxy Houthis threatens global oil supplies in ongoing Iran-US conflict escalation."
+    },
+    "merged_source_count": 3,
+    "lat": 24.71,
+    "lng": 46.68
   },
   {
     "id": "c6026a060b740aaf",
@@ -1550,6 +2417,44 @@
     "merged_source_count": 5,
     "lat": 24.71,
     "lng": 46.68
+  },
+  {
+    "id": "dc73faac9dc4648e",
+    "title_original": "Politics latest: UK not at war with Iran, minister insists, despite drone attack on RAF base in Cyprus",
+    "content_original": "Sir Keir Starmer has allowed the US military to use British bases to fire missiles towards Iran",
+    "url": "https://www.independent.co.uk/news/uk/home-news/iran-uk-war-cyprus-starmer-latest-updates-b2929980.html",
+    "published": "2026-03-02T09:25:48+00:00",
+    "fetched_at": "2026-03-02T09:35:01.188909+00:00",
+    "source_name": "The Independent",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "UK not at war with Iran, minister insists, despite drone attack on RAF base in Cyprus",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "A UK minister has insisted the UK is not at war with Iran despite a drone attack on an RAF base in Cyprus. Prime Minister Keir Starmer has allowed the US military to use British bases to fire missiles towards Iran. This represents a significant escalation with UK territory directly involved in the conflict.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "drone",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Kingdom",
+        "United States"
+      ],
+      "location": "Cyprus",
+      "brief": "Iranian drone attack on RAF base in Cyprus escalates conflict as UK permits US military use of British bases to launch missiles toward Iran."
+    },
+    "lat": 34.9174159,
+    "lng": 32.8899027
   },
   {
     "id": "74c192c09981d6bf",
@@ -1705,6 +2610,46 @@
     "lng": 54.56
   },
   {
+    "id": "cc68735983c17560",
+    "title_original": "גורם ביטחוני מזהיר: \"מסתכלים צפונה ודרומה - אם החות'ים יחליטו להצטרף\"",
+    "content_original": "על רקע ההסלמה מול איראן, פיקוד העורף בכוננות מלאה ונתב״ג נסגר. מטחים מתואמים של עד 20 טילים פגעו בבית שמש ובירושלים; אירועי נפגעים וחילוץ מורכב, חשש להתרחבות לזירה רב-חזיתית",
+    "url": "https://www.maariv.co.il/news/military/article-1290967",
+    "published": "2026-03-02T09:21:26+00:00",
+    "fetched_at": "2026-03-02T09:33:36.706642+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Security source warns: 'Looking north and south - if the Houthis decide to join'",
+    "relevant": true,
+    "summary_en": "Against the backdrop of Iran-Israel escalation, Israel's Home Front Command is on full alert and Ben Gurion Airport has been closed. Coordinated salvos of up to 20 missiles struck Beitar Illit and Jerusalem, causing casualties and complex rescue operations. There is growing concern about expansion into a multi-front war as the Houthis in Yemen consider joining the conflict alongside Hezbollah in the north.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "hezbollah",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Houthis",
+        "IRGC_proxies",
+        "Hezbollah"
+      ],
+      "location": "Israel (Beitar Illit, Jerusalem, Ben Gurion Airport)",
+      "brief": "Coordinated ballistic missile salvos of up to 20 missiles struck Israeli locations causing casualties amid growing concerns over Iranian proxy expansion including potential Houthi involvement in the Iran-Israel conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "a7f62a9d85e99d95",
     "title_original": "Израиль объявил о начале наступления в Ливане",
     "content_original": "Мохаммед&nbsp;Раад",
@@ -1742,6 +2687,43 @@
     },
     "lat": 33.85,
     "lng": 35.86
+  },
+  {
+    "id": "465ca8e98dbe0a0d",
+    "title_original": "#لبنان مراسل الميادين في الجنوب: الطائرات الحربية الإسرائيلية تقصف بلدة دير عامص في قضاء صور",
+    "content_original": "#لبنان مراسل الميادين في الجنوب: الطائرات الحربية الإسرائيلية تقصف بلدة دير عامص في قضاء صور",
+    "url": "https://t.me/Electrohizbullah/157083",
+    "published": "2026-03-02T09:20:52+00:00",
+    "fetched_at": "2026-03-02T09:35:09.551741+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Al-Mayadeen correspondent in south Lebanon: Israeli warplanes bomb town of Dir Amas in Tyre district",
+    "relevant": true,
+    "summary_en": "Israeli warplanes bombed the town of Dir Amas in the Tyre district of southern Lebanon. This marks another Israeli airstrike on Lebanese territory as part of the ongoing hostilities, with the Israeli-Lebanese border region remaining a active front in the conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "airstrike",
+      "conflict",
+      "bomb"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Dir Amas, Tyre district, southern Lebanon",
+      "brief": "Israeli warplanes bombed the town of Dir Amas in southern Lebanon, marking another Israeli airstrike as part of ongoing hostilities with Hezbollah near the border."
+    },
+    "lat": 33.54,
+    "lng": 35.37
   },
   {
     "id": "56c21f3c1edec9f1",
@@ -1782,6 +2764,42 @@
     "lng": 35.86
   },
   {
+    "id": "4f153c308de697e5",
+    "title_original": "خروقات العدو الصهيوني المُستمرة تعصف باتفاق غزة",
+    "content_original": "الثورة نت/وكالات واصلت قوات العدو الإسرائيلي، اليوم الاثنين، خروقاتها لاتفاق وقف إطلاق النار في قطاع غزة، عبر عمليات قصف مدفعي وإطلاق نار ونسف مبانٍ، في عدة مناطق من القطاع، مع تواصل فرض حصار وتضييق على المساعدات وإعادة الإعمار. وقصفت مدفعية العدو مناطق شرق حي الزيتون جنوب شرق مدينة غزة، فيما أطلقت الآليات الإسرائيلية العسكرية النار [&#8230;]",
+    "url": "https://althawrah.ye/archives/1144030",
+    "published": "2026-03-02T09:19:06+00:00",
+    "fetched_at": "2026-03-02T09:34:12.354253+00:00",
+    "source_name": "Al-Thawra Yemen",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Ongoing Israeli Violations Undermine Gaza Ceasefire Agreement",
+    "relevant": true,
+    "summary_en": "Israeli forces continued ceasefire violations in Gaza through artillery shelling, direct fire, and building demolitions across multiple areas of the strip. The violations coincide with ongoing blockade measures and restrictions on humanitarian aid and reconstruction efforts.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "blockade",
+      "ceasefire",
+      "shelling"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ceasefire_violation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Palestinian factions in Gaza"
+      ],
+      "location": "Gaza Strip",
+      "brief": "Israeli forces committed ceasefire violations in Gaza through artillery shelling, direct fire, and building demolitions amid ongoing blockade and aid restrictions."
+    },
+    "lat": 31.5,
+    "lng": 34.47
+  },
+  {
     "id": "889d8221304a797a",
     "title_original": "סין: אזרח שלנו נהרג בתקיפות בטהרן",
     "content_original": "סין: אזרח שלנו נהרג בתקיפות בטהרן",
@@ -1817,6 +2835,43 @@
     "merged_source_count": 2,
     "lat": 35.69,
     "lng": 51.39
+  },
+  {
+    "id": "f03f276103ea1c44",
+    "title_original": "#لبنان   غارات إسرائيلية تستهدف الضاحية الجنوبية",
+    "content_original": "#لبنان غارات إسرائيلية تستهدف الضاحية الجنوبية",
+    "url": "https://t.me/Electrohizbullah/157082",
+    "published": "2026-03-02T09:16:03+00:00",
+    "fetched_at": "2026-03-02T09:35:09.551203+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Strikes Target Southern Suburbs of Lebanon",
+    "relevant": true,
+    "summary_en": "Israeli air strikes targeted the southern suburbs of Beirut, a known Hezbollah stronghold in Lebanon. The attack represents another escalation in the ongoing conflict between Israel and Hezbollah, which is connected to the broader Iran-US regional confrontation. The specific targets and casualties were not immediately confirmed.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "attack",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Beirut southern suburbs, Lebanon",
+      "brief": "Israeli air strikes targeted southern Beirut suburbs, a Hezbollah stronghold, representing another escalation in the Iran-Israel proxy conflict linked to the broader US-Iran regional confrontation."
+    },
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "605d78a73eb90494",
@@ -1857,6 +2912,43 @@
     },
     "lat": 31.5,
     "lng": 34.8
+  },
+  {
+    "id": "f538c6861bead2b1",
+    "title_original": "How the New York Times paved the way for apocalyptic war",
+    "content_original": "How the New York Times paved the way for apocalyptic war Submitted by Belen Fernandez on Sun, 03/01/2026 - 19:43 The newspaper's superficial critique of Trump's Iran strategy comes after 47 years of vilifying the Islamic Republic Smoke rises after missile strikes in Tehran on 1 March 2026 (Atta Kenare/AFP) On Shortly after the United States and Israel launched unprecedented strikes on Iran this weekend, blithely propelling the entire region into unfathomable chaos, the editorial board of the New York Times published its two cents’ worth in an editorial directed towards US sociopath-in-chief Donald Trump: “Why Have You Started This War, Mr. President?” It’s a valid question, to be sure - particularly given Trump’s previous promise that he wouldn’t entangle the country in unnecessary conflicts abroad. And yet it is a question that would be far less hypocritically posed by, say, a newspaper that had not once run an opinion piece by John Bolton, the former US ambassador to the United Natio...",
+    "url": "https://www.middleeasteye.net/opinion/how-new-york-times-paved-way-apocalyptic-war",
+    "published": "2026-03-02T09:15:32+00:00",
+    "fetched_at": "2026-03-02T09:33:49.551678+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "How the New York Times paved the way for apocalyptic war",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "This opinion piece critiques the New York Times' editorial questioning Trump's Iran strategy following unprecedented US-Israeli strikes on Iran that propelled the region into chaos. The article references missile strikes in Tehran on March 1, 2026, and argues that 47 years of NYT vilification of the Islamic Republic helped pave the way for the current apocalyptic conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "war",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Opinion piece criticizing the New York Times following unprecedented US-Israeli strikes on Iran, including missile strikes in Tehran on March 1, 2026, that propelled the region into chaos."
+    },
+    "lat": 35.69,
+    "lng": 51.39
   },
   {
     "id": "1f8c2105265476c9",
@@ -1933,6 +3025,43 @@
     "merged_source_count": 2,
     "lat": 34.6008434,
     "lng": 32.9561709
+  },
+  {
+    "id": "f14ee413e2ac76e9",
+    "title_original": "الجيش الإسرائيلى : مستعدون لخوض حرب متعددة الجبهات .. وأسقطنا 100 قذيفة على مواقع إيرانية",
+    "content_original": "أكد المتحدث باسم الجيش الإسرائيلى ،اليوم الاثنين، استعداد إسرائيل لخوض حرب متعددة الجبهات ، مشيرا إلى أن سلاح الجو يواصل استهداف منصات إطلاق الصواريخ الإيرانية برا وبحرا وجوا . وقال المتحدث باسم الجيش الإسرائيلي ـ في كلمة له ـ إن الجيش استكمل موجة عمليات واسعة في طهران ويواصل تعميق الضربات القوية والأساسية في قلب النظام الإيراني . وأضاف أن عشرات الطائرات التابعة لسلاح الجو أسقطت أكثر من 100 قذيفة على مواقع تابعة للنظام الإيراني، موضحا أن إسرائيل تواصل ضرب عدة أهداف والعمل وفق خطة منظمة بتعاون مع الولايات المتحدة الأمريكية . في المقابل ، أعلنت قيادة الحرس الثوري الإيراني، بيان صحفي نشرته وكالة أنباء &#8220;فارس&#8221; الإيرانية، أن الموجة العاشرة من عملية &#8220;وعد صادق 4&#8221; شهدت تنفيذ ضربات بصواريخ &#8220;خيبر&#8221;، واستهدفت حكومة الاحتلال في تل أبيب ومراكز عسكرية بحيفا والقدس. فيما أعلن الهلال الأحمر الإيراني ، مقتل 555 مواطنًا منذ بدء الهجمات الأمريكية والإسرائيلية المصدر : أ ش أ",
+    "url": "https://www.nile.eg/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d8%b9%d8%af%d9%88%d9%86-%d9%84%d8%ae%d9%88%d8%b6-%d8%ad%d8%b1%d8%a8-%d9%85%d8%aa%d8%b9",
+    "published": "2026-03-02T09:11:31+00:00",
+    "fetched_at": "2026-03-02T09:34:07.620055+00:00",
+    "source_name": "Nile News Egypt",
+    "source_category": "state",
+    "language": "ar",
+    "region": "middle_east",
+    "skip_translation": false,
+    "title_en": "Israeli army: Prepared for multi-front war.. and we struck 100 projectiles on Iranian sites",
+    "relevant": true,
+    "summary_en": "The Israeli military spokesperson announced Israel is prepared for a multi-front war, stating the Air Force continues targeting Iranian missile launch platforms by land, sea, and air. The spokesperson said the army completed a wide wave of operations in Tehran and continues deepening strong strikes in the heart of the Iranian system. Dozens of Air Force aircraft dropped more than 100 projectiles on Iranian regime sites, with Israel continuing to strike multiple targets according to an organized plan in cooperation with the United States.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "missile",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran (Tehran)",
+      "brief": "Israeli Air Force struck 100 projectiles on Iranian sites in Tehran and across Iran, with Israel declaring readiness for multi-front war against Iran."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "e60cbdbc5454a7de",

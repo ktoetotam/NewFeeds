@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T09-29-57.215903_plus_00-00.json",
+    "generated_at": "2026-03-02T09:29:57.215903+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 852,
+    "summary_preview": "The Iran-US conflict remains at MAJOR severity (Score 5655) with 852 incidents in 24h. The assassination of Supreme Leader Khamenei has triggered an uncontrolled escalation cycle — Iran has launched a"
+  },
+  {
     "filename": "2026-03-02T08-24-46.075040_plus_00-00.json",
     "generated_at": "2026-03-02T08:24:46.075040+00:00",
     "threat_label": "MAJOR",

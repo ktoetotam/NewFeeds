@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-03-02T09:29:57.215903+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 852,
+    "incident_count_6h": 197,
+    "severity_breakdown": {
+      "major": 383,
+      "high": 297,
+      "medium": 168,
+      "low": 4
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 132,
+    "articles_analyzed": 190,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "turkey",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict remains at MAJOR severity (Score 5655) with 852 incidents in 24h. The assassination of Supreme Leader Khamenei has triggered an uncontrolled escalation cycle — Iran has launched at least 10 ballistic missile waves, Hezbollah has formally entered the war, and the conflict has expanded geographically to target a NATO member (British base in Cyprus). US forces suffered first aircraft losses (F-15s in Kuwait), Iranian strikes now directly target US embassy in Kuwait and 5th Fleet in Bahrain, and Iran has rejected all diplomatic overtures. No de-escalation pathway is visible.",
+  "whats_new": [
+    "Pentagon told Congress no intelligence indicated Iran planned to attack US forces first — undercutting stated US justification for strikes",
+    "Iran launched direct attack on US embassy compound in Kuwait — significant escalation onto sovereign US territory",
+    "IRGC claims 10th missile wave struck Israeli government headquarters in Tel Aviv, Haifa, and East Jerusalem",
+    "Chinese citizen killed in US strikes on Tehran — first confirmed foreign civilian casualty, potentially escalating international involvement",
+    "US deploys Gerald R. Ford carrier strike group from Mediterranean to launch direct attacks on Iran",
+    "WHO Director-General expresses concern over targeting of Gandhi Hospital in Tehran — escalation into civilian medical infrastructure",
+    "Israel declares Hezbollah Secretary-General Naim Qasim a 'target for elimination' — escalating targeted killings threat"
+  ],
+  "confirmed_events": [
+    "Hezbollah formally announced entry into war, launching rockets and drones at Israel in retaliation for Khamenei assassination — confirmed by multiple sources",
+    "Iranian ballistic missile volley struck Israel, forcing civilians to shelter in underground metro stations — mass casualty event with at least 10 killed, 238 wounded",
+    "US F-15 fighter jet shot down in Kuwaiti airspace — first US aircraft loss in current conflict, crews survived",
+    "Iranian forces struck US 5th Fleet naval base in Bahrain with 9-10 impacts during the night — near-complete failure of air defense over American facilities reported",
+    "Suspected Iranian drone (Shahed-type) struck British Akrotiri air base in Cyprus — first strike on UK installation since 1986, expanding conflict to NATO member territory",
+    "IRGC announced tenth wave of ballistic missile strikes using Khaibar missiles targeting Israeli governmental and military sites"
+  ],
+  "unverified_emerging": [
+    "Telegram channel claims American bases in Bahrain 'completely destroyed' — unverified, likely exaggeration given 5th Fleet continues operations",
+    "Reports of squadrons of US military aircraft flying over Dubai and departing UAE — unclear if redeployment, evacuation, or routine rotation",
+    "Satellite imagery shows destruction from US-Israeli strikes on Iran and Iranian retaliatory drone attacks — visual confirmation of major physical damage",
+    "Kuwait Defense Ministry: multiple American warplanes crashed, all crews evacuated in stable condition — awaiting full incident details",
+    "Iranian Army unified air defense claims to have shot down 10 advanced enemy drones over past hours"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Riyadh emerging as primary evacuation hub for wealthy individuals fleeing Gulf cities",
+      "Celebrities and influencers in Dubai seeking shelter as suicide drones strike emirate",
+      "Open airspace and operating airport in Saudi Arabia becoming critical escape route",
+      "25 killed in pro-Iran protests in Pakistan — regional spillover creating instability at borders"
+    ],
+    "supply_chain": [
+      "Oil prices surged 13% to $82.37/barrel (highest since January 2025) — Strait of Hormuz shipping disrupted",
+      "Brent crude settled at $78.28, WTI at $71.76 — significant supply risk premium embedded",
+      "Tanker attacks and missile strikes disrupting flow through critical chokepoint",
+      "Wealthy individuals and executives fleeing Gulf cities signal business operation disruptions"
+    ],
+    "market_macro": [
+      "Oil surge to multi-month highs as Middle Eastern supply flow disrupted",
+      "Brent crude highest since January 2025; WTI highest since June — sustained price pressure expected",
+      "Regional instability spreading beyond military to commercial/civilian infrastructure — widening economic impact",
+      "Trump administration faces mounting pressure over unclear Iran strategy — risk of prolonged conflict entrapment"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue escalating over the next 24-72h. Iran has rejected negotiations and controls the timeline for conflict resolution. IRGC has announced 10th missile wave and shows no sign of stopping. Hezbollah has formally entered the war, expanding the front. The conflict has now expanded to target NATO member territory (Cyprus). US carrier group deployment suggests continued heavy strikes on Iran. Expect more ballistic missile exchanges, proxy attacks on Gulf states, and potential Israeli operations against Hezbollah in Lebanon.",
+    "escalation_risks": [
+      "Iranian strikes on additional Gulf state infrastructure — Bahrain, Kuwait, UAE already targeted",
+      "Further expansion of conflict geography — more NATO territory (Cyprus) or new states drawn in",
+      "Escalation to Iranian nuclear facilities — IDF refusing to share nuclear strike plans",
+      "Hezbollah targeted killings — Israel declares Secretary-General Naim Qasim target for elimination",
+      "More foreign civilian casualties — Chinese citizen killed sets precedent for international involvement",
+      "US-Iran direct naval confrontation in Gulf — 5th Fleet under sustained attack",
+      "Israeli ground operation into Lebanon against Hezbollah positions"
+    ],
+    "de_escalation_pathways": "No visible de-escalation pathway. Iran has explicitly stated it will not conduct any negotiations with the United States. Trump suggested a 4-week timeline but this appears increasingly optimistic given the intensity of Iranian retaliation. The only theoretical pathway would be either: (1) complete degradation of Iranian military capacity through sustained strikes, or (2) regional actors (Gulf states, Russia, China) applying pressure on both sides — both appear unlikely in the near term. The conflict is entering a phase where each side is attempting to demonstrate resolve through escalating attacks."
+  }
+}
