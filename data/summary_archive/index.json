@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T18-03-58.596481_plus_00-00.json",
+    "generated_at": "2026-03-02T18:03:58.596481+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 771,
+    "summary_preview": "The Iran-US conflict has escalated significantly with Iran launching its 12th wave of attacks (26 drones, 5 ballistic missiles) against US targets in Kuwait, UAE, Bahrain, and the Strait of Hormuz. Kh"
+  },
+  {
     "filename": "2026-03-02T17-10-11.820247_plus_00-00.json",
     "generated_at": "2026-03-02T17:10:11.820247+00:00",
     "threat_label": "MAJOR",

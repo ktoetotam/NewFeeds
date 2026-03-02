@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-02T18:03:58.596481+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 771,
+    "incident_count_6h": 148,
+    "severity_breakdown": {
+      "major": 346,
+      "high": 241,
+      "medium": 177,
+      "low": 7
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 101,
+    "articles_analyzed": 181,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated significantly with Iran launching its 12th wave of attacks (26 drones, 5 ballistic missiles) against US targets in Kuwait, UAE, Bahrain, and the Strait of Hormuz. Khamenei's confirmed death creates a leadership vacuum while his wife has also died in the Israeli strike. Qatar confirms downing two Iranian aircraft, marking direct Gulf state involvement in the conflict. Trump signals 'big wave' of attacks not yet launched, while UAE and Qatar actively pressure Washington to de-escalate.",
+  "whats_new": [
+    "Iran launches 12th wave of attacks on US targets in Kuwait, UAE, Bahrain, Strait of Hormuz using 26 attack drones and 5 ballistic missiles",
+    "Qatar Defense Ministry confirms downing two Iranian SU-24 aircraft, 7 ballistic missiles, and 5 drones",
+    "UAE and Qatar directly pressure Trump to end bombing campaign, seek diplomatic solution",
+    "Trump states 'big wave' of attacks not yet launched, indicating further major escalation pending",
+    "Britain refuses to support US Iran operations due to 'lack of legal basis' - notable NATO ally division",
+    "UK drone strike at British base in Cyprus highlights UK being drawn into conflict"
+  ],
+  "confirmed_events": [
+    "Iranian Supreme Leader Khamenei confirmed dead from Israeli strike on Tehran residence - wife also killed",
+    "US military confirms 4 American service members killed in Iranian attacks",
+    "US CENTCOM confirms 3 F-15E jets shot down over Kuwait (all 6 crew survived)",
+    "IRGC claims massive 11th wave strike on 500+ US/Israeli targets using 700+ drones and hundreds of missiles",
+    "UAE air defenses successfully intercepted 9 ballistic missiles, 6 cruise missiles, and 148 drones"
+  ],
+  "unverified_emerging": [
+    "Iran imposes total naval and air blockade on Kuwait, Bahrain, Qatar, UAE - unverified social media claim",
+    "Explosion reported at Isfahan nuclear facility - single source, unconfirmed damage",
+    "Lebanese government announces ban on Hezbollah military activities - political development requiring monitoring"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Dubai airspace closure from Iranian missiles stranded tourists",
+      "UAE airspace impacted by ballistic missile and drone attacks - partial restrictions",
+      "Qatar intercepts ongoing - airspace advisory likely in effect"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz targeted in 12th wave attacks - critical shipping chokepoint under threat",
+      "Athena Nova US-aligned fuel tanker struck and burning in Strait of Hormuz - tanker war escalation",
+      "Gulf transport halted according to UAE/Qatar diplomatic efforts"
+    ],
+    "market_macro": [
+      "Experts warn almost immediate gasoline price increases from Iran-US war",
+      "UK fuel prices may rise toward £2/liter if conflict escalates",
+      "European Commission convening energy group due to Middle East situation"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will intensify significantly - Trump explicitly states 'big wave' not yet launched, indicating major escalation pending. IRGC launching continuous waves (now 12th) demonstrates sustained capacity. Khamenei's death creates leadership vacuum but Iranian forces showing no signs of stopping. Gulf states actively seeking de-escalation but US appears committed to expanded operations. Expect: continued Iranian missile/drone salvos, US-Israeli strikes on Iranian nuclear sites and leadership targets, Gulf state air defenses under continued pressure, potential tanker warfare in Strait of Hormuz.",
+    "escalation_risks": [
+      "Iranian naval blockade of Gulf states (if confirmed) represents major escalation crossing red line",
+      "Isfahan/Natanz nuclear facility damage could trigger nuclear escalation fears",
+      "Gulf states moving from neutrality to active defense - risk of expanding Iran vs Arab state conflict",
+      "Hezbollah-Israel front intensifying - Lebanese government bans Hezbollah military activity",
+      "Ground troop deployment by US remains possible per Trump statements",
+      "Russia/China potential intervention - China condemned US-Israeli strikes without authorization"
+    ],
+    "de_escalation_pathways": "UAE and Qatar actively mediating - Gulf states pressuring Trump to reduce operations. UK refusal to support US operations signals Western alliance fracturing. China calling for halt to operations. However, Trump rhetoric remains escalatory ('big wave coming'), IRGC launching continuous attacks, and Khamenei's death removes incentive for Iranian de-escalation. Diplomatic solution requires: US willingness to accept negotiated end, Gulf state security guarantees, or Iranian leadership succession stabilization - none currently visible."
+  }
+}
