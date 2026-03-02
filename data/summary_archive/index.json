@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T00-15-14.692054_plus_00-00.json",
+    "generated_at": "2026-03-02T00:15:14.692054+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 726,
+    "summary_preview": "The Iran-US conflict remains at MAJOR Level 1 with 726 incidents in 24 hours. The second day of hostilities has confirmed three US service members killed in Iranian counterattacks, with President Trum"
+  },
+  {
     "filename": "2026-03-01T23-36-21.851862_plus_00-00.json",
     "generated_at": "2026-03-01T23:36:21.851862+00:00",
     "threat_label": "MAJOR",

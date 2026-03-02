@@ -36,6 +36,423 @@
     "lng": 54.0
   },
   {
+    "id": "fe69efdd6e267a04",
+    "title_original": "СМИ: военные США в Кувейте погибли в результате атаки иранского дрона",
+    "content_original": "СМИ: военные США в Кувейте погибли в результате атаки иранского дрона",
+    "url": "https://ria.ru/20260302/ssha-2077765715.html",
+    "published": "2026-03-02T03:16:03+03:00",
+    "fetched_at": "2026-03-02T00:19:05.478134+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Media: US military personnel in Kuwait killed in Iranian drone attack",
+    "relevant": true,
+    "summary_en": "US military personnel stationed in Kuwait were killed as a result of an Iranian drone attack, according to media reports. The incident represents an expansion of Iranian strike capabilities targeting US forces in the Gulf region. This attack adds to the escalating pattern of Iranian proxy and direct attacks on US assets in Iraq, Syria, and the broader Middle East.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "strike",
+      "proxy",
+      "attack",
+      "killed",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Kuwait"
+      ],
+      "location": "Kuwait",
+      "brief": "Iranian drone attack killed US military personnel stationed in Kuwait, marking direct Iranian strike on US forces in the Gulf region."
+    },
+    "merged_source_count": 6,
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "1cdbc59c99d6a1a8",
+    "title_original": "Глава ВОЗ отреагировал на сообщения об ударе по больнице Ганди в Тегеране",
+    "content_original": "Глава ВОЗ отреагировал на сообщения об ударе по больнице Ганди в Тегеране",
+    "url": "https://ria.ru/20260302/bolnitsa-2077765402.html",
+    "published": "2026-03-02T03:09:06+03:00",
+    "fetched_at": "2026-03-02T00:19:05.478521+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "WHO head responds to reports of attack on Gandhi Hospital in Tehran",
+    "relevant": true,
+    "summary_en": "The WHO Director-General has responded to reports of an attack on the Gandhi Hospital in Tehran, Iran. The incident, occurring in the Iranian capital during the ongoing Iran-US conflict, represents a strike on a civilian healthcare facility. Attacks on medical infrastructure in armed conflicts carry significant humanitarian and legal implications.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "WHO"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "WHO Director-General responds to reports of an attack on Gandhi Hospital in Tehran, marking a strike on civilian healthcare infrastructure during the Iran-US conflict."
+    },
+    "merged_source_count": 4,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "9c3b63ec2afe12ef",
+    "title_original": "КСИР: 40 человек погибли в результате удара Ирана по Хайфе",
+    "content_original": "Минимум 40 человек погибли, а также около 60 были ранены в результате удара Ирана по израильскому городу Хайфа, сообщает Корпус стражей исламской революции (КСИР). Ранее иранская гостелерадиокомпания (IRIB) сообщила о новом ракетном ударе Ирана по Хайфе и северу Израиля.",
+    "url": "https://www.kommersant.ru/doc/8477670",
+    "published": "2026-03-02T03:06:01+03:00",
+    "fetched_at": "2026-03-02T00:19:08.537109+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC: 40 Killed in Iran's Strike on Haifa",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) claimed at least 40 people were killed and approximately 60 injured in an Iranian missile strike on the Israeli city of Haifa and northern Israel, according to Iranian state media reports. This strike represents a significant escalation in Iran's attacks on Israeli territory, targeting a major Israeli city. The attack adds to the growing toll in the ongoing conflict between Iran and Israel.",
+    "translated": true,
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "killed",
+      "attack",
+      "strike",
+      "conflict",
+      "irgc",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "Israel"
+      ],
+      "location": "Haifa, northern Israel",
+      "brief": "Iranian IRGC ballistic missile strike on Haifa killed at least 40 people, marking a significant escalation in Iran's attacks on Israel."
+    },
+    "lat": 32.79,
+    "lng": 34.99
+  },
+  {
+    "id": "0180a53597627ddb",
+    "title_original": "Mehr: город Ахваз в Иране подвергся атаке США и Израиля",
+    "content_original": "Mehr: город Ахваз в Иране подвергся атаке США и Израиля",
+    "url": "https://tass.ru/proisshestviya/26604535",
+    "published": "2026-03-02T03:05:40+03:00",
+    "fetched_at": "2026-03-02T00:19:05.022591+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Mehr: Ahvaz city in Iran attacked by USA and Israel",
+    "relevant": true,
+    "summary_en": "The city of Ahvaz in southwestern Iran was targeted in a joint military attack by the United States and Israel. The strike represents a significant escalation in the ongoing Iran-US armed conflict, targeting civilian infrastructure in Khuzestan province. This attack adds to the series of US and Israeli strikes on Iranian territory as part of the broader conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran|airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Ahvaz, Khuzestan Province, Southwestern Iran",
+      "brief": "Joint US-Israel airstrike targeted civilian infrastructure in Ahvaz city, marking significant escalation in direct Iran-US armed conflict."
+    },
+    "lat": 31.32,
+    "lng": 48.69
+  },
+  {
+    "id": "cd535646984cae53",
+    "title_original": "IRGC: Latest Waves of Op. True Promise 4 Resulted in Tanker Strikes, Base Shutdowns, Heavy Casualties",
+    "content_original": "IRGC: Latest Waves of Op. True Promise 4 Resulted in Tanker Strikes, Base Shutdowns, Heavy Casualties",
+    "url": "https://english.masirahtv.net/post/54186/",
+    "published": "2026-03-02T03:02:14+00:00",
+    "fetched_at": "2026-03-02T00:19:49.567279+00:00",
+    "source_name": "Al Masirah TV English",
+    "source_category": "proxy",
+    "language": "en",
+    "region": "proxies",
+    "skip_translation": true,
+    "title_en": "IRGC: Latest Waves of Op. True Promise 4 Resulted in Tanker Strikes, Base Shutdowns, Heavy Casualties",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC claimed that recent waves of Operation True Promise 4 resulted in attacks on tankers, forced base shutdowns, and caused heavy casualties. This represents a continuation of Iranian ballistic missile and drone operations against US naval assets and military installations in the Gulf region. The IRGC's statement indicates ongoing Iranian offensive operations as part of the escalating Iran-US conflict.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "offensive",
+      "ballistic",
+      "conflict",
+      "drone",
+      "irgc",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States"
+      ],
+      "location": "Gulf region",
+      "brief": "IRGC claims Operation True Promise 4 ballistic missile and drone strikes targeted US tankers and military bases, causing tanker attacks, base shutdowns, and heavy casualties."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "5fc6e8dff16a6f31",
+    "title_original": "Около шести взрывов прогремели в небе над Бахрейном, сообщила очевидица",
+    "content_original": "Около шести взрывов прогремели в небе над Бахрейном, сообщила очевидица",
+    "url": "https://ria.ru/20260302/bakhreyn-2077764982.html",
+    "published": "2026-03-02T03:01:18+03:00",
+    "fetched_at": "2026-03-02T00:19:05.479121+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "About Six Explosions Reported in Sky Over Bahrain - Witness",
+    "relevant": true,
+    "summary_en": "A witness reported approximately six explosions in the sky over Bahrain. The incident is significant as Bahrain hosts the US Navy's 5th Fleet, and such aerial explosions could indicate Iranian missile or drone attacks, or defensive interceptions amid the ongoing US-Iran armed conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Bahrain"
+      ],
+      "location": "Bahrain",
+      "brief": "Six explosions reported in sky over Bahrain hosting US Navy 5th Fleet, likely indicating Iranian ballistic missile or drone attack amid ongoing US-Iran conflict."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
+    "id": "c7cffef729fb84f3",
+    "title_original": "N12: Израиль считает, что обстрел из Ливана вела \"Хезболлах\"",
+    "content_original": "Ответ будет жестким, сообщил источник телеканала",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26604511",
+    "published": "2026-03-02T02:57:49+03:00",
+    "fetched_at": "2026-03-02T00:19:05.022813+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel believes Lebanon firing was carried out by Hezbollah — response will be harsh, source says",
+    "relevant": true,
+    "summary_en": "Israel believes the cross-border firing from Lebanon was carried out by Hezbollah, and an Israeli source warned the response would be harsh. This represents another escalation on the northern Israeli front involving the IRGC-linked Hezbollah proxy group.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "proxy",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Israel blamed Hezbollah for cross-border firing from Lebanon and warned of a harsh response, escalating tensions on the northern Israeli front."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "194a1de763abb305",
+    "title_original": "CENTCOM Confirms US Troops Killed in Iran’s Retaliatory Strikes",
+    "content_original": "CENTCOM Confirms US Troops Killed in Iran’s Retaliatory Strikes",
+    "url": "https://english.masirahtv.net/post/54185/",
+    "published": "2026-03-02T02:57:10+00:00",
+    "fetched_at": "2026-03-02T00:19:49.567393+00:00",
+    "source_name": "Al Masirah TV English",
+    "source_category": "proxy",
+    "language": "en",
+    "region": "proxies",
+    "skip_translation": true,
+    "title_en": "CENTCOM Confirms US Troops Killed in Iran's Retaliatory Strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "CENTCOM has confirmed that US troops were killed in Iran's retaliatory strikes against American military assets. The strikes represent Iran's direct military response to prior US attacks on Iranian territory and IRGC targets. This marks a significant escalation in the Iran-US conflict, transitioning from proxy operations and limited strikes to direct Iranian attacks resulting in American combat casualties.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "proxy",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "CENTCOM"
+      ],
+      "location": "Middle East (regional)",
+      "brief": "CENTCOM confirmed US troops killed in Iran's direct retaliatory strikes against American military assets, marking a significant escalation in US-Iran direct engagement."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "7bccaef4706ae5f1",
+    "title_original": "Израиль заявил о новой волне ударов по целям в центре Тегерана",
+    "content_original": "Об этом сообщила пресс-служба ЦАХАЛ",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26604505",
+    "published": "2026-03-02T02:57:08+03:00",
+    "fetched_at": "2026-03-02T00:19:05.023016+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel announces new wave of strikes on targets in central Tehran",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) announced a new series of airstrikes targeting locations in central Tehran. This represents a significant escalation in Israeli operations against Iranian territory, targeting the Iranian capital itself. The strikes appear to be part of the ongoing Israeli campaign against IRGC assets and Iranian military infrastructure amid the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "idf",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "Israeli airstrikes targeting central Tehran represent significant escalation against Iranian territory"
+    },
+    "merged_source_count": 6,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "7d6e3ef7ab2c7a7d",
+    "title_original": "США и Израиль наносят удары по городу Ахваз",
+    "content_original": "США и Израиль наносят удары по городу Ахваз",
+    "url": "https://ria.ru/20260302/udary-2077764169.html",
+    "published": "2026-03-02T02:50:53+03:00",
+    "fetched_at": "2026-03-02T00:19:05.480101+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US and Israel Strike City of Ahvaz",
+    "relevant": true,
+    "summary_en": "The United States and Israel have conducted strikes against the Iranian city of Ahvaz. This represents a significant escalation in the US-Israel military campaign against Iranian territory, targeting a major city in southwestern Iran. The strikes on Ahvaz, a city with significant oil infrastructure and population, indicate the conflict is expanding beyond previous target sets to include additional Iranian urban centers.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Ahvaz, Iran",
+      "brief": "US and Israel conducted strikes against the Iranian city of Ahvaz, marking a significant escalation in the US-Israel military campaign against Iranian territory with targets including oil infrastructure."
+    },
+    "lat": 31.32,
+    "lng": 48.69
+  },
+  {
+    "id": "786a9e21103b8b0f",
+    "title_original": "IRGC Strikes USS Abraham Lincoln Aircraft Carrier with Volley of Ballistic Missiles",
+    "content_original": "IRGC Strikes USS Abraham Lincoln Aircraft Carrier with Volley of Ballistic Missiles",
+    "url": "https://english.masirahtv.net/post/54183/",
+    "published": "2026-03-02T02:46:29+00:00",
+    "fetched_at": "2026-03-02T00:19:49.567617+00:00",
+    "source_name": "Al Masirah TV English",
+    "source_category": "proxy",
+    "language": "en",
+    "region": "proxies",
+    "skip_translation": true,
+    "title_en": "IRGC Strikes USS Abraham Lincoln Aircraft Carrier with Volley of Ballistic Missiles",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) launched a volley of ballistic missiles at the USS Abraham Lincoln aircraft carrier, marking a significant escalation in direct Iranian attacks on US military assets. The strike represents the first known Iranian ballistic missile attack on a US aircraft carrier, demonstrating Iran's willingness to target high-value US Navy vessels in the Gulf region.",
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "ballistic",
+      "attack",
+      "strike",
+      "irgc",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile|iran_strike_on_us|irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "USS Abraham Lincoln"
+      ],
+      "location": "Persian Gulf region",
+      "brief": "IRGC launched ballistic missile volley at USS Abraham Lincoln carrier marking first known Iranian ballistic missile attack on a US aircraft carrier and significant escalation in direct Iran-US military engagement."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
     "id": "770e9916e7d9504d",
     "title_original": "Al Hadath: ПВО Бахрейна отражает налет нескольких иранских беспилотников",
     "content_original": "По информации телеканала, в Манаме была слышна работа систем противовоздушной обороны",
@@ -146,6 +563,42 @@
     "lng": 35.24
   },
   {
+    "id": "4d75ecc6a4563df5",
+    "title_original": "מד\"א מסכם את היום השני למלחמה עם איראן: 9 הרוגים ו-106 פצועים",
+    "content_original": "מגן דוד אדום מסכם היום (שני) את היום השני למבצע \"שאגת הארי\" בו צוותיהם העניקו טיפול רפואי ופינו לבתי החולים ברחבי הארץ סך הכול 115 נפגעים, בהם: 9 הרוגים, 2 פצועים במצב קשה, 3 פצועים במצב בינוני ו-101 פצועים במצב קל. בנוסף, צוותי מגן דוד אדום העניקו טיפול רפואי לגבר בן 102 שנחבל בדרך למרחב המוגן ופינו אותו לבית החולים במצב קשה שם נקבע מותו.",
+    "url": "https://mivzakim.net/r/13965010/rss",
+    "published": "2026-03-02T02:16:31+02:00",
+    "fetched_at": "2026-03-02T00:19:14.349929+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Magen David Adom summarizes second day of war with Iran: 9 killed and 106 wounded",
+    "summary_en": "Magen David Adom released casualty figures for the second day of 'Operation Roar of the Lion' in the war with Iran. Israeli emergency teams treated and evacuated 115 casualties to hospitals across Israel, including 9 killed, 2 seriously wounded, 3 moderately wounded",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "killed",
+      "wounded",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Iranian attack on Israel in 'Operation Roar of the Lion' caused 9 killed and 106+ wounded on second day of war"
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "e33ad987539a6f4a",
     "title_original": "UAE closes Embassy in Iran after four killed in attacks across the Gulf",
     "content_original": "The move marks the strongest condemnation yet by a Gulf state since Tehran began targeting the region with a barrage of strikes",
@@ -210,6 +663,352 @@
       "location": "Unknown",
       "brief": "Classified by keyword matching (LLM unavailable)"
     }
+  },
+  {
+    "id": "b2bd85514f6b037e",
+    "title_original": "דיווח באיראן: שבעה אנשי צבא בכירים נהרגו בתקיפות במדינה",
+    "content_original": "דיווח באיראן: שבעה אנשי צבא בכירים נהרגו בתקיפות במדינה",
+    "url": "https://mivzakim.net/r/13965000/rss",
+    "published": "2026-03-02T02:09:02+02:00",
+    "fetched_at": "2026-03-02T00:19:14.350971+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Report in Iran: Seven senior military officers killed in attacks in the country",
+    "relevant": true,
+    "summary_en": "Iranian state media reports that seven senior military officers were killed in attacks within Iran. This appears to be reporting on the consequences of US strikes against Iranian military targets as part of the ongoing Iran-US armed conflict. The deaths of senior military officers represent significant losses for Iran's armed forces.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "deaths",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Seven senior Iranian military officers killed in US strikes within Iran, representing direct major engagement between US and Iranian forces."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "68af7ade161b1531",
+    "title_original": "ארבעה פצועים קל בסוריה משברי טיל איראני",
+    "content_original": "ארבעה פצועים קל בסוריה משברי טיל איראני",
+    "url": "https://mivzakim.net/r/13965003/rss",
+    "published": "2026-03-02T02:09:02+02:00",
+    "fetched_at": "2026-03-02T00:19:14.350358+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Four lightly wounded in Syria from Iranian missile debris",
+    "relevant": true,
+    "summary_en": "Four people were lightly injured in Syria from shrapnel of Iranian missiles, likely during the recent exchange of strikes between Iran and the US. The incident highlights the spillover effects of the Iran-US conflict into Syria, where US forces are deployed.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "wounded",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "low",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Syria"
+      ],
+      "location": "Syria",
+      "brief": "Four civilians lightly wounded in Syria by shrapnel from Iranian missiles during recent Iran-US strike exchange, highlighting spillover effects into areas where US forces are deployed."
+    },
+    "lat": 34.8,
+    "lng": 38.99
+  },
+  {
+    "id": "1737c5dad1175e1b",
+    "title_original": "צבא ארצות הברית תקף עד כה למעלה מאלף מטרות איראניות",
+    "content_original": "צבא ארצות הברית תקף עד כה למעלה מאלף מטרות איראניות",
+    "url": "https://mivzakim.net/r/13964998/rss",
+    "published": "2026-03-02T02:09:02+02:00",
+    "fetched_at": "2026-03-02T00:19:14.351353+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "US military has attacked over a thousand Iranian targets to date",
+    "relevant": true,
+    "summary_en": "The United States military has conducted over 1,000 strikes against Iranian targets since the beginning of the conflict. These attacks have targeted IRGC assets, nuclear facilities, and military infrastructure across Iran and proxy regions. The scale of the campaign represents a significant escalation in the ongoing Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "proxy",
+      "conflict",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC",
+        "IRGC proxies"
+      ],
+      "location": "Iran and proxy regions",
+      "brief": "US military has conducted over 1,000 strikes targeting IRGC assets, nuclear facilities, and military infrastructure across Iran and proxy regions since conflict began"
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "d02b521c0914deda",
+    "title_original": "בצה\"ל אישרו: חיזבאללה ביצע את השיגורים מלבנון",
+    "content_original": "בצה\"ל אישרו: חיזבאללה ביצע את השיגורים מלבנון",
+    "url": "https://mivzakim.net/r/13964993/rss",
+    "published": "2026-03-02T02:08:35+02:00",
+    "fetched_at": "2026-03-02T00:19:14.352311+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF confirms: Hezbollah carried out the launches from Lebanon",
+    "relevant": true,
+    "summary_en": "The Israel Defense Forces confirmed that Hezbollah was responsible for the projectile launches conducted from Lebanese territory toward Israel. This confirmation indicates ongoing hostilities on Israel's northern border, with Hezbollah continuing its cross-border attacks as part of the Iran-backed proxy operations linked to the broader regional conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "idf",
+      "hezbollah",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lebanon-Israel border, northern Israel",
+      "brief": "Hezbollah launched projectiles from Lebanese territory toward Israel, confirmed by IDF, indicating ongoing proxy hostilities on Israel's northern border as part of Iran-backed operations."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "d02b521c0914deda",
+    "title_original": "בצה\"ל אישרו: חיזבאללה ביצע את השיגורים מלבנון",
+    "content_original": "בצה\"ל אישרו: חיזבאללה ביצע את השיגורים מלבנון",
+    "url": "https://mivzakim.net/r/13964993/rss",
+    "published": "2026-03-02T02:08:35+02:00",
+    "fetched_at": "2026-03-02T00:19:14.956683+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF confirms: Hezbollah carried out the launches from Lebanon",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces confirmed that Hezbollah launched projectiles from Lebanon into Israel. This attack represents another escalation in the ongoing Iran-Israel front, with Hezbollah acting as an IRGC proxy force. The launches come amid heightened regional tensions following US-Iran hostilities and Israeli operations against Iran-linked targets.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "idf",
+      "proxy",
+      "attack",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "IDF confirmed Hezbollah launched projectiles from Lebanon into Israel, marking an escalation in the Iran-Israel conflict with Hezbollah acting as an IRGC proxy force."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "4184602119c98bab",
+    "title_original": "דיווחים בלבנון: צה\"ל תוקף בדרום המדינה",
+    "content_original": "דיווחים בלבנון: צה\"ל תוקף בדרום המדינה",
+    "url": "https://mivzakim.net/r/13964988/rss",
+    "published": "2026-03-02T02:05:34+02:00",
+    "fetched_at": "2026-03-02T00:19:14.352683+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Reports from Lebanon: IDF attacking in the south of the country",
+    "relevant": true,
+    "summary_en": "The Israel Defense Forces (IDF) are conducting military strikes in southern Lebanon. This attack occurs amid ongoing hostilities between Israel and Hezbollah along the northern border, representing another escalation in the broader Iran-Israel conflict front. The strikes target southern Lebanese territory, likely hitting Hezbollah positions or infrastructure.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "conflict",
+      "idf",
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "southern Lebanon",
+      "brief": "IDF conducting military strikes in southern Lebanon amid ongoing Israel-Hezbollah hostilities, representing escalation in the Iran-Israel proxy conflict front."
+    },
+    "merged_source_count": 4,
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "d9ac02fe98d59718",
+    "title_original": "דיווח: בתגובה לירי על יישובי הצפון - צה\"ל תוקף בדרום לבנון",
+    "content_original": "דיווח: בתגובה לירי על יישובי הצפון - צה\"ל תוקף בדרום לבנון",
+    "url": "https://mivzakim.net/r/13964986/rss",
+    "published": "2026-03-02T02:04:58+02:00",
+    "fetched_at": "2026-03-02T00:19:14.352890+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Report: In response to fire on northern communities - IDF attacks in southern Lebanon",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) have launched attacks in southern Lebanon in response to rocket/missile fire on Israeli communities in the north. This retaliatory strike represents an escalation on the northern front of the ongoing conflict, with Israel targeting what are believed to be Hezbollah positions or infrastructure in southern Lebanon. The attack signals continued hostilities along the Israel-Lebanon border as part of the broader regional war involving Iran and its proxy forces.",
+    "translated": true,
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "hezbollah",
+      "idf",
+      "proxy",
+      "conflict",
+      "attack",
+      "strike",
+      "rocket",
+      "war",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "southern Lebanon and northern Israel",
+      "brief": "IDF launched airstrikes in southern Lebanon targeting Hezbollah positions in retaliation for rocket fire on Israeli northern communities, marking an escalation on the northern front."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "e366f22be6f311d0",
+    "title_original": "רקטות נורו מלבנון - חיזבאללה מצטרף למערכה",
+    "content_original": "6 רקטות נורו לעבר אזור חיפה והצפון • הירי מתבצע בפעם הראשונה מנובמבר 2024 • בצה\"ל נערכים להגיב בעוצמה • אין נפגעים מהרי",
+    "url": "https://mivzakim.net/r/13964984/rss",
+    "published": "2026-03-02T02:01:36+02:00",
+    "fetched_at": "2026-03-02T00:19:14.353283+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Rockets fired from Lebanon - Hezbollah joins the campaign",
+    "relevant": true,
+    "summary_en": "Hezbollah fired 6 rockets from Lebanon toward Haifa and northern Israel for the first time since November 2024. The IDF is preparing to respond with force. No casualties were reported. This marks a significant escalation as Hezbollah rejoins active hostilities after a period of relative quiet, expanding the multi-front nature of the Iran-US conflict and related regional tensions.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "idf",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lebanon to northern Israel (Haifa)",
+      "brief": "Hezbollah fired 6 rockets from Lebanon toward Haifa and northern Israel, marking a significant escalation after relative quiet since November 2024."
+    },
+    "lat": 32.325226,
+    "lng": 34.8759262
+  },
+  {
+    "id": "bbddc512c48342eb",
+    "title_original": "אירופה מתקרבת למערכה? בריטניה תאשר \"תקיפות מנע הגנתיות\" מבסיסיה",
+    "content_original": "בריטניה הודיעה כי תאפשר לארה\"ב להשתמש בבסיסים בריטיים לצורך תקיפות מנע ממוקדות נגד אתרי אחסון ומשגרי טילים איראניים • ראש הממשלה קיר סטארמר הבהיר כי לונדון לא תצטרף למתקפות האמריקניות והישראליות, אך תומכת בהגנה על בעלות בריתה ואזרחיה באזור • במקביל פרסמו צרפת, גרמניה ובריטניה הצהרה משותפת על נכונות לנקוט פעולה הגנתית מידתית נגד איראן",
+    "url": "https://mivzakim.net/r/13964982/rss",
+    "published": "2026-03-02T02:01:36+02:00",
+    "fetched_at": "2026-03-02T00:19:14.353674+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Europe joining the campaign? Britain to approve 'defensive preventive strikes' from its bases",
+    "relevant": true,
+    "summary_en": "Britain has announced it will allow the US to use British bases for targeted preventive strikes against Iranian missile storage sites and launchers. Prime Minister Keir Starmer clarified London will not join American and Israeli attacks but supports defending its allies and citizens in the region. Meanwhile, France, Germany, and Britain published a joint statement expressing willingness to take proportionate defensive action against Iran, marking a significant escalation of European involvement in the Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United Kingdom",
+        "United States",
+        "Iran"
+      ],
+      "location": "United Kingdom (bases for operations against Iran)",
+      "brief": "Britain will allow the US to use British bases for targeted preventive strikes against Iranian missile storage sites and launchers, marking a significant escalation in European involvement."
+    },
+    "lat": 54.7023545,
+    "lng": -3.2765753
   },
   {
     "id": "4026e162d898fb42",
@@ -1462,6 +2261,83 @@
     "lng": 44.17
   },
   {
+    "id": "2fa66111e9fc8c6e",
+    "title_original": "مشاهد استهداف القواعد الأمريكية بصواريخ القارع في اربيل",
+    "content_original": "مشاهد استهداف القواعد الأمريكية بصواريخ القارع في اربيل",
+    "url": "https://t.me/Electrohizbullah/156953",
+    "published": "2026-03-02T00:10:43+00:00",
+    "fetched_at": "2026-03-02T00:20:28.749178+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Footage of Targeting American Bases with Qarih Missiles in Erbil",
+    "relevant": true,
+    "summary_en": "Footage has emerged showing Iranian proxy forces targeting American bases in Erbil, Iraqi Kurdistan, using Qarih missiles. The attack represents an escalation in IRGC-linked proxy operations against US forces in Iraq as part of the broader Iran-US conflict. Erbil hosts significant US personnel and diplomatic facilities, making it a priority target for Iranian-backed militias seeking to expand hostilities beyond the initial strike phases.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "proxy",
+      "conflict",
+      "attack",
+      "strike",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iranian proxy forces",
+        "IRGC",
+        "United States",
+        "Iraq",
+        "Kurdistan Region"
+      ],
+      "location": "Erbil, Iraqi Kurdistan",
+      "brief": "Iranian proxy forces launched Qarih missiles at US bases in Erbil, marking an escalation in IRGC-linked proxy attacks against American personnel in Iraq."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "d90c84fd9057a7af",
+    "title_original": "Starmer says US can use UK bases for missile strikes on Iran",
+    "content_original": "British Prime Minister Keir Starmer said Sunday he had agreed to let the United States use UK bases to fire \"defensive\" strikes aimed at destroying Iranian missiles and their launchers. But in a video address posted to social media, he added: \"We were not involved in the initial strikes on Iran and we will not join offensive action now. \"But Iran is pursuing a scorched-earth strategy, so we are supporting the collective self-defence of our allies and our people in the region.\" Starmer added: \"Our decision that the UK would not be involved with the strikes on Iran was deliberate. \"Not least because we believe that the best way forward for the region and for the world is a negotiated settlement.\" A separate statement posted on the UK government website set out its legal position. Starmer said \"the only way to stop the threat\" from Iran was \"to destroy the missiles at source - in their storage depots or the launchers which are used to fire the missiles\". \"The United States has requested p...",
+    "url": "https://www.newarab.com/news/starmer-says-us-can-use-uk-bases-missile-strikes-iran",
+    "published": "2026-03-02T00:08:01+00:00",
+    "fetched_at": "2026-03-02T00:19:23.649198+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Starmer says US can use UK bases for missile strikes on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "British PM Keir Starmer confirmed the US can use UK bases to fire defensive strikes aimed at destroying Iranian missiles and launchers. He clarified Britain was not involved in initial US strikes on Iran and will not join offensive action, but is supporting collective self-defense of allies in the region amid Iran's attacks.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "offensive",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United Kingdom",
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran (targets) / United Kingdom (launch sites)",
+      "brief": "UK permits US to use British bases for defensive strikes destroying Iranian missiles and launchers, representing direct US-Iran military engagement despite UK declining to join offensive operations."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "acb6fbbe499ddbce",
     "title_original": "אלף סדקים בחומה",
     "content_original": "היממות הקרובות יוקדשו לגריעת \"משפחות יעדים\" נוספות ובהן מטרות משטר, ביטחון פנים, משמרות המהפכה ובאסיג' – עם הפנים להגשמת הרעיון המסדר השאפתני של המערכה: הכשרת הקרקע להתקוממות אזרחית שתביא לקריסת משטר האייתוללות",
@@ -1534,6 +2410,151 @@
     },
     "lat": 29.0,
     "lng": 47.0
+  },
+  {
+    "id": "12d5d940ec87e20a",
+    "title_original": "🇮🇷 💥 🚢  The IRGC claims to have struck 3 American and British oil tankers trying to exit the Persian Gulf through the...",
+    "content_original": "🇮🇷 💥 🚢 The IRGC claims to have struck 3 American and British oil tankers trying to exit the Persian Gulf through the Strait of Hormuz @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/69972",
+    "published": "2026-03-01T23:58:02+00:00",
+    "fetched_at": "2026-03-02T00:20:25.694664+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "IRGC claims to have struck 3 American and British oil tankers trying to exit the Persian Gulf through the Strait of Hormuz",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC claims to have struck 3 American and British oil tankers attempting to exit the Persian Gulf through the Strait of Hormuz. This represents a significant escalation targeting critical energy infrastructure and Western commercial shipping in one of the world's most strategically important maritime chokepoints.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "United Kingdom"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "IRGC claims strikes on 3 US and British oil tankers in the Strait of Hormuz, marking a significant escalation targeting Western energy infrastructure and commercial shipping."
+    },
+    "lat": 26.56,
+    "lng": 56.25
+  },
+  {
+    "id": "c4e5b69e41e3305e",
+    "title_original": "إطلاق عدد من الصواريخ من جنوب  #لبنان  هو أقرب للأعمال التي لطالما نفى حزب الله علافته بها. الإعلامي خليل نصرالله الم...",
+    "content_original": "إطلاق عدد من الصواريخ من جنوب #لبنان هو أقرب للأعمال التي لطالما نفى حزب الله علافته بها. الإعلامي خليل نصرالله المختص بالشؤون الأقليمة",
+    "url": "https://t.me/Electrohizbullah/156950",
+    "published": "2026-03-01T23:53:39+00:00",
+    "fetched_at": "2026-03-02T00:20:28.747306+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Rockets launched from south Lebanon resemble acts Hezbollah has always denied involvement in - analyst",
+    "relevant": true,
+    "summary_en": "A number of rockets were launched from south Lebanon in an operation that resembles previous attacks which Hezbollah has consistently denied responsibility for, according to regional affairs analyst Khalil Nasrallah. The incident represents continued activity along the northern Israel-Lebanon front, a key theater in the wider Iran-US conflict where Hezbollah operates as Iran's primary proxy force.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "hezbollah",
+      "proxy",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Lebanon",
+        "Israel"
+      ],
+      "location": "south Lebanon / northern Israel-Lebanon border",
+      "brief": "Rockets launched from south Lebanon in an operation resembling previous attacks by Hezbollah, who has consistently denied involvement, representing continued activity along the Israel-Lebanon front."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "b9d6a304f4d0e66c",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: ليس من المتوقع أن ينضم حزب الله إلى حرب كهذه بإطلاق 6 قذائف صاروخية",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: ليس من المتوقع أن ينضم حزب الله إلى حرب كهذه بإطلاق 6 قذائف صاروخية",
+    "url": "https://t.me/Electrohizbullah/156949",
+    "published": "2026-03-01T23:52:53+00:00",
+    "fetched_at": "2026-03-02T00:20:28.746683+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Media: Hezbollah Not Expected to Join War by Launching 6 Rockets",
+    "relevant": true,
+    "summary_en": "Israeli media reports that Hezbollah launched 6 rocket projectiles, and cites Israeli assessments that Hezbollah is not expected to join such a war. The assessment suggests limited Hezbollah involvement despite the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "rocket",
+      "conflict",
+      "hezbollah",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Northern Israel/Southern Lebanon border",
+      "brief": "Hezbollah launched 6 rockets at Israel while Israeli assessments indicate the group is not expected to join the wider Iran-US conflict."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "ca34a05eba90e4d1",
+    "title_original": "إيران تنعي 6 من قياداتها العسكرية",
+    "content_original": "الثورة نت/.. نعت مؤسسة حفظ الآثار ونشر قيم الدفاع المقدس والمقاومة في إيران، الليلة الماضية، 6 من القيادات العسكرية الإيرانية. وقالت المؤسسة، في بيان نشرته وكالة &#8220;تسنيم&#8221; الإيرانية: &#8220;مع تقديم التعازي مجددًا لشهادة قدوة الشجاعة والتقوى، القائد العظيم شأنًا للشعب الإيراني وأمة الإسلام، الإمام خامنئي، في الهجوم الوحشي للأمريكيين المجرمين ونظام القتل للأطفال الصهيوني، استشهد [&#8230;]",
+    "url": "https://althawrah.ye/archives/1143939",
+    "published": "2026-03-01T23:51:59+00:00",
+    "fetched_at": "2026-03-02T00:19:47.370757+00:00",
+    "source_name": "Al-Thawra Yemen",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iran mourns 6 military leaders",
+    "relevant": true,
+    "summary_en": "Iran's Institution for Preserving the Legacy and Disseminating the Values of Sacred Defense and Resistance announced the martyrdom of 6 Iranian military commanders. The statement, published by Tasnim agency, offered condolences to Supreme Leader Khamenei and the Iranian people, referring to the 'brutal attack by the criminal Americans and the child-killing Zionist regime.' The deaths appear to be the result of recent US and Israeli strikes on Iranian targets.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "deaths",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "IRGC"
+      ],
+      "location": "Iran",
+      "brief": "Iran announces martyrdom of 6 military commanders in apparent US strike, offering condolences to Supreme Leader Khamenei"
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "ba65437d01b2bcf8",

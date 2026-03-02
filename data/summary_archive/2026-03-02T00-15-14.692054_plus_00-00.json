@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-03-02T00:15:14.692054+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 726,
+    "incident_count_6h": 194,
+    "severity_breakdown": {
+      "major": 336,
+      "high": 258,
+      "medium": 130,
+      "low": 2
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 134,
+    "articles_analyzed": 171,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict remains at MAJOR Level 1 with 726 incidents in 24 hours. The second day of hostilities has confirmed three US service members killed in Iranian counterattacks, with President Trump warning of additional casualties. Iran continues multi-front ballistic missile strikes against Israel and Gulf allies while European powers formalize coalition participation. The conflict now spans ten countries with regional aviation hubs disrupted and oil prices surging 13%.",
+  "whats_new": [
+    "IRGC claims it targeted US carrier Abraham Lincoln with four cruise missiles in Southeastern Indian Ocean — Pentagon denies incident",
+    "Trump confirms 3 US service members killed in Iranian counterattacks, warns additional casualties expected",
+    "UK Prime Minister Starmer grants US permission to use British RAF bases in Cyprus for defensive strikes against Iran",
+    "Oil prices surge 13% to above $80/barrel as markets react to expanding Middle East conflict",
+    "Thousands stranded as Iranian retaliation forces closure of Dubai International Airport, Kuwait Airport, and airspace across UAE, Qatar, Kuwait, Iraq, and Syria"
+  ],
+  "confirmed_events": [
+    "Iranian ballistic missiles struck Tel Aviv and Jerusalem, damaging approximately 200 buildings with mass evacuations — Israeli air defense systems failed to intercept multiple missiles",
+    "Iranian drone struck Camp Buehring, a US military base in northwestern Kuwait — direct attack on US forces",
+    "Iranian forces conducted direct strike on US base in Erbil, Iraqi Kurdistan — significant escalation from typical southern Iraqi attack locations",
+    "Bahrain confirms successful interception of 61 ballistic missiles and 34 Iranian drones targeting offshore facility near Salman Port — home to US 5th Fleet",
+    "Hezbollah launched rockets and drones from Lebanon into northern Israel — IDF preparing intense response, marking first significant cross-border fire in period",
+    "France, Britain, and Germany announced formal 'defensive measures' against Iranian military capabilities — joining US-led coalition",
+    "UAE closed embassy in Tehran and withdrew all diplomatic staff following Iranian missile attacks on UAE territory"
+  ],
+  "unverified_emerging": [
+    "IRGC claims US carrier Abraham Lincoln fled mission area after being targeted with four cruise missiles — Pentagon has not confirmed, represents unverified Iranian propaganda claim",
+    "Houthis claim massive solidarity marches in Al-Jouf governorate expressing readiness for 'next round' — unverified propagation from Houthi media",
+    "Al Masirah (Houthi) claims 'dozens killed' in Iranian strikes on Tel Aviv, Haifa, Jerusalem — casualty figures unverified by independent sources"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Dubai International Airport (world's busiest for international traffic) closed due to Iranian attack — thousands stranded",
+      "Kuwait International Airport closed — major regional hub shutdown",
+      "UAE, Qatar, Kuwait, Iraq, and Syria closed airspace — airlines forced to reroute around entire Middle East region",
+      "Biggest disruption to global air transport since Covid pandemic"
+    ],
+    "supply_chain": [
+      "Maersk suspended all Suez and Hormuz transits — major shipping route disruption",
+      "Gulf maritime traffic through Strait of Hormuz experiencing attacks, GPS jamming, and Houthi threats — shipping risk elevated",
+      "Regional port operations disrupted at Salman Port (Bahrain), Dubai, Kuwait"
+    ],
+    "market_macro": [
+      "Oil prices jumped 13% on Monday — Brent crude trading above $80/barrel",
+      "US petrol prices surged above $3/gallon, trending higher",
+      "Supply chain experts warn of potential commodity price spikes if conflict continues"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict will continue escalating over the next 24-72 hours. Iran has demonstrated willingness and capability to strike across ten countries with ballistic missiles and drones, and has signaled through Foreign Minister Araghchi that Iran, not external powers, will determine when and how the war ends. The IRGC's multi-front True Promise 4 operations indicate coordinated attacks on tankers and bases will persist. US missile stockpiles are depleting faster than anticipated per reports, creating resource constraints. European coalition formalization (UK, France, Germany) widens the conflict's international scope.",
+    "escalation_risks": [
+      "Hezbollah-Israel northern front intensifying — IDF preparing 'particularly harsh response' to cross-border rocket/drone attacks",
+      "US carrier group targeted — if IRGC claims verified, represents major naval escalation",
+      "Iranian missiles penetrating Israeli air defenses — suggests capability gap that may invite further Iranian strikes",
+      "Arab League condemnation of Iran signals potential for broader regional coalition against Tehran",
+      "Supply route disruptions (Suez/Hormuz) could trigger global economic shock if extended"
+    ],
+    "de_escalation_pathways": "Trump statement indicating openness to talks with Iran suggests potential diplomatic off-ramp, though Iranian leadership has publicly called for punishing the US and Israel for killing Khamenei. Saudi Arabia privately urging GCC allies to avoid provocations indicates Gulf state efforts to prevent total regional war. However, with Iranian leadership framing the conflict as existential and IRGC promising continued 'skeleton-breaking' operations, de-escalation appears unlikely in the near term without significant concessions or battlefield changes."
+  }
+}
