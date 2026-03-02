@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T05-44-13.334633_plus_00-00.json",
+    "generated_at": "2026-03-02T05:44:13.334633+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 837,
+    "summary_preview": "The Iran-US conflict has escalated to an unprecedented level with Iran striking European territory for the first time (Cyprus/British base) and killing at least 170 students/teachers in Iranian school"
+  },
+  {
     "filename": "2026-03-02T05-03-01.769832_plus_00-00.json",
     "generated_at": "2026-03-02T05:03:01.769832+00:00",
     "threat_label": "MAJOR",

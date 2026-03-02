@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-02T05:44:13.334633+00:00",
+  "generated_at": "2026-03-02T06:37:08.869399+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 837,
-    "incident_count_6h": 216,
+    "incident_count_24h": 855,
+    "incident_count_6h": 219,
     "severity_breakdown": {
-      "major": 370,
+      "major": 379,
       "high": 299,
-      "medium": 166,
+      "medium": 175,
       "low": 2
     }
   },
   "source_count": {
-    "attacks_analyzed": 135,
-    "articles_analyzed": 152,
+    "attacks_analyzed": 139,
+    "articles_analyzed": 176,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -31,50 +31,54 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has escalated to an unprecedented level with Iran striking European territory for the first time (Cyprus/British base) and killing at least 170 students/teachers in Iranian schools. The death of Supreme Leader Khamenei has triggered full regional mobilization with Hezbollah formally entering the war and targeting Haifa. US officials express skepticism about regime change feasibility while Trump signals 4-5 weeks of continued hostilities. The conflict has expanded beyond the Gulf to include Cyprus, Iraq, and direct Iranian strikes on Israeli civilian infrastructure.",
-  "whats_unique": [
-    "First Iranian ballistic missile strike on European territory: two missiles fired at Cyprus and drone strike on British Akrotiri base — confirmed by multiple sources",
-    "At least 170 students and teachers killed in US-Israeli airstrikes on Iranian educational facilities (major civilian escalation)",
-    "IRGC claims shot down American MQ-9 Reaper drone over Isfahan province using Iranian air defense system",
-    "Hezbollah formally announces entry into war, targeting Israeli military installations at Haifa in retaliation for Khamenei's killing",
-    "UNESCO condemns Israeli airstrike on girls' school in Minab that killed approximately 180 children — single-source but highly significant if confirmed"
+  "executive_summary": "The Iran-US conflict has escalated significantly in the past 6 hours with Iran launching its THIRD ballistic missile volley at US bases and Israel, while the US-Iran direct confrontation expands into new geographic areas. Key new developments include Iranian UAV strike on British base in Cyprus (confirmed by Cyprus President), continued explosions in Tehran/Karaj, and the first US aircraft loss (F-15 shot down in Kuwait). The conflict now spans five fronts: Iranian strikes on Gulf states/Israel, US-UK strikes on Iran, Israeli operations in Lebanon/Gaza, and Iranian proxies (Hezbollah/Houthis) actively engaged.",
+  "whats_new": [
+    "Iranian UAV struck British RAF Akrotiri base in Cyprus — confirmed by Cyprus President, marking expansion to Eastern Mediterranean",
+    "US F-15 fighter jet shot down in Kuwaiti airspace — first US aircraft loss in current conflict (single source: Shafaqna Persian)",
+    "Israeli forces conducted SIX missile strikes on residential areas in Sanandaj, northwestern Iran — expanding beyond military targets to civilian population centers",
+    "WHO Director-General expressed concern over targeting of Gandhi Hospital in Tehran — escalation into civilian medical infrastructure",
+    "Pentagon rejected Trump's claim that Iran planned to attack US before Khamenei assassination — contradicts administration justification",
+    "Powerful explosions reported in Kuwait with air defense sirens activated at US base (unverified: single Reuters source)",
+    "Continued explosions in Tehran and Karaj reported — ongoing US-Israeli strikes on Iranian heartland"
   ],
   "confirmed_events": [
-    "UK authorizes US to use British bases for limited strikes on Iranian missile storage depots and launchers — confirmed by multiple sources",
-    "IRGC launched ballistic missile volley at USS Abraham Lincoln carrier — first known Iranian attack on a US aircraft carrier — confirmed by multiple sources",
-    "Iranian missile/drone strikes hit UAE including AWS data centre causing fire and power outage — confirmed by multiple sources",
-    "Trump indicates US-Iran confrontation may last four to five weeks, marking extended timeline expectation",
-    "Hezbollah launched rockets and drones at Israel opening new front following US-Israeli attack on Iran"
+    "IRGC launched ballistic missile volley at USS Abraham Lincoln carrier — first known Iranian ballistic missile attack on a US aircraft carrier (CENTCOM confirmed)",
+    "CENTCOM confirmed US troops killed in Iran's direct retaliatory strikes — major escalation in direct US-Iran military engagement",
+    "Hezbollah formally entered the war, launching rockets and drones at Haifa in retaliation for Khamenei's killing — confirmed by multiple sources",
+    "Iranian strikes hit UAE including AWS data centre causing fire and power outage — confirmed impact on critical infrastructure",
+    "Strait of Hormuz shut down due to US-Israeli strikes — major global supply chain disruption confirmed",
+    "Oil prices surged to $80/barrel, Asian stocks fell, gold rose 2.4% — confirmed market impact"
   ],
   "unverified_emerging": [
-    "Unverified reports of violent explosions in Dubai and Doha — source: Hezbollah Electronic Army Telegram channel — attribution and details pending",
-    "US military briefly acknowledged Iranian strike on Haifa oil refinery before deleting post — requires independent corroboration",
-    "Violent explosions reported in occupied Palestine creating large crater — source: multiple Telegram channels",
-    "Israeli strikes on Beirut's southern suburbs causing destruction — escalating Lebanon front"
+    "Violent explosions reported in Dubai and Doha — if confirmed as Iranian attacks would be major escalation targeting Gulf cities with significant US presence (single source: unverified reports)",
+    "Reports of American combat helicopter shot down in western Kuwait with embassy targeted — Shafaqna Persian source, unverified by other outlets",
+    "Iranian drone strike on British Air Force base in Cyprus — while Cyprus President confirmed UAV attack, attribution to Iran not explicitly stated"
   ],
   "operational_impacts": {
     "people_travel": [
-      "Cathay Pacific has suspended all Middle East operations following the US-Israeli attack on Iran — confirmed commercial aviation disruption",
-      "Air raid sirens activated across Israel including Jerusalem and Ashdod indicating ongoing projectile threats"
+      "Cathay Pacific suspended all Middle East operations — confirmed aviation disruption",
+      "Multiple Gulf airlines likely to face route disruptions as conflict expands to UAE/Kuwait/Cyprus"
     ],
     "supply_chain": [
-      "Norwegian insurers Skuld and Gard refuse war risk insurance for vessels following attack on Iran — major shipping/maritime disruption",
-      "Strait of Hormuz attacks causing oil price surge to $80 and Asian stocks drop — confirmed market impact"
+      "Strait of Hormuz shutdown — critical global oil chokepoint disrupted, supply chain impact severe",
+      "AWS data centre hit in UAE — cloud infrastructure impacted for regional operations",
+      "Pakistan Stock Exchange halted trading after 8.97% crash — regional financial market disruption"
     ],
     "market_macro": [
-      "Oil prices surge to $80/barrel amid Strait of Hormuz attacks on several ships — confirmed",
-      "Asian stocks fall on Iran conflict escalation — confirmed"
+      "Oil prices surged to $80/barrel (10% jump) — energy market shock",
+      "Asian stocks fell sharply — regional market instability",
+      "Gold rose 2.4% to ~$5,371/oz — safe-haven demand surge"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The conflict is on an extended trajectory with Trump signaling 4-5 weeks of hostilities. With Khamenei killed and Iran refusing negotiations, the military escalation will likely continue with expanded US-UK strikes on Iranian missile capabilities and Iranian retaliation targeting Gulf states, Israel, and now European territory (Cyprus). Hezbollah's formal entry into the war adds a significant new front. The killing of 170+ students/teachers in educational facilities may trigger additional international condemnation but is unlikely to halt military operations.",
+    "base_case": "The conflict will likely continue to escalate over the next 24-72 hours. With Iran launching third missile volleys, US-UK strikes expanding into additional Iranian cities, and European allies (UK, France, Germany) joining the coalition against Iran, the trajectory points toward deepening multi-front warfare. Trump's indication of 4-5 weeks of hostilities suggests sustained intensity. The key unknown is whether Iran can sustain its ballistic missile campaign against US regional assets while facing continued strikes on its territory.",
     "escalation_risks": [
-      "Iranian proxy forces (Iraqi Shia militias, Houthis) intensifying attacks on US bases across Iraq and Gulf region",
-      "Direct Iranian strikes on Gulf state energy infrastructure (Saudi Arabia, Qatar) potentially triggering wider regional involvement",
-      "US/Israeli strikes expanding to target Iranian nuclear facilities with potential WMD dimension",
-      "Hezbollah opening full northern front against Israel risking Lebanon ceasefire collapse",
-      "Russian or Chinese intervention/military support for Iran increasing global confrontation risk"
+      "Iranian strikes on Gulf shipping could further disrupt global oil supply chain",
+      "Hezbollah-Hezbollah entry formalizes Lebanon as additional front, expanding regional scope",
+      "UAE/Kuwait now directly targeted — risk of Gulf states being drawn into direct conflict",
+      "Iranian UAV strike on British base could pull NATO into direct confrontation",
+      "Risk of miscalculation leading to strikes on civilian nuclear facilities"
     ],
-    "de_escalation_pathways": "With Iran formally refusing negotiations through Supreme National Security Council Secretary Larijani and US officials skeptical of regime change despite military successes, de-escalation pathways appear extremely limited in the near term. Any ceasefire would require both parties to claim sufficient victory while saving face — unlikely until one side suffers decisive military defeat or economic collapse. International mediation (UN, Russia, China) remains possible but neither side has signaled willingness to accept third-party intervention."
+    "de_escalation_pathways": "No visible de-escalation pathway currently. Iran has rejected negotiations through official channels (Larijani statement), and Trump has issued ultimatum for Iranian forces to surrender weapons or face destruction. US officials acknowledge skepticism about regime change feasibility, suggesting military solution alone may be insufficient. However, neither side has indicated willingness to negotiate, and European coalition expansion actually increases pressure on Tehran rather than creating diplomatic off-ramp."
   }
 }
