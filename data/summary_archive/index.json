@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-01T23-36-21.851862_plus_00-00.json",
+    "generated_at": "2026-03-01T23:36:21.851862+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 743,
+    "summary_preview": "The Iran-US conflict has escalated dramatically following the assassination of Iran's Supreme Leader Khamenei, with Iran launching its largest retaliatory campaign yet—firing 61 ballistic missiles and"
+  },
+  {
     "filename": "2026-03-01T22-59-35.888236_plus_00-00.json",
     "generated_at": "2026-03-01T22:59:35.888236+00:00",
     "threat_label": "MAJOR",

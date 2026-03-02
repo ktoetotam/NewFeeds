@@ -36,6 +36,42 @@
     "lng": 54.0
   },
   {
+    "id": "770e9916e7d9504d",
+    "title_original": "Al Hadath: ПВО Бахрейна отражает налет нескольких иранских беспилотников",
+    "content_original": "По информации телеканала, в Манаме была слышна работа систем противовоздушной обороны",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26604447",
+    "published": "2026-03-02T02:37:34+03:00",
+    "fetched_at": "2026-03-01T23:40:26.988513+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Al Hadath: Bahrain's air defense repels attack by several Iranian drones",
+    "relevant": true,
+    "summary_en": "Iranian drones attacked Bahrain, with air defense systems engaged in Manama. The attack represents an escalation of Iranian targeting against US-aligned Gulf states, as Bahrain hosts the US 5th Fleet naval forces.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "air defense",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Manama, Bahrain",
+      "brief": "Iranian drones attacked Bahrain in an escalation targeting US-aligned Gulf states hosting American military forces."
+    },
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "0e531e54b642e475",
     "title_original": "Iran's Gandhi Hospital hit in Israeli strikes, video shows damage and chaos",
     "content_original": "In a military offensive against Iran, Israeli strikes have reportedly damaged the Gandhi Hospital, amidst ongoing attacks on military sites.",
@@ -69,6 +105,45 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "8b9f780b0f463ccd",
+    "title_original": "ЦАХАЛ: на севере Израиля объявили воздушную тревогу",
+    "content_original": "Это связано с первым за длительное время ракетным обстрелом из Ливана, сообщили в армейской пресс-службе",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26604351",
+    "published": "2026-03-02T02:17:34+03:00",
+    "fetched_at": "2026-03-01T23:40:26.989544+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF: Air Raid Alert Declared in Northern Israel",
+    "relevant": true,
+    "summary_en": "Hezbollah launched a rocket attack from Lebanon into northern Israel, triggering air raid sirens in the area. This marks the first rocket fire from Lebanon in a significant period, representing a potential escalation in cross-border hostilities between Israel and Hezbollah. The attack comes as part of the broader regional conflict involving Iranian proxies and US/Israeli operations.",
+    "translated": true,
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "raid",
+      "hezbollah",
+      "idf",
+      "conflict",
+      "rocket",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Northern Israel/Lebanon border",
+      "brief": "Hezbollah launched rocket attack from Lebanon into northern Israel, triggering air raid sirens and marking first rocket fire in a significant period, representing potential escalation in cross-border hostilities."
+    },
+    "lat": 33.06,
+    "lng": 35.24
   },
   {
     "id": "e33ad987539a6f4a",
@@ -106,6 +181,37 @@
     "lng": 52.0
   },
   {
+    "id": "94d6d844bb4042eb",
+    "title_original": "حياة حافلة بالعطاء وختمها بالشهادة.. من هو السيد علي الخامنئي؟",
+    "content_original": "المسيرة نت| عباس القاعدي: يتصدر شهيد الأمة السيد علي الخامنئي حديث وسائل الإعلام الدولية بعد نبأ استشهاده في غارات صهيونية أمريكية غاشمة استهدفت مكان تواجه في العاصمة الإيرانية طهران السبت 28 فبراير 2026م.",
+    "url": "https://almasirah.net.ye/static/static/cd41da14-cc42-41b6-860e-04e6f64320ed.jpg",
+    "published": "2026-03-02T02:11:58+00:00",
+    "fetched_at": "2026-03-01T23:41:18.786991+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "A Life Full of Giving, Sealed with Martyrdom: Who is Sayyed Ali Khamenei?",
+    "relevant": true,
+    "summary_en": "Iranian Supreme Leader Sayyed Ali Khamenei was killed in Israeli-American airstrikes targeting a location in Tehran on Saturday, February 28, 2026. The strikes, described as 'criminal Zionist-American attacks' by Iranian media, represent a major escalation in the ongoing Iran-United States conflict. This assassination of Iran's supreme leader marks a critical turning point in the war.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
     "id": "4026e162d898fb42",
     "title_original": "КСИР: авианосец США Abraham Lincoln после удара отошел от Ирана",
     "content_original": "Судно покинуло район, где выполняло свою миссию, и направилось в сторону Индийского океана, сообщила пресс-служба Корпуса стражей исламской революции",
@@ -140,6 +246,43 @@
     },
     "lat": 26.0,
     "lng": 52.0
+  },
+  {
+    "id": "a6613bb912e37f00",
+    "title_original": "גורמי ביטחון: חיזבאללה הוא שביצע את השיגורים מלבנון - תגיע תגובה קשה במיוחד",
+    "content_original": "גורמי ביטחון: חיזבאללה הוא שביצע את השיגורים מלבנון - תגיע תגובה קשה במיוחד",
+    "url": "https://mivzakim.net/r/13964955/rss",
+    "published": "2026-03-02T01:40:08+02:00",
+    "fetched_at": "2026-03-01T23:40:38.364518+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Security sources: Hezbollah carried out the launches from Lebanon - a particularly harsh response will follow",
+    "relevant": true,
+    "summary_en": "Israeli security sources confirmed that Hezbollah was responsible for the projectile launches from Lebanon toward Israeli territory. The sources indicated that Israel will respond with a particularly harsh response. This represents another escalation in the ongoing Hezbollah-Israel front, which is part of the broader Iran-US regional conflict involving IRGC proxies across multiple theaters.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lebanon-Israel border",
+      "brief": "Hezbollah launched projectiles from Lebanon toward Israeli territory, prompting Israeli security sources to warn of a particularly harsh response in another escalation of the ongoing conflict."
+    },
+    "merged_source_count": 5,
+    "geocode_failed": true
   },
   {
     "id": "d7116b5ed56759b4",
@@ -182,6 +325,197 @@
     "lng": 44.39
   },
   {
+    "id": "5cfb049d9b4309a2",
+    "title_original": "התרעות על חדירת כטב\"ם בעמק החולה ובצפת",
+    "content_original": "התרעות על חדירת כטב\"ם בעמק החולה ובצפת",
+    "url": "https://mivzakim.net/r/13964951/rss",
+    "published": "2026-03-02T01:36:13+02:00",
+    "fetched_at": "2026-03-01T23:40:38.364949+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Alerts of UAV penetration in Hula Valley and Tzfat",
+    "relevant": true,
+    "summary_en": "Hezbollah launched drone(s) penetrating Israeli airspace in the Hula Valley and Tzfat area in northern Israel. The alerts indicate ongoing cross-border drone activity from Lebanon, representing continued escalation in the northern front where Hezbollah (IRGC proxy) is conducting persistent attacks on Israeli territory.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "irgc",
+      "drone",
+      "proxy",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "IRGC",
+        "Israel"
+      ],
+      "location": "Hula Valley and Tzfat, northern Israel",
+      "brief": "Hezbollah drones penetrated Israeli airspace in the Hula Valley and Tzfat areas, representing continued cross-border drone escalation from Lebanon by the IRGC proxy."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "e1e406b49e12628a",
+    "title_original": "חדירת כלי טיס (01:31): כפר בלום, עמיר",
+    "content_original": "חדירת כלי טיס (01:31): כפר בלום, עמיר",
+    "url": "https://mivzakim.net/r/13964942/rss",
+    "published": "2026-03-02T01:31:55+02:00",
+    "fetched_at": "2026-03-01T23:40:38.365749+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Aircraft Infiltration (01:31): Kfar Blum, Ammar Area",
+    "relevant": true,
+    "summary_en": "A hostile aircraft infiltration was reported in the Kfar Blum area in northern Israel near the Lebanese border at 01:31. The incident appears to involve either a drone or unidentified aircraft penetrating Israeli airspace in the Upper Galilee region, likely linked to Hezbollah activity from Lebanon.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Kfar Blum, Upper Galilee, northern Israel near Lebanese border",
+      "brief": "Hezbollah-linked aircraft/drone infiltration into northern Israel near the Lebanese border reported at 01:31."
+    },
+    "lat": 33.1723656,
+    "lng": 35.6101218
+  },
+  {
+    "id": "cd97359788c20efb",
+    "title_original": "צבע אדום (01:31): קריית שמונה, תל חי",
+    "content_original": "צבע אדום (01:31): קריית שמונה, תל חי",
+    "url": "https://mivzakim.net/r/13964941/rss",
+    "published": "2026-03-02T01:31:25+02:00",
+    "fetched_at": "2026-03-01T23:40:38.365944+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Red Alert (01:31): Kiryat Shmona, Tel Hai",
+    "relevant": true,
+    "summary_en": "Rocket alert activated for Kiryat Shmona and Tel Hai in northern Israel near the Lebanon border. This represents continued Hezbollah rocket and missile threats against Israeli civilian populations in the north, consistent with the ongoing Iran-Hezbollah proxy front in the wider regional conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "rocket",
+      "conflict",
+      "proxy",
+      "missile",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Kiryat Shmona, Tel Hai, northern Israel near Lebanon border",
+      "brief": "Rocket alert activated for Israeli northern towns as Hezbollah continues rocket and missile threats along the Lebanon border as part of Iran's proxy warfare campaign."
+    },
+    "merged_source_count": 5,
+    "lat": 33.2121315,
+    "lng": 35.5715923
+  },
+  {
+    "id": "7af43a5bfe9dbde0",
+    "title_original": "צבע אדום (01:30): ע'ג'ר",
+    "content_original": "צבע אדום (01:30): ע'ג'ר",
+    "url": "https://mivzakim.net/r/13964938/rss",
+    "published": "2026-03-02T01:30:22+02:00",
+    "fetched_at": "2026-03-01T23:40:38.366130+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Red Alert (01:30): Guer",
+    "relevant": true,
+    "summary_en": "A red alert notification was issued at 01:30 for location abbreviated as Guer (ע'ג'ר). The specific nature of the threat and precise location are not detailed in the available information, but red alerts in this context typically indicate incoming rocket, missile, or drone threats requiring immediate shelter.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "threat",
+      "rocket",
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Guer (ע'ג'ר), Israel",
+      "brief": "Red alert issued in Israel indicating incoming rocket, missile or drone threat at Guer location, specific threat details not provided."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "b45ad872b88a4cb3",
+    "title_original": "צה\"ל: יורטה רקטה מלבנון, כמה התפוצצו בשטח פתוח; התרעות על חדירת כטב\"ם",
+    "content_original": "צה\"ל: יורטה רקטה מלבנון, כמה התפוצצו בשטח פתוח; התרעות על חדירת כטב\"ם",
+    "url": "https://mivzakim.net/r/13964936/rss",
+    "published": "2026-03-02T01:30:14+02:00",
+    "fetched_at": "2026-03-01T23:40:39.325280+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF: Rocket from Lebanon intercepted, several detonated in open area; warnings of drone infiltration",
+    "relevant": true,
+    "summary_en": "Israeli air defense forces intercepted a rocket launched from Lebanon into Israeli territory, with several projectiles detonating in open areas. The IDF also issued warnings regarding incoming drone infiltration. This represents ongoing Hezbollah attacks on Israel's northern border, continuing cross-border hostilities in the region.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "rocket",
+      "air defense",
+      "idf",
+      "drone",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Northern Israel-Lebanon border",
+      "brief": "Israeli air defense intercepted a rocket from Lebanon with several detonations in open areas while issuing warnings of incoming drone infiltration from Hezbollah forces."
+    },
+    "merged_source_count": 6,
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
     "id": "2484e87eb61b37e3",
     "title_original": "\"Вступить в войну\": Пушков выступил с предупреждением после ударов по Ирану",
     "content_original": "\"Вступить в войну\": Пушков выступил с предупреждением после ударов по Ирану",
@@ -216,6 +550,310 @@
     "merged_source_count": 2,
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "20d5ebef184d63ee",
+    "title_original": "פיקוד העורף: אירוע חדירת הכטב\"ם באזור ים המלח הסתיים",
+    "content_original": "פיקוד העורף: אירוע חדירת הכטב\"ם באזור ים המלח הסתיים",
+    "url": "https://mivzakim.net/r/13964927/rss",
+    "published": "2026-03-02T01:23:40+02:00",
+    "fetched_at": "2026-03-01T23:40:40.102592+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Home Front Command: UAV Infiltration Incident in Dead Sea Area Has Ended",
+    "relevant": true,
+    "summary_en": "Israeli Home Front Command reports that a UAV (unmanned aerial vehicle) infiltration incident in the Dead Sea area has concluded. The incident involved potential hostile drone activity in Israeli airspace, though details on the origin or outcome were not immediately specified. This follows ongoing tensions in the region with Iran and its proxies, including Hezbollah and Hamas, which have conducted numerous drone and missile operations against Israel throughout the conflict.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "dead",
+      "hamas",
+      "conflict",
+      "drone",
+      "missile",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Unknown hostile actor"
+      ],
+      "location": "Dead Sea, Israel",
+      "brief": "Israeli Home Front Command reported a UAV infiltration incident in the Dead Sea area involving potential hostile drone activity in Israeli airspace, which has now concluded."
+    },
+    "merged_source_count": 6,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "eae5b17359b967a0",
+    "title_original": "חיזבאללה הצטרף למערכה – שוגרו טילים וכטב\"מים לעבר הצפון",
+    "content_original": "לאחר תקופה של הפסקת אש, ארגון הטרור חיזבאללה הודיע הלילה רשמית על הצטרפותו למערכה נגד ישראל לצד איראן. המהלך יצא לפועל סמוך לשעה 01:00 במתקפה משולבת של ירי רקטי ושיגור כלי טיס בלתי מאוישים לעבר חיפה, הקריות ויישובי הסביבה, מה שהוביל להפעלת אזעקות נרחבות ולדריכות במערכת הביטחון. יירוטים ונפילות במרחב מנתונים ראשוניים של מערכות ההגנה",
+    "url": "https://mivzakim.net/r/13964921/rss",
+    "published": "2026-03-02T01:21:33+02:00",
+    "fetched_at": "2026-03-01T23:40:38.367914+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Hezbollah joins the campaign - missiles and drones launched toward the north",
+    "relevant": true,
+    "summary_en": "Hezbollah officially announced its entry into the conflict against Israel alongside Iran, launching a combined rocket and drone attack around 01:00 toward Haifa, the Galilee region and surrounding settlements. The attack triggered widespread sirens and prompted heightened alert status across Israel's defense systems, marking the terrorist organization's first major offensive action following a ceasefire period.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "ceasefire",
+      "rocket",
+      "conflict",
+      "drone",
+      "offensive",
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Haifa, Galilee region, northern Israel",
+      "brief": "Hezbollah officially entered the conflict alongside Iran, launching a combined rocket and drone attack toward Haifa and the Galilee region, triggering widespread sirens and heightened alert across Israel"
+    },
+    "merged_source_count": 3,
+    "lat": 32.79,
+    "lng": 34.99
+  },
+  {
+    "id": "92efff56c8d9b358",
+    "title_original": "הותר לפרסום שמו של הרוג נוסף מפגיעת הטיל בבית שמש: גבריאל ברוך רווח",
+    "content_original": "הותר לפרסום שמו של הרוג נוסף מפגיעת הטיל בבית שמש: גבריאל ברוך רווח",
+    "url": "https://mivzakim.net/r/13964919/rss",
+    "published": "2026-03-02T01:21:06+02:00",
+    "fetched_at": "2026-03-01T23:40:38.368278+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Name released of another killed from missile strike in Beit Shemesh: Gabriyahu Beruch Revach",
+    "summary_en": "Israeli authorities released the name of another casualty, Gabriyahu Beruch Revach, from a missile strike in Beit Shemesh. The headline does not specify who fired the missile, but given the ongoing conflict context and Israel's operations against Iran-linked targets, this appears to be related to the broader regional conflict involving Iranian proxies (",
+    "relevant": true,
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "killed",
+      "strike",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Iranian proxies"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Israeli authorities identified Gabriyahu Beruch Revach as a casualty from a missile strike in Beit Shemesh, likely from Iranian or proxy forces."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "4a5e3f96d56f1fdf",
+    "title_original": "חיזבאללה הצטרף למערכה: מדובר בירי הראשון לישראל מלבנון מאז הפסקת האש",
+    "content_original": "חיזבאללה הצטרף למערכה: מדובר בירי הראשון לישראל מלבנון מאז הפסקת האש",
+    "url": "https://mivzakim.net/r/13964917/rss",
+    "published": "2026-03-02T01:19:58+02:00",
+    "fetched_at": "2026-03-01T23:40:38.368639+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Hezbollah joins the campaign: This is the first firing at Israel from Lebanon since the ceasefire",
+    "relevant": true,
+    "summary_en": "Hezbollah has launched rockets or missiles at Israel from Lebanon, marking the first such attack since the ceasefire agreement. This represents a significant escalation in hostilities along the northern Israel-Lebanon border and indicates Hezbollah's re-entry into active combat operations against Israel. The attack signals a potential widening of the multi-front conflict involving Iran-linked proxies.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "ceasefire",
+      "conflict",
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Lebanon-Israel border (northern Israel)",
+      "brief": "Hezbollah launched rockets or missiles at Israel from Lebanon, marking the first such attack since the ceasefire and signaling their re-entry into active combat operations."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "bbaca4717621a67c",
+    "title_original": "בהמשך לירי מלבנון על הצפון: 3 רקטות יורטו",
+    "content_original": "בהמשך לירי מלבנון על הצפון: 3 רקטות יורטו",
+    "url": "https://mivzakim.net/r/13964906/rss",
+    "published": "2026-03-02T01:16:31+02:00",
+    "fetched_at": "2026-03-01T23:40:38.369570+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Following fire from Lebanon on the north: 3 rockets intercepted",
+    "relevant": true,
+    "summary_en": "Three rockets fired from Lebanon toward northern Israel were intercepted by Israeli air defense systems. This incident continues the ongoing cross-border hostilities between Israel and Hezbollah, with rocket fire from Lebanese territory targeting northern Israel.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "air defense",
+      "hezbollah",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Northern Israel (from Lebanon)",
+      "brief": "Three rockets fired from Lebanon toward northern Israel were intercepted by Israeli air defense systems, continuing cross-border hostilities between Israel and Hezbollah."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "21dff59be54f1960",
+    "title_original": "המטח מלבנון: ככל הנראה נורו בין שש לשבע רקטות, אין נפגעים",
+    "content_original": "המטח מלבנון: ככל הנראה נורו בין שש לשבע רקטות, אין נפגעים",
+    "url": "https://mivzakim.net/r/13964904/rss",
+    "published": "2026-03-02T01:16:03+02:00",
+    "fetched_at": "2026-03-01T23:40:38.369956+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Rocket Fire from Lebanon: Approximately Six to Seven Rockets Fired, No Casualties",
+    "relevant": true,
+    "summary_en": "Rockets were fired from Lebanon toward Israel, with reports indicating six to seven projectiles were launched. There were no reported casualties from this attack. This incident represents continued cross-border hostilities between Israel and Hezbollah, an Iran-aligned proxy force operating from southern Lebanon, and reflects the ongoing expansion of the conflict across multiple regional fronts.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "rocket",
+      "conflict",
+      "proxy",
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Lebanon",
+      "brief": "Hezbollah fired six to seven rockets from Lebanon toward Israel with no casualties reported."
+    },
+    "merged_source_count": 2,
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "21dff59be54f1960",
+    "title_original": "המטח מלבנון: ככל הנראה נורו בין שש לשבע רקטות, אין נפגעים",
+    "content_original": "המטח מלבנון: ככל הנראה נורו בין שש לשבע רקטות, אין נפגעים",
+    "url": "https://mivzakim.net/r/13964904/rss",
+    "published": "2026-03-02T01:16:03+02:00",
+    "fetched_at": "2026-03-01T23:40:40.103363+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Fire from Lebanon: Apparently six to seven rockets fired, no casualties",
+    "relevant": true,
+    "summary_en": "Hezbollah forces in Lebanon fired approximately 6-7 rockets toward Israeli territory. No casualties were reported in the incident. This represents ongoing hostilities along the Israel-Lebanon border as part of the wider Iran-linked proxy conflict in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "proxy",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran (backing)"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Hezbollah fired 6-7 rockets toward Israeli territory with no casualties reported, continuing proxy hostilities along the northern border."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
+    "id": "8c3bd7f0fbb805b6",
+    "title_original": "אחרי הירי מלבנון: אש מקלעים נשמעת בגזרה המערבית של הגבול",
+    "content_original": "אחרי הירי מלבנון: אש מקלעים נשמעת בגזרה המערבית של הגבול",
+    "url": "https://mivzakim.net/r/13964900/rss",
+    "published": "2026-03-02T01:13:14+02:00",
+    "fetched_at": "2026-03-01T23:40:39.326064+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "After shooting from Lebanon: Machine gun fire heard in western sector of border",
+    "relevant": true,
+    "summary_en": "After reports of shooting from Lebanon, machine gun fire was heard in the western sector of the border area. This represents ongoing cross-border hostilities between Israel and Lebanon, involving Hezbollah forces in what is one of the active fronts connected to the broader Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Western sector of Israel-Lebanon border",
+      "brief": "Machine gun fire reported from Lebanon in western border sector amid ongoing Israel-Hezbollah cross-border hostilities connected to broader Iran-US conflict."
+    },
+    "geocode_failed": true
   },
   {
     "id": "533885815b8e4e49",
@@ -936,6 +1574,85 @@
     "lng": 54.56
   },
   {
+    "id": "6d7743b255849e79",
+    "title_original": "JUST IN - Hezbollah joins the war with extensive rocket fire at communities in the north of Israel — N12 @disclosetv",
+    "content_original": "JUST IN - Hezbollah joins the war with extensive rocket fire at communities in the north of Israel — N12 @disclosetv",
+    "url": "https://t.me/CIG_telegram/69966",
+    "published": "2026-03-01T23:39:31+00:00",
+    "fetched_at": "2026-03-01T23:41:55.571634+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Hezbollah joins the war with extensive rocket fire at communities in the north of Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Hezbollah has launched extensive rocket fire at communities in northern Israel, marking the Lebanese proxy group's direct entry into the expanding Iran-US conflict. This escalation opens a significant new front against Israel, which had already been engaged in operations against Hamas in Gaza and Iranian-linked targets. The attack represents a major regional widening of hostilities, with Hezbollah now actively joining the Iran-led coalition of proxy forces (Houthis, Hamas, PMF) against US allies.",
+    "keyword_matches": 13,
+    "matched_keywords": [
+      "rocket",
+      "conflict",
+      "hamas",
+      "proxy",
+      "pmf",
+      "war",
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Northern Israel",
+      "brief": "Hezbollah launched extensive rocket fire at communities in northern Israel, marking the Lebanese proxy group's direct entry into the expanding Iran-US conflict and opening a significant new front against Israel."
+    },
+    "merged_source_count": 4,
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "f73d44b33fa2c1a8",
+    "title_original": "— ❗️ 🇬🇧 / 🇮🇷 / 🇨🇾  CONFIRMED:  An Iranian drone struck Akrotiri Base in Cyprus earlier tonight, housing the Royal Bri...",
+    "content_original": "— ❗️ 🇬🇧 / 🇮🇷 / 🇨🇾 CONFIRMED: An Iranian drone struck Akrotiri Base in Cyprus earlier tonight, housing the Royal British Air Force Cyprus Mail claims no casualties, but material damage was sustained to the base. @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/69965",
+    "published": "2026-03-01T23:39:13+00:00",
+    "fetched_at": "2026-03-01T23:41:55.571019+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Iranian drone strikes British military base in Cyprus",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Iranian drone struck Akrotiri Base in Cyprus earlier tonight, housing the Royal British Air Force. No casualties were reported, but material damage was sustained to the base. This marks a significant escalation as Iran extends its strikes onto EU/NATO territory, targeting British military assets in the Eastern Mediterranean.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United Kingdom",
+        "NATO",
+        "EU"
+      ],
+      "location": "Akrotiri, Cyprus",
+      "brief": "Iranian drone strike on British RAF base in Cyprus marks significant escalation onto NATO/EU territory with material damage but no casualties."
+    },
+    "lat": 34.6008434,
+    "lng": 32.9561709
+  },
+  {
     "id": "6a28abe91a828c3e",
     "title_original": "Khamenei is dead. What happens next?",
     "content_original": "Iran's Supreme Leader Ali Khamenei has reportedly been killed amid a joint US-Israel military offensive. As the dust settles, the question on everyone's mind is simple: what now?",
@@ -1083,6 +1800,81 @@
     "lng": 34.8
   },
   {
+    "id": "e9209e2264dfec36",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: قناة 14 الإسرائيلية: من الممكن أن غارة لنا تسببت بتفعيل راجمة من لبنان وحزب الل...",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: قناة 14 الإسرائيلية: من الممكن أن غارة لنا تسببت بتفعيل راجمة من لبنان وحزب الله لم ينضم",
+    "url": "https://t.me/Electrohizbullah/156945",
+    "published": "2026-03-01T23:33:19+00:00",
+    "fetched_at": "2026-03-01T23:41:59.112152+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Channel 14: Possible Israeli Strike Triggered Rocket Launcher in Lebanon, Hezbollah Not Involved",
+    "relevant": true,
+    "summary_en": "Israeli Channel 14 reports that a possible Israeli airstrike caused the activation of a rocket launcher from Lebanon, though Hezbollah did not claim involvement or participation. This represents a potential development in the ongoing exchanges between Israel and Hezbollah along the northern border, with uncertainty over whether the incident was an Israeli strike or a different trigger.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "strike",
+      "hezbollah",
+      "rocket",
+      "airstrike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah"
+      ],
+      "location": "Lebanon northern border",
+      "brief": "Possible Israeli airstrike triggered rocket launcher activation in Lebanon, though Hezbollah denied involvement, marking a potential development in Israel-Hezbollah border exchanges."
+    },
+    "lat": 33.1078808,
+    "lng": 35.2856208
+  },
+  {
+    "id": "6632401b168aa49e",
+    "title_original": "⚡ Al-Mayadeen correspondent: Israeli artillery shelling targeted the eastern part of the Zeitoun neighborhood, east o...",
+    "content_original": "⚡ Al-Mayadeen correspondent: Israeli artillery shelling targeted the eastern part of the Zeitoun neighborhood, east of Gaza City.",
+    "url": "https://t.me/warmonitors/40365",
+    "published": "2026-03-01T23:31:31+00:00",
+    "fetched_at": "2026-03-01T23:41:56.894219+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Israeli artillery shelling hits eastern Zeitoun neighborhood east of Gaza City",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli forces conducted artillery shelling targeting the eastern part of the Zeitoun neighborhood east of Gaza City. The attack is part of ongoing Israeli military operations in the Gaza Strip. This incident occurs within the broader regional conflict context involving Israeli operations against Iranian-linked targets and proxy forces.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "proxy",
+      "shelling",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Gaza Strip"
+      ],
+      "location": "Zeitoun neighborhood, eastern Gaza City, Gaza Strip",
+      "brief": "Israeli artillery shelling targeted the eastern part of Zeitoun neighborhood east of Gaza City as part of ongoing Israeli military operations in the Gaza Strip."
+    },
+    "lat": 31.5,
+    "lng": 34.47
+  },
+  {
     "id": "b58df0fa8ce857d6",
     "title_original": "تغطية خاصة | حول استشهاد السيد علي خامنئي بعدوان أمريكي صهيوني وقراءة في كلمة السيد القائد عبدالملك الحوثي | مع حسان عليان و علي الديلمي و د. حكم أمهز و خالد الرواس و د. رضا اسكندر و العميد نضال زهوي و حسن حردان و د. عماد أبو الحسن   12 رمضان 1447هـ 01 مارس 2026م",
     "content_original": "تقديم: أحمد عبدالوهاب",
@@ -1226,6 +2018,81 @@
     "lng": 35.86
   },
   {
+    "id": "84ad67fd6c839c4d",
+    "title_original": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
+    "content_original": "Donald Trump warned of more US deaths after three US service members have been killed in action on the second day of US-Israel attack on Iran.",
+    "url": "https://www.bbc.com/news/videos/cvgk8vj56v1o?at_medium=RSS&at_campaign=rss",
+    "published": "2026-03-01T23:18:27+00:00",
+    "fetched_at": "2026-03-01T23:41:47.687454+00:00",
+    "source_name": "BBC News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Watch: Retaliations continue on day two of US-Israel attacks on Iran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Three US service members have been killed in action on the second day of US-Israel attacks on Iran. President Donald Trump warned that additional US deaths are expected as retaliations continue. The attacks represent a significant escalation in the ongoing Iran-US conflict.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "deaths",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Three US service members killed on second day of US-Israel attacks on Iran with Trump warning additional US casualties expected as retaliations continue."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "6c950211e2482828",
+    "title_original": "#إعلام_العدو   دوي صفارات الإنذار في عرب العرامشة وشتولا ويعرا بالجليل الغربي خشية تسلل طائرات مسيّرة. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو دوي صفارات الإنذار في عرب العرامشة وشتولا ويعرا بالجليل الغربي خشية تسلل طائرات مسيّرة. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156941",
+    "published": "2026-03-01T23:15:27+00:00",
+    "fetched_at": "2026-03-01T23:41:59.109768+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Air raid sirens sound in western Galilee communities fearing drone infiltration",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in three communities in western Galilee (Arab al-Armasha, Shtula, and Ya'ra) in Israel due to fears of incoming drone aircraft. This represents continued cross-border hostilities between Israel and Hezbollah/Iranian-backed forces in the northern Israel-Lebanon sector.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "drone",
+      "raid",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Western Galilee, Israel (Arab al-Armasha, Shtula, Ya'ra)",
+      "brief": "Air raid sirens activated in three Israeli communities near Lebanon border due to fears of incoming drone aircraft from Hezbollah/Iranian-backed forces."
+    },
+    "lat": 32.88,
+    "lng": 35.3
+  },
+  {
     "id": "66a1f52f7215be03",
     "title_original": "США заявили, что применили в Иране \"специальные возможности\"",
     "content_original": "США заявили, что применили в Иране \"специальные возможности\"",
@@ -1266,6 +2133,81 @@
     "lng": 54.56
   },
   {
+    "id": "48b54e71b78346fd",
+    "title_original": "منصّة إعلاميّة إسرائيليّة:  حاول الحرس الثوري استهداف اجتماع الكابينت في القدس إذ سقط الصاروخ بالقرب الشديد من مكان ا...",
+    "content_original": "منصّة إعلاميّة إسرائيليّة: حاول الحرس الثوري استهداف اجتماع الكابينت في القدس إذ سقط الصاروخ بالقرب الشديد من مكان الاجتماع #الميادين",
+    "url": "https://t.me/Electrohizbullah/156939",
+    "published": "2026-03-01T23:14:24+00:00",
+    "fetched_at": "2026-03-01T23:41:59.109180+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli media: IRGC attempted to target cabinet meeting in Jerusalem, rocket fell near meeting location",
+    "relevant": true,
+    "summary_en": "The Iranian Revolutionary Guard Corps (IRGC) attempted to target an Israeli cabinet meeting in Jerusalem with a rocket that fell in very close proximity to the meeting location, according to Israeli media reports. This represents a significant strategic targeting attempt against Israeli governmental leadership during the ongoing Iran-Israel conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "irgc",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Israel"
+      ],
+      "location": "Jerusalem",
+      "brief": "IRGC rocket targeted Israeli cabinet meeting in Jerusalem, falling near the meeting location in a significant strategic attack on Israeli government leadership."
+    },
+    "merged_source_count": 2,
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  {
+    "id": "c3eda2b8ef6288a5",
+    "title_original": "Sirens sound in northern Israel after projectiles fired from Lebanon",
+    "content_original": "Sirens sound in northern Israel after projectiles fired from Lebanon Air raid sirens echoed across several areas of northern Israel on Monday after projectiles were launched from Lebanon, according to the Israeli military.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sirens-sound-northern-israel-after-projectiles-fired-lebanon",
+    "published": "2026-03-01T23:14:06+00:00",
+    "fetched_at": "2026-03-01T23:40:52.863769+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Sirens sound in northern Israel after projectiles fired from Lebanon",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Air raid sirens echoed across northern Israel on Monday after projectiles were launched from Lebanon, according to the Israeli military. The attack represents continued escalation along the Israel-Lebanon border, where Hezbollah has been conducting regular cross-border strikes as part of the wider Iran-US conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "raid",
+      "conflict",
+      "hezbollah",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action|proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Northern Israel / Israel-Lebanon border",
+      "brief": "Hezbollah projectiles fired from Lebanon triggered air raid sirens in northern Israel, continuing cross-border escalation along the Israel-Lebanon border."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
     "id": "ab974e6ea2d991aa",
     "title_original": "КСИР: при ударах Ирана по Хайфе погибли минимум 40 человек",
     "content_original": "КСИР: при ударах Ирана по Хайфе погибли минимум 40 человек",
@@ -1303,6 +2245,42 @@
     "merged_source_count": 2,
     "lat": 32.79,
     "lng": 34.99
+  },
+  {
+    "id": "5214a15b55d77955",
+    "title_original": "#إعلام_العدو   وسائل إعلام إسرائيلية: أنباء أولية عن سقوط صاروخ في الكريوت. #الإعلام_الحربي",
+    "content_original": "#إعلام_العدو وسائل إعلام إسرائيلية: أنباء أولية عن سقوط صاروخ في الكريوت. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156938",
+    "published": "2026-03-01T23:12:18+00:00",
+    "fetched_at": "2026-03-01T23:41:59.108601+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Israeli Media: Initial Reports of Missile Striking Krayot Area",
+    "relevant": true,
+    "summary_en": "Israeli media report initial information about a missile striking the Krayot area in northern Israel, near Haifa. This represents continued Hezbollah rocket attacks on Israeli civilian areas in the north, maintaining pressure on Israel's northern front.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "missile",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Krayot area, northern Israel, near Haifa",
+      "brief": "Hezbollah missile strike hits civilian area in northern Israel near Haifa, continuing pressure on Israel's northern front."
+    },
+    "lat": 33.06,
+    "lng": 35.24
   },
   {
     "id": "d0230a2c128165b2",
