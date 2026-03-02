@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-03-02T10:33:43.477949+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 858,
+    "incident_count_6h": 186,
+    "severity_breakdown": {
+      "major": 386,
+      "high": 293,
+      "medium": 175,
+      "low": 4
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 124,
+    "articles_analyzed": 125,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated to a critical new phase with direct US personnel casualties — three US service members killed in Israeli strikes on Lebanon, and a US pilot captured after being shot down in Kuwait. Iran has launched its 10th ballistic missile wave against Israel while simultaneously striking US assets across the Gulf (embassy in Kuwait, 5th Fleet base in Bahrain, Saudi oil facilities for first time since 2019). The geographic scope has expanded to target a NATO member (British base in Cyprus). Iran has formally rejected all diplomatic engagement, and the conflict now operates across seven distinct fronts with no visible de-escalation pathway.",
+  "whats_new": [
+    "US pilot captured after fighter jet shot down in Kuwait — significant escalation with direct US personnel detention",
+    "Iran directly attacks US embassy compound in Kuwait — strike on sovereign US territory",
+    "Iran launches direct attacks on Saudi oil facilities for first time since 2019 — major escalation against key US Gulf ally",
+    "Three US service members killed in Israeli airstrikes on Hezbollah in Lebanon — first confirmed US casualties",
+    "Hezbollah formally announces entry into war, launches rockets and drones at Israel — proxy escalation confirmed",
+    "China reports one citizen killed in Tehran strikes — first confirmed foreign civilian casualty"
+  ],
+  "confirmed_events": [
+    "Iranian 10th ballistic missile wave targets Israeli government headquarters in Tel Aviv, Haifa, occupied Jerusalem — IRGC claims responsibility",
+    "US 5th Fleet base in Bahrain struck with 9-10 impacts during the night — FIRMS satellite data confirms",
+    "Iranian missiles strike Israel forcing civilians into underground metro stations — major civilian impact",
+    "Israeli Air Force struck 100+ projectiles on Iranian sites in Tehran — IDF declares readiness for multi-front war",
+    "USS Gerald R. Ford Carrier Strike Group launching direct attacks on Iran from Mediterranean — USCENTCOM confirms"
+  ],
+  "unverified_emerging": [
+    "Pentagon told Congress Iran posed no imminent threat prior to strikes — source: Press TV citing congressional testimony (unverified)",
+    "Trump claims US airstrikes killed potential Khamenei successors — source: Sahafi Jordan/Trump statement (unverified whether confirmed)",
+    "Russian tourist in Dubai reports hearing missile explosions, seeing air defense intercepts — source: RIA Novosti (single source, unverified casualties)"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Countries preparing evacuations of citizens from Gulf region — Ireland advises nationals to stay sheltered",
+      "Land routes out of Gulf region not recommended due to mass exodus volume — per EU reporting"
+    ],
+    "supply_chain": [
+      "Saudi air defenses intercepted two drones targeting Ras Tanura refinery — attack foiled, no damage",
+      "Gulf energy facilities under sustained drone/missile threat — pattern of repeated attempted strikes on oil infrastructure"
+    ],
+    "market_macro": [
+      "Oil prices spike 7% to $74/barrel for Brent crude — largest oil supply shock risk in years",
+      "Israeli stock indices surge 4%+ in first trading session since conflict — shekel strengthens against dollar/euro",
+      "European markets decline in response to Middle East conflict escalation"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue escalating over the next 24-72h with Iran launching additional missile waves while US and Israel maintain sustained bombing campaign across Iranian territory. The capture of a US pilot and first US casualties will likely harden US resolve. Iran has rejected all diplomacy, and the interim Supreme Leader succession (Ayatollah Arafi) will likely maintain hardline posture. Expect continued Gulf state targeting (Kuwait, Qatar, Saudi Arabia, Bahrain) and expanded Hezbollah operations against Israel.",
+    "escalation_risks": [
+      "Iran may expand Houthi involvement — Houthis have not yet formally entered but concerns mounting over 'if the Houthis decide to join'",
+      "Russian/Chinese diplomatic escalation at IAEA — calling to condemn strikes on Iran, potentially complicating US international position",
+      "Risk of civilian casualty escalation — Gandhi Hospital in Tehran already struck, Chinese citizen killed, Lebanon toll at 31+",
+      "Gulf state retaliation — Saudi Arabia may feel compelled to respond to oil facility attacks"
+    ],
+    "de_escalation_pathways": "No visible de-escalation pathway. Iran has explicitly stated it will not negotiate. US demands surrender of weapons and immunity, which Iran has rejected. China calling for ceasefire has minimal leverage. The conflict trajectory suggests continued escalation until one side experiences a decisive military setback or internal political change — neither appears imminent."
+  }
+}

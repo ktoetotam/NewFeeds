@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T10-33-43.477949_plus_00-00.json",
+    "generated_at": "2026-03-02T10:33:43.477949+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 858,
+    "summary_preview": "The Iran-US conflict has escalated to a critical new phase with direct US personnel casualties — three US service members killed in Israeli strikes on Lebanon, and a US pilot captured after being shot"
+  },
+  {
     "filename": "2026-03-02T09-29-57.215903_plus_00-00.json",
     "generated_at": "2026-03-02T09:29:57.215903+00:00",
     "threat_label": "MAJOR",
