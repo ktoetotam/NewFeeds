@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-03-02T11:33:48.268012+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 867,
+    "incident_count_6h": 183,
+    "severity_breakdown": {
+      "major": 393,
+      "high": 292,
+      "medium": 177,
+      "low": 5
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 127,
+    "articles_analyzed": 225,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached a critical new phase with first confirmed US aircraft loss to Iranian air defenses (F-15 shot down in Gulf), while Iran reports 555 killed in US-Israeli strikes and explicitly rejects all diplomatic engagement. The conflict now spans eight fronts including direct attacks on US embassy in Kuwait, 5th Fleet base in Bahrain, and Saudi oil facilities. Regional escalation accelerates with Hezbollah formally entering the war and Houthi threats intensifying.",
+  "whats_list_new": [
+    "Iranian air defense forces shot down US Air Force F-15 fighter jet — first confirmed loss of US aircraft to Iranian air defenses",
+    "US strike damaged Gandhi Hospital in Tehran — escalation into civilian medical infrastructure",
+    "Chinese citizen killed in US strikes on Tehran — first confirmed foreign civilian casualty",
+    "Iranian Red Crescent announces 555 killed in Iran from American-Israeli strikes — first official casualty count",
+    "IRGC claimed attack on Israeli PM Netanyahu's office and Air Force commander headquarters"
+  ],
+  "confirmed_events": [
+    "Iran launched tenth wave of ballistic missiles targeting Israeli government and military sites (Tel Aviv, Haifa, Jerusalem) — confirmed by IRGC statement",
+    "Iran directly attacked US embassy compound in Kuwait — significant escalation onto sovereign US territory",
+    "Iranian missiles struck Salman Port naval base hosting US 5th Fleet in Bahrain — confirmed attack on US naval infrastructure",
+    "Hezbollah formally announced entry into war, launching rockets and drones at Israel in retaliation for Khamenei assassination",
+    "Qatar deployed Patriots and fighter jets to intercept Iranian missiles and drones protecting Al-Udeid Air Base",
+    "UAE condemns Iranian attacks as dangerous escalation, closes Tehran embassy — diplomatic fallout accelerating"
+  ],
+  "unverified_emerging": [
+    "Kuwait Ministry of Defense announced downing of American warplanes (specific numbers unconfirmed) — unverified whether this refers to F-15 or additional aircraft",
+    "Iran claims Natanz nuclear site was hit; IAEA states no evidence of nuclear facilities being struck — unverified, potential major escalation if confirmed",
+    "Iranian Foreign Minister Araghchi states military units now 'independent and isolated' — suggests potential fractures in command structure but unverified"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Travel advisories issued for Cyprus, Turkey, Egypt following expansion of conflict to British RAF Akrotiri base",
+      "Emirates airline cancelled flights to Dubai due to Iranian missile attacks on UAE",
+      "Gulf region aviation significantly disrupted — multiple flights cancelled, airspace closures"
+    ],
+    "supply_chain": [
+      "Saudi Ras Tanura refinery attacked — debris from intercepted drones caused limited fire at one of world's largest oil facilities",
+      "Amazon data services disrupted in UAE due to Iranian missile attacks",
+      "Ras al-Khaimah in UAE struck by Iranian ballistic missiles — maritime and logistics hub impacted",
+      "Port operations in Bahrain (Salman Port) targeted — potential supply chain disruption to 5th Fleet logistics"
+    ],
+    "market_macro": [
+      "Oil prices surge to nearly $80/barrel (Brent Crude 52-week high) on Strait of Hormuz shipping fears",
+      "Oil spike of 7% to $74/barrel reported earlier — significant energy market volatility",
+      "UK motoring industry warns of record fuel prices at pumps linked to Iran conflict"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue escalating with sustained Iranian missile waves against Israel and US Gulf bases. Iranian air defense demonstrated capability to target US aircraft, increasing risk to US aviation. Hezbollah formal entry into war expands front to Lebanon. Expect continued strikes on Gulf energy infrastructure and potential further expansion to additional targets. Iran has rejected negotiations, leaving military resolution as primary pathway.",
+    "escalation_risks": [
+      "Nuclear site strike (Natanz) — unverified but would represent massive escalation triggering regional war",
+      "Additional US aircraft losses to Iranian air defenses — demonstrated capability increases risk",
+      "Houthi formal entry into conflict — currently threatened, would add Yemen front",
+      "Gulf state casualties from debris/interceptions — could force states to abandon US neutrality",
+      "Closing of Strait of Hormuz — oil chokepoint disruption would trigger global energy crisis"
+    ],
+    "de_escalation_pathways": "No visible de-escalation pathway. Iran has explicitly rejected negotiations (Larijani statement). Trump administration demanding unconditional surrender of weapons. Khamenei's death eliminates key figure for potential negotiations. Regional powers (Gulf states) condemning Iran but not mediating. International community has not proposed ceasefire framework."
+  }
+}
