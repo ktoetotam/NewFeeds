@@ -1,5 +1,185 @@
 [
   {
+    "id": "f2d1bd97e8baee5d",
+    "title_original": "قصف 60 هدفا استراتيجيا و500 نقطة عسكرية لامريكا والكيان الصهيوني",
+    "content_original": "اعلن الحرس الثوري الاسلامي انه قصف 50 هدفا استراتيجيا و500 نقط عسكرية تابعة لامريكا المجرمة والكيان الصهيوني المقيت بواسطة 700 مسيرة ومئات الصواريخ ف...",
+    "url": "https://www.alalam.ir/news/7421418",
+    "published": "2026-03-03T00:03:07+00:00",
+    "fetched_at": "2026-03-02T20:41:52.037747+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC Announces Striking 50 Strategic Targets and 500 Military Points in US and Israel Using 700 Drones and Hundreds of Missiles",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) announced it bombed 50 strategic targets and 500 military points belonging to the United States and Israel using 700 drones and hundreds of missiles. This represents a significant escalation in Iranian offensive operations against US and Israeli assets in the region, demonstrating Tehran's willingness to conduct large-scale combined arms strikes using unmanned systems and ballistic missiles.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "ballistic",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|drone_strike|ballistic_missile|irgc_action|escalation",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC/Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Iran→United States,Israel",
+      "brief": "IRGC announced strikes on 50 strategic targets and 500 military points in the US and Israel using 700 drones and hundreds of missiles, representing a major escalation in direct Iranian offensive operations against US and Israeli assets."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "aa40ddea774e838b",
+    "title_original": "الجيش الإيراني: إسقاط 7 طائرات مسيّرة متقدمة للعدو  الصهيوني الأمريكي خلال الساعات الماضية",
+    "content_original": "المسيرة نت | متابعات: أعلن الجيش الإيراني، مساء اليوم الاثنين، أنه أسقط خلال الساعات الماضية، سبع طائرات مسيّرة متقدمة للعدو الصهيوني الأمريكي في مناطق مختلفة من البلاد.",
+    "url": "https://almasirah.net.ye/static/static/b12da836-e9f7-4495-a291-2a72c9ddf6fd.png",
+    "published": "2026-03-02T23:36:49+00:00",
+    "fetched_at": "2026-03-02T20:44:29.631656+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iranian Army: Downing of 7 Advanced American-Zionist Enemy Drones in Recent Hours",
+    "relevant": true,
+    "summary_en": "The Iranian Army announced on Monday evening that it shot down seven advanced drones of the American-Zionist enemy in various regions of the country during recent hours. This represents active Iranian air defense operations against what Iran identifies as US/Israeli drones, demonstrating ongoing hostilities and active combat air defense engagements within Iranian territory.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Iran (various regions)",
+      "brief": "Iranian Army claims to have shot down seven advanced US/Israeli drones during recent hours in what represents direct Iranian air defense engagement against American-Zionist enemy assets."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "eb4ed350e1b3e860",
+    "title_original": "ООН: США изучают данные о гибели десятков детей при ударе по школе в Иране",
+    "content_original": "ООН: США изучают данные о гибели десятков детей при ударе по школе в Иране",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26620943",
+    "published": "2026-03-02T23:31:19+03:00",
+    "fetched_at": "2026-03-02T20:42:28.677129+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UN: USA studying data about death of dozens of children in strike on school in Iran",
+    "relevant": true,
+    "summary_en": "The United Nations states that the United States is examining data regarding the deaths of dozens of children following a strike on a school in Iran. This report, if verified, would represent a significant civilian casualty incident and potential war crime in the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "deaths",
+      "death",
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "United Nations"
+      ],
+      "location": "Iran",
+      "brief": "UN examining reported deaths of dozens of children in strike on school in Iran, potentially major civilian casualty incident"
+    },
+    "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "709e12fc975f6c5d",
+    "title_original": "Al Hadath: иракские радикальные группировки наносят удары по Кувейту",
+    "content_original": "Al Hadath: иракские радикальные группировки наносят удары по Кувейту",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26620893",
+    "published": "2026-03-02T23:24:11+03:00",
+    "fetched_at": "2026-03-02T20:42:28.678297+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Al Hadath: Iraqi radical groups strike Kuwait",
+    "relevant": true,
+    "summary_en": "Iraqi radical groups have carried out strikes against Kuwait, according to Al Hadath reporting. This represents a significant escalation in proxy attacks connected to the Iran-US conflict, as Kuwait hosts US military personnel at facilities including Ali Al Salem Air Base. The attacks signal expanding reach of Iran-aligned Iraqi militias beyond their traditional theaters of Iraq, Syria, and Gulf targets.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "strike",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iraq (radical groups)",
+        "Kuwait",
+        "Iran",
+        "United States"
+      ],
+      "location": "Kuwait (Ali Al Salem Air Base)",
+      "brief": "Iraqi radical groups affiliated with Iran carried out strikes against Kuwait, marking a significant escalation in proxy warfare connected to the Iran-US conflict and targeting US military facilities."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "52267f9fe92768eb",
+    "title_original": "الموجة الثانية عشرة تشعل البحر: رسائل نارية من الحرس الثوري للأعداء",
+    "content_original": "المسيرة نت | متابعات: أعلن الحرس الثوري الايراني أن ناقلة الوقود «أثينا نوفا» التابعة لحلفاء أمريكا لا تزال مشتعلة في مضيق هرمز بعد إصابتها بمسيّرتين.",
+    "url": "https://almasirah.net.ye/static/static/de1dc6fd-ca0e-4f02-835f-2153cd7b95b6.jpg",
+    "published": "2026-03-02T23:22:36+00:00",
+    "fetched_at": "2026-03-02T20:44:29.631876+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Twelfth wave ignites the sea: IRGC sends fiery messages to enemies",
+    "relevant": true,
+    "summary_en": "The IRGC announced that the 'Athena Nova' fuel tanker, belonging to America's allies, remains burning in the Strait of Hormuz after being struck by two drones. The attack demonstrates continued Iranian targeting of commercial vessels linked to the US in this critical chokepoint, escalating maritime tensions in the Gulf.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "irgc",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "medium",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
     "id": "a102d8231841a745",
     "title_original": "США впервые применили новую ракету PrSM в Иране",
     "content_original": "США впервые применили новую ракету PrSM в Иране",
@@ -36,6 +216,41 @@
     "lng": 54.56
   },
   {
+    "id": "237b0213bd787986",
+    "title_original": "הח\"כים קיבלו סקירה ביטחונית, באופוזיציה ביררו מתי מסיימים",
+    "content_original": "חברי ועדת החוץ והביטחון התכנסו לקבלת סקירה ביטחונית חסויה, אך בזמן שנציגי מערכת הביטחון מבהירים כי המערכה נרחבת מאי פעם וכי התוכניות האיראניות שובשו כליל, באופוזיציה בחרו להתמקד בחיפוש אחר \"אסטרטגית היציאה\" • במהלך הישיבה נציג המל\"ל הבהיר: \"אנחנו לא מדברים במונחים של סיום, נמשיך ככל שיידרש\"",
+    "url": "https://mivzakim.net/r/13968541/rss",
+    "published": "2026-03-02T22:35:21+02:00",
+    "fetched_at": "2026-03-02T20:42:43.025956+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "MKs receive security briefing, opposition asks about timeline for ending operations",
+    "relevant": true,
+    "summary_en": "Members of Israel's Knesset Foreign Affairs and Defense Committee received a classified security briefing where officials stated the campaign against Iran is the broadest ever and Iranian plans have been completely disrupted. The opposition pressed for timelines on when operations would end, while the National Security Council representative emphasized there are no discussions of termination and operations will continue as needed. This reflects ongoing Israeli military operations against Iran-linked targets as part of the regional conflict.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East",
+      "brief": "Israeli Knesset receives classified briefing on broadest-ever campaign against Iran with opposition demanding operational timeline"
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
     "id": "4c923152b79cf19f",
     "title_original": "Watch: ‘Natanz site hit again’ says Iran; IAEA reports no confirmation",
     "content_original": "Iran claims its Natanz nuclear facility was hit again, while the International Atomic Energy Agency says it has no confirmation of damage",
@@ -70,6 +285,81 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "c9cc89f494bf43c4",
+    "title_original": "האב השכול ספד: \"עקדתי את יעקב, אביגיל ושרה - הקב\"ה רצה את הנשמות הקדושות האלה\"",
+    "content_original": "האב השכול ספד: \"עקדתי את יעקב, אביגיל ושרה - הקב\"ה רצה את הנשמות הקדושות האלה\"",
+    "url": "https://mivzakim.net/r/13968510/rss",
+    "published": "2026-03-02T22:20:04+02:00",
+    "fetched_at": "2026-03-02T20:42:44.398978+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Grieving father eulogizes: 'I sacrificed Yaakov, Avigail and Sarah - God wanted these holy souls'",
+    "relevant": true,
+    "summary_en": "An Israeli father eulogized three family members named Yaakov, Avigail and Sarah who were killed, describing their deaths as a sacrifice akin to the biblical Akedah (Binding of Isaac). The grieving father stated that God wanted these 'holy souls.' This appears to be about Israeli civilian casualties from the ongoing Israel-Hamas conflict in Gaza, where Hamas is an Iranian proxy force.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "killed",
+      "deaths",
+      "proxy",
+      "conflict",
+      "hamas"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel",
+      "brief": "Israeli father eulogizes three family members killed in conflict, describing deaths as sacrifice akin to biblical Binding of Isaac"
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "0a20233eb53bb472",
+    "title_original": "WATCH: Israeli fighter pilot evades Iranian missile over skies of Islamic Republic",
+    "content_original": "In the footage, the pilot is heard warning of \"another launch\" toward the aircraft, before noting he is \"climbing over the skies\" to evade the missile.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888584",
+    "published": "2026-03-02T22:04:29+00:00",
+    "fetched_at": "2026-03-02T20:42:37.656058+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Israeli fighter pilot evades Iranian missile over skies of Islamic Republic",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An Israeli fighter pilot successfully evaded an Iranian missile while flying over Iranian airspace. In the footage, the pilot is heard warning of 'another launch' toward the aircraft before taking evasive action by climbing to evade the missile. This represents direct military engagement between Israeli forces and Iranian air defense systems, demonstrating the active hostilities in the region.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "air defense",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iranian airspace",
+      "brief": "Israeli fighter pilot evaded Iranian missile over Iranian territory in direct military engagement between Israel and Iran."
+    },
+    "lat": 30.3354128,
+    "lng": 48.2896822
   },
   {
     "id": "2bc31a21cafa2b58",
@@ -1223,6 +1513,78 @@
     "lng": 34.47
   },
   {
+    "id": "c447eb13a2befa86",
+    "title_original": "Iran Red Crescent: 555 people martyred in US-Israeli attacks",
+    "content_original": "Shafaqna English- A total of 555 people have been martyred across Iran since the US-Israeli Aggression, according to the Iranian Red Crescent. “Following the US-Israeli terrorist attacks carried out in various regions of our country, 131 cities have been affected to date and, regrettably, 555 of our compatriots have been killed,”...",
+    "url": "https://en.shafaqna.com/443051/iran-red-crescent-555-people-martyred-in-us-israeli-attacks/",
+    "published": "2026-03-02T20:31:06+00:00",
+    "fetched_at": "2026-03-02T20:42:10.637833+00:00",
+    "source_name": "Shafaqna English",
+    "source_category": "state-aligned",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Iran Red Crescent: 555 people martyred in US-Israeli attacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "According to the Iranian Red Crescent, 555 civilians have been killed and 131 cities affected since the US-Israeli attacks began on Iran. The statement marks a significant civilian toll from the ongoing armed conflict between the US and Israel against Iranian territory, highlighting the human cost of the strikes that have targeted multiple regions across Iran.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (131 cities)",
+      "brief": "Iranian Red Crescent reports 555 civilians killed in US-Israeli attacks on Iranian territory, marking significant mass civilian casualties from the ongoing US-Iran conflict."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "0f4499088da29648",
+    "title_original": "عراقجي ينشر صورة لقبور أكثر من 160 فتاة قتلها العدوان الأمريكي الإسرائيلي في ميناب جنوبي إيران",
+    "content_original": "الثورة نت/.. نشر وزير الخارجية الإيراني، عباس عراقجي، مساء اليوم الاثنين، صورة جوية لأكثر من 160 قبرا تُحفر لجثامين فتيات اُستشهدن في عدوان أمريكي اسرائيلي على مدرسة ابتدائية للبنات في ميناب جنوبي البلاد السبت. وعلق عراقجي، في تدوينة على منصة إكس رصدتها وكالة الأنباء اليمنية (سبأ) على الصورة: &#8220;هذه قبور تُحفر لأكثر من 160 فتاة [&#8230;]",
+    "url": "https://althawrah.ye/archives/1144273",
+    "published": "2026-03-02T20:22:02+00:00",
+    "fetched_at": "2026-03-02T20:44:27.293192+00:00",
+    "source_name": "Al-Thawra Yemen",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Iraqji publishes photo of graves of over 160 girls killed in US-Israeli attack on girls' school in Minab, southern Iran",
+    "relevant": true,
+    "summary_en": "Iranian Foreign Minister Abbas Iraqji published an aerial photo showing graves being dug for more than 160 girls killed in what Iran claims was a US-Israeli attack on an elementary girls' school in Minab, southern Iran, on Saturday. Iraqji shared the image on X, emphasizing the civilian toll as evidence of American-Israeli aggression against Iranian territory.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, southern Iran",
+      "brief": "Iran claims US-Israeli attack on elementary girls' school killed over 160 girls; claim unverified"
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
     "id": "c0d5ae9ec3c0fd0d",
     "title_original": "Over 1,000 IRGC and Iranian security officials killed since start of war, source tells 'Post'",
     "content_original": "Some estimates suggest much higher numbers, with facilities belonging to the IRGC, the Basij militia, and government buildings having been hit.",
@@ -1263,6 +1625,45 @@
     "lng": 54.56
   },
   {
+    "id": "652b4b2c2470d305",
+    "title_original": "— ❗️ 🇮🇷 / 🇰🇼  NEW:  The Kuwaiti Ministry of Defense announces a second dead soldier @Middle_East_Spectator",
+    "content_original": "— ❗️ 🇮🇷 / 🇰🇼 NEW: The Kuwaiti Ministry of Defense announces a second dead soldier @Middle_East_Spectator",
+    "url": "https://t.me/CIG_telegram/70165",
+    "published": "2026-03-02T20:19:54+00:00",
+    "fetched_at": "2026-03-02T20:45:10.973864+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Kuwaiti Ministry of Defense announces a second dead soldier",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Kuwaiti Ministry of Defense has announced a second soldier killed in what appears to be related to the ongoing Iran-US conflict. The death adds to the toll of military casualties in the Gulf region, where Kuwait hosts significant US military assets at Ali Al Salem Air Base. This development suggests Iranian strikes or proxy operations are continuing to affect US allies in the Gulf.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "killed",
+      "proxy",
+      "conflict",
+      "death",
+      "dead"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Kuwait",
+        "United States",
+        "Iran"
+      ],
+      "location": "Kuwait",
+      "brief": "Kuwaiti Ministry of Defense announces second soldier killed, likely related to Iran-US conflict amid US military presence at Ali Al Salem Air Base."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "d1b4f5d42766c055",
     "title_original": "سپاه: سوختن تانکر سوخت رسان آمریکا در پی اصابت 2 پهپاد",
     "content_original": "تانکر سوخت رسان «آتن نوا» از متحدان آمریکا در تنگه هرمز درپی اصابت 2 فروند پهپاد، همچنان در حال سوختن است.",
@@ -1300,6 +1701,114 @@
     },
     "lat": 26.56,
     "lng": 56.25
+  },
+  {
+    "id": "1b295daa3e2aaa3d",
+    "title_original": "Iran’s Shahed drones have brought terror to the skies over Ukraine – now they are being deployed in the Middle East",
+    "content_original": "Bulky and noisy Iran-made unmanned attack drones have hit buildings in Bahrain, Kuwait, UAE and elsewhere US-Israel war on Iran – live updates A visual guide strikes on Iran and Tehran’s response Iran’s noisy $50,000 delta-winged Shahed 136 drones have long been an unwanted sight over the skies of Ukraine. Now, over the last 48 hours, hundreds of the distinctive weapons have struck Bahrain, Kuwait, the UAE and across the Gulf as Tehran tries to intimidate and impose costs on regional allies of the US. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/mar/02/iran-unleashes-hundreds-of-drones-aimed-at-targets-across-middle-east",
+    "published": "2026-03-02T20:16:59+00:00",
+    "fetched_at": "2026-03-02T20:45:02.242166+00:00",
+    "source_name": "The Guardian World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Iran's Shahed Drones Deployed in Middle East After Ukraine Use",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran has deployed hundreds of Shahed 136 delta-winged drones against Bahrain, Kuwait, the UAE and other Gulf states over the last 48 hours. These Iranian-made unmanned attack weapons, previously used extensively against Ukraine, are now being used to strike buildings across the Gulf as Tehran seeks to intimidate and impose costs on US regional allies in retaliation for US-Israel strikes on Iran.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "Kuwait",
+        "UAE"
+      ],
+      "location": "Gulf region (Bahrain, Kuwait, UAE)",
+      "brief": "Iran has deployed hundreds of Shahed-136 drones against Bahrain, Kuwait, UAE and other Gulf states in the last 48 hours, marking a significant escalation with Iranian-made weapons previously used in Ukraine now targeting Gulf nations."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "8925fe020045b4b6",
+    "title_original": "#الجمهورية_الإسلامية   العلاقات العامة لحرس الثورة: إسقاط الطائرة المسيرة رقم 21 من طراز \"هيرميس\" بواسطة الدفاع الجوي...",
+    "content_original": "#الجمهورية_الإسلامية العلاقات العامة لحرس الثورة: إسقاط الطائرة المسيرة رقم 21 من طراز \"هيرميس\" بواسطة الدفاع الجوي للقوات البحرية في بوشهر",
+    "url": "https://t.me/Electrohizbullah/157211",
+    "published": "2026-03-02T20:15:57+00:00",
+    "fetched_at": "2026-03-02T20:45:15.223477+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC Public Relations: Downing of Hermes-21 Drone by Naval Air Defense in Bushehr",
+    "relevant": true,
+    "summary_en": "Iran's Revolutionary Guard naval air defense forces in Bushehr successfully intercepted and shot down a Hermes-21 drone. The IRGC's public relations office announced the interception, marking an air defense success for Iranian forces along the Persian Gulf coast. The type and origin of the drone (likely Israeli or US) was not immediately specified in the report.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "air defense",
+      "irgc",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC Naval Air Defense",
+        "Hermes-21 Drone (likely US/Coalition)"
+      ],
+      "location": "Bushehr, Persian Gulf coast, Iran",
+      "brief": "IRGC naval air defense in Bushehr successfully intercepted and shot down a Hermes-21 drone, marking an air defense success along the Persian Gulf coast."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "b1b14c24d833cd7e",
+    "title_original": "#الجمهورية_الإسلامية   المساعد الأمني لمحافظ أصفهان: ارتقاء 47 شهيداً جراء العدوان الأميركي - الإسرائيلي على المحافظة...",
+    "content_original": "#الجمهورية_الإسلامية المساعد الأمني لمحافظ أصفهان: ارتقاء 47 شهيداً جراء العدوان الأميركي - الإسرائيلي على المحافظة تم اتخاذ التدابير كافة بإشراف كامل من القوى المختصة ويتم رصد الأوضاع بدقة وبشكل مستمر جميع المراكز الطبية والصحية تواصل تقديم خدماتها للمواطنين دون أي عوائق",
+    "url": "https://t.me/Electrohizbullah/157210",
+    "published": "2026-03-02T20:15:18+00:00",
+    "fetched_at": "2026-03-02T20:45:15.222916+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Security Assistant to Isfahan Governor: 47 Martyred Due to American-Israeli Aggression on Province",
+    "relevant": true,
+    "summary_en": "The security assistant to the governor of Isfahan announced that 47 people were killed as a result of American-Israeli aggression on the province. All measures are being taken under full supervision of competent forces, with the situation being monitored precisely and continuously, while all medical and health centers continue serving citizens without any obstacles.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Isfahan province, Iran",
+      "brief": "American-Israeli airstrike on Isfahan province killed 47 people according to the security assistant to the governor."
+    },
+    "lat": 32.65,
+    "lng": 51.68
   },
   {
     "id": "6dd6a96a664c26a1",

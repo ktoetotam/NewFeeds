@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T20-38-00.156281_plus_00-00.json",
+    "generated_at": "2026-03-02T20:38:00.156281+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 759,
+    "summary_preview": "The Iran-US conflict continues at MAJOR intensity (759 incidents/24h) with day 4 seeing direct US-Israeli strikes on Iran's Natanz nuclear facility, Qatar shooting down two Iranian bombers, and Kuwait"
+  },
+  {
     "filename": "2026-03-02T19-50-00.685492_plus_00-00.json",
     "generated_at": "2026-03-02T19:50:00.685492+00:00",
     "threat_label": "MAJOR",
@@ -880,14 +889,5 @@
     "trend": "escalating",
     "incident_count_24h": 112,
     "summary_preview": "The Iran–US conflict has reached a critical escalation with multiple direct military engagements, including coordinated airstrikes by the US and Israel on Iran, retaliatory missile attacks by Iran on "
-  },
-  {
-    "filename": "2026-02-28T15-08-30.493785_plus_00-00.json",
-    "generated_at": "2026-02-28T15:08:30.493785+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "escalating",
-    "incident_count_24h": 103,
-    "summary_preview": "The Iran–US conflict has dramatically escalated with multiple direct military engagements, including coordinated airstrikes, ballistic missile attacks, and naval confrontations. The situation has dete"
   }
 ]

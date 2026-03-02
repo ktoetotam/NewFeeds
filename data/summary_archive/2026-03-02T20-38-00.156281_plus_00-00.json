@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-02T20:38:00.156281+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 759,
+    "incident_count_6h": 148,
+    "severity_breakdown": {
+      "major": 332,
+      "high": 246,
+      "medium": 175,
+      "low": 6
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 92,
+    "articles_analyzed": 152,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict continues at MAJOR intensity (759 incidents/24h) with day 4 seeing direct US-Israeli strikes on Iran's Natanz nuclear facility, Qatar shooting down two Iranian bombers, and Kuwait recording its first military fatality. The IRGC has launched at least 12 waves of attacks targeting 500+ US and allied sites. Russia warns WWIII could start 'at any moment' while China mediates diplomatically. Gulf states remain under sustained missile/drone attack with UAE intercepting 163 targets in a single wave.",
+  "whatsqlite": [
+    "US confirms 1,250+ targets struck inside Iran; Israel/USA attacked Natanz nuclear facility",
+    "Qatar shot down two Iranian bombers attempting to attack Gulf neighbors - first Iranian air attack on a Gulf state",
+    "UAE air defenses intercepted 9 ballistic missiles, 6 cruise missiles, and 148 drones in single attack wave",
+    "Kuwait announces first military death (Sergeant Walid Majeed Suleiman) in Iran-US conflict",
+    "US deployed new PrSM (Precision Strike Missile) against Iran for first time - significant escalation",
+    "US claims Iran has no ships left in Gulf of Oman - major naval defeat",
+    "Russia's Medvedev warns WWIII could start 'at any moment' if Trump continues current policy",
+    "Russian Pobeda airline to begin evacuation flights from Dubai/Abu Dhabi March 3",
+    "23 protesters killed in Pakistan over Khamenei's death - unrest continues",
+    "Israel struck Natanz nuclear facility according to Iranian statements"
+  ],
+  "confirmed_events": [
+    "Gulf oil/gas production remains shut - confirmed by multiple sources",
+    "Bahrain interceptors have brought down 70 missiles and 59 drones total (continues)",
+    "IRGC 12th wave attacked US targets in Kuwait, UAE, Bahrain, Strait of Hormuz with 26 drones and 5 missiles",
+    "US B-1 bombers conducting deep strikes inside Iranian territory",
+    "Hezbollah actively engaged against Israel - 52 Lebanese killed in Israeli strikes"
+  ],
+  "unverified_emerging": [
+    "IRGC claim that 'Athena Nova' fuel tanker burning in Strait of Hormuz - single source (Al Alam)",
+    "Iranian total naval/air blockade on Gulf countries - unverified social media claim",
+    "IRGC claim US tanker on fire in Strait of Hormuz - unverified as of last 4h",
+    "Pakistani speculation of being 'next target' dismissed by senior security official"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Russian Pobeda airline to begin evacuation flights from Dubai and Abu Dhabi March 3",
+      "Dubai airspace closed due to Iranian ballistic missile strikes - tourists stranded"
+    ],
+    "supply_chain": [
+      "Gulf oil and gas production remains shut down - ongoing",
+      "Strait of Hormuz maritime traffic disrupted by IRGC attacks"
+    ],
+    "market_macro": [
+      "Major escalation could further destabilize global oil markets beyond current production shutdown"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict enters critical phase with Iran suffering significant military defeats (navy destroyed, nuclear facilities struck, 1,250+ US targets hit inside Iran). IRGC continues 12+ waves of retaliation against Gulf allies. Israel-Hezbollah northern front active. Qatar and Bahrain actively defending against Iranian attacks. Risk of further Iranian desperation attacks on civilian infrastructure remains HIGH. US public opinion turning against war (43% disapprove).",
+    "escalation_risks": [
+      "Iranian attacks on Gulf civilian infrastructure intensifying - hotels, schools struck",
+      "Russian warning of WWIII signals potential for great power escalation",
+      "Hezbollah/IRGC proxy attacks expanding to additional fronts",
+      "Pakistani instability spreading - 23 dead, could draw in additional actors",
+      "Qatar now directly engaging Iranian aircraft - risk of further Gulf state escalation"
+    ],
+    "de_escalation_pathways": "UAE and Qatar pressing Trump to end bombing campaign. Chinese Foreign Minister in contact with Iran offering diplomatic role. Iraq Foreign Minister warns of regional chaos. However, IRGC rhetoric remains defiant ('no safety for you anywhere'), and Trump administration framing this as 'regime-change war' suggests limited de-escalation appetite in short term. Key variables: Iranian naval/ballistic missile capability degradation rate and Gulf state willingness to continue absorbing attacks."
+  }
+}
