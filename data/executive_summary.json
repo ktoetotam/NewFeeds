@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-02T21:21:00.575140+00:00",
+  "generated_at": "2026-03-02T22:08:45.532098+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 742,
-    "incident_count_6h": 133,
+    "incident_count_24h": 755,
+    "incident_count_6h": 151,
     "severity_breakdown": {
-      "major": 317,
-      "high": 242,
+      "major": 323,
+      "high": 249,
       "medium": 177,
       "low": 6
     }
   },
   "source_count": {
-    "attacks_analyzed": 82,
-    "articles_analyzed": 137,
+    "attacks_analyzed": 111,
+    "articles_analyzed": 155,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -30,59 +30,54 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict remains at MAJOR intensity (742 incidents/24h) with day 4 seeing significant escalations: Israel struck Iran's Natanz nuclear facility twice, IRGC executed its 11th consecutive attack wave targeting 500+ US/Israeli sites, and Iranian strikes caused Gulf oil/gas production shutdowns. Civilian casualties are mounting (555+ confirmed by Iranian Red Crescent) including a major school incident in Minab. Qatar became the first Gulf state to directly shoot down Iranian bombers. The conflict is spreading geographically with Iranian attacks on Cyprus and threats to close the Strait of Hormuz.",
+  "executive_summary": "The Iran-US conflict intensifies dramatically with 755 incidents in 24h and confirmed 6 US troop deaths. Iran has declared the Strait of Hormuz closed and launched Wave 12 of attacks on US/Israeli targets. Gulf states (Qatar, Bahrain, UAE) are actively engaging Iranian aircraft and missiles. The Minab school massacre death toll rises to 555 confirmed civilians per Iranian Red Crescent. Israel has issued evacuation warnings for Evin district in Tehran—a unprecedented escalation inside the Iranian capital.",
   "whats_new": [
-    "Israeli airstrikes struck Iran's Natanz nuclear facility twice — confirmed by Iranian Vice President",
-    "IRGC executed 11th wave of Operation True Promise 4, targeting 500+ American and Israeli military sites with 700 drones and hundreds of missiles",
-    "Qatar shot down two Iranian Su-24 bombers attempting to attack Gulf neighbors — first direct Gulf state interception of Iranian aircraft",
-    "Israeli Defense Forces announced strikes on 600+ Iranian regime targets including IRGC headquarters",
-    "Iranian drone struck hotel in Bahrain directly targeting US-aligned territory hosting NAVCENT",
-    "IRGC attacked and set fire to US-allied 'Aten Nova' tanker in Strait of Hormuz — vessel remains burning",
-    "Israeli jets evaded Iranian surface-to-air missiles during deep-penetration strikes on Tehran — IDF released footage",
-    "Iran hit Cyprus despite British neutrality, marking geographic expansion of Iranian retaliation",
-    "Pentagon reports Iran has no ships left in Gulf of Oman following US strikes",
-    "IRGC commander advisor threatened to burn any vessel passing through Strait of Hormuz"
+    "IRGC launches Wave 12 of 'Honest Promise 4' operations targeting US and Israeli sites",
+    "Iran declares Strait of Hormuz closed, threatens to burn any ship attempting to cross",
+    "IDF issues Persian-language evacuation warning for Evin neighborhood in Tehran (near Broadcasting Authority HQ)",
+    "US confirms death toll rose to 6 American troops killed in Iran strikes",
+    "Israeli airstrikes on Lebanon kill 52, wound 154; IDF orders evacuation of 31 villages in southern Lebanon",
+    "Qatar's airspace closed until morning (Al Udeid Air Base operations impacted)"
   ],
   "confirmed_events": [
-    "Bahrain Defense Force intercepted 70 missiles and 59 drones in sustained Iranian attack campaign; Qatar shot down two Iranian bombers — both confirmed by multiple Gulf state sources",
-    "UAE air defenses intercepted nine ballistic missiles, six cruise missiles, and 148 drones in major combined attack",
-    "Israeli intelligence estimates over 1,000 IRGC members killed since conflict began — IRGC claims 1,000+ casualties confirmed",
-    "Iranian Red Crescent reports 555 civilians martyred across 131 cities in US-Israeli attacks",
-    "Israel conducted strikes deep inside Iranian territory using B-1 bombers targeting ballistic missile capabilities — US Central Command confirmed"
+    "Confirmed by multiple sources: Qatar shot down two Iranian Su-24 bombers — first Gulf state to directly engage Iranian aircraft",
+    "Confirmed: Gulf states intercepted hundreds of Iranian missiles/drones; Bahrain (70 missiles, 59 drones), UAE (9 ballistic, 6 cruise, 148 drones)",
+    "Confirmed by Iranian Red Crescent: 555 civilians martyred across 131 Iranian cities in US-Israeli attacks",
+    "Confirmed: UAE fuel storage station in Mussafah (Abu Dhabi) struck by drone, fire contained",
+    "Confirmed: Israeli pilot evaded Iranian surface-to-air missile during Tehran strike (IDF footage)"
   ],
   "unverified_emerging": [
-    "Claim of 165 civilians including elementary school students killed in US-Israeli strike on Minab girls' school — IRGC/Red Crescent source, visual evidence emerging but unverified by independent sources",
-    "Israeli attack on Saudi Aramco refinery at Ras Tanura reported by Iranian Tasnim as 'false flag' — unconfirmed, Saudi Arabia has not confirmed incident",
-    "Israeli assessment claims 1,000-3,000 Iranian personnel killed (versus 1,000 figure from previous assessment) — unverified range",
-    "Iranian prediction markets allowing bets on whether Supreme Leader was killed — unverified market activity"
+    "IRGC claims 1,000+ IRGC members killed since war start (single source: 'Post' cite)",
+    "Iranian claim: Israel attacked Saudi Aramco refinery under false flag (source: Tasnim, unverified)",
+    "Claim: Khamenei killed (The Hindu International reports succession planning讨论) — unverified by other sources",
+    "IRGC claims 7 American-Zionist drones shot down in recent hours (single IRGC source)"
   ],
   "operational_impacts": {
     "people_travel": [
-      "All US diplomatic personnel evacuated from Baghdad embassy — full departure confirmed",
-      "US 5th Fleet base in Bahrain under sustained drone/missile attack — personnel shelter-in-place protocols active",
-      "Airspace restrictions expanded over Gulf region — commercial flight diversions continuing"
+      "Qatar airspace closed until morning — Al Udeid Air Base operations suspended",
+      "31 Lebanese villages under IDF evacuation orders — mass displacement ongoing",
+      "Northern Israel drone infiltration alerts continue — Home Front Command on heightened alert"
     ],
     "supply_chain": [
-      "Gulf oil and gas production shut down due to Iranian strikes on energy infrastructure",
-      "Strait of Hormuz maritime traffic disrupted — Aten Nova tanker burning in chokepoint",
-      "Qatar Al Udeid airbase active but承受 significant Iranian drone/missile pressure",
-      "Saudi Aramco operations reportedly impacted if Ras Tanura attack confirmed"
+      "Strait of Hormuz: Tanker 'Aten Nova' on fire after IRGC drone strike — critical shipping chokepoint threatened",
+      "UAE: Fuel storage facility at Mussafah struck — regional energy infrastructure targeted",
+      "Gulf oil/gas production remains shut down — global supply chain disruption ongoing"
     ],
     "market_macro": [
-      "Oil prices soaring amid Gulf production shutdowns and Strait of Hormuz threats",
-      "Inflation threat emerging — CNBC reports conflict threatens new price pressures undermining Trump admin economic narrative",
-      "US consumer sentiment likely impacted — Reuters/Ipsos poll shows only 27% approval of Iran strikes, 43% disapproval"
+      "Oil prices surging as conflict threatens Gulf production and Strait of Hormuz transit",
+      "Trump administration faces inflation risk from Middle East escalation — CNBC report",
+      "Only 27% of Americans support US war on Iran per Reuters/Ipsos poll — domestic political pressure mounting"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "Conflict expected to continue at MAJOR intensity for at least 24-72h. Israel has announced doubling of targets attacked versus previous operation, indicating sustained offensive campaign. IRGC launching consecutive attack waves (11th confirmed, 12th imminent) demonstrates continued Iranian capacity for retaliation. Gulf states will remain primary target zone with Bahrain/UAE/Kuwait facing ongoing missile/drone barrages. Risk of civilian casualty incidents accumulating — UN examining school strike data.",
+    "base_case": "Conflict trajectory points to sustained major-intensity hostilities with continued Iranian missile/drone attacks on Gulf states and US bases. IRGC will maintain pressure with Wave 12+ operations. Gulf states will continue active air defense of territorial integrity. Israel will likely expand strikes on Tehran infrastructure following Evin warning. US casualties expected to rise as Iran sustains campaign against regional bases.",
     "escalation_risks": [
-      "Strait of Hormuz closure threat — Iranian advisor explicitly threatened to burn any ship passing; Aten Nova attack demonstrates capability and intent",
-      "Nuclear facility escalation — Israel struck Natanz twice; further strikes on nuclear infrastructure could trigger Iran WMD response threshold",
-      "Expansion to Iraq — Iraqi FM warned country directly affected; US bases in Iraq targeted by Iranian strikes; Baghdad may be drawn into conflict",
-      "Cyprus/regional expansion — Iran demonstrated willingness to strike beyond Gulf; British assets now targeted",
-      "Hezbollah northern front — IDF reinforcing northern border; 52 Lebanese killed in single Israeli strike indicates widening southern Lebanon operations"
+      "Pentagon not ruling out ground troops in Iran — major escalation pathway",
+      "Strait of Hormuz closure attempt could trigger US naval confrontation",
+      "Hezbollah-Israel front expanding with 31 villages ordered evacuated in Lebanon",
+      "Cyprus now targeted by Iran — conflict spreading to NATO member territory",
+      "Supreme Leader status unconfirmed — leadership vacuum could trigger erratic Iranian decision-making"
     ],
-    "de_escalation_pathways": "De-escalation pathways remain limited. US public opinion (43% disapproval) and UK caution (Starmer avoiding 'Iraq mistakes') create diplomatic pressure but no formal ceasefire proposals from either side. Russia and China mediating but statements suggest limited leverage. Iranian rhetoric explicitly threatens continued attacks until 'enemy defeated.' Qatar's direct interception of Iranian aircraft marks point of no return for Gulf state involvement. Congressional debate on war powers may constrain US escalation but not reverse current operations."
+    "de_escalation_pathways": "De-escalation highly unlikely in 24-72h window. Iran has declared Strait closed and sustaining Wave 12 operations. US rhetoric escalating (Rubio: 'heaviest blows yet to come'). Only pathway: decisive military outcome degrading Iranian strike capability below sustainability threshold, or external diplomatic pressure (Turkey's Erdogan condemned attacks as illegal, UK caution noted). Trump administration shows no indication of seeking negotiation."
   }
 }

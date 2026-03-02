@@ -1,5 +1,192 @@
 [
   {
+    "id": "67ad286f8c3ca97b",
+    "title_original": "رسالة \"غرفة النوم\": تهاوي أُسطورة الرّدع الصهيوني تحت مخالب المسيّرات الإيرانية",
+    "content_original": "من قلب \"قيسارية\" المحتلّة، حَيثُ كان يظن طاغية الصهاينة أنه في حصن مشيد، ومن بين شقوق الجدران التي أنفق العدوّ المليارات لترميم هيبتها، انبعثت صرخة الحقيقة لتدوي في أرجاء كَيان الاحتلال: \"لا عاصم لكم اليوم من أمر الله\".",
+    "url": "https://almasirah.net.ye/static/static/8db56902-1720-47f3-acef-a4c0a9c97707.jpg",
+    "published": "2026-03-03T00:24:32+00:00",
+    "fetched_at": "2026-03-02T21:25:42.992086+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "\"Bedroom Message\": The Collapse of the Zionist Deterrence Legend Under the Claws of Iranian Drones",
+    "relevant": true,
+    "summary_en": "Iranian drones have reportedly struck the Israeli city of Caesarea, penetrating what was considered a fortified Israeli position. The attack appears to be presented as a significant demonstration of Iranian drone capabilities reaching deep into Israeli territory, with the language suggesting this represents a collapse of Israeli deterrence. The reference to \"bedroom message\" and the poetic framing indicates this is being portrayed as a psychological/propaganda victory demonstrating Israeli vulnerability to Iranian precision strikes.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "attack",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Caesarea, Israel",
+      "brief": "Iranian drones reportedly struck the Israeli city of Caesarea, demonstrating extended operational reach deep into Israeli territory."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "4df9ba1ab10e5f62",
+    "title_original": "ЦАХАЛ анонсировал удар по северу Тегерана",
+    "content_original": "ЦАХАЛ анонсировал удар по северу Тегерана",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26621189",
+    "published": "2026-03-03T00:22:08+03:00",
+    "fetched_at": "2026-03-02T21:24:47.047343+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IDF announces strike on north of Tehran",
+    "relevant": true,
+    "summary_en": "The Israel Defense Forces (IDF) announced a strike on northern Tehran. This represents a significant escalation in the ongoing conflict, as it constitutes a direct military attack on the Iranian capital, following weeks of hostilities between Israel/Iran and their respective proxies in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "idf",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "IDF announced a direct airstrike on northern Tehran, marking a significant escalation as the first direct military attack on the Iranian capital."
+    },
+    "merged_source_count": 3,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "5c58c66c3c4a1c5e",
+    "title_original": "США показали кадры уничтожения кораблей Ирана в Оманском заливе",
+    "content_original": "Центральное командование США опубликовало в соцсети Х запись удара по судам в Оманском заливе.",
+    "url": "https://www.rbc.ru/rbcfreenews/69a5e2629a7947e3bce1cafd",
+    "published": "2026-03-03T00:08:49+03:00",
+    "fetched_at": "2026-03-02T21:24:52.114460+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US shows footage of destruction of Iranian ships in Gulf of Oman",
+    "relevant": true,
+    "summary_en": "US Central Command published video footage on social media X showing a strike on Iranian vessels in the Gulf of Oman. The attack targeted Iranian ships as part of ongoing US operations against IRGC naval assets in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "irgc",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Gulf of Oman",
+      "brief": "US Central Command published footage of strikes on Iranian vessels in the Gulf of Oman as part of ongoing US operations against IRGC naval assets."
+    },
+    "lat": 24.2138029,
+    "lng": 58.9845823
+  },
+  {
+    "id": "d82446f61fcf0159",
+    "title_original": "ВС США: число погибших в операции на Ближнем Востоке американцев достигло шести",
+    "content_original": "Об этом сообщило командование американской армии",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26621091",
+    "published": "2026-03-03T00:04:06+03:00",
+    "fetched_at": "2026-03-02T21:24:47.048788+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "US Armed Forces: Number of Americans Killed in Middle East Operation Reaches Six",
+    "relevant": true,
+    "summary_en": "The US military command has confirmed that the number of American casualties in the ongoing Middle East operation has reached six. The report comes as part of the escalating Iran-US conflict that began in 2026, with Iranian ballistic missile and drone strikes targeting US bases and forces across Iraq, Syria, and the Gulf region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "ballistic",
+      "drone",
+      "conflict",
+      "missile",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East (Iraq)",
+      "brief": "Iranian ballistic missile and drone strikes on US bases have killed six Americans as part of the escalating 2026 Iran-US conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "ca6f63e000063a56",
+    "title_original": "اطلاق الموجة 12 في عمليات الوعد الصادق 4",
+    "content_original": "اعلن الحرس الثوري مساء الاثنين اطلاق الموجة 12 من عمليات \"الوعد الصادق 4\" ضد مواقع العدو الصهيوني الاميركي....",
+    "url": "https://www.alalam.ir/news/7421433",
+    "published": "2026-03-03T00:03:48+00:00",
+    "fetched_at": "2026-03-02T21:24:21.325605+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC Launches Wave 12 of 'Honest Promise 4' Operations Against American-Zionist Enemy Sites",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) announced on Monday evening the launch of Wave 12 of 'Honest Promise 4' operations targeting American-Zionist enemy sites. This represents a continuation of Iran's sustained missile and drone campaign against U.S. and Israeli interests in the region as part of the ongoing Iran-U.S. armed conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "drone",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Iran",
+      "brief": "IRGC launches Wave 12 of 'Honest Promise 4' operations with missiles and drones targeting American and Israeli sites in the region."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "f2d1bd97e8baee5d",
     "title_original": "قصف 60 هدفا استراتيجيا و500 نقطة عسكرية لامريكا والكيان الصهيوني",
     "content_original": "اعلن الحرس الثوري الاسلامي انه قصف 50 هدفا استراتيجيا و500 نقط عسكرية تابعة لامريكا المجرمة والكيان الصهيوني المقيت بواسطة 700 مسيرة ومئات الصواريخ ف...",
@@ -35,6 +222,150 @@
     },
     "lat": 31.5,
     "lng": 34.8
+  },
+  {
+    "id": "f1237a54c162bfa9",
+    "title_original": "Кто из российских спортсменов оказался в зоне конфликта вокруг Ирана",
+    "content_original": "США и Израиль 28 февраля объявили о нанесении ударов по Ирану. В связи с этим многие россияне не смогли вылететь из стран Ближнего Востока. Кто из спортсменов оказался в зоне конфликта — в материале «РБК Спорт»",
+    "url": "https://www.rbc.ru/sport/03/03/2026/69a55b589a794743873c14c3",
+    "published": "2026-03-03T00:02:49+03:00",
+    "fetched_at": "2026-03-02T21:24:52.114887+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Which Russian Athletes Were Caught in the Iran Conflict Zone",
+    "relevant": true,
+    "summary_en": "Russian athletes were stranded in Middle Eastern countries following US and Israeli strikes on Iran on February 28, unable to fly out due to the conflict. The article from RBC Sport reports on which Russian sports figures were affected and trapped in the conflict zone.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran",
+        "Russia"
+      ],
+      "location": "Middle East/Iran",
+      "brief": "Russian athletes stranded in Middle Eastern countries following US and Israeli strikes on Iran on February 28, unable to evacuate due to the conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "27648f5bf57c2b6b",
+    "title_original": "Трамп с администрацией США наблюдают за операцией против Ирана",
+    "content_original": "Трамп с администрацией США наблюдают за операцией против Ирана",
+    "url": "https://www.rbc.ru/photoslider/69a5f7f09a7947bbe691a778",
+    "published": "2026-03-03T00:01:44+03:00",
+    "fetched_at": "2026-03-02T21:24:52.115080+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Trump with US administration watching operation against Iran",
+    "relevant": true,
+    "summary_en": "The Trump administration is monitoring a military operation against Iran. The US leadership is tracking the operation's progress as tensions between the US and Iran continue to escalate. This demonstrates continued US aggressive posture toward Iran in the ongoing armed conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "unspecified",
+      "brief": "The Trump administration is monitoring a military operation against Iran, demonstrating continued US aggressive posture in the ongoing armed conflict."
+    }
+  },
+  {
+    "id": "678ebc72d2e61a4f",
+    "title_original": "Рубио: операция США против Ирана будет длиться, пока не будут достигнуты ее цели",
+    "content_original": "Рубио: операция США против Ирана будет длиться, пока не будут достигнуты ее цели",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26621033",
+    "published": "2026-03-02T23:59:56+03:00",
+    "fetched_at": "2026-03-02T21:24:47.050539+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Rubio: US operation against Iran will continue until objectives are achieved",
+    "relevant": true,
+    "summary_en": "US Senator Marco Rubio stated that the American military operation against Iran will continue until all of its objectives are achieved. The statement comes as the US conducts strikes against Iranian military assets, nuclear facilities, and IRGC targets across Iran and the region. This represents a clear signal of continued US commitment to the conflict until Tehran's military capabilities are degraded or leadership changes its position.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "nuclear",
+      "irgc",
+      "conflict",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran and region",
+      "brief": "US military operation against Iran continues with strikes on Iranian military assets, nuclear facilities, and IRGC targets across Iran and the region."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "29f714d1f6bb8ff9",
+    "title_original": "Рубио рассказал о целях операции США против Ирана",
+    "content_original": "Рубио рассказал о целях операции США против Ирана",
+    "url": "https://ria.ru/20260302/rubio-2078048617.html",
+    "published": "2026-03-02T23:56:32+03:00",
+    "fetched_at": "2026-03-02T21:24:47.264373+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Rubio explains US operation goals against Iran",
+    "relevant": true,
+    "summary_en": "US Secretary of State Marco Rubio outlined the objectives of the American military operation against Iran. The statement comes as the US continues strikes on Iranian military assets, nuclear facilities, and territory as part of the ongoing armed conflict. The specific goals likely include degrading Iran's military capabilities, constraining its nuclear program, and deterring future attacks on US forces and bases in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "nuclear",
+      "conflict",
+      "military operation"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran (general)",
+      "brief": "US Secretary Rubio outlined goals of American military operation against Iran including strikes on military assets and nuclear facilities"
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "aa40ddea774e838b",
@@ -178,6 +509,529 @@
       "location": "Unknown",
       "brief": "Classified by keyword matching (LLM unavailable)"
     }
+  },
+  {
+    "id": "b92c361605d71af4",
+    "title_original": "פיקוד העורף: הסתיים אירוע חדירת הכטב\"ם בגליל",
+    "content_original": "פיקוד העורף: הסתיים אירוע חדירת הכטב\"ם בגליל",
+    "url": "https://mivzakim.net/r/13968638/rss",
+    "published": "2026-03-02T23:20:40+02:00",
+    "fetched_at": "2026-03-02T21:24:57.271540+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Home Front Command: Drone Penetration Incident in Galilee Has Ended",
+    "relevant": true,
+    "summary_en": "Israeli Home Front Command announced the conclusion of a drone penetration incident in the Galilee region of northern Israel. The incident involved an unmanned aerial vehicle (UAV) entering Israeli airspace, likely from the direction of Lebanon. This represents another infiltration attempt in the north, potentially linked to Hezbollah or Iranian proxy forces, highlighting the ongoing threat to Israel's northern border amid the broader regional conflict.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hezbollah",
+      "threat",
+      "drone",
+      "conflict",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Galilee, northern Israel",
+      "brief": "Israeli Home Front Command reported a drone infiltration from Lebanon into Galilee airspace, marking another attempted UAV penetration by Iran-backed Hezbollah forces."
+    },
+    "merged_source_count": 2,
+    "lat": 32.88,
+    "lng": 35.3
+  },
+  {
+    "id": "cc0c642db898163e",
+    "title_original": "9 בני אדם, 5 משפחות: אלו סיפורי ההרוגים באסון בבית שמש",
+    "content_original": "נער, אם ובת, בן ואם, אב לארבעה, שתי אחיות ואח: גבריאל, רונית ושרה, יוסף וברוריה, אורן, יעקב, אביגיל ושרה נהרגו מפגיעת הטיל האיראני. קרוביהם ספדו וסיפרו על התקרית הקשה, ועל הלוויה שנערכה במקום בר מצווה. אביהם של ילדי משפחת ביטון: \"היה פיצוץ אדיר, מהחלון ראיתי עיי חורבות - וידעתי\"",
+    "url": "https://mivzakim.net/r/13968635/rss",
+    "published": "2026-03-02T23:20:26+02:00",
+    "fetched_at": "2026-03-02T21:24:57.271761+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "9 people, 5 families: These are the stories of the victims killed in the Bet Shemesh disaster",
+    "relevant": true,
+    "summary_en": "Nine Israeli civilians from five families, including a teenager, mothers, children, and siblings, were killed in Bet Shemesh by an Iranian ballistic missile strike. Among the victims were Gabriel, Ronit and Sarah, Joseph and Bruria, Oran, and Abigail and Sarah. Family members described witnessing a massive explosion and seeing rubble from their windows, confirming the deaths. The funerals were held at a synagogue location.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "ballistic",
+      "explosion",
+      "missile",
+      "deaths",
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Bet Shemesh, Israel",
+      "brief": "Nine Israeli civilians from five families were killed in Bet Shemesh by an Iranian ballistic missile strike."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "cc0c642db898163e",
+    "title_original": "9 בני אדם, 5 משפחות: אלו סיפורי ההרוגים באסון בבית שמש",
+    "content_original": "נער, אם ובת, בן ואם, אב לארבעה, שתי אחיות ואח: גבריאל, רונית ושרה, יוסף וברוריה, אורן, יעקב, אביגיל ושרה נהרגו מפגיעת הטיל האיראני. קרוביהם ספדו וסיפרו על התקרית הקשה, ועל הלוויה שנערכה במקום בר מצווה. אביהם של ילדי משפחת ביטון: \"היה פיצוץ אדיר, מהחלון ראיתי עיי חורבות - וידעתי\"",
+    "url": "https://mivzakim.net/r/13968635/rss",
+    "published": "2026-03-02T23:20:26+02:00",
+    "fetched_at": "2026-03-02T21:24:59.654862+00:00",
+    "source_name": "Mivzakim World",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "9 People, 5 Families: These Are the Stories of the Dead in the Beit Shemesh Disaster",
+    "relevant": true,
+    "summary_en": "Nine civilians from five families, including children and adults, were killed by an Iranian missile strike in Beit Shemesh, Israel. The victims included Gabriel, Ronit and Sarah, Joseph and Bruria, Ornan, Yaakov, Avigail and Sarah, with relatives mourning and describing a massive explosion visible from windows as rubble. This represents a significant civilian casualty toll from Iran's direct missile attacks on Israeli territory.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "explosion",
+      "dead",
+      "missile",
+      "strike",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iranian ballistic missile strike killed nine Israeli civilians from five families in Beit Shemesh, marking a significant escalation with mass civilian casualties."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "61e187f94ee6def8",
+    "title_original": "חדירת כטב\"מ בגבול הצפון – האירוע הסתיים",
+    "content_original": "חדירת כטב\"מ בגבול הצפון – האירוע הסתיים",
+    "url": "https://mivzakim.net/r/13968625/rss",
+    "published": "2026-03-02T23:16:42+02:00",
+    "fetched_at": "2026-03-02T21:24:57.272570+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "UAV incursion at the northern border - the event has concluded",
+    "relevant": true,
+    "summary_en": "A drone (UAV) incursion occurred at Israel's northern border, likely involving Hezbollah or Iranian-linked forces. The incident has now concluded. This represents ongoing border tensions between Israel and Hezbollah, part of the broader Iran-US conflict escalation axis in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Israel northern border",
+      "brief": "A drone incursion at Israel's northern border likely involving Hezbollah or Iranian-linked forces has concluded, representing ongoing border tensions in the Iran-US conflict escalation axis."
+    },
+    "lat": 31.0501487,
+    "lng": 34.3312446
+  },
+  {
+    "id": "06f2baf9f21e00ad",
+    "title_original": "חדירת כלי טיס (23:15): אדמית, ערב אל עראמשה",
+    "content_original": "חדירת כלי טיס (23:15): אדמית, ערב אל עראמשה",
+    "url": "https://mivzakim.net/r/13968620/rss",
+    "published": "2026-03-02T23:15:37+02:00",
+    "fetched_at": "2026-03-02T21:24:57.272923+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Aircraft Intrusion (23:15): Adamiya, Arabs al-Aramshe",
+    "relevant": true,
+    "summary_en": "Israeli military issued an alert about an aircraft intrusion in the Adamiya/Arabs al-Aramshe area, likely in the Galilee region near the Lebanon border. This appears to be part of ongoing Hezbollah drone and aircraft activity targeting northern Israel, which is an active front in the broader Iran-US conflict escalation.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Adamiya/Arabs al-Aramshe, Galilee region near Lebanon border, Israel",
+      "brief": "Israeli military issued alert for aircraft intrusion in Adamiya/Arabs al-Aramshe area in northern Galilee near Lebanon border, part of ongoing Hezbollah drone and aircraft activity targeting northern Israel."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "b7f962fe918c95ee",
+    "title_original": "אזעקה באדמית וערב אל עראמשה בשל חדירת כלי טיס עוין",
+    "content_original": "אזעקה באדמית וערב אל עראמשה בשל חדירת כלי טיס עוין",
+    "url": "https://mivzakim.net/r/13968619/rss",
+    "published": "2026-03-02T23:15:35+02:00",
+    "fetched_at": "2026-03-02T21:24:58.226770+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Air raid alarm in Adamit and Aramsha due to hostile aircraft penetration",
+    "relevant": true,
+    "summary_en": "Air raid sirens sounded in the Israeli communities of Adamit and Aramsha due to hostile aircraft penetration. The incident indicates potential cross-border aerial activity, likely from Lebanon, in what appears to be an ongoing security threat to northern Israeli border communities.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "threat",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Northern Israel, Adamit and Aramsha communities",
+      "brief": "Air raid sirens sounded in Israeli border communities of Adamit and Aramsha due to hostile aircraft penetration, likely from Lebanon, indicating ongoing Hezbollah aerial threat to northern Israel."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "c21a49cc093beb90",
+    "title_original": "ЦАХАЛ «эвакуирует» посреди ночи жителей 30 ливанских городков и деревень",
+    "content_original": "ЦАХАЛ «эвакуирует» посреди ночи жителей 30 ливанских городков и деревень",
+    "url": "https://news.israelinfo.co.il/141652",
+    "published": "2026-03-02T23:14:01+02:00",
+    "fetched_at": "2026-03-02T21:24:53.809306+00:00",
+    "source_name": "IsraelInfo News",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF 'evacuates' residents of 30 Lebanese towns and villages in the middle of the night",
+    "relevant": true,
+    "summary_en": "The IDF has ordered the evacuation of residents from 30 Lebanese towns and villages in the middle of the night, representing a significant escalation in Israel's military operations against Hezbollah in southern Lebanon. This mass evacuation order indicates intensified ground or aerial operations as part of the ongoing conflict involving Iran-linked Hezbollah forces.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "idf",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "southern Lebanon",
+      "brief": "IDF ordered evacuation of 30 Lebanese towns and villages in overnight operation, representing significant escalation in Israel's military campaign against Hezbollah."
+    },
+    "merged_source_count": 3,
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "c21a49cc093beb90",
+    "title_original": "ЦАХАЛ «эвакуирует» посреди ночи жителей 30 ливанских городков и деревень",
+    "content_original": "ЦАХАЛ «эвакуирует» посреди ночи жителей 30 ливанских городков и деревень",
+    "url": "https://news.israelinfo.co.il/141652",
+    "published": "2026-03-02T23:14:01+02:00",
+    "fetched_at": "2026-03-02T21:24:54.295702+00:00",
+    "source_name": "IsraelInfo Events",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF 'Evacuates' Residents of 30 Lebanese Towns and Villages in Middle of Night",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) conducted overnight operations to evacuate residents from 30 Lebanese towns and villages. This represents a significant escalation in Israeli operations along the northern border with Lebanon, where hostilities with Hezbollah (an Iranian proxy) have been ongoing as part of the wider regional conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "idf",
+      "hezbollah",
+      "conflict",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Lebanon (northern border with Israel)",
+      "brief": "IDF conducted overnight operations evacuating residents from 30 Lebanese towns and villages, representing a significant escalation in Israeli operations against Iranian proxy Hezbollah along the northern border."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "62679c4fa03f044f",
+    "title_original": "צה\"ל באזהרת פינוי למתחם רשות השידור האיראנית: \"נתקוף בשעות הקרובות\"",
+    "content_original": "צה\"ל באזהרת פינוי למתחם רשות השידור האיראנית: \"נתקוף בשעות הקרובות\"",
+    "url": "https://mivzakim.net/r/13968613/rss",
+    "published": "2026-03-02T23:11:51+02:00",
+    "fetched_at": "2026-03-02T21:24:57.876734+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF issues evacuation warning for Iranian Broadcasting Authority compound: 'We will attack in the coming hours'",
+    "relevant": true,
+    "summary_en": "The IDF has issued an evacuation warning for the Iranian Broadcasting Authority compound, directly stating they will attack within the coming hours. This represents a direct military threat against Iranian media infrastructure, marking a significant escalation in Israeli operations against Iran as part of the broader regional conflict involving the US and its allies.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "attack",
+      "idf",
+      "threat",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel (IDF)",
+        "Iran"
+      ],
+      "location": "Iran (Iranian Broadcasting Authority compound)",
+      "brief": "IDF issued evacuation warning for Iranian Broadcasting Authority compound, stating attack will occur within hours, marking significant Israeli escalation against Iranian infrastructure."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "62679c4fa03f044f",
+    "title_original": "צה\"ל באזהרת פינוי למתחם רשות השידור האיראנית: \"נתקוף בשעות הקרובות\"",
+    "content_original": "צה\"ל באזהרת פינוי למתחם רשות השידור האיראנית: \"נתקוף בשעות הקרובות\"",
+    "url": "https://mivzakim.net/r/13968613/rss",
+    "published": "2026-03-02T23:11:51+02:00",
+    "fetched_at": "2026-03-02T21:24:57.274022+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF issues evacuation warning for Iranian Broadcasting Authority complex: 'We will attack in the coming hours'",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces have issued an evacuation warning for the Iranian Broadcasting Authority complex, stating they will attack the location within the coming hours. This represents a direct escalation of Israeli military operations against Iranian infrastructure, expanding hostilities beyond the previously reported strikes on IRGC assets and nuclear facilities.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "idf",
+      "irgc",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (Iranian Broadcasting Authority complex)",
+      "brief": "IDF issued evacuation warning for Iranian Broadcasting Authority complex, announcing imminent airstrike within hours, marking direct Israeli attack on Iranian infrastructure."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "1d40876574f8da2a",
+    "title_original": "מספר ההרוגים האמריקנים עלה ל-6",
+    "content_original": "מספר ההרוגים האמריקנים עלה ל-6",
+    "url": "https://mivzakim.net/r/13968605/rss",
+    "published": "2026-03-02T23:04:47+02:00",
+    "fetched_at": "2026-03-02T21:24:57.275104+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Number of American dead rises to 6",
+    "relevant": true,
+    "summary_en": "American casualties from Iranian attacks have increased to six dead. The headline indicates ongoing Iranian strikes against U.S. forces in the region have caused additional American fatalities, marking a significant escalation in the Iran-U.S. conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "dead",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Israel",
+      "brief": "Iranian attacks on US forces in the region have killed six Americans, marking a significant escalation in direct Iran-US engagement."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "1d40876574f8da2a",
+    "title_original": "מספר ההרוגים האמריקנים עלה ל-6",
+    "content_original": "מספר ההרוגים האמריקנים עלה ל-6",
+    "url": "https://mivzakim.net/r/13968605/rss",
+    "published": "2026-03-02T23:04:47+02:00",
+    "fetched_at": "2026-03-02T21:24:57.876934+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Number of American dead rises to 6",
+    "relevant": true,
+    "summary_en": "American casualty count has increased to 6 killed, presumably from Iranian attacks on US bases or personnel in the region. This represents an escalation in American losses since the start of the Iran-US armed conflict in 2026.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "dead",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Israel/region",
+      "brief": "Six American personnel killed in Iranian attacks on US bases in the region, marking a significant escalation in direct US-Iran combat casualties."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "d6879582f905b234",
+    "title_original": "עלה ל-6 מספר החיילים האמריקנים שנהרגו במלחמה עם איראן",
+    "content_original": "עלה ל-6 מספר החיילים האמריקנים שנהרגו במלחמה עם איראן",
+    "url": "https://mivzakim.net/r/13968600/rss",
+    "published": "2026-03-02T23:02:59+02:00",
+    "fetched_at": "2026-03-02T21:24:58.227530+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "US soldier deaths in Iran war rise to 6",
+    "relevant": true,
+    "summary_en": "The number of American soldiers killed in the ongoing conflict with Iran has increased to six. This casualty figure represents the mounting toll of the escalating hostilities between US and Iranian forces across multiple fronts in the Middle East. The rising death count underscores the deepening US involvement in the Iran-US armed conflict and may fuel further debate over American military engagement in the region.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "death",
+      "conflict",
+      "war",
+      "deaths",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Middle East",
+      "brief": "Six US soldiers killed in escalating hostilities between US and Iranian forces across multiple Middle East fronts, marking significant escalation in direct US-Iran engagement."
+    },
+    "merged_source_count": 5,
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "a3ea0b817c3e56a7",
+    "title_original": "ЦАХАЛ опубликовал предупреждения перед нанесением ударов по нескольким ливанским поселкам",
+    "content_original": "ЦАХАЛ опубликовал предупреждения перед нанесением ударов по нескольким ливанским поселкам",
+    "url": "https://news.israelinfo.co.il/news/124753",
+    "published": "2026-03-02T22:58:03+02:00",
+    "fetched_at": "2026-03-02T21:24:53.809529+00:00",
+    "source_name": "IsraelInfo News",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF publishes warnings before strikes on several Lebanese villages",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) published warnings to residents before carrying out military strikes on multiple villages in Lebanon. This represents continued escalation along the Israel-Lebanon border, where IDF has been conducting operations against Hezbollah targets amid the broader regional conflict involving Iranian proxies.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "idf",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah"
+      ],
+      "location": "Lebanon (Israel-Lebanon border villages)",
+      "brief": "IDF issued pre-strike warnings to residents before conducting military operations against Hezbollah targets in multiple Lebanese border villages, representing continued escalation in the Israel-Hezbollah conflict."
+    },
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "a102d8231841a745",
@@ -993,6 +1847,306 @@
     "lng": 35.86
   },
   {
+    "id": "65cf7412a457dbb3",
+    "title_original": "الرئيس الأمريكي: أمرت بضرب إيران لعرقلة برنامجيها النووي والصاروخي",
+    "content_original": "واشنطن في 02 مارس /قنا/ قال الرئيس الأمريكي ‌دونالد ترامب، إنه أمر الجيش بمهاجمة إيران ‌لعرقلة طموحها النووي وبرنامجها للصواريخ الباليستية الذي كان يتطور بوتيرة سريعة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/الرييس-الامريكي-امرت-بضرب-ايران-لعرقلة-برنامجيها-النووي-والصاروخي",
+    "published": "2026-03-02T21:25:02.104723+00:00",
+    "fetched_at": "2026-03-02T21:25:02.104727+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "American President: I ordered to strike Iran to halt its nuclear and missile programs",
+    "relevant": true,
+    "summary_en": "US President Donald Trump announced he ordered military strikes against Iran to halt its nuclear ambitions and ballistic missile program, which he said was developing at a rapid pace. The strikes target Iran's most strategic capabilities—its nuclear facilities and missile infrastructure—representing a major escalation in the ongoing US-Iran armed conflict.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "ballistic",
+      "conflict",
+      "missile",
+      "strike",
+      "nuclear"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US launched military strikes targeting Iran's nuclear facilities and ballistic missile infrastructure to halt its nuclear weapons and missile development programs."
+    },
+    "merged_source_count": 7,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "f2b9eac62e0ce792",
+    "title_original": "البحرين تبعث برسالة نيابة عن دول مجلس التعاون إلى أمين عام الأمم المتحدة بشأن الهجمات الصاروخية الإيرانية",
+    "content_original": "نيويورك في 02 مارس /قنا/ أرسلت البعثة الدائمة لمملكة البحرين لدى الأمم المتحدة وبالنيابة عن دول مجلس التعاون لدول الخليج العربية، وبصفتها رئيسا للدورة الحالية السادسة والأربعين لمجلس التعاون، خطابا إلى أنطونيو غوتيريش الأمين العام للأمم المتحدة، وذلك للفت الانتباه وبصورة عاجلة إلى الهجمات الصاروخية الإيرانية التي استهدفت عددا من دول المنطقة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/البحرين-تبعث-برسالة-نيابة-عن-دول-مجلس-التعاون-الى-امين-عام-الامم-المتحدة-بشان-الهجمات-الصاروخية-الايرانية",
+    "published": "2026-03-02T21:25:02.104536+00:00",
+    "fetched_at": "2026-03-02T21:25:02.104539+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Bahrain sends message on behalf of GCC states to UN Secretary-General regarding Iranian missile attacks",
+    "relevant": true,
+    "summary_en": "Bahrain's permanent mission to the United Nations, in its capacity as chair of the 46th GCC session and on behalf of Gulf Cooperation Council states, sent an urgent letter to UN Secretary-General Antonio Guterres drawing attention to Iranian missile attacks targeting several countries in the region.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "GCC states",
+        "United Nations"
+      ],
+      "location": "Gulf region",
+      "brief": "Bahrain, as GCC chair, sent urgent letter to UN Secretary-General highlighting Iranian missile attacks targeting several Gulf countries."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "f61d87457d9da8bb",
+    "title_original": "ارتفاع حصيلة ضحايا الاعتداءات الإسرائيلية على لبنان إلى 52 قتيلا و154 مصابا",
+    "content_original": "بيروت في 02 مارس /قنا/ ارتفعت حصيلة ضحايا الاعتداءات الإسرائيلية على لبنان، اليوم، لتسجل مقتل 52 لبنانيا وإصابة 154 شخصا.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/ارتفاع-حصيلة-ضحايا-الاعتداءات-الاسراييلية-على-لبنان-الى-52-قتيلا-و154-مصابا",
+    "published": "2026-03-02T21:25:02.104271+00:00",
+    "fetched_at": "2026-03-02T21:25:02.104274+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Death toll from Israeli attacks on Lebanon rises to 52 killed and 154 injured",
+    "relevant": true,
+    "summary_en": "Israeli forces carried out attacks on Lebanon today, resulting in 52 killed and 154 injured. The casualties mark a significant escalation in cross-border hostilities between Israel and Lebanon, where Hezbollah operates as an IRGC proxy linked to the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "hezbollah",
+      "death",
+      "conflict",
+      "irgc",
+      "killed",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Lebanon",
+        "Hezbollah (IRGC proxy)"
+      ],
+      "location": "Lebanon",
+      "brief": "Israeli airstrikes on Lebanon killed 52 and injured 154, marking a major escalation in cross-border hostilities involving Hezbollah, an IRGC proxy linked to the Iran-US conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "77222bb5c698bafc",
+    "title_original": "السيطرة على حريق نشب بمحطة خزانات وقود في أبوظبي إثر استهداف بطائرة مسيرة",
+    "content_original": "أبوظبي في 02 مارس /قنا/ أعلنت دولة الإمارات العربية المتحدة، أن الجهات المختصة في إمارة أبوظبي تعاملت مع حريق نشب نتيجة استهداف بطائرة مسيرة لموقع محطة خزانات للوقود في منطقة مصفح.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/السيطرة-على-حريق-نشب-بمحطة-خزانات-وقود-في-ابوظبي-اثر-استهداف-بطايرة-مسيرة",
+    "published": "2026-03-02T21:25:02.104098+00:00",
+    "fetched_at": "2026-03-02T21:25:02.104101+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Control of fire that broke out at fuel storage station in Abu Dhabi following drone strike",
+    "relevant": true,
+    "summary_en": "UAE authorities contained a fire at a fuel storage station in the Mussafah area of Abu Dhabi after it was targeted by a drone strike. The incident represents another attack on critical energy infrastructure in the Gulf region, likely carried out by Houthi forces (an Iran proxy), targeting a key US ally's petroleum facilities.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "drone",
+      "houthi",
+      "strike",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "Mussafah, Abu Dhabi, UAE",
+      "brief": "Drone strike caused fire at fuel storage station in Abu Dhabi, attributed to Houthi forces targeting critical energy infrastructure in the Gulf."
+    },
+    "lat": 24.45,
+    "lng": 54.38
+  },
+  {
+    "id": "789845385698c4e6",
+    "title_original": "⚡️ #BREAKING  US military says death toll from Iran operation has risen to 6 troops, with 2 found from Tehran's initi...",
+    "content_original": "⚡️ #BREAKING US military says death toll from Iran operation has risen to 6 troops, with 2 found from Tehran's initial counterattacks",
+    "url": "https://t.me/warmonitors/40554",
+    "published": "2026-03-02T21:16:31+00:00",
+    "fetched_at": "2026-03-02T21:26:21.308441+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US military says death toll from Iran operation has risen to 6 troops, with 2 found from Tehran's initial counterattacks",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US Central Command reports that the death toll from Iranian attacks on US forces has risen to 6 troops, with 2 additional bodies found from Tehran's initial wave of counterattacks. This marks the first confirmed US casualties from Iran's ballistic missile and drone strikes on American bases, signaling a significant escalation in the Iran-US armed conflict.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "ballistic",
+      "death",
+      "drone",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "US Central Command"
+      ],
+      "location": "Middle East (US military bases in Iraq/Syria)",
+      "brief": "Iran's ballistic missile and drone strikes on US bases have resulted in 6 US troop deaths, marking first confirmed US casualties from Tehran's direct attacks."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "e6a7b5d27fca02e3",
+    "title_original": "🔻 مشاهد من اطلاق المقاومة الاسلامية في العراق لصواريخ الارقب والطيران المسير باتجاه قواعد الاحتلال في العراق و المنطقة.",
+    "content_original": "🔻 مشاهد من اطلاق المقاومة الاسلامية في العراق لصواريخ الارقب والطيران المسير باتجاه قواعد الاحتلال في العراق و المنطقة.",
+    "url": "https://t.me/Electrohizbullah/157226",
+    "published": "2026-03-02T21:14:19+00:00",
+    "fetched_at": "2026-03-02T21:26:23.319517+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Islamic Resistance in Iraq Launches Arqab Rockets and Drones at Occupation Bases in Iraq and Region",
+    "relevant": true,
+    "summary_en": "The Islamic Resistance in Iraq released footage showing the launch of Arqab rockets and drones targeting occupation bases in Iraq and the broader region. This represents another in a series of proxy attacks by Iranian-backed militia groups against American forces stationed in Iraq, continuing the pattern of escalatory attacks by IRGC-aligned forces since the conflict began.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "militia",
+      "irgc",
+      "conflict",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Islamic Resistance in Iraq",
+        "United States forces",
+        "Iran (backing)"
+      ],
+      "location": "Iraq and broader region",
+      "brief": "Iranian-backed Islamic Resistance in Iraq launched Arqab rockets and drones at US occupation bases in Iraq and the region, continuing proxy attacks against American forces."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "b8a6835cdf021653",
+    "title_original": "How much damage has Iran done to US bases in the Middle East?",
+    "content_original": "American military targets in six countries, including Bahrain and Qatar, have come under Iranian missile and drone fire Within hours of the US launching &lsquo;Operation Epic Fury&rsquo; against Iran, Tehran&rsquo;s forces unleashed retaliatory strikes against American military bases in the Middle East, killing four US troops and destroying billions of dollars&rsquo; worth of equipment. &rdquo;We will make the Zionist criminals and the vile Americans regret [attacking Iran],&rdquo; Iranian Supreme National Security Council chief Ali Larijani said as the retaliatory strikes began on Saturday. &ldquo;The brave soldiers and the great nation of Iran will deliver an unforgettable lesson to the hell-bound oppressors of the international order.&rdquo; How many bases does the US have in the Middle East? The US operates a network of 19 permanent and temporary military bases throughout the Middle East, with the largest &ndash; Al Udeid Air Base in Qatar &ndash; hosting 10,000 troops and serving ...",
+    "url": "https://www.rt.com/news/633541-iran-attacks-us-bases/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+    "published": "2026-03-02T21:08:55+00:00",
+    "fetched_at": "2026-03-02T21:24:49.478710+00:00",
+    "source_name": "RT",
+    "source_category": "state",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "How much damage has Iran done to US bases in the Middle East?",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory missile and drone strikes against American military bases in six countries, including Bahrain and Qatar, in response to US 'Operation Epic Fury' targeting Iran. The strikes killed four US troops and destroyed billions of dollars worth of equipment. Iranian Supreme National Security Council chief Ali Larijani warned that Iran would deliver an 'unforgettable lesson' to the US and Israel.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "missile",
+      "drone",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Middle East (Bahrain, Qatar, and four other countries)",
+      "brief": "Iran launched retaliatory missile and drone strikes against US military bases in six Middle Eastern countries in response to US Operation Epic Fury, killing four US troops and destroying billions of dollars worth of equipment."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "4211a51c093c02df",
+    "title_original": "#إعلام_العدو   القناة 12 العبرية: مقتل جندي أمريكي إضافي ليرتفع إجمالي عدد القتلى في صفوف القوات الأمريكية إلى 6 قتلى.",
+    "content_original": "#إعلام_العدو القناة 12 العبرية: مقتل جندي أمريكي إضافي ليرتفع إجمالي عدد القتلى في صفوف القوات الأمريكية إلى 6 قتلى.",
+    "url": "https://t.me/Electrohizbullah/157224",
+    "published": "2026-03-02T21:06:03+00:00",
+    "fetched_at": "2026-03-02T21:26:23.318284+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Enemy Media - Channel 12 Hebrew: Additional American soldier killed, raising total US forces casualties to 6",
+    "relevant": true,
+    "summary_en": "Channel 12 Hebrew reported another American soldier killed, bringing the total US military casualties to 6 since the start of the Iran-US armed conflict. The report highlights the escalating toll on US forces operating in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    },
+    "merged_source_count": 2
+  },
+  {
     "id": "d4e041a6d0a7b238",
     "title_original": "Al Jazeera: БПЛА атаковали авиабазу в иракской провинции Салах-эд-Дин",
     "content_original": "Al Jazeera: БПЛА атаковали авиабазу в иракской провинции Салах-эд-Дин",
@@ -1026,6 +2180,79 @@
       ],
       "location": "Iraq, Salah al-Din province",
       "brief": "UAVs attacked a military airbase in Iraq's Salah al-Din province targeting an installation with significant US presence, consistent with IRGC-linked proxy attacks on US bases in the Iran-US conflict escalation."
+    },
+    "lat": 33.1,
+    "lng": 44.17
+  },
+  {
+    "id": "c43d0ad72d1b359f",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷   CENTCOM announced the death of two more American soldiers bringing the total number of deaths to 6 America...",
+    "content_original": "🇺🇸 ⚔️ 🇮🇷 CENTCOM announced the death of two more American soldiers bringing the total number of deaths to 6 American troops killed @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70173",
+    "published": "2026-03-02T21:02:04+00:00",
+    "fetched_at": "2026-03-02T21:26:20.103930+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "CENTCOM announces death of two more American soldiers, total US casualties now 6",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "CENTCOM announced that two additional American soldiers have been killed in the Iran-US conflict, bringing the total US military death toll to six. This marks a further escalation in American casualties since hostilities began between the two nations.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "death",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "middle_east",
+      "brief": "Two American soldiers killed in Iran-US conflict, bringing total US military death toll to six, marking further escalation in hostilities."
+    },
+    "lat": 39.3014159,
+    "lng": -76.5888477
+  },
+  {
+    "id": "3db779d64c30c73a",
+    "title_original": "🚨 سنتکام: شش نیروی آمریکایی تاکنون کشته شده اند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨  تحولات و اخبار جدید ای...",
+    "content_original": "🚨 سنتکام: شش نیروی آمریکایی تاکنون کشته شده اند ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ ـ 🚨 تحولات و اخبار جدید ایران و آمریکا 🌐 ✅ @SABERIN_NEWS",
+    "url": "https://t.me/saberin_news/45188",
+    "published": "2026-03-02T21:02:00+00:00",
+    "fetched_at": "2026-03-02T21:26:22.496246+00:00",
+    "source_name": "Islamic Resistance Iraq (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "CENTCOM: Six American Troops Killed So Far",
+    "relevant": true,
+    "summary_en": "CENTCOM reports that six American troops have been killed in the ongoing Iran-US armed conflict. The casualties occurred during escalating hostilities between US forces and Iranian/IRGC-linked forces in the region, including strikes on US bases in Iraq and Syria and naval engagements in the Gulf.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "irgc",
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC-linked forces"
+      ],
+      "location": "Iraq, Syria, Persian Gulf",
+      "brief": "Six American troops killed as US forces engaged Iranian and IRGC-linked forces in escalating hostilities including strikes on bases in Iraq and Syria and naval engagements in the Gulf."
     },
     "lat": 33.1,
     "lng": 44.17
