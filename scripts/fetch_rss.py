@@ -151,6 +151,7 @@ def fetch_rss_source(source: dict, region: str) -> list[dict]:
 def fetch_all_rss(sources_config: dict) -> dict[str, list[dict]]:
     """
     Fetch articles from all RSS sources across all regions.
+    Uses ThreadPoolExecutor for parallel fetching within each region.
 
     Args:
         sources_config: Parsed sources.yaml config
@@ -158,16 +159,40 @@ def fetch_all_rss(sources_config: dict) -> dict[str, list[dict]]:
     Returns:
         Dict mapping region -> list of articles
     """
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
     all_articles = {}
 
+    # Collect all (source, region) pairs
+    tasks = []
     for region_key, region_cfg in sources_config.get("regions", {}).items():
-        region_articles = []
         for source in region_cfg.get("sources", []):
             if source.get("type") != "rss":
                 continue
-            articles = fetch_rss_source(source, region_key)
-            region_articles.extend(articles)
+            tasks.append((source, region_key))
 
+    if not tasks:
+        return all_articles
+
+    # Fetch all feeds in parallel with up to 15 workers
+    results: dict[str, list[dict]] = {}
+    with ThreadPoolExecutor(max_workers=15) as executor:
+        future_to_task = {
+            executor.submit(fetch_rss_source, source, region): (source, region)
+            for source, region in tasks
+        }
+        for future in as_completed(future_to_task):
+            source, region = future_to_task[future]
+            try:
+                articles = future.result()
+            except Exception as e:
+                logger.error(f"Parallel fetch failed for {source.get('name', '?')}: {e}")
+                articles = []
+            results.setdefault(region, []).extend(articles)
+
+    # Ensure all regions appear in the output (even with 0 articles)
+    for region_key in sources_config.get("regions", {}).keys():
+        region_articles = results.get(region_key, [])
         all_articles[region_key] = region_articles
         logger.info(f"Region '{region_key}': {len(region_articles)} RSS articles total")
 

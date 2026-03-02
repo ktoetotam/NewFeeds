@@ -4,11 +4,14 @@ import { getExecutiveSummary, getThreatLevel, getArchiveIndex, getAttackArticles
 import Link from "next/link";
 import { THREAT_LEVEL_COLORS } from "@/lib/types";
 
-export default function SummaryPage() {
-  const summary = getExecutiveSummary();
-  const threatLevel = getThreatLevel();
-  const archiveCount = getArchiveIndex().length;
-  const attacks = getAttackArticles();
+export default async function SummaryPage() {
+  const [summary, threatLevel, archiveEntries, attacks] = await Promise.all([
+    getExecutiveSummary(),
+    getThreatLevel(),
+    getArchiveIndex(),
+    getAttackArticles(),
+  ]);
+  const archiveCount = archiveEntries.length;
 
   const tlLevel = threatLevel.current;
   const tlColor = tlLevel ? (THREAT_LEVEL_COLORS[tlLevel.label] || "#16a34a") : "#16a34a";

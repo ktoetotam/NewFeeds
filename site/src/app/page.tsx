@@ -11,17 +11,21 @@ import type { RegionKey } from "@/lib/types";
 import { REGIONS, THREAT_LEVEL_COLORS } from "@/lib/types";
 import HomeAttackMap from "@/components/HomeAttackMap";
 
-export default function HomePage() {
+export default async function HomePage() {
   const regions: RegionKey[] = REGIONS.map((r) => r.key);
-  const articlesByRegion: Record<string, ReturnType<typeof getArticlesByRegion>> = {};
+  const articlesByRegion: Record<string, Awaited<ReturnType<typeof getArticlesByRegion>>> = {};
 
-  for (const region of regions) {
-    articlesByRegion[region] = getArticlesByRegion(region);
+  // Fetch all regions + global data in parallel
+  const [regionResults, threatLevel, attacks, summary] = await Promise.all([
+    Promise.all(regions.map((r) => getArticlesByRegion(r))),
+    getThreatLevel(),
+    getAttackArticles(),
+    getExecutiveSummary(),
+  ]);
+
+  for (let i = 0; i < regions.length; i++) {
+    articlesByRegion[regions[i]] = regionResults[i];
   }
-
-  const threatLevel = getThreatLevel();
-  const attacks = getAttackArticles();
-  const summary = getExecutiveSummary();
 
   const tlLevel = threatLevel.current;
   const tlColor = tlLevel ? (THREAT_LEVEL_COLORS[tlLevel.label] || "#16a34a") : "#16a34a";

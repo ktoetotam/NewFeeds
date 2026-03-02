@@ -21,7 +21,76 @@ permissions:
   actions: write
 
 jobs:
-  fetch-translate-deploy:
+  # ───────────────────────────────────────────────────────
+  # Fan-out: parallel region groups
+  # ───────────────────────────────────────────────────────
+  fetch-regions:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        batch:
+          - name: batch-1
+            regions: "iran,russia,israel"
+          - name: batch-2
+            regions: "gulf,proxies,middle_east"
+          - name: batch-3
+            regions: "china,turkey,south_asia,western"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Cache Poetry virtualenv
+        uses: actions/cache@v4
+        with:
+          path: scripts/.venv
+          key: poetry-${{ hashFiles('scripts/poetry.lock') }}
+
+      - name: Install Python dependencies
+        working-directory: scripts
+        run: poetry install --no-interaction --no-root
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ hashFiles('scripts/poetry.lock') }}
+
+      - name: Install Playwright Chromium
+        working-directory: scripts
+        run: poetry run python -m playwright install chromium --with-deps
+
+      - name: "Fetch & translate: ${{ matrix.batch.name }}"
+        working-directory: scripts
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          TEST_MODE: ${{ inputs.test_mode || 'false' }}
+          LLM_CONCURRENCY: "8"
+          PIPELINE_REGIONS: ${{ matrix.batch.regions }}
+        run: poetry run python run_pipeline.py --steps fetch,translate
+
+      - name: Upload region data
+        uses: actions/upload-artifact@v4
+        with:
+          name: feeds-${{ matrix.batch.name }}
+          path: data/feeds/
+          retention-days: 1
+
+  # ───────────────────────────────────────────────────────
+  # Fan-in: classify, geocode, threat, summary, deploy
+  # ───────────────────────────────────────────────────────
+  classify-and-deploy:
+    needs: fetch-regions
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -31,32 +100,40 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ── Python Pipeline ──
+      - name: Download all feed artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: feeds-*
+          path: data/feeds/
+          merge-multiple: true
+
+      # ── Python Pipeline (classify → geocode → threat → summary) ──
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-          cache: 'pip'
-          cache-dependency-path: scripts/requirements.txt
 
-      - name: Install Python dependencies
-        run: pip install -r scripts/requirements.txt
+      - name: Install Poetry
+        run: pipx install poetry
 
-      - name: Cache Playwright browsers
+      - name: Cache Poetry virtualenv
         uses: actions/cache@v4
         with:
-          path: ~/.cache/ms-playwright
-          key: playwright-${{ hashFiles('scripts/requirements.txt') }}
+          path: scripts/.venv
+          key: poetry-${{ hashFiles('scripts/poetry.lock') }}
 
-      - name: Install Playwright Chromium
-        run: python -m playwright install chromium --with-deps
+      - name: Install Python dependencies
+        working-directory: scripts
+        run: poetry install --no-interaction --no-root
 
-      - name: Run news pipeline
+      - name: Run classify → deploy pipeline
         working-directory: scripts
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          TEST_MODE: ${{ inputs.test_mode || 'false' }}
-        run: python run_pipeline.py
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          LLM_CLASSIFY_CONCURRENCY: "5"
+        run: poetry run python run_pipeline.py --steps classify,geocode,threat,summary
 
       - name: Commit & merge data changes
         if: always()
@@ -94,6 +171,9 @@ jobs:
 
       - name: Build static site
         working-directory: site
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: npm run build
 
       - name: Setup Pages
@@ -113,6 +193,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Waiting 2 minutes before re-triggering…"
-          sleep 120
+          echo "Waiting 90 seconds before re-triggering…"
+          sleep 90
           gh workflow run fetch-and-deploy.yml --ref main

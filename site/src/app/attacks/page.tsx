@@ -4,10 +4,12 @@ import Link from "next/link";
 import { getAttackArticles, getThreatLevel, getExecutiveSummary } from "@/lib/data";
 import { THREAT_LEVEL_COLORS } from "@/lib/types";
 
-export default function AttacksPage() {
-  const attackArticles = getAttackArticles();
-  const threatLevel = getThreatLevel();
-  const summary = getExecutiveSummary();
+export default async function AttacksPage() {
+  const [attackArticles, threatLevel, summary] = await Promise.all([
+    getAttackArticles(),
+    getThreatLevel(),
+    getExecutiveSummary(),
+  ]);
 
   const tlLevel = threatLevel.current;
   const tlColor = tlLevel ? (THREAT_LEVEL_COLORS[tlLevel.label] || "#16a34a") : "#16a34a";

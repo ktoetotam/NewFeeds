@@ -303,18 +303,35 @@ def classify_articles(
         to_classify.sort(key=lambda a: a.get("keyword_matches", 0), reverse=True)
         to_classify = to_classify[:max_classify]
 
-    # Stage 2: LLM classification
-    classified = []
-    for i, article in enumerate(to_classify):
-        logger.info(
-            f"Classifying [{i+1}/{len(to_classify)}]: {article.get('title_en', '')[:60]}..."
-        )
-        classification = classify_with_llm(article, api_key)
-        article["classification"] = classification
-        classified.append(article)
+    # Stage 2: LLM classification (concurrent)
+    import threading
+    from concurrent.futures import ThreadPoolExecutor, as_completed
 
-        if i < len(to_classify) - 1:
-            time.sleep(0.5)
+    MAX_CONCURRENT = int(os.environ.get("LLM_CLASSIFY_CONCURRENCY", "5"))
+    semaphore = threading.Semaphore(MAX_CONCURRENT)
+    classified = []
+    classified_lock = threading.Lock()
+    counter = {"done": 0}
+
+    def _classify_one(article):
+        with semaphore:
+            classification = classify_with_llm(article, api_key)
+            article["classification"] = classification
+            with classified_lock:
+                classified.append(article)
+                counter["done"] += 1
+                idx = counter["done"]
+            logger.info(
+                f"Classifying [{idx}/{len(to_classify)}]: {article.get('title_en', '')[:60]}..."
+            )
+
+    with ThreadPoolExecutor(max_workers=MAX_CONCURRENT) as executor:
+        futures = [executor.submit(_classify_one, article) for article in to_classify]
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                logger.error(f"Classification task failed: {e}")
 
     all_classified = already_classified + classified
 

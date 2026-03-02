@@ -146,6 +146,7 @@ def fetch_telegram_channel(source: dict, region: str) -> list[dict]:
 def fetch_all_telegram(sources_config: dict) -> dict[str, list[dict]]:
     """
     Fetch messages from all Telegram sources across all regions.
+    Uses ThreadPoolExecutor for parallel fetching.
 
     Args:
         sources_config: Parsed sources.yaml config
@@ -153,16 +154,39 @@ def fetch_all_telegram(sources_config: dict) -> dict[str, list[dict]]:
     Returns:
         Dict mapping region -> list of articles
     """
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
     all_articles = {}
 
+    # Collect all (source, region) pairs
+    tasks = []
     for region_key, region_cfg in sources_config.get("regions", {}).items():
-        region_articles = []
         for source in region_cfg.get("sources", []):
             if source.get("type") != "telegram":
                 continue
-            articles = fetch_telegram_channel(source, region_key)
-            region_articles.extend(articles)
+            tasks.append((source, region_key))
 
+    if not tasks:
+        return all_articles
+
+    # Fetch all channels in parallel with up to 10 workers
+    results: dict[str, list[dict]] = {}
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_task = {
+            executor.submit(fetch_telegram_channel, source, region): (source, region)
+            for source, region in tasks
+        }
+        for future in as_completed(future_to_task):
+            source, region = future_to_task[future]
+            try:
+                articles = future.result()
+            except Exception as e:
+                logger.error(f"Parallel Telegram fetch failed for {source.get('name', '?')}: {e}")
+                articles = []
+            results.setdefault(region, []).extend(articles)
+
+    for region_key in sources_config.get("regions", {}).keys():
+        region_articles = results.get(region_key, [])
         if region_articles:
             all_articles[region_key] = region_articles
             logger.info(

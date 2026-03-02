@@ -1,0 +1,82 @@
+name: "Test — Supabase Pipeline"
+
+on:
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: "Test mode (1 region, 3 articles)"
+        required: false
+        default: true
+        type: boolean
+
+concurrency:
+  group: test-supabase
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  test-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: feature/supabase-migration
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Cache Poetry virtualenv
+        uses: actions/cache@v4
+        with:
+          path: scripts/.venv
+          key: poetry-${{ hashFiles('scripts/poetry.lock') }}
+
+      - name: Install Python dependencies
+        working-directory: scripts
+        run: poetry install --no-interaction --no-root
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ hashFiles('scripts/poetry.lock') }}
+
+      - name: Install Playwright Chromium
+        working-directory: scripts
+        run: poetry run python -m playwright install chromium --with-deps
+
+      - name: Run news pipeline
+        working-directory: scripts
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          TEST_MODE: ${{ inputs.test_mode || 'true' }}
+          LLM_CONCURRENCY: "8"
+        run: poetry run python run_pipeline.py
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install Node dependencies
+        working-directory: site
+        run: npm ci
+
+      - name: Build static site (verify)
+        working-directory: site
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+        run: npm run build

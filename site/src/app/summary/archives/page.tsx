@@ -3,10 +3,12 @@ import { getArchiveIndex, getThreatLevel, syncArchivesToPublic } from "@/lib/dat
 import { THREAT_LEVEL_COLORS } from "@/lib/types";
 import Link from "next/link";
 
-export default function ArchivesPage() {
+export default async function ArchivesPage() {
   syncArchivesToPublic();
-  const archives = getArchiveIndex();
-  const threatLevel = getThreatLevel();
+  const [archives, threatLevel] = await Promise.all([
+    getArchiveIndex(),
+    getThreatLevel(),
+  ]);
 
   return (
     <>

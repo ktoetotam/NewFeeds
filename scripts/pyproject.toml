@@ -14,7 +14,8 @@ dependencies = [
     "lxml (>=6.0.2,<7.0.0)",
     "playwright (>=1.58.0,<2.0.0)",
     "pyyaml (>=6.0.3,<7.0.0)",
-    "python-dateutil (>=2.9.0.post0,<3.0.0)"
+    "python-dateutil (>=2.9.0.post0,<3.0.0)",
+    "supabase (>=2.28.0,<3.0.0)"
 ]
 
 

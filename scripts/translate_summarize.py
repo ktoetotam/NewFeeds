@@ -13,6 +13,7 @@ import json
 import logging
 import os
 import time
+import threading
 
 import requests
 
@@ -275,22 +276,43 @@ def translate_articles(
 
     logger.info(f"Processing {len(to_process)} articles via LLM (Iran–US war context)")
 
+    # Concurrent LLM calls with a semaphore to respect rate limits (~480 RPM)
+    MAX_CONCURRENT = int(os.environ.get("LLM_CONCURRENCY", "8"))
+    semaphore = threading.Semaphore(MAX_CONCURRENT)
+
     processed = []
-    for i, article in enumerate(to_process):
-        logger.info(
-            f"[{i+1}/{len(to_process)}] {article.get('source_name', '?')} — "
-            f"{article.get('title_original', '')[:60]}..."
-        )
-        result = process_article(article, api_key)
-        processed.append(result)
+    processed_lock = threading.Lock()
+    counter = {"done": 0}
 
-        # Checkpoint after every N articles to avoid losing work on interruption
-        if checkpoint_fn and (i + 1) % checkpoint_every == 0:
-            checkpoint_fn(already_done + processed + overflow)
-            logger.info(f"Checkpoint saved after {i + 1} translated articles")
+    def _process_one(article):
+        with semaphore:
+            result = process_article(article, api_key)
+            with processed_lock:
+                processed.append(result)
+                counter["done"] += 1
+                idx = counter["done"]
 
-        if i < len(to_process) - 1:
-            time.sleep(BATCH_DELAY)
+            logger.info(
+                f"[{idx}/{len(to_process)}] {article.get('source_name', '?')} — "
+                f"{article.get('title_original', '')[:60]}..."
+            )
+
+            # Checkpoint after every N articles to avoid losing work on interruption
+            if checkpoint_fn and idx % checkpoint_every == 0:
+                with processed_lock:
+                    snapshot = list(processed)
+                checkpoint_fn(already_done + snapshot + overflow)
+                logger.info(f"Checkpoint saved after {idx} translated articles")
+
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    with ThreadPoolExecutor(max_workers=MAX_CONCURRENT) as executor:
+        futures = [executor.submit(_process_one, article) for article in to_process]
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                logger.error(f"Translation task failed: {e}")
 
     relevant_count = sum(1 for a in processed if a.get("relevant") is True)
     irrelevant_count = sum(1 for a in processed if a.get("relevant") is False)
