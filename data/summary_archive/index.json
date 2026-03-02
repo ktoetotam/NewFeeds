@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T06-37-08.869399_plus_00-00.json",
+    "generated_at": "2026-03-02T06:37:08.869399+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 855,
+    "summary_preview": "The Iran-US conflict has escalated significantly in the past 6 hours with Iran launching its THIRD ballistic missile volley at US bases and Israel, while the US-Iran direct confrontation expands into "
+  },
+  {
     "filename": "2026-03-02T05-44-13.334633_plus_00-00.json",
     "generated_at": "2026-03-02T05:44:13.334633+00:00",
     "threat_label": "MAJOR",
