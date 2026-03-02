@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-03-02T04:37:21.084561+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 829,
+    "incident_count_6h": 228,
+    "severity_breakdown": {
+      "major": 367,
+      "high": 294,
+      "medium": 165,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 159,
+    "articles_analyzed": 147,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached a critical inflection point with confirmed US casualties (3 troops killed) and the killing of Iran's Supreme Leader Khamenei in joint US-Israeli strikes on Tehran. The conflict is expanding geographically — Iranian missiles now hitting the UAE, Bahrain, and East Jerusalem — while Hezbollah has formally entered the war and the UK has authorized direct US strikes on Iranian missile capabilities from British bases. Trump indicates the war could last up to 5 weeks.",
+  "whats_new": [
+    "CENTCOM confirms 3 US troops killed, 5 wounded in Iran's direct retaliatory strikes on American bases — first confirmed US casualties",
+    "Iranian Supreme Leader Khamenei killed in joint US-Israeli strikes on Tehran — confirmed by multiple sources including Iranian state media",
+    "IRGC launched ballistic missile volley at USS Abraham Lincoln carrier — first known Iranian attack on a US aircraft carrier",
+    "Hezbollah formally entered the war, targeting Israeli missile defense site near Haifa with precision missiles and drones",
+    "Iranian missiles struck UAE including AWS data centre, killing Pakistani national; Bahrain worker killed by missile debris",
+    "UK authorized US use of British bases for strikes on Iranian missile storage depots and launchers",
+    "Israeli strike on girls' school in Minab, Iran killed approximately 180 children — death toll now confirmed"
+  ],
+  "confirmed_events": [
+    "Joint US-Israeli strikes killed Iran's Supreme Leader Khamenei in Tehran — major strategic escalation with unclear succession implications",
+    "Three American service members confirmed killed in Iranian retaliatory strikes on US bases in the Middle East",
+    "IRGC Operation True Promise 4 conducting widespread ballistic missile and drone strikes on tankers, US bases, and Gulf state infrastructure",
+    "Hezbollah (Islamic Resistance) opened new front against Israel, targeting missile defense sites near Haifa",
+    "Israeli strikes expanded to Yazd and Isfahan in central Iran; Tehran's Niloofar Square struck killing 20+ civilians"
+  ],
+  "unverified_emerging": [
+    "UNESCO condemnation of Israeli attack on girls' school in southern Iran — Israeli military states it is 'not aware' of any such strike",
+    "Russian strategist Dugin warns of World War 3 if Iran falls — signals potential Kremlin escalation risk",
+    "Iran's Security Council head reportedly proposed resuming negotiations with USA via WSJ — unconfirmed diplomatic signal",
+    "Trump claims 'all candidates for leadership of Iran were eliminated' — political rhetoric, unverified operational claims"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Cathay Pacific suspended flights to Dubai until Thursday and Riyadh until Tuesday — 37+ flights affected",
+      "Beirut airport remains operational despite Israeli strikes — critical evacuation/humanitarian corridor maintained",
+      "Gulf states (Bahrain, Kuwait, UAE) have inadequate civil defense infrastructure — residents reporting lack of bomb shelters"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz remains effectively closed — multiple tanker attacks continuing",
+      "Saudi Arabia and UAE airspaces experiencing significant disruption from missile activity",
+      "Amazon Web Services data centre in UAE hit by Iranian strikes causing fire and power outage"
+    ],
+    "market_macro": [
+      "Emirati and Kuwaiti stock markets closed amid escalating crisis",
+      "Energy markets facing continued shock from Hormuz closure",
+      "US accelerating missile strikes amid concerns over depleting interceptor reserves — ammunition shortage concerns rising"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is entering a new phase with direct US casualties confirmed, likely triggering accelerated US military operations. With Khamenei killed and no clear succession, Iran's response may be unpredictable — either further escalation or potential diplomatic openings. The IRGC still retains significant capability and will likely continueproxy attacks. Expect continued multi-front warfare: Iranian ballistic missile strikes on Gulf states and Israel, US/Israeli strikes on Iranian territory, and Hezbollah maintaining pressure on Israel's northern border. Trump suggests a 5-week timeline but this is highly uncertain.",
+    "escalation_risks": [
+      "Russian direct intervention — Dugin's WW3 warning signals Kremlin considering escalation options",
+      "Ground operation in Iran — US officials skeptical any strike will achieve regime change, potentially pushing toward boots on ground",
+      "Expanded Gulf warfare — further tanker attacks could severely disrupt global oil supply and trigger international involvement",
+      "Israel expanding Lebanon operations — potential full-scale invasion if Hezbollah attacks intensify"
+    ],
+    "de_escalation_pathways": "Diplomatic signal emerging: Iran's Security Council head reportedly proposed resuming negotiations with the US. However, Trump's ultimatum to Iranian forces (surrender weapons or face destruction) and the killing of Khamenei make immediate de-escalation unlikely. Any negotiated settlement would require major face-saving concessions from both sides. The 5-week timeline Trump mentioned may represent a window for intensified military pressure before potential diplomatic resolution."
+  }
+}

@@ -1,5 +1,22 @@
 [
   {
+    "id": "2bbf2cf5b26293fd",
+    "title_original": "تغطية إخبارية | حول تطورات العدوان الأمريكي الإسرائيلي على الجمهورية الإسلامية في إيران | مع د. علي حمية و العميد نضال زهوي و د. جمال زهران و محمد غروي و عبدالمجيد شديد و زهير مخلوف  13-09-1447هـ 02-03-2026م",
+    "content_original": "تقديم: صدام القدمي",
+    "url": "https://almasirah.net.ye/static/static/e55f8c22-3a6c-4fe8-84d1-a40e8215616a.jpg",
+    "published": "2026-03-02T07:15:50+00:00",
+    "fetched_at": "2026-03-02T04:42:14.983524+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Coverage of developments in American-Israeli aggression against Islamic Republic of Iran",
+    "relevant": true,
+    "summary_en": "A news program featuring military and political analysts (Dr. Ali Hmeid, Brig. Gen. Nadhal Zahawi, Dr. Jamal Zuhran, and others) discussing recent developments in the US-Israeli military campaign against Iran. The program analyzes the ongoing strikes, Iranian retaliation, and strategic implications for the region.",
+    "translated": true
+  },
+  {
     "id": "7b3527be9ba61791",
     "title_original": "عدوان إسرائيلي واسع يطال الضاحية والجنوب والبقاع.. وإنذارات إخلاء لعشرات البلدات",
     "content_original": "المسيرة نت| متابعات: شهد لبنان اليوم عدوانًا عسكرياً إسرائيلياً غير مسبوق منذ سريان اتفاق وقف إطلاق النار الأخير، حيث شنت الطائرات الحربية سلسلة غارات عنيفة استهدفت الضاحية الجنوبية لبيروت، وتوسعت لتشمل بلدات في عمق البقاع والجنوب، بالتزامن مع إصدار جيش الاحتلال أوامر إخلاء فورية لسكان عشرات البلدات الحدودية.",
@@ -31,6 +48,23 @@
     "title_en": "الهروب الكبير من يافا \"تل أبيب\": انفجار \"الفقاعة\" وانكسار أسطورة الأمان",
     "summary_en": "[API unavailable — Arabic source]",
     "translated": false
+  },
+  {
+    "id": "5a2e7e2c0da32b27",
+    "title_original": "#إيران   حرس الثورة الإسلامية: تم رصد وتعقّب طائرة مسيّرة أمريكية متطورة من طراز «إم كيو 9» (MQ-9) في أجواء أصفهان بو...",
+    "content_original": "#إيران حرس الثورة الإسلامية: تم رصد وتعقّب طائرة مسيّرة أمريكية متطورة من طراز «إم كيو 9» (MQ-9) في أجواء أصفهان بواسطة المنظومة الدفاعية للبلاد، وتم إسقاطها وتدميرها. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156999",
+    "published": "2026-03-02T04:13:25+00:00",
+    "fetched_at": "2026-03-02T04:43:00.643722+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC: Advanced American MQ-9 Drone Shot Down in Isfahan Airspace",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps claims it tracked and shot down an advanced American MQ-9 Reaper drone in Isfahan province using Iran's air defense system. If confirmed, this would represent another escalation in the ongoing Iran-US conflict and demonstrate Iran's capability to target US surveillance and strike assets operating near Iranian territory.",
+    "translated": true
   },
   {
     "id": "677d1147a3dcb641",

@@ -85,6 +85,34 @@
     "translated": true
   },
   {
+    "id": "2dddbe2d96b7acbc",
+    "title_original": "الإذاعــة الأردنيـــة فــي يـــــوم عيــدهــا هنــا عمــان",
+    "url": "http://www.sahafi.jo/files/art.php?id=ec7b2e71cc010912127f81fc0f6fd9b258d042f2",
+    "published": "2026-03-02T12:00:00-05:00",
+    "fetched_at": "2026-03-02T04:41:55.957244+00:00",
+    "source_name": "Sahafi Jordan",
+    "source_category": "independent",
+    "language": "ar",
+    "region": "middle_east",
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
+  },
+  {
+    "id": "323ab540f0d337c4",
+    "title_original": "لجنة تقصي الإبداع في وزارة التخطيط تناقش آليات المشاركة في يوم الوظيفة الوطني",
+    "url": "https://mop.gov.iq/archives/36827",
+    "published": "2026-03-02T04:27:55+00:00",
+    "fetched_at": "2026-03-02T04:42:00.828455+00:00",
+    "source_name": "Iraq Ministry of Planning",
+    "source_category": "state",
+    "language": "ar",
+    "region": "middle_east",
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
+  },
+  {
     "id": "e2efe023f3f6da24",
     "title_original": "Morning recap",
     "content_original": "Morning recap Good morning, Middle East Eye readers. Events are still unfolding rapidly across the Middle East, so here's a quick recap: President Donald Trump has suggested that the Israeli-US war on Iran could continue for up to a month. The United Kingdom has agreed to a US request to use British military bases for what Prime Minister Keir Starmer claimed are “defensive” strikes on Iranian missile sites. Mass displacement has been reported in south Lebanon after Israeli attacks as Hezbollah joins the war. More than 20 people were killed in a US-Israeli attack&nbsp;on Tehran’s Niloofar Square, as explosions were heard across the capital. &nbsp; The death toll from the US-Israeli strike on a girls’ school in Minab has climbed to 180.&nbsp; Iran’s Foreign Minister Abbas Araghchi has dismissed Trump’s warning against retaliation, vowing that Tehran will place “no limit” on its right to defend itself.&nbsp; The US military says it has hit more than 1,000 targets across Iran since launchi...",
@@ -912,6 +940,23 @@
     "translated": true,
     "relevant": true,
     "summary_en": "Israeli officials have warned of a harsh military response following shooting attacks by Hezbollah forces. The statement indicates potential escalation along Israel's northern border with Lebanon, where Hezbollah (an Iran-linked proxy) has been conducting ongoing operations against Israeli positions."
+  },
+  {
+    "id": "da57a7daa7be5716",
+    "title_original": "Pentagon tells Congress no sign that Iran was going to attack US first, sources say",
+    "content_original": "By Phil Stewart and Humeyra Pamuk WASHINGTON, March 1 (Reuters) - Trump administration officials acknowledged in closed-door briefings with congressional staff on Sunday that there was no intelligence suggesting Iran planned to attack U.S. forces first, two people familiar with the matter said. The United States and Israel launched their most ambitious attacks on Iran in decades on Saturday, killing Supreme Leader Ayatollah Ali Khamenei, sinking Iranian warships and hitting more than 1,000 targets so far, officials say.",
+    "url": "https://www.al-monitor.com/originals/2026/03/pentagon-tells-congress-no-sign-iran-was-going-attack-us-first-sources-say",
+    "published": "2026-03-01T23:36:37-05:00",
+    "fetched_at": "2026-03-02T04:41:41.878895+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Pentagon tells Congress no sign that Iran was going to attack US first, sources say",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Trump administration officials acknowledged in closed-door congressional briefings that there was no intelligence suggesting Iran planned to attack U.S. forces first, according to sources. The US launched its most ambitious attacks on Iran in decades on Saturday, killing Supreme Leader Ayatollah Ali Khamenei, sinking Iranian warships, and hitting over 1,000 targets. This raises questions about the justification for the preemptive US strikes and represents a major escalation in the conflict."
   },
   {
     "id": "42fc9e40692834f2",

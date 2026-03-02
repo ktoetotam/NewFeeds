@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T04-37-21.084561_plus_00-00.json",
+    "generated_at": "2026-03-02T04:37:21.084561+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 829,
+    "summary_preview": "The Iran-US conflict has reached a critical inflection point with confirmed US casualties (3 troops killed) and the killing of Iran's Supreme Leader Khamenei in joint US-Israeli strikes on Tehran. The"
+  },
+  {
     "filename": "2026-03-02T03-58-56.337046_plus_00-00.json",
     "generated_at": "2026-03-02T03:58:56.337046+00:00",
     "threat_label": "MAJOR",

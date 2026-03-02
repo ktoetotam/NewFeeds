@@ -112,6 +112,85 @@
     "lng": 51.39
   },
   {
+    "id": "99e513d013e24e9a",
+    "title_original": "Qatar, UAE, Syria, Oman: Full list of places that saw attacks amid US-Iran conflict",
+    "content_original": "The Middle East is engulfed in conflict as Iran retaliates against US-Israeli strikes, launching missile and drone attacks across multiple countries.&nbsp;",
+    "url": "https://www.hindustantimes.com/world-news/qatar-uae-syria-oman-full-list-of-places-that-saw-attacks-amid-us-iran-conflict-101772423641956.html",
+    "published": "2026-03-02T09:52:43+05:30",
+    "fetched_at": "2026-03-02T04:42:31.655974+00:00",
+    "source_name": "Hindustan Times World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Qatar, UAE, Syria, Oman: Full list of places that saw attacks amid US-Iran conflict",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched missile and drone attacks across multiple Middle Eastern countries including Qatar, UAE, Syria, and Oman as retaliation against US-Israeli strikes. The attacks represent a significant escalation in the regional conflict, with Iranian assets targeting US military infrastructure and allied territories across the Gulf region. The widespread geographic scope demonstrates Iran's ability to project power through proxy forces and direct strikes while expanding the theater of operations beyond just Iraq and Syria.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "proxy",
+      "missile",
+      "drone",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Qatar",
+        "UAE",
+        "Syria",
+        "Oman",
+        "Israel"
+      ],
+      "location": "Middle East",
+      "brief": "Iran launched missile and drone attacks targeting US military infrastructure in Qatar, UAE, Syria, and Oman as retaliation for US-Israeli strikes, marking a significant escalation in regional conflict."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "57d6d303d9d56434",
+    "title_original": "Satellite images show impact of Iran missile and drone attacks on Dubai",
+    "content_original": "Following the killing of its Supreme Leader, Iran launched retaliatory strikes across the Middle East, targeting American military bases and Israel. Dubai, a symbol of modern opulence, was also hit, with iconic landmarks like the Burj Al Arab and vital infrastructure such as Dubai International Airport sustaining damage amidst widespread attacks.",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/satellite-images-show-impact-of-iran-missile-and-drone-attacks-on-dubai/articleshow/128935750.cms",
+    "published": "2026-03-02T09:45:59+05:30",
+    "fetched_at": "2026-03-02T04:42:31.344750+00:00",
+    "source_name": "Times of India World",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Satellite images show impact of Iran missile and drone attacks on Dubai",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched retaliatory missile and drone strikes on Dubai following the killing of its Supreme Leader, with satellite imagery showing damage to iconic landmarks including the Burj Al Arab and critical infrastructure at Dubai International Airport. The attack represents a significant escalation targeting a key Gulf financial and logistics hub with substantial US military presence.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "attack",
+      "missile",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us|ballistic_missile|drone_strike",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "Dubai, UAE (Middle East/Gulf)",
+      "brief": "Iran launched retaliatory missile and drone strikes on Dubai following the killing of its Supreme Leader, damaging the Burj Al Arab and critical infrastructure at Dubai International Airport, marking a significant escalation in Iran-US tensions."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
     "id": "6389a7895e39c83a",
     "title_original": "U.S., Israel pound Iran as Trump signals willingness to talk to new leadership after Khamenei’s death",
     "content_original": "Iraqi Shia militia Saraya Awliya al-Dam claimed a drone attack targeting U.S. troops at the airport in Iraq's capital, Baghdad, further widening the retaliation over the killing of Khamenei",
@@ -191,6 +270,44 @@
     "lng": 57.08
   },
   {
+    "id": "9d27cd47ea76f7c9",
+    "title_original": "Иран подтвердил гибель главнокомандующего армией, главы КСИР и министра обороны",
+    "content_original": "Иран подтвердил гибель главнокомандующего армией, главы КСИР и министра обороны",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26605823",
+    "published": "2026-03-02T07:38:41+03:00",
+    "fetched_at": "2026-03-02T04:41:16.335805+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Confirms Death of Army Commander-in-Chief, IRGC Chief and Defense Minister",
+    "relevant": true,
+    "summary_en": "Iran has confirmed the deaths of its army commander-in-chief, the head of the Islamic Revolutionary Guard Corps (IRGC), and the defense minister. These represent major losses of top military leadership during the ongoing Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "deaths",
+      "irgc",
+      "death",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Iran",
+      "brief": "Iran confirms death of army commander-in-chief, IRGC chief, and defense minister during ongoing Iran-US armed conflict."
+    },
+    "merged_source_count": 4,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "54c900ed0a510997",
     "title_original": "Pakistan urges restraint as missiles rain down on Gulf",
     "content_original": "• PM speaks to Jordan, Bahrain rulers, offers support to restore calm; Dar contacts Omani, Iraqi counterparts • Loud blasts heard in Dubai and Doha; Oman hit for first time; multiple Gulf ports targeted • Emirati, Kuwaiti stock markets closed amid crisis • UAE confirms Pakistani national killed by missile debris ISLAMABAD: Amid Ira­nian counterattacks against US assets in the Gulf, Pakistan reached out to the rulers of Jordan and Bahrain via telephone and urged the need for restraint, de-escalation, and dialogue to preserve regional peace and stability. The Gulf states, which house American assets, came under attack after Iran retaliated to joint US-Israeli strikes, which killed its top leadership, including the supreme leader, and scores of citizens. According to the PM Office, the PM held a telephone conversation with Jordan’s King Abdullah II to discuss the evolving regional situation. The two leaders exchanged views on the serious regional developments following the recent escalati...",
@@ -232,6 +349,44 @@
     "lng": 51.53
   },
   {
+    "id": "36dcdb546e92f309",
+    "title_original": "Глава политического крыла «Хезболлы» погиб при ударе Израиля по Бейруту",
+    "content_original": "В результате израильского удара по Ливану погиб глава политического крыла&nbsp;&laquo;Хезболлы&raquo; Мохаммед Раад, сообщают Al-Arabiya и Al-Hadath со ссылкой на источники.",
+    "url": "https://www.rbc.ru/politics/02/03/2026/69a50f229a794764fc9c399b",
+    "published": "2026-03-02T07:31:14+03:00",
+    "fetched_at": "2026-03-02T04:41:23.166113+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Head of Hezbollah's political wing killed in Israeli strike on Beirut",
+    "relevant": true,
+    "summary_en": "Mohammed Raad, head of Hezbollah's political wing, was killed in an Israeli airstrike on Beirut. This marks a significant targeting of senior Hezbollah leadership amid intensified Israeli operations against the group in Lebanon. The strike represents another escalation in the ongoing Israel-Hezbollah conflict, which is connected to the broader Iran-US regional confrontation.",
+    "translated": true,
+    "keyword_matches": 10,
+    "matched_keywords": [
+      "hezbollah",
+      "airstrike",
+      "killed",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Beirut, Lebanon",
+      "brief": "Israeli airstrike killed Mohammed Raad, head of Hezbollah's political wing, marking significant targeting of senior Hezbollah leadership amid intensified Israeli operations in Lebanon."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "4351cc6d87decbd2",
     "title_original": "Khamenei’s assassination brings world to precipice of chaos",
     "content_original": "• Iran confirms supreme leader’s death, declares 40-day mourning • Hospital targeted as Israeli missiles pound Tehran, other areas for second day; retaliatory strikes kill 9 in Israel • US claims sinking 9 Iranian warships, B-2 bombers target missile sites; 3 American troops killed • Shipping paralysed as IRGC closes Strait of Hormuz • Trump says war on Iran ‘could last four weeks’; Tehran still open to talks, insists on ‘no limit’ to self-defence JERUSALEM: The war between Iran and the US-Israel alliance escalated sharply on Sunday after Iran confirmed the assassination of Supreme Leader Ayatollah Ali Khame­nei in a joint US-Israeli airstrike, a move that has plunged the Middle East into its most perilous crisis in decades. As Iranian government declared 40 days of national mourning and seven public holidays following the death of the man who wielded absolute power since 1989, Iranian missiles killed at least nine people in a central Israeli town, while the US and Israel continued bom...",
@@ -268,6 +423,78 @@
       "brief": "Joint US-Israeli airstrike assassinated Iran's Supreme Leader Khamenei, with Israeli missiles continuing to strike Tehran for a second day and Iran retaliating with strikes that killed 9 in Israel."
     },
     "merged_source_count": 3,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "4e7062227241a3e0",
+    "title_original": "СМИ: в результате ударов Израиля на юге Ливана погибли четыре человека",
+    "content_original": "СМИ: в результате ударов Израиля на юге Ливана погибли четыре человека",
+    "url": "https://ria.ru/20260302/udary-2077780490.html",
+    "published": "2026-03-02T07:21:08+03:00",
+    "fetched_at": "2026-03-02T04:41:17.107306+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Media: Four killed in Israeli strikes in southern Lebanon",
+    "relevant": true,
+    "summary_en": "Israeli strikes in southern Lebanon killed four people. The strikes targeted the area as part of ongoing Israeli operations against Hezbollah positions. This represents continued escalation along the Israel-Lebanon border, where Hezbollah (an IRGC proxy) operates.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "proxy",
+      "irgc",
+      "killed",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "IRGC"
+      ],
+      "location": "southern Lebanon",
+      "brief": "Israeli airstrikes in southern Lebanon killed four people in an operation targeting Hezbollah IRGC proxy positions, representing continued escalation along the Israel-Lebanon border."
+    },
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "9c05b4a4641109c8",
+    "title_original": "СМИ: в Тегеране прогремела новая серия взрывов",
+    "content_original": "СМИ: в Тегеране прогремела новая серия взрывов",
+    "url": "https://ria.ru/20260302/vzryvy-2077780132.html",
+    "published": "2026-03-02T07:15:56+03:00",
+    "fetched_at": "2026-03-02T04:41:17.107634+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Media: New Series of Explosions Ring Out in Tehran",
+    "relevant": true,
+    "summary_en": "New explosions have been reported in Tehran, the Iranian capital, according to media reports. The location of these explosions in Tehran, a primary target of US strikes during the current Iran-US armed conflict, carries significant military and strategic implications for the ongoing hostilities between the two nations.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "New series of explosions reported in Tehran, the Iranian capital, during ongoing US-Iran armed conflict with significant military and strategic implications."
+    },
     "lat": 35.69,
     "lng": 51.39
   },
@@ -418,6 +645,77 @@
     "lng": 35.86
   },
   {
+    "id": "432475b6e7f38b28",
+    "title_original": "דיווח באיראן: צה\"ל וצבא ארה\"ב תוקפים בכרמאן ובשיראז",
+    "content_original": "דיווח באיראן: צה\"ל וצבא ארה\"ב תוקפים בכרמאן ובשיראז",
+    "url": "https://mivzakim.net/r/13965293/rss",
+    "published": "2026-03-02T06:34:12+02:00",
+    "fetched_at": "2026-03-02T04:41:29.523483+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Report from Iran: IDF and US Army attacking in Kerman and Shiraz",
+    "relevant": true,
+    "summary_en": "Israeli and US forces are conducting military strikes in the Iranian cities of Kerman and Shiraz, according to reports from Iran. This represents a significant escalation with direct attacks on Iranian civilian infrastructure by US and Israeli military assets inside Iranian territory.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Kerman and Shiraz, Iran",
+      "brief": "Israeli and US forces conducting direct military strikes on civilian infrastructure in Iranian cities Kerman and Shiraz, marking a significant escalation with direct attacks on Iranian territory."
+    },
+    "lat": 29.59,
+    "lng": 52.58
+  },
+  {
+    "id": "432475b6e7f38b28",
+    "title_original": "דיווח באיראן: צה\"ל וצבא ארה\"ב תוקפים בכרמאן ובשיראז",
+    "content_original": "דיווח באיראן: צה\"ל וצבא ארה\"ב תוקפים בכרמאן ובשיראז",
+    "url": "https://mivzakim.net/r/13965293/rss",
+    "published": "2026-03-02T06:34:12+02:00",
+    "fetched_at": "2026-03-02T04:41:30.387004+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Report in Iran: IDF and US Army Attacking in Kerman and Shiraz",
+    "relevant": true,
+    "summary_en": "Israeli Defense Forces (IDF) and US military forces are conducting coordinated attacks on the Iranian cities of Kerman and Shiraz, according to reports from Iran. This represents a significant escalation, as it marks direct strikes on Iranian civilian population centers by US and Israeli forces. The targeting of these two cities suggests a broadening of the conflict beyond military installations to include strategic Iranian urban centers.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "idf",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran (Kerman and Shiraz)",
+      "brief": "US and Israeli forces conducting coordinated strikes on Iranian civilian cities of Kerman and Shiraz, marking direct attacks on Iran by American and Israeli military."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "0376f4d657c0e732",
     "title_original": "Ash-Sharq: штаб отрядов проиранского ополчения атаковали с воздуха в Ираке",
     "content_original": "О возможных жертвах или пострадавших из-за авианалета информации не приводится",
@@ -497,6 +795,44 @@
     "lng": 54.56
   },
   {
+    "id": "ab2f3956c0a014ce",
+    "title_original": "В результате бомбардировок в Южном Бейруте убит видный политик Хизбаллы Мухаммед Раад",
+    "content_original": "В результате бомбардировок в Южном Бейруте убит видный политик Хизбаллы Мухаммед Раад",
+    "url": "https://news.israelinfo.co.il/141626",
+    "published": "2026-03-02T06:28:50+02:00",
+    "fetched_at": "2026-03-02T04:41:26.153247+00:00",
+    "source_name": "IsraelInfo Events",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Prominent Hezbollah Politician Muhammad Raad Killed in Bombings in South Beirut",
+    "relevant": true,
+    "summary_en": "Hezbollah politician Muhammad Raad was killed in Israeli airstrikes targeting southern Beirut. Raad was a senior Hezbollah figure and head of the group's parliamentary bloc. The strike represents a significant escalation in Israeli operations against Hezbollah leadership, which is part of the broader Iran-US conflict front involving Iranian proxies.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "killed",
+      "hezbollah",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "South Beirut, Lebanon",
+      "brief": "Israeli airstrike killed senior Hezbollah politician Muhammad Raad, head of Hezbollah's parliamentary bloc, marking significant escalation in Israeli operations against Hezbollah leadership."
+    },
+    "merged_source_count": 2,
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "acdcd7f9e7d114b1",
     "title_original": "США и Израиль нанесли удары по четырем городам Ирана",
     "content_original": "В четырех городах Ирана прогремели взрывы, передает телеканал &laquo;Аль-Маядин&raquo;.",
@@ -531,6 +867,43 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "6944e03c3b962033",
+    "title_original": "מוחמד רעד, סגנו של מזכ\"ל חיזבאללה, חוסל בתקיפה ישראלית",
+    "content_original": "צה\"ל הודיע במהלך הלילה כי \"מחבלים בכירים\" הותקפו • לפני כשנה מונה לסגנו של נעים קאסם • בנו חוסל בתקיפה ישראלית ב-2023",
+    "url": "https://mivzakim.net/r/13965270/rss",
+    "published": "2026-03-02T06:17:58+02:00",
+    "fetched_at": "2026-03-02T04:41:29.525378+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Muhammad Raad, deputy secretary-general of Hezbollah, eliminated in Israeli strike",
+    "relevant": true,
+    "summary_en": "Israeli forces eliminated Muhammad Raad, the deputy secretary-general of Hezbollah, in an overnight strike. He was appointed to the position approximately one year ago and previously lost his son in an Israeli strike in 2023. This represents a significant targeting of Hezbollah's senior leadership amid ongoing hostilities.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "hezbollah",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Lebanon",
+      "brief": "Israeli airstrike eliminated Muhammad Raad, deputy secretary-general of Hezbollah, in significant targeting of senior leadership."
+    },
+    "merged_source_count": 6,
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "861c93e603c52502",
@@ -2101,6 +2474,41 @@
     "lng": 35.3
   },
   {
+    "id": "52195aa6ca0382c8",
+    "title_original": "The US military briefly acknowledged an Iranian strike on Haifa's oil refinery before deleting the post on X @PressTV",
+    "content_original": "The US military briefly acknowledged an Iranian strike on Haifa's oil refinery before deleting the post on X @PressTV",
+    "url": "https://t.me/presstv/177570",
+    "published": "2026-03-02T04:34:57+00:00",
+    "fetched_at": "2026-03-02T04:42:50.274491+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "US Military Briefly Acknowledged Iranian Strike on Haifa Oil Refinery Before Deleting Post",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The US military briefly acknowledged an Iranian strike on Haifa's oil refinery before deleting the post from their X account. This represents a significant development as it would confirm direct Iranian attacks on Israeli civilian energy infrastructure. The deletion of the acknowledgment itself is notable, suggesting either confusion within US channels or an attempt to manage escalation messaging around the strikes.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "United States"
+      ],
+      "location": "Haifa, Israel",
+      "brief": "Iranian strike on Haifa oil refinery represents direct attack on Israeli civilian energy infrastructure, with US military briefly acknowledging before deletion."
+    },
+    "lat": 32.79,
+    "lng": 34.99
+  },
+  {
     "id": "3d3a9b900aedbb45",
     "title_original": "הפיצוצים במרכז, והאיתות של חיזבאללה",
     "content_original": "צועדים על חבל דק, בין המחויבות לאיראנים לרצון לא להסתבך במערכה הרסנית: השיגורים מלבנון למרכז והירי לצפון שלא גרם לפגיעות, נועדו להראות שחיזבאללה עושה \"מחווה\" של השתתפות במערכה - אבל רוצה לסגור את העניין. הביקורת בתוך לבנון שהובילה לכך, והשאלה אם ישראל תיענה לאיתותים של ארגון הטרור",
@@ -2214,6 +2622,46 @@
     "merged_source_count": 2,
     "lat": 33.85,
     "lng": 35.86
+  },
+  {
+    "id": "5a2e7e2c0da32b27",
+    "title_original": "#إيران   حرس الثورة الإسلامية: تم رصد وتعقّب طائرة مسيّرة أمريكية متطورة من طراز «إم كيو 9» (MQ-9) في أجواء أصفهان بو...",
+    "content_original": "#إيران حرس الثورة الإسلامية: تم رصد وتعقّب طائرة مسيّرة أمريكية متطورة من طراز «إم كيو 9» (MQ-9) في أجواء أصفهان بواسطة المنظومة الدفاعية للبلاد، وتم إسقاطها وتدميرها. #الإعلام_الحربي",
+    "url": "https://t.me/Electrohizbullah/156999",
+    "published": "2026-03-02T04:13:25+00:00",
+    "fetched_at": "2026-03-02T04:43:00.643722+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC: Advanced American MQ-9 Drone Shot Down in Isfahan Airspace",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps claims it tracked and shot down an advanced American MQ-9 Reaper drone in Isfahan province using Iran's air defense system. If confirmed, this would represent another escalation in the ongoing Iran-US conflict and demonstrate Iran's capability to target US surveillance and strike assets operating near Iranian territory.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "drone",
+      "irgc",
+      "air defense",
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "Iran",
+        "United States"
+      ],
+      "location": "Isfahan province, Iran",
+      "brief": "IRGC claims to have shot down an American MQ-9 Reaper drone in Isfahan province using Iran's air defense system, representing direct US-Iran military engagement."
+    },
+    "merged_source_count": 2,
+    "lat": 32.65,
+    "lng": 51.68
   },
   {
     "id": "677d1147a3dcb641",
