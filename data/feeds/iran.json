@@ -17,6 +17,23 @@
     "translated": true
   },
   {
+    "id": "861c93e603c52502",
+    "title_original": "حزب الله: استهدفنا جنوب حيفا ثأرا لدم الإمام الخامنئي",
+    "content_original": "أعلن حزب الله في بيان، أن المقاومة استهدفت بصلية من الصواريخ موقع مشمار الكرمل للدفاع الصاروخي التابع لجيش العدو جنوب حيفا....",
+    "url": "https://www.alalam.ir/news/7420818",
+    "published": "2026-03-02T06:03:31+00:00",
+    "fetched_at": "2026-03-02T03:35:42.316469+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Hezbollah: We targeted south of Haifa in revenge for Imam Khamenei's blood",
+    "relevant": true,
+    "summary_en": "Hezbollah announced that its forces fired a rocket salvo at the Karmel Shaar missile defense site belonging to the Israeli military south of Haifa. The statement specified the attack was carried out in revenge for the blood of Imam Khamenei, likely referring to recent strikes that killed Iranian officials. This marks another direct Hezbollah attack on Israeli territory as part of the escalating Iran-US conflict and its associated regional fronts.",
+    "translated": true
+  },
+  {
     "id": "179d9bd7545029d7",
     "title_original": "عراقجي يوجّه رسالة الى الامم المتحدة ومجلس الامن حول استشهاد قائد الثورة",
     "content_original": "وجّه وزير الخارجية الايراني عباس عراقجي رسالة الى منظمة الامم المتحدة ومجلس الامن الدولي اثر العدوان الاميركي الصهيوني على ايران واستشهاد قائد الثورة...",
@@ -80,6 +97,48 @@
     "relevant": true,
     "summary_en": "UNESCO strongly condemned the Israeli (Zionist) attack on a girls' elementary school in southern Iran, calling it a serious violation of international laws. The organization described the attack as a brutal crime. This incident represents direct Israeli military action against Iranian civilian infrastructure, expanding the scope of hostilities beyond the established US-Iran military exchanges.",
     "translated": true
+  },
+  {
+    "id": "7c1d21ef93a55885",
+    "title_original": "Iran strongly alarms UN about dire consequences for perpetrators following Leader's martyrdom",
+    "url": "https://presstv.ir/Detail/2026/03/02/764877/Iran-warning-United-Nations-United-States-Israel-Leader-martyrdom",
+    "published": "2026-03-02T03:35:41.866504+00:00",
+    "fetched_at": "2026-03-02T03:35:41.866506+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "54a00ac580844fe0",
+    "title_original": "Civilians, including women and children, were targeted in intense airstrikes by the US and Israel against Iran. @PressTV",
+    "url": "https://t.me/presstv/177562",
+    "published": "2026-03-02T03:30:32+00:00",
+    "fetched_at": "2026-03-02T03:38:15.830164+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "fd2f32fd30b162c5",
+    "title_original": "Ansarullah mourns Leader's martyrdom as 'great loss' caused by 'most wretched terrorists' Yemen’s Ansarullah resistan...",
+    "url": "https://t.me/presstv/177561",
+    "published": "2026-03-02T03:15:41+00:00",
+    "fetched_at": "2026-03-02T03:38:15.829419+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
   },
   {
     "id": "63bcb7502dc7f2ad",

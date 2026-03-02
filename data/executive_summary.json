@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-02T03:32:08.248070+00:00",
+  "generated_at": "2026-03-02T03:58:56.337046+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 805,
-    "incident_count_6h": 224,
+    "incident_count_24h": 818,
+    "incident_count_6h": 230,
     "severity_breakdown": {
-      "major": 359,
-      "high": 288,
-      "medium": 155,
+      "major": 363,
+      "high": 290,
+      "medium": 162,
       "low": 3
     }
   },
   "source_count": {
-    "attacks_analyzed": 171,
-    "articles_analyzed": 130,
+    "attacks_analyzed": 161,
+    "articles_analyzed": 161,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -31,55 +31,61 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has entered a critical new phase with the war now spreading across multiple fronts. Iran's Supreme Leader Khamenei is confirmed dead, three US troops have been killed, and Hezbollah has formally entered the conflict launching attacks on Israel from Lebanon. The Strait of Hormuz is effectively closed following IRGC strikes on Western tankers, while Bahrain and Kuwait have been directly targeted. Over 1,000 US strikes on Iranian targets have been conducted, and Israeli attacks have killed over 180 children at a girls' school in Iran.",
+  "executive_summary": "The Iran-US conflict has reached a new escalation threshold with IRGC claiming to strike the USS Abraham Lincoln carrier with ballistic missiles — the first known Iranian attack on a US aircraft carrier. Hezbollah has formally entered the war with attacks on Israeli missile defense sites near Haifa. Iranian strikes have expanded to Bahrain (offshore facility, ship fire killing 1), while Israel continues strikes on Tehran. UK has authorized US use of British bases for strikes on Iranian missile capabilities. The Strait of Hormuz remains effectively closed with multiple tanker attacks.",
   "whats_new": [
-    "Hezbollah formally declares war on Israel, launching rockets and drones at Haifa in retaliation for Khamenei's killing — opening a new front from Lebanon",
-    "IRGC claims strikes on 3 US/UK oil tankers in Strait of Hormuz, escalating threat to global energy shipping",
-    "Bahrain reports Iranian attack on offshore facility near Salman Port — targeting key US Gulf ally",
-    "Israeli airstrike on girls' school in Minab, Iran kills approximately 180 children (UNESCO condemns attack)",
-    "Kuwait activates air raid sirens; first Iranian missile attacks on Kuwaiti territory reported",
-    "US officials fear potential suicide attacks in Tel Aviv and Jerusalem as retaliation threat",
-    "Israeli forces strike Beirut southern suburbs (Hezbollah stronghold) following Hezbollah attacks"
+    "IRGC claims ballistic missile strike on USS Abraham Lincoln carrier — first known Iranian attack on US aircraft carrier",
+    "Israeli-American airstrikes target Yazd and Isfahan in central Iran, expanding strikes beyond previous targets",
+    "Hezbollah formally enters war, announces targeting of Israeli missile defense site south of Haifa",
+    "Iranian missile hits Al-Makassed Arab Hospital in East Jerusalem — direct strike on medical infrastructure",
+    "Bahrain: Iranian missile debris causes deadly ship fire at Mina Salman port, 1 killed, 2 injured",
+    "Kuwait: Air raid sirens activated at US Ali Al Salem Air Base — first defensive alert in Kuwait",
+    "UK authorizes US to use British bases for limited strikes on Iranian missile storage and launchers",
+    "UNESCO condemns Israeli attack on girls' school in Minab, Iran — death toll now reported at 148-180"
   ],
   "confirmed_events": [
-    "Khamenei confirmed dead — Iran declares 40-day mourning, power vacuum at top of Iranian command structure",
-    "Three US troops killed, five wounded in Iranian retaliatory strikes on US bases in Iraq/Syria region — first direct US casualties",
-    "UK authorizes US use of British bases for strikes on Iranian missile capabilities — direct European military involvement",
-    "Strait of Hormuz effectively closed — IRGC controls shipping lanes, global oil supply severely disrupted",
-    "Iran launched 9th wave of ballistic missiles targeting Israeli cities (Tel Aviv, Haifa, Jerusalem) — dozens killed in Israel"
+    "Iran's Supreme Leader Khamenei confirmed dead — Iran declared 40-day mourning period",
+    "3 US troops killed, 5 wounded in Iranian retaliatory strikes on US bases in Iraq/Syria region — first direct US casualties",
+    "IRGC strikes 3 US/British oil tankers attempting to exit Persian Gulf through Strait of Hormuz",
+    "Hezbollah opens new front against Israel — rockets and drones target Haifa missile defense site",
+    "Bahrain: Iranian attack on offshore facility near Salman Port; missile debris causes ship fire, 1 dead",
+    "Israeli strikes on Tehran's Niloofar Square kill over 20 civilians including children at school",
+    "US has conducted over 1,000 strikes targeting Iranian assets since conflict began",
+    "Israeli attack on girls' school in Minab, Iran kills approximately 148-180 children"
   ],
   "unverified_emerging": [
-    "Israeli denial of striking girls' school in Minab — Iran claims 180 killed, US/Israel 'not aware' of such strike (source: Israeli military statement)",
-    "Dugin (Putin-linked strategist) warns of World War 3 if Iran falls — signals potential Russian involvement (source: Hindustan Times)",
-    "US intelligence fears suicide attacks on American soil as retaliation — unconfirmed threat assessment (source: Israel media citing US officials)",
-    "Reports of Israeli/US attacks on Tabriz in northwestern Iran — expanding strike geography (source: Israeli media)"
+    "Russian strategist Dugin warns of World War 3 if Iran falls, signals potential Kremlin involvement (single source: Hindustan Times)",
+    "Israel military states 'not aware' of any Israeli/US strike on school in Minab — claims may be Iranian disinformation",
+    "Trump claims 'they tried to kill me twice, well — I caught Khamenei once' — unverified statement on assassination",
+    "Report: US and Israel attacked Iran approximately one week later than originally planned (single source: RIA Novosti)"
   ],
   "operational_impacts": {
     "people_travel": [
       "Cathay Pacific suspends Hong Kong-Dubai flights until Thursday, Hong Kong-Riyadh until Tuesday — 37 flights affected",
-      "Dubai and Abu Dhabi stock exchanges closed for two days — unprecedented market shutdown",
-      "Air raid sirens activated in Kuwait — civilian population under missile threat"
+      "Air raid sirens in Kuwait indicate heightened threat to US military personnel at Ali Al Salem Air Base",
+      "Red Color rocket alert issued for Achziv Beach in northern Israel — incoming threat from Lebanon"
     ],
     "supply_chain": [
-      "Strait of Hormuz effectively closed — global oil supply chain severely disrupted, $82/barrel (14-month high)",
-      "IRGC strikes on tankers in Hormuz further threaten maritime shipping routes",
-      "Gulf ports under missile attack — Salman Port (Bahrain), potential further port disruptions"
+      "Strait of Hormuz effectively closed — IRGC strikes on tankers paralyzing shipping",
+      "Dubai and Abu Dhabi stock markets closed for two days trading suspension",
+      "Mina Salman port in Bahrain targeted — key Gulf maritime infrastructure under attack",
+      "Kuwaiti and Emirati stock markets closed amid escalating crisis"
     ],
     "market_macro": [
-      "Oil prices surge 13% to $82/barrel — highest in 14 months",
-      "Dubai/Abu Dhabi stock markets suspend trading for two days",
-      "Emirati and Kuwaiti stock markets close amid escalating crisis"
+      "Dubai Financial Market and Abu Dhabi Securities Exchange halt trading for two days — unprecedented market shutdown",
+      "Regional markets in freefall as Gulf states directly targeted",
+      "Economic disruption spreading beyond immediate conflict zones — Pakistan urges restraint, Oman hit for first time"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "The conflict will continue escalating over the next 24-72 hours. With Khamenei's death, Iran is likely to authorize even more aggressive retaliatory strikes through the IRGC, while Hezbollah's formal entry adds a significant new front. US and Israeli forces will continue strikes on Iranian territory, with the 1,000+ targets already hit expanding. The Strait of Hormuz closure will persist, maintaining severe oil supply disruptions. Civilian casualties on both sides (particularly the school attack) may further radicalize Iranian public opinion and harden negotiating positions.",
+    "base_case": "The conflict will likely continue escalating over the next 24-72 hours. With Khamenei's death confirmed, Iran is expected to pursue revenge operations through proxies (Hezbollah, Houthis, IRGC) while US/Israel intensify strikes on Iranian military infrastructure. The IRGC carrier strike, if confirmed, represents a major threshold that will likely trigger further US retaliation. Hezbollah's formal entry creates a third major front (Iran, Lebanon, Gulf). Risk of accidental escalation is HIGH.",
     "escalation_risks": [
-      "Russian direct intervention — Dugin's WW3 warning signals Kremlin may feel compelled to act if Iran collapses",
-      "Iranian attacks on Gulf states could widen conflict to include Saudi Arabia, UAE, Qatar",
-      "US domestic political pressure — poll shows Americans overwhelmingly oppose Iran war, may constrain Trump",
-      "Potential Iranian suicide attacks on Israeli or US targets outside the region",
-      "Hezbollah opening full-scale front with Israel could trigger Israeli invasion of Lebanon"
+      "Confirmed IRGC strike on USS Abraham Lincoln carrier triggers major US retaliatory response",
+      "Russian involvement signals — Dugin warning suggests Kremlin may intervene if Iran weakens further",
+      "Iranian strikes on Gulf states (Bahrain, Kuwait, UAE) could draw direct US/Gulf state retaliation",
+      "Hezbollah openingLebanon front expands conflict geographically",
+      "Hospital and school strikes create humanitarian crisis increasing international pressure",
+      "US ammunition shortage concerns may force acceleration or negotiation"
     ],
-    "de_escalation_pathways": "No clear de-escalation pathways visible. Trump offered Iranian forces ultimatum to surrender weapons for immunity — Tehran rejected. Iran insists it will exercise 'no limit' to self-defense. The power vacuum from Khamenei's death makes internal Iranian decision-making uncertain. US officials themselves skeptical that regime change will occur. International mediation unlikely given the intensity of strikes and civilian casualties on both sides. The conflict may grind on for weeks as Trump suggested, with neither side able to claim decisive victory."
+    "de_escalation_pathways": "De-escalation appears unlikely in the immediate 24-72h window. Iran has stated it will exercise 'no limit' to self-defense. Trump has given Iranian forces an ultimatum to surrender weapons or face destruction. The only plausible pathways would be: (1) major Iranian military collapse prompting surrender offer, (2) international mediation from Russia/China intervening to halt escalation, or (3) accidental pause from mutual exhaustion — none appear probable in the near term. The conflict trajectory points toward continued intensification."
   }
 }

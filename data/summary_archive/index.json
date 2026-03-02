@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-02T03-32-08.248070_plus_00-00.json",
+    "generated_at": "2026-03-02T03:32:08.248070+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 805,
+    "summary_preview": "The Iran-US conflict has entered a critical new phase with the war now spreading across multiple fronts. Iran's Supreme Leader Khamenei is confirmed dead, three US troops have been killed, and Hezboll"
+  },
+  {
     "filename": "2026-03-02T02-56-35.109680_plus_00-00.json",
     "generated_at": "2026-03-02T02:56:35.109680+00:00",
     "threat_label": "MAJOR",
