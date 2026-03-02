@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-02T16:16:50.482030+00:00",
+  "generated_at": "2026-03-02T17:10:11.820247+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 781,
-    "incident_count_6h": 155,
+    "incident_count_24h": 779,
+    "incident_count_6h": 156,
     "severity_breakdown": {
-      "major": 359,
-      "high": 244,
-      "medium": 172,
-      "low": 6
+      "major": 352,
+      "high": 246,
+      "medium": 174,
+      "low": 7
     }
   },
   "source_count": {
-    "attacks_analyzed": 99,
-    "articles_analyzed": 127,
+    "attacks_analyzed": 92,
+    "articles_analyzed": 202,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -31,54 +31,55 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has intensified dramatically with Iran launching its 11th wave of attacks targeting 500 US and Israeli military sites, while US operations are projected to last 'several weeks' with Trump warning 'the big wave is yet to come.' Confirmed developments include Iranian downing of three US F-15E jets over Kuwait, an Iranian drone strike on Britain's RAF base in Cyprus, and the Lebanese government banning Hezbollah's military activities—a major proxy rupture. Civilian casualties continue mounting with 555+ Iranians killed since February 28 including 168 children in a school strike, and nine Israelis killed in a synagogue shelter missile strike.",
-  "whats": [
-    "IRGC launches 11th wave of 'True Promise 4' attacks targeting 500 US and Israeli military sites with drones and missiles",
-    "Iranian drone strike confirmed on British RAF Akrotiri base in Cyprus—Cyprus government states the base was directly targeted",
-    "Three US F-15E Strike Eagle jets confirmed downed by Iranian air defense over Kuwaiti airspace—CENTCOM acknowledges loss",
-    "Lebanese government announces immediate ban on Hezbollah military activities, ordering weapons surrender to state",
-    "Pentagon indicates Iran operation could last 'several weeks'; Trump warns 'big wave' of strikes not yet begun",
-    "Jordan announces partial temporary closure of airspace amid regional hostilities",
-    "Arab states (Jordan, Qatar, UAE, Bahrain, Saudi Arabia, Kuwait) jointly condemn Iranian missile attacks as 'serious escalation'"
+  "executive_summary": "The Iran-US conflict has reached a critical inflection point with confirmed deaths of Iran's Supreme Leader Khamenei and his wife in Israeli strikes on Tehran, and US CENTCOM confirming the downing of three F-15E jets over Kuwait. Iran has launched its 11th wave of attacks (Operation True Promise 4) targeting 500+ US and Israeli sites with 700+ drones and hundreds of missiles. The death toll includes four US soldiers killed, while Gulf states are shifting toward active defense against Iranian attacks. Pentagon projects operations lasting 'several weeks' with Trump not ruling out ground troops.",
+  "whats_new": [
+    "Khamenei confirmed dead and his wife died after Israeli strike on Tehran residence (16:40+03:00) — major leadership vacuum",
+    "US CENTCOM confirms Iranian air defense downed three F-15E jets over Kuwait — first confirmed US aircraft losses",
+    "US soldier deaths rise to four from Iranian attacks — direct Iran-US casualties escalate",
+    "Pentagon indicates Iran operations could last 'several weeks'; Trump doesn't rule out boots on ground",
+    "Qatar claims downing two Iranian fighter jets, intercepting 7 missiles and 5 drones — Gulf state directly engages Iran",
+    "Explosion reported at Isfahan nuclear facility amid US-Israeli strikes on Iranian territory",
+    "Spain denies US use of Spanish bases for Iran attacks — NATO ally diplomatic rift emerges"
   ],
   "confirmed_events": [
-    "Four US soldiers confirmed killed in Iranian attacks—CENTCOM confirms combat deaths",
-    "Iranian ballistic missile strikes Israeli PM Netanyahu's office and air force commander site—PM's fate unclear per IRGC statement",
-    "$1 billion AN/FPS-132 missile defense radar at Al-Udeid Air Base, Qatar destroyed by Iranian strike—one of only six globally",
-    "At least 555 Iranians killed, 168 of them children in girls' elementary school strike in Minab—Iranian Red Crescent confirms",
-    "Israeli airstrike on Beit Shemesh synagogue shelter kills 9 Israelis including whole family—Netanyahu visits site"
+    "Confirmed by multiple sources: Iranian air defense shot down three US F-15E jets over Kuwait (CENTCOM acknowledgment)",
+    "Confirmed: Iran Supreme Leader Khamenei killed in US-Israeli strike on Tehran; wife also dead",
+    "Confirmed: At least 555 Iranians killed since February 28 across 131 counties; 168 children in Minab school strike",
+    "UAE successfully intercepted 9 ballistic missiles, 6 cruise missiles, and 148 Iranian drones",
+    "Lebanese government announced ban on Hezbollah's military activities — major proxy rupture"
   ],
   "unverified_emerging": [
-    "Houthi command claims Iranian air defense downed three American fighter jets over Yemen—unconfirmed, conflicts with Kuwait-based reporting",
-    "IRGC claims Netanyahu fate 'shrouded in ambiguity' after missile strike on his office—Netanyahu's current status unverified",
-    "Report of massive explosion at Iranian regime headquarters with unconfirmed Khamenei death footage—Khamenei already confirmed dead in previous cycle"
+    "Explosion at nuclear facility in Isfahan — single source report, unverified damage extent (2026-03-02T17:05+02:00)",
+    "Qatar claims downing two Iranian SU-24 aircraft — Iran has not responded; unconfirmed by independent sources",
+    "IRGC claims 500 US/Israeli targets hit with 700+ drones/missiles — unverified scale, though attacks confirmed",
+    "Hezbollah claims dozens killed in Israeli Dahieh strike; Israeli drone strike on Beirut residential building — casualty numbers unverified"
   ],
   "operational_impacts": {
     "people_travel": [
-      "Jordan airspace partially and temporarily closed to all flights—significant air traffic disruption",
-      "UAE flight operations severely disrupted—most flights to Middle Eastern hubs cancelled",
-      "Jordan, Iraq, Syria airspace affected by conflict—regional aviation chaos"
+      "US embassy in Bahrain suspended operations due to regional tension",
+      "Jordan announced partial/temporary airspace closure — impacting regional flights",
+      "Airspace disruptions across Gulf region: Dubai, Abu Dhabi, Qatar airports affected"
     ],
     "supply_chain": [
-      "Strait of Hormuz shipping effectively halted—critical global oil chokepoint disrupted",
-      "Oil prices surge amid sustained war concerns—energy market volatility escalating",
-      "Red Sea shipping disrupted by Houthi attacks—compounding supply chain pressures"
+      "Major Gulf ports operational but under threat — shipping routes through Strait of Hormuz increasingly contested",
+      "Aramco refinery in Saudi Arabia attacked — potential supply disruption if sustained",
+      "UAE air defenses stretched intercepting 163 Iranian weapons — defense resources being depleted"
     ],
     "market_macro": [
-      "Oil prices soar on sustained war fears—global energy costs rising",
-      "Shipping through Strait of Hormuz effectively blocked—major supply route impact",
-      "Gulf states targeted by over 1,300 Iranian missiles and drones—neutrality becoming untenable"
+      "Oil prices surging on supply disruption fears — Strait of Hormuz transit threat",
+      "Gulf cooperation council states moving toward ending neutrality — potential collective action against Iran",
+      "Russia/China observing — Putin urging ceasefire, while US-China relations potentially complicated by Mideast escalation"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "Conflict entering extended phase with US operations projected for weeks. Iran demonstrating sustained offensive capacity with 11th wave of attacks; Trump signals 'big wave' of US strikes pending. Regional fragmentation accelerating—Lebanon banning Hezbollah removes key Iranian proxy, while Arab states condemn Iranian attacks. Civilian casualties mounting on both sides will intensify international pressure but unlikely to halt operations given stated US objective of 'defeating' Iran.",
+    "base_case": "Conflict entering sustained phase with Pentagon projecting 'several weeks' of operations. Khamenei's death creates leadership vacuum but Iran signals prepared for 'long war' via Larijani. IRGC retaining capacity for continued 500+ target strikes. Gulf states transitioning from neutrality to active defense — Qatar and UAE intercepting Iranian assets directly. Risk of further expansion as Israel continues multi-front operations against Hezbollah while US sustains pressure on Iranian territory.",
     "escalation_risks": [
-      "Iran expands attacks on third countries—Iranian drone on British base in Cyprus signals willingness to target Western assets beyond Gulf",
-      "Nuclear facility strikes—Iran calling on IAEA to condemn attacks on nuclear sites, potential proliferation crisis",
-      "Israeli targeted killings—IRGC targeting Netanyahu directly raises risk of reciprocal Israeli escalation",
-      "Gulf state forced entry into conflict—Arab states may be pushed from neutrality to active involvement",
-      "Russian or Chinese intervention—Putin calling for ceasefire but deeper involvement could reshape conflict dynamics"
+      "Ground troops: Trump not ruling out boots on Iran — potential major escalation",
+      "Nuclear facility damage: IAEA warns of radioactive release scenario requiring evacuation",
+      "Gulf states fully entering conflict: Qatar, UAE, Saudi Arabia moving from defense to active countermeasures",
+      "Hezbollah response: Lebanese government ban may trigger internal conflict between Hezbollah and state",
+      "Israel-Iran direct confrontation: Netanyahu's fate unclear after missile attack on his office"
     ],
-    "de_escalation_pathways": "Limited pathways visible. Omani mediation previously noted but no new diplomatic overtures in current cycle. Putin's ceasefire calls with UAE/Qatar represent only diplomatic signal but unlikely to gain traction given US 'fight to win' stance and Iran's 'prepared for long war'宣言. Sustained civilian casualties and economic disruption (oil prices, shipping) may eventually force pressure but not within 24-72h window."
+    "de_escalation_pathways": "Turkey offering to host talks — potential diplomatic off-ramp. Russia pressing UAE/Qatar for ceasefire — Moscow seeking leverage. However, Khamenei's death significantly reduces de-escalation appetite in Tehran. UK opposition to regime change 'from the sky' provides some diplomatic pressure but limited leverage. Most likely pathway remains military exhaustion after multi-week campaign rather than negotiated settlement."
   }
 }

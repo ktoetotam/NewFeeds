@@ -1,5 +1,44 @@
 [
   {
+    "id": "4d85b57657e041f8",
+    "title_original": "Watch: Beirut rocked by explosions as Israel targets Hezbollah",
+    "content_original": "Watch: Beirut rocked by explosions as Israel targets Hezbollah",
+    "url": "https://www.thehindu.com/shorts/watch-beirut-rocked-by-explosions-as-israel-targets-hezbollah/article70696658.ece",
+    "published": "2026-03-02T21:28:08+05:30",
+    "fetched_at": "2026-03-02T16:22:09.588207+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Watch: Beirut rocked by explosions as Israel targets Hezbollah",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli military forces conducted explosions and airstrikes in Beirut targeting Hezbollah positions and infrastructure. The attacks represent an escalation in Israeli operations against the Iranian proxy group, further expanding the multi-front conflict in the region. This strike on Beirut comes as part of ongoing Israeli campaigns against Hezbollah, which is backed by Iran and forms a key front in the broader Iran-led resistance axis.",
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "proxy",
+      "conflict",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike|proxy_operation|hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Beirut, Lebanon",
+      "brief": "Israeli airstrikes targeted Hezbollah positions in Beirut, representing a significant escalation in Israeli operations against the Iranian proxy group."
+    },
+    "merged_source_count": 2,
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
     "id": "89ad2f681902bd48",
     "title_original": "Watch: ‘We fight to win’: Pete Hegseth issues stark warning to Iran after U.S. strikes",
     "content_original": "U.S. Secretary of War Pete Hegseth delivered a defence of Washington’s military operation in Iran, calling it a “clear, devastating, decisive mission” aimed at destroying missile threats and preventing nuclear weapons.",
@@ -70,6 +109,160 @@
       "location": "Unknown",
       "brief": "Classified by keyword matching (LLM unavailable)"
     }
+  },
+  {
+    "id": "87fb8b367f4db84d",
+    "title_original": "צה\"ל תקף יותר מ-70 מחסני אמצעי לחימה, עמדות שיגור ומשגרים של חיזבאללה",
+    "content_original": "צה\"ל השלים לפני זמן קצר (שני) גל תקיפות נרחב לעבר תשתיות של ארגון הטרור חיזבאללה בדרום לבנון. במסגרת התקיפה, הותקפו יותר מ-70 מטרות של הארגון ובהם מחסני אמצעי לחימה, עמדות שיגור ומשגרים במספר מרחבים. המטרות שהותקפו יועדו לשמש את ארגון הטרור לקדם ולהוציא לפועל מתווי טרור שונים נגד כוחות צה\"ל ואזרחי מדינת ישראל.",
+    "url": "https://mivzakim.net/r/13967882/rss",
+    "published": "2026-03-02T18:13:25+02:00",
+    "fetched_at": "2026-03-02T16:21:07.039778+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Strikes Over 70 Hezbollah Weapons Depots, Launch Positions in Southern Lebanon",
+    "relevant": true,
+    "summary_en": "The IDF completed a large wave of strikes against Hezbollah terrorist infrastructure in southern Lebanon, attacking over 70 targets including weapons depots, launch positions, and multiple launchers across various areas. The targeted infrastructure was intended for the organization to carry out terrorist attacks against IDF forces and Israeli civilians, representing continued Israeli offensive operations against the Iran-linked Lebanese proxy group.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "proxy",
+      "idf",
+      "hezbollah",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "southern Lebanon",
+      "brief": "IDF conducted large-scale strikes against over 70 Hezbollah weapons depots, launch positions and multiple launchers in southern Lebanon."
+    },
+    "merged_source_count": 3,
+    "lat": 33.54,
+    "lng": 35.37
+  },
+  {
+    "id": "4aa081e77e6447e7",
+    "title_original": "Трамп анонсировал большую волну ударов по Ирану",
+    "content_original": "Трамп анонсировал большую волну ударов по Ирану",
+    "url": "https://ria.ru/20260302/tramp-2077978065.html",
+    "published": "2026-03-02T18:09:47+03:00",
+    "fetched_at": "2026-03-02T15:18:36.079091+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Trump announces major wave of strikes on Iran",
+    "relevant": true,
+    "summary_en": "US President Trump has announced a major wave of strikes against Iran, signaling a significant escalation in the ongoing Iran-US armed conflict. The announcement comes amid continued Iranian ballistic missile and drone attacks on US bases and assets in the Middle East. This represents a substantial intensification of US military operations against Iranian targets, potentially including nuclear facilities and IRGC assets.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "nuclear",
+      "missile",
+      "irgc",
+      "drone",
+      "ballistic",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "Trump announces major wave of strikes on Iran, signaling significant escalation in direct US-Iran armed conflict"
+    },
+    "merged_source_count": 5,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "e60f83f3dc9c11d4",
+    "title_original": "На Кипре уточняют происхождение БПЛА, атаковавших британскую военную базу",
+    "content_original": "На Кипре уточняют происхождение БПЛА, атаковавших британскую военную базу",
+    "url": "https://ria.ru/20260302/kipr-2077977461.html",
+    "published": "2026-03-02T18:07:26+03:00",
+    "fetched_at": "2026-03-02T15:18:36.079680+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Cyprus investigating origin of drones that attacked British military base",
+    "relevant": true,
+    "summary_en": "Cyprus authorities are investigating the origin of unmanned aerial vehicles (UAVs) that struck a British military base on the island. The attack on British military infrastructure in the Eastern Mediterranean could represent an escalation of Iranian proxy operations targeting Western forces in the region, potentially linked to the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "proxy",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Iranian_proxies",
+        "United_Kingdom",
+        "Cyprus"
+      ],
+      "location": "Cyprus",
+      "brief": "Cyprus investigating drone attack on British military base potentially linked to Iranian proxy operations targeting Western forces in Eastern Mediterranean."
+    },
+    "lat": 34.9174159,
+    "lng": 32.8899027
+  },
+  {
+    "id": "cea3b2b2ca0d4b97",
+    "title_original": "קטאר: הפלנו שני מטוסי קרב SU-24 שהגיעו מאיראן",
+    "content_original": "קטאר: הפלנו שני מטוסי קרב SU-24 שהגיעו מאיראן",
+    "url": "https://mivzakim.net/r/13967851/rss",
+    "published": "2026-03-02T18:06:23+02:00",
+    "fetched_at": "2026-03-02T16:21:07.042353+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Qatar: We shot down two SU-24 combat aircraft that came from Iran",
+    "relevant": true,
+    "summary_en": "Qatar has announced that its air defense forces shot down two SU-24 combat aircraft that entered Qatari airspace from Iran. The incident represents a significant escalation as a US-aligned Gulf state directly engaged Iranian military aircraft. Qatar hosts the major Al Udeid Air Base, a key US military hub in the region, making this shootdown potentially tied to the broader Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "shootdown",
+      "conflict",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Qatar",
+        "Iran",
+        "United States"
+      ],
+      "location": "Qatar airspace",
+      "brief": "Qatar shot down two Iranian SU-24 combat aircraft that entered Qatari airspace, marking direct engagement between a US-aligned Gulf state and Iranian military forces."
+    },
+    "lat": 25.33,
+    "lng": 51.23
   },
   {
     "id": "453596061fdd0cd7",
@@ -146,6 +339,301 @@
     "lng": 52.0
   },
   {
+    "id": "289d4630a94d84fa",
+    "title_original": "КСИР: Иран за 48 часов атаковал 60 стратегических целей",
+    "content_original": "КСИР: Иран за 48 часов атаковал 60 стратегических целей",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26617397",
+    "published": "2026-03-02T18:03:29+03:00",
+    "fetched_at": "2026-03-02T15:18:35.646277+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "IRGC: Iran Attacked 60 Strategic Targets in 48 Hours",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) announced that Iran has attacked 60 strategic targets within a 48-hour period. This represents a significant escalation in Iran's military operations against the United States and its allies in the region, demonstrating Tehran's willingness to conduct high-intensity, multi-target strikes as part of its ongoing retaliation for US strikes on Iranian assets.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "United States",
+        "US allies"
+      ],
+      "location": "Middle East/Gulf region",
+      "brief": "Iran announced IRGC attacked 60 strategic targets against the US and its allies within 48 hours, representing a major escalation in direct Iranian military operations."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "dabad53b7ecb7aee",
+    "title_original": "צה\"ל תקף יותר מ-70 מחסני אמצעי לחימה, עמדות שיגור ומשגרים של חיזבאללה",
+    "content_original": "צה\"ל תקף יותר מ-70 מחסני אמצעי לחימה, עמדות שיגור ומשגרים של חיזבאללה",
+    "url": "https://mivzakim.net/r/13967835/rss",
+    "published": "2026-03-02T18:01:56+02:00",
+    "fetched_at": "2026-03-02T16:21:07.043517+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF strikes over 70 weapons depots, launch positions and launchers of Hezbollah",
+    "relevant": true,
+    "summary_en": "The Israel Defense Forces (IDF) struck more than 70 weapons depots, launch positions, and launchers belonging to Hezbollah in Lebanon. The attack targeted Hezbollah's military infrastructure as part of ongoing hostilities along the northern border. This represents a significant escalation in Israel's campaign against Hezbollah, which is one of Iran's primary proxy forces in the region.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "proxy",
+      "idf",
+      "attack",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Lebanon",
+      "brief": "Israel Defense Forces struck over 70 Hezbollah weapons depots, launch positions and launchers in Lebanon, representing a significant escalation in ongoing hostilities along the northern border."
+    },
+    "merged_source_count": 6,
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "bd5f026cc7d855f0",
+    "title_original": "Ракетные тревоги по всему центру Израиля",
+    "content_original": "Ракетные тревоги по всему центру Израиля",
+    "url": "https://news.israelinfo.co.il/141644",
+    "published": "2026-03-02T18:01:24+02:00",
+    "fetched_at": "2026-03-02T16:21:03.974606+00:00",
+    "source_name": "IsraelInfo Events",
+    "source_category": "independent",
+    "language": "ru",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Rocket alerts across central Israel",
+    "relevant": true,
+    "summary_en": "Rocket air raid sirens were activated across central Israel, indicating an incoming rocket attack. The alerts cover the Tel Aviv metropolitan area and surrounding central regions, suggesting a significant rocket salvo targeting Israeli population centers, likely from Hezbollah positions in Lebanon or Palestinian militants in Gaza.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "rocket",
+      "raid",
+      "attack",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Central Israel, Tel Aviv metropolitan area",
+      "brief": "Rocket air raid sirens activated across central Israel including Tel Aviv area, indicating incoming rocket attack from Hezbollah positions in Lebanon."
+    },
+    "merged_source_count": 2,
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "9e4b0973426c2006",
+    "title_original": "Иран заявил о нанесении ударов по 500 военным пунктам США и Израиля",
+    "content_original": "Иран заявил о нанесении ударов по 500 военным пунктам США и Израиля",
+    "url": "https://ria.ru/20260302/iran-2077974759.html",
+    "published": "2026-03-02T18:01:19+03:00",
+    "fetched_at": "2026-03-02T15:18:36.080458+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Claims to Have Struck 500 Military Points of USA and Israel",
+    "relevant": true,
+    "summary_en": "Iran has claimed responsibility for strikes on 500 military installations belonging to the United States and Israel, representing a significant escalation in the ongoing Iran-US conflict. The claim suggests widespread coordinated attacks across multiple theaters, though specific details of locations, timing, and actual casualties remain to be verified. This assertion marks one of Iran's most expansive strike announcements since the conflict began, indicating a substantial expansion of hostilities beyond previous targeted attacks.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Multiple regions (unspecified)",
+      "brief": "Iran claims responsibility for strikes on 500 US and Israeli military installations, representing major escalation in Iran-US conflict"
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "0f9acd05a97fe1eb",
+    "title_original": "Иран ударил по разведывательным центрам США в Персидском заливе",
+    "content_original": "Иран ударил по разведывательным центрам США в Персидском заливе",
+    "url": "https://ria.ru/20260302/iran-2077974594.html",
+    "published": "2026-03-02T18:01:11+03:00",
+    "fetched_at": "2026-03-02T15:18:36.080654+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Iran Strikes US Intelligence Centers in Persian Gulf",
+    "relevant": true,
+    "summary_en": "Iran launched strikes targeting US intelligence centers located in the Persian Gulf region. This attack represents a direct escalation in the ongoing Iran-US armed conflict, with Iran specifically striking American surveillance and intelligence infrastructure in the Gulf. The targeting of US intelligence facilities indicates Iran's strategy to degrade American reconnaissance capabilities in a strategically vital maritime area.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States"
+      ],
+      "location": "Persian Gulf",
+      "brief": "Iran launched direct strikes targeting US intelligence and surveillance infrastructure in the Persian Gulf, marking a significant escalation in US-Iran conflict."
+    },
+    "merged_source_count": 2,
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "3a9e04d2caee08ba",
+    "title_original": "CNN: при атаке на Иран пострадали 18 американских военных",
+    "content_original": "CNN: при атаке на Иран пострадали 18 американских военных",
+    "url": "https://ria.ru/20260302/iran-2077974270.html",
+    "published": "2026-03-02T18:00:14+03:00",
+    "fetched_at": "2026-03-02T15:18:36.080841+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "CNN: 18 American military personnel injured in attack on Iran",
+    "relevant": true,
+    "summary_en": "CNN reports that 18 American military personnel were injured during an attack on Iran. This incident occurs within the context of ongoing US strikes against Iranian targets, including IRGC assets, nuclear facilities, and Iranian territory. The report highlights continued casualties as part of the escalating Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "nuclear",
+      "irgc",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran (territory)",
+      "brief": "18 US military personnel injured during US strike operations against Iranian targets including IRGC assets and nuclear facilities."
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
+    "id": "9fd147b67e668a7c",
+    "title_original": "ניצולת הפגיעה הקטלנית מבית שמש מדברת: \"במקום בר מצווה - הלוויה\"",
+    "content_original": "פנינה כהן, שאיבדה את בעלה יוסף ואת חמותה בלוריה, שיתפה בכאב על עיתוי הפגיעה הקטלנית בבית שמש: \"הבן שלי היום חוגג 13, הוא קובר את אבא שלו\"",
+    "url": "https://mivzakim.net/r/13967831/rss",
+    "published": "2026-03-02T17:59:33+02:00",
+    "fetched_at": "2026-03-02T16:21:07.043887+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Fatality survivor from Be'er Sheva speaks: 'Instead of bar mitzvah - a funeral'",
+    "relevant": true,
+    "summary_en": "Israeli woman Pina Cohen lost her husband Yosef and mother-in-law Bluria in a deadly strike in Be'er Sheva. She described the devastating timing: her son, who turned 13 today (bar mitzvah age), is instead burying his father. This represents another civilian casualty in the ongoing Israel-Hamas conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "hamas",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hamas",
+        "Iranian_proxy"
+      ],
+      "location": "Be'er Sheva, Israel",
+      "brief": "Israeli civilian casualties in deadly strike in Be'er Sheva, with a bar mitzvah boy losing his father and grandmother, representing civilian harm in Israel-Hamas conflict where Hamas is an Iranian proxy."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "e4b78ba5572d9db6",
+    "title_original": "На НПЗ Aramco в Саудовской Аравии началась эвакуация после падения обломков БПЛА",
+    "content_original": "Саудовская нефтегазовая компания Saudi Aramco эвакуирует работников по бурению в пустынных районах после падения обломков сбитых беспилотников на нефтеперерабатывающий завод (НПЗ) компании в Рас-Таннуре. Об этом пишет «РИА Новости» со ссылкой на источник в нефтяной отрасли страны.",
+    "url": "https://www.kommersant.ru/doc/8478323",
+    "published": "2026-03-02T17:55:36+03:00",
+    "fetched_at": "2026-03-02T15:18:40.135783+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Evacuation underway at Saudi Aramco refinery in Saudi Arabia after drone debris falls",
+    "relevant": true,
+    "summary_en": "Saudi Aramco is evacuating drilling workers from desert areas after debris from shot-down drones fell on the company's Ras Tanura refinery. The incident involved drones that were intercepted, with debris landing on the oil facility. This targeting of critical Saudi energy infrastructure comes amid the broader Iran-US conflict and ongoing Houthi operations in the region.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "drone",
+      "houthi",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Saudi Arabia",
+        "Saudi Aramco"
+      ],
+      "location": "Saudi Arabia, Ras Tanura refinery",
+      "brief": "Houthi drones targeted Saudi Aramco's Ras Tanura oil refinery, with intercepted debris forcing evacuation of drilling workers from the desert facility."
+    },
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
     "id": "11fcddef92eb300d",
     "title_original": "طائرة مسيّرة إيرانية تستهدف القاعدة البريطانية في قبرص: الجزيرة لم تكن هدفًا",
     "content_original": "المسيرة نت| متابعات: أكّدت الحكومة القبرصية أن جزيرة قبرص لم تكن هدفًا لأي هجوم، وأن ما وقع مساء أمس الاثنين كان موجّهًا بشكل مباشر إلى القاعدة الجوية البريطانية في أكروتيري.",
@@ -179,6 +667,42 @@
     },
     "lat": 35.1452331,
     "lng": 33.9072906
+  },
+  {
+    "id": "834cc85313c267ea",
+    "title_original": "Explosions heard near Iran's Isfahan, locals report strikes on nuclear, air facilities - report",
+    "content_original": "The explosions came from near a nuclear facility in the central Iranian city, with footage appearing to show smoke rising from an Iranian air force base in the area.",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-888557",
+    "published": "2026-03-02T17:22:41+00:00",
+    "fetched_at": "2026-03-02T16:21:02.810878+00:00",
+    "source_name": "Jerusalem Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "israel",
+    "skip_translation": true,
+    "title_en": "Explosions heard near Iran's Isfahan, locals report strikes on nuclear, air facilities",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Explosions were reported near the central Iranian city of Isfahan, with footage showing smoke rising from an Iranian air force base near a nuclear facility. The source of the strikes was not immediately confirmed, but reports indicate potential targeting of nuclear and air defense infrastructure in what would represent a significant escalation if attributed to Israel or the US.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "nuclear",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "United States (suspected)"
+      ],
+      "location": "Isfahan, Iran",
+      "brief": "Explosions reported near Isfahan with strikes reportedly targeting nuclear and air defense infrastructure, source of attacks unconfirmed but attributed to Israel/US"
+    },
+    "lat": 32.65,
+    "lng": 51.68
   },
   {
     "id": "1f30d37bae8f1e48",
@@ -592,6 +1116,340 @@
     "lng": 51.39
   },
   {
+    "id": "38cab2e901a4664b",
+    "title_original": "⚡ Al Jazeera correspondent: Explosion heard in Erbil",
+    "content_original": "⚡ Al Jazeera correspondent: Explosion heard in Erbil",
+    "url": "https://t.me/warmonitors/40525",
+    "published": "2026-03-02T16:21:31+00:00",
+    "fetched_at": "2026-03-02T16:22:33.567721+00:00",
+    "source_name": "War Monitors (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Al Jazeera correspondent: Explosion heard in Erbil",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "An explosion was reported in Erbil, Iraq, according to an Al Jazeera correspondent. Erbil hosts a significant US military presence and airfield, making any explosions in the area potentially significant within the context of ongoing US-Iran hostilities and Iranian proxy operations in Iraq.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "proxy",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Iraq",
+        "Iranian proxies in Iraq"
+      ],
+      "location": "Erbil, Iraq",
+      "brief": "Explosion reported near US military base in Erbil, Iraq, with Iranian proxy involvement suspected but unconfirmed."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "e05133aff6a7002b",
+    "title_original": "وزارة الدفاع الإماراتية تعلن التعامل بنجاح مع 15 صاروخا و148 طائرة مسيرة إيرانية",
+    "content_original": "أبوظبي في 02 مارس /قنا/ أعلنت وزارة الدفاع الإماراتية أن الدفاعات الجوية تعاملت اليوم بنجاح مع 9 صواريخ باليستية و6 صواريخ جوالة و148 طائرة مسيرة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/وزارة-الدفاع-الاماراتية-تعلن-التعامل-بنجاح-مع-15-صاروخا-و148-طايرة-مسيرة-ايرانية",
+    "published": "2026-03-02T16:21:13.088059+00:00",
+    "fetched_at": "2026-03-02T16:21:13.088068+00:00",
+    "source_name": "QNA General (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "UAE Ministry of Defense announces successful handling of 15 missiles and 148 Iranian drones",
+    "relevant": true,
+    "summary_en": "The UAE Ministry of Defense announced that air defenses successfully intercepted 9 ballistic missiles, 6 cruise missiles, and 148 Iranian drones. This represents a significant Iranian attack on UAE territory, demonstrating the expansion of the Iran-US conflict to include Gulf states beyond the initially targeted US bases in Iraq and Syria.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "ballistic",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE",
+        "United States"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "Iran launched 9 ballistic missiles, 6 cruise missiles, and 148 drones against UAE in major escalation of Iran-US conflict into Gulf states"
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "34667df1b3fe367d",
+    "title_original": "وزارة الدفاع تعلن إسقاط طائرتين والتصدي لـ7 صواريخ باليستية و5 مسيرات قادمات من إيران",
+    "content_original": "الدوحة في 02 مارس /قنا/ أعلنت وزارة الدفاع، اليوم الإثنين، أنها تمكنت بفضل الله أولاً ثم الجاهزية العالية واليقظة الأمنية والتنسيق المشترك بين الجهات المعنية، عن نجاح القوات الجوية الأميرية القطرية في اسقاط طائرتين (SU24) قادمتين من الجمهورية الإسلامية الإيرانية، والتصدي بنجاح ‏لسبعة صواريخ باليستية عن طريق الدفاعات الجوية، وخمس مسيرات عن طريق القوات الجوية الأميرية القطرية والقوات البحرية الأميرية القطرية، استهدفت عدة مناطق في الدولة.",
+    "url": "https://qna.org.qa/ar-QA/News-Area/News/2026-3/2/وزارة-الدفاع-تعلن-اسقاط-طايرتين-والتصدي-لـ7-صواريخ-باليستية-و5-مسيرات-قادمات-من-ايران",
+    "published": "2026-03-02T16:21:11.391810+00:00",
+    "fetched_at": "2026-03-02T16:21:11.391814+00:00",
+    "source_name": "QNA Qatar (Arabic)",
+    "source_category": "state",
+    "language": "ar",
+    "region": "gulf",
+    "skip_translation": false,
+    "title_en": "Qatar Defense Ministry announces downing of two aircraft, interception of 7 ballistic missiles and 5 drones from Iran",
+    "relevant": true,
+    "summary_en": "Qatar's Ministry of Defense announced successful defense operations, with the Qatari Emiri Air Force downing two SU-24 aircraft and intercepting 7 ballistic missiles and 5 drones launched from Iran toward multiple locations in Qatar. The operation involved coordination between air defense, air force, and naval forces. The attack targets Qatar, which hosts the massive Al Udeid Air Base, a key US military hub in the region.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "air defense",
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Qatar",
+      "brief": "Iran launched 2 SU-24 aircraft, 7 ballistic missiles and 5 drones toward Qatar, all of which were intercepted by Qatari air defense forces."
+    },
+    "merged_source_count": 2,
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "babda59057ccf868",
+    "title_original": "موجة صواريخ حيدرية نحو دول الخليج",
+    "content_original": "موجة صواريخ حيدرية نحو دول الخليج",
+    "url": "https://t.me/Electrohizbullah/157172",
+    "published": "2026-03-02T16:20:20+00:00",
+    "fetched_at": "2026-03-02T16:22:36.790219+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Wave of Houthi missiles towards Gulf states",
+    "relevant": true,
+    "summary_en": "Houthi forces have launched a wave of missiles targeting Gulf states. This represents another escalation in the Iran-US conflict, as the Houthis (an IRGC proxy) continue their attacks on US allies and interests in the region. The attacks demonstrate Iran's strategy of using proxy forces to project power and maintain pressure on Gulf states hosting US military assets.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "proxy",
+      "houthi",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "Gulf States",
+        "United States"
+      ],
+      "location": "Gulf region",
+      "brief": "Houthi forces launched missiles at Gulf states, marking another escalation as Iran's proxy continues attacks on US allies."
+    },
+    "lat": 26.0,
+    "lng": 52.0
+  },
+  {
+    "id": "add6bddf2c425732",
+    "title_original": "\"ידעת שמשהו הולך לקרות\": מאות ליוו את יוסי ובלוריה כהן ז\"ל שנהרגו מנפילת הטיל בבית שמש",
+    "content_original": "מאות ליוו את יוסי כהן ואמו בלוריה שנהרגו באירוע נפילת הטיל בבית שמש יחד עם עוד שבעה בני אדם. \"היינו אמורים השבוע לחגוג. במקום זה אנחנו קוברים אותך\" ספדה פנינה, אשתו של יוסי",
+    "url": "https://www.maariv.co.il/news/israel/article-1291121",
+    "published": "2026-03-02T16:19:52+00:00",
+    "fetched_at": "2026-03-02T16:21:02.631715+00:00",
+    "source_name": "Maariv",
+    "source_category": "state-aligned",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "\"You knew something was going to happen\": Hundreds accompany Yossi and Bloria Cohen killed by missile in Bet Shemesh",
+    "relevant": true,
+    "summary_en": "Hundreds attended the funeral of Yossi Cohen and his mother Bloria, killed when a missile struck Bet Shemesh along with seven other victims. The attack occurred during what was supposed to be a celebration week, according to a eulogy from Yossi's wife Penina. The article does not specify the source of the missile, but the strike resulted in multiple casualties in the Israeli city.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "strike",
+      "attack",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack",
+      "severity": "high",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Bet Shemesh, Israel",
+      "brief": "Missile strike in Bet Shemesh, Israel killed nine civilians including Yossi and Bloria Cohen during celebration week."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "b8c1376e6c231914",
+    "title_original": "Extent of destruction in Beit Shemesh following Iran's missile strikes  @PressTV",
+    "content_original": "Extent of destruction in Beit Shemesh following Iran's missile strikes @PressTV",
+    "url": "https://t.me/presstv/177664",
+    "published": "2026-03-02T16:15:13+00:00",
+    "fetched_at": "2026-03-02T16:22:25.921681+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Extent of destruction in Beit Shemesh following Iran's missile strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran launched ballistic missile strikes targeting Beit Shemesh, an Israeli city, as part of its ongoing retaliatory attacks against Israel. The strikes caused significant destruction in the civilian area, marking a notable escalation in Iran's direct military offensive against Israeli territory.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "offensive",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Beit Shemesh, Israel",
+      "brief": "Iran launched ballistic missile strikes causing significant destruction in the Israeli city of Beit Shemesh, marking a notable escalation in Iran's direct military offensive against Israeli territory."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "b65ba8b3c4ad3e6f",
+    "title_original": "🇮🇷 ❌ 🇮🇱  — Missile debris fell on a building in Petah Tikva, Central Israel.",
+    "content_original": "🇮🇷 ❌ 🇮🇱 — Missile debris fell on a building in Petah Tikva, Central Israel.",
+    "url": "https://t.me/CIG_telegram/70112",
+    "published": "2026-03-02T16:13:32+00:00",
+    "fetched_at": "2026-03-02T16:22:31.677403+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Missile debris falls on building in Petah Tikva, Central Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian missile debris fell on a civilian building in Petah Tikva, central Israel, following Iranian ballistic missile launches. This incident indicates continued Iranian attacks on Israeli territory as part of the ongoing Iran-Israel military confrontation, with debris from either the missiles themselves or intercepted warheads striking the Israeli population center.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "ballistic",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Petah Tikva, Central Israel",
+      "brief": "Iranian ballistic missile debris struck a civilian building in central Israel, marking continued Iranian ballistic missile attacks on Israeli territory as part of the ongoing Iran-Israel military confrontation."
+    },
+    "merged_source_count": 2,
+    "lat": 31.9,
+    "lng": 34.8
+  },
+  {
+    "id": "54bba82b76575b4c",
+    "title_original": "IRGC: We have attacked over 500 US and Israeli targets",
+    "content_original": "IRGC: We have attacked over 500 US and Israeli targets Iran's Islamic Revolutionary Guard Corps (IRGC) says it has targeted over 500 US and Israeli sites. “Since the start of the conflict, the brave soldiers of the Iranian armed forces have attacked 60 strategic targets and 500 American military targets and targets of the Zionist regime [Israel],” the IRGC said in a statement. It said it had launched more than 700 drones and hundreds of missiles.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-we-have-attacked-over-500-us-and-israeli-targets",
+    "published": "2026-03-02T16:10:50+00:00",
+    "fetched_at": "2026-03-02T16:21:17.898791+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "IRGC: We have attacked over 500 US and Israeli targets",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) claims it has targeted over 500 US and Israeli sites since the conflict began, including 60 strategic targets. The IRGC statement said it has launched more than 700 drones and hundreds of missiles at American military installations and Israeli targets, representing a significant escalation in the ongoing Iran-US armed conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "Iran (IRGC)",
+        "United States",
+        "Israel"
+      ],
+      "location": "Middle East",
+      "brief": "IRGC claims to have launched over 700 drones and hundreds of missiles at over 500 US and Israeli targets, including 60 strategic sites, representing direct Iranian aggression against US military installations."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "8f32d805f75356fe",
+    "title_original": "قطر ادعا کرد دو جنگنده ایرانی را ساقط کرده است",
+    "content_original": "شفقنا &#8211; وزارت دفاع قطر روز دوشنبه ادعا کرد که دو جنگنده ایرانی را «با موفقیت سرنگون» کرده است. به گزارش سرویس ترجمه شفقنا، این وزارت‌خانه در بیانیه‌ای اعلام کرد که سامانه‌های دفاع دریایی و هوایی همچنین هفت موشک بالستیک را سرنگون و پنج پهپاد ایرانی را رهگیری کردند. تهران تاکنون به ادعای دوحه واکنشی [&#8230;] نوشته قطر ادعا کرد دو جنگنده ایرانی را ساقط کرده است اولین بار در خبرگزاری بین‌المللی شفقنا | خبرگزاری شیعیان، فتاوای آیت‌الله سیستانی و مرجعیت، آخرین اخبار ایران و جهان . پدیدار شد.",
+    "url": "https://fa.shafaqna.com/news/2223526/",
+    "published": "2026-03-02T16:08:15+00:00",
+    "fetched_at": "2026-03-02T16:20:51.201885+00:00",
+    "source_name": "Shafaqna Persian",
+    "source_category": "state-aligned",
+    "language": "fa",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "Qatar Claims to Have Shot Down Two Iranian Fighter Jets",
+    "relevant": true,
+    "summary_en": "Qatar's Ministry of Defense claimed on Monday that it successfully shot down two Iranian fighter jets, while also intercepting seven ballistic missiles and five Iranian drones using its naval and air defense systems. Tehran has not yet responded to Doha's claim. The incident represents a significant escalation, as Qatar hosts major US military infrastructure including Al Udeid air base, and would mark the first direct engagement between Iranian forces and a Gulf state allied with the US in the current conflict.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "conflict",
+      "ballistic",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Qatar",
+        "Iran",
+        "United States"
+      ],
+      "location": "Qatar/Gulf Region",
+      "brief": "Qatar claims to have shot down two Iranian fighter jets and intercepted seven ballistic missiles and five Iranian drones in a significant escalation of tensions in the Gulf region."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
     "id": "7736b5c653f4a5fb",
     "title_original": "Dubai-Abu Dhabi news live updates: Amazon data services disrupted in UAE, Emirates cancels Dubai flights",
     "content_original": "The United Arab Emirates has strongly condemned Iranian missile attacks targeting both the UAE and Oman, calling them a \"dangerous escalation\" and announcing the immediate closure of its embassy in Tehran.",
@@ -741,6 +1599,83 @@
     "lng": 35.86
   },
   {
+    "id": "845f494d00b54341",
+    "title_original": "Ministry of Defense: UAE’s air defenses successfully intercept 9 ballistic missiles, 6 cruise missiles, 148 drones  h...",
+    "content_original": "Ministry of Defense: UAE’s air defenses successfully intercept 9 ballistic missiles, 6 cruise missiles, 148 drones https://wam.ae/a/bz0257y",
+    "url": "https://t.me/wamnews_en/31891",
+    "published": "2026-03-02T16:00:47+00:00",
+    "fetched_at": "2026-03-02T16:22:32.269333+00:00",
+    "source_name": "WAM English (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Ministry of Defense: UAE's air defenses successfully intercept 9 ballistic missiles, 6 cruise missiles, 148 drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "UAE air defense forces successfully intercepted 9 ballistic missiles, 6 cruise missiles, and 148 drones, likely launched by Iran as part of its ongoing offensive campaign against US allies in the Gulf region. The intercepts demonstrate successful defense of UAE territory against Iranian missile and drone attacks, a key US partner nation hosting significant American military assets.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "intercept",
+      "ballistic",
+      "drone",
+      "air defense",
+      "offensive"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "UAE"
+      ],
+      "location": "UAE",
+      "brief": "Iran launched 9 ballistic missiles, 6 cruise missiles, and 148 drones at UAE, which were successfully intercepted by UAE air defenses."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "8745631222190560",
+    "title_original": "Bahrain detains people allegedly celebrating Iran strikes",
+    "content_original": "Bahraini authorities have launched a campaign of arrests targeting people who allegedly expressed joy and celebration over Iranian missiles and drones that struck sites in the kingdom, including facilities linked to the US Fifth Fleet . The arrests followed the circulation of videos on social media , which appear to show groups of individuals celebrating the Iranian operations. Long seen as havens of peace and stability in the region, the Gulf Arab states have come under attack by Iran &nbsp;after a US-Israel offensive started on Saturday, which has killed hundreds of Iranians, including dozens of senior officials, such as Supreme Leader Ali Khamenei . Tehran claims it is targeting US interests in the Gulf, but it has also hit civilian infrastructure in Gulf states, including airports and hotels. Bahrain’s interior ministry, through its Cyber Crime Directorate, confirmed that it had detained a group of people who \"expressed in a circulated video their support for the Iranian shelling t...",
+    "url": "https://www.newarab.com/news/bahrain-detains-people-allegedly-celebrating-iran-strikes",
+    "published": "2026-03-02T15:59:22+00:00",
+    "fetched_at": "2026-03-02T16:21:18.405596+00:00",
+    "source_name": "The New Arab",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Bahrain detains people allegedly celebrating Iran strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Bahraini authorities have arrested individuals for allegedly celebrating Iranian missile and drone strikes on Bahraini territory, including facilities housing the US Fifth Fleet. The arrests followed social media videos showing people jubiliant over the Iranian attacks, which are part of the ongoing Iran-US conflict. This highlights internal tensions within Gulf states regarding the conflict and their alignment with the US.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bahrain",
+        "United States"
+      ],
+      "location": "Bahrain",
+      "brief": "Iranian missile and drone strikes targeted Bahraini facilities housing the US Fifth Fleet, prompting Bahraini authorities to arrest individuals for celebrating the attacks on social media."
+    },
+    "merged_source_count": 2,
+    "lat": 26.07,
+    "lng": 50.55
+  },
+  {
     "id": "41caf99287cbbd9a",
     "title_original": "פרסום ראשון: כוחותינו תוקפים 19 מוסדות כלכליים של חיזבאללה",
     "content_original": "פרסום ראשון: כוחותינו תוקפים 19 מוסדות כלכליים של חיזבאללה",
@@ -886,6 +1821,46 @@
     },
     "lat": 21.0000287,
     "lng": 57.0036901
+  },
+  {
+    "id": "2dc861525f268dd6",
+    "title_original": "Iranian missiles kill two Bangladeshis and wound several across Gulf",
+    "content_original": "Iranian missiles kill two Bangladeshis and wound several across Gulf Submitted by Areeb Ullah on Mon, 03/02/2026 - 15:21 Dhaka confirms deaths in UAE and Bahrain as several others are wounded in Kuwait, bodies to be repatriated once flights resume People look at smoke rising from the port of Jebel Ali after a reported Iranian strike in Dubai on March 1, 2026 (AFP) Off Iranian missile strikes since Friday have killed two Bangladeshi nationals and wounded several others across the Gulf, as aerial attacks in the war that began on Saturday put migrant communities at risk. The Bangladeshi foreign ministry confirmed on Monday that its missions in the region were working to support workers in need of urgent medical care. Officials confirmed that at least two workers had been killed in separate incidents, while several others were being treated in hospital for blast-related injuries. In a statement, the ministry confirmed that Saleh Ahmed, a truck driver from the north-eastern region of Sylhet...",
+    "url": "https://www.middleeasteye.net/news/iran-missile-strikes-kill-two-bangladeshi-nationals-wound-several-across-gulf",
+    "published": "2026-03-02T15:54:14+00:00",
+    "fetched_at": "2026-03-02T16:21:17.899171+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iranian missiles kill two Bangladeshis and wound several across Gulf",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian missile strikes in the Gulf region have killed two Bangladeshi nationals and wounded several others across UAE, Bahrain, and Kuwait. The attacks, part of the wider Iran-US conflict that began on Saturday, have put migrant worker communities in the region at risk, with Bangladesh working to repatriate bodies once flights resume.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict",
+      "wounded",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Bangladesh",
+        "UAE",
+        "Bahrain",
+        "Kuwait"
+      ],
+      "location": "Gulf region (UAE, Bahrain, Kuwait)",
+      "brief": "Iranian missile strikes killed two Bangladeshi nationals and wounded several others in Gulf states as part of the wider Iran-US conflict."
+    },
+    "lat": 26.07,
+    "lng": 50.55
   },
   {
     "id": "59fd59d0a494cb31",
@@ -6593,6 +7568,36 @@
     },
     "lat": 33.85,
     "lng": 35.86
+  },
+  {
+    "id": "09c7c485edeec747",
+    "title_original": "UK PM Starmer says Iran stepping up 'reckless' strikes after Khamenei’s killing",
+    "content_original": "LONDON, March 2 (Reuters) - British Prime Minister Keir Starmer said on Monday that the killing of Iran's Supreme Leader Ali Khamenei has led Iran to strike military and economic targets in a more \"reckless\" manner in the region. The death of Khamenei \"will not stop Iran from launching these strikes,\" Starmer told parliament. \"In fact, their approach is becoming even more reckless and more dangerous to civilians.\" (Reporting by William James and Sam Tabahriti, writing by Andrew MacAskill, editing by Alistair Smout)",
+    "url": "https://www.al-monitor.com/originals/2026/03/uk-pm-starmer-says-iran-stepping-reckless-strikes-after-khameneis-killing",
+    "published": "2026-03-02T11:01:51-05:00",
+    "fetched_at": "2026-03-02T16:21:18.076818+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "UK PM Starmer says Iran stepping up 'reckless' strikes after Khamenei's killing",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "UK Prime Minister Keir Starmer said Iran is conducting more reckless strikes against military and economic targets following the killing of Supreme Leader Ali Khamenei. Starmer warned that Khamenei's death would not stop Iran from launching these attacks and that the approach is becoming increasingly dangerous to civilians. This represents a significant escalation signal in the ongoing Iran-US conflict with broader regional implications.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "death",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "low",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
   },
   {
     "id": "04d1fb998a9318bf",

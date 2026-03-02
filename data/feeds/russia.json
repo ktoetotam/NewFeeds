@@ -1,8 +1,763 @@
 [
   {
+    "id": "e8485ec63a4a3b62",
+    "title_original": "Атака на нефтезавод Saudi Aramco продлит энергокризис, считает эксперт",
+    "content_original": "Атака на нефтезавод Saudi Aramco продлит энергокризис, считает эксперт",
+    "url": "https://ria.ru/20260302/iran-2078000230.html",
+    "published": "2026-03-02T19:19:34+03:00",
+    "fetched_at": "2026-03-02T16:20:56.179116+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "efc004cc35f8f5be",
+    "title_original": "Банкротство физических лиц в 2025 году: порядок, стоимость и последствия",
+    "content_original": "Банкротство физических лиц в 2025 году: порядок, стоимость и последствия",
+    "url": "https://ria.ru/20260302/bankrotstvo-1600141843.html",
+    "published": "2026-03-02T19:19:32+03:00",
+    "fetched_at": "2026-03-02T16:20:56.179335+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "97d431ff55f36534",
+    "title_original": "Аналитик предрек рост цен на нефть при перекрытии Ираном Ормузского пролива",
+    "content_original": "Аналитик предрек рост цен на нефть при перекрытии Ираном Ормузского пролива",
+    "url": "https://ria.ru/20260302/neft-2078000015.html",
+    "published": "2026-03-02T19:19:25+03:00",
+    "fetched_at": "2026-03-02T16:20:56.179537+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "43ba1b87819d8b19",
+    "title_original": "Лавров и глава МИД Саудовской Аравии отметили угрозу на Ближнем Востоке",
+    "content_original": "Лавров и глава МИД Саудовской Аравии отметили угрозу на Ближнем Востоке",
+    "url": "https://ria.ru/20260302/iran-2077999861.html",
+    "published": "2026-03-02T19:18:19+03:00",
+    "fetched_at": "2026-03-02T16:20:56.179742+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "71d42a365506eb8e",
+    "title_original": "США ударили по Ирану бомбардировщиком-невидимкой. Что это это за самолет",
+    "content_original": "Что такое B-2 Spirit B-2 Spirit &mdash; это американский многоцелевой стратегический бомбардировщик, который способен нести обычное и ядерное оружие.",
+    "url": "https://www.rbc.ru/base/02/03/2026/69a56eea9a7947097366420a",
+    "published": "2026-03-02T19:17:59+03:00",
+    "fetched_at": "2026-03-02T16:21:01.952459+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "cecc294a1571159b",
+    "title_original": "\"Балтика\" и \"Локомотив\" обратились в ЭСК РФС по итогам 19-го тура РПЛ",
+    "url": "https://tass.ru/sport/26618747",
+    "published": "2026-03-02T19:17:54+03:00",
+    "fetched_at": "2026-03-02T16:20:55.833319+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
+  },
+  {
+    "id": "04376629df0832d3",
+    "title_original": "Белгородцам в марте скорректируют плату за коммунальные услуги из-за перебоев",
+    "url": "https://tass.ru/obschestvo/26618745",
+    "published": "2026-03-02T19:17:02+03:00",
+    "fetched_at": "2026-03-02T16:20:55.833533+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
+  },
+  {
+    "id": "bed142826ab5f6de",
+    "title_original": "Трамп заявил о \"большом разочаровании\" Стармером из-за Ирана",
+    "content_original": "Трамп заявил о \"большом разочаровании\" Стармером из-за Ирана",
+    "url": "https://ria.ru/20260302/tramp-2077999646.html",
+    "published": "2026-03-02T19:16:22+03:00",
+    "fetched_at": "2026-03-02T16:20:56.179937+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "db8dbe7b2609cef5",
+    "title_original": "Роскомнадзор заявил, что DDoS-атаки не привели к остановке его сервисов",
+    "content_original": "DDoS-атаки на ресурсы Роскомнадзора (РКН) продолжаются, однако информация о том, что его сервисы стали недоступны, не соответствует действительности.",
+    "url": "https://www.rbc.ru/rbcfreenews/699056279a7947719f389fb0",
+    "published": "2026-03-02T19:16:15+03:00",
+    "fetched_at": "2026-03-02T16:21:01.952676+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "e2ecd3523705d74c",
+    "title_original": "\"Балтика\" обратилась в ЭСК РФС по итогам матча с \"Зенитом\"",
+    "content_original": "\"Балтика\" обратилась в ЭСК РФС по итогам матча с \"Зенитом\"",
+    "url": "https://ria.ru/20260302/baltika-2077999456.html",
+    "published": "2026-03-02T19:16:04+03:00",
+    "fetched_at": "2026-03-02T16:20:56.180151+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "020f3de507dd0359",
+    "title_original": "В США не знают, кто сейчас лидер Ирана, утверждает Трамп",
+    "content_original": "В США не знают, кто сейчас лидер Ирана, утверждает Трамп",
+    "url": "https://ria.ru/20260302/tramp-2077999298.html",
+    "published": "2026-03-02T19:15:38+03:00",
+    "fetched_at": "2026-03-02T16:20:56.180342+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "3bfc670ce242df9f",
+    "title_original": "\"Кузбасс\" вышел в полуфинал ЧР по бенди после техпоражения \"Старта\"",
+    "content_original": "\"Кузбасс\" вышел в полуфинал ЧР по бенди после техпоражения \"Старта\"",
+    "url": "https://ria.ru/20260302/kuzbass-2077999129.html",
+    "published": "2026-03-02T19:14:47+03:00",
+    "fetched_at": "2026-03-02T16:20:56.180534+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "7ac78ca227b25239",
+    "title_original": "Трамп: США не знают, кто теперь руководит Ираном",
+    "content_original": "Трамп: США не знают, кто теперь руководит Ираном",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26618623",
+    "published": "2026-03-02T19:14:21+03:00",
+    "fetched_at": "2026-03-02T16:20:55.833743+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "6d67a8d5731563f3",
+    "title_original": "Путин обсудил ситуацию вокруг Ирана с наследным принцем Саудовской Аравии",
+    "content_original": "Владимир Путин",
+    "url": "https://www.rbc.ru/politics/02/03/2026/69a577049a794770865b1f31",
+    "published": "2026-03-02T19:14:07+03:00",
+    "fetched_at": "2026-03-02T16:21:01.952875+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "50fd4b845566eeb0",
+    "title_original": "Овечкин пропустил тренировку \"Вашингтона\"",
+    "content_original": "Овечкин пропустил тренировку \"Вашингтона\"",
+    "url": "https://ria.ru/20260302/ovechkin-2077998664.html",
+    "published": "2026-03-02T19:12:55+03:00",
+    "fetched_at": "2026-03-02T16:20:56.180915+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "f6016603fd71067c",
+    "title_original": "Суд 16 марта рассмотрит иск охранника \"Крокуса\" к Киркорову на 2,3 млн рублей",
+    "content_original": "Как следует из исковых требований, певец толкнул охранника в спину, из-за чего пострадавший упал со сцены",
+    "url": "https://tass.ru/proisshestviya/26618713",
+    "published": "2026-03-02T19:12:54+03:00",
+    "fetched_at": "2026-03-02T16:20:55.833997+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "8183c08ade50ac28",
+    "title_original": "Тренер \"Сочи\" рассказал о сроках возвращения футболиста Аттият-Аллаха",
+    "content_original": "Марокканский защитник восстанавливается от травмы",
+    "url": "https://tass.ru/sport/26618721",
+    "published": "2026-03-02T19:12:35+03:00",
+    "fetched_at": "2026-03-02T16:20:55.834197+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "0944416f37bc93ae",
+    "title_original": "Москва и Эр-Рияд выступают за остановку боевых действий на Ближнем Востоке",
+    "content_original": "Москва и Эр-Рияд выступают за остановку боевых действий на Ближнем Востоке",
+    "url": "https://ria.ru/20260302/iran-2077998528.html",
+    "published": "2026-03-02T19:12:20+03:00",
+    "fetched_at": "2026-03-02T16:20:56.181129+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "66cf10e5a3cf6000",
+    "title_original": "Макрон заявил, что стратегические ВВС Франции разместят в странах Европы",
+    "content_original": "Эмманюэль Макрон",
+    "url": "https://www.rbc.ru/politics/27/02/2026/69a14a099a794700c0a24f36",
+    "published": "2026-03-02T19:12:17+03:00",
+    "fetched_at": "2026-03-02T16:21:01.953096+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "324f8bc1b517aad9",
+    "title_original": "Катар сбил семь ракет и два военных самолета, вероятно, из Ирана",
+    "content_original": "Катар сбил семь ракет и два военных самолета, вероятно, из Ирана",
+    "url": "https://ria.ru/20260302/katar-2077998058.html",
+    "published": "2026-03-02T19:11:42+03:00",
+    "fetched_at": "2026-03-02T16:20:56.181319+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "06f1d6fc2148e66b",
+    "title_original": "Минобороны Катара отчиталось об уничтожении двух летевших из Ирана Су-24",
+    "content_original": "Катар сбил два самолета Су-24, летевших из Ирана. Об этом сообщила пресс-служба Минобороны страны в соцсети X.",
+    "url": "https://www.kommersant.ru/doc/8478416",
+    "published": "2026-03-02T19:10:01+03:00",
+    "fetched_at": "2026-03-02T16:21:00.013169+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "292e3737872191e2",
+    "title_original": "Лавров и глава МИД Саудовской Аравии обсудили ситуацию вокруг Ирана",
+    "content_original": "Лавров и глава МИД Саудовской Аравии обсудили ситуацию вокруг Ирана",
+    "url": "https://ria.ru/20260302/lavrov-2077997333.html",
+    "published": "2026-03-02T19:09:45+03:00",
+    "fetched_at": "2026-03-02T16:20:56.181508+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "605f3cdd9d715b1e",
+    "title_original": "Аэропорт Дубая отправил первый с начала суток пассажирский самолет",
+    "content_original": "Аэропорт Дубая отправил первый с начала суток пассажирский самолет",
+    "url": "https://tass.ru/obschestvo/26618671",
+    "published": "2026-03-02T19:09:18+03:00",
+    "fetched_at": "2026-03-02T16:20:55.834392+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "7d1ad9c0cfe433c1",
+    "title_original": "Трамп заявил, что его не тревожат опросы, показывающие недовольство в США ударами по Ирану",
+    "content_original": "Трамп заявил, что его не тревожат опросы, показывающие недовольство в США ударами по Ирану",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26618577",
+    "published": "2026-03-02T19:08:34+03:00",
+    "fetched_at": "2026-03-02T16:20:55.834591+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "60dd3b84b4b0ced2",
+    "title_original": "Зеленский не пропускает в Словакию и Венгрию даже каплю нефти, заявил Фицо",
+    "content_original": "Зеленский не пропускает в Словакию и Венгрию даже каплю нефти, заявил Фицо",
+    "url": "https://ria.ru/20260302/fitso-2077997168.html",
+    "published": "2026-03-02T19:06:27+03:00",
+    "fetched_at": "2026-03-02T16:20:56.181703+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "00911c67f1306db5",
+    "title_original": "Москалькова рассказала о военном ВСУ, который сдался в плен своему брату",
+    "content_original": "Москалькова рассказала о военном ВСУ, который сдался в плен своему брату",
+    "url": "https://ria.ru/20260302/moskalkova-2077997021.html",
+    "published": "2026-03-02T19:06:27+03:00",
+    "fetched_at": "2026-03-02T16:20:56.181891+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "9ccabe5ee007c59c",
+    "title_original": "Катар сбил два иранских бомбардировщика",
+    "content_original": "Катар сбил два иранских самолета Су-24, сообщили в Минобороны. Военные также перехватили баллистические ракеты и дроны, которые Тегеран направил в сторону государства",
+    "url": "https://www.rbc.ru/politics/02/03/2026/69a5b4a39a7947b27e1c7c88",
+    "published": "2026-03-02T19:06:04+03:00",
+    "fetched_at": "2026-03-02T16:21:01.953491+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "53fb3d48b995a909",
+    "title_original": "Экономист объяснила, почему у россиян выросла доля трат на еду",
+    "content_original": "Экономист объяснила, почему у россиян выросла доля трат на еду",
+    "url": "https://ria.ru/20260302/eda-2077996385.html",
+    "published": "2026-03-02T19:04:04+03:00",
+    "fetched_at": "2026-03-02T16:20:56.182109+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "9f8f3393072f4192",
+    "title_original": "ВВС США не используют базы на Кипре для атак на Иран, заявил Стармер",
+    "content_original": "ВВС США не используют базы на Кипре для атак на Иран, заявил Стармер",
+    "url": "https://ria.ru/20260302/kipr-2077996237.html",
+    "published": "2026-03-02T19:03:56+03:00",
+    "fetched_at": "2026-03-02T16:20:56.182300+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "b459163bc872eb69",
+    "title_original": "РФС ввел новый протокол подачи мячей в матчах Кубка России",
+    "content_original": "Изменения направлены на сокращение пауз",
+    "url": "https://tass.ru/sport/26618563",
+    "published": "2026-03-02T19:03:45+03:00",
+    "fetched_at": "2026-03-02T16:20:55.834779+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "9943ef765f146e22",
+    "title_original": "Назван город, который лидирует по спросу на вторичное жилье",
+    "content_original": "Санкт-Петербург вышел на первое место среди пользователей \"Авито недвижимости\"",
+    "url": "https://tass.ru/obschestvo/26618501",
+    "published": "2026-03-02T19:03:32+03:00",
+    "fetched_at": "2026-03-02T16:20:55.834997+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "bd58e7db03f0264a",
+    "title_original": "Матч Финалиссимы Испания - Аргентина могут перенести из Катара",
+    "content_original": "Встреча победителей чемпионата Европы и Кубка Америки запланирована на 27 марта в Лусаиле",
+    "url": "https://tass.ru/sport/26618551",
+    "published": "2026-03-02T19:03:10+03:00",
+    "fetched_at": "2026-03-02T16:20:55.835193+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "6c9e22adad91f545",
+    "title_original": "Сотрудничество Франции и ФРГ будет дополнять ядерное сдерживание в НАТО",
+    "content_original": "Сотрудничество Франции и ФРГ будет дополнять ядерное сдерживание в НАТО",
+    "url": "https://ria.ru/20260302/frantsija-2077996100.html",
+    "published": "2026-03-02T19:02:40+03:00",
+    "fetched_at": "2026-03-02T16:20:56.182486+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "75ecdcc83dfe5e13",
+    "title_original": "В ЦАХАЛ заявили об ударе по 70 объектам \"Хезболлах\" в Ливане",
+    "content_original": "Среди них - склады с оружием и ракетные установки",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26618539",
+    "published": "2026-03-02T19:02:25+03:00",
+    "fetched_at": "2026-03-02T16:20:55.835380+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "5f08fec377326642",
+    "title_original": "Kan: в центре Израиля упали фрагменты перехваченных ракет",
+    "content_original": "Kan: в центре Израиля упали фрагменты перехваченных ракет",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26618467",
+    "published": "2026-03-02T19:01:45+03:00",
+    "fetched_at": "2026-03-02T16:20:55.835565+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "12a4d53c7f9a6cfd",
+    "title_original": "В Госдуме предложили отменить штрафы за утерю паспорта",
+    "content_original": "Реализация этой меры, по мнению депутатов, позволит обеспечить принцип справедливости и соразмерности административной ответственности, снизить избыточную финансовую нагрузку на граждан",
+    "url": "https://tass.ru/obschestvo/26618511",
+    "published": "2026-03-02T19:01:22+03:00",
+    "fetched_at": "2026-03-02T16:20:55.835756+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "f445e2019b48ce35",
+    "title_original": "Сроки конфликта с Ираном и вывоза туристов из ОАЭ. ЧЭЗ на телеканале РБК",
+    "content_original": "Марк Рютте",
+    "url": "https://www.rbc.ru/rbcfreenews/69a5a6dd9a794789ec3b53e9",
+    "published": "2026-03-02T19:01:15+03:00",
+    "fetched_at": "2026-03-02T16:21:01.953682+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "51995e9a5e38ad7e",
+    "title_original": "Трамп признался, что его не волнует мнение американцев об операции в Иране",
+    "content_original": "Трамп признался, что его не волнует мнение американцев об операции в Иране",
+    "url": "https://ria.ru/20260302/tramp-2077995763.html",
+    "published": "2026-03-02T19:00:25+03:00",
+    "fetched_at": "2026-03-02T16:20:56.182676+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "eb6e903c99ea1a01",
+    "title_original": "Дмитрий Медведев: триггером для начала третьей мировой может стать любое событие",
+    "content_original": "Зампред Совбеза России Дмитрий Медведев ответил на вопросы ТАСС по ситуации в мире после атаки США и Израиля на Иран. В частности, он оценил перспективы начала третьей мировой войны, а также шансы Тегерана и мотивы Запада",
+    "url": "https://tass.ru/interviews/26618021",
+    "published": "2026-03-02T19:00:00+03:00",
+    "fetched_at": "2026-03-02T16:20:55.835953+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "1edd8358f32107c0",
+    "title_original": "ТАСС: воздушное пространство Катара, Кувейта и Бахрейна останется закрытым до 01:00 мск",
+    "content_original": "Ранее на сутки был продлен запрет полетов над Сирией",
+    "url": "https://tass.ru/obschestvo/26618457",
+    "published": "2026-03-02T18:59:38+03:00",
+    "fetched_at": "2026-03-02T16:20:55.836169+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "ccf80de591479a6d",
+    "title_original": "ЦАХАЛ заявила, что атаковала более 70 объектов \"Хезболлы\" в Ливане",
+    "content_original": "ЦАХАЛ заявила, что атаковала более 70 объектов \"Хезболлы\" в Ливане",
+    "url": "https://ria.ru/20260302/tsakhal-2077995613.html",
+    "published": "2026-03-02T18:58:42+03:00",
+    "fetched_at": "2026-03-02T16:20:56.182865+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "840f08cad84fc734",
+    "title_original": "Лавров обсудил ситуацию вокруг Ирана с главой МИД Саудовской Аравии",
+    "content_original": "Главы внешнеполитических ведомств выступили за немедленное прекращение боевых действий и принятие в первоочередном порядке мер по недопущению атак против мирных граждан",
+    "url": "https://tass.ru/politika/26618417",
+    "published": "2026-03-02T18:58:36+03:00",
+    "fetched_at": "2026-03-02T16:20:55.836360+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "9936a3bc1eadba13",
+    "title_original": "РФС утвердил новый протокол подачи мячей в матчах Кубка России",
+    "content_original": "РФС утвердил новый протокол подачи мячей в матчах Кубка России",
+    "url": "https://ria.ru/20260302/rfs-2077995483.html",
+    "published": "2026-03-02T18:58:08+03:00",
+    "fetched_at": "2026-03-02T16:20:56.183073+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "dccc8a5b8cc8b1c4",
+    "title_original": "В Воронеже экс-главу диссертационного совета осудили за взятки",
+    "content_original": "Наталью Сироткину приговорили к восьми годам шести месяцам колонии",
+    "url": "https://tass.ru/proisshestviya/26618369",
+    "published": "2026-03-02T18:56:40+03:00",
+    "fetched_at": "2026-03-02T16:20:55.836546+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "b1dc342c91ae0cce",
+    "title_original": "Около 100 объектов водоснабжения обновят в Подмосковье в 2026 году",
+    "content_original": "Около 100 объектов водоснабжения обновят в Подмосковье в 2026 году",
+    "url": "https://ria.ru/20260302/podmoskove-2077995215.html",
+    "published": "2026-03-02T18:56:35+03:00",
+    "fetched_at": "2026-03-02T16:20:56.183262+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "5d007ce0609c8090",
+    "title_original": "Генконсульство РФ в Дубае: авиаперевозчики организуют дополнительные рейсы",
+    "content_original": "Генконсульство РФ в Дубае: авиаперевозчики организуют дополнительные рейсы",
+    "url": "https://tass.ru/ekonomika/26618385",
+    "published": "2026-03-02T18:56:08+03:00",
+    "fetched_at": "2026-03-02T16:20:55.836733+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "01697d7dc8d0782a",
+    "title_original": "\"Локомотив\" обратился в ЭСК РФС по итогам матча с \"Нижним Новгородом\"",
+    "content_original": "\"Локомотив\" обратился в ЭСК РФС по итогам матча с \"Нижним Новгородом\"",
+    "url": "https://ria.ru/20260302/lokomotiv-2077995054.html",
+    "published": "2026-03-02T18:56:08+03:00",
+    "fetched_at": "2026-03-02T16:20:56.183449+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "9b61c6d2eef3a9c7",
+    "title_original": "Российские ритейлеры назвали цену нового iPhone 17e",
+    "content_original": "Ведущие российские ритейлеры рассказали об условиях предзаказа на новый iPhone 17e. В пресс-службе «М.Видео» также сообщили «Ъ», что модель на 256 Гб обойдется в 64,9 тыс. руб., на 512 Гб -- в 84,9 тыс. руб. В CDEK.Shopping выставили новинку по цене от 58,5 тыс. руб. Продажи iPhone 17e запланированы на 11 марта.",
+    "url": "https://www.kommersant.ru/doc/8478406",
+    "published": "2026-03-02T18:55:53+03:00",
+    "fetched_at": "2026-03-02T16:21:00.013399+00:00",
+    "source_name": "Kommersant",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "4ca24a75e3818140",
+    "title_original": "Миронов призвал Зеленского обратить внимание на политику США",
+    "content_original": "Миронов призвал Зеленского обратить внимание на политику США",
+    "url": "https://ria.ru/20260302/mironov-2077994778.html",
+    "published": "2026-03-02T18:55:40+03:00",
+    "fetched_at": "2026-03-02T16:20:56.183643+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "c5e5ec79a15df84b",
+    "title_original": "\"Плевать на это вообще\". Медведев о вероятности санкций МОК против США и Израиля",
+    "content_original": "Зампред Совбеза РФ оценил вероятность рестрикций за нарушение олимпийского перемирия атакой на Иран",
+    "url": "https://tass.ru/politika/26618373",
+    "published": "2026-03-02T18:55:31+03:00",
+    "fetched_at": "2026-03-02T16:20:55.836921+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "3c4b7020922f3f8d",
+    "title_original": "ТАСС: на севере Москвы в отделении банка произошел пожар",
+    "content_original": "Пострадавших нет",
+    "url": "https://tass.ru/proisshestviya/26618359",
+    "published": "2026-03-02T18:55:10+03:00",
+    "fetched_at": "2026-03-02T16:20:55.837136+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "bb3acd734db74ad6",
+    "title_original": "В Смоленской области предпринимателям компенсируют до 99% затрат на лизинг",
+    "content_original": "Система налоговых преференций стала одним из ключевых инструментов поддержки бизнеса в регионе",
+    "url": "https://tass.ru/ekonomika/26618337",
+    "published": "2026-03-02T18:55:05+03:00",
+    "fetched_at": "2026-03-02T16:20:55.837327+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "dc786049ebe1af7e",
+    "title_original": "Оазис под прицелом: как Дубай сохраняет спокойствие на фоне атак",
+    "content_original": "Утро понедельника в Дубае началось с серии громких хлопков. Жители Дубай-Марины и Пальм-Джумейры стали невольными зрителями работы систем ПВО: в небе отчетливо были видны следы перехватчиков, сбивающих иранские ракеты и беспилотники. По всей видимости, основной целью атак остается стратегический порт Джебель-Али, расположенный в 15 км от туристической зоны. Но город продолжает жить, а той паники, которая охватила некоторые районы в первые часы эскалации в субботу, больше не наблюдается",
+    "url": "https://tass.ru/obschestvo/26575179",
+    "published": "2026-03-02T18:54:18+03:00",
+    "fetched_at": "2026-03-02T16:20:55.837542+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "a5e037bc719ae433",
+    "title_original": "В Госдуме назвали наиболее оперативные варианты возвращения туристов из ОАЭ",
+    "content_original": "В Госдуме назвали наиболее оперативные варианты возвращения туристов из ОАЭ",
+    "url": "https://ria.ru/20260302/turisty-2077994164.html",
+    "published": "2026-03-02T18:53:55+03:00",
+    "fetched_at": "2026-03-02T16:20:56.183829+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "b394fd2cddf6a509",
+    "title_original": "УЕФА оштрафовал \"Тоттенхэм\" за поведение фанатов в матче Лиги чемпионов",
+    "content_original": "УЕФА оштрафовал \"Тоттенхэм\" за поведение фанатов в матче Лиги чемпионов",
+    "url": "https://ria.ru/20260302/tottenkhem-2077994049.html",
+    "published": "2026-03-02T18:53:52+03:00",
+    "fetched_at": "2026-03-02T16:20:56.184033+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "f5f325bddb99b3cd",
+    "title_original": "Что такое Корпус стражей исламской революции (КСИР)",
+    "content_original": "Что такое Корпус стражей исламской революции (КСИР)",
+    "url": "https://ria.ru/20260302/ksir-chto-eto-takoe-istoriya-sozdaniya-2077970974.html",
+    "published": "2026-03-02T18:53:43+03:00",
+    "fetched_at": "2026-03-02T16:20:56.184218+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "e67bcbd4eee54c1b",
+    "title_original": "ЦСКА оплатит адвоката для двух болельщиков, на которых завели дело в ОАЭ",
+    "content_original": "Директор по коммуникациям ЦСКА Кирилл Брейдо рассказал, что клуб находится на связи с болельщиками, их родственниками и консульством",
+    "url": "https://tass.ru/sport/26618335",
+    "published": "2026-03-02T18:53:08+03:00",
+    "fetched_at": "2026-03-02T16:20:55.837733+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
+    "id": "04cd00a066c5ca3e",
+    "title_original": "В центре Архангельска открылась выставка о столетней истории Северного хора",
+    "content_original": "На ней представлены редкие фотографии, документы, билеты, афиши и ноты разных лет",
+    "url": "https://tass.ru/kultura/26618289",
+    "published": "2026-03-02T18:52:58+03:00",
+    "fetched_at": "2026-03-02T16:20:55.837920+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false
+  },
+  {
     "id": "a950e81df2f17fd9",
     "title_original": "Раненых при взрыве у Савеловского вокзала полицейских перевели в общую палату",
-    "content_original": "Сотрудников полиции, пострадавших при взрыве у Савеловского вокзала в Москве, перевели в общую палату. Об этом ТАСС сообщил источник, близкий к их окружению.",
     "url": "https://www.kommersant.ru/doc/8478353",
     "published": "2026-03-02T18:17:42+03:00",
     "fetched_at": "2026-03-02T15:18:40.134912+00:00",
@@ -10,7 +765,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "70b8287a4d46e109",
@@ -46,7 +803,6 @@
   {
     "id": "309599558d5fcd39",
     "title_original": "Макрон предложил усилить возможности сдерживания ударов на большую глубину",
-    "content_original": "Макрон предложил усилить возможности сдерживания ударов на большую глубину",
     "url": "https://ria.ru/20260302/makron-2077980047.html",
     "published": "2026-03-02T18:17:18+03:00",
     "fetched_at": "2026-03-02T15:18:36.077054+00:00",
@@ -54,12 +810,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "6083c638144060f7",
     "title_original": "В Сумах прогремел взрыв",
-    "content_original": "В Сумах прогремел взрыв",
     "url": "https://ria.ru/20260302/sumy-2077979821.html",
     "published": "2026-03-02T18:16:47+03:00",
     "fetched_at": "2026-03-02T15:18:36.077266+00:00",
@@ -67,12 +824,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "82c032bf22747f12",
     "title_original": "Российские авиакомпании готовятся к возобновлению рейсов на Ближний Восток",
-    "content_original": "Российские авиакомпании готовятся к возобновлению рейсов на Ближний Восток",
     "url": "https://ria.ru/20260302/aviareys-2077979540.html",
     "published": "2026-03-02T18:16:15+03:00",
     "fetched_at": "2026-03-02T15:18:36.077497+00:00",
@@ -80,7 +838,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "6b6a58c7ce2112ea",
@@ -93,12 +853,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "USA closes embassy in Bahrain due to regional tension",
+    "relevant": true,
+    "summary_en": "The US embassy in Manama, Bahrain, has suspended operations due to \"regional tension.\" The diplomatic mission announced the closure amid the ongoing US-Iran conflict and heightened hostilities across the Gulf region. The move reflects escalating tensions and growing security concerns for US personnel in the area.",
+    "translated": true
   },
   {
     "id": "e71a14eee8942f6d",
     "title_original": "Раввин Борода поздравил иудеев с праздником Пурим",
-    "content_original": "Раввин Борода поздравил иудеев с праздником Пурим",
     "url": "https://ria.ru/20260302/ravvin-2077979396.html",
     "published": "2026-03-02T18:15:50+03:00",
     "fetched_at": "2026-03-02T15:18:36.077707+00:00",
@@ -106,12 +869,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "63f86df16da15099",
     "title_original": "В Ливане все образовательные учреждения останутся закрытыми во вторник",
-    "content_original": "В Ливане все образовательные учреждения останутся закрытыми во вторник",
     "url": "https://ria.ru/20260302/livan-2077979199.html",
     "published": "2026-03-02T18:15:33+03:00",
     "fetched_at": "2026-03-02T15:18:36.077904+00:00",
@@ -119,7 +883,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "8c33717b23a24335",
@@ -138,7 +904,6 @@
   {
     "id": "04208c6079c5bdc5",
     "title_original": "Кипр выразит Великобритании недовольство из-за ударов БПЛА",
-    "content_original": "Кипр выразит Великобритании недовольство из-за ударов БПЛА",
     "url": "https://ria.ru/20260302/kipr-2077978903.html",
     "published": "2026-03-02T18:14:43+03:00",
     "fetched_at": "2026-03-02T15:18:36.078105+00:00",
@@ -146,12 +911,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "c3bb612f9b9c24d4",
     "title_original": "Путин провел разговор с наследным принцем Саудовской Аравии",
-    "content_original": "Путин провел разговор с наследным принцем Саудовской Аравии",
     "url": "https://ria.ru/20260302/putin-2077978818.html",
     "published": "2026-03-02T18:14:42+03:00",
     "fetched_at": "2026-03-02T15:18:36.078294+00:00",
@@ -159,12 +925,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "b61e78c0a1dd7206",
     "title_original": "FIA назвала приоритет в вопросе о гонках «Формулы-1» на Ближнем Востоке",
-    "content_original": "Даниил Медведев и Андрей Рублев",
     "url": "https://www.rbc.ru/sport/02/03/2026/69a5964f9a7947eb9dbfa155",
     "published": "2026-03-02T18:14:26+03:00",
     "fetched_at": "2026-03-02T15:18:41.408008+00:00",
@@ -172,7 +939,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "c3458de53cca6205",
@@ -191,7 +960,6 @@
   {
     "id": "d47171a62363d58d",
     "title_original": "Макрон анонсировал программу по разработке новых гиперзвуковых ракет",
-    "content_original": "Президент Франции Эмманюэль Макрон объявил, что в 2026 году страна запустит программу по разработке новых гиперзвуковых ракет. Проект планируется реализовывать совместно с Великобританией и Германией.",
     "url": "https://www.kommersant.ru/doc/8478361",
     "published": "2026-03-02T18:14:03+03:00",
     "fetched_at": "2026-03-02T15:18:40.135345+00:00",
@@ -199,7 +967,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "c8eb8981843b0013",
@@ -243,12 +1013,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Turkey Could Host Talks on Iran, Government Says",
+    "relevant": true,
+    "summary_en": "A Turkish government official stated that Turkey could potentially host negotiations concerning Iran, indicating possible diplomatic efforts to address the ongoing Iran-US conflict. The statement suggests Turkey's willingness to serve as a neutral venue for diplomatic engagement between the parties.",
+    "translated": true
   },
   {
     "id": "8d4eae735e4b1143",
     "title_original": "Россиян, застрявших на Ближнем Востоке, предупредили о мошеннической схеме",
-    "content_original": "Россиян, застрявших на Ближнем Востоке, предупредили о мошеннической схеме",
     "url": "https://ria.ru/20260302/moshenniki-2077978500.html",
     "published": "2026-03-02T18:12:47+03:00",
     "fetched_at": "2026-03-02T15:18:36.078709+00:00",
@@ -256,7 +1029,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "0e4106b2c772162d",
@@ -331,7 +1106,6 @@
   {
     "id": "40df34d71f0b51d5",
     "title_original": "Евролига перенесла два матча из-за ситуации на Ближнем Востоке",
-    "content_original": "Евролига перенесла два матча из-за ситуации на Ближнем Востоке",
     "url": "https://ria.ru/20260302/evroliga-2077978242.html",
     "published": "2026-03-02T18:11:18+03:00",
     "fetched_at": "2026-03-02T15:18:36.078898+00:00",
@@ -339,12 +1113,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "7fa1bf80c8d85637",
     "title_original": "РКН сообщил о стабильной работе сервисов даже при продолжающихся кибератаках",
-    "content_original": "Кибератака на ресурсы Роскомнадзора продолжается, однако ее влияние на ведомство полностью исключается Национальной системой противодействия DDoS-атакам. Об этом сообщили «Ъ» в пресс-службе РКН.",
     "url": "https://www.kommersant.ru/doc/8478339",
     "published": "2026-03-02T18:11:11+03:00",
     "fetched_at": "2026-03-02T15:18:40.135574+00:00",
@@ -352,7 +1127,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "5bd1905c45f176d6",
@@ -365,7 +1142,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Trump says he's disappointed in Starmer over Iran",
+    "relevant": true,
+    "summary_en": "US President Donald Trump expressed disappointment in UK Prime Minister Keir Starmer regarding Iran, indicating tensions between the US and its key NATO ally over handling the Iranian conflict. This reflects diplomatic friction between Washington and London over Middle East policy during the ongoing Iran-US hostilities.",
+    "translated": true
   },
   {
     "id": "9607a736cd13e6b2",
@@ -378,7 +1159,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Rosaviatsiya: airlines intend to evacuate maximum number of passengers from Middle East",
+    "summary_en": "Russia's aviation authority announced that Russian airlines plan to evacuate as many passengers as possible from the Middle East region. Flights will be consolidated and performed on wide-body aircraft if necessary, according to Rosaviatsiya head Dmitry Yadrov. This reflects the ongoing conflict situation in the region affecting civilian air",
+    "relevant": true,
+    "translated": true
   },
   {
     "id": "4aa081e77e6447e7",
@@ -391,12 +1176,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Trump announces major wave of strikes on Iran",
+    "relevant": true,
+    "summary_en": "US President Trump has announced a major wave of strikes against Iran, signaling a significant escalation in the ongoing Iran-US armed conflict. The announcement comes amid continued Iranian ballistic missile and drone attacks on US bases and assets in the Middle East. This represents a substantial intensification of US military operations against Iranian targets, potentially including nuclear facilities and IRGC assets.",
+    "translated": true
   },
   {
     "id": "b80f818beb54eba3",
     "title_original": "Общий объем торгов на рынках Мосбиржи в феврале вырос на 55,5%",
-    "content_original": "Он достиг 163,9 трлн рублей",
     "url": "https://tass.ru/ekonomika/26617443",
     "published": "2026-03-02T18:09:14+03:00",
     "fetched_at": "2026-03-02T15:18:35.644916+00:00",
@@ -404,12 +1192,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "4a2ad46fc216523d",
     "title_original": "Макрон заявил, что ВВС Франции могут быть размещены по всей Европы",
-    "content_original": "Макрон заявил, что ВВС Франции могут быть размещены по всей Европы",
     "url": "https://ria.ru/20260302/makron-2077977950.html",
     "published": "2026-03-02T18:08:39+03:00",
     "fetched_at": "2026-03-02T15:18:36.079278+00:00",
@@ -417,12 +1206,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "a39adf6cdc79de89",
     "title_original": "Волочкова назвала версию о самоубийстве Джабраилова подозрительной",
-    "content_original": "Волочкова назвала версию о самоубийстве Джабраилова подозрительной",
     "url": "https://ria.ru/20260302/volochkova-2077977765.html",
     "published": "2026-03-02T18:08:36+03:00",
     "fetched_at": "2026-03-02T15:18:36.079487+00:00",
@@ -430,7 +1220,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "b05287ba965f1a17",
@@ -443,12 +1235,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Experts: Demand for Russian LNG in Asia will grow if Strait of Hormuz is blocked",
+    "relevant": true,
+    "summary_en": "Experts predict that Asian demand for Russian LNG will increase if the Strait of Hormuz is blocked. This is significant because the Strait of Hormuz is a critical energy chokepoint through which roughly 20% of global oil passes, and Iran has previously threatened to block it — an action that would represent a major escalation in the ongoing Iran-US conflict.",
+    "translated": true
   },
   {
     "id": "5254d2fb225e0a33",
     "title_original": "Баку и Москва примут меры по урегулированию последствий крушения самолета AZAL",
-    "content_original": "Также в ходе переговоров президента Азербайджана Ильхама Алиева и заместителя председателя правительства РФ Алексея Оверчука было выражено общее намерение и дальше развивать взаимовыгодное торговое, инвестиционное, промышленное и транспортно-логистическое сотрудничество",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26615611",
     "published": "2026-03-02T18:07:41+03:00",
     "fetched_at": "2026-03-02T15:18:35.645298+00:00",
@@ -456,12 +1251,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "f0f12f488cb5b8bb",
     "title_original": "Iphone 17e",
-    "content_original": "Iphone 17e",
     "url": "https://www.rbc.ru/photoslider/69a5a6c49a7947a8823bcb34",
     "published": "2026-03-02T18:07:33+03:00",
     "fetched_at": "2026-03-02T15:18:41.408443+00:00",
@@ -469,7 +1265,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "e60f83f3dc9c11d4",
@@ -482,12 +1280,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Cyprus investigating origin of drones that attacked British military base",
+    "relevant": true,
+    "summary_en": "Cyprus authorities are investigating the origin of unmanned aerial vehicles (UAVs) that struck a British military base on the island. The attack on British military infrastructure in the Eastern Mediterranean could represent an escalation of Iranian proxy operations targeting Western forces in the region, potentially linked to the broader Iran-US conflict.",
+    "translated": true
   },
   {
     "id": "3104efd7d56017f0",
     "title_original": "В Воронеже задержали проломившего голову пассажирке таксиста",
-    "content_original": "Заведено уголовное дело",
     "url": "https://tass.ru/proisshestviya/26617015",
     "published": "2026-03-02T18:06:56+03:00",
     "fetched_at": "2026-03-02T15:18:35.645511+00:00",
@@ -495,12 +1296,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "2d90c173f7d9b1a3",
     "title_original": "Нужно разработать новую систему контроля оружия стран, заявил Макрон",
-    "content_original": "Нужно разработать новую систему контроля оружия стран, заявил Макрон",
     "url": "https://ria.ru/20260302/makron-2077976969.html",
     "published": "2026-03-02T18:06:53+03:00",
     "fetched_at": "2026-03-02T15:18:36.079868+00:00",
@@ -508,12 +1310,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "e4812010eb2e8182",
     "title_original": "Росатом не раскрывает сумму сделки с Шишкаревым",
-    "content_original": "В госкорпорации подчеркнули, что предложение было справедливым и основанным на рыночной оценке актива",
     "url": "https://tass.ru/ekonomika/26617437",
     "published": "2026-03-02T18:06:26+03:00",
     "fetched_at": "2026-03-02T15:18:35.645703+00:00",
@@ -521,12 +1324,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "faba2ee389dd914b",
     "title_original": "Лыжник Коростелев не выступит в спринте на молодежном ЧМ",
-    "content_original": "Лыжник Коростелев не выступит в спринте на молодежном ЧМ",
     "url": "https://tass.ru/sport/26617419",
     "published": "2026-03-02T18:05:43+03:00",
     "fetched_at": "2026-03-02T15:18:35.645891+00:00",
@@ -534,12 +1338,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "5014280d50d6a6fd",
     "title_original": "В Британии опровергли сообщения об эвакуации персонала с базы на Кипре",
-    "content_original": "В Британии опровергли сообщения об эвакуации персонала с базы на Кипре",
     "url": "https://ria.ru/20260302/kipr-2077975811.html",
     "published": "2026-03-02T18:05:37+03:00",
     "fetched_at": "2026-03-02T15:18:36.080063+00:00",
@@ -547,12 +1352,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "9f1d0682dad22ba1",
     "title_original": "Минобороны России сообщило о двукратном росте сил НАТО в Прибалтике",
-    "content_original": "Численность коалиционных сил НАТО в Литве, Латвии, Польше и Эстонии с февраля 2022 года почти удвоилась и достигла около 22 тыс.",
     "url": "https://www.rbc.ru/politics/24/02/2026/699ded329a7947c0fefdee63",
     "published": "2026-03-02T18:05:27+03:00",
     "fetched_at": "2026-03-02T15:18:41.408660+00:00",
@@ -560,7 +1366,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "42b186a853ae09b1",
@@ -573,12 +1381,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Which countries closed their airspace amid US operation against Iran. Map",
+    "relevant": true,
+    "summary_en": "Seven countries have completely closed their airspace following Israel and US strikes on Iran, while four additional countries—Saudi Arabia, Jordan, UAE, and Oman—have implemented partial restrictions. The article provides a map showing the flight situation across the region as airspace closures intensify amid ongoing Iran-US hostilities.",
+    "translated": true
   },
   {
     "id": "f84c0c8b1b06d0b9",
     "title_original": "В ЛДПР призвали создать механизм оповещения и помощи россиянам за рубежом в ЧС",
-    "content_original": "Первый замруководителя Центрального аппарата ЛДПР, депутат Мосгордумы Мария Воропаева отметила, что многие до сих пор не знают, куда обращаться и как встать на консульский учет",
     "url": "https://tass.ru/obschestvo/26617373",
     "published": "2026-03-02T18:04:11+03:00",
     "fetched_at": "2026-03-02T15:18:35.646092+00:00",
@@ -586,7 +1397,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "289d4630a94d84fa",
@@ -599,7 +1412,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "IRGC: Iran Attacked 60 Strategic Targets in 48 Hours",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) announced that Iran has attacked 60 strategic targets within a 48-hour period. This represents a significant escalation in Iran's military operations against the United States and its allies in the region, demonstrating Tehran's willingness to conduct high-intensity, multi-target strikes as part of its ongoing retaliation for US strikes on Iranian assets.",
+    "translated": true
   },
   {
     "id": "fb508092612250e3",
@@ -612,12 +1429,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Hegseth stated that the US is pursuing realistic goals in Iran",
+    "relevant": true,
+    "summary_en": "US Secretary of Defense Pete Hegseth stated that the United States is pursuing realistic goals in Iran amid the ongoing armed conflict. The statement comes as the US continues strikes against Iranian nuclear facilities, IRGC assets, and targets inside Iranian territory. The comment suggests the US is defining achievable military objectives rather than seeking regime change or total destruction of Iran's nuclear program.",
+    "translated": true
   },
   {
     "id": "5d26aa5399402a25",
     "title_original": "Макрон: восемь стран заинтересованы в сотрудничестве с Францией по ядерному сдерживанию",
-    "content_original": "Макрон: восемь стран заинтересованы в сотрудничестве с Францией по ядерному сдерживанию",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26617331",
     "published": "2026-03-02T18:03:00+03:00",
     "fetched_at": "2026-03-02T15:18:35.646677+00:00",
@@ -625,12 +1445,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "98fa0066d4454213",
     "title_original": "Фьючерс на серебро снижался более чем на 5%",
-    "content_original": "В это же время фьючерс на золото рос на 2,01%",
     "url": "https://tass.ru/ekonomika/26617341",
     "published": "2026-03-02T18:02:30+03:00",
     "fetched_at": "2026-03-02T15:18:35.646867+00:00",
@@ -638,12 +1459,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "b040d70a0eed4652",
     "title_original": "Apple представила бюджетный iPhone 17e",
-    "content_original": "Предзаказ можно будет оформить с 4 марта, в продаже девайсы появятся 11 числа",
     "url": "https://tass.ru/ekonomika/26617349",
     "published": "2026-03-02T18:02:14+03:00",
     "fetched_at": "2026-03-02T15:18:35.647058+00:00",
@@ -651,7 +1473,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "36e9544fe6256f5b",
@@ -664,12 +1488,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "US Reveals When Trump Ordered Start of Operation Against Iran",
+    "relevant": true,
+    "summary_en": "US officials disclosed when President Trump gave the order to begin military operations against Iran. The timing of this order marks a significant escalation in the ongoing US-Iran conflict, representing a key moment in the current hostilities between the two nations.",
+    "translated": true
   },
   {
     "id": "fadd5721345aa0d7",
     "title_original": "Всероссийское совещание руководителей региональных отделений РСО пройдет на Ямале",
-    "content_original": "На встрече обсудят анализ эффективности деятельности штабов и формирование единой стратегии реализации проектов, направленных на развитие движения студенческих отрядов России",
     "url": "https://tass.ru/obschestvo/26617371",
     "published": "2026-03-02T18:02:10+03:00",
     "fetched_at": "2026-03-02T15:18:35.647250+00:00",
@@ -677,7 +1504,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "6411d8b6cb1021aa",
@@ -690,12 +1519,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "CNN: US military casualties from operation against Iran rise to 18",
+    "relevant": true,
+    "summary_en": "The number of injured US military personnel from the operation against Iran has increased to 18, according to CNN reporting. This casualty figure comes as part of the ongoing US strikes against Iranian military assets and nuclear facilities. The increase in US casualties signals potential escalation in the Iran-US armed conflict.",
+    "translated": true
   },
   {
     "id": "fae191e7863b7060",
     "title_original": "В КБР заявили об отсутствии проблем с возвращением верующих из Саудовской Аравии",
-    "content_original": "Около 200 жителей Кабардино-Балкарии совершают малое паломничество - умру",
     "url": "https://tass.ru/obschestvo/26617283",
     "published": "2026-03-02T18:01:23+03:00",
     "fetched_at": "2026-03-02T15:18:35.647659+00:00",
@@ -703,7 +1535,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "9e4b0973426c2006",
@@ -716,12 +1550,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran Claims to Have Struck 500 Military Points of USA and Israel",
+    "relevant": true,
+    "summary_en": "Iran has claimed responsibility for strikes on 500 military installations belonging to the United States and Israel, representing a significant escalation in the ongoing Iran-US conflict. The claim suggests widespread coordinated attacks across multiple theaters, though specific details of locations, timing, and actual casualties remain to be verified. This assertion marks one of Iran's most expansive strike announcements since the conflict began, indicating a substantial expansion of hostilities beyond previous targeted attacks.",
+    "translated": true
   },
   {
     "id": "5212bb29a8583a9e",
     "title_original": "Управление гражданской авиации ОАЭ подтвердило возобновление специальных рейсов",
-    "content_original": "Пресс-служба правительства Дубая сообщала, что международные аэропорты эмирата возобновят работу в ограниченном режиме вечером 2 марта",
     "url": "https://tass.ru/obschestvo/26617277",
     "published": "2026-03-02T18:01:18+03:00",
     "fetched_at": "2026-03-02T15:18:35.647848+00:00",
@@ -729,7 +1566,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "04a75d0d1e7f81d8",
@@ -742,7 +1581,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "ABC announces new Trump statement on Iran",
+    "relevant": true,
+    "summary_en": "ABC News reported that US President Donald Trump will make a statement on the situation in Iran on March 2nd. The report did not provide details on the content of the upcoming statement.",
+    "translated": true
   },
   {
     "id": "0f9acd05a97fe1eb",
@@ -755,7 +1598,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Iran Strikes US Intelligence Centers in Persian Gulf",
+    "relevant": true,
+    "summary_en": "Iran launched strikes targeting US intelligence centers located in the Persian Gulf region. This attack represents a direct escalation in the ongoing Iran-US armed conflict, with Iran specifically striking American surveillance and intelligence infrastructure in the Gulf. The targeting of US intelligence facilities indicates Iran's strategy to degrade American reconnaissance capabilities in a strategically vital maritime area.",
+    "translated": true
   },
   {
     "id": "bd14e63d7eecdf6f",
@@ -768,7 +1615,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Hegseth: US will go as far as needed in operation against Iran",
+    "relevant": true,
+    "summary_en": "US Secretary of Defense Hegseth stated that the United States will go as far as necessary in its military operation against Iran, noting that everyone understands this commitment. The statement signals Washington's determination to escalate operations against Iran to whatever level is required, reflecting the Biden administration's position on the ongoing armed conflict.",
+    "translated": true
   },
   {
     "id": "3a9e04d2caee08ba",
@@ -781,12 +1632,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "CNN: 18 American military personnel injured in attack on Iran",
+    "relevant": true,
+    "summary_en": "CNN reports that 18 American military personnel were injured during an attack on Iran. This incident occurs within the context of ongoing US strikes against Iranian targets, including IRGC assets, nuclear facilities, and Iranian territory. The report highlights continued casualties as part of the escalating Iran-US armed conflict.",
+    "translated": true
   },
   {
     "id": "6416a516700f76fa",
     "title_original": "Россия и КНР планируют подписать соглашение о строительстве нового ж/д пути",
-    "content_original": "Россия и КНР планируют подписать соглашение о строительстве нового ж/д пути",
     "url": "https://ria.ru/20260302/rossija-2077974046.html",
     "published": "2026-03-02T18:00:00+03:00",
     "fetched_at": "2026-03-02T15:18:36.081033+00:00",
@@ -794,7 +1648,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "8161d1b87eb14f12",
@@ -807,12 +1663,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "\"Epic Fury\" Timeline and US Goals Regarding Iran. Pentagon Chief Statements",
+    "relevant": true,
+    "summary_en": "Pentagon chief Pete Hegseth stated that the United States is prepared to go as far as American interests require during its military operation, referring to the ongoing campaign against Iran. This statement comes as part of the escalating US-Iran conflict, with American forces conducting strikes on Iranian military assets, nuclear facilities, and territory.",
+    "translated": true
   },
   {
     "id": "960879b63a14ebe4",
     "title_original": "Россиянка рассказала о мерах безопасности в отеле в Дубае",
-    "content_original": "Россиянка рассказала о мерах безопасности в отеле в Дубае",
     "url": "https://ria.ru/20260302/rossiyanka-2077973542.html",
     "published": "2026-03-02T17:59:06+03:00",
     "fetched_at": "2026-03-02T15:18:36.081217+00:00",
@@ -820,7 +1679,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "dd112adfad9410b2",
@@ -833,7 +1694,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "IDF announces objectives of military campaign in Lebanon",
+    "relevant": true,
+    "summary_en": "The Israeli Defense Forces (IDF) have announced the objectives of their ongoing military campaign in Lebanon. This announcement comes as part of Israel's operations against Hezbollah targets in Lebanese territory. The campaign objectives likely include degrading Hezbollah's military capabilities and securing Israel's northern border.",
+    "translated": true
   },
   {
     "id": "1a99aa0ad5fb30be",
@@ -846,12 +1711,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Israeli Aviation Destroys Residential Building in Southern Lebanon",
+    "relevant": true,
+    "summary_en": "Israeli Air Force destroyed a residential multi-story building in southern Lebanon. The strike represents continued Israeli military operations against Hezbollah targets in Lebanon, which is part of the broader Iran-linked proxy conflict in the region.",
+    "translated": true
   },
   {
     "id": "810b3f3cd5fd27d3",
     "title_original": "Игрок в американский футбол погиб в ДТП в 23 года",
-    "content_original": "Юрий Королев",
     "url": "https://www.rbc.ru/sport/24/10/2025/68fb9cc79a794768855ba47f",
     "published": "2026-03-02T17:57:25+03:00",
     "fetched_at": "2026-03-02T15:18:41.409273+00:00",
@@ -859,12 +1727,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "c7fceb227ba88f84",
     "title_original": "ФРГ примет участие в новой ядерной доктрине Франции, заявил Макрон",
-    "content_original": "ФРГ примет участие в новой ядерной доктрине Франции, заявил Макрон",
     "url": "https://ria.ru/20260302/germanija-2077973080.html",
     "published": "2026-03-02T17:57:11+03:00",
     "fetched_at": "2026-03-02T15:18:36.081797+00:00",
@@ -872,12 +1741,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "c4652d0ed56f00b3",
     "title_original": "Франция откажется от публикации данных о своем ядерном арсенале",
-    "content_original": "Эмманюэль Макрон",
     "url": "https://www.rbc.ru/politics/02/03/2026/69a553f99a79471a0301f265",
     "published": "2026-03-02T17:56:59+03:00",
     "fetched_at": "2026-03-02T15:18:41.409486+00:00",
@@ -885,12 +1755,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "92d6597c3846e356",
     "title_original": "Путин в разговоре с эмиром Катара выразил готовность оказать поддержку Дохе",
-    "content_original": "Путин в разговоре с эмиром Катара выразил готовность оказать поддержку Дохе",
     "url": "https://tass.ru/mezhdunarodnaya-panorama/26617313",
     "published": "2026-03-02T17:56:39+03:00",
     "fetched_at": "2026-03-02T15:18:35.648450+00:00",
@@ -898,12 +1769,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "f520801ea11bac55",
     "title_original": "Власти Кипра могут пересмотреть статус британских баз после ударов БПЛА",
-    "content_original": "Власти Кипра могут пересмотреть статус британских баз после ударов БПЛА",
     "url": "https://ria.ru/20260302/kipr-2077972865.html",
     "published": "2026-03-02T17:56:12+03:00",
     "fetched_at": "2026-03-02T15:18:36.081995+00:00",
@@ -911,12 +1783,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "0262a2fe186d3042",
     "title_original": "Россия предложила КНР делиться опытом регулирования беспилотного транспорта",
-    "content_original": "Россия предложила КНР делиться опытом регулирования беспилотного транспорта",
     "url": "https://ria.ru/20260302/rossija-2077972665.html",
     "published": "2026-03-02T17:55:58+03:00",
     "fetched_at": "2026-03-02T15:18:36.082181+00:00",
@@ -924,7 +1797,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "e4b78ba5572d9db6",
@@ -937,12 +1812,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Evacuation underway at Saudi Aramco refinery in Saudi Arabia after drone debris falls",
+    "relevant": true,
+    "summary_en": "Saudi Aramco is evacuating drilling workers from desert areas after debris from shot-down drones fell on the company's Ras Tanura refinery. The incident involved drones that were intercepted, with debris landing on the oil facility. This targeting of critical Saudi energy infrastructure comes amid the broader Iran-US conflict and ongoing Houthi operations in the region.",
+    "translated": true
   },
   {
     "id": "3c3d9a3f7e086d0d",
     "title_original": "Умер режиссер, сценарист и продюсер Слава Цукерман",
-    "content_original": "Режиссер, сценарист и продюсер Владислав Цукерман (Слава Цукерман) скончался 2 марта 2026 года в возрасте 86 лет, сообщил Союз кинематографистов России.",
     "url": "https://www.rbc.ru/rbcfreenews/69a5a3d39a79475c066012fb",
     "published": "2026-03-02T17:55:10+03:00",
     "fetched_at": "2026-03-02T15:18:41.409687+00:00",
@@ -950,7 +1828,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "4567ee49c1cc17f8",
@@ -963,7 +1843,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "West sounds alarm over threat to Trump after strikes on Iran",
+    "relevant": true,
+    "summary_en": "Western officials have raised concerns about potential threats to former US President Donald Trump following American military strikes on Iranian targets. The alarm comes as tensions between the US and Iran continue to escalate, with the strikes targeting IRGC assets and potentially nuclear facilities. The development highlights the growing security concerns surrounding US political figures as the conflict intensifies.",
+    "translated": true
   },
   {
     "id": "57fbc0f4b34ac3e0",
@@ -976,7 +1860,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Operation in Iran Will Not Require 200,000 US Troops, Hegseth Said",
+    "relevant": true,
+    "summary_en": "US Defense Secretary Hegseth stated that a potential operation in Iran would not require 200,000 American troops. The statement comes as the US continues strikes against Iranian military assets and IRGC targets as part of the ongoing armed conflict between the two nations.",
+    "translated": true
   },
   {
     "id": "286bac1014ae5ec5",
@@ -989,7 +1877,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Rutte supported US actions against Iran",
+    "relevant": true,
+    "summary_en": "NATO Secretary General Mark Rutte expressed support for US actions against Iran. This represents NATO alignment with US position on the Iran conflict, signaling Western alliance unity in the ongoing US-Iran military standoff.",
+    "translated": true
   },
   {
     "id": "0c06f3df89def757",
@@ -1002,7 +1894,11 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Europe Ready to Support US Operation Against Iran, NATO Says",
+    "relevant": true,
+    "summary_en": "NATO officials stated that European allies are prepared to support the United States in military operations against Iran. This represents a significant expansion of the coalition backing US strikes on Iranian targets, potentially including IRGC assets, nuclear facilities, and Iranian territory. The European support signals coordinated allied action against Iran amid escalating hostilities in the Gulf region.",
+    "translated": true
   },
   {
     "id": "d5b9b08d07c27e01",
@@ -1015,12 +1911,15 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "title_en": "Hegseth: US operation not aimed at forced regime change in Iran",
+    "relevant": true,
+    "summary_en": "US Defense Secretary Hegseth stated that the American military operation in Iran is not aimed at forcibly changing the regime in Tehran. He claimed that such a change has 'allegedly occurred,' though the statement appears to be addressing concerns about US war objectives amid ongoing strikes on Iranian military assets and nuclear facilities.",
+    "translated": true
   },
   {
     "id": "30823f1a5f3d6cbf",
     "title_original": "Россия и КНР готовят документы по облегчению визового режима для машинистов",
-    "content_original": "Россия и КНР готовят документы по облегчению визового режима для машинистов",
     "url": "https://ria.ru/20260302/mashinisty-2077970616.html",
     "published": "2026-03-02T17:51:56+03:00",
     "fetched_at": "2026-03-02T15:18:36.083236+00:00",
@@ -1028,12 +1927,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "a3ade2dbd7d68e48",
     "title_original": "Макрон сообщил, какие страны присоединятся к продвинутой ядерной стратегии",
-    "content_original": "Макрон сообщил, какие страны присоединятся к продвинутой ядерной стратегии",
     "url": "https://ria.ru/20260302/makron-2077970520.html",
     "published": "2026-03-02T17:51:31+03:00",
     "fetched_at": "2026-03-02T15:18:36.083449+00:00",
@@ -1041,12 +1941,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "d17da94d08477819",
     "title_original": "Макрон поручил увеличить число ядерных боеголовок в арсенале Франции",
-    "content_original": "Президент Франции Эмманюэль Макрон заявил, что поручил увеличить число ядерных боеголовок в арсенале страны, при этом точные цифры он раскрывать не намерен. По его словам, Франция вступает в период «продвинутого ядерного сдерживания», которое предполагает в том числе развертывание элементов стратегических сил на территории союзников.",
     "url": "https://www.kommersant.ru/doc/8478343",
     "published": "2026-03-02T17:51:18+03:00",
     "fetched_at": "2026-03-02T15:18:40.135990+00:00",
@@ -1054,12 +1955,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "423d59122b2e9cef",
     "title_original": "Объем автомобильных перевозок между Россией и Китаем вырос в несколько раз",
-    "content_original": "Объем автомобильных перевозок между Россией и Китаем вырос в несколько раз",
     "url": "https://ria.ru/20260302/obem-2077970353.html",
     "published": "2026-03-02T17:50:53+03:00",
     "fetched_at": "2026-03-02T15:18:36.083641+00:00",
@@ -1067,12 +1969,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "e0f8496ae9d1b271",
     "title_original": "В Москве 3 марта прогнозируют небольшое похолодание",
-    "content_original": "Ведущий сотрудник Гидрометцентра России Марина Макарова отметила, что 4 марта ночью ожидается местами небольшой снег, прояснения в облачном покрове",
     "url": "https://tass.ru/obschestvo/26617297",
     "published": "2026-03-02T17:50:34+03:00",
     "fetched_at": "2026-03-02T15:18:35.648834+00:00",
@@ -1080,12 +1983,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "eefdfb72b31cb1d2",
     "title_original": "Ситуация на Ближнем Востоке может оправдать неявку на работу, считает юрист",
-    "content_original": "Ситуация на Ближнем Востоке может оправдать неявку на работу, считает юрист",
     "url": "https://ria.ru/20260302/rabota-2077970167.html",
     "published": "2026-03-02T17:50:34+03:00",
     "fetched_at": "2026-03-02T15:18:36.083831+00:00",
@@ -1093,12 +1997,13 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "3b2ef79d272411fe",
     "title_original": "В Запорожской области после удара беспилотника ВСУ погиб мужчина",
-    "content_original": "В Запорожской области после удара беспилотника ВСУ погиб мужчина",
     "url": "https://ria.ru/20260302/bespilotnik-2077969980.html",
     "published": "2026-03-02T17:50:26+03:00",
     "fetched_at": "2026-03-02T15:18:36.084016+00:00",
@@ -1106,7 +2011,9 @@
     "source_category": "state",
     "language": "ru",
     "region": "russia",
-    "skip_translation": false
+    "skip_translation": false,
+    "relevant": false,
+    "translated": true
   },
   {
     "id": "9a4b943f342e0019",
@@ -2516,6 +3423,144 @@
     "skip_translation": false,
     "relevant": false,
     "translated": true
+  },
+  {
+    "id": "b6a5f061d2e13ac5",
+    "title_original": "🇨🇳 🤝 🇮🇷  Spokesman of the Chinese Ministry of Foreign Affairs, Lin Jian, on X/Twitter: Chinese FM Wang Yi held a phon...",
+    "content_original": "🇨🇳 🤝 🇮🇷 Spokesman of the Chinese Ministry of Foreign Affairs, Lin Jian, on X/Twitter: Chinese FM Wang Yi held a phone conversation with Iranian FM Seyed Abbas Araghchi. China supports Iran in safeguarding its sovereignty, security, territorial integrity, and national dignity, and supports Iran in upholding its legitimate and lawful rights and interests. China has urged the U.S. and Israel to immediately cease military operations, prevent further escalation of tensions, and stop the conflict from spreading and engulfing the entire. 🔗 Lin Jian",
+    "url": "https://t.me/CIG_telegram/70114",
+    "published": "2026-03-02T16:15:53+00:00",
+    "fetched_at": "2026-03-02T16:22:31.678081+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "China expresses support for Iran in phone call, urges US and Israel to cease military operations",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Chinese Foreign Minister Wang Yi held a phone conversation with Iranian FM Seyed Abbas Araghchi, expressing China's support for Iran's sovereignty, security, territorial integrity, and national dignity. China urged the US and Israel to immediately cease military operations and prevent further escalation, representing Beijing's diplomatic positioning in the ongoing Iran-US conflict."
+  },
+  {
+    "id": "b65ba8b3c4ad3e6f",
+    "title_original": "🇮🇷 ❌ 🇮🇱  — Missile debris fell on a building in Petah Tikva, Central Israel.",
+    "content_original": "🇮🇷 ❌ 🇮🇱 — Missile debris fell on a building in Petah Tikva, Central Israel.",
+    "url": "https://t.me/CIG_telegram/70112",
+    "published": "2026-03-02T16:13:32+00:00",
+    "fetched_at": "2026-03-02T16:22:31.677403+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Missile debris falls on building in Petah Tikva, Central Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian missile debris fell on a civilian building in Petah Tikva, central Israel, following Iranian ballistic missile launches. This incident indicates continued Iranian attacks on Israeli territory as part of the ongoing Iran-Israel military confrontation, with debris from either the missiles themselves or intercepted warheads striking the Israeli population center."
+  },
+  {
+    "id": "98fb01dc53705c04",
+    "title_original": "🇮🇷 ❌ 🇮🇱  — An impact in Tel Aviv.",
+    "url": "https://t.me/CIG_telegram/70111",
+    "published": "2026-03-02T16:13:19+00:00",
+    "fetched_at": "2026-03-02T16:22:31.676636+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "7aea82bfa4b64d18",
+    "title_original": "— ❗️ 🇶🇦 / 🇮🇷  BREAKING:  The Qatari Ministry of Defense claims it shot down two Iranian Su-24 jets headed for Doha @M...",
+    "url": "https://t.me/CIG_telegram/70110",
+    "published": "2026-03-02T16:11:32+00:00",
+    "fetched_at": "2026-03-02T16:22:31.675872+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "fa393ce34e6c6c63",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷   Defense secretary, Pete Hegseth, dodges a question about the U.S' exit strategy from Iran. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70109",
+    "published": "2026-03-02T16:06:51+00:00",
+    "fetched_at": "2026-03-02T16:22:31.675333+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "5ac597347156565e",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷  Defense secretary, Pete Hegseth, says that the war in Iran will have realistic objectives and won't be \"end...",
+    "content_original": "🇺🇸 ⚔️ 🇮🇷 Defense secretary, Pete Hegseth, says that the war in Iran will have realistic objectives and won't be \"endless\" like Iraq or Afghanistan. @CIG_telegram",
+    "url": "https://t.me/CIG_telegram/70108",
+    "published": "2026-03-02T16:05:06+00:00",
+    "fetched_at": "2026-03-02T16:22:31.674625+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "US Defense Secretary Hegseth says war with Iran will have realistic objectives, won't be endless like Iraq or Afghanistan",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US Defense Secretary Pete Hegseth stated that the war with Iran will have realistic, achievable objectives and will not become an endless conflict like the wars in Iraq or Afghanistan. The statement signals a shift toward defined military goals in the ongoing US-Iran conflict, which includes Iranian ballistic missile and drone attacks on US bases and US strikes on Iranian military assets. The comment appears aimed at managing expectations about the scope and duration of hostilities with Iran."
+  },
+  {
+    "id": "11781d615c909b3f",
+    "title_original": "🏳️  Bogdan   Krysak, an AFU POW from the 425th Skala Assault Regiment, spoke about the critical situation in his unit...",
+    "url": "https://t.me/mod_russia_en/25923",
+    "published": "2026-03-02T16:04:36+00:00",
+    "fetched_at": "2026-03-02T16:22:28.698123+00:00",
+    "source_name": "Russian MoD English (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "01cee609d39f278f",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷  Defense secretary, Pete Hegseth says the US will not do any nation or democracy building in Iran. @CIG_tele...",
+    "url": "https://t.me/CIG_telegram/70107",
+    "published": "2026-03-02T16:02:48+00:00",
+    "fetched_at": "2026-03-02T16:22:31.673909+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "11d4dd1657230094",
+    "title_original": "🇺🇸 ⚔️ 🇮🇷  WaPo: the mood inside the Pentagon is \"intense and paranoid\"  Pentagon leaders worry the US will expend its...",
+    "content_original": "🇺🇸 ⚔️ 🇮🇷 WaPo: the mood inside the Pentagon is \"intense and paranoid\" Pentagon leaders worry the US will expend its air defense stockpiles, and the conflict will \"spiral out of control\" This is precisely what Pentagon Joint Chiefs Chair Dan Caine warned of…",
+    "url": "https://t.me/CIG_telegram/70106",
+    "published": "2026-03-02T15:55:07+00:00",
+    "fetched_at": "2026-03-02T16:22:31.673215+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "WaPo: Pentagon mood 'intense and paranoid' as leaders warn US may exhaust air defense stockpiles, conflict could 'spiral out of control'",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "According to Washington Post reporting, Pentagon leadership is experiencing an 'intense and paranoid' atmosphere regarding the ongoing Iran-US conflict. Senior officials are concerned the US will exhaust its air defense stockpiles (particularly interceptors for systems like THAAD and Patriot) if Iranian missile and drone attacks continue at current intensity. Chairman of the Joint Chiefs Dan Caine has warned that the conflict risks 'spiraling out of control,' highlighting strategic concerns about sustained Israeli-style Iranian attacks on US bases in Iraq, Syria, and the Gulf region."
   },
   {
     "id": "28840c05172d342b",
