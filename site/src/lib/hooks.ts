@@ -92,7 +92,7 @@ export function useArticlesByRegion() {
       .in("region", regions)
       .not("relevant", "is", false)
       .eq("translated", true)
-      .order("fetched_at", { ascending: false, nullsFirst: false })
+      .order("effective_time", { ascending: false })
       .limit(500);
 
     if (error) {
@@ -137,7 +137,7 @@ export function useAttackArticles() {
     const { data, error } = await sb
       .from("attacks")
       .select("*")
-      .order("fetched_at", { ascending: false, nullsFirst: false })
+      .order("effective_time", { ascending: false })
       .limit(1000);
 
     if (error) {
@@ -146,8 +146,8 @@ export function useAttackArticles() {
       const sorted = (data || [])
         .map(rowToArticle)
         .sort((a, b) => {
-          const tA = a.fetched_at ? new Date(a.fetched_at).getTime() : 0;
-          const tB = b.fetched_at ? new Date(b.fetched_at).getTime() : 0;
+          const tA = a.fetched_at ? new Date(a.fetched_at).getTime() : new Date(a.published).getTime();
+          const tB = b.fetched_at ? new Date(b.fetched_at).getTime() : new Date(b.published).getTime();
           return tB - tA;
         });
       setAttacks(sorted);

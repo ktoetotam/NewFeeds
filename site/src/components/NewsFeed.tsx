@@ -36,9 +36,12 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
   const debouncedQuery = useDebounce(searchQuery, 250);
 
   function effectiveTime(a: Article): number {
-    if (a.fetched_at) return new Date(a.fetched_at).getTime();
+    const now = Date.now();
     const pub = new Date(a.published).getTime();
-    return isNaN(pub) ? 0 : pub;
+    if (!isNaN(pub) && pub <= now) return pub;
+    const fetched = a.fetched_at ? new Date(a.fetched_at).getTime() : NaN;
+    if (!isNaN(fetched)) return fetched;
+    return 0;
   }
 
   const allArticles = Object.values(articlesByRegion)

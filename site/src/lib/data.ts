@@ -21,11 +21,14 @@ function readJSON<T>(filePath: string, fallback: T): T {
   }
 }
 
-/** Returns the effective timestamp used for display (fetched_at preferred). */
+/** Returns the effective timestamp used for display (matches formatTimeAgo logic). */
 function effectiveTime(a: Article): number {
-  if (a.fetched_at) return new Date(a.fetched_at).getTime();
+  const now = Date.now();
   const pub = new Date(a.published).getTime();
-  return isNaN(pub) ? 0 : pub;
+  if (!isNaN(pub) && pub <= now) return pub;
+  const fetched = a.fetched_at ? new Date(a.fetched_at).getTime() : NaN;
+  if (!isNaN(fetched)) return fetched;
+  return 0;
 }
 
 // ── Default threat level (shared fallback) ──────────────────
@@ -88,7 +91,7 @@ export async function getArticlesByRegion(region: RegionKey): Promise<Article[]>
         .eq("region", region)
         .not("relevant", "is", false)
         .eq("translated", true)
-        .order("fetched_at", { ascending: false, nullsFirst: false })
+        .order("effective_time", { ascending: false })
         .limit(200);
 
       if (!error && data) {
@@ -134,7 +137,7 @@ export async function getAttackArticles(): Promise<Article[]> {
       const { data, error } = await sb
         .from("attacks")
         .select("*")
-        .order("fetched_at", { ascending: false, nullsFirst: false })
+        .order("effective_time", { ascending: false })
         .limit(1000);
 
       if (!error && data) {
