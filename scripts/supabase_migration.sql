@@ -114,7 +114,19 @@ CREATE TABLE IF NOT EXISTS executive_summary (
 INSERT INTO executive_summary (id) VALUES ('current') ON CONFLICT (id) DO NOTHING;
 
 -- ============================================================
--- 5. ROW LEVEL SECURITY (RLS)
+-- 5. OPERATIONAL_BRIEFING TABLE — 1-hour window operational email briefing
+-- ============================================================
+CREATE TABLE IF NOT EXISTS operational_briefing (
+  id           TEXT PRIMARY KEY DEFAULT 'current',   -- always 'current'
+  data         JSONB NOT NULL DEFAULT '{}',          -- full briefing JSON blob
+  generated_at TIMESTAMPTZ
+);
+
+-- Ensure the singleton row exists
+INSERT INTO operational_briefing (id) VALUES ('current') ON CONFLICT (id) DO NOTHING;
+
+-- ============================================================
+-- 6. ROW LEVEL SECURITY (RLS)
 -- ============================================================
 
 -- Enable RLS on all tables
@@ -135,6 +147,11 @@ CREATE POLICY IF NOT EXISTS "anon_select_threat_level"
 
 CREATE POLICY IF NOT EXISTS "anon_select_executive_summary"
   ON executive_summary FOR SELECT TO anon USING (true);
+
+ALTER TABLE operational_briefing ENABLE ROW LEVEL SECURITY;
+
+CREATE POLICY IF NOT EXISTS "anon_select_operational_briefing"
+  ON operational_briefing FOR SELECT TO anon USING (true);
 
 -- Service role bypasses RLS automatically, so no explicit policies needed.
 -- The Python pipeline uses the service_role key for all writes.

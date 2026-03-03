@@ -136,3 +136,25 @@ export interface ArchiveEntry {
   incident_count_24h: number;
   summary_preview: string;
 }
+
+export interface CountrySummary {
+  country: string;
+  bullets: string[];
+}
+
+export interface OperationalBriefingData {
+  generated_at: string;
+  window_minutes: number;
+  window_start: string;
+  window_end: string;
+  window_start_display: string;
+  window_end_display: string;
+  caveat: string;
+  executive_summary: string;
+  trends: string[];
+  country_summaries: CountrySummary[];
+  source_count: {
+    attacks_analyzed: number;
+    articles_analyzed: number;
+  };
+}

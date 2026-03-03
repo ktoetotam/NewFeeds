@@ -37,6 +37,7 @@ DATA_DIR = SCRIPT_DIR.parent / "data"
 SOURCES_FILE = SCRIPT_DIR / "sources.yaml"
 
 import db as supabase_db
+from generate_briefing import generate_briefing
 from generate_summary import generate_and_save
 from threat_level import compute_and_save_threat_level
 
@@ -137,12 +138,27 @@ def main():
     except Exception as e:
         logger.warning(f"Supabase upsert_executive_summary failed: {e}")
 
+    # ── Operational briefing (1-hour window) ──
+    logger.info("Generating operational briefing (1h window)...")
+    briefing = generate_briefing(
+        attacks=attacks,
+        articles=articles,
+        api_key=api_key,
+    )
+    try:
+        supabase_db.upsert_operational_briefing(briefing)
+        logger.info("Operational briefing pushed to Supabase")
+    except Exception as e:
+        logger.warning(f"Supabase upsert_operational_briefing failed: {e}")
+
     logger.info("=" * 60)
     logger.info("Standalone summary generation complete!")
     logger.info(f"  Generated at: {summary.get('generated_at', '?')}")
     logger.info(f"  Threat level: {threat.get('current', {}).get('label', '?')}")
     logger.info(f"  Attacks analyzed: {summary.get('source_count', {}).get('attacks_analyzed', 0)}")
     logger.info(f"  Articles analyzed: {summary.get('source_count', {}).get('articles_analyzed', 0)}")
+    logger.info(f"  Briefing window: {briefing.get('window_start_display', '?')} → {briefing.get('window_end_display', '?')}")
+    logger.info(f"  Briefing events: {briefing.get('source_count', {}).get('attacks_analyzed', 0)} attacks, {briefing.get('source_count', {}).get('articles_analyzed', 0)} articles")
     logger.info("=" * 60)
 
 

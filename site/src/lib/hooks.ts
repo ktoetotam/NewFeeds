@@ -13,6 +13,7 @@ import type {
   Article,
   ThreatLevel,
   ExecutiveSummaryData,
+  OperationalBriefingData,
   RegionKey,
   ArchiveEntry,
 } from "./types";
@@ -239,4 +240,40 @@ export function useExecutiveSummary() {
   }, [fetch]);
 
   return { summary, loading, refetch: fetch };
+}
+
+// ── useOperationalBriefing ──────────────────────────────────
+
+export function useOperationalBriefing() {
+  const [briefing, setBriefing] = useState<OperationalBriefingData | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  const fetch = useCallback(async () => {
+    const sb = getSupabaseBrowser();
+    if (!sb) {
+      setLoading(false);
+      return;
+    }
+
+    const { data, error } = await sb
+      .from("operational_briefing")
+      .select("*")
+      .eq("id", "current")
+      .single();
+
+    if (!error && data?.data) {
+      const blob =
+        typeof data.data === "string" ? JSON.parse(data.data) : data.data;
+      setBriefing(blob as OperationalBriefingData);
+    }
+    setLoading(false);
+  }, []);
+
+  useEffect(() => {
+    fetch();
+    const id = setInterval(fetch, FAST_POLL_MS);
+    return () => clearInterval(id);
+  }, [fetch]);
+
+  return { briefing, loading, refetch: fetch };
 }

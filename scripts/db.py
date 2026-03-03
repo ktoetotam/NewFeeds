@@ -201,6 +201,26 @@ def upsert_executive_summary(data: dict) -> bool:
         return False
 
 
+def upsert_operational_briefing(data: dict) -> bool:
+    """Upsert the singleton operational_briefing row."""
+    client = get_client()
+    if client is None:
+        return False
+
+    try:
+        row = {
+            "id": "current",
+            "data": json.dumps(data),
+            "generated_at": data.get("generated_at", datetime.now(timezone.utc).isoformat()),
+        }
+        client.table("operational_briefing").upsert(row, on_conflict="id").execute()
+        logger.info("Supabase: upserted operational_briefing")
+        return True
+    except Exception as e:
+        logger.error(f"Supabase upsert_operational_briefing failed: {e}")
+        return False
+
+
 # ── Read helpers (used by the merge job to load cross-region data) ────
 
 
