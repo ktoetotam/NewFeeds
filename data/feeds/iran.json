@@ -1,5 +1,22 @@
 [
   {
+    "id": "636893d793c87f27",
+    "title_original": "الحرس الثوري: استهداف تجمع لقوات أميركية في دبي بهجوم مسيّر وصاروخي",
+    "content_original": "أعلن الحرس الثوري، استهداف تجمع لقوات أميركية في دبي بهجوم مسيّر وصاروخي.",
+    "url": "https://www.alalam.ir/news/7421468",
+    "published": "2026-03-03T04:03:30+00:00",
+    "fetched_at": "2026-03-03T01:25:21.591249+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC: Targeting American forces gathering in Dubai with drone and missile attack",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) announced that it targeted a gathering of American forces in Dubai using a combined drone and missile attack. This strike represents a significant escalation targeting US military personnel and assets in the UAE, a key US ally in the Gulf region.",
+    "translated": true
+  },
+  {
     "id": "28a074d93c5e22b8",
     "title_original": "عراقجي: القواعد الأمريكية في المنطقة هدف مشروع لنا",
     "content_original": "أكد وزير الخارجية الإيراني سيد عباس عراقجي أن القواعد الأمريكية في المنطقة هدف مشروع لإيران....",
@@ -67,6 +84,51 @@
     "translated": true
   },
   {
+    "id": "8d1dd90a254d92bb",
+    "title_original": "Tehran condemns IAEA inaction as US-Israeli aggression targets nuclear facilities",
+    "content_original": "Tehran condemns IAEA inaction as US-Israeli aggression targets nuclear facilities",
+    "url": "https://presstv.ir/Detail/2026/03/03/764906/Tehran-condemns-IAEA-inaction-as-US-Israeli-aggression-targets-nuclear-facilities",
+    "published": "2026-03-03T01:25:21.039054+00:00",
+    "fetched_at": "2026-03-03T01:25:21.039058+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Tehran condemns IAEA inaction as US-Israeli aggression targets nuclear facilities",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran condemns the International Atomic Energy Agency for failing to act against what Tehran describes as US-Israeli aggression targeting Iranian nuclear facilities. This reflects ongoing tensions over nuclear infrastructure strikes as part of the wider Iran-US armed conflict."
+  },
+  {
+    "id": "48777bb2c80580e3",
+    "title_original": "\"We will continue the Leader's path\" Young girl reacts to Imam Khamenei's martyrdom  @PressTV",
+    "url": "https://t.me/presstv/177748",
+    "published": "2026-03-03T01:16:21+00:00",
+    "fetched_at": "2026-03-03T01:27:25.842537+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
+    "id": "dfff6b8a0682bc44",
+    "title_original": "🔺 \"Iran designed its missiles with almost no international support, while under constant assault” Max Blumenthal prov...",
+    "url": "https://t.me/presstv/177747",
+    "published": "2026-03-03T01:14:29+00:00",
+    "fetched_at": "2026-03-03T01:27:25.841878+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
     "id": "1b4936450e38039e",
     "title_original": "رسالة إيرانية إلى غروسي بشأن الهجمات الأمريكية على نطنز",
     "content_original": "وجّه رئيس منظمة الطاقة الذرية الإيرانية رسالة إلى المدير العام للوكالة الدولية للطاقة الذرية، رافائيل غروسي، أعلن فيها احتجاجه على الهجمات المتكررة و...",
@@ -82,6 +144,20 @@
     "relevant": true,
     "summary_en": "The head of the Iranian Atomic Energy Organization sent a letter to IAEA Director General Rafael Grossi protesting repeated American attacks on the Natanz nuclear facility. This is significant as Natanz is Iran's primary uranium enrichment site, and US strikes on this facility represent a major escalation targeting critical Iranian nuclear infrastructure in the ongoing conflict.",
     "translated": true
+  },
+  {
+    "id": "5c791dca42322d03",
+    "title_original": "Iran's Red Crescent Society says 555 Iranians martyred in US-Israeli attacks in 131 cities  @PressTV",
+    "url": "https://t.me/presstv/177746",
+    "published": "2026-03-03T01:02:23+00:00",
+    "fetched_at": "2026-03-03T01:27:25.841101+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
   },
   {
     "id": "a42702e968cf361c",

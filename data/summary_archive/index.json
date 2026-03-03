@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-03T01-21-29.390679_plus_00-00.json",
+    "generated_at": "2026-03-03T01:21:29.390679+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 741,
+    "summary_preview": "The Iran-US conflict has entered a new phase of expanded geographic targeting and heightened diplomatic incidents. Iran's retaliatory missile campaign continues across six Middle Eastern countries, wi"
+  },
+  {
     "filename": "2026-03-03T00-48-52.996631_plus_00-00.json",
     "generated_at": "2026-03-03T00:48:52.996631+00:00",
     "threat_label": "MAJOR",
@@ -880,14 +889,5 @@
     "trend": "stable",
     "incident_count_24h": 130,
     "summary_preview": "The Iran–US conflict has escalated to a critical level with multiple direct military engagements, including missile strikes, drone attacks, and naval incidents. Recent developments indicate a signific"
-  },
-  {
-    "filename": "2026-02-28T21-13-31.399957_plus_00-00.json",
-    "generated_at": "2026-02-28T21:13:31.399957+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 114,
-    "summary_preview": "The Iran–US conflict has escalated to a critical level, with direct military engagements between Iran, the US, and Israel, including missile barrages, airstrikes, and naval incidents. The conflict has"
   }
 ]

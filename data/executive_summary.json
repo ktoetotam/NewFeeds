@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-03T01:21:29.390679+00:00",
+  "generated_at": "2026-03-03T01:59:22.182921+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 741,
-    "incident_count_6h": 204,
+    "incident_count_24h": 739,
+    "incident_count_6h": 194,
     "severity_breakdown": {
-      "major": 327,
-      "high": 244,
-      "medium": 164,
+      "major": 324,
+      "high": 241,
+      "medium": 168,
       "low": 6
     }
   },
   "source_count": {
-    "attacks_analyzed": 165,
-    "articles_analyzed": 180,
+    "attacks_analyzed": 151,
+    "articles_analyzed": 174,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -30,50 +30,54 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has entered a new phase of expanded geographic targeting and heightened diplomatic incidents. Iran's retaliatory missile campaign continues across six Middle Eastern countries, with the IRGC closing the Strait of Hormuz and targeting US diplomatic facilities. A drone strike on the US Embassy in Riyadh marks the first direct attack on a US embassy in this conflict. Israel has issued an evacuation warning for the Iranian Broadcasting Authority, signaling imminent strikes on Tehran media infrastructure.",
-  "whats": [
-    "Drone strike on US Embassy in Riyadh: Two drones attacked the US embassy, causing fire and material damage — first direct embassy attack in current conflict",
-    "IDF issues evacuation warning for Iranian Broadcasting Authority complex in Tehran, announcing imminent airstrike within hours",
-    "IRGC launches 11th wave of attacks targeting US intelligence centers and military depots across the region",
-    "Qatar files formal UN complaint claiming Iranian aggression violated its territorial sovereignty",
-    "Saudi Crown Prince Salman holds emergency talks with Swiss President Parmelin regarding regional military escalation"
+  "executive_summary": "The Iran-US conflict has escalated dramatically with Iran's Supreme Leader killed in an Israeli strike on March 2, triggering expanded Iranian retaliatory operations across the Gulf region. Six US soldiers have been confirmed killed in Kuwait, with IRGC launching attacks on US bases in Jordan, UAE, and Kuwait using drones and ballistic missiles. The war is projected by Trump to last 4 weeks, while Iran has closed the Strait of Hormuz and launched drone attacks on the US embassy in Riyadh.",
+  "whats_new": [
+    "IRGC closed the Strait of Hormuz, threatening global oil supplies (confirmed by multiple sources)",
+    "US Army confirms 6 soldiers killed in Kuwait missile strike - no alarm was activated before impact",
+    "UAE Defense Ministry: air defenses intercepting ballistic missile volley launched directly from Iran",
+    "US embassy in Riyadh attacked by two drones - escalation against US diplomatic facility in Gulf",
+    "Israeli-US 'double-tap' strike on downtown Tehran targeted rescuers - potential war crime",
+    "IRGC announced striking 50 strategic targets and 500 military points using 700 drones and hundreds of missiles",
+    "Qatar filed formal UN complaint over Iranian attack on its territory",
+    "US State Department urged all Americans to immediately leave 15 Middle Eastern countries"
   ],
   "confirmed_events": [
-    "Confirmed by multiple sources: Israeli strike killed Iran's Supreme Leader Khamenei on Feb 28 as part of Operation Epic Fury",
-    "Confirmed: 6 US troops killed in Iran missile/drone strikes on bases in Iraq, Syria, and Gulf states — no change from previous cycle",
-    "Confirmed: IRGC closed the Strait of Hormuz; US-allied fuel tanker remains burning in the waterway after Iranian attack",
-    "Confirmed: Double-tap US/Israeli airstrike struck downtown Tehran, targeting rescuers — grave IHL violation per witnesses",
-    "Confirmed: Iranian ballistic missiles struck Dubai (UAE), Kuwait, Jordan (Muwaffaq Salti Air Base), and Qatar"
+    "Iran's Supreme Leader Ayatollah Ali Khamenei killed in Israeli strike on Tehran - confirmed by Trump statement and multiple sources",
+    "Six US service members killed in first three days of Iran-US war - confirmed by US military announcement",
+    "Iranian ballistic missile directly struck Muwaffaq Salti Air Base in Jordan - visual confirmation of impact",
+    "Israeli airstrikes on Tehran and Beirut (Hezbollah command) - ongoing operations",
+    "Iranian missiles successfully evaded US air defense systems in Kuwait's airspace"
   ],
   "unverified_emerging": [
-    "IRGC claims 40 American personnel killed in combined drone-missile attack in Dubai — source: Tasnim News, unverified; official US casualty count remains 6",
-    "IRGC claims over 160 American soldiers targeted in Kuwait and Dubai — source: Al Masirah (Houthi), unverified",
-    "Press blackout reported on details of drone strike on US embassy in Riyadh — source: War Monitors, limited verification available",
-    "Norwegian rights group Hengaw reports 1,500 civilian deaths in western Iran over three days — cannot independently verify"
+    "IRGC claims killing dozens of US officers and commanders in Dubai (IRGC source only - unverified)",
+    "IRGC claims attack on gathering of 160+ US Marine infantry personnel in UAE (IRGC source only)",
+    "Norwegian rights group Hengaw reports day-three death toll in western Iran reaching at least 1,500 (single source, cannot independently verify)"
   ],
-  "operational_impairs": {
+  "operational_impacts": {
     "people_travel": [
-      "All US personnel evacuated from Riyadh embassy at time of drone attack per Fox News",
-      "Air raid sirens active in northern Israel (Upper Galilee, Shlomi, Matte Asher, Maale Yossef) — ongoing threat from Lebanese Hezbollah rockets"
+      "US State Department issued 'immediate departure' advisory for 15 Middle Eastern countries including Saudi Arabia, UAE, Bahrain, Iran, Iraq, Jordan, Kuwait, Lebanon, Qatar",
+      "Airspace restrictions and flight cancellations strand travelers across region - Trump advisor reported being 'stuck in the Middle East'"
     ],
     "supply_chain": [
-      "Strait of Hormuz closed by IRGC — critical global oil chokepoint disrupted, tanker attack threatens shipping through Persian Gulf",
-      "Asia-Pacific markets extend losses; oil prices rising on supply disruption fears"
+      "Strait of Hormuz closed by IRGC - critical global oil chokepoint disrupted",
+      "Asia-Pacific markets extend losses as Iran conflict rages; oil prices rising",
+      "US-allied fuel tanker attacked and still burning in Strait of Hormuz"
     ],
     "market_macro": [
-      "South Korean defense stocks surge: Hanwha Aerospace +22% — Kospi index falls 2%",
-      "Global oil prices climbing on Strait of Hormuz closure; energy supply threat escalating"
+      "South Korean defense stocks surge: Hanwha Aerospace jumps 22%",
+      "Broader Kospi index falls 2%, reflecting divergent market sentiment",
+      "Global oil supply threat from Hormuz closure driving price increases"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "Conflict will intensify over the next 24-72 hours with Israel preparing imminent strikes on Iranian media/infrastructure in Tehran following evacuation warnings. Iran will continue Wave 11+ operations targeting US bases across six countries. The Strait of Hormuz closure remains the primary supply chain risk, with tanker attacks demonstrating Iran's area-denial capability. Trump administration maintains 4-week timeline estimate while Rubio warns next phase will be 'more painful' for Iran.",
+    "base_case": "Conflict will intensify over the next 24-72 hours with Iran continuing retaliatory strikes across Gulf states (UAE, Kuwait, Jordan, Qatar) and against Israeli territory. IRGC has signaled sustained missile and drone campaigns targeting US bases and personnel. Trump projects 4-week timeline, suggesting sustained operations rather than rapid resolution. Civilian casualties (200+ confirmed in Iran, 6 US soldiers dead) will drive continued escalation cycle.",
     "escalation_risks": [
-      "Further Iranian strikes on US embassies or consulates in Gulf states (Saudi Arabia, Qatar, UAE)",
-      "Expansion of IRGC naval operations in Strait of Hormuz — additional tanker/shipping attacks likely",
-      "Israeli strike on Iranian nuclear facilities (Natanz) following IAEA complaint — would represent major escalation",
-      "Hezbollah intensification of rocket attacks on northern Israel — air raid alerts ongoing",
-      "Iranian missile strike on Israeli civilian population centers (follow-up to Bet Shemesh casualties)"
+      "IRGC threatens strikes on 50 strategic targets using 700 drones - massed attack phase likely imminent",
+      "Iran targeting nuclear facilities (Natanz) - escalates to nuclear infrastructure dimension",
+      "Gulf states (UAE, Kuwait, Jordan, Qatar) now directly in Iranian strike crossfire - risks drawing regional powers into conflict",
+      "US Congress Democrats pushing war powers vote - potential domestic political constraint on military operations",
+      "Hezbollah deepening involvement with rockets from Tulkarm toward Israel"
     ],
-    "de_escalation_pathways": "No clear de-escalation pathways visible. Trump has stated war will last 4 weeks, suggesting the US intends sustained military pressure rather than negotiated settlement. Iran's leadership (with Supreme Leader eliminated) appears committed to continued retaliation. Regional Gulf states (Saudi Arabia, Qatar, UAE) are increasingly targeted but have limited leverage to mediate. The killing of Khamenei has removed a potential off-ramp for negotiation, while civilian casualties (160+ at school, 200+ total in Iran; 9 Israeli civilians) have hardened both sides' positions."
+    "de_escalation_pathways": "No visible de-escalation pathways. Iran's Supreme Leader killing removes moderate leadership constraint. IRGC operations expanding geographically. Trump administration shows no indication of halting operations. Regional powers (Qatar, UAE, Jordan) filing UN complaints but not militarily intervening. Indian PM Modi diplomatic outreach indicates international pressure building but insufficient to halt hostilities."
   }
 }

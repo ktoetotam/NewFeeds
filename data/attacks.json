@@ -1,5 +1,46 @@
 [
   {
+    "id": "ddbfcbe0f9897835",
+    "title_original": "Iran-Israel war LIVE: Israeli strikes Hezbollah targets in Beirut; U.S. embassy in Saudi Arabia attacked by two drones, and more",
+    "content_original": "U.S. Intelligence warns that Iran and its proxies could target the U.S. with retaliatory attacks",
+    "url": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-live-updates-march-3-2026/article70697758.ece",
+    "published": "2026-03-03T06:51:21+05:30",
+    "fetched_at": "2026-03-03T01:27:08.153031+00:00",
+    "source_name": "The Hindu International",
+    "source_category": "independent",
+    "language": "en",
+    "region": "south_asia",
+    "skip_translation": true,
+    "title_en": "Iran-Israel war LIVE: Israeli strikes Hezbollah targets in Beirut; U.S. embassy in Saudi Arabia attacked by two drones, and more",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Israeli forces conducted strikes against Hezbollah targets in Beirut, continuing operations against the Iran-backed Lebanese proxy group. The U.S. embassy in Saudi Arabia was attacked by two drones, marking a new front in the escalating regional conflict. These developments come as U.S. intelligence warns that Iran and its proxies may launch retaliatory attacks against American interests.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "proxy",
+      "war",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran",
+        "United States",
+        "Saudi Arabia"
+      ],
+      "location": "Beirut, Lebanon & Riyadh, Saudi Arabia",
+      "brief": "Israeli airstrikes on Hezbollah targets in Beirut continue while US embassy in Saudi Arabia was attacked by two drones, marking expansion of Iran-proxy operations against US interests."
+    },
+    "merged_source_count": 2,
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
     "id": "7dac2c2365ad57b1",
     "title_original": "Trump warns of longer Iran war as violence spreads",
     "content_original": "Trump said that the war, which began on February 28, with a strike that killed Iran's supreme leader, Ayatollah Ali Khamenei, was going \"substantially\" ahead of schedule but that the United States was equipped for a prolonged conflict",
@@ -37,6 +78,193 @@
     },
     "lat": 11.0046133,
     "lng": 124.6069737
+  },
+  {
+    "id": "cbb392149d6dea28",
+    "title_original": "БПЛА атаковали расположение австралийских военных в ОАЭ",
+    "content_original": "БПЛА атаковали расположение австралийских военных в ОАЭ",
+    "url": "https://ria.ru/20260303/avstraliya-2078068646.html",
+    "published": "2026-03-03T04:24:56+03:00",
+    "fetched_at": "2026-03-03T01:25:54.722213+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "UAVs attacked Australian military deployment in UAE",
+    "relevant": true,
+    "summary_en": "UAVs struck a location where Australian military forces were deployed in the United Arab Emirates. This attack on Australian forces in the Gulf region represents an escalation targeting US-allied military personnel in the area, likely connected to Iranian proxy operations or IRGC activity amid the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "proxy",
+      "attack",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "Australia",
+        "Iranian proxies",
+        "IRGC"
+      ],
+      "location": "United Arab Emirates",
+      "brief": "UAVs attacked Australian military deployment in UAE, marking an escalation targeting US-allied forces likely linked to Iranian proxy operations."
+    },
+    "lat": 24.0,
+    "lng": 54.0
+  },
+  {
+    "id": "f58e2dce9658daaf",
+    "title_original": "Al Hadath: иракские радикалы атаковали гостиницу в Эрбиле с военными США",
+    "content_original": "Al Hadath: иракские радикалы атаковали гостиницу в Эрбиле с военными США",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26622107",
+    "published": "2026-03-03T04:18:21+03:00",
+    "fetched_at": "2026-03-03T01:25:54.287562+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Al Hadath: Iraqi Radicals Attack Hotel in Erbil with US Military Personnel",
+    "relevant": true,
+    "summary_en": "Iraqi militants attacked a hotel in Erbil, Iraqi Kurdistan, where US military personnel were staying. This represents another attack on US forces in Iraq as part of the ongoing Iran-US conflict and IRGC-linked proxy operations in the region.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "attack",
+      "irgc",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iraqi militants (IRGC-linked proxies)",
+        "United States military",
+        "Iraqi Kurdistan"
+      ],
+      "location": "Erbil, Iraq",
+      "brief": "Iraqi IRGC-linked militants attacked a hotel in Erbil housing US military personnel, representing a significant proxy operation against American forces in Iraq."
+    },
+    "lat": 36.19,
+    "lng": 44.01
+  },
+  {
+    "id": "eb1928523a675d56",
+    "title_original": "Военные Катара успешно перехватили две ракеты, пишут СМИ",
+    "content_original": "Военные Катара успешно перехватили две ракеты, пишут СМИ",
+    "url": "https://ria.ru/20260303/katar-2078068068.html",
+    "published": "2026-03-03T04:14:31+03:00",
+    "fetched_at": "2026-03-03T01:25:54.723015+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Qatar's Military Successfully Intercepted Two Missiles, Media Reports",
+    "relevant": true,
+    "summary_en": "Qatar's military successfully intercepted two missiles, though details are limited. Qatar hosts the major Al Udeid Air Base, which houses US forces. The source of the missiles and the specific context remain unclear from this report, but any missile activity in the Gulf region warrants attention given the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "medium",
+      "parties_involved": [
+        "Qatar",
+        "Unknown attacker (likely Iran proxy)"
+      ],
+      "location": "Qatar, Al Udeid Air Base",
+      "brief": "Qatar's military intercepted two missiles near the US-hosted Al Udeid Air Base, with the source of the attack remaining unclear."
+    },
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "b3873f1389279518",
+    "title_original": "Reuters: еще несколько взрывов произошло в дипломатическом квартале Эр-Рияда",
+    "content_original": "Reuters: еще несколько взрывов произошло в дипломатическом квартале Эр-Рияда",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26622037",
+    "published": "2026-03-03T04:11:33+03:00",
+    "fetched_at": "2026-03-03T01:25:54.288914+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Reuters: several more explosions occurred in Riyadh's diplomatic quarter",
+    "relevant": true,
+    "summary_en": "Several additional explosions were reported in the diplomatic quarter of Riyadh, Saudi Arabia. While the specific perpetrators were not identified in the headline, the timing and location suggest this may be connected to the ongoing Iran-US conflict, potentially representing Iranian strikes against US-aligned Gulf states or an escalation in the regional war.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Saudi Arabia",
+        "United States"
+      ],
+      "location": "Riyadh, Saudi Arabia",
+      "brief": "Explosions reported in Riyadh diplomatic quarter, possibly representing Iranian strikes as part of the Iran-US conflict escalation."
+    },
+    "merged_source_count": 7,
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
+    "id": "636893d793c87f27",
+    "title_original": "الحرس الثوري: استهداف تجمع لقوات أميركية في دبي بهجوم مسيّر وصاروخي",
+    "content_original": "أعلن الحرس الثوري، استهداف تجمع لقوات أميركية في دبي بهجوم مسيّر وصاروخي.",
+    "url": "https://www.alalam.ir/news/7421468",
+    "published": "2026-03-03T04:03:30+00:00",
+    "fetched_at": "2026-03-03T01:25:21.591249+00:00",
+    "source_name": "Al Alam",
+    "source_category": "state",
+    "language": "ar",
+    "region": "iran",
+    "skip_translation": false,
+    "title_en": "IRGC: Targeting American forces gathering in Dubai with drone and missile attack",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) announced that it targeted a gathering of American forces in Dubai using a combined drone and missile attack. This strike represents a significant escalation targeting US military personnel and assets in the UAE, a key US ally in the Gulf region.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "strike",
+      "drone",
+      "missile",
+      "attack",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "UAE"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "IRGC launched combined drone and missile attack targeting American forces in Dubai, marking significant escalation in direct US-Iran military engagement."
+    },
+    "lat": 25.2,
+    "lng": 55.27
   },
   {
     "id": "8cdeabcd2c833393",
@@ -224,6 +452,85 @@
     "lng": 34.8
   },
   {
+    "id": "5d7f624f540fbaea",
+    "title_original": "התרעות הופעלו בגליל המערבי מחשש לחדירת כטב\"ם",
+    "content_original": "אזעקות הופעלו היום (שלישי) במספר ישובים בגליל המערבי מחשש לחדירת כלי טיס עוין. האזעקות נשמעו גם באזורים דרומיים יותר ובעיר צפת. אותו כטב\"ם יורט לבסוף",
+    "url": "https://mivzakim.net/r/13969041/rss",
+    "published": "2026-03-03T03:24:10+02:00",
+    "fetched_at": "2026-03-03T01:26:08.030289+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Alerts activated in Western Galilee over fears of drone infiltration",
+    "relevant": true,
+    "summary_en": "Air raid alerts were activated in multiple settlements in Israel's Western Galilee region on Tuesday due to fears of a hostile drone infiltration, with alarms also sounding in more southern areas and the city of Safed. The drone was eventually intercepted by Israeli air defenses. This incident demonstrates the ongoing threat of Iranian proxy drone attacks on Israeli territory and the sustained pressure on Israel's air defense systems along the northern front.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "drone",
+      "proxy",
+      "raid",
+      "threat",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iran-backed proxies (likely Hezbollah or Houthis)"
+      ],
+      "location": "Western Galilee, Israel (including Safed)",
+      "brief": "Air raid alerts activated in Western Galilee over hostile drone infiltration fears; drone intercepted by Israeli air defenses."
+    },
+    "lat": 32.88,
+    "lng": 35.3
+  },
+  {
+    "id": "47c09cc1d54571c4",
+    "title_original": "מות 6 החיילים האמריקנים בכוויית: \"לא הופעלה אזעקה, הטיל פגע במבנה\"",
+    "content_original": "מות 6 החיילים האמריקנים בכוויית: \"לא הופעלה אזעקה, הטיל פגע במבנה\"",
+    "url": "https://mivzakim.net/r/13969033/rss",
+    "published": "2026-03-03T03:16:02+02:00",
+    "fetched_at": "2026-03-03T01:26:08.031377+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Death of 6 American soldiers in Kuwait: 'No alarm was activated, missile hit building'",
+    "relevant": true,
+    "summary_en": "Six American soldiers were killed in Kuwait in what appears to be a missile strike on a US facility. Reports indicate no air raid alarm was activated before the missile struck the building. This represents significant US military casualties in the Gulf region amid the ongoing Iran-US armed conflict.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "strike",
+      "missile",
+      "killed",
+      "conflict",
+      "death",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Kuwait"
+      ],
+      "location": "Kuwait",
+      "brief": "Six US soldiers killed in Kuwait by missile strike, likely Iranian, marking major direct casualties in Iran-US conflict"
+    },
+    "merged_source_count": 3,
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "d56b37a77a73add6",
     "title_original": "Сотни жителей Тель-Авива ночуют в общественных убежищах",
     "content_original": "Сотни жителей Тель-Авива ночуют в общественных убежищах",
@@ -263,6 +570,36 @@
     "lng": 34.78
   },
   {
+    "id": "a82327b210ce5a33",
+    "title_original": "דיווח: שני פיצוצים נוספים ברובע הדיפלומטי בריאד",
+    "content_original": "דיווח: שני פיצוצים נוספים ברובע הדיפלומטי בריאד",
+    "url": "https://mivzakim.net/r/13969030/rss",
+    "published": "2026-03-03T03:11:40+02:00",
+    "fetched_at": "2026-03-03T01:26:08.784022+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Report: Two additional explosions in the diplomatic quarter in Riyadh",
+    "relevant": true,
+    "summary_en": "Two additional explosions reported in the diplomatic quarter of Riyadh, Saudi Arabia. The incident comes amid heightened regional tensions following Iranian missile and drone attacks on US bases and assets in the Gulf region, as well as Iranian retaliation operations across multiple fronts. The target and perpetrators remain unclear, but the diplomatic quarter houses numerous foreign embassies and represents a significant escalation if intentionally targeted.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "drone",
+      "missile"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [],
+      "location": "Unknown",
+      "brief": "Classified by keyword matching (LLM unavailable)"
+    }
+  },
+  {
     "id": "d223a4eaf756bf73",
     "title_original": "ВС Кувейта отражают новую волну ракет и беспилотников",
     "content_original": "ВС Кувейта отражают новую волну ракет и беспилотников",
@@ -298,6 +635,88 @@
     },
     "lat": 29.38,
     "lng": 47.99
+  },
+  {
+    "id": "f9f5b7d54caae8de",
+    "title_original": "פיקוד העורף על חדירת הכטב\"ם בצפון: האירוע הסתיים",
+    "content_original": "פיקוד העורף על חדירת הכטב\"ם בצפון: האירוע הסתיים",
+    "url": "https://mivzakim.net/r/13969025/rss",
+    "published": "2026-03-03T03:05:00+02:00",
+    "fetched_at": "2026-03-03T01:26:09.561797+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Home Front Command on UAV infiltration in the North: The incident has ended",
+    "relevant": true,
+    "summary_en": "An Iranian-made UAV (kamikaze drone) infiltrated northern Israeli airspace. Israeli air defenses intercepted the drone and the incident has been concluded. This represents another Iranian-proxied attack on Israel as part of the ongoing multi-front conflict, following similar Houthi and Hezbollah drone and missile launches against Israeli territory.",
+    "translated": true,
+    "keyword_matches": 8,
+    "matched_keywords": [
+      "houthi",
+      "drone",
+      "attack",
+      "missile",
+      "hezbollah",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "Israel",
+        "Houthis",
+        "Hezbollah"
+      ],
+      "location": "Northern Israel",
+      "brief": "Iranian-made kamikaze drone infiltrated northern Israeli airspace and was intercepted, representing another Iranian-proxied attack as part of the ongoing multi-front conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "4ef817470989dd2c",
+    "title_original": "אזעקות בצפת והסביבה",
+    "content_original": "אזעקות בצפת והסביבה",
+    "url": "https://mivzakim.net/r/13969020/rss",
+    "published": "2026-03-03T03:01:57+02:00",
+    "fetched_at": "2026-03-03T01:26:08.032769+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Sirens in Safed and Surrounding Area",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Safed (Tzfat) and surrounding areas in northern Israel. The activation of sirens in this region typically indicates incoming rocket or missile fire, likely from Hezbollah positions in Lebanon. This represents continued escalation on Israel's northern border as part of the broader Iran-US conflict and related regional hostilities.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "rocket",
+      "missile",
+      "hezbollah",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Iran"
+      ],
+      "location": "Safed (Tzfat), Northern Israel",
+      "brief": "Air raid sirens activated in Safed indicating incoming rocket or missile fire from Hezbollah positions in Lebanon, representing continued escalation on Israel's northern border."
+    },
+    "merged_source_count": 2,
+    "lat": 33.06,
+    "lng": 35.24
   },
   {
     "id": "684eff57980a2686",
@@ -337,6 +756,42 @@
     },
     "lat": 29.38,
     "lng": 47.99
+  },
+  {
+    "id": "cc9df495e8a863d1",
+    "title_original": "אזעקות במעלות תרשיחא והסביבה מחשש לחדירת כטב\"ם",
+    "content_original": "אזעקות במעלות תרשיחא והסביבה מחשש לחדירת כטב\"ם",
+    "url": "https://mivzakim.net/r/13969018/rss",
+    "published": "2026-03-03T02:58:52+02:00",
+    "fetched_at": "2026-03-03T01:26:08.784827+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Sirens in Ma'alot-Tarshiha and surrounding area over suspected UAV infiltration",
+    "relevant": true,
+    "summary_en": "Air raid sirens were activated in Ma'alot-Tarshiha and surrounding communities in northern Israel due to concerns over an incoming unmanned aerial vehicle (UAV/drone). The incident occurs amid ongoing hostilities between Israel and Hezbollah along the northern border, where drone infiltration attempts have become a regular occurrence.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "drone",
+      "hezbollah",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Ma'alot-Tarshiha, northern Israel",
+      "brief": "Air raid sirens activated in northern Israel communities due to suspected Hezbollah UAV infiltration amid ongoing border hostilities."
+    },
+    "lat": 33.06,
+    "lng": 35.24
   },
   {
     "id": "2605c35cccd4f5a5",
@@ -1400,6 +1855,43 @@
     "lng": 35.86
   },
   {
+    "id": "8d1dd90a254d92bb",
+    "title_original": "Tehran condemns IAEA inaction as US-Israeli aggression targets nuclear facilities",
+    "content_original": "Tehran condemns IAEA inaction as US-Israeli aggression targets nuclear facilities",
+    "url": "https://presstv.ir/Detail/2026/03/03/764906/Tehran-condemns-IAEA-inaction-as-US-Israeli-aggression-targets-nuclear-facilities",
+    "published": "2026-03-03T01:25:21.039054+00:00",
+    "fetched_at": "2026-03-03T01:25:21.039058+00:00",
+    "source_name": "Press TV",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "Tehran condemns IAEA inaction as US-Israeli aggression targets nuclear facilities",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iran condemns the International Atomic Energy Agency for failing to act against what Tehran describes as US-Israeli aggression targeting Iranian nuclear facilities. This reflects ongoing tensions over nuclear infrastructure strikes as part of the wider Iran-US armed conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "nuclear",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel"
+      ],
+      "location": "Iran",
+      "brief": "Iran condemns IAEA for failing to act against US-Israeli aggression targeting Iranian nuclear facilities, reflecting ongoing strikes on nuclear infrastructure in the wider Iran-US conflict."
+    },
+    "merged_source_count": 3,
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "5f80cfa6879c7dc1",
     "title_original": "כוחותינו החלו בתקיפה נרחבת באזור הדאחיה בביירות",
     "content_original": "כוחותינו החלו לתקוף בביירות מפקדות ומחסני אמצעי לחימה של ארגון הטרור חיזבאללה.",
@@ -1702,6 +2194,80 @@
     "lng": 34.8
   },
   {
+    "id": "5f91b6651a71f661",
+    "title_original": "🇱🇧 🇮🇷 ❌ 🇮🇱   — Hezbollah/IRGC drone infiltration in northwest Israel near the Lebanese border.",
+    "content_original": "🇱🇧 🇮🇷 ❌ 🇮🇱 — Hezbollah/IRGC drone infiltration in northwest Israel near the Lebanese border.",
+    "url": "https://t.me/CIG_telegram/70223",
+    "published": "2026-03-03T00:58:51+00:00",
+    "fetched_at": "2026-03-03T01:27:30.586159+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Hezbollah/IRGC drone infiltration in northwest Israel near the Lebanese border",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Hezbollah and IRGC forces conducted a drone infiltration operation in northwest Israel near the Lebanese border. The incident represents another cross-border escalation between Iran-linked forces and Israel, adding to tensions on Israel's northern front while the broader Iran-US conflict continues to unfold.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "drone",
+      "conflict",
+      "hezbollah",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Iran",
+        "IRGC",
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "northwest Israel near Lebanese border",
+      "brief": "Hezbollah and IRGC conducted a drone infiltration operation in northwest Israel near the Lebanese border, marking another cross-border escalation by Iran-linked forces against Israel."
+    },
+    "geocode_failed": true
+  },
+  {
+    "id": "0c058f7bd99a12c9",
+    "title_original": "🇱🇧 ❌ 🇮🇱   — Hezbollah drones moving southeast, deeper into Israel.",
+    "content_original": "🇱🇧 ❌ 🇮🇱 — Hezbollah drones moving southeast, deeper into Israel.",
+    "url": "https://t.me/CIG_telegram/70224",
+    "published": "2026-03-03T00:58:51+00:00",
+    "fetched_at": "2026-03-03T01:27:30.586782+00:00",
+    "source_name": "Conflict Intelligence Team (TG)",
+    "source_category": "independent",
+    "language": "en",
+    "region": "russia",
+    "skip_translation": true,
+    "title_en": "Hezbollah drones moving southeast, deeper into Israel",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Hezbollah has launched drones traveling southeast deeper into Israeli territory, marking an escalation in the cross-border attacks. This represents a further penetration of Israeli airspace by Iranian proxy forces and indicates expanding operational reach against Israeli targets.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "proxy",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel-Lebanon border",
+      "brief": "Hezbollah drones penetrated deeper into Israeli territory in southeast direction, marking escalation in cross-border attacks by Iranian proxy forces."
+    },
+    "lat": 33.1,
+    "lng": 35.3
+  },
+  {
     "id": "902b34045b8cf885",
     "title_original": "Shafaq: мощный взрыв произошел в Эрбиле рядом с военной базой США",
     "content_original": "Shafaq: мощный взрыв произошел в Эрбиле рядом с военной базой США",
@@ -1736,6 +2302,45 @@
     },
     "lat": 36.19,
     "lng": 44.01
+  },
+  {
+    "id": "001671c82a079fd5",
+    "title_original": "صفارات الإنذار لا تتوقف",
+    "content_original": "صفارات الإنذار لا تتوقف",
+    "url": "https://t.me/Electrohizbullah/157349",
+    "published": "2026-03-03T00:58:20+00:00",
+    "fetched_at": "2026-03-03T01:27:34.813369+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Sirens Don't Stop",
+    "relevant": true,
+    "summary_en": "Continuous air raid sirens reported in conflict zones, indicating ongoing aerial attacks or persistent threat of missile/drone strikes in the region, likely referencing Israeli cities or military bases under Iranian attack.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "drone",
+      "missile",
+      "attack",
+      "threat",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Israel"
+      ],
+      "location": "Israel",
+      "brief": "Continuous air raid sirens in Israel indicate ongoing Iranian missile or drone strike threat against Israeli cities and military bases."
+    },
+    "lat": 31.5,
+    "lng": 34.8
   },
   {
     "id": "93acd94f9e76abf3",
@@ -7674,6 +8279,44 @@
     },
     "lat": 32.65,
     "lng": 51.68
+  },
+  {
+    "id": "765420fefc463f9e",
+    "title_original": "Trump's Republicans defend Iran strikes as Democrats push for war powers vote",
+    "content_original": "By Patricia Zengerle, Nolan D. McCaskill and David Morgan WASHINGTON, March 2 (Reuters) - U.S. President Donald Trump's Republicans insisted on Monday that the attack on Iran was fully within his authority as commander in chief, while Democrats said the administration has not made its case and planned a war powers vote this week.",
+    "url": "https://www.al-monitor.com/originals/2026/03/trumps-republicans-defend-iran-strikes-democrats-push-war-powers-vote",
+    "published": "2026-03-02T20:01:44-05:00",
+    "fetched_at": "2026-03-03T01:26:19.061597+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Republicans defend Iran strikes, Democrats push for war powers vote",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Trump's Republicans defended the Iran strikes as fully within presidential authority as commander in chief, while Democrats argued the administration has not justified the attacks and announced plans to force a war powers resolution vote in Congress this week. The political dispute centers on constitutional war powers and whether the President can authorize military strikes on Iran without Congressional approval.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Trump administration",
+        "Republicans",
+        "Democrats",
+        "Congress"
+      ],
+      "location": "middle_east",
+      "brief": "Republicans defend US strikes on Iran as within presidential authority while Democrats challenge justification and push for congressional war powers vote."
+    },
+    "lat": 39.3014159,
+    "lng": -76.5888477
   },
   {
     "id": "6dd6a96a664c26a1",
