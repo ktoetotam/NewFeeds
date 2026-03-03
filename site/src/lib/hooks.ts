@@ -132,12 +132,11 @@ export function useAttackArticles() {
       return;
     }
 
-    const cutoff = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
     const { data, error } = await sb
       .from("attacks")
       .select("*")
-      .gte("effective_time", cutoff)
-      .order("effective_time", { ascending: false });
+      .order("effective_time", { ascending: false })
+      .limit(1000);
 
     if (error) {
       console.warn("[useAttackArticles]", error.message);

@@ -160,7 +160,16 @@ def upsert_attacks(attacks: list[dict]) -> int:
     if client is None:
         return 0
 
-    rows = [_attack_to_row(a) for a in attacks]
+    # Pre-deduplicate the source list by id before any conversion
+    seen_pre: set[str] = set()
+    attacks_deduped: list[dict] = []
+    for a in attacks:
+        aid = a.get("id")
+        if aid and aid not in seen_pre:
+            seen_pre.add(aid)
+            attacks_deduped.append(a)
+
+    rows = [_attack_to_row(a) for a in attacks_deduped]
     if not rows:
         return 0
 

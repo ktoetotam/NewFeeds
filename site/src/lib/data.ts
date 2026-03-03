@@ -134,12 +134,11 @@ export async function getAttackArticles(): Promise<Article[]> {
   const sb = getSupabase();
   if (sb) {
     try {
-      const cutoffISO = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString();
       const { data, error } = await sb
         .from("attacks")
         .select("*")
-        .gte("effective_time", cutoffISO)
-        .order("effective_time", { ascending: false });
+        .order("effective_time", { ascending: false })
+        .limit(1000);
 
       if (!error && data) {
         const now = Date.now();
@@ -161,10 +160,9 @@ export async function getAttackArticles(): Promise<Article[]> {
 
   // Fallback
   const attacks = readJSON<Article[]>(path.join(DATA_DIR, "attacks.json"), []);
-  const cutoff = Date.now() - 24 * 60 * 60 * 1000;
   return attacks
-    .filter((a) => effectiveTime(a) >= cutoff)
-    .sort((a, b) => effectiveTime(b) - effectiveTime(a));
+    .sort((a, b) => effectiveTime(b) - effectiveTime(a))
+    .slice(0, 1000);
 }
 
 export async function getThreatLevel(): Promise<ThreatLevel> {
