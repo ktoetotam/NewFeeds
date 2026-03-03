@@ -55,7 +55,7 @@ function detectPreset(range: TimeRange): Preset {
 }
 
 export default function TimeRangeFilter({ value, onChange }: Props) {
-  const [showCustom, setShowCustom] = useState(false);
+  const [showCustom, setShowCustom] = useState(() => value.to !== null || detectPreset(value) === "custom");
   const active = detectPreset(value);
 
   const applyPreset = useCallback(

@@ -46,8 +46,8 @@ export default function AttackMonitor({
   const [selectedAttackId, setSelectedAttackId] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [timeRange, setTimeRange] = useState<TimeRange>(() => ({
-    from: new Date(Date.now() - 24 * 3600000),
-    to: null,
+    from: new Date(Date.now() - 3600000),
+    to: new Date(),
   }));
   const debouncedQuery = useDebounce(searchQuery, 250);
 

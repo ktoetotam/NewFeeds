@@ -28,8 +28,8 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
   const [activeRegion, setActiveRegion] = useState<RegionKey | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
   const [timeRange, setTimeRange] = useState<TimeRange>(() => ({
-    from: new Date(Date.now() - 24 * 3600000),
-    to: null,
+    from: new Date(Date.now() - 3600000),
+    to: new Date(),
   }));
   const debouncedQuery = useDebounce(searchQuery, 250);
 
