@@ -141,6 +141,14 @@ def upsert_articles(region: str, articles: list[dict]) -> int:
             seen[rid] = row
     rows = list(seen.values())
 
+    # Batch upsert
+    BATCH = 100
+    total = 0
+    for i in range(0, len(rows), BATCH):
+        batch = rows[i:i + BATCH]
+        client.table("articles").upsert(batch, on_conflict="id").execute()
+        total += len(batch)
+
     logger.info(f"Supabase: upserted {total} articles for region '{region}'")
     return total
 
@@ -174,6 +182,14 @@ def upsert_attacks(attacks: list[dict]) -> int:
         if rid not in seen or (row.get("published") or "") < (seen[rid].get("published") or ""):
             seen[rid] = row
     rows = list(seen.values())
+
+    # Batch upsert
+    BATCH = 100
+    total = 0
+    for i in range(0, len(rows), BATCH):
+        batch = rows[i:i + BATCH]
+        client.table("attacks").upsert(batch, on_conflict="id").execute()
+        total += len(batch)
 
     logger.info(f"Supabase: upserted {total} attack articles")
     return total
