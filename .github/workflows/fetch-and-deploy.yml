@@ -96,6 +96,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Waiting 90 seconds before re-triggering…"
+          echo "Waiting 300 seconds before re-triggering…"
           sleep 300
           gh workflow run fetch-and-deploy.yml --ref "main"
