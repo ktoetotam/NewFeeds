@@ -1,37 +1,56 @@
+"use client";
+
+import Link from "next/link";
 import Header from "@/components/Header";
 import ExecutiveSummary from "@/components/ExecutiveSummary";
-import { getExecutiveSummary, getThreatLevel, getArchiveIndex, getAttackArticles } from "@/lib/data";
-import Link from "next/link";
+import {
+  useAttackArticles,
+  useThreatLevel,
+  useExecutiveSummary,
+} from "@/lib/hooks";
 import { THREAT_LEVEL_COLORS } from "@/lib/types";
 
-export default async function SummaryPage() {
-  const [summary, threatLevel, archiveEntries, attacks] = await Promise.all([
-    getExecutiveSummary(),
-    getThreatLevel(),
-    getArchiveIndex(),
-    getAttackArticles(),
-  ]);
-  const archiveCount = archiveEntries.length;
+export default function SummaryClient() {
+  const { attacks } = useAttackArticles();
+  const { threatLevel, loading: threatLoading } = useThreatLevel();
+  const { summary, loading: summaryLoading } = useExecutiveSummary();
+
+  const loading = threatLoading || summaryLoading;
 
   const tlLevel = threatLevel.current;
-  const tlColor = tlLevel ? (THREAT_LEVEL_COLORS[tlLevel.label] || "#16a34a") : "#16a34a";
+  const tlColor = tlLevel
+    ? THREAT_LEVEL_COLORS[tlLevel.label] || "#16a34a"
+    : "#16a34a";
   const severityBreakdown = tlLevel?.severity_breakdown;
   const majorCount = severityBreakdown?.major ?? 0;
   const highCount = severityBreakdown?.high ?? 0;
 
+  if (loading) {
+    return (
+      <>
+        <Header threatLevel={threatLevel} updatedAt={threatLevel.updated_at} />
+        <main style={{ maxWidth: 1000, margin: "0 auto", padding: "24px 24px 48px" }}>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              minHeight: 300,
+              color: "var(--color-text-muted)",
+              fontSize: 16,
+            }}
+          >
+            Loading live data…
+          </div>
+        </main>
+      </>
+    );
+  }
+
   return (
     <>
-      <Header
-        threatLevel={threatLevel}
-        updatedAt={threatLevel.updated_at}
-      />
-      <main
-        style={{
-          maxWidth: 1000,
-          margin: "0 auto",
-          padding: "24px 24px 48px",
-        }}
-      >
+      <Header threatLevel={threatLevel} updatedAt={threatLevel.updated_at} />
+      <main style={{ maxWidth: 1000, margin: "0 auto", padding: "24px 24px 48px" }}>
         {/* Cross-nav cards */}
         <section
           style={{
@@ -98,7 +117,13 @@ export default async function SummaryPage() {
               <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
                 {attacks.length} incidents tracked.
                 {majorCount + highCount > 0 && (
-                  <> <strong style={{ color: "#ef4444" }}>{majorCount + highCount} major/high</strong> in last 48h.</>
+                  <>
+                    {" "}
+                    <strong style={{ color: "#ef4444" }}>
+                      {majorCount + highCount} major/high
+                    </strong>{" "}
+                    in last 48h.
+                  </>
                 )}
               </div>
               <div style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: tlColor }}>
@@ -118,33 +143,7 @@ export default async function SummaryPage() {
             marginBottom: 6,
           }}
         >
-          <h2
-            style={{
-              fontSize: 24,
-              fontWeight: 700,
-            }}
-          >
-            Executive Summary
-          </h2>
-          {archiveCount > 0 && (
-            <Link
-              href="/summary/archives"
-              style={{
-                fontSize: 13,
-                fontWeight: 600,
-                color: "var(--color-text-muted)",
-                textDecoration: "none",
-                padding: "6px 14px",
-                border: "1px solid var(--color-border)",
-                borderRadius: 6,
-                display: "flex",
-                alignItems: "center",
-                gap: 6,
-              }}
-            >
-              🗄️ Archives ({archiveCount})
-            </Link>
-          )}
+          <h2 style={{ fontSize: 24, fontWeight: 700 }}>Executive Summary</h2>
         </div>
         <p
           style={{

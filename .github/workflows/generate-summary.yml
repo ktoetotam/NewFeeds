@@ -1,0 +1,46 @@
+name: Generate Executive Summary
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # Every 30 minutes
+  workflow_dispatch: {}       # Manual trigger
+
+concurrency:
+  group: generate-summary
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  summary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Cache Poetry virtualenv
+        uses: actions/cache@v4
+        with:
+          path: scripts/.venv
+          key: poetry-${{ hashFiles('scripts/poetry.lock') }}
+
+      - name: Install Python dependencies
+        working-directory: scripts
+        run: poetry install --no-interaction --no-root
+
+      - name: Generate executive summary
+        working-directory: scripts
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: poetry run python run_summary.py

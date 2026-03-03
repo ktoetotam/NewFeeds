@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-03-02T22:51:44.835289+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 755,
+    "incident_count_6h": 158,
+    "severity_breakdown": {
+      "major": 323,
+      "high": 249,
+      "medium": 177,
+      "low": 6
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 120,
+    "articles_analyzed": 144,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached a critical inflection point with Iran's Supreme Leader Khamenei confirmed killed in a US-backed Israeli strike (Operation Epic Fury), triggering Tehran's Wave 12 retaliation (700 drones/missiles). US B-1 bombers struck inside Iranian territory, Iranian proxies launched 67 operations in Iraq in 72h, and Gulf allies warn Patriot air defenses will deplete within 4 days. All 11 Iranian warships in the Gulf of Oman have been destroyed, and 6 US troops are confirmed dead. The conflict is expanding to new fronts — Qatar shot down two Iranian bombers, Cyprus was struck despite British neutrality, and Israeli forces are preparing for potential ground operations in Lebanon.",
+  "whats_new": [
+    "Khamenei killed in US-backed Israeli strike (Trump: 'I got him before he got me'), confirmed by multiple sources — leadership succession crisis underway in Iran",
+    "Qatar shot down two Iranian Su-24 bombers attempting to attack Gulf neighbors — first Iranian air attack on a Gulf state in this conflict",
+    "US B-1 bombers conducted direct airstrikes 'in the depth of Iranian soil' targeting ballistic missile capabilities — direct US military action on Iranian territory",
+    "IRGC launched Wave 12 of 'Honest Promise 4' operations — 700 drones and hundreds of missiles targeting US/Israeli sites",
+    "Israeli forces issued evacuation warnings for 30 Lebanese towns — preparation for expanded ground operations against Hezbollah",
+    "Qatar airspace closed until at least morning; US State Dept urges Americans to leave 12+ Middle Eastern countries",
+    "Iran launched projectiles toward northern Israel triggering sirens — direct Iranian missile attack on Israeli territory"
+  ],
+  "confirmed_events": [
+    "Gulf states (Bahrain, Qatar, UAE) intercepting hundreds of Iranian missiles/drones; Bahrain: 70 missiles + 76 drones; UAE: 160+ missiles intercepted; Qatar: 2 Iranian jets shot down",
+    "US forces destroyed all 11 Iranian warships in Gulf of Oman — major naval escalation eliminating Iran's regional naval presence",
+    "Six American troops killed in Iran/IRGC-linked strikes on bases in Iraq and Syria — first confirmed US casualties from Tehran's direct attacks",
+    "Israeli assessment: Over 1,000 IRGC members killed since conflict began; Iran Red Crescent reports 555 civilians martyred in 131 cities",
+    "IDF conducted strikes on 600+ Iranian targets including IRGC headquarters; Israeli Air Force executing multiple attack waves in western Iran",
+    "Qatar and UAE warn Patriot air defense systems will be depleted within 4 days — urgent request for additional military assistance"
+  ],
+  "unverified_emerging": [
+    "Iran claims US-Israeli attack on girls' school in Minab killed over 160 girls — unverified, no independent confirmation",
+    "Report of 'Martyrdom of Leader Mujahid Ali Khamenei' (from Houthi source) — appears to be misinformation as Supreme Leader is confirmed alive",
+    "Israel targeting Iranian nuclear facility at Natanz — Iranian letter to IAEA confirms strike, but extent of damage unverified",
+    "Israeli army announces destruction of Iranian regime's 'media and propaganda center' — specific target details unconfirmed"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "US State Department urges American citizens to immediately leave Bahrain, Egypt, Iran, Iraq, Israel, West Bank, Gaza, Jordan, Kuwait, Lebanon, and Oman",
+      "Qatar airspace closed until at least morning — affects all commercial flights to/from Doha",
+      "US evacuation advisory covers over 12 Middle Eastern countries — largest such warning in decades"
+    ],
+    "supply_chain": [
+      "Gulf airspace restrictions causing flight cancellations and rerouting — major commercial aviation disruption",
+      "Karam Abu Salem crossing (Gaza) to reopen Tuesday for humanitarian aid — potential easing of humanitarian logistics",
+      "Port operations in UAE affected by missile/drone interceptions — delays likely at major transshipment hubs"
+    ],
+    "market_macro": [
+      "Dubai safe-haven image shattered by Iranian missile attacks — potential capital flight and insurance premium spikes",
+      "Oil supply routes through Strait of Hormuz under direct threat — global energy market volatility expected to intensify",
+      "Regional business confidence severely impacted — multinational corporations likely accelerating evacuation of non-essential personnel"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict is on an escalating trajectory toward broader regional war. With Khamenei killed, Iran will likely double down on proxy attacks and missile barrages while leadership succession creates short-term command ambiguity. Wave 12 retaliation is ongoing, and IRGC proxies (Hezbollah, Houthis, Iraqi militias) will intensify operations across all fronts. Gulf allies' air defense depletion in 4 days represents a critical window — if Patriot systems run low, Iranian missiles may penetrate at scale. US ground troop deployment has not been ruled out, suggesting potential for boots on Iranian soil. Israeli ground invasion of Lebanon appears imminent given evacuation warnings issued.",
+    "escalation_risks": [
+      "Iranian retaliation for Khamenei's killing could target Gulf oil infrastructure or close the Strait of Hormuz",
+      "Air defense depletion in Qatar/UAE could enable large-scale Iranian missile strikes on Gulf cities",
+      "Israeli ground invasion of Lebanon could trigger full-scale war with Hezbollah and expand frontlines",
+      "US ground troop deployment to Iran would represent massive escalation with unpredictable consequences",
+      "Cyber attacks on Gulf oil/gas infrastructure likely as conflict expands",
+      "Israel-Iran direct missile exchange could escalate to nuclear threshold if Natanz damage is severe"
+    ],
+    "de_escalation_pathways": "De-escalation pathways are extremely limited in the current trajectory. UN Secretary-General has called for cessation of hostilities, but neither side appears willing to negotiate while Khamenei's death is fresh and military momentum favors continued strikes. A ceasefire would require major powerbroker intervention (Russia, China) or exhaustion of both sides' offensive capabilities. The 4-day air defense window represents a narrow opportunity for diplomatic intervention before Gulf states become unable to intercept incoming Iranian salvos — at which point civilian casualties could force international pressure for brokered ceasefire."
+  }
+}

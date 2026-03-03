@@ -5,3 +5,4 @@ lxml>=5.0
 playwright>=1.40
 pyyaml>=6.0
 python-dateutil>=2.8
+supabase>=2.28.0

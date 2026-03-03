@@ -3,8 +3,11 @@ run_pipeline.py — Main orchestrator for the news fetch → translate → class
 
 Usage:
     MINIMAX_API_KEY=... python scripts/run_pipeline.py
+    MINIMAX_API_KEY=... python scripts/run_pipeline.py --steps fetch,translate
+    PIPELINE_REGIONS=iran,russia python scripts/run_pipeline.py --steps fetch,translate
 """
 
+import argparse
 import json
 import logging
 import os
@@ -13,6 +16,11 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import yaml
+
+import db as supabase_db
+
+# All valid pipeline steps
+ALL_STEPS = {"fetch", "translate", "classify", "geocode", "threat", "summary"}
 
 # Setup logging
 logging.basicConfig(
@@ -171,10 +179,18 @@ def filter_fresh_articles(
     return fresh
 
 
-def run():
-    """Main pipeline execution."""
+def run(steps: set[str] | None = None):
+    """Main pipeline execution.
+
+    Args:
+        steps: Which pipeline steps to run. None = all steps.
+               Valid: fetch, translate, classify, geocode, threat, summary.
+    """
+    if steps is None:
+        steps = ALL_STEPS
+
     logger.info("=" * 60)
-    logger.info("Starting news pipeline")
+    logger.info(f"Starting news pipeline (steps: {', '.join(sorted(steps))})")
     logger.info("=" * 60)
 
     # Check API key
@@ -190,41 +206,70 @@ def run():
 
     # Load sources
     sources = load_sources()
+
+    # Optional region filter (for fan-out parallel jobs)
+    region_filter = os.environ.get("PIPELINE_REGIONS", "")
+    if region_filter:
+        allowed = set(r.strip() for r in region_filter.split(",") if r.strip())
+        all_regions = sources.get("regions", {})
+        sources["regions"] = {k: v for k, v in all_regions.items() if k in allowed}
+        logger.info(f"Region filter active: {sorted(sources['regions'].keys())}")
+
     logger.info(f"Loaded {sum(len(r.get('sources', [])) for r in sources.get('regions', {}).values())} sources")
 
     # ── Step 1: Fetch articles ──
-    logger.info("── Step 1: Fetching articles ──")
+    if "fetch" not in steps:
+        logger.info("── Skipping fetch (not in steps) ──")
+        all_fetched = {}
+    else:
+        logger.info("── Step 1: Fetching articles ──")
 
-    from fetch_rss import fetch_all_rss
-    from fetch_scrape import fetch_all_scrape
-    from fetch_telegram import fetch_all_telegram
+        from fetch_rss import fetch_all_rss
+        from fetch_scrape import fetch_all_scrape
+        from fetch_telegram import fetch_all_telegram
 
-    rss_articles = fetch_all_rss(sources)
-    scrape_articles = fetch_all_scrape(sources)
-    telegram_articles = fetch_all_telegram(sources)
+        rss_articles = fetch_all_rss(sources)
+        scrape_articles = fetch_all_scrape(sources)
+        telegram_articles = fetch_all_telegram(sources)
 
-    # Merge RSS, scrape, and Telegram results by region
-    all_fetched = {}
-    for region in sources.get("regions", {}).keys():
-        all_fetched[region] = (
-            rss_articles.get(region, [])
-            + scrape_articles.get(region, [])
-            + telegram_articles.get(region, [])
-        )
+        # Merge RSS, scrape, and Telegram results by region
+        all_fetched = {}
+        for region in sources.get("regions", {}).keys():
+            all_fetched[region] = (
+                rss_articles.get(region, [])
+                + scrape_articles.get(region, [])
+                + telegram_articles.get(region, [])
+            )
 
-    total_fetched = sum(len(v) for v in all_fetched.values())
-    logger.info(f"Total fetched: {total_fetched} articles across {len(all_fetched)} regions")
+        total_fetched = sum(len(v) for v in all_fetched.values())
+        logger.info(f"Total fetched: {total_fetched} articles across {len(all_fetched)} regions")
 
-    # ── Step 1b: Drop articles older than 30 minutes ──
-    logger.info(f"── Step 1b: Freshness filter ({MAX_NEW_ARTICLE_AGE_MINUTES} min) ──")
-    for region in list(all_fetched.keys()):
-        all_fetched[region] = filter_fresh_articles(all_fetched[region])
+        # ── Step 1b: Drop articles older than 30 minutes ──
+        logger.info(f"── Step 1b: Freshness filter ({MAX_NEW_ARTICLE_AGE_MINUTES} min) ──")
+        for region in list(all_fetched.keys()):
+            all_fetched[region] = filter_fresh_articles(all_fetched[region])
 
-    total_after_fresh = sum(len(v) for v in all_fetched.values())
-    logger.info(f"After freshness filter: {total_after_fresh} articles remain")
+        total_after_fresh = sum(len(v) for v in all_fetched.values())
+        logger.info(f"After freshness filter: {total_after_fresh} articles remain")
 
-    # ── Step 2: Deduplicate against existing ──
-    logger.info("── Step 2: Deduplicating ──")
+    # ──────────────────────────────────────────────────────────
+    # PHASE 1: fetch + translate (skipped when not in steps)
+    # ──────────────────────────────────────────────────────────
+    all_articles_flat = []
+    all_translated: dict = {}
+    total_new = 0
+    total_existing_untranslated = 0
+
+    run_phase1 = "fetch" in steps or "translate" in steps
+
+    if not run_phase1:
+        logger.info("── Skipping fetch + translate (not in steps) ──")
+        # Load all articles from disk for downstream steps
+        for region in sources.get("regions", {}).keys():
+            all_articles_flat.extend(load_existing_articles(region))
+    else:
+        # ── Step 2: Deduplicate against existing ──
+        logger.info("── Step 2: Deduplicating ──")
 
     new_by_region = {}
     for region, articles in all_fetched.items():
@@ -241,23 +286,40 @@ def run():
     logger.info(f"Total new articles: {total_new}, existing untranslated: {total_existing_untranslated}")
 
     if total_new == 0 and total_existing_untranslated == 0:
-        logger.info("No new or untranslated articles found. Updating threat level and exiting.")
-        # Still update threat level with existing data
-        all_existing = []
-        for region in sources.get("regions", {}).keys():
-            all_existing.extend(load_existing_articles(region))
+        logger.info("No new or untranslated articles found.")
+        if "threat" in steps:
+            logger.info("Updating threat level with existing data.")
+            all_existing = []
+            for region in sources.get("regions", {}).keys():
+                all_existing.extend(load_existing_articles(region))
 
-        existing_attacks = load_existing_attacks()
+            existing_attacks = load_existing_attacks()
 
-        from threat_level import compute_and_save_threat_level
-        compute_and_save_threat_level(
-            existing_attacks, str(DATA_DIR / "threat_level.json")
-        )
+            from threat_level import compute_and_save_threat_level
+            compute_and_save_threat_level(
+                existing_attacks, str(DATA_DIR / "threat_level.json")
+            )
         logger.info("Pipeline complete (no new or untranslated articles)")
         return
 
     # ── Step 3: Translate new articles ──
-    logger.info("── Step 3: Translating ──")
+    all_translated = {}
+    if "translate" not in steps:
+        logger.info("── Skipping translate (not in steps) ──")
+        # Save fetched articles without translation, then stop
+        for region, (existing, new_articles) in new_by_region.items():
+            merged = existing + new_articles
+            merged = prune_old_articles(merged)
+            merged.sort(key=lambda a: a.get("published", ""), reverse=True)
+            save_articles(region, merged)
+            try:
+                supabase_db.upsert_articles(region, merged)
+            except Exception as e:
+                logger.warning(f"Supabase upsert_articles({region}) failed: {e}")
+        logger.info("Fetch-only run complete (saved untranslated articles)")
+        return
+    else:
+        logger.info("── Step 3: Translating ──")
 
     from translate_summarize import translate_articles
 
@@ -288,6 +350,11 @@ def run():
                     merged = prune_old_articles(merged)
                     merged.sort(key=lambda a: a.get("published", ""), reverse=True)
                     save_articles(reg, merged)
+                    # Dual-write checkpoint to Supabase
+                    try:
+                        supabase_db.upsert_articles(reg, merged)
+                    except Exception as e:
+                        logger.warning(f"Supabase checkpoint upsert({reg}) failed: {e}")
                     logger.info(f"Checkpoint: saved {len(merged)} articles for '{reg}'")
                 return checkpoint
 
@@ -318,65 +385,116 @@ def run():
         # Sort by published date (newest first)
         merged.sort(key=lambda a: a.get("published", ""), reverse=True)
         save_articles(region, merged)
+        # Dual-write: upsert to Supabase
+        try:
+            supabase_db.upsert_articles(region, merged)
+        except Exception as e:
+            logger.warning(f"Supabase upsert_articles({region}) failed: {e}")
         all_articles_flat.extend(merged)
 
+        # Prune old articles from Supabase
+        try:
+            supabase_db.prune_articles()
+        except Exception as e:
+            logger.warning(f"Supabase prune_articles failed: {e}")
+
+    # ──────────────────────────────────────────────────────────
+    # PHASE 2: classify → geocode → threat → summary
+    # ──────────────────────────────────────────────────────────
+
     # ── Step 5: Classify attacks ──
-    logger.info("── Step 5: Classifying attacks ──")
+    if "classify" in steps:
+        logger.info("── Step 5: Classifying attacks ──")
 
-    from classify_attacks import classify_articles
+        from classify_attacks import classify_articles
 
-    existing_attacks = load_existing_attacks()
+        existing_attacks = load_existing_attacks()
 
-    # Only classify newly translated *relevant* articles + merge with existing attack data
-    newly_translated_flat = []
-    for region, (existing, translated) in all_translated.items():
-        newly_translated_flat.extend(
-            a for a in translated if a.get("relevant", True) and a.get("translated")
-        )
+        # Collect newly translated relevant articles to classify
+        newly_translated_flat = []
+        if all_translated:
+            for region, (existing, translated) in all_translated.items():
+                newly_translated_flat.extend(
+                    a for a in translated if a.get("relevant", True) and a.get("translated")
+                )
+        else:
+            # Fan-in mode: classify all relevant untouched articles from disk
+            for a in all_articles_flat:
+                if a.get("relevant", True) and a.get("translated") and a["id"] not in {x["id"] for x in existing_attacks}:
+                    newly_translated_flat.append(a)
 
-    new_attack_articles = classify_articles(newly_translated_flat, api_key)
+        new_attack_articles = classify_articles(newly_translated_flat, api_key)
 
-    # Merge with existing attacks, deduplicate
-    existing_attack_ids = {a["id"] for a in existing_attacks}
-    for article in new_attack_articles:
-        if article["id"] not in existing_attack_ids:
-            existing_attacks.append(article)
+        # Merge with existing attacks, deduplicate
+        existing_attack_ids = {a["id"] for a in existing_attacks}
+        for article in new_attack_articles:
+            if article["id"] not in existing_attack_ids:
+                existing_attacks.append(article)
 
-    # Prune old attacks
-    existing_attacks = prune_old_articles(existing_attacks)
-    existing_attacks.sort(key=lambda a: a.get("published", ""), reverse=True)
+        # Prune old attacks
+        existing_attacks = prune_old_articles(existing_attacks)
+        existing_attacks.sort(key=lambda a: a.get("published", ""), reverse=True)
+    else:
+        logger.info("── Skipping classify (not in steps) ──")
+        existing_attacks = load_existing_attacks()
 
     # ── Step 5b: Geocode attack locations ──
-    logger.info("── Step 5b: Geocoding attack locations ──")
-    from geocode_improved import geocode_attacks
-    existing_attacks = geocode_attacks(existing_attacks, logger=logger)
+    if "geocode" in steps:
+        logger.info("── Step 5b: Geocoding attack locations ──")
+        from geocode_improved import geocode_attacks
+        existing_attacks = geocode_attacks(existing_attacks, logger=logger)
+    else:
+        logger.info("── Skipping geocode (not in steps) ──")
 
     save_attacks(existing_attacks)
+    # Dual-write: upsert attacks to Supabase
+    try:
+        supabase_db.upsert_attacks(existing_attacks)
+        supabase_db.prune_attacks()
+    except Exception as e:
+        logger.warning(f"Supabase upsert_attacks failed: {e}")
 
     # ── Step 6: Compute threat level ──
-    logger.info("── Step 6: Computing threat level ──")
+    if "threat" in steps:
+        logger.info("── Step 6: Computing threat level ──")
 
-    from threat_level import compute_and_save_threat_level
+        from threat_level import compute_and_save_threat_level
 
-    threat = compute_and_save_threat_level(
-        existing_attacks, str(DATA_DIR / "threat_level.json")
-    )
+        threat = compute_and_save_threat_level(
+            existing_attacks, str(DATA_DIR / "threat_level.json")
+        )
+        # Dual-write: upsert threat level to Supabase
+        try:
+            supabase_db.upsert_threat_level(threat)
+        except Exception as e:
+            logger.warning(f"Supabase upsert_threat_level failed: {e}")
+    else:
+        logger.info("── Skipping threat (not in steps) ──")
+        threat = None
 
     # ── Step 7: Generate executive summary ──
-    logger.info("── Step 7: Generating executive summary ──")
+    if "summary" in steps and threat is not None:
+        logger.info("── Step 7: Generating executive summary ──")
 
-    try:
-        from generate_summary import generate_and_save
+        try:
+            from generate_summary import generate_and_save
 
-        summary = generate_and_save(
-            attacks=existing_attacks,
-            threat=threat,
-        )
-        logger.info(
-            f"  Executive summary generated at {summary.get('generated_at', '?')}"
-        )
-    except Exception as e:
-        logger.warning(f"Executive summary generation failed: {e}")
+            summary = generate_and_save(
+                attacks=existing_attacks,
+                threat=threat,
+            )
+            logger.info(
+                f"  Executive summary generated at {summary.get('generated_at', '?')}"
+            )
+            # Dual-write: upsert executive summary to Supabase
+            try:
+                supabase_db.upsert_executive_summary(summary)
+            except Exception as e:
+                logger.warning(f"Supabase upsert_executive_summary failed: {e}")
+        except Exception as e:
+            logger.warning(f"Executive summary generation failed: {e}")
+    else:
+        logger.info("── Skipping summary (not in steps or no threat data) ──")
 
     # ── Summary ──
     logger.info("=" * 60)
@@ -384,9 +502,25 @@ def run():
     logger.info(f"  Total articles: {len(all_articles_flat)}")
     logger.info(f"  New articles: {total_new}, previously untranslated: {total_existing_untranslated}")
     logger.info(f"  Attack articles: {len(existing_attacks)}")
-    logger.info(f"  Threat level: {threat['current']['label']} (Level {threat['current']['level']})")
+    if threat:
+        logger.info(f"  Threat level: {threat['current']['label']} (Level {threat['current']['level']})")
     logger.info("=" * 60)
 
 
 if __name__ == "__main__":
-    run()
+    parser = argparse.ArgumentParser(description="NewFeeds pipeline")
+    parser.add_argument(
+        "--steps",
+        type=str,
+        default="",
+        help="Comma-separated list of steps to run: fetch,translate,classify,geocode,threat,summary. Empty = all.",
+    )
+    args = parser.parse_args()
+
+    requested = set(s.strip() for s in args.steps.split(",") if s.strip()) if args.steps else None
+    if requested:
+        invalid = requested - ALL_STEPS
+        if invalid:
+            parser.error(f"Unknown steps: {invalid}. Valid: {ALL_STEPS}")
+
+    run(steps=requested)

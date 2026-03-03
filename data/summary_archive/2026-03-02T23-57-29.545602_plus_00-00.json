@@ -1,0 +1,79 @@
+{
+  "generated_at": "2026-03-02T23:57:29.545602+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 206,
+    "incident_count_6h": 9,
+    "severity_breakdown": {
+      "major": 87,
+      "high": 72,
+      "medium": 46,
+      "low": 1
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 5,
+    "articles_analyzed": 81,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict continues at MAJOR intensity with civilian casualties in Iran exceeding 200 (potentially up to 1,500), Iranian ballistic missiles striking Tel Aviv, and US troop deaths rising to 6. Trump signals the campaign may extend far beyond the initial 4-5 week projection. Bahrain reports intercepting 70 Iranian missiles and 76 drones, while IRGC claims to have struck Arifjan base in Kuwait. The conflict is expanding geographically with Israel ordering evacuation of 30 Lebanese towns.",
+  "whats_new": [
+    "Iranian ballistic missiles struck Tel Aviv causing explosions — significant direct attack on Israeli population center",
+    "Trump warns Iran war could go 'far longer' than 4-5 weeks, contradicting earlier projections",
+    "Bahrain announces intercepting 70 Iranian ballistic missiles and 76 drones since conflict began",
+    "IRGC claims strike on US Arifjan base in Kuwait using 10 attack drones — US casualties unverified",
+    "Israeli military issues evacuation warnings for 30 towns in southern Lebanon",
+    "US CENTCOM confirms 6 American soldiers killed (up from previous count)"
+  ],
+  "confirmed_events": [
+    "Qatar condemns Iranian attack on its territory as 'flagrant violation of sovereignty' at UN",
+    "Israeli air defenses active across center and north against Hezbollah rockets (7+ projectiles launched)",
+    "IRGC announces Wave 12 of 'Honest Promise 4' operations targeting US-Israel sites",
+    "Islamic Resistance in Iraq claims 28 operations against American bases in 72h period",
+    "UN Secretary-General calls for immediate de-escalation and cessation of hostilities"
+  ],
+  "unverified_emerging": [
+    "IRGC claims Arifjan strike caused 'many US casualties' — unverified, no independent confirmation [Al Masirah/RBC]",
+    "Houthi source claims Supreme Leader Khamenei martyred — highly questionable as other sources confirm he is alive [Al Masiram]",
+    "Iranian Red Crescent reports 555 killed across Iran — unverified figure, possibly includes combatants [The Guardian cites rights groups]"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Air travel to/from Israel remains disrupted with ongoing air raid sirens in Tel Aviv and northern regions",
+      "US military evacuation protocols active at bases across Gulf region"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz remains open per CENTCOM — critical global oil chokepoint functional",
+      "Karam Abu Salem crossing to reopen Tuesday for humanitarian aid into Gaza — minor de-escalation in humanitarian corridor"
+    ],
+    "market_macro": [
+      "NYT reports potential oil price spike as conflict continues through summer driving season",
+      "Prolonged conflict threatens gasoline prices at US pumps"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue escalating with sustained IRGC missile/drone waves against US bases in Gulf and Israeli cities. Trump administration signals willingness for extended campaign beyond initial 4-5 week timeline. Hezbollah will maintain northern Israel pressure while Iraqi proxies continue targeting US forces. Bahrain and Gulf allies continue intercepting Iranian attacks but Patriot stocks depleting remains concern.",
+    "escalation_risks": [
+      "Iranian direct strikes on Israeli population centers escalate to full-scale war",
+      "IRGC attempts to close Strait of Hormuz to international shipping",
+      "US base casualties mount beyond current 6 killed threshold",
+      "Russian or Chinese intervention/support for Iran changes strategic calculus",
+      "Hezbollah-Israel border escalates to direct ground conflict following Lebanese evacuation warnings"
+    ],
+    "de_escalation_pathways": "UN Secretary-General appeal for dialogue represents minimal diplomatic opening. Qatar mediation through UN channels and Saudi diplomatic engagement with Swiss president indicate Gulf state pressure for de-escalation. However, with Trump signaling extended campaign and Iran committing Wave 12 operations, neither side appears positioned to negotiate ceasefire in near term. Iranian leadership succession uncertainty following unverified Khamenei claims could create unpredictable escalation or negotiation opportunity."
+  }
+}

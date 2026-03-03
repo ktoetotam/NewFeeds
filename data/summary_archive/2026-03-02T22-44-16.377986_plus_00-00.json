@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-03-02T22:44:16.377986+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 749,
+    "incident_count_6h": 154,
+    "severity_breakdown": {
+      "major": 317,
+      "high": 250,
+      "medium": 176,
+      "low": 6
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 108,
+    "articles_analyzed": 150,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated dramatically with the IRGC launching Wave 12 attacks (700 drones + hundreds of missiles) and directly threatening to fire on ships in the Strait of Hormuz — a major escalation targeting global oil supply routes. Iranian missiles have penetrated US air defense systems in Kuwait, while Israel issued evacuation warnings for Tehran's Evin district (near IRIB headquarters), marking an unprecedented expansion of strikes into the Iranian capital. Gulf allies report air defense depletion risks within 96 hours, and US forces have destroyed all 11 Iranian warships in the Gulf of Oman.",
+  "whats": [
+    "IRGC launches Wave 12 of 'Honest Promise 4' operations, claiming to strike 50 strategic targets and 500 military points using 700 drones and hundreds of missiles",
+    "IRGC threatens to 'burn any ship' crossing Strait of Hormuz — world's most critical oil chokepoint; insurers have cancelled war-risk coverage for Gulf tankers",
+    "Iranian missiles penetrate US air defense systems in Kuwait, marking successful evasion of US-provided Patriot coverage",
+    "Israeli forces issue evacuation warning for Evin district in Tehran (near state broadcasting HQ) — first IDF Persian-language warning directly targeting Tehran residents",
+    "Qatar sends identical messages to UN condemning Iranian aggression; Bahrain chairs GCC letter to UN Sec-Gen on Iranian missile attacks"
+  ],
+  "confirmed_events": [
+    "US forces destroyed all 11 Iranian warships in Gulf of Oman (confirmed by CENTCOM footage) — eliminating Iranian naval presence in strategic waterway",
+    "Gulf states (Qatar, UAE) warn Patriot air defense systems will be depleted within 4 days due to sustained Iranian missile/drone attacks",
+    "Over 1,000 IRGC members and Iranian security officials killed since conflict began (Israeli intelligence assessment; IRGC claims verified by multiple sources)",
+    "US military casualties reach 6 troops killed in Iranian strikes on bases in Iraq/Syria and Gulf region",
+    "Iranian ballistic missile struck Muwaffaq Salti Air Base in Jordan — expanding attacks beyond Iraq/Syria into Jordanian territory",
+    "UAE air defenses destroyed over 160 ballistic missiles from Iran in single defensive operation"
+  ],
+  "unverified_emerging": [
+    "Claim of 160 girls killed in US-Israeli attack on girls' school in Minab, southern Iran — source: Iraqi ji outlet, unverified by independent sources",
+    "US F-15 pilot shot down over Kuwait — local civilians thanked pilot after being shot down; extent of pilot status unclear",
+    "Israel struck nuclear facility at Natanz — claim from Iranian sources, no independent confirmation of damage extent",
+    "IRGC claims 47 martyred in Isfahan province strike — single-source report, not independently verified"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "US State Department urges American citizens to immediately leave Bahrain, Egypt, Iran, Iraq, Israel, West Bank, Gaza, Jordan, Kuwait, Lebanon, and Oman",
+      "Qatar airspace closed until at least morning; Al Udeid Air Base (major US hub) affected",
+      "Israel reopening Karam Abu Salem crossing Tuesday for humanitarian aid to Gaza — potential de-escalation in humanitarian corridor"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz effectively closed — IRGC threatening to fire on vessels; world's largest insurers have cancelled war-risk coverage",
+      "Gulf shipping becoming no-go zone for tankers — major threat to global oil supplies",
+      "Dubai's safe-haven image shattered by Iranian missile attacks on business hub"
+    ],
+    "market_macro": [
+      "Oil markets face supply shock as Strait of Hormuz threatens closure",
+      "War-risk insurance premiums skyrocketing or unavailable for Gulf transit",
+      "Regional business confidence collapsing in traditional safe havens like Dubai"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will intensify with IRGC likely launching continued Wave 12-13 attacks against US bases and Gulf allies. Strait of Hormuz closure threat will drive oil prices sharply higher. Gulf states face critical air defense depletion within 4 days without immediate resupply. Israel expanding operations into Tehran proper with evacuation warnings — indicates preparation for deeper strikes. US not ruling out ground troops, signaling potential major escalation. Iraqi proxy attacks (67 operations in 72h) will continue tying down US forces.",
+    "escalation_risks": [
+      "IRGC follows through on threat to fire on ships in Strait of Hormuz — triggers global oil supply crisis and potential US retaliation against Iranian port facilities",
+      "Gulf states' air defense depletion leads to successful Iranian missile strikes on US military installations or civilian targets",
+      "Israel conducts ground operations in Lebanon or expands strikes into Tehran residential areas",
+      "Iranian missiles achieve mass saturation of Kuwait/Jordan air defenses causing significant US casualties",
+      "Russia/China intervene diplomatically or materially to support Iran"
+    ],
+    "de_escalation_pathways": "UN Secretary-General calling for de-escalation and immediate cessation of hostilities. UK Starmer signaling caution and avoiding 'mistakes of Iraq.' However, no apparent off-ramp currently — Iran framing all attacks as 'legitimate self-defense,' US committed to halting nuclear program, Israel expanding operations. De-escalation would require either: (1) IRGC command structure collapse leading to ceasefire, (2) diplomatic intervention by Russia/China/sanctions-framework, or (3) mutual exhaustion enabling face-saving negotiated pause — none appearing imminent."
+  }
+}

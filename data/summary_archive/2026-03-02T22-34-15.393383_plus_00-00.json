@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-03-02T22:34:15.393383+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 743,
+    "incident_count_6h": 146,
+    "severity_breakdown": {
+      "major": 313,
+      "high": 249,
+      "medium": 175,
+      "low": 6
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 100,
+    "articles_analyzed": 169,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has reached a decisive turning point with the confirmed death of Iran's Supreme Leader Khamenei in a US-backed Israeli strike on Tehran (March 2, 17:05 UTC). This eliminates the critical figurehead of Iran's unified command structure and triggers immediate succession uncertainty. The US has now destroyed all Iranian warships in the Gulf of Oman, while Gulf states warn their air defense systems will be depleted within 4 days. Iranian proxies continue Wave 12 attacks, and the Strait of Hormuz is effectively closed with IRGC threatening to fire on vessels. Civilian casualties have reached 555 confirmed dead per Iranian Red Crescent.",
+  "whats_new": [
+    "Trump declares 'I got him before he got me' after Iran's Supreme Leader Khamenei killed in US-backed Israeli strike on Tehran — marking the highest-value target elimination in the conflict",
+    "US forces destroyed all 11 Iranian warships stationed in Oman, eliminating Iran's naval presence in the Gulf of Oman — confirmed by US military footage",
+    "Qatar and UAE warn their Patriot air defense systems will be exhausted within 4 days under continuous Iranian drone/missile barrages, urgently requesting replenishment",
+    "Iran confirms Natanz nuclear facility was struck by US-Israeli airstrikes — represents direct attack on Iran's most sensitive nuclear infrastructure",
+    "IRGC threatens to 'set ablaze' any ships in Strait of Hormuz; world's largest insurers cancel war-risk coverage for Persian Gulf vessels",
+    "IDF Persian-language spokesperson issues evacuation warning for Evin district in Tehran — unprecedented direct Israeli warning inside Iranian capital",
+    "US Pentagon does not rule out sending ground troops into Iran — signals potential escalation beyond air/naval campaign",
+    "UK Prime Minister Starmer vows to avoid Iraq war mistakes, expressing skepticism about US post-strike planning"
+  ],
+  "confirmed_events": [
+    "Six US troops confirmed killed in Iran-US conflict — two additional bodies found from Tehran's initial counterattacks (CENTCOM, March 2, 21:02 UTC)",
+    "Iranian Red Crescent confirms 555 civilians killed in US-Israeli attacks across 131 cities — mass civilian casualty event",
+    "Over 1,000 IRGC members and Iranian security officials killed since conflict began — Israeli intelligence assessment",
+    "UAE air defenses destroyed over 160 ballistic missiles and 148 drones in single wave — demonstrating volume of Iranian attacks",
+    "Qatar shot down two Iranian bombers attempting to attack Persian Gulf neighbors — first reported Iranian air attack on a Gulf state",
+    "Bahrain intercepted 70 missiles and 59 drones; Qatar destroyed two Iranian Su-24 jets and seven ballistic missiles"
+  ],
+  "unverified_emerging": [
+    "IRGC claims to have shot down seven advanced American-Israeli drones in recent hours (Al Alam, single source) — cannot independently verify",
+    "Photo published showing graves of over 160 girls killed in Minab school attack — claim unverified, should be treated as Iranian propaganda",
+    "Iranian official Ali Akbar Iraqi warns American bases across region are 'legitimate targets' — signals intent to expand conflict geographically"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Qatar airspace closed until at least morning (TASS) — affecting all commercial flights",
+      "Mass evacuation orders issued for 30+ villages in southern Lebanon — thousands of families fleeing toward Beirut",
+      "Drone infiltration alerts in northern Israel (Galilee) — ongoing false alarm incidents indicate high alert fatigue"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz effectively closed — world's largest insurers cancel war-risk coverage, tankers refusing to transit",
+      "IRGC threatens to fire on and set ablaze any ships attempting to cross Strait of Hormuz — major global oil supply chokepoint at risk",
+      "Gulf states air defense systems depleting at unsustainable rate — Qatari and Emirati Patriot batteries face exhaustion in 4 days"
+    ],
+    "market_macro": [
+      "Dubai's safe-haven image shattered by Iranian missile attacks — regional business hub directly impacted",
+      "International oil markets facing unprecedented supply disruption risk from Hormuz closure"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "The conflict enters a critical new phase with Khamenei's death likely fragmenting Iranian command structure. IRGC will likely attempt to demonstrate continued capability through intensified Wave 12+ attacks, but loss of supreme leadership creates succession crisis that could paralyze decision-making. Gulf states face acute air defense exhaustion within 96 hours without immediate US/Italian replenishment. The Strait of Hormuz closure threatens global oil supplies — insurers have already canceled coverage, and shipping is effectively paralyzed. US ground troop option remains on table, representing potential major escalation.",
+    "escalation_risks": [
+      "Khamenei's death triggers unpredictable IRGC/leadership response — possible irrational escalation or command fragmentation",
+      "Strait of Hormuz hostilities escalate to actual shipping attacks — could close world's critical oil chokepoint permanently",
+      "Gulf states' air defense collapse enables Iranian missiles to reach US bases unhindered — major casualties",
+      "Israeli expansion into Tehran ground operations following evacuation warnings",
+      "Iranian retaliation against Cyprus or other neutral states expands conflict geography",
+      "US ground invasion option exercised if air campaign fails to degrade Iranian capabilities"
+    ],
+    "de_escalation_pathways": "Immediate de-escalation appears highly unlikely given the elimination of Iran's supreme leader — a point of no return. However, potential pathways include: IRGC leadership fragmentation after succession struggle reduces coherent command for further attacks; Gulf state air defense collapse forces US to negotiate ceasefire to protect allies; international pressure from Turkey (Erdogan condemning attacks as illegal) and UK (Starmer caution) creates diplomatic opening; or economic disruption from Hormuz closure forces both sides to negotiate. Any pathway requires US to demonstrate willingness to accept ceasefire while Iranian leadership transition stabilizes."
+  }
+}

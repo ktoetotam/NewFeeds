@@ -95,6 +95,8 @@ REGION: {article.get('region', '')}
 
 {{"is_attack":bool,"category":"us_strike_on_iran|iran_strike_on_us|ballistic_missile|drone_strike|airstrike|naval_incident|houthi_attack|hezbollah_action|proxy_operation|nuclear_development|irgc_action|cyber_attack|threat_statement|escalation|military_deployment|sanctions|ceasefire_violation|other","severity":"major|high|medium|low","parties_involved":["..."],"location":"...","brief":"one sentence"}}
 
+is_attack MUST be false for: political commentary, opinion pieces, domestic political reactions, partisan criticism of military policy, protest coverage, diplomatic statements without concrete military action, election/campaign rhetoric, media/pundit analysis. Only set is_attack=true when the article reports an ACTUAL military event, concrete threat, or direct operational activity.
+
 Severity: major=direct US-Iran engagement/ballistic/nuclear/mass casualties, high=strikes with casualties/major ops, medium=proxy clashes/drones/threats/mobilization, low=sanctions/minor/routine/unconfirmed"""
 
     headers = {
@@ -303,18 +305,35 @@ def classify_articles(
         to_classify.sort(key=lambda a: a.get("keyword_matches", 0), reverse=True)
         to_classify = to_classify[:max_classify]
 
-    # Stage 2: LLM classification
-    classified = []
-    for i, article in enumerate(to_classify):
-        logger.info(
-            f"Classifying [{i+1}/{len(to_classify)}]: {article.get('title_en', '')[:60]}..."
-        )
-        classification = classify_with_llm(article, api_key)
-        article["classification"] = classification
-        classified.append(article)
+    # Stage 2: LLM classification (concurrent)
+    import threading
+    from concurrent.futures import ThreadPoolExecutor, as_completed
 
-        if i < len(to_classify) - 1:
-            time.sleep(0.5)
+    MAX_CONCURRENT = int(os.environ.get("LLM_CLASSIFY_CONCURRENCY", "5"))
+    semaphore = threading.Semaphore(MAX_CONCURRENT)
+    classified = []
+    classified_lock = threading.Lock()
+    counter = {"done": 0}
+
+    def _classify_one(article):
+        with semaphore:
+            classification = classify_with_llm(article, api_key)
+            article["classification"] = classification
+            with classified_lock:
+                classified.append(article)
+                counter["done"] += 1
+                idx = counter["done"]
+            logger.info(
+                f"Classifying [{idx}/{len(to_classify)}]: {article.get('title_en', '')[:60]}..."
+            )
+
+    with ThreadPoolExecutor(max_workers=MAX_CONCURRENT) as executor:
+        futures = [executor.submit(_classify_one, article) for article in to_classify]
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                logger.error(f"Classification task failed: {e}")
 
     all_classified = already_classified + classified
 

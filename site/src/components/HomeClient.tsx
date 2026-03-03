@@ -1,53 +1,62 @@
+"use client";
+
+import { useMemo } from "react";
+import Link from "next/link";
 import Header from "@/components/Header";
 import NewsFeed from "@/components/NewsFeed";
-import Link from "next/link";
-import {
-  getArticlesByRegion,
-  getAttackArticles,
-  getThreatLevel,
-  getExecutiveSummary,
-} from "@/lib/data";
-import type { RegionKey } from "@/lib/types";
-import { REGIONS, THREAT_LEVEL_COLORS } from "@/lib/types";
 import HomeAttackMap from "@/components/HomeAttackMap";
+import {
+  useArticlesByRegion,
+  useAttackArticles,
+  useThreatLevel,
+  useExecutiveSummary,
+} from "@/lib/hooks";
+import { THREAT_LEVEL_COLORS } from "@/lib/types";
 
-export default async function HomePage() {
-  const regions: RegionKey[] = REGIONS.map((r) => r.key);
-  const articlesByRegion: Record<string, Awaited<ReturnType<typeof getArticlesByRegion>>> = {};
+export default function HomeClient() {
+  const { articlesByRegion, loading: articlesLoading } = useArticlesByRegion();
+  const { attacks, loading: attacksLoading } = useAttackArticles();
+  const { threatLevel, loading: threatLoading } = useThreatLevel();
+  const { summary } = useExecutiveSummary();
 
-  // Fetch all regions + global data in parallel
-  const [regionResults, threatLevel, attacks, summary] = await Promise.all([
-    Promise.all(regions.map((r) => getArticlesByRegion(r))),
-    getThreatLevel(),
-    getAttackArticles(),
-    getExecutiveSummary(),
-  ]);
-
-  for (let i = 0; i < regions.length; i++) {
-    articlesByRegion[regions[i]] = regionResults[i];
-  }
+  const loading = articlesLoading || attacksLoading || threatLoading;
 
   const tlLevel = threatLevel.current;
-  const tlColor = tlLevel ? (THREAT_LEVEL_COLORS[tlLevel.label] || "#16a34a") : "#16a34a";
+  const tlColor = tlLevel
+    ? THREAT_LEVEL_COLORS[tlLevel.label] || "#16a34a"
+    : "#16a34a";
 
   const severityBreakdown = tlLevel?.severity_breakdown;
   const majorCount = severityBreakdown?.major ?? 0;
   const highCount = severityBreakdown?.high ?? 0;
 
+  if (loading) {
+    return (
+      <>
+        <Header threatLevel={threatLevel} updatedAt={threatLevel.updated_at} />
+        <main style={{ maxWidth: 1400, margin: "0 auto", padding: "0 24px 48px" }}>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+              minHeight: 300,
+              color: "var(--color-text-muted)",
+              fontSize: 16,
+            }}
+          >
+            Loading live data…
+          </div>
+        </main>
+      </>
+    );
+  }
+
   return (
     <>
-      <Header
-        threatLevel={threatLevel}
-        updatedAt={threatLevel.updated_at}
-      />
-      <main
-        style={{
-          maxWidth: 1400,
-          margin: "0 auto",
-          padding: "0 24px 48px",
-        }}
-      >
-        {/* Prominent nav cards */}
+      <Header threatLevel={threatLevel} updatedAt={threatLevel.updated_at} />
+      <main style={{ maxWidth: 1400, margin: "0 auto", padding: "0 24px 48px" }}>
+        {/* Nav cards */}
         <section
           style={{
             display: "grid",
@@ -57,10 +66,7 @@ export default async function HomePage() {
           }}
         >
           {/* Attack Monitor card */}
-          <Link
-            href="/attacks"
-            style={{ textDecoration: "none", color: "inherit" }}
-          >
+          <Link href="/attacks" style={{ textDecoration: "none", color: "inherit" }}>
             <div
               style={{
                 background: "var(--color-surface)",
@@ -96,7 +102,13 @@ export default async function HomePage() {
               <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
                 {attacks.length} incidents tracked.
                 {majorCount + highCount > 0 && (
-                  <> <strong style={{ color: "#ef4444" }}>{majorCount + highCount} major/high</strong> in last 48h.</>
+                  <>
+                    {" "}
+                    <strong style={{ color: "#ef4444" }}>
+                      {majorCount + highCount} major/high
+                    </strong>{" "}
+                    in last 48h.
+                  </>
                 )}
               </div>
               <div
@@ -116,10 +128,7 @@ export default async function HomePage() {
           </Link>
 
           {/* Executive Summary card */}
-          <Link
-            href="/summary"
-            style={{ textDecoration: "none", color: "inherit" }}
-          >
+          <Link href="/summary" style={{ textDecoration: "none", color: "inherit" }}>
             <div
               style={{
                 background: "var(--color-surface)",
@@ -137,14 +146,15 @@ export default async function HomePage() {
                   📋 Executive Summary
                 </span>
                 {summary?.generated_at && (
-                  <span style={{ fontSize: 11, color: "var(--color-text-muted)" }}>
+                  <span style={{ fontSize: 11, color: "var(--color-text-muted)" }} suppressHydrationWarning>
                     {new Date(summary.generated_at).toLocaleString("en-GB", {
                       day: "2-digit",
                       month: "short",
                       hour: "2-digit",
                       minute: "2-digit",
                       timeZone: "UTC",
-                    })} UTC
+                    })}{" "}
+                    UTC
                   </span>
                 )}
               </div>
@@ -164,15 +174,7 @@ export default async function HomePage() {
                   : "AI-generated intelligence briefing covering regional threat assessments, key incidents, and escalation risks."}
               </div>
               <div
-                style={{
-                  marginTop: 4,
-                  fontSize: 13,
-                  fontWeight: 600,
-                  color: "#3b82f6",
-                  display: "flex",
-                  alignItems: "center",
-                  gap: 4,
-                }}
+                style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#3b82f6", display: "flex", alignItems: "center", gap: 4 }}
               >
                 Read Executive Summary →
               </div>
@@ -193,13 +195,7 @@ export default async function HomePage() {
             }}
           >
             🗺️ Attack Events Map
-            <span
-              style={{
-                fontSize: 13,
-                fontWeight: 400,
-                color: "var(--color-text-muted)",
-              }}
-            >
+            <span style={{ fontSize: 13, fontWeight: 400, color: "var(--color-text-muted)" }}>
               — last {attacks.length} incidents
             </span>
           </h2>

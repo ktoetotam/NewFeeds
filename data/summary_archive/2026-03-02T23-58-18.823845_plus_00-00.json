@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-03-02T23:58:18.823845+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "de-escalating",
+    "incident_count_24h": 210,
+    "incident_count_6h": 15,
+    "severity_breakdown": {
+      "major": 91,
+      "high": 73,
+      "medium": 45,
+      "low": 1
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 11,
+    "articles_analyzed": 84,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated significantly in the last 4 hours with IRGC launching 10 suicide drones at Arifjan base in Kuwait (US Marine barracks) - confirmed by IRGC and secondary sources - causing additional US casualties. Iran launched a new ballistic missile barrage at Israel triggering nationwide sirens, while IDF struck an IRGC broadcasting headquarters in Tehran. US Central Command confirms 6 American servicemembers killed (up from 4). The conflict is expanding geographically with Qatar condemning Iranian attacks on its territory and Bahrain intercepting 70 missiles and 76 drones. Trend remains MAJOR with de-escalation signals emerging from UN and regional diplomacy.",
+  "whats_new": [
+    "IRGC launched 10 suicide drones at Arifjan base in Kuwait housing US Marines - confirmed by IRGC claims and multiple sources, marking significant escalation in attacks on US military installations",
+    "Iran launched new ballistic missile barrage at Israel triggering nationwide sirens - major escalation with direct Iranian strikes on Israeli territory",
+    "IDF struck IRGC broadcasting headquarters in Tehran - confirmed Israeli strike on Iranian soil targeting IRGC assets",
+    "US Central Command confirms 6 American servicemembers killed (up from 4) - additional casualties from Iranian strikes on US bases",
+    "Qatar condemns Iranian attack on its territory as flagrant violation of sovereignty, escalating Gulf state involvement",
+    "Islamic Resistance in Iraq claims 28 operations against American bases in recent period, 67 operations in 72 hours - significant proxy escalation"
+  ],
+  "confirmed_events": [
+    "Confirmed by IRGC claims + secondary sources: 10 suicide drones struck Arifjan base in Kuwait housing US Marines, representing major escalation in direct Iran-US military confrontation",
+    "Confirmed by IDF + Iranian sources: Iran launched ballistic missile barrage at Israel triggering nationwide sirens, representing significant escalation in Iranian retaliation",
+    "Confirmed by CENTCOM: US servicemember deaths increased to 6 during Operation Epic Fury, with bodies retrieved from attack sites",
+    "Confirmed by Bahrain Defense Forces: 70 Iranian ballistic missiles and 76 drones intercepted since conflict began, demonstrating expanded Iranian campaign against Gulf allies",
+    "Confirmed by multiple sources: IRGC launched Wave 12 of 'Honest Promise 4' operations targeting US and Israeli sites with 700 drones and hundreds of missiles"
+  ],
+  "unverified_emerging": [
+    "CLAIM: Reports claim Supreme Leader Ali Khamenei has been martyred - SOURCE: Al Masirah (Houthi). NOTE: This report appears highly questionable as Khamenei is publicly known to be alive; likely misinformation or propaganda",
+    "CLAIM: Islamic Resistance in Iraq released footage of attacks on American bases - unverified but represents propaganda element of proxy warfare",
+    "CLAIM: Iranian Red Crescent reports 555 killed across Iran - higher than other estimates; requires verification"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "US State Department likely maintaining elevated travel advisories for Gulf region",
+      "Airspace restrictions and missile threat continue affecting flights to/from Israel and Gulf states",
+      "Lebanon evacuation orders for 30 towns indicate ongoing civilian displacement crisis"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz remains OPEN per CENTCOM - critical global oil chokepoint not closed despite Iranian threats",
+      "Karam Abu Salem crossing to reopen Tuesday for humanitarian aid into Gaza - partial supply chain restoration",
+      "IRGC attacks on fuel tankers in Strait of Hormuz pose ongoing shipping risk"
+    ],
+    "market_macro": [
+      "NYT reports prolonged Iran-US conflict could spike oil prices ahead of summer driving season",
+      "Oil market sensitive to Strait of Hormuz disruption - currently open but under threat",
+      "Economic impact projections show potential gasoline price increases for US consumers"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will continue at MAJOR intensity with sustained IRGC missile/drone attacks on US bases in Iraq, Kuwait, and Gulf states. Iran will maintain pressure on Israeli territory through ballistic missile barrages while IDF conducts strikes on Iranian assets in Tehran. US casualties will likely rise further. Regional escalation risk remains HIGH with Qatar now formally condemning Iranian attacks and Bahrain actively intercepting Iranian munitions. UN Secretary-General call for de-escalation unlikely to yield immediate results.",
+    "escalation_risks": [
+      "IRGC threatens additional strikes on US military installations in Gulf - further US casualties likely",
+      "Iranian counterstrike on Israeli population centers could trigger broader regional war",
+      "Hezbollah integration with Iranian attacks could open new northern front for Israel",
+      "Islamic Resistance in Iraq proxy attacks on US bases may increase in frequency and intensity",
+      "Strait of Hormuz closure would catastrophic global oil supply disruption",
+      "Qatar and other Gulf states may be drawn further into conflict following Iranian attacks on their territory"
+    ],
+    "de_escalation_pathways": [
+      "UN Secretary-General call for de-escalation and dialogue represents diplomatic off-ramp but limited immediate traction",
+      "Saudi Crown Prince engagement with Swiss President indicates quiet regional diplomacy underway",
+      "Trump administration internal debate on campaign duration - if extended beyond 4-5 weeks may create negotiation space",
+      "Iranian domestic pressure from civilian casualties (200-555+) may eventually force regime to seek terms",
+      "Gulf state mediation (Qatar, Bahrain, Saudi) could provide backchannel for de-escalation if conflict expands further"
+    ]
+  }
+}
