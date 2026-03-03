@@ -135,21 +135,18 @@ export function useAttackArticles() {
     const { data, error } = await sb
       .from("attacks")
       .select("*")
-      .order("effective_time", { ascending: false })
+      .order("fetched_at", { ascending: false, nullsFirst: false })
       .limit(1000);
 
     if (error) {
       console.warn("[useAttackArticles]", error.message);
     } else {
-      const now = Date.now();
       const sorted = (data || [])
         .map(rowToArticle)
         .sort((a, b) => {
-          const tA = new Date(a.published).getTime();
-          const tB = new Date(b.published).getTime();
-          const effA = !isNaN(tA) && tA <= now ? tA : (a.fetched_at ? new Date(a.fetched_at).getTime() : 0);
-          const effB = !isNaN(tB) && tB <= now ? tB : (b.fetched_at ? new Date(b.fetched_at).getTime() : 0);
-          return effB - effA;
+          const tA = a.fetched_at ? new Date(a.fetched_at).getTime() : 0;
+          const tB = b.fetched_at ? new Date(b.fetched_at).getTime() : 0;
+          return tB - tA;
         });
       setAttacks(sorted);
     }
