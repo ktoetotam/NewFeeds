@@ -39,8 +39,7 @@ export default function CountryFilter({ available, selected, onChange }: Props) 
       : `${selected.length} countries`;
 
   const isActive = selected.length > 0;
-
-  if (available.length === 0) return null;
+  const noData = available.length === 0;
 
   return (
     <div ref={ref} style={{ position: "relative", display: "inline-block" }}>
@@ -50,25 +49,27 @@ export default function CountryFilter({ available, selected, onChange }: Props) 
           Countries:
         </span>
         <button
-          onClick={() => setOpen((o) => !o)}
+          onClick={() => !noData && setOpen((o) => !o)}
+          disabled={noData}
           style={{
             padding: "4px 12px",
             borderRadius: 99,
             border: "1px solid",
             borderColor: isActive ? "#6366f1" : "var(--color-border)",
             background: isActive ? "#6366f1" : "var(--color-surface)",
-            color: isActive ? "#fff" : "var(--color-text)",
+            color: isActive ? "#fff" : noData ? "var(--color-text-muted)" : "var(--color-text)",
             fontSize: 12,
             fontWeight: isActive ? 700 : 400,
-            cursor: "pointer",
+            cursor: noData ? "default" : "pointer",
+            opacity: noData ? 0.5 : 1,
             display: "flex",
             alignItems: "center",
             gap: 6,
             whiteSpace: "nowrap",
           }}
         >
-          {label}
-          <span style={{ fontSize: 10, opacity: 0.8 }}>{open ? "▲" : "▼"}</span>
+          {noData ? "Countries (no data)" : label}
+          {!noData && <span style={{ fontSize: 10, opacity: 0.8 }}>{open ? "▲" : "▼"}</span>}
         </button>
         {isActive && (
           <button
