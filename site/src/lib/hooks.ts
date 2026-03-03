@@ -66,6 +66,48 @@ function rowToArticle(row: Record<string, unknown>): Article {
   };
 }
 
+// ── Local-fallback helpers ───────────────────────────────────
+
+/** Rejects after `ms` milliseconds — used to race against Supabase. */
+function timeoutReject(ms: number): Promise<never> {
+  return new Promise((_, reject) =>
+    setTimeout(() => reject(new Error("timeout")), ms)
+  );
+}
+
+async function fetchLocalArticles(): Promise<Article[]> {
+  const res = await fetch("/api/local/articles");
+  if (!res.ok) throw new Error("local articles unavailable");
+  const data: Record<string, unknown>[] = await res.json();
+  const filtered = data.filter(
+    (r) => r.relevant !== false && r.translated === true
+  );
+  return filtered.map(rowToArticle);
+}
+
+async function fetchLocalAttacks(): Promise<Article[]> {
+  const res = await fetch("/api/local/attacks");
+  if (!res.ok) throw new Error("local attacks unavailable");
+  const data: Record<string, unknown>[] = await res.json();
+  return data.map(rowToArticle);
+}
+
+async function fetchLocalThreatLevel(): Promise<ThreatLevel> {
+  const res = await fetch("/api/local/threat-level");
+  if (!res.ok) throw new Error("local threat-level unavailable");
+  return res.json() as Promise<ThreatLevel>;
+}
+
+async function fetchLocalExecutiveSummary(): Promise<ExecutiveSummaryData | null> {
+  const res = await fetch("/api/local/executive-summary");
+  if (!res.ok) return null;
+  const row = await res.json() as { data: ExecutiveSummaryData };
+  return row.data ?? null;
+}
+
+// How long to wait for Supabase before falling back to local JSON
+const SUPABASE_TIMEOUT_MS = 8_000;
+
 // Poll interval — 2 minutes for articles, 1 minute for attacks/threat
 const ARTICLE_POLL_MS = 2 * 60 * 1000;
 const FAST_POLL_MS = 60 * 1000;
@@ -78,33 +120,43 @@ export function useArticlesByRegion() {
 
   const fetchAll = useCallback(async () => {
     const sb = getSupabaseBrowser();
-    if (!sb) {
-      setLoading(false);
-      return;
+    let articles: Article[] | null = null;
+
+    if (sb) {
+      try {
+        const regions: RegionKey[] = REGIONS.map((r) => r.key);
+        const sbQuery = sb
+          .from("articles")
+          .select("*")
+          .in("region", regions)
+          .not("relevant", "is", false)
+          .eq("translated", true)
+          .order("effective_time", { ascending: false })
+          .limit(500)
+          .then((r) => r);
+        const result = await Promise.race([sbQuery, timeoutReject(SUPABASE_TIMEOUT_MS)]);
+        if (!result.error) {
+          articles = (result.data || []).map(rowToArticle);
+        } else {
+          console.warn("[useArticlesByRegion] Supabase error, falling back:", result.error.message);
+        }
+      } catch (e) {
+        console.warn("[useArticlesByRegion] Supabase unavailable, falling back to local data.", e);
+      }
     }
 
-    const regions: RegionKey[] = REGIONS.map((r) => r.key);
-
-    // Single query for all regions instead of 10 parallel queries
-    const { data, error } = await sb
-      .from("articles")
-      .select("*")
-      .in("region", regions)
-      .not("relevant", "is", false)
-      .eq("translated", true)
-      .order("effective_time", { ascending: false })
-      .limit(500);
-
-    if (error) {
-      console.warn("[useArticlesByRegion]", error.message);
-      setLoading(false);
-      return;
+    if (articles === null) {
+      try {
+        articles = await fetchLocalArticles();
+      } catch (e) {
+        console.warn("[useArticlesByRegion] Local fallback failed:", e);
+        articles = [];
+      }
     }
 
     // Group by region client-side
     const map: Record<string, Article[]> = {};
-    for (const row of data || []) {
-      const article = rowToArticle(row);
+    for (const article of articles) {
       if (!map[article.region]) map[article.region] = [];
       map[article.region].push(article);
     }
@@ -115,7 +167,9 @@ export function useArticlesByRegion() {
   useEffect(() => {
     fetchAll();
     const id = setInterval(fetchAll, ARTICLE_POLL_MS);
-    return () => clearInterval(id);
+    // Safety: never block UI forever if Supabase is paused / unreachable
+    const safety = setTimeout(() => setLoading(false), 15_000);
+    return () => { clearInterval(id); clearTimeout(safety); };
   }, [fetchAll]);
 
   return { articlesByRegion, loading, refetch: fetchAll };
@@ -129,36 +183,50 @@ export function useAttackArticles() {
 
   const fetch = useCallback(async () => {
     const sb = getSupabaseBrowser();
-    if (!sb) {
-      setLoading(false);
-      return;
+    let articles: Article[] | null = null;
+
+    if (sb) {
+      try {
+        const sbQuery = sb
+          .from("attacks")
+          .select("*")
+          .order("effective_time", { ascending: false })
+          .limit(1000)
+          .then((r) => r);
+        const result = await Promise.race([sbQuery, timeoutReject(SUPABASE_TIMEOUT_MS)]);
+        if (!result.error) {
+          articles = (result.data || []).map(rowToArticle);
+        } else {
+          console.warn("[useAttackArticles] Supabase error, falling back:", result.error.message);
+        }
+      } catch (e) {
+        console.warn("[useAttackArticles] Supabase unavailable, falling back to local data.", e);
+      }
     }
 
-    const { data, error } = await sb
-      .from("attacks")
-      .select("*")
-      .order("effective_time", { ascending: false })
-      .limit(1000);
-
-    if (error) {
-      console.warn("[useAttackArticles]", error.message);
-    } else {
-      const sorted = (data || [])
-        .map(rowToArticle)
-        .sort((a, b) => {
-          const tA = a.fetched_at ? new Date(a.fetched_at).getTime() : new Date(a.published).getTime();
-          const tB = b.fetched_at ? new Date(b.fetched_at).getTime() : new Date(b.published).getTime();
-          return tB - tA;
-        });
-      setAttacks(sorted);
+    if (articles === null) {
+      try {
+        articles = await fetchLocalAttacks();
+      } catch (e) {
+        console.warn("[useAttackArticles] Local fallback failed:", e);
+        articles = [];
+      }
     }
+
+    const sorted = articles.sort((a, b) => {
+      const tA = a.fetched_at ? new Date(a.fetched_at).getTime() : new Date(a.published).getTime();
+      const tB = b.fetched_at ? new Date(b.fetched_at).getTime() : new Date(b.published).getTime();
+      return tB - tA;
+    });
+    setAttacks(sorted);
     setLoading(false);
   }, []);
 
   useEffect(() => {
     fetch();
     const id = setInterval(fetch, FAST_POLL_MS);
-    return () => clearInterval(id);
+    const safety = setTimeout(() => setLoading(false), 15_000);
+    return () => { clearInterval(id); clearTimeout(safety); };
   }, [fetch]);
 
   return { attacks, loading, refetch: fetch };
@@ -172,46 +240,64 @@ export function useThreatLevel() {
 
   const fetch = useCallback(async () => {
     const sb = getSupabaseBrowser();
-    if (!sb) {
-      setLoading(false);
-      return;
+    let tl: ThreatLevel | null = null;
+
+    if (sb) {
+      try {
+        const sbQuery = sb
+          .from("threat_level")
+          .select("*")
+          .eq("id", "current")
+          .single()
+          .then((r) => r);
+        const result = await Promise.race([sbQuery, timeoutReject(SUPABASE_TIMEOUT_MS)]);
+        if (!result.error && result.data) {
+          const data = result.data;
+          tl = {
+            current:
+              typeof data.current_data === "string"
+                ? JSON.parse(data.current_data)
+                : data.current_data,
+            short_term_6h:
+              typeof data.short_term_6h === "string"
+                ? JSON.parse(data.short_term_6h)
+                : data.short_term_6h,
+            medium_term_48h:
+              typeof data.medium_term_48h === "string"
+                ? JSON.parse(data.medium_term_48h)
+                : data.medium_term_48h,
+            trend: data.trend ?? "stable",
+            history:
+              typeof data.history === "string"
+                ? JSON.parse(data.history)
+                : (data.history ?? []),
+            updated_at: data.updated_at ?? new Date().toISOString(),
+          };
+        } else if (result.error) {
+          console.warn("[useThreatLevel] Supabase error, falling back:", result.error.message);
+        }
+      } catch (e) {
+        console.warn("[useThreatLevel] Supabase unavailable, falling back to local data.", e);
+      }
     }
 
-    const { data, error } = await sb
-      .from("threat_level")
-      .select("*")
-      .eq("id", "current")
-      .single();
-
-    if (!error && data) {
-      setThreatLevel({
-        current:
-          typeof data.current_data === "string"
-            ? JSON.parse(data.current_data)
-            : data.current_data,
-        short_term_6h:
-          typeof data.short_term_6h === "string"
-            ? JSON.parse(data.short_term_6h)
-            : data.short_term_6h,
-        medium_term_48h:
-          typeof data.medium_term_48h === "string"
-            ? JSON.parse(data.medium_term_48h)
-            : data.medium_term_48h,
-        trend: data.trend ?? "stable",
-        history:
-          typeof data.history === "string"
-            ? JSON.parse(data.history)
-            : (data.history ?? []),
-        updated_at: data.updated_at ?? new Date().toISOString(),
-      });
+    if (tl === null) {
+      try {
+        tl = await fetchLocalThreatLevel();
+      } catch (e) {
+        console.warn("[useThreatLevel] Local fallback failed:", e);
+      }
     }
+
+    if (tl) setThreatLevel(tl);
     setLoading(false);
   }, []);
 
   useEffect(() => {
     fetch();
     const id = setInterval(fetch, FAST_POLL_MS);
-    return () => clearInterval(id);
+    const safety = setTimeout(() => setLoading(false), 15_000);
+    return () => { clearInterval(id); clearTimeout(safety); };
   }, [fetch]);
 
   return { threatLevel, loading, refetch: fetch };
@@ -225,29 +311,47 @@ export function useExecutiveSummary() {
 
   const fetch = useCallback(async () => {
     const sb = getSupabaseBrowser();
-    if (!sb) {
-      setLoading(false);
-      return;
+    let blob: ExecutiveSummaryData | null = null;
+
+    if (sb) {
+      try {
+        const sbQuery = sb
+          .from("executive_summary")
+          .select("*")
+          .eq("id", "current")
+          .single()
+          .then((r) => r);
+        const result = await Promise.race([sbQuery, timeoutReject(SUPABASE_TIMEOUT_MS)]);
+        if (!result.error && result.data?.data) {
+          blob =
+            typeof result.data.data === "string"
+              ? JSON.parse(result.data.data)
+              : result.data.data;
+        } else if (result.error) {
+          console.warn("[useExecutiveSummary] Supabase error, falling back:", result.error.message);
+        }
+      } catch (e) {
+        console.warn("[useExecutiveSummary] Supabase unavailable, falling back to local data.", e);
+      }
     }
 
-    const { data, error } = await sb
-      .from("executive_summary")
-      .select("*")
-      .eq("id", "current")
-      .single();
-
-    if (!error && data?.data) {
-      const blob =
-        typeof data.data === "string" ? JSON.parse(data.data) : data.data;
-      setSummary(blob as ExecutiveSummaryData);
+    if (blob === null) {
+      try {
+        blob = await fetchLocalExecutiveSummary();
+      } catch (e) {
+        console.warn("[useExecutiveSummary] Local fallback failed:", e);
+      }
     }
+
+    if (blob) setSummary(blob);
     setLoading(false);
   }, []);
 
   useEffect(() => {
     fetch();
     const id = setInterval(fetch, FAST_POLL_MS);
-    return () => clearInterval(id);
+    const safety = setTimeout(() => setLoading(false), 15_000);
+    return () => { clearInterval(id); clearTimeout(safety); };
   }, [fetch]);
 
   return { summary, loading, refetch: fetch };
@@ -261,29 +365,43 @@ export function useOperationalBriefing() {
 
   const fetch = useCallback(async () => {
     const sb = getSupabaseBrowser();
-    if (!sb) {
-      setLoading(false);
-      return;
+    let blob: OperationalBriefingData | null = null;
+
+    if (sb) {
+      try {
+        const sbQuery = sb
+          .from("operational_briefing")
+          .select("*")
+          .eq("id", "current")
+          .single()
+          .then((r) => r);
+        const result = await Promise.race([sbQuery, timeoutReject(SUPABASE_TIMEOUT_MS)]);
+        if (!result.error && result.data?.data) {
+          blob =
+            typeof result.data.data === "string"
+              ? JSON.parse(result.data.data)
+              : result.data.data;
+        } else if (result.error) {
+          console.warn("[useOperationalBriefing] Supabase error, falling back:", result.error.message);
+        }
+      } catch (e) {
+        console.warn("[useOperationalBriefing] Supabase unavailable, falling back to local data.", e);
+      }
     }
 
-    const { data, error } = await sb
-      .from("operational_briefing")
-      .select("*")
-      .eq("id", "current")
-      .single();
-
-    if (!error && data?.data) {
-      const blob =
-        typeof data.data === "string" ? JSON.parse(data.data) : data.data;
-      setBriefing(blob as OperationalBriefingData);
+    if (blob === null) {
+      // No local file for operational briefing — just unset loading
     }
+
+    if (blob) setBriefing(blob);
     setLoading(false);
   }, []);
 
   useEffect(() => {
     fetch();
     const id = setInterval(fetch, FAST_POLL_MS);
-    return () => clearInterval(id);
+    const safety = setTimeout(() => setLoading(false), 15_000);
+    return () => { clearInterval(id); clearTimeout(safety); };
   }, [fetch]);
 
   return { briefing, loading, refetch: fetch };

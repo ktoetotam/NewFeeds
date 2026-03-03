@@ -12,6 +12,7 @@ Environment variables:
 import json
 import logging
 import os
+import time
 from datetime import datetime, timedelta, timezone
 
 logger = logging.getLogger(__name__)
@@ -117,6 +118,34 @@ def _chunked(lst: list, n: int):
         yield lst[i : i + n]
 
 
+def _upsert_batch_with_retry(table_query, batch: list, max_retries: int = 4, base_delay: float = 2.0):
+    """
+    Execute a Supabase upsert for a single batch, retrying on transient errors
+    (timeouts, connection resets) with exponential backoff.
+
+    Raises the last exception if all retries are exhausted.
+    """
+    delay = base_delay
+    last_exc: Exception | None = None
+    for attempt in range(max_retries):
+        try:
+            table_query(batch).execute()
+            return
+        except Exception as exc:
+            last_exc = exc
+            # Retry on timeout / connection errors; re-raise on others immediately
+            exc_str = str(exc).lower()
+            if not any(kw in exc_str for kw in ("timeout", "timed out", "connection", "reset", "eof", "broken pipe")):
+                raise
+            if attempt < max_retries - 1:
+                logger.warning(
+                    f"Supabase batch upsert transient error (attempt {attempt + 1}/{max_retries}): {exc} — retrying in {delay:.1f}s"
+                )
+                time.sleep(delay)
+                delay *= 2
+    raise last_exc  # type: ignore[misc]
+
+
 # ── Public API ───────────────────────────────────────────────
 
 
@@ -144,12 +173,15 @@ def upsert_articles(region: str, articles: list[dict]) -> int:
             seen[rid] = row
     rows = list(seen.values())
 
-    # Batch upsert
-    BATCH = 100
+    # Batch upsert with retry
+    BATCH = 50
     total = 0
     for i in range(0, len(rows), BATCH):
         batch = rows[i:i + BATCH]
-        client.table("articles").upsert(batch, on_conflict="id").execute()
+        _upsert_batch_with_retry(
+            lambda b: client.table("articles").upsert(b, on_conflict="id"),
+            batch,
+        )
         total += len(batch)
 
     logger.info(f"Supabase: upserted {total} articles for region '{region}'")
@@ -186,12 +218,15 @@ def upsert_attacks(attacks: list[dict]) -> int:
             seen[rid] = row
     rows = list(seen.values())
 
-    # Batch upsert
-    BATCH = 100
+    # Batch upsert with retry
+    BATCH = 50
     total = 0
     for i in range(0, len(rows), BATCH):
         batch = rows[i:i + BATCH]
-        client.table("attacks").upsert(batch, on_conflict="id").execute()
+        _upsert_batch_with_retry(
+            lambda b: client.table("attacks").upsert(b, on_conflict="id"),
+            batch,
+        )
         total += len(batch)
 
     logger.info(f"Supabase: upserted {total} attack articles")

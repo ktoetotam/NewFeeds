@@ -1,5 +1,58 @@
 [
   {
+    "id": "3fc6480568b100b0",
+    "title_original": "Chinese AI drug researcher XtalPi expects to turn first annual profit on 193% revenue jump",
+    "content_original": "Chinese artificial intelligence-powered drug researcher XtalPi Holdings said it expects to turn its first annual profit on the back of strong revenue growth, according to a corporate filing. The Shenzhen-based company projected a swing to a net profit of at least 100 million yuan (US$14.5 million) in 2025 from a net loss of around 1.5 billion yuan in 2024, notching its first full-year profit, according to a filing with the Hong Kong stock exchange on Tuesday. XtalPi attributed the earnings boost...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3345305/chinese-ai-drug-researcher-xtalpi-expects-turn-first-annual-profit-193-revenue-jump?utm_source=rss_feed",
+    "published": "2026-03-03T12:33:07+00:00",
+    "fetched_at": "2026-03-03T12:33:58.366779+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true
+  },
+  {
+    "id": "48cd14bb28168280",
+    "title_original": "US war on Iran isn’t likely to go as planned",
+    "content_original": "Many American wars begin with the assumption that brute force will lead to a swift and decisive victory. While the US military is highly effective at conventional deterrence, it has consistently struggled to defeat adversaries employing asymmetric tactics. In conflicts such as Vietnam, Iraq, Afghanistan and Yemen, Washington repeatedly underestimated its adversaries by assessing their strength based on their ability to fight conventionally. Iran represents the most dangerous iteration of...",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3345222/us-war-iran-isnt-likely-go-planned?utm_source=rss_feed",
+    "published": "2026-03-03T12:30:08+00:00",
+    "fetched_at": "2026-03-03T12:33:58.368026+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true
+  },
+  {
+    "id": "7d18bce683e330d7",
+    "title_original": "As US-Iran war threatens global energy markets, will China speed up its green transition?",
+    "content_original": "From Venezuela to Iran, a wave of military interventions by the United States threatens to disrupt China’s oil supplies – and could accelerate Beijing’s transition away from fossil fuels, according to analysts. “Geopolitical tensions often serve as a reminder that heavy dependence on imported fossil fuels represents a structural vulnerability,” said Shen Xinyi, a researcher at the Centre for Research on Energy and Clean Air. The current turmoil could reinforce Beijing’s growing emphasis on...",
+    "url": "https://www.scmp.com/economy/global-economy/article/3345297/us-iran-war-threatens-global-energy-markets-will-china-speed-its-green-transition?utm_source=rss_feed",
+    "published": "2026-03-03T12:00:11+00:00",
+    "fetched_at": "2026-03-03T12:29:20.996478+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true
+  },
+  {
+    "id": "448eb29c85dac6e6",
+    "title_original": "Filipinos in Middle East war zones torn between life and livelihood: ‘we have families’",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3345212/filipinos-middle-east-war-zones-torn-between-life-and-livelihood-we-have-families?utm_source=rss_feed",
+    "published": "2026-03-03T03:44:39+00:00",
+    "fetched_at": "2026-03-03T03:52:09.664366+00:00",
+    "source_name": "South China Morning Post",
+    "source_category": "independent",
+    "language": "en",
+    "region": "china",
+    "skip_translation": true,
+    "translated": true,
+    "relevant": false
+  },
+  {
     "id": "cdaf6fc27c669613",
     "title_original": "Language as a weapon? PLA academics push for training overhaul, cite Ukraine war",
     "url": "https://www.scmp.com/news/china/military/article/3345144/language-weapon-pla-academics-push-training-overhaul-cite-ukraine-war?utm_source=rss_feed",

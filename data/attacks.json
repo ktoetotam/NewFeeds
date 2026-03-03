@@ -1,5 +1,84 @@
 [
   {
+    "id": "40b776ecb59ecfd9",
+    "title_original": "حرب إيران تتسع لتشمل لبنان.. وترامب يلوح بإرسال قوات برية",
+    "content_original": "اتسع نطاق الحرب الجوية الأميركية الصهيونية ضد إيران امس دون أن تلوح في الأفق نهاية لها بعد أن شنت \"إسرائيل\" هجوما على لبنان ردا على هجمات لجماعة حزب الله، وأطلقت طهران صواريخ وطائرات مسيرة على دول خليجية وقاعدة جوية بريطانية في قبرص. وتوعد الرئيس الأميركي دونالد ترامب إيران بضربها قوة، معتبرا أن \"الموجة الكبيرة\" لم تحدث بعد، وستأتي قريبا، وقال إنه لا يستبعد",
+    "url": "http://www.sahafi.jo/files/art.php?id=c30010c4cbc721104539476614e6be6ba83429eb",
+    "published": "2026-03-03T12:00:00-05:00",
+    "fetched_at": "2026-03-03T03:52:07.180360+00:00",
+    "source_name": "Sahafi Jordan",
+    "source_category": "independent",
+    "language": "ar",
+    "region": "middle_east",
+    "skip_translation": false,
+    "title_en": "Iran war expands to include Lebanon.. and Trump hints at sending ground troops",
+    "relevant": true,
+    "summary_en": "The US-Zionist air war against Iran expanded without an end in sight as Israel launched attacks on Lebanon in response to Hezbollah strikes, while Tehran fired missiles and drones at Gulf states and a British air base in Cyprus. US President Donald Trump threatened Iran with stronger strikes, warning that the 'big wave' hasn't happened yet and could come soon, and did not rule out deploying ground troops.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "hezbollah",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "escalation",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Israel",
+        "Hezbollah",
+        "Lebanon",
+        "United Kingdom",
+        "Gulf states"
+      ],
+      "location": "Middle East, Lebanon, Gulf states, Cyprus",
+      "brief": "The Iran-US conflict escalates as Israel attacks Lebanon following Hezbollah strikes, Iran fires missiles and drones at Gulf states and a British base in Cyprus, and Trump hints at deploying ground troops while threatening stronger strikes on Tehran."
+    },
+    "lat": 29.0,
+    "lng": 47.0
+  },
+  {
+    "id": "1206c2d1ce46aad8",
+    "title_original": "حريق وانفجار في السفارة الأميركية بالرياض وإصدار تقارير أولية عن سقوط صاروخ",
+    "content_original": "قالت وزارة الدفاع السعودية، فجر الثلاثاء، إن السفارة الأميركية في الرياض تعرضت لهجوم بمسيّرتين بحسب التقديرات الأولية.وأضافت وزارة الدفاع السعودية، في بيان مقتضب، إن الهجوم نتج عنه حريق محدود وأضرار مادية بسيطة في المبنى.وقالت ثلاثة مصادر",
+    "url": "http://www.sahafi.jo/files/art.php?id=7c8e7ce4df97aaf59091599cba0c51d6ea657e09",
+    "published": "2026-03-03T12:00:00-05:00",
+    "fetched_at": "2026-03-03T03:52:07.180625+00:00",
+    "source_name": "Sahafi Jordan",
+    "source_category": "independent",
+    "language": "ar",
+    "region": "middle_east",
+    "skip_translation": false,
+    "title_en": "Fire and explosion at US embassy in Riyadh with initial reports of missile falling",
+    "relevant": true,
+    "summary_en": "The US embassy in Riyadh was attacked with drones, according to the Saudi Ministry of Defense, resulting in a limited fire and minor material damage. This represents an escalation targeting US diplomatic facilities in the Gulf region, likely by Iranian proxy forces, during the ongoing US-Iran conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "proxy",
+      "conflict",
+      "missile",
+      "explosion"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Houthis",
+        "Iran",
+        "United States",
+        "Saudi Arabia"
+      ],
+      "location": "Riyadh, Saudi Arabia",
+      "brief": "US embassy in Riyadh attacked with drones causing limited fire and minor material damage, likely conducted by Iranian proxy forces."
+    },
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
     "id": "ddbfcbe0f9897835",
     "title_original": "Iran-Israel war LIVE: Israeli strikes Hezbollah targets in Beirut; U.S. embassy in Saudi Arabia attacked by two drones, and more",
     "content_original": "U.S. Intelligence warns that Iran and its proxies could target the U.S. with retaliatory attacks",
@@ -41,6 +120,79 @@
     "lng": 46.68
   },
   {
+    "id": "2b1fe7a7831ffeb7",
+    "title_original": "Al Hadath: в Кувейте произошли взрывы",
+    "content_original": "Сообщается о работе ПВО",
+    "url": "https://tass.ru/mezhdunarodnaya-panorama/26622841",
+    "published": "2026-03-03T06:38:07+03:00",
+    "fetched_at": "2026-03-03T03:52:04.528865+00:00",
+    "source_name": "TASS",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Al Hadath: Explosions Reported in Kuwait, Air Defense Systems Activated",
+    "relevant": true,
+    "summary_en": "Reports indicate explosions occurred in Kuwait with air defense systems engaged. Given Kuwait's hosting of US military personnel and facilities, this incident is being monitored for potential connection to the ongoing Iran-US conflict, though details remain limited.",
+    "translated": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "air defense",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "Kuwait",
+        "United States",
+        "Iran (unconfirmed)"
+      ],
+      "location": "Kuwait",
+      "brief": "Explosions reported in Kuwait with air defense systems activated, being monitored for potential connection to Iran-US conflict though attribution remains unconfirmed."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "20eefb7d94c87008",
+    "title_original": "رويترز: مشاة البحرية الأمريكية قتلوا متظاهرين أمام القنصلية في كراتشي الباكستانية",
+    "content_original": "المسيرة نت| وكالات: تزامنًا مع الإعلان الأمريكي باغتيال قائد الثورة الإسلامية في إيران السيد علي خامنئي، اجتاحت المدن الباكستانية، الأحد، تظاهرات غاضبة تحولت إلى أعمال عنف مع محاولة بعض المحتجين اقتحام مبانٍ دبلوماسية أمريكية، لترد قوى الأمن والحراسات الأمريكية بإطلاق النار؛ ما أدى إلى استشهاد 25 شخصًا على الأقل، بحسب حصيلة لوكالة \"فرانس برس\"، بينهم 10 في كراتشي.",
+    "url": "https://almasirah.net.ye/static/static/34882ea1-7e68-46b4-800d-3b98d2acbde2.jpg",
+    "published": "2026-03-03T06:23:00+00:00",
+    "fetched_at": "2026-03-03T03:52:08.627238+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Reuters: US Marines killed protesters in front of the Pakistani consulate in Karachi",
+    "relevant": true,
+    "summary_en": "US Marines and American guards fired on protesters at the US consulate in Karachi, Pakistan, killing at least 25 people including 10 in Karachi. The violence erupted on Sunday following the US announcement of assassinating Iran's Supreme Leader Ali Khamenei, with protests sweeping across Pakistani cities and some demonstrators attempting to breach US diplomatic buildings.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "Pakistan",
+        "US Marines",
+        "Protesters"
+      ],
+      "location": "Karachi, Pakistan",
+      "brief": "US Marines at US consulate in Karachi fired on protesters killing at least 25 people, in context of protests triggered by US assassination announcement against Iran's Supreme Leader"
+    },
+    "lat": 24.8546842,
+    "lng": 67.0207055
+  },
+  {
     "id": "7dac2c2365ad57b1",
     "title_original": "Trump warns of longer Iran war as violence spreads",
     "content_original": "Trump said that the war, which began on February 28, with a strike that killed Iran's supreme leader, Ayatollah Ali Khamenei, was going \"substantially\" ahead of schedule but that the United States was equipped for a prolonged conflict",
@@ -78,6 +230,80 @@
     },
     "lat": 11.0046133,
     "lng": 124.6069737
+  },
+  {
+    "id": "1f44e7cc633d5151",
+    "title_original": "חיזבאללה קיבל אחריות על שיגור הכטב\"מים שהפעילו אזעקות בגליל העליון",
+    "content_original": "חיזבאללה קיבל אחריות על שיגור הכטב\"מים שהפעילו אזעקות בגליל העליון",
+    "url": "https://mivzakim.net/r/13969145/rss",
+    "published": "2026-03-03T05:49:33+02:00",
+    "fetched_at": "2026-03-03T03:52:05.176640+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Hezbollah claims responsibility for UAV launch that triggered sirens in Upper Galilee",
+    "relevant": true,
+    "summary_en": "Hezbollah claimed responsibility for launching unmanned aerial vehicles (UAVs) that triggered air raid sirens in Israel's Upper Galilee region. The attack represents continued hostilities along Israel's northern border, where Hezbollah has been conducting operations in support of Hamas and as part of the broader Iran-Israel conflict front.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "attack",
+      "hamas",
+      "conflict",
+      "hezbollah",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel"
+      ],
+      "location": "Upper Galilee, Israel",
+      "brief": "Hezbollah launched UAVs that triggered air raid sirens in Israel's Upper Galilee region, representing continued hostilities along Israel's northern border."
+    },
+    "merged_source_count": 2,
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
+    "id": "0416968c084efd10",
+    "title_original": "استهداف السفارة الأمريكية بالرياض وواشنطن تدعو رعاياها مغادرة 12 دولة",
+    "content_original": "المسيرة نت| وكالات: تعرّضت السفارة الأمريكية في الحي الدبلوماسي في الرياض لهجوم بمسيّرتين تسّبب بحريق وتصاعد الدخّان من مبناها، ونتج عنها أضرار مادية في المبنى، وسط حالة من الهلع الأمريكي الذي دعا رعاياه إلى إخلاء 12 دولة في المنطقة ومغادرتها فورًا.",
+    "url": "https://almasirah.net.ye/static/static/c7656d1b-0cb2-4fef-ae7e-03a02b6b1582.jpg",
+    "published": "2026-03-03T05:09:40+00:00",
+    "fetched_at": "2026-03-03T03:52:08.627321+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "US Embassy in Riyadh Targeted; Washington Calls on Citizens to Evacuate 12 Countries",
+    "relevant": true,
+    "summary_en": "The US embassy in Riyadh's diplomatic quarter was attacked by two drones, causing a fire and smoke to rise from the building with material damage reported. The attack triggered American panic, with Washington urging its citizens to evacuate from 12 countries in the region immediately. This represents a significant escalation targeting US diplomatic infrastructure in the Gulf.",
+    "translated": true,
+    "keyword_matches": 1,
+    "matched_keywords": [
+      "attack"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "high",
+      "parties_involved": [
+        "United States",
+        "Iranian proxies (likely Houthi)"
+      ],
+      "location": "Riyadh, Saudi Arabia",
+      "brief": "Two drones struck the US embassy in Riyadh's diplomatic quarter, causing a fire and material damage, prompting Washington to urge American citizens to evacuate from 12 countries in the region."
+    },
+    "merged_source_count": 2,
+    "lat": 24.71,
+    "lng": 46.68
   },
   {
     "id": "cbb392149d6dea28",
@@ -303,6 +529,79 @@
     "lng": 35.86
   },
   {
+    "id": "bee76479cc3a32c6",
+    "title_original": "Iran struck Dubai base used by Australian military, says minister",
+    "content_original": "Iran struck Dubai base used by Australian military, says minister Australian Defence Minister Richard Marles on Tuesday said Iranian forces struck the Al Minhad airbase near Dubai,&nbsp;a facility used by Australian troops,&nbsp;on the first night of the conflict.&nbsp; About 100 Australian troops are stationed across the Middle East, most of them based in the United Arab Emirates, he said. The base has been used as a logistics and operations hub for Australian missions in the region.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-struck-dubai-base-used-australian-military-minister-says",
+    "published": "2026-03-03T03:47:15+00:00",
+    "fetched_at": "2026-03-03T03:52:05.347607+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Iran struck Dubai base used by Australian military, says minister",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Iranian forces struck the Al Minhad airbase near Dubai, a facility used by Australian troops, on the first night of the conflict. About 100 Australian troops are stationed across the Middle East, most of them based in the United Arab Emirates. The strike demonstrates Iran's willingness to target facilities used by US coalition partners, expanding the conflict beyond direct US-Iranian targets to include allied forces in the region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "strike",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Australia",
+        "United Arab Emirates",
+        "United States"
+      ],
+      "location": "Al Minhad airbase, Dubai, United Arab Emirates, Middle East",
+      "brief": "Iranian forces struck the Al Minhad airbase near Dubai, a facility used by Australian troops, on the first night of the Iran-US conflict."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "ed51d1072b2575c4",
+    "title_original": "بيان صادر عن المقاومة الإسلامية (1):‏  بِسْمِ اللَّـهِ الرحمن الرَّحِيمِ  ‏﴿أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُم...",
+    "content_original": "بيان صادر عن المقاومة الإسلامية (1):‏ بِسْمِ اللَّـهِ الرحمن الرَّحِيمِ ‏﴿أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمْ ظُلِمُوا وَإِنَّ اللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ الَّذِينَ أُخْرِجُوا مِن دِيَارِهِم بِغَيْرِ حَقٍّ إِلَّا أَن يَقُولُوا رَبُّنَا اللَّهُ ﴾‏ ردًّا على العدوان الإسرائيلي المجرم الذي طال عشرات المدن والبلدات اللبنانيّة بما فيها ضاحية بيروت الجنوبيّة، والذي أدّى إلى ارتقاء عشرات الشهداء من الرجال والنساء والأطفال وإصابة العشرات، وإلى تهديم مبانٍ وبنى تحتية مدنية وترويع المدنيين الآمنين وتهجيرهم من بيوتهم، استهدفت المقاومة الإسلاميّة عند الساعة 05:00 من فجر اليوم الثلاثاء الواقع فيه 3/3/2026 بسربٍ من المُسيّرات الانقضاضية مواقعَ الرادارات وغرف التحكم في قاعدة رامات دافيد الجوية شمال فلسطين المحتلة. إنّ المقاومة الاسلاميّة معنية بالدفاع عن أرضها وشعبها خصوصا مع تجاوز العدو الإسرائيلي الحدود بإجرامه، وقد جاء ردّها على مواقعَ عسكرية لا كما يفعل العدو باستهدافه المدنيين، وهذا أقل الواجب للجمه ومنعه من التمادي في أهدافه الخطيرة على لبنان دولةً وشعباً ومقاومة. ‏﴿وَمَا النَّصْ...",
+    "url": "https://t.me/Electrohizbullah/157371",
+    "published": "2026-03-03T03:46:49+00:00",
+    "fetched_at": "2026-03-03T03:52:22.250837+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Islamic Resistance Statement (1): Targeting of Ramat David Air Base Radar Sites and Control Rooms",
+    "relevant": true,
+    "summary_en": "Hezbollah launched a swarm of explosive drones at 5:00 AM on March 3, 2026, targeting radar sites and control rooms at Israel's Ramat David air base. This strike was in retaliation for Israeli aggression that struck dozens of Lebanese cities and towns, including Beirut's southern suburbs, resulting in dozens of civilian casualties (men, women, and children), injuries, destruction of civilian infrastructure, and displacement of residents.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "hezbollah",
+      "strike"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran (proxy)"
+      ],
+      "location": "Ramat David Air Base, Israel",
+      "brief": "Hezbollah launched explosive drones targeting radar sites and control rooms at Israel's Ramat David air base in retaliation for Israeli aggression on Lebanese cities."
+    },
+    "lat": 31.5,
+    "lng": 34.8
+  },
+  {
     "id": "547ac278ba662486",
     "title_original": "США предстоит принять, что от атаки на Иран погибли дети, заявил Ньюсом",
     "content_original": "США предстоит принять, что от атаки на Иран погибли дети, заявил Ньюсом",
@@ -373,6 +672,42 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "01f602435f03b18d",
+    "title_original": "Rights group says 742 killed in Iran after US-Israeli strikes",
+    "content_original": "Rights group says 742 killed in Iran after US-Israeli strikes At least 96 people, including 85 civilians and 11 military personnel, were killed in the past 24 hours following joint US-Israeli strikes in Iran, the Human Rights Activists News Agency (HRANA) said on Monday. The Washington-based group said the latest deaths bring the total civilian toll to at least 742 since the attacks began on Saturday,&nbsp;including 176 children. HRANA said Monday’s strikes hit multiple locations, including military bases, two residential areas and Shahid Bahonar Pier in Bandar Abbas. Iran’s Red Crescent Society earlier put the overall death toll at 555.",
+    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-says-742-killed-iran-after-us-israeli-strikes",
+    "published": "2026-03-03T03:32:42+00:00",
+    "fetched_at": "2026-03-03T03:52:05.347858+00:00",
+    "source_name": "Middle East Eye",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Rights group says 742 killed in Iran after US-Israeli strikes",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "HRANA reports at least 742 civilians have been killed in Iran since US-Israeli joint strikes began on Saturday, including 176 children. At least 96 people (85 civilians and 11 military personnel) were killed in the past 24 hours, with strikes hitting military bases, two residential areas, and Shahid Bahonar Pier in Bandar Abbas. The high civilian casualty toll marks a significant escalation in the conflict.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Iran",
+      "brief": "US-Israeli joint strikes on Iran have killed at least 742 civilians including 176 children since Saturday, with 96 killed in the past 24 hours including military personnel."
+    },
+    "lat": 32.65,
+    "lng": 54.56
   },
   {
     "id": "2e1cee64d4ea8681",
@@ -488,6 +823,42 @@
     },
     "lat": 32.88,
     "lng": 35.3
+  },
+  {
+    "id": "7d6035f9cccae3ba",
+    "title_original": "غارة تحذيرية على الضاحية",
+    "content_original": "غارة تحذيرية على الضاحية",
+    "url": "https://t.me/Electrohizbullah/157367",
+    "published": "2026-03-03T03:22:49+00:00",
+    "fetched_at": "2026-03-03T03:52:22.248982+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "Warning Raid on the Suburbs",
+    "relevant": true,
+    "summary_en": "Israeli forces carried out a warning strike on the southern suburbs of Beirut ( الضاحية الجنوبية ), a Hezbollah stronghold. The raid appears to be a warning operation, possibly targeting Hezbollah infrastructure or leadership in the area. This strike is part of the ongoing Israeli operations against Iran-linked targets along Lebanon's southern border.",
+    "translated": true,
+    "keyword_matches": 6,
+    "matched_keywords": [
+      "strike",
+      "hezbollah",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "Beirut, Lebanon (southern suburbs)",
+      "brief": "Israeli forces conducted a warning airstrike on southern Beirut suburbs targeting Hezbollah infrastructure, representing an Israeli operation against the Hezbollah proxy group."
+    },
+    "lat": 33.85,
+    "lng": 35.86
   },
   {
     "id": "47c09cc1d54571c4",

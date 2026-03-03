@@ -80,7 +80,12 @@ def classify_with_llm(article: dict, api_key: str) -> dict:
     """
     system_prompt = (
         "Military analyst for Iran–US war 2026 (incl. Israel, Houthis, Hezbollah, IRGC proxies, nuclear). "
-        "Respond ONLY with valid JSON, no markdown."
+        "Respond ONLY with valid JSON, no markdown. "
+        "Use neutral, analytical language only. Never reproduce extremist or propagandistic vocabulary from sources. "
+        "Replace terms like 'martyr'/'shahid' with 'killed'/'deceased', 'Zionist' with 'Israeli', "
+        "'crusader' with 'Western'/'US-led', 'mujahideen' with 'fighters'/'militants', "
+        "'jihad' with 'military campaign', 'resistance axis' with 'Iran-aligned groups', "
+        "and any other loaded/sectarian terms with factual equivalents."
     )
 
     # Truncate summary to keep token usage low

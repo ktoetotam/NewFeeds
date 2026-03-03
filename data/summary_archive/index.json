@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-03T01-59-22.182921_plus_00-00.json",
+    "generated_at": "2026-03-03T01:59:22.182921+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 739,
+    "summary_preview": "The Iran-US conflict has escalated dramatically with Iran's Supreme Leader killed in an Israeli strike on March 2, triggering expanded Iranian retaliatory operations across the Gulf region. Six US sol"
+  },
+  {
     "filename": "2026-03-03T01-21-29.390679_plus_00-00.json",
     "generated_at": "2026-03-03T01:21:29.390679+00:00",
     "threat_label": "MAJOR",
@@ -27,6 +36,24 @@
     "summary_preview": "The Iran-US conflict has escalated significantly with confirmed US plans to intensify attacks on Iran within 24 hours, while IRGC launches Wave 12 of missile operations. Gulf states report massive int"
   },
   {
+    "filename": "2026-03-02T23-58-18.823845_plus_00-00.json",
+    "generated_at": "2026-03-02T23:58:18.823845+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "de-escalating",
+    "incident_count_24h": 210,
+    "summary_preview": "The Iran-US conflict has escalated significantly in the last 4 hours with IRGC launching 10 suicide drones at Arifjan base in Kuwait (US Marine barracks) - confirmed by IRGC and secondary sources - ca"
+  },
+  {
+    "filename": "2026-03-02T23-57-29.545602_plus_00-00.json",
+    "generated_at": "2026-03-02T23:57:29.545602+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 206,
+    "summary_preview": "The Iran-US conflict continues at MAJOR intensity with civilian casualties in Iran exceeding 200 (potentially up to 1,500), Iranian ballistic missiles striking Tel Aviv, and US troop deaths rising to "
+  },
+  {
     "filename": "2026-03-02T23-43-27.981168_plus_00-00.json",
     "generated_at": "2026-03-02T23:43:27.981168+00:00",
     "threat_label": "MAJOR",
@@ -43,6 +70,33 @@
     "trend": "stable",
     "incident_count_24h": 753,
     "summary_preview": "The Iran-US conflict has escalated dramatically with Iran's Supreme Leader confirmed killed in a US-Israeli coordinated strike. Over 1,000 IRGC members and 555 Iranian civilians are confirmed dead. US"
+  },
+  {
+    "filename": "2026-03-02T22-51-44.835289_plus_00-00.json",
+    "generated_at": "2026-03-02T22:51:44.835289+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 755,
+    "summary_preview": "The Iran-US conflict has reached a critical inflection point with Iran's Supreme Leader Khamenei confirmed killed in a US-backed Israeli strike (Operation Epic Fury), triggering Tehran's Wave 12 retal"
+  },
+  {
+    "filename": "2026-03-02T22-44-16.377986_plus_00-00.json",
+    "generated_at": "2026-03-02T22:44:16.377986+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 749,
+    "summary_preview": "The Iran-US conflict has escalated dramatically with the IRGC launching Wave 12 attacks (700 drones + hundreds of missiles) and directly threatening to fire on ships in the Strait of Hormuz — a major "
+  },
+  {
+    "filename": "2026-03-02T22-34-15.393383_plus_00-00.json",
+    "generated_at": "2026-03-02T22:34:15.393383+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 743,
+    "summary_preview": "The Iran-US conflict has reached a decisive turning point with the confirmed death of Iran's Supreme Leader Khamenei in a US-backed Israeli strike on Tehran (March 2, 17:05 UTC). This eliminates the c"
   },
   {
     "filename": "2026-03-02T22-08-45.532098_plus_00-00.json",
@@ -835,59 +889,5 @@
     "trend": "stable",
     "incident_count_24h": 160,
     "summary_preview": "The Iran–US conflict has escalated significantly, with a coordinated US-Israeli attack on Iran and retaliatory strikes by Iran on US bases and regional allies. The situation remains highly volatile, w"
-  },
-  {
-    "filename": "2026-02-28T23-02-34.418908_plus_00-00.json",
-    "generated_at": "2026-02-28T23:02:34.418908+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 155,
-    "summary_preview": "The Iran–US conflict has escalated dramatically with multiple direct military engagements, including coordinated airstrikes, ballistic missile barrages, and naval confrontations, posing a severe threa"
-  },
-  {
-    "filename": "2026-02-28T22-49-21.435344_plus_00-00.json",
-    "generated_at": "2026-02-28T22:49:21.435344+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 152,
-    "summary_preview": "The Iran–US conflict has escalated significantly with multiple direct military engagements, including ballistic missile barrages, airstrikes, and naval incidents, causing widespread destruction and ci"
-  },
-  {
-    "filename": "2026-02-28T22-39-29.972599_plus_00-00.json",
-    "generated_at": "2026-02-28T22:39:29.972599+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 150,
-    "summary_preview": "The Iran–US conflict has escalated dramatically with a surge in direct military engagements, including coordinated airstrikes by the US and Israel on Iran, retaliatory missile attacks by Iran on US ba"
-  },
-  {
-    "filename": "2026-02-28T22-30-08.312767_plus_00-00.json",
-    "generated_at": "2026-02-28T22:30:08.312767+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 141,
-    "summary_preview": "The Iran–US conflict has escalated significantly with multiple direct military engagements, including coordinated airstrikes, ballistic missile attacks, and naval incidents, posing a severe threat to "
-  },
-  {
-    "filename": "2026-02-28T22-22-09.786500_plus_00-00.json",
-    "generated_at": "2026-02-28T22:22:09.786500+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 136,
-    "summary_preview": "The Iran–US conflict has escalated significantly with coordinated airstrikes by the US and Israel on Iran, followed by retaliatory missile and drone attacks by Iran on US bases and regional allies. Th"
-  },
-  {
-    "filename": "2026-02-28T21-41-03.205450_plus_00-00.json",
-    "generated_at": "2026-02-28T21:41:03.205450+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 130,
-    "summary_preview": "The Iran–US conflict has escalated to a critical level with multiple direct military engagements, including missile strikes, drone attacks, and naval incidents. Recent developments indicate a signific"
   }
 ]

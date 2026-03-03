@@ -21,13 +21,9 @@ CREATE TABLE IF NOT EXISTS articles (
   relevant         BOOLEAN,                         -- NULL = not yet decided, true/false from LLM
   title_en         TEXT,
   summary_en       TEXT,
-  -- Computed column for reliable sorting (falls back to fetched_at if published is NULL or in the future)
+  -- Computed column for reliable sorting (falls back to fetched_at if published is NULL)
   effective_time   TIMESTAMPTZ GENERATED ALWAYS AS (
-    CASE
-      WHEN published IS NOT NULL AND published <= NOW() THEN published
-      WHEN fetched_at IS NOT NULL THEN fetched_at
-      ELSE '1970-01-01T00:00:00Z'::TIMESTAMPTZ
-    END
+    COALESCE(published, fetched_at, '1970-01-01T00:00:00Z'::TIMESTAMPTZ)
   ) STORED
 );
 
@@ -71,11 +67,7 @@ CREATE TABLE IF NOT EXISTS attacks (
   geocode_failed      BOOLEAN DEFAULT FALSE,
   -- Computed sort column
   effective_time      TIMESTAMPTZ GENERATED ALWAYS AS (
-    CASE
-      WHEN published IS NOT NULL AND published <= NOW() THEN published
-      WHEN fetched_at IS NOT NULL THEN fetched_at
-      ELSE '1970-01-01T00:00:00Z'::TIMESTAMPTZ
-    END
+    COALESCE(published, fetched_at, '1970-01-01T00:00:00Z'::TIMESTAMPTZ)
   ) STORED
 );
 
@@ -154,28 +146,35 @@ ALTER TABLE threat_level      ENABLE ROW LEVEL SECURITY;
 ALTER TABLE executive_summary ENABLE ROW LEVEL SECURITY;
 ALTER TABLE summary_archive   ENABLE ROW LEVEL SECURITY;
 
--- Anon role: read-only access (used by the frontend static build)
-CREATE POLICY IF NOT EXISTS "anon_select_articles"
-  ON articles FOR SELECT TO anon USING (true);
-
-CREATE POLICY IF NOT EXISTS "anon_select_attacks"
-  ON attacks FOR SELECT TO anon USING (true);
-
-CREATE POLICY IF NOT EXISTS "anon_select_threat_level"
-  ON threat_level FOR SELECT TO anon USING (true);
-
-CREATE POLICY IF NOT EXISTS "anon_select_executive_summary"
-  ON executive_summary FOR SELECT TO anon USING (true);
-
-CREATE POLICY IF NOT EXISTS "anon_select_summary_archive"
-  ON summary_archive FOR SELECT TO anon USING (true);
-
-CREATE POLICY IF NOT EXISTS "anon_select_briefing_archive"
-  ON briefing_archive FOR SELECT TO anon USING (true);
-
 ALTER TABLE operational_briefing ENABLE ROW LEVEL SECURITY;
 
-CREATE POLICY IF NOT EXISTS "anon_select_operational_briefing"
+-- Anon role: read-only access (used by the frontend static build)
+DROP POLICY IF EXISTS "anon_select_articles" ON articles;
+CREATE POLICY "anon_select_articles"
+  ON articles FOR SELECT TO anon USING (true);
+
+DROP POLICY IF EXISTS "anon_select_attacks" ON attacks;
+CREATE POLICY "anon_select_attacks"
+  ON attacks FOR SELECT TO anon USING (true);
+
+DROP POLICY IF EXISTS "anon_select_threat_level" ON threat_level;
+CREATE POLICY "anon_select_threat_level"
+  ON threat_level FOR SELECT TO anon USING (true);
+
+DROP POLICY IF EXISTS "anon_select_executive_summary" ON executive_summary;
+CREATE POLICY "anon_select_executive_summary"
+  ON executive_summary FOR SELECT TO anon USING (true);
+
+DROP POLICY IF EXISTS "anon_select_summary_archive" ON summary_archive;
+CREATE POLICY "anon_select_summary_archive"
+  ON summary_archive FOR SELECT TO anon USING (true);
+
+DROP POLICY IF EXISTS "anon_select_briefing_archive" ON briefing_archive;
+CREATE POLICY "anon_select_briefing_archive"
+  ON briefing_archive FOR SELECT TO anon USING (true);
+
+DROP POLICY IF EXISTS "anon_select_operational_briefing" ON operational_briefing;
+CREATE POLICY "anon_select_operational_briefing"
   ON operational_briefing FOR SELECT TO anon USING (true);
 
 -- Service role bypasses RLS automatically, so no explicit policies needed.

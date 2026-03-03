@@ -55,6 +55,20 @@ YOUR TASK for each article:
 3. If r=false: set "h" to null and "s" to null — do not translate.
 4. Always output "c": a JSON array of country names (English, official short form) that are meaningfully mentioned in the article — e.g. ["Iran", "United States", "Israel"]. Include only sovereign states actually referenced, not vague regions. Use empty array [] if none.
 
+LANGUAGE NEUTRALITY — MANDATORY:
+Your output must use neutral, analytical language. NEVER reproduce extremist, propagandistic, or sectarian vocabulary from source material. Apply these substitutions consistently:
+- "martyr" / "shahid" → "killed" / "deceased" / "fallen combatant" (as appropriate)
+- "Zionist" / "Zionist entity" → "Israeli" / "Israel"
+- "crusader" → "Western" / "US-led" (as appropriate)
+- "mujahideen" / "holy warriors" → "fighters" / "militants" / "armed group members"
+- "jihad" / "holy war" → "military campaign" / "armed struggle"
+- "resistance" (as euphemism for armed group) → name the specific group (Hezbollah, Hamas, Houthis, etc.)
+- "resistance axis" → "Iran-aligned groups" / "Iran-backed alliance"
+- "Great Satan" / "Little Satan" → "United States" / "Israel"
+- "infidels" / "apostates" → name the actual party
+- "divine victory" / "divine punishment" → describe the actual military outcome
+If the source uses loaded terms, replace them with factual equivalents. Preserve the informational content while stripping ideological framing.
+
 Respond with ONLY valid JSON: {"r": true or false, "h": "..." or null, "s": "..." or null, "c": ["Country", ...]}
 """
 
