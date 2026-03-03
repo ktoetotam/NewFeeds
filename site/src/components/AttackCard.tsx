@@ -3,7 +3,7 @@
 import { forwardRef } from "react";
 import type { Article } from "@/lib/types";
 import { REGIONS, SEVERITY_COLORS } from "@/lib/types";
-import { formatTimeAgo } from "@/lib/utils";
+import { formatTimeAgo, formatFetchedAt } from "@/lib/utils";
 
 interface AttackCardProps {
   article: Article;
@@ -190,6 +190,11 @@ const AttackCard = forwardRef<HTMLElement, AttackCardProps>(function AttackCard(
           suppressHydrationWarning
         >
           {formatTimeAgo(article.published, article.fetched_at)}
+          {article.fetched_at && (
+            <span style={{ opacity: 0.6 }}>
+              {" · "}{formatFetchedAt(article.fetched_at)}
+            </span>
+          )}
         </span>
       </div>
 

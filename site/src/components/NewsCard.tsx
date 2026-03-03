@@ -2,7 +2,7 @@
 
 import type { Article } from "@/lib/types";
 import { REGIONS } from "@/lib/types";
-import { formatTimeAgo } from "@/lib/utils";
+import { formatTimeAgo, formatFetchedAt } from "@/lib/utils";
 
 interface NewsCardProps {
   article: Article;
@@ -141,6 +141,11 @@ export default function NewsCard({ article, searchQuery }: NewsCardProps) {
           suppressHydrationWarning
         >
           {formatTimeAgo(article.published, article.fetched_at)}
+          {article.fetched_at && (
+            <span style={{ opacity: 0.6 }}>
+              {" · "}{formatFetchedAt(article.fetched_at)}
+            </span>
+          )}
         </span>
       </div>
 

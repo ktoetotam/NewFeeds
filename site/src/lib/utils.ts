@@ -26,3 +26,16 @@ export function formatTimeAgo(isoDate: string, fetchedAt?: string): string {
   const base = !isNaN(then) && then <= now ? isoDate : fetchedAt ?? isoDate;
   return new Date(base).toLocaleDateString();
 }
+
+export function formatFetchedAt(fetchedAt?: string): string {
+  if (!fetchedAt) return "";
+  const d = new Date(fetchedAt);
+  if (isNaN(d.getTime())) return "";
+  return d.toLocaleString(undefined, {
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  });
+}
