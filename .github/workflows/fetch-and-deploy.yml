@@ -82,20 +82,4 @@ jobs:
   # Re-trigger: chain the next pipeline run after all
   # region batches complete.
   # ───────────────────────────────────────────────────────
-  retrigger:
-    needs: fetch-regions
-    if: 1 == 2
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout (for gh CLI)
-        uses: actions/checkout@v4
-        with:
-          sparse-checkout: .github
 
-      - name: Wait and re-trigger
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "Waiting 90 seconds before re-triggering…"
-          sleep 90
-          gh workflow run fetch-and-deploy.yml --ref "main"
