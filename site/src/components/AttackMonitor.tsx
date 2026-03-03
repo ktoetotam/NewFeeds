@@ -6,6 +6,7 @@ import ThreatLevelDisplay from "./ThreatLevelDisplay";
 import AttackCard from "./AttackCard";
 import AttackMapClient from "./AttackMapClient";
 import type { NumberedAttack } from "./AttackMap";
+import { useAttackArticles, useThreatLevel } from "@/lib/hooks";
 
 interface AttackMonitorProps {
   attackArticles: Article[];
@@ -29,9 +30,16 @@ function useDebounce(value: string, delay: number): string {
 }
 
 export default function AttackMonitor({
-  attackArticles,
-  threatLevel,
+  attackArticles: initialAttacks,
+  threatLevel: initialThreatLevel,
 }: AttackMonitorProps) {
+  // Hydrate with live Supabase data after initial SSR render
+  const { attacks: liveAttacks } = useAttackArticles();
+  const { threatLevel: liveThreatLevel } = useThreatLevel();
+
+  const attackArticles = liveAttacks.length > 0 ? liveAttacks : initialAttacks;
+  const threatLevel = liveThreatLevel ?? initialThreatLevel;
+
   const [severityFilter, setSeverityFilter] =
     useState<SeverityFilter>("all");
   const [selectedAttackId, setSelectedAttackId] = useState<string | null>(null);

@@ -180,7 +180,7 @@ export default async function ArchivesPage() {
 
                   {/* Download link */}
                   <a
-                    href={`${process.env.NODE_ENV === "production" ? "/NewFeeds" : ""}/archives/${encodeURIComponent(entry.filename)}`}
+                    href={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/archives/${encodeURIComponent(entry.filename)}`}
                     download={entry.filename}
                     style={{
                       fontSize: 12,

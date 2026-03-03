@@ -36,6 +36,8 @@ jobs:
 
       - name: Build static site
         working-directory: site
+        env:
+          NEXT_PUBLIC_BASE_PATH: /NewFeeds
         run: npm run build
 
       - name: Setup Pages

@@ -87,7 +87,7 @@ def _attack_to_row(a: dict) -> dict:
     row.update({
         "keyword_matches": a.get("keyword_matches", 0),
         "matched_keywords": a.get("matched_keywords", []),
-        "classification": json.dumps(a["classification"]) if isinstance(a.get("classification"), dict) else a.get("classification"),
+        "classification": a.get("classification"),  # pass dict directly — supabase-py handles JSONB serialisation
         "merged_source_count": a.get("merged_source_count", 1),
         "lat": a.get("lat"),
         "lng": a.get("lng"),
@@ -166,11 +166,11 @@ def upsert_threat_level(data: dict) -> bool:
     try:
         row = {
             "id": "current",
-            "current_data": json.dumps(data.get("current", {})),
-            "short_term_6h": json.dumps(data.get("short_term_6h", {})),
-            "medium_term_48h": json.dumps(data.get("medium_term_48h", {})),
+            "current_data": data.get("current", {}),
+            "short_term_6h": data.get("short_term_6h", {}),
+            "medium_term_48h": data.get("medium_term_48h", {}),
             "trend": data.get("trend", "stable"),
-            "history": json.dumps(data.get("history", [])),
+            "history": data.get("history", []),
             "updated_at": data.get("updated_at", datetime.now(timezone.utc).isoformat()),
         }
         client.table("threat_level").upsert(row, on_conflict="id").execute()
@@ -190,7 +190,7 @@ def upsert_executive_summary(data: dict) -> bool:
     try:
         row = {
             "id": "current",
-            "data": json.dumps(data),
+            "data": data,
             "generated_at": data.get("generated_at", datetime.now(timezone.utc).isoformat()),
         }
         client.table("executive_summary").upsert(row, on_conflict="id").execute()
@@ -210,7 +210,7 @@ def upsert_operational_briefing(data: dict) -> bool:
     try:
         row = {
             "id": "current",
-            "data": json.dumps(data),
+            "data": data,
             "generated_at": data.get("generated_at", datetime.now(timezone.utc).isoformat()),
         }
         client.table("operational_briefing").upsert(row, on_conflict="id").execute()

@@ -73,7 +73,9 @@ function rowToArticle(row: Record<string, unknown>): Article {
     lng: row.lng as number | undefined,
     keyword_matches: row.keyword_matches as number | undefined,
     matched_keywords: row.matched_keywords as string[] | undefined,
-    classification: row.classification as Article["classification"],
+    classification: typeof row.classification === "string"
+      ? JSON.parse(row.classification)
+      : row.classification as Article["classification"],
   };
 }
 
