@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-03T00:16:14.295642+00:00",
+  "generated_at": "2026-03-03T00:48:52.996631+00:00",
   "threat_snapshot": {
     "level": 1,
     "label": "MAJOR",
     "color": "#DC2626",
     "trend": "stable",
-    "incident_count_24h": 759,
-    "incident_count_6h": 182,
+    "incident_count_24h": 758,
+    "incident_count_6h": 193,
     "severity_breakdown": {
-      "major": 325,
-      "high": 262,
-      "medium": 166,
+      "major": 326,
+      "high": 259,
+      "medium": 167,
       "low": 6
     }
   },
   "source_count": {
-    "attacks_analyzed": 138,
-    "articles_analyzed": 177,
+    "attacks_analyzed": 146,
+    "articles_analyzed": 221,
     "event_window_hours": 4,
     "article_window_hours": 2,
     "regions_covered": [
@@ -29,53 +29,56 @@
       "western"
     ]
   },
-  "executive_summary": "The Iran-US conflict has escalated significantly with confirmed US plans to intensify attacks on Iran within 24 hours, while IRGC launches Wave 12 of missile operations. Gulf states report massive interception efforts (Kuwait: 380+ drones, 180 missiles; Bahrain: 70 missiles, 76 drones). The conflict has expanded geographically with Iranian strikes on Qatar and new attacks on US base at Erbil. Iranian leadership signals readiness for prolonged war. Death tolls: 6 US troops, 555+ Iranian civilians confirmed by Red Crescent.",
+  "executive_summary": "The Iran-US conflict has reached a critical inflection point with the confirmed elimination of Iran's Supreme Leader Khamenei in an Israeli strike, triggering massive Iranian retaliation across the Gulf. US casualties have risen to 6 troops killed. The IRGC has closed the Strait of Hormuz, threatening global oil supplies, while Iran launched Wave 12 of operations targeting US assets. Trump stated the war will last 4 weeks. Civilian casualties are mounting on both sides, with over 160 killed in a school strike in Minab and 9 Israeli civilians dead in Bet Shemesh.",
   "whats_new": [
-    "US plans to intensify attacks on Iran in next 24 hours — major escalation signal (CNN/TASS)",
-    "Drone struck American base at Erbil International Airport in northern Iraq — new front activation",
-    "Qatar formally complained to UN Security Council over Iranian attack on Qatari territory — diplomatic escalation",
-    "IDF issued evacuation warning for Iranian Broadcasting Authority complex, then struck it — confirmed by multiple sources",
-    "IRGC launched Wave 12 of 'Honest Promise 4' operations against US-Israeli targets"
+    "Israeli strike killed Iran's Supreme Leader Ayatollah Khamenei in Tehran - confirmed by Trump statement and multiple sources",
+    "US embassy in Riyadh attacked with fire following explosion - assessment indicates Iranian UAV strike",
+    "IRGC closed the Strait of Hormuz, a critical global oil chokepoint - major supply chain disruption",
+    "Trump stated war will last 4 weeks, signaling US expects prolonged conflict",
+    "Double-tap bombing raid confirmed on downtown Tehran - striking rescue workers is IHL violation",
+    "Hezbollah has launched only 3 rockets since escalation began, indicating limited proxy engagement",
+    "Investigation underway into Austin shooting as possible Iran war-related domestic incident"
   ],
   "confirmed_events": [
-    "Multi-source: Kuwait Air Defense destroyed 380+ Iranian drones and 180 missiles since conflict began",
-    "Multi-source: Bahrain downed 70 Iranian missiles and 76 drones; hosts US 5th Fleet",
-    "Multi-source: 6 US troops confirmed killed in Iran retaliatory strikes on bases in Iraq/Syria/Jordan",
-    "Multi-source: Iranian Red Crescent reports 555 civilians martyred in US-Israeli attacks across 131 cities",
-    "Multi-source: Israel struck Al-Manar building (Hezbollah media) in Beirut as part of expanded operations"
+    "Six US troops killed in Iran-US conflict - confirmed by CENTCOM across Iraq, Syria, and Gulf bases",
+    "Israeli fighter pilot evaded Iranian missile over Iranian territory - direct Israel-Iran air engagement",
+    "Iranian ballistic missile directly struck Muwaffaq Salti Air Base in Jordan - geographic escalation",
+    "Iranian missiles successfully evaded US air defense systems in Kuwait - significant tactical development",
+    "UAE air defenses intercepting ballistic missile volleys directly launched from Iran"
   ],
   "unverified_emerging": [
-    "IRGC claims strike in Dubai killed 40+ American personnel — unverified, source Tasnim News",
-    "Report of fatal error in US attack on Iran — source US media, nature of error unclear",
-    "Iranian claim over 1,000 IRGC/security officials killed since war began — unverified count",
-    "Hezbollah launched only 3 rockets since escalation began — limited proxy engagement noted"
+    "IRGC claims 40 American terrorists killed in Dubai drone-missile attack (Tasnim News) - unverified, no corroborating US confirmation",
+    "Norwegian rights group Hengaw reports day-three death toll in Iran at 1,500 (The Guardian) - cannot independently verify",
+    "Austin shooting being investigated as possibly linked to Iran war motive (NYT) - early investigation stage",
+    "Iranian President Pezeshkian claims attacks on hospitals and schools 'strike at life itself' - unverified context"
   ],
   "operational_impacts": {
     "people_travel": [
-      "All commercial flights to/from Gulf airports face severe disruption due to active missile/drone traffic",
-      "US Embassy advisories likely in effect for all regional capitals",
-      "Erbil airport operations directly impacted by drone strike"
+      "US embassy in Riyadh attack - US citizens in Saudi Arabia should exercise extreme caution",
+      "All US diplomatic facilities in Gulf region at elevated risk following embassy attacks in Riyadh and prior incidents",
+      "Airspace restrictions and missile activity over Israel, Lebanon, Jordan, and Gulf states"
     ],
     "supply_chain": [
-      "Strait of Hormuz remains contested — insurers continue to cancel coverage",
-      "Gulf port operations (Dubai, Bahrain, Kuwait) disrupted by ongoing missile interceptions",
-      "Qatar LNG exports potentially affected by Iranian attack on Qatari territory"
+      "Strait of Hormuz closed by IRGC - threatens 20% of global oil supply, tanker attacks ongoing",
+      "Asia-Pacific markets extending losses due to Iran conflict - oil prices rising",
+      "Brent crude increased 12% since conflict began - supply chain disruption ongoing"
     ],
     "market_macro": [
-      "Oil prices likely surging on widening Middle East conflict footprint",
-      "US defense stocks rallying on prolonged war signals",
-      "Gulf real estate (Dubai) safe-haven status shattered by direct Iranian missile strikes"
+      "Oil prices spiking with Strait of Hormuz closure - global energy security threatened",
+      "Asia-Pacific markets extend losses on Iran conflict escalation",
+      "US developing action plan to curb price growth from Middle East war - Rubio confirmed"
     ]
   },
   "outlook_24_72h": {
-    "base_case": "Conflict will intensify significantly over next 24-72 hours with US launching expanded strike campaign against Iranian nuclear facilities, IRGC assets, and proxy infrastructure. Iran will continue ballistic missile/drone volleys targeting US bases in Iraq, Jordan, Kuwait, and Bahrain. Gulf states will face continued Iranian attacks while their air defenses deplete. Regional spread to Lebanon (Hezbollah operations) and potential expansion to additional Gulf states is highly likely.",
+    "base_case": "The conflict will continue escalating over the next 24-72 hours with Iran vowing prolonged war and launching Wave 12 operations. With the Supreme Leader eliminated, Iran's response will likely focus on vengeance and sustaining military pressure across multiple fronts (Gulf, Iraq, Syria, Israel). The Strait of Hormuz closure represents a major strategic escalation that will drive oil prices higher and increase global economic pressure. US and Israeli forces will likely continue intensive strikes on Iranian territory while Iran expands proxy attacks on Gulf allies.",
     "escalation_risks": [
-      "US ground troop deployment to Iran not ruled out by Trump — major escalation pathway",
-      "Israeli strikes on Iranian nuclear facilities (Natanz confirmed targeted) could trigger nuclear escalation",
-      "Iranian attacks on Gulf oil infrastructure could close Strait of Homuz permanently",
-      "Potential US homeland incident — Austin shooting under investigation as Iran war-linked",
-      "Russian/Chinese intervention risk increases with conflict prolongation"
+      "Iranian retaliation for Khamenei's death could include unprecedented attacks on Gulf oil infrastructure",
+      "Strait of Hormuz closure could trigger broader naval conflict with US 5th Fleet",
+      "Israeli strikes on Iranian nuclear facilities (Natanz) reported - could trigger broader WMD escalation",
+      "US ground troop deployment not ruled out by Trump - potential major escalation",
+      "Austin shooting domestic incident may indicate conflict spillover to US homeland",
+      "Double-tap bombing tactics indicate willingness to violate IHL - could escalate civilian targeting"
     ],
-    "de_escalation_pathways": "De-escalation highly unlikely in near term. UN Secretary-General called for cessation but with both sides signaling prolonged war readiness and US announcing intensification, diplomatic off-ramps appear remote. Iran has rejected negotiations while under attack. Gulf state mediation efforts (Saudi Crown Prince contacted Swiss President) remain non-substantive. Ceasefire would require major battlefield reversal or internal political change in Tehran."
+    "de_escalation_pathways": "De-escalation appears unlikely in the near term. Trump has committed to a 4-week timeline suggesting intensive military campaign. Iran has stated it is prepared for prolonged war while implying the US is not. The elimination of the Supreme Leader removes a key decision-maker who might have pursued negotiations. Qatar's UN complaint represents diplomatic engagement but Iran shows no indication of halting attacks. UN Secretary-General called for de-escalation but lacks leverage with parties committed to military victory."
   }
 }

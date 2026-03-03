@@ -1,5 +1,120 @@
 [
   {
+    "id": "d56b37a77a73add6",
+    "title_original": "Сотни жителей Тель-Авива ночуют в общественных убежищах",
+    "content_original": "Сотни жителей Тель-Авива ночуют в общественных убежищах",
+    "url": "https://ria.ru/20260303/izrail-2078063554.html",
+    "published": "2026-03-03T03:12:22+03:00",
+    "fetched_at": "2026-03-03T00:20:39.567066+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Hundreds of Tel Aviv residents spend night in public shelters",
+    "relevant": true,
+    "summary_en": "Hundreds of Tel Aviv residents spent the night in public shelters, indicating ongoing air raid threats in the Israeli commercial capital. This reflects continued vulnerability of Israeli civilian populations to missile or drone attacks, likely from Iranian-linked forces such as Hezbollah or Houthis.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "missile",
+      "hezbollah",
+      "drone",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "houthi_attack|hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Houthis",
+        "Iran"
+      ],
+      "location": "Tel Aviv, Israel",
+      "brief": "Hundreds of Tel Aviv residents spent night in public shelters amid ongoing air raid threats from Iranian-linked forces (Hezbollah/Houthis), reflecting continued vulnerability of Israeli civilians to missile and drone attacks."
+    },
+    "lat": 32.08,
+    "lng": 34.78
+  },
+  {
+    "id": "d223a4eaf756bf73",
+    "title_original": "ВС Кувейта отражают новую волну ракет и беспилотников",
+    "content_original": "ВС Кувейта отражают новую волну ракет и беспилотников",
+    "url": "https://ria.ru/20260303/kuveyt-2078063403.html",
+    "published": "2026-03-03T03:11:04+03:00",
+    "fetched_at": "2026-03-03T00:20:39.567262+00:00",
+    "source_name": "RIA Novosti",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Kuwaiti Armed Forces repelling new wave of missiles and drones",
+    "relevant": true,
+    "summary_en": "Kuwaiti air defense forces are actively intercepting a new wave of missiles and drones, likely launched by Iran or Iran-backed proxies targeting the Gulf state. Kuwait, which hosts significant US military infrastructure including the Al Jaber air base, has become a secondary front in the expanding Iran-US conflict. The attacks demonstrate Iran's strategy of pressuring US allies across the Gulf region to deter American military operations against Iranian territory.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "Iran-backed proxies",
+        "Kuwait",
+        "United States"
+      ],
+      "location": "Kuwait",
+      "brief": "Kuwaiti air defenses intercept missiles and drones likely launched by Iran or Iran-backed proxies targeting the Gulf state hosting US military infrastructure at Al Jaber air base."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "684eff57980a2686",
+    "title_original": "الحرس الثوري يستهدف أكثر من 160 عسكرياً أمريكياً في الكويت ودبي وسط هشاشة دفاعات واشنطن و\"أعوانها\"",
+    "content_original": "المسيرة نت | متابعة خاصة: أعلن الحرس الثوري الإيراني، قبل قليل، تنفيذ هجومين بطائرات مسيّرة استهدفا مواقع تمركز للقوات الأمريكية في كل من الكويت ودبي، في إطار استمرار العمليات العسكرية الإيرانية ضد الوجود الأمريكي في المنطقة.",
+    "url": "https://almasirah.net.ye/static/static/df9b5f52-e2b1-49a5-8cb1-731665bc3bc7.jpg",
+    "published": "2026-03-03T02:59:57+00:00",
+    "fetched_at": "2026-03-03T00:21:38.395500+00:00",
+    "source_name": "Al Masirah (Houthi)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC Targets Over 160 American Soldiers in Kuwait and Dubai Amid 'Weak' US-Alliance Defenses",
+    "relevant": true,
+    "summary_en": "The Iranian Revolutionary Guard Corps (IRGC) announced the execution of two drone attacks targeting American military positions in Kuwait and Dubai, as part of continued Iranian military operations against U.S. presence in the region. The IRGC claimed to have targeted over 160 American soldiers, asserting that American and allied air defenses remain vulnerable. This represents an expansion of Iranian strikes on U.S. forces beyond the initial waves of ballistic missile and drone attacks.",
+    "translated": true,
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "missile",
+      "irgc",
+      "drone",
+      "ballistic"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "Kuwait",
+        "UAE"
+      ],
+      "location": "Kuwait and Dubai",
+      "brief": "IRGC executed two drone attacks targeting over 160 American soldiers at military positions in Kuwait and Dubai, claiming successful strikes against US presence."
+    },
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
     "id": "2605c35cccd4f5a5",
     "title_original": "هلاکت 40 تروریست آمریکایی در دبی",
     "content_original": "در حمله ترکیبی پهپادی - موشکی نیروی دریایی سپاه بیش از 40 تروریست آمریکایی در شهر دبی امارات به هلاکت رسیدند.",
@@ -37,6 +152,76 @@
     },
     "lat": 25.2,
     "lng": 55.27
+  },
+  {
+    "id": "8918368d20a5e7a3",
+    "title_original": "Израиль атаковал здание телеканала в Бейруте",
+    "content_original": "Израиль ударил по зданию телеканала &laquo;Аль-Манар&raquo; в пригороде Бейрута, сообщает иранское агентство Tasnim.",
+    "url": "https://www.rbc.ru/rbcfreenews/69a622f89a7947e8a1d2c6e6",
+    "published": "2026-03-03T02:55:15+03:00",
+    "fetched_at": "2026-03-03T00:20:46.472292+00:00",
+    "source_name": "RBC",
+    "source_category": "state",
+    "language": "ru",
+    "region": "russia",
+    "skip_translation": false,
+    "title_en": "Israel attacks television station building in Beirut",
+    "relevant": true,
+    "summary_en": "Israel struck the Al-Manar television station building in a Beirut suburb. Al-Manar is Hezbollah's official TV channel, making this an Israeli operation against Hezbollah-linked media infrastructure in Lebanon, part of the ongoing hostilities on Israel's northern front.",
+    "translated": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Beirut, Lebanon",
+      "brief": "Israel struck Al-Manar television station building in Beirut suburb, targeting Hezbollah's official media infrastructure in ongoing northern front hostilities."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "8a1f54a5a0dbd52d",
+    "title_original": "US-Allied Fuel Tanker Attacked by Iran Still Burning in Strait of Hormuz: IRGC",
+    "content_original": "US-Allied Fuel Tanker Attacked by Iran Still Burning in Strait of Hormuz: IRGC",
+    "url": "https://english.masirahtv.net/post/54208/",
+    "published": "2026-03-03T02:51:32+00:00",
+    "fetched_at": "2026-03-03T00:21:38.781114+00:00",
+    "source_name": "Al Masirah TV English",
+    "source_category": "proxy",
+    "language": "en",
+    "region": "proxies",
+    "skip_translation": true,
+    "title_en": "US-Allied Fuel Tanker Attacked by Iran Still Burning in Strait of Hormuz: IRGC",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The IRGC has claimed responsibility for attacking a US-aligned fuel tanker that remains ablaze in the Strait of Hormuz. The attack on the US-allied vessel in this critical strategic waterway marks another escalation in Iranian operations against Western shipping in the Gulf region.",
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "attack",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States (allied vessel)"
+      ],
+      "location": "Strait of Hormuz",
+      "brief": "IRGC claims responsibility for attacking US-aligned fuel tanker still burning in strategic Strait of Hormuz, marking escalation in Iranian operations against Western shipping."
+    },
+    "lat": 26.56,
+    "lng": 56.25
   },
   {
     "id": "ec337400603f605e",
@@ -260,6 +445,274 @@
     },
     "lat": 24.0,
     "lng": 54.0
+  },
+  {
+    "id": "cf477481e58e57b7",
+    "title_original": "דובר צה\"ל בערבית הוציא התרעת פינוי נוספת למבנה ברובע דאחיה שבביירות",
+    "content_original": "דובר צה\"ל בערבית הוציא התרעת פינוי נוספת למבנה ברובע דאחיה שבביירות",
+    "url": "https://mivzakim.net/r/13968984/rss",
+    "published": "2026-03-03T02:19:28+02:00",
+    "fetched_at": "2026-03-03T00:20:52.097817+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "IDF Arabic spokesperson issues another evacuation warning for building in Beirut's Dahieh district",
+    "relevant": true,
+    "summary_en": "The IDF Arabic spokesperson issued another evacuation warning for a building in the Dahieh district in Beirut. This is significant as the Dahieh district is a known Hezbollah stronghold, and such evacuation warnings typically precede Israeli military strikes on Hezbollah-related targets in the Lebanese capital.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "idf"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah",
+        "Lebanon"
+      ],
+      "location": "Beirut, Lebanon (Dahieh district)",
+      "brief": "IDF issued evacuation warning for a building in Beirut's Dahieh district, a Hezbollah stronghold, indicating imminent Israeli strike on Iranian proxy target."
+    },
+    "lat": 33.85,
+    "lng": 35.86
+  },
+  {
+    "id": "23804b46de52e7bb",
+    "title_original": "הפיצוץ בשגרירות ארה\"ב בריאד: הערכה - פגיעה של כטב\"ם איראני",
+    "content_original": "הפיצוץ בשגרירות ארה\"ב בריאד: הערכה - פגיעה של כטב\"ם איראני",
+    "url": "https://mivzakim.net/r/13968977/rss",
+    "published": "2026-03-03T02:13:34+02:00",
+    "fetched_at": "2026-03-03T00:20:52.098459+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Explosion at US embassy in Riyadh: Assessment - Iranian UAV strike",
+    "relevant": true,
+    "summary_en": "An explosion occurred at the US embassy in Riyadh, with assessments indicating an Iranian UAV (kamikaze drone) strike. This represents another attack on US diplomatic facilities in the region as part of the ongoing Iran-US armed conflict, following Iran's missile and drone attacks on US bases and assets.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "missile",
+      "strike",
+      "attack",
+      "explosion",
+      "conflict",
+      "drone"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Saudi Arabia"
+      ],
+      "location": "Riyadh, Saudi Arabia",
+      "brief": "Iranian UAV kamikaze drone struck the US embassy in Riyadh, marking another direct attack on US diplomatic facilities as part of the ongoing Iran-US armed conflict."
+    },
+    "merged_source_count": 9,
+    "lat": 24.71,
+    "lng": 46.68
+  },
+  {
+    "id": "868c7394175533b7",
+    "title_original": "פיקוד העורף על האזעקה בגולן: \"האירוע הסתיים\"",
+    "content_original": "פיקוד העורף על האזעקה בגולן: \"האירוע הסתיים\"",
+    "url": "https://mivzakim.net/r/13968958/rss",
+    "published": "2026-03-03T01:58:24+02:00",
+    "fetched_at": "2026-03-03T00:20:52.858468+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Home Front Command on Golan alert: 'The event has ended'",
+    "relevant": true,
+    "summary_en": "Israeli Home Front Command announced the conclusion of an air raid alert event in the Golan Heights. The alert, likely triggered by incoming rockets or missiles from Iranian proxy forces operating in Syria, has ended. This reflects ongoing security threats on Israel's northern front near the Syrian border, where IRGC-linked forces and Hezbollah maintain positions.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "hezbollah",
+      "irgc",
+      "proxy",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "proxy_operation",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Iranian proxy forces in Syria",
+        "Hezbollah"
+      ],
+      "location": "Golan Heights",
+      "brief": "Israeli Home Front Command concluded an air raid alert in Golan Heights likely triggered by incoming rockets or missiles from Iranian proxy forces operating in Syria, reflecting ongoing security threats on Israel's northern front."
+    },
+    "lat": 33.0,
+    "lng": 35.75
+  },
+  {
+    "id": "3820f0b51b9a4ecf",
+    "title_original": "קטאר: יירטנו 2 טילים בליסטיים מאיראן",
+    "content_original": "קטאר: יירטנו 2 טילים בליסטיים מאיראן",
+    "url": "https://mivzakim.net/r/13968956/rss",
+    "published": "2026-03-03T01:57:06+02:00",
+    "fetched_at": "2026-03-03T00:20:52.858670+00:00",
+    "source_name": "Mivzakim Main",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Qatar: We intercepted 2 ballistic missiles from Iran",
+    "relevant": true,
+    "summary_en": "Qatar's air defense forces intercepted two ballistic missiles launched from Iran toward Qatari territory. The interception, if confirmed, would represent an expansion of Iranian ballistic missile attacks to include Qatar, which hosts the major US Al-Udeid air base. This development indicates Iran is extending its targeting to include additional US-aligned Gulf states beyond Iraq and Saudi Arabia.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "missile",
+      "ballistic",
+      "air defense"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "ballistic_missile",
+      "severity": "major",
+      "parties_involved": [
+        "Iran",
+        "Qatar",
+        "United States"
+      ],
+      "location": "Qatar",
+      "brief": "Iran launched two ballistic missiles toward Qatar targeting the US Al-Udeid air base, marking an expansion of Iranian ballistic missile attacks to include Qatari territory."
+    },
+    "merged_source_count": 2,
+    "lat": 25.33,
+    "lng": 51.23
+  },
+  {
+    "id": "efede2bc6c158e39",
+    "title_original": "יורט כטב\"ם שחדר לשטח ישראל בדרום רמת הגולן",
+    "content_original": "אזעקות הופעלו הלילה בדרום רמת הגולן, בשל כטב\"ם שחדר לארצנו. לאחר זמן קצר נמסר, כי הכטב\"ם יורט והאירוע הסתיים.",
+    "url": "https://mivzakim.net/r/13968955/rss",
+    "published": "2026-03-03T01:56:37+02:00",
+    "fetched_at": "2026-03-03T00:20:52.100649+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "UAV that entered Israeli territory in southern Golan Heights was intercepted",
+    "relevant": true,
+    "summary_en": "A drone (UAV) entered Israeli airspace in the southern Golan Heights overnight, triggering air raid alerts. Israeli air defense systems successfully intercepted the aircraft and the incident was resolved. This represents another airspace violation in the northern Israel theater where Hezbollah operates from adjacent Lebanese territory.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "air defense",
+      "hezbollah",
+      "drone",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "drone_strike",
+      "severity": "medium",
+      "parties_involved": [
+        "Israel",
+        "Hezbollah"
+      ],
+      "location": "southern Golan Heights, Israel",
+      "brief": "A drone entering Israeli airspace in the southern Golan Heights was intercepted by Israeli air defenses, representing another airspace violation in the northern Israel theater involving Hezbollah."
+    },
+    "merged_source_count": 3,
+    "lat": 33.0,
+    "lng": 35.75
+  },
+  {
+    "id": "10946e4f3ccc9cca",
+    "title_original": "חיזבאללה: השיגורים לעבר ישראל - פעולה הגנתית",
+    "content_original": "חיזבאללה: השיגורים לעבר ישראל - פעולה הגנתית",
+    "url": "https://mivzakim.net/r/13968954/rss",
+    "published": "2026-03-03T01:56:34+02:00",
+    "fetched_at": "2026-03-03T00:20:52.100836+00:00",
+    "source_name": "Mivzakim Breaking",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Hezbollah: The launches toward Israel - a defensive action",
+    "relevant": true,
+    "summary_en": "Hezbollah has launched rockets or missiles toward Israel, characterizing the attacks as a \"defensive action.\" This escalates the northern Israel front amid the broader Iran-US conflict, with Hezbollah acting as an Iranian proxy force. The group frames its attacks as retaliation, though the precise scale and targets of the launches were not specified in the report.",
+    "translated": true,
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "conflict",
+      "hezbollah",
+      "proxy"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "high",
+      "parties_involved": [
+        "Hezbollah",
+        "Iran",
+        "Israel"
+      ],
+      "location": "Northern Israel / Lebanon border",
+      "brief": "Hezbollah launched rockets toward Israel, framing it as defensive retaliation and escalating the northern front amid the broader Iran-US conflict."
+    },
+    "lat": 33.06,
+    "lng": 35.24
+  },
+  {
+    "id": "10946e4f3ccc9cca",
+    "title_original": "חיזבאללה: השיגורים לעבר ישראל - פעולה הגנתית",
+    "content_original": "חיזבאללה: השיגורים לעבר ישראל - פעולה הגנתית",
+    "url": "https://mivzakim.net/r/13968954/rss",
+    "published": "2026-03-03T01:56:34+02:00",
+    "fetched_at": "2026-03-03T00:20:53.561463+00:00",
+    "source_name": "Mivzakim Military",
+    "source_category": "independent",
+    "language": "he",
+    "region": "israel",
+    "skip_translation": false,
+    "title_en": "Hezbollah: Launches toward Israel - a defensive action",
+    "relevant": true,
+    "summary_en": "Hezbollah has claimed that its rocket and missile launches toward Israel constitute a defensive action. This statement comes as part of the ongoing hostilities on Israel's northern border, where Hezbollah, an IRGC proxy group backed by Iran, has been conducting operations against Israeli targets since October 2023 and increasingly since the current Iran-US conflict began. The framing as 'defensive' is part of Hezbollah's messaging strategy to justify its attacks on Israel as retaliation for Israeli operations in Lebanon and Gaza.",
+    "translated": true,
+    "keyword_matches": 9,
+    "matched_keywords": [
+      "missile",
+      "hezbollah",
+      "irgc",
+      "proxy",
+      "conflict",
+      "rocket"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "hezbollah_action",
+      "severity": "medium",
+      "parties_involved": [
+        "Hezbollah",
+        "Israel",
+        "Iran (backing)"
+      ],
+      "location": "Israel's northern border",
+      "brief": "Hezbollah claimed its rocket and missile launches toward Israel constitute defensive action amid ongoing hostilities on Israel's northern border."
+    },
+    "lat": 31.1745655,
+    "lng": 34.2845249
   },
   {
     "id": "c1fdc5906dd52592",
@@ -2240,6 +2693,80 @@
     }
   },
   {
+    "id": "f25bc50759c032b2",
+    "title_original": "العشرات بعضهم من كبار الضباط والقادة الأمريكيين المتمركزين في دبي سُحقوا بنيران حرس الثورة الإسلامية، ضربة قد تؤدي قر...",
+    "content_original": "العشرات بعضهم من كبار الضباط والقادة الأمريكيين المتمركزين في دبي سُحقوا بنيران حرس الثورة الإسلامية، ضربة قد تؤدي قريبًا إلى الإنسحاب الكامل من الإمارات في المرتبة الأولى وستليها بقية القواعد الأمريكية والإسرائيلية المحتلة في منطقة غرب آسيا، وإنه لجهاد نصر او استشهاد. أما القدرات فستعود قريبًا لتغطي أدق تفاصيل معركتنا الكبرى مع الشيطان وجيشه الذي سيجرّ أذيال الخيبة.",
+    "url": "https://t.me/Electrohizbullah/157329",
+    "published": "2026-03-03T00:00:54+00:00",
+    "fetched_at": "2026-03-03T00:22:28.434185+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC kills dozens of US officers and commanders in Dubai",
+    "relevant": true,
+    "summary_en": "Unverified claim from IRGC-affiliated source that Islamic Revolutionary Guard Corps forces killed dozens of American military personnel, including senior officers, stationed in Dubai. The report claims this could lead to complete US withdrawal from UAE followed by other American and Israeli bases in West Asia. This report cannot be independently confirmed and appears in pro-IRGC channels making escalation claims.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "killed",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "UAE"
+      ],
+      "location": "Dubai, UAE",
+      "brief": "Unverified IRGC claim of killing dozens of US military personnel including senior officers in Dubai, potentially triggering US withdrawal from UAE and regional bases."
+    },
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "id": "bbd96409bacd695a",
+    "title_original": "Iran live news: Israel bombs Tehran, Beirut; Trump says war to last 4 weeks",
+    "content_original": "Iran strikes energy infrastructure across the Gulf as IRGC announces closure of Strait of Hormuz.",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/3/3/iran-live-news-israel-bombs-tehran-beirut-trump-says-war-to-last-4-weeks?traffic_source=rss",
+    "published": "2026-03-03T00:00:00+00:00",
+    "fetched_at": "2026-03-03T00:21:00.127790+00:00",
+    "source_name": "Al Jazeera English",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Israel bombs Tehran, Beirut; Trump says war to last 4 weeks",
+    "translated": true,
+    "summary_en": "Israel launched airstrikes on Tehran and Beirut. Trump stated the war would last 4 weeks. This represents a significant escalation with Israel directly targeting Iranian territory and Beirut (Hezbollah command), while the US president provides a timeline for hostilities.",
+    "relevant": true,
+    "keyword_matches": 3,
+    "matched_keywords": [
+      "war",
+      "hezbollah"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "Israel",
+        "Iran",
+        "Hezbollah",
+        "United States"
+      ],
+      "location": "Tehran, Beirut",
+      "brief": "Israel launched airstrikes on Tehran and Beirut targeting Iranian territory and Hezbollah command, with Trump publicly projecting a 4-week war timeline."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
     "id": "678ebc72d2e61a4f",
     "title_original": "Рубио: операция США против Ирана будет длиться, пока не будут достигнуты ее цели",
     "content_original": "Рубио: операция США против Ирана будет длиться, пока не будут достигнуты ее цели",
@@ -2348,6 +2875,119 @@
     },
     "lat": 32.65,
     "lng": 54.56
+  },
+  {
+    "id": "e471386d1ef09a45",
+    "title_original": "Witness describes Israeli-US ‘double-tap’ strike on downtown Tehran",
+    "content_original": "A witness says the US and Israel bombed civilians in Tehran, as they rushed to help survivors from another bombing.",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/witness-describes-israeli-us-double-tap-strike-on-downtown-tehran?traffic_source=rss",
+    "published": "2026-03-02T23:55:50+00:00",
+    "fetched_at": "2026-03-03T00:21:00.128238+00:00",
+    "source_name": "Al Jazeera English",
+    "source_category": "state",
+    "language": "en",
+    "region": "gulf",
+    "skip_translation": true,
+    "title_en": "Witness describes Israeli-US 'double-tap' strike on downtown Tehran",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US and Israeli forces conducted a 'double-tap' bombing raid on downtown Tehran, striking the same location twice to target civilians who rushed to help survivors from the initial attack. This tactic—hitting rescuers with a follow-up strike—is considered a grave violation of international humanitarian law and represents a significant escalation in the ongoing Iran-US/Israel conflict.",
+    "keyword_matches": 5,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "conflict",
+      "raid"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Tehran, Iran",
+      "brief": "US and Israeli forces conducted double-tap bombing raid on downtown Tehran, striking rescuers responding to initial attack."
+    },
+    "merged_source_count": 2,
+    "lat": 35.69,
+    "lng": 51.39
+  },
+  {
+    "id": "02455f2877b74e21",
+    "title_original": "IRGC says hit US-run Arifjan military base in Kuwait using 10 attack drones  @PressTV",
+    "content_original": "IRGC says hit US-run Arifjan military base in Kuwait using 10 attack drones @PressTV",
+    "url": "https://t.me/presstv/177738",
+    "published": "2026-03-02T23:54:55+00:00",
+    "fetched_at": "2026-03-03T00:22:19.406315+00:00",
+    "source_name": "Press TV (TG)",
+    "source_category": "state",
+    "language": "en",
+    "region": "iran",
+    "skip_translation": true,
+    "title_en": "IRGC says hit US-run Arifjan military base in Kuwait using 10 attack drones",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) claimed responsibility for striking the US-run Arifjan military base in Kuwait using 10 attack drones. The attack targets a major US military installation in the Gulf region as part of ongoing Iranian retaliation against US forces. This strike represents another escalation in the Iran-US armed conflict, demonstrating Tehran's continued ability to project force across the Gulf theater.",
+    "keyword_matches": 7,
+    "matched_keywords": [
+      "strike",
+      "attack",
+      "irgc",
+      "conflict"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "iran_strike_on_us",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC",
+        "United States",
+        "Kuwait"
+      ],
+      "location": "Arifjan military base, Kuwait",
+      "brief": "IRGC launched 10 attack drones against the US-run Arifjan military base in Kuwait, marking a direct Iranian strike on US forces in the Gulf region."
+    },
+    "merged_source_count": 3,
+    "lat": 29.38,
+    "lng": 47.99
+  },
+  {
+    "id": "9bb8a9499a444e4e",
+    "title_original": "#الجمهورية_الإسلامية   حرس الثورة الإسلامية: التجمع الذي تم مهاجمته في الإمارات يضم أكثر من 160 عنصراً من مشاة البحري...",
+    "content_original": "#الجمهورية_الإسلامية حرس الثورة الإسلامية: التجمع الذي تم مهاجمته في الإمارات يضم أكثر من 160 عنصراً من مشاة البحرية الأميركية",
+    "url": "https://t.me/Electrohizbullah/157326",
+    "published": "2026-03-02T23:52:44+00:00",
+    "fetched_at": "2026-03-03T00:22:28.433025+00:00",
+    "source_name": "Hezbollah Electronic Army (TG)",
+    "source_category": "proxy",
+    "language": "ar",
+    "region": "proxies",
+    "skip_translation": false,
+    "title_en": "IRGC: Gathering Attacked in UAE Included More Than 160 US Marine Infantry Personnel",
+    "relevant": true,
+    "summary_en": "The Islamic Revolutionary Guard Corps (IRGC) claimed that a gathering of more than 160 US Marine infantry personnel was attacked in the UAE. The statement represents an IRGC claim of targeting US forces in the Gulf region, marking a significant escalation in the ongoing Iran-US conflict.",
+    "translated": true,
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "conflict",
+      "irgc"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "irgc_action",
+      "severity": "major",
+      "parties_involved": [
+        "IRGC (Iran)",
+        "United States Military (Marines)"
+      ],
+      "location": "UAE",
+      "brief": "IRGC claimed attack on gathering of 160+ US Marine infantry personnel in UAE marking direct Iranian strike on US forces."
+    },
+    "lat": 24.0,
+    "lng": 54.0
   },
   {
     "id": "c5a2474770182ec1",
@@ -7145,6 +7785,42 @@
     "lng": 46.68
   },
   {
+    "id": "a30ab8c99a395d57",
+    "title_original": "Radical US mosques honor Iran's Supreme Leader's 'martyrdom' with memorial services, eulogy: 'Our leader'",
+    "content_original": "Two United States-based mosques that have faced scrutiny for their ties to Iran held formal events to \"honor\" Ayatollah Khamenei after U.S. military forces took out the Islamic leader of Iran this weekend, including one mosque in Northern Virginia that referred to Khamenei as \"our leader.\" Located in Manassas, Virginia, and Dearborn Heights, Michigan, the mosques both publicly advertised events eulogizing the slain leader. In a flyer for the \"Potluck Iftar\" honoring Khamenei, which is a ceremony where Muslims break their Ramadan fast, the Manassass Mosque, which has faced questions over alleged ties to Iran, referred to Khamenei as \"our leader.\" Meanwhile, at the Islamic House of Wisdom (IHW) in Dearborn Heights, which has also faced scrutiny over its ties to Iran, the center's Imam Mohammad Ali Elahi called the U.S. military offensive \"evil\" and argued that it was based on false-pretenses. \"You promised that America First, and now we ended up to have Netanyahu first,\" the Michigan-bas...",
+    "url": "https://www.foxnews.com/politics/radical-us-mosques-honor-ayatollah-khameneis-martyrdom-memorial-services-eulogy",
+    "published": "2026-03-02T19:11:50-05:00",
+    "fetched_at": "2026-03-03T00:22:02.846882+00:00",
+    "source_name": "FOX News",
+    "source_category": "independent",
+    "language": "en",
+    "region": "western",
+    "skip_translation": true,
+    "title_en": "Radical US mosques honor Iran's Supreme Leader's 'martyrdom' with memorial services, eulogy: 'Our leader'",
+    "translated": true,
+    "summary_en": "US military forces killed Iran's Supreme Leader Ayatollah Khamenei this weekend, prompting two US-based mosques in Manassas, Virginia and Dearborn Heights, Michigan to hold memorial services eulogizing the slain leader. The Manassas mosque referred to Khamenei as 'our leader' in their event flyer. This represents a major escalation in the Iran-US conflict, with direct strikes on Iranian supreme leadership and potential",
+    "relevant": true,
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "conflict",
+      "killed"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "us_strike_on_iran",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Iran",
+        "IRGC"
+      ],
+      "location": "Iran (strike location) / United States (memorial services)",
+      "brief": "US military forces killed Iran's Supreme Leader Ayatollah Khamenei, triggering memorial services at US mosques in Virginia and Michigan"
+    },
+    "lat": 32.65,
+    "lng": 54.56
+  },
+  {
     "id": "06f1d6fc2148e66b",
     "title_original": "Минобороны Катара отчиталось об уничтожении двух летевших из Ирана Су-24",
     "content_original": "Катар сбил два самолета Су-24, летевших из Ирана. Об этом сообщила пресс-служба Минобороны страны в соцсети X.",
@@ -7442,6 +8118,79 @@
     },
     "lat": 31.9,
     "lng": 34.8
+  },
+  {
+    "id": "5a8738aba424754e",
+    "title_original": "US says it wouldn't deliberately target a school after Iran said over 160 killed in strike",
+    "content_original": "By Kanishka Singh WASHINGTON, March 2 (Reuters) - Secretary of State Marco Rubio said U.S. forces \"would not deliberately target a school\" after Iranian state media reported over 160 were killed in a strike on a girls' school on the first day of the U.S. and Israeli attacks on Iran. The reported strike took place on a girls' elementary school in the town of Minab in southern Iran on Saturday, marking the deadliest incident in the U.S. and Israel's war against Iran.",
+    "url": "https://www.al-monitor.com/originals/2026/03/us-says-it-wouldnt-deliberately-target-school-after-iran-said-over-160-killed",
+    "published": "2026-03-02T19:01:44-05:00",
+    "fetched_at": "2026-03-03T00:21:03.453402+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "US says it wouldn't deliberately target a school after Iran said over 160 killed in strike",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "US and Israeli forces struck a girls' elementary school in Minab, southern Iran on the first day of the conflict, with Iranian state media reporting over 160 casualties. Secretary of State Marco Rubio stated US forces would not deliberately target a school, marking what Iran describes as the deadliest incident in the war so far.",
+    "keyword_matches": 4,
+    "matched_keywords": [
+      "strike",
+      "killed",
+      "conflict",
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "airstrike",
+      "severity": "major",
+      "parties_involved": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "location": "Minab, southern Iran",
+      "brief": "US and Israeli forces struck a girls' elementary school in Minab, Iran, killing over 160 people according to Iranian state media, with Secretary of State Marco Rubio stating US forces would not deliberately target a school."
+    },
+    "lat": 27.1,
+    "lng": 57.08
+  },
+  {
+    "id": "284120442eb6ae56",
+    "title_original": "Energy infrastructure emerges as war target, lifting prices",
+    "content_original": "Energy prices surged Monday as the war in the Middle East led to outages of key energy production operations and a critical waterway was essentially emptied of traffic. European natural gas prices finished the day up more than 39 percent after surging more than 50 percent earlier in the day. Brent oil futures rose to above $82 dollars a barrel, a gain of more than 13 percent early in the session. The benchmark finished up 7.3 percent at $77.74 a barrel, up around $15 compared with the start of 2026.",
+    "url": "https://www.al-monitor.com/originals/2026/03/energy-infrastructure-emerges-war-target-lifting-prices",
+    "published": "2026-03-02T19:00:26-05:00",
+    "fetched_at": "2026-03-03T00:21:03.453595+00:00",
+    "source_name": "Al-Monitor",
+    "source_category": "independent",
+    "language": "en",
+    "region": "middle_east",
+    "skip_translation": true,
+    "title_en": "Energy infrastructure emerges as war target, lifting prices",
+    "translated": true,
+    "relevant": true,
+    "summary_en": "Energy prices surged dramatically as the Middle East war caused outages at key energy production facilities and a critical waterway was emptied of traffic. European natural gas prices jumped over 39% (up 50% earlier), while Brent crude rose to above $82/barrel before finishing at $77.74, representing a $15 increase since early 2026. The market upheaval reflects growing risks to regional energy infrastructure and supply routes.",
+    "keyword_matches": 2,
+    "matched_keywords": [
+      "war"
+    ],
+    "classification": {
+      "is_attack": true,
+      "category": "other",
+      "severity": "high",
+      "parties_involved": [
+        "Iran",
+        "United States",
+        "Middle East energy infrastructure"
+      ],
+      "location": "Middle East",
+      "brief": "Energy infrastructure targeted in Middle East war causes outages at key facilities and critical waterway closures, driving European natural gas prices up 39% and Brent crude above $82/barrel"
+    },
+    "lat": 29.0,
+    "lng": 47.0
   },
   {
     "id": "ccf80de591479a6d",

@@ -1,5 +1,14 @@
 [
   {
+    "filename": "2026-03-03T00-16-14.295642_plus_00-00.json",
+    "generated_at": "2026-03-03T00:16:14.295642+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 759,
+    "summary_preview": "The Iran-US conflict has escalated significantly with confirmed US plans to intensify attacks on Iran within 24 hours, while IRGC launches Wave 12 of missile operations. Gulf states report massive int"
+  },
+  {
     "filename": "2026-03-02T23-43-27.981168_plus_00-00.json",
     "generated_at": "2026-03-02T23:43:27.981168+00:00",
     "threat_label": "MAJOR",
@@ -880,14 +889,5 @@
     "trend": "stable",
     "incident_count_24h": 103,
     "summary_preview": "The Iran–US conflict has escalated significantly with coordinated strikes by the US and Israel inside Iran, followed by extensive retaliatory attacks from Iran on US bases, regional allies, and civili"
-  },
-  {
-    "filename": "2026-02-28T19-43-05.485121_plus_00-00.json",
-    "generated_at": "2026-02-28T19:43:05.485121+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "escalating",
-    "incident_count_24h": 234,
-    "summary_preview": "The Iran–US conflict has escalated to a critical level with direct military engagements, including coordinated US-Israeli airstrikes on Iran, retaliatory missile attacks by Iran on Israel and US bases"
   }
 ]

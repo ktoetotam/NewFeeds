@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-03-03T00:16:14.295642+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 759,
+    "incident_count_6h": 182,
+    "severity_breakdown": {
+      "major": 325,
+      "high": 262,
+      "medium": 166,
+      "low": 6
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 138,
+    "articles_analyzed": 177,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict has escalated significantly with confirmed US plans to intensify attacks on Iran within 24 hours, while IRGC launches Wave 12 of missile operations. Gulf states report massive interception efforts (Kuwait: 380+ drones, 180 missiles; Bahrain: 70 missiles, 76 drones). The conflict has expanded geographically with Iranian strikes on Qatar and new attacks on US base at Erbil. Iranian leadership signals readiness for prolonged war. Death tolls: 6 US troops, 555+ Iranian civilians confirmed by Red Crescent.",
+  "whats_new": [
+    "US plans to intensify attacks on Iran in next 24 hours — major escalation signal (CNN/TASS)",
+    "Drone struck American base at Erbil International Airport in northern Iraq — new front activation",
+    "Qatar formally complained to UN Security Council over Iranian attack on Qatari territory — diplomatic escalation",
+    "IDF issued evacuation warning for Iranian Broadcasting Authority complex, then struck it — confirmed by multiple sources",
+    "IRGC launched Wave 12 of 'Honest Promise 4' operations against US-Israeli targets"
+  ],
+  "confirmed_events": [
+    "Multi-source: Kuwait Air Defense destroyed 380+ Iranian drones and 180 missiles since conflict began",
+    "Multi-source: Bahrain downed 70 Iranian missiles and 76 drones; hosts US 5th Fleet",
+    "Multi-source: 6 US troops confirmed killed in Iran retaliatory strikes on bases in Iraq/Syria/Jordan",
+    "Multi-source: Iranian Red Crescent reports 555 civilians martyred in US-Israeli attacks across 131 cities",
+    "Multi-source: Israel struck Al-Manar building (Hezbollah media) in Beirut as part of expanded operations"
+  ],
+  "unverified_emerging": [
+    "IRGC claims strike in Dubai killed 40+ American personnel — unverified, source Tasnim News",
+    "Report of fatal error in US attack on Iran — source US media, nature of error unclear",
+    "Iranian claim over 1,000 IRGC/security officials killed since war began — unverified count",
+    "Hezbollah launched only 3 rockets since escalation began — limited proxy engagement noted"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "All commercial flights to/from Gulf airports face severe disruption due to active missile/drone traffic",
+      "US Embassy advisories likely in effect for all regional capitals",
+      "Erbil airport operations directly impacted by drone strike"
+    ],
+    "supply_chain": [
+      "Strait of Hormuz remains contested — insurers continue to cancel coverage",
+      "Gulf port operations (Dubai, Bahrain, Kuwait) disrupted by ongoing missile interceptions",
+      "Qatar LNG exports potentially affected by Iranian attack on Qatari territory"
+    ],
+    "market_macro": [
+      "Oil prices likely surging on widening Middle East conflict footprint",
+      "US defense stocks rallying on prolonged war signals",
+      "Gulf real estate (Dubai) safe-haven status shattered by direct Iranian missile strikes"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict will intensify significantly over next 24-72 hours with US launching expanded strike campaign against Iranian nuclear facilities, IRGC assets, and proxy infrastructure. Iran will continue ballistic missile/drone volleys targeting US bases in Iraq, Jordan, Kuwait, and Bahrain. Gulf states will face continued Iranian attacks while their air defenses deplete. Regional spread to Lebanon (Hezbollah operations) and potential expansion to additional Gulf states is highly likely.",
+    "escalation_risks": [
+      "US ground troop deployment to Iran not ruled out by Trump — major escalation pathway",
+      "Israeli strikes on Iranian nuclear facilities (Natanz confirmed targeted) could trigger nuclear escalation",
+      "Iranian attacks on Gulf oil infrastructure could close Strait of Homuz permanently",
+      "Potential US homeland incident — Austin shooting under investigation as Iran war-linked",
+      "Russian/Chinese intervention risk increases with conflict prolongation"
+    ],
+    "de_escalation_pathways": "De-escalation highly unlikely in near term. UN Secretary-General called for cessation but with both sides signaling prolonged war readiness and US announcing intensification, diplomatic off-ramps appear remote. Iran has rejected negotiations while under attack. Gulf state mediation efforts (Saudi Crown Prince contacted Swiss President) remain non-substantive. Ceasefire would require major battlefield reversal or internal political change in Tehran."
+  }
+}
