@@ -6,13 +6,15 @@
 export function formatTimeAgo(isoDate: string, fetchedAt?: string): string {
   const now = Date.now();
   const then = new Date(isoDate).getTime();
-  if (isNaN(then)) return "Unknown";
+  const fetchedMs = fetchedAt ? new Date(fetchedAt).getTime() : NaN;
 
-  const diffMs = now - then;
-  // If published is in the future, fall back to fetched_at
-  const effectiveMs = diffMs < 0 && fetchedAt
-    ? now - new Date(fetchedAt).getTime()
-    : diffMs;
+  // Use fetched_at if published is missing/invalid or in the future
+  const effectiveMs = (!isNaN(then) && then <= now)
+    ? now - then
+    : (!isNaN(fetchedMs) ? now - fetchedMs : NaN);
+
+  if (isNaN(effectiveMs)) return "Unknown";
+
   const minutes = Math.floor(effectiveMs / 60000);
   const hours = Math.floor(minutes / 60);
   const days = Math.floor(hours / 24);
@@ -21,5 +23,6 @@ export function formatTimeAgo(isoDate: string, fetchedAt?: string): string {
   if (minutes < 60) return `${minutes}m ago`;
   if (hours < 24) return `${hours}h ago`;
   if (days < 7) return `${days}d ago`;
-  return new Date(isoDate).toLocaleDateString();
+  const base = !isNaN(then) && then <= now ? isoDate : fetchedAt ?? isoDate;
+  return new Date(base).toLocaleDateString();
 }
