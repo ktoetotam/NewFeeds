@@ -84,7 +84,7 @@ jobs:
   # ───────────────────────────────────────────────────────
   retrigger:
     needs: fetch-regions
-    if: always()
+    if: 1 == 2
     runs-on: ubuntu-latest
     steps:
       - name: Checkout (for gh CLI)
