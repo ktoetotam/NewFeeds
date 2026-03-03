@@ -98,4 +98,4 @@ jobs:
         run: |
           echo "Waiting 90 seconds before re-triggering…"
           sleep 90
-          gh workflow run fetch-and-deploy.yml --ref "${{ github.ref_name }}"
+          gh workflow run fetch-and-deploy.yml --ref "main"
