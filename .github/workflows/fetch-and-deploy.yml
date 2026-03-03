@@ -1,6 +1,8 @@
 name: Fetch News & Deploy
 
 on:
+  schedule:
+    - cron: '*/20 * * * *'   # Every 20 minutes
   workflow_dispatch:
     inputs:
       test_mode:
@@ -15,7 +17,6 @@ concurrency:
 
 permissions:
   contents: read
-  actions: write
 
 jobs:
   # ───────────────────────────────────────────────────────
@@ -78,24 +79,3 @@ jobs:
           PIPELINE_REGIONS: ${{ matrix.batch.regions }}
         run: poetry run python run_pipeline.py --steps fetch,translate,classify,geocode,threat
 
-  # ───────────────────────────────────────────────────────
-  # Re-trigger: chain the next pipeline run after all
-  # region batches complete.
-  # ───────────────────────────────────────────────────────
-  retrigger:
-    needs: fetch-regions
-    if: always()
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout (for gh CLI)
-        uses: actions/checkout@v4
-        with:
-          sparse-checkout: .github
-
-      - name: Wait and re-trigger
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "Waiting 300 seconds before re-triggering…"
-          sleep 300
-          gh workflow run fetch-and-deploy.yml --ref "main"
