@@ -4,6 +4,7 @@ import { useState, useEffect, useMemo } from "react";
 import type { Article, RegionKey } from "@/lib/types";
 import { REGIONS } from "@/lib/types";
 import NewsCard from "./NewsCard";
+import TimeRangeFilter, { type TimeRange } from "@/components/TimeRangeFilter";
 
 function useDebounce(value: string, delay: number): string {
   const [debounced, setDebounced] = useState(value);
@@ -26,6 +27,10 @@ interface NewsFeedProps {
 export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
   const [activeRegion, setActiveRegion] = useState<RegionKey | "all">("all");
   const [searchQuery, setSearchQuery] = useState("");
+  const [timeRange, setTimeRange] = useState<TimeRange>(() => ({
+    from: new Date(Date.now() - 24 * 3600000),
+    to: null,
+  }));
   const debouncedQuery = useDebounce(searchQuery, 250);
 
   function effectiveTime(a: Article): number {
@@ -46,6 +51,17 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
       ? allArticles
       : (articlesByRegion[activeRegion] || []).slice().sort((a, b) => effectiveTime(b) - effectiveTime(a));
 
+  const timeFilteredArticles = useMemo(() => {
+    const { from, to } = timeRange;
+    if (!from && !to) return regionArticles;
+    return regionArticles.filter((a) => {
+      const t = effectiveTime(a);
+      if (from && t < from.getTime()) return false;
+      if (to && t > to.getTime()) return false;
+      return true;
+    });
+  }, [regionArticles, timeRange]);
+
   const searchWords = useMemo(
     () => debouncedQuery.toLowerCase().split(/\s+/).filter(Boolean),
     [debouncedQuery]
@@ -53,8 +69,8 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
 
   const displayedArticles = useMemo(() => {
     // Require at least 2 characters to avoid matching on single-letter typos while typing
-    if (searchWords.length === 0 || debouncedQuery.trim().length < 2) return regionArticles;
-    return regionArticles.filter((a) => {
+    if (searchWords.length === 0 || debouncedQuery.trim().length < 2) return timeFilteredArticles;
+    return timeFilteredArticles.filter((a) => {
       const haystack = [
         a.title_en,
         a.summary_en,
@@ -99,6 +115,9 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
           </TabButton>
         ))}
       </div>
+
+      {/* Time range filter */}
+      <TimeRangeFilter value={timeRange} onChange={setTimeRange} />
 
       {/* Search input */}
       <div

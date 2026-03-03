@@ -7,6 +7,7 @@ import AttackCard from "./AttackCard";
 import AttackMapClient from "./AttackMapClient";
 import type { NumberedAttack } from "./AttackMap";
 import { useAttackArticles, useThreatLevel } from "@/lib/hooks";
+import TimeRangeFilter, { type TimeRange } from "@/components/TimeRangeFilter";
 
 interface AttackMonitorProps {
   attackArticles: Article[];
@@ -44,6 +45,10 @@ export default function AttackMonitor({
     useState<SeverityFilter>("all");
   const [selectedAttackId, setSelectedAttackId] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
+  const [timeRange, setTimeRange] = useState<TimeRange>(() => ({
+    from: new Date(Date.now() - 24 * 3600000),
+    to: null,
+  }));
   const debouncedQuery = useDebounce(searchQuery, 250);
 
   const searchWords = useMemo(
@@ -51,10 +56,30 @@ export default function AttackMonitor({
     [debouncedQuery]
   );
 
+  function effectiveTime(a: Article): number {
+    const now = Date.now();
+    const pub = new Date(a.published).getTime();
+    if (!isNaN(pub) && pub <= now) return pub;
+    const fetched = a.fetched_at ? new Date(a.fetched_at).getTime() : NaN;
+    if (!isNaN(fetched)) return fetched;
+    return 0;
+  }
+
+  const timeFiltered = useMemo(() => {
+    const { from, to } = timeRange;
+    if (!from && !to) return attackArticles;
+    return attackArticles.filter((a) => {
+      const t = effectiveTime(a);
+      if (from && t < from.getTime()) return false;
+      if (to && t > to.getTime()) return false;
+      return true;
+    });
+  }, [attackArticles, timeRange]);
+
   const severityFiltered =
     severityFilter === "all"
-      ? attackArticles
-      : attackArticles.filter(
+      ? timeFiltered
+      : timeFiltered.filter(
           (a) => a.classification?.severity === severityFilter
         );
 
@@ -117,19 +142,11 @@ export default function AttackMonitor({
   }, []);
 
   const severityCounts = {
-    all: attackArticles.length,
-    major: attackArticles.filter(
-      (a) => a.classification?.severity === "major"
-    ).length,
-    high: attackArticles.filter(
-      (a) => a.classification?.severity === "high"
-    ).length,
-    medium: attackArticles.filter(
-      (a) => a.classification?.severity === "medium"
-    ).length,
-    low: attackArticles.filter(
-      (a) => a.classification?.severity === "low"
-    ).length,
+    all: timeFiltered.length,
+    major: timeFiltered.filter((a) => a.classification?.severity === "major").length,
+    high: timeFiltered.filter((a) => a.classification?.severity === "high").length,
+    medium: timeFiltered.filter((a) => a.classification?.severity === "medium").length,
+    low: timeFiltered.filter((a) => a.classification?.severity === "low").length,
   };
 
   const severityColors: Record<SeverityFilter, string> = {
@@ -153,6 +170,9 @@ export default function AttackMonitor({
           onScrollToCard={handleSelectFromMap}
         />
       </div>
+
+      {/* Time range filter */}
+      <TimeRangeFilter value={timeRange} onChange={setTimeRange} />
 
       {/* Search input */}
       <div
