@@ -14,15 +14,13 @@ concurrency:
   cancel-in-progress: false
 
 permissions:
-  contents: write
-  pull-requests: write
-  pages: write
-  id-token: write
+  contents: read
   actions: write
 
 jobs:
   # ───────────────────────────────────────────────────────
-  # Fan-out: parallel region groups
+  # Parallel region groups — each runs full pipeline and
+  # pushes directly to Supabase. No fan-in needed.
   # ───────────────────────────────────────────────────────
   fetch-regions:
     runs-on: ubuntu-latest
@@ -68,7 +66,7 @@ jobs:
         working-directory: scripts
         run: poetry run python -m playwright install chromium --with-deps
 
-      - name: "Fetch & translate: ${{ matrix.batch.name }}"
+      - name: "Run pipeline: ${{ matrix.batch.name }} (${{ matrix.batch.regions }})"
         working-directory: scripts
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
@@ -76,123 +74,28 @@ jobs:
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           TEST_MODE: ${{ inputs.test_mode || 'false' }}
           LLM_CONCURRENCY: "8"
-          PIPELINE_REGIONS: ${{ matrix.batch.regions }}
-        run: poetry run python run_pipeline.py --steps fetch,translate
-
-      - name: Upload region data
-        uses: actions/upload-artifact@v4
-        with:
-          name: feeds-${{ matrix.batch.name }}
-          path: data/feeds/
-          retention-days: 1
-
-  # ───────────────────────────────────────────────────────
-  # Fan-in: classify, geocode, threat, summary, deploy
-  # ───────────────────────────────────────────────────────
-  classify-and-deploy:
-    needs: fetch-regions
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Download all feed artifacts
-        uses: actions/download-artifact@v4
-        with:
-          pattern: feeds-*
-          path: data/feeds/
-          merge-multiple: true
-
-      # ── Python Pipeline (classify → geocode → threat → summary) ──
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Install Poetry
-        run: pipx install poetry
-
-      - name: Cache Poetry virtualenv
-        uses: actions/cache@v4
-        with:
-          path: scripts/.venv
-          key: poetry-${{ hashFiles('scripts/poetry.lock') }}
-
-      - name: Install Python dependencies
-        working-directory: scripts
-        run: poetry install --no-interaction --no-root
-
-      - name: Run classify → deploy pipeline
-        working-directory: scripts
-        env:
-          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           LLM_CLASSIFY_CONCURRENCY: "5"
-        run: poetry run python run_pipeline.py --steps classify,geocode,threat,summary
+          PIPELINE_REGIONS: ${{ matrix.batch.regions }}
+        run: poetry run python run_pipeline.py --steps fetch,translate,classify,geocode,threat
 
-      - name: Commit & merge data changes
-        if: always()
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
-          if git diff --cached --quiet; then
-            echo "No data changes to commit"
-            exit 0
-          fi
-          BRANCH="auto/update-feeds-$(date -u +%Y%m%d-%H%M%S)"
-          git checkout -b "$BRANCH"
-          git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push origin "$BRANCH"
-          # Merge the branch back into main and push
-          git checkout main
-          git pull --rebase origin main
-          git merge "$BRANCH" --no-ff -m "Merge $BRANCH into main"
-          git push origin main
-          # Clean up the remote branch
-          git push origin --delete "$BRANCH" || true
-
-      # ── Next.js Build & Deploy ──
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+  # ───────────────────────────────────────────────────────
+  # Re-trigger: chain the next pipeline run after all
+  # region batches complete.
+  # ───────────────────────────────────────────────────────
+  retrigger:
+    needs: fetch-regions
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (for gh CLI)
+        uses: actions/checkout@v4
         with:
-          node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: site/package-lock.json
+          sparse-checkout: .github
 
-      - name: Install Node dependencies
-        working-directory: site
-        run: npm ci
-
-      - name: Build static site
-        working-directory: site
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
-        run: npm run build
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site/out
-
-      - name: Deploy to GitHub Pages
-        id: deploy
-        uses: actions/deploy-pages@v4
-
-      - name: Re-trigger pipeline (chain)
-        if: always()
+      - name: Wait and re-trigger
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "Waiting 90 seconds before re-triggering…"
           sleep 90
-          gh workflow run fetch-and-deploy.yml --ref main
+          gh workflow run fetch-and-deploy.yml --ref "${{ github.ref_name }}"
