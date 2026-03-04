@@ -808,7 +808,14 @@ regions:
       - name: "Yahoo News"
         type: rss
         language: en
-        url: "https://news.yahoo.com/rss/mostviewed"
+        url: "https://news.yahoo.com/rss/"
+        category: independent
+        skip_translation: true
+
+      - name: "Yahoo Finance"
+        type: rss
+        language: en
+        url: "https://finance.yahoo.com/news/rssindex"
         category: independent
         skip_translation: true
 
