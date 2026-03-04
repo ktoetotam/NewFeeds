@@ -1,9 +1,7 @@
 name: Generate Executive Summary
 
 on:
-  schedule:
-    - cron: '0 */4 * * *'   # Every 4 hours
-  workflow_dispatch: {}       # Manual trigger
+  workflow_dispatch: {}       # Manual trigger only
 
 concurrency:
   group: generate-summary
