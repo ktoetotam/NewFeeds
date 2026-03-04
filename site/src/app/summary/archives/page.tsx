@@ -3,6 +3,9 @@ import { getArchiveIndex, getThreatLevel, syncArchivesToPublic } from "@/lib/dat
 import { THREAT_LEVEL_COLORS } from "@/lib/types";
 import Link from "next/link";
 
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
+
 export default async function ArchivesPage() {
   syncArchivesToPublic();
   const [archives, threatLevel] = await Promise.all([
