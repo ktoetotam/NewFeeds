@@ -28,8 +28,8 @@ logger = logging.getLogger(__name__)
 
 MAX_RETRIES = 5
 RETRY_DELAY = 5
-MAX_ATTACKS_IN_PROMPT = 20
-MAX_ARTICLES_PER_REGION = 3
+MAX_ATTACKS_IN_PROMPT = 30
+MAX_ARTICLES_PER_REGION = 5
 
 # Project paths (for standalone usage)
 SCRIPT_DIR = Path(__file__).parent
@@ -394,9 +394,9 @@ def call_summary_llm(api_key: str, user_prompt: str) -> dict | None:
     # JSON call with reasoning — budget caps thinking tokens to keep latency sane
     result = call_llm_json(
         user_prompt, SYSTEM_PROMPT, api_key,
-        temperature=0.3, max_tokens=16384, timeout=300,
+        temperature=0.3, max_tokens=4096, timeout=600,
         max_retries=MAX_RETRIES, retry_delay=RETRY_DELAY,
-        reasoning=True, thinking_budget=4096,
+        reasoning=True, thinking_budget=2048,
     )
     if result is not None:
         logger.info("Executive summary generated successfully via LLM")
@@ -406,7 +406,7 @@ def call_summary_llm(api_key: str, user_prompt: str) -> dict | None:
     from llm_client import call_llm
     text = call_llm(
         user_prompt, SYSTEM_PROMPT, api_key,
-        temperature=0.3, max_tokens=16384, timeout=300,
+        temperature=0.3, max_tokens=4096, timeout=600,
         max_retries=2, retry_delay=RETRY_DELAY,
         reasoning=False,
     )
