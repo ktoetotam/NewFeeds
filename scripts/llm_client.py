@@ -54,7 +54,7 @@ def get_model() -> str:
 def _is_local_endpoint() -> bool:
     """Check if the LLM endpoint is a local/self-hosted server."""
     url = get_api_url()
-    return "minimaxi.chat" not in url
+    return "minimax" not in url
 
 
 def call_llm(
