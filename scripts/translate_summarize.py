@@ -102,7 +102,7 @@ def process_article(article: dict, api_key: str) -> dict:
     try:
         response_text = call_llm(
             prompt, SYSTEM_PROMPT, api_key,
-            temperature=0.1, max_tokens=600, timeout=60,
+            temperature=0.1, max_tokens=1000, timeout=90,
             max_retries=MAX_RETRIES, retry_delay=RETRY_DELAY,
         )
 
