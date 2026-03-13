@@ -38,19 +38,12 @@ jobs:
         working-directory: scripts
         run: poetry install --no-interaction --no-root
 
-      - name: Connect to Tailscale
-        uses: tailscale/github-action@v2
-        with:
-          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
-          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
-          tags: tag:ci
-
-      - name: Generate executive summary
+      - name: Generate executive summary & briefing
         working-directory: scripts
         env:
-          LLM_API_URL: ${{ secrets.LLM_API_URL }}
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          LLM_API_URL: ${{ secrets.MINIMAX_API_URL }}
+          LLM_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          LLM_MODEL: ${{ secrets.MINIMAX_MODEL }}
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: poetry run python run_summary.py

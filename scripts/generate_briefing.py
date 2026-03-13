@@ -227,7 +227,7 @@ def _call_llm(api_key: str, user_prompt: str) -> dict | None:
     """Call LLM to generate the operational briefing."""
     result = call_llm_json(
         user_prompt, SYSTEM_PROMPT, api_key,
-        temperature=0.15, max_tokens=4096, timeout=600,
+        temperature=0.15, max_tokens=8192, timeout=300,
         max_retries=MAX_RETRIES, retry_delay=RETRY_DELAY,
         reasoning=True, thinking_budget=2048,
     )

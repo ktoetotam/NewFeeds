@@ -394,9 +394,9 @@ def call_summary_llm(api_key: str, user_prompt: str) -> dict | None:
     # JSON call with reasoning — budget caps thinking tokens to keep latency sane
     result = call_llm_json(
         user_prompt, SYSTEM_PROMPT, api_key,
-        temperature=0.3, max_tokens=4096, timeout=600,
+        temperature=0.3, max_tokens=16384, timeout=300,
         max_retries=MAX_RETRIES, retry_delay=RETRY_DELAY,
-        reasoning=True, thinking_budget=2048,
+        reasoning=True, thinking_budget=4096,
     )
     if result is not None:
         logger.info("Executive summary generated successfully via LLM")
@@ -406,7 +406,7 @@ def call_summary_llm(api_key: str, user_prompt: str) -> dict | None:
     from llm_client import call_llm
     text = call_llm(
         user_prompt, SYSTEM_PROMPT, api_key,
-        temperature=0.3, max_tokens=4096, timeout=600,
+        temperature=0.3, max_tokens=16384, timeout=300,
         max_retries=2, retry_delay=RETRY_DELAY,
         reasoning=False,
     )
