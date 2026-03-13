@@ -38,7 +38,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
         <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
             <h1 style={{ fontSize: 20, fontWeight: 700, letterSpacing: -0.5 }}>
-              <span style={{ color: "#ef4444" }}>&#9673;</span> Iran &amp; Region
+              <span style={{ color: "#f68a6b" }}>&#9673;</span> Iran &amp; Region
               Monitor
             </h1>
             <nav style={{ display: "flex", gap: 16, fontSize: 14 }}>
@@ -81,7 +81,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
                 href="https://www.airealist.org/"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ color: "#f97316", fontWeight: 600, textDecoration: "none" }}
+                style={{ color: "#f68a6b", fontWeight: 600, textDecoration: "none" }}
               >
                 AI Realist
               </a>
@@ -93,7 +93,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
                 href="https://msukhareva.substack.com/subscribe"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ color: "#f97316", fontWeight: 600, textDecoration: "none" }}
+                style={{ color: "#f68a6b", fontWeight: 600, textDecoration: "none" }}
               >
                 subscribe to AI Realist newsletter
               </a>
@@ -141,6 +141,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
           {updatedAt && (
             <span
               style={{ fontSize: 12, color: "var(--color-text-muted)" }}
+              suppressHydrationWarning
             >
               Updated:{" "}
               {new Date(updatedAt).toLocaleTimeString("en-US", {

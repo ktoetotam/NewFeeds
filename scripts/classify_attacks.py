@@ -1,6 +1,6 @@
 """
 classify_attacks.py — Identify and classify military events in the Iran–US war and connected fronts.
-Two-stage approach: keyword pre-filter → MiniMax LLM classification.
+Two-stage approach: keyword pre-filter → LLM classification.
 """
 
 import json
@@ -9,11 +9,9 @@ import os
 import re
 import time
 
-import requests
+from llm_client import call_llm_json
 
 logger = logging.getLogger(__name__)
-
-MINIMAX_API_URL = "https://api.minimaxi.chat/v1/text/chatcompletion_v2"
 
 # Stage 1: Keyword pre-filter
 ATTACK_KEYWORDS = [
@@ -75,7 +73,7 @@ def keyword_prefilter(articles: list[dict]) -> list[dict]:
 
 def classify_with_llm(article: dict, api_key: str) -> dict:
     """
-    Stage 2: Use MiniMax to classify a war-related article.
+    Stage 2: Use LLM to classify a war-related article.
     Returns classification dict with severity, category, parties, location.
     """
     system_prompt = (
@@ -106,61 +104,15 @@ Severity: major=direct US-Iran engagement/ballistic/nuclear/mass casualties, hig
 
 location: extract the specific place where the event occurred. If no explicit location in text, infer the country from context (e.g. "Iran", "Israel", "Qatar"). Only use "unspecified" if there is truly zero geographic information."""
 
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
-
-    payload = {
-        "model": "MiniMax-M2.5",
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": prompt},
-        ],
-        "temperature": 0.1,
-        "max_tokens": 1000,
-    }
-
     try:
-        resp = requests.post(
-            MINIMAX_API_URL, headers=headers, json=payload, timeout=60
+        classification = call_llm_json(
+            prompt, system_prompt, api_key,
+            temperature=0.1, max_tokens=1000, timeout=60,
+            max_retries=3, retry_delay=5,
         )
 
-        if resp.status_code == 429:
-            time.sleep(5)
-            resp = requests.post(
-                MINIMAX_API_URL, headers=headers, json=payload, timeout=60
-            )
-
-        resp.raise_for_status()
-        data = resp.json()
-
-        choices = data.get("choices", [])
-        if not choices:
+        if classification is None:
             return default_classification(article)
-
-        text = choices[0].get("message", {}).get("content", "")
-        text = text.strip()
-
-        if not text:
-            logger.warning(f"Empty LLM response for {article['id']}")
-            return default_classification(article)
-
-        # Strip markdown code fences
-        if text.startswith("```"):
-            text = re.sub(r'^```[\w]*\n?', '', text)
-            text = re.sub(r'\n?```$', '', text).strip()
-
-        # Fallback: extract first JSON object from response
-        if not text.startswith("{"):
-            m = re.search(r'\{.*\}', text, re.DOTALL)
-            if m:
-                text = m.group(0)
-            else:
-                logger.warning(f"No JSON found in LLM response for {article['id']}: {text[:100]!r}")
-                return default_classification(article)
-
-        classification = json.loads(text)
 
         # Normalize: LLM sometimes returns "critical" instead of "major"
         if classification.get("severity") == "critical":
@@ -168,7 +120,7 @@ location: extract the specific place where the event occurred. If no explicit lo
 
         return classification
 
-    except (json.JSONDecodeError, requests.RequestException) as e:
+    except Exception as e:
         logger.warning(f"LLM classification failed for {article['id']}: {e}")
         return default_classification(article)
 
@@ -293,7 +245,8 @@ def classify_articles(
         List of attack-classified articles with classification metadata
     """
     if api_key is None:
-        api_key = os.environ.get("MINIMAX_API_KEY", "")
+        from llm_client import get_api_key
+        api_key = get_api_key()
 
     # Stage 1: Keyword pre-filter
     candidates = keyword_prefilter(articles)

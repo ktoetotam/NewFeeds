@@ -55,9 +55,9 @@ export default function CountryFilter({ available, selected, onChange }: Props) 
             padding: "4px 12px",
             borderRadius: 99,
             border: "1px solid",
-            borderColor: isActive ? "#6366f1" : "var(--color-border)",
-            background: isActive ? "#6366f1" : "var(--color-surface)",
-            color: isActive ? "#fff" : noData ? "var(--color-text-muted)" : "var(--color-text)",
+            borderColor: isActive ? "#f68a6b" : "var(--color-border)",
+            background: isActive ? "#f68a6b" : "var(--color-surface)",
+            color: isActive ? "#fef6f0" : noData ? "var(--color-text-muted)" : "var(--color-text)",
             fontSize: 12,
             fontWeight: isActive ? 700 : 400,
             cursor: noData ? "default" : "pointer",
@@ -101,7 +101,7 @@ export default function CountryFilter({ available, selected, onChange }: Props) 
             background: "var(--color-surface)",
             border: "1px solid var(--color-border)",
             borderRadius: 10,
-            boxShadow: "0 4px 20px rgba(0,0,0,0.25)",
+            boxShadow: "0 4px 20px rgba(91,66,48,0.12)",
             minWidth: 200,
             maxHeight: 320,
             overflowY: "auto",
@@ -123,7 +123,7 @@ export default function CountryFilter({ available, selected, onChange }: Props) 
               style={{
                 background: "none",
                 border: "none",
-                color: "#6366f1",
+                color: "#f68a6b",
                 fontSize: 11,
                 cursor: "pointer",
                 padding: 0,
@@ -160,17 +160,17 @@ export default function CountryFilter({ available, selected, onChange }: Props) 
                   cursor: "pointer",
                   fontSize: 13,
                   color: "var(--color-text)",
-                  background: checked ? "rgba(99,102,241,0.08)" : "transparent",
+                  background: checked ? "rgba(246,138,107,0.08)" : "transparent",
                   userSelect: "none",
                 }}
                 onMouseEnter={(e) =>
                   ((e.currentTarget as HTMLElement).style.background = checked
-                    ? "rgba(99,102,241,0.14)"
-                    : "rgba(255,255,255,0.06)")
+                    ? "rgba(246,138,107,0.14)"
+                    : "rgba(91,66,48,0.04)")
                 }
                 onMouseLeave={(e) =>
                   ((e.currentTarget as HTMLElement).style.background = checked
-                    ? "rgba(99,102,241,0.08)"
+                    ? "rgba(246,138,107,0.08)"
                     : "transparent")
                 }
               >
@@ -178,7 +178,7 @@ export default function CountryFilter({ available, selected, onChange }: Props) 
                   type="checkbox"
                   checked={checked}
                   onChange={() => toggle(country)}
-                  style={{ accentColor: "#6366f1", width: 14, height: 14, cursor: "pointer" }}
+                  style={{ accentColor: "#f68a6b", width: 14, height: 14, cursor: "pointer" }}
                 />
                 {country}
               </label>

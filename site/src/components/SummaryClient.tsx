@@ -112,7 +112,7 @@ export default function SummaryClient() {
               <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
                 Live articles from all monitored regions, translated and relevance-filtered.
               </div>
-              <div style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#3b82f6" }}>
+              <div style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#6a4c93" }}>
                 Go to News Feed →
               </div>
             </div>
@@ -137,7 +137,7 @@ export default function SummaryClient() {
                 <span
                   style={{
                     background: tlColor,
-                    color: "#fff",
+                    color: "#fef6f0",
                     fontSize: 12,
                     fontWeight: 700,
                     padding: "3px 10px",
@@ -153,7 +153,7 @@ export default function SummaryClient() {
                 {majorCount + highCount > 0 && (
                   <>
                     {" "}
-                    <strong style={{ color: "#ef4444" }}>
+                    <strong style={{ color: "#f68a6b" }}>
                       {majorCount + highCount} major/high
                     </strong>{" "}
                     in last 48h.

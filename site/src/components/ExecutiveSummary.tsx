@@ -214,7 +214,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
       {summary.whats_new?.length > 0 && (
         <section>
           <SectionHeader title="What's New" icon="🔔" />
-          <BulletList items={summary.whats_new} color="#3b82f6" />
+          <BulletList items={summary.whats_new} color="#6a4c93" />
         </section>
       )}
 
@@ -222,7 +222,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
       {summary.confirmed_events?.length > 0 && (
         <section>
           <SectionHeader title="Confirmed & Credibly Reported" icon="✅" />
-          <BulletList items={summary.confirmed_events} color="#16a34a" />
+          <BulletList items={summary.confirmed_events} color="#f68a6b" />
         </section>
       )}
 
@@ -230,7 +230,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
       {summary.unverified_emerging?.length > 0 && (
         <section>
           <SectionHeader title="Unverified / Emerging" icon="⚠️" />
-          <BulletList items={summary.unverified_emerging} color="#ca8a04" muted />
+          <BulletList items={summary.unverified_emerging} color="#9a8575" muted />
         </section>
       )}
 
@@ -243,19 +243,19 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
               title="People & Travel"
               icon="✈️"
               items={summary.operational_impacts.people_travel || []}
-              accentColor="#3b82f6"
+              accentColor="#6a4c93"
             />
             <ImpactCard
               title="Supply Chain & Logistics"
               icon="🚢"
               items={summary.operational_impacts.supply_chain || []}
-              accentColor="#f59e0b"
+              accentColor="#f68a6b"
             />
             <ImpactCard
               title="Market & Macro"
               icon="📈"
               items={summary.operational_impacts.market_macro || []}
-              accentColor="#ef4444"
+              accentColor="#5b4230"
             />
           </div>
         </section>
@@ -279,7 +279,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
                 style={{
                   fontSize: 13,
                   fontWeight: 700,
-                  color: "#3b82f6",
+                  color: "#6a4c93",
                   marginBottom: 8,
                 }}
               >
@@ -296,7 +296,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
                 style={{
                   background: "var(--color-surface)",
                   border: "1px solid var(--color-border)",
-                  borderLeft: "3px solid #ef4444",
+                  borderLeft: "3px solid #f68a6b",
                   borderRadius: 8,
                   padding: 16,
                 }}
@@ -305,7 +305,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
                   style={{
                     fontSize: 13,
                     fontWeight: 700,
-                    color: "#ef4444",
+                    color: "#f68a6b",
                     marginBottom: 8,
                   }}
                 >
@@ -313,7 +313,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
                 </div>
                 <BulletList
                   items={summary.outlook_24_72h.escalation_risks}
-                  color="#ef4444"
+                  color="#f68a6b"
                 />
               </div>
             )}
@@ -324,7 +324,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
                 style={{
                   background: "var(--color-surface)",
                   border: "1px solid var(--color-border)",
-                  borderLeft: "3px solid #16a34a",
+                  borderLeft: "3px solid #6a4c93",
                   borderRadius: 8,
                   padding: 16,
                 }}
@@ -333,7 +333,7 @@ export default function ExecutiveSummary({ summary }: ExecutiveSummaryProps) {
                   style={{
                     fontSize: 13,
                     fontWeight: 700,
-                    color: "#16a34a",
+                    color: "#6a4c93",
                     marginBottom: 8,
                   }}
                 >

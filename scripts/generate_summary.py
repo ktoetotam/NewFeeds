@@ -1,10 +1,12 @@
 """
 generate_summary.py — Generate an executive briefing from attacks, threat level, and feed data.
 
-Uses MiniMax-M2.5 to synthesize a structured, analytical executive summary
+Uses LLM to synthesize a structured, analytical executive summary
 in the style of a corporate crisis-management briefing.
 
 Can be run standalone:
+    LLM_API_KEY=... python scripts/generate_summary.py
+    # Or with legacy MiniMax key:
     MINIMAX_API_KEY=... python scripts/generate_summary.py
 
 Or called from run_pipeline.py as Step 7.
@@ -20,14 +22,14 @@ from pathlib import Path
 
 import requests
 
-logger = logging.getLogger(__name__)
+from llm_client import call_llm_json, get_api_key, get_api_url, get_model
 
-MINIMAX_API_URL = "https://api.minimaxi.chat/v1/text/chatcompletion_v2"
+logger = logging.getLogger(__name__)
 
 MAX_RETRIES = 5
 RETRY_DELAY = 5
-MAX_ATTACKS_IN_PROMPT = 30
-MAX_ARTICLES_PER_REGION = 5
+MAX_ATTACKS_IN_PROMPT = 20
+MAX_ARTICLES_PER_REGION = 3
 
 # Project paths (for standalone usage)
 SCRIPT_DIR = Path(__file__).parent
@@ -49,7 +51,7 @@ CRITICAL RULES:
 - Base your analysis STRICTLY on the data provided. Do not invent events or details.
 - Distinguish clearly between confirmed events and unverified claims.
 - When sources disagree or claims are unverified, say so explicitly.
-- MULTI-SOURCE CORROBORATION: When the same event is reported by 2 or more independent sources, explicitly note this (e.g. "Confirmed by multiple sources: ..."). Multi-source events should be elevated in priority regardless of source category.
+- MULTI-SOURCE CORROBORATION: When the same event is reported by 2 or more independent sources, note the number of corroborating sources parenthetically (e.g. "(3 sources)") at the end of the bullet rather than prefixing with "Confirmed by multiple sources:". Multi-source events should be elevated in priority regardless of source category.
 - Prioritize military/security events by severity (major > high > medium > low).
 - Use bullet points for clarity. Keep each bullet to 1-2 sentences.
 - Use 24h clock and CET timezone for all times.
@@ -64,7 +66,7 @@ PREVIOUS BRIEFING EVALUATION — you MUST apply this discipline every cycle:
 - The final output must be LEAN: prefer 3-5 high-signal bullets per section over a long list. If nothing genuinely new happened in a section, say so briefly rather than padding with stale repetition.
 - DO NOT carry forward boilerplate or generic standing warnings that appear in every cycle unchanged — re-state only if the situation actively warrants it.
 
-UNVERIFIED/EMERGING SECTION — include ALL of the following if present in the data, even from a single source, flagging the source:
+UNVERIFIED/EMERGING SECTION — include ALL of the following if present in the data, even from a single source, naming the source parenthetically at the end (e.g. "(Source: IRNA)") — do NOT prefix bullets with "Unverified:" since the section name already conveys this:
 - Deaths or incapacitation of heads of state, military commanders, or senior officials
 - New explosions, strikes, or attacks not yet corroborated
 - Terror attacks or assassinations
@@ -95,12 +97,7 @@ Respond with ONLY this JSON structure:
 """
 
 
-def get_api_key() -> str:
-    """Get MiniMax API key from environment."""
-    key = os.environ.get("MINIMAX_API_KEY", "")
-    if not key:
-        raise ValueError("MINIMAX_API_KEY environment variable is required")
-    return key
+# get_api_key is imported from llm_client
 
 
 def load_attacks(filepath: str | Path | None = None) -> list[dict]:
@@ -327,8 +324,8 @@ Based STRICTLY on the data above, produce a lean, high-signal executive summary.
 
 2. BUILD THE NEW SUMMARY:
    - "whats_new": ONLY events from the last {EVENT_WINDOW_HOURS} hours that represent genuine change. If nothing is materially new, say so in one line — do not pad.
-   - "confirmed_events": Multi-source or evidence-backed events only. Max 5 bullets. Drop any that appeared in the previous cycle unchanged unless they escalated.
-   - "unverified_emerging": Single-source or unconfirmed claims. Always flag the source. Remove anything that has since been confirmed or disproven.
+   - "confirmed_events": Multi-source or evidence-backed events only. Max 5 bullets. Drop any that appeared in the previous cycle unchanged unless they escalated. Do NOT prefix bullets with "Confirmed by multiple sources:" — the section name already conveys this; instead note source count parenthetically at the end.
+   - "unverified_emerging": Single-source or unconfirmed claims. Name the source parenthetically at the end of each bullet. Do NOT prefix bullets with "Unverified:" — the section name already conveys this. Remove anything that has since been confirmed or disproven.
    - "operational_impacts": Only list impacts actively supported by the current data. Do NOT repeat generic standing warnings cycle after cycle.
    - "outlook_24_72h": Update the forecast based on new trajectory — do not recycle the previous outlook verbatim.
 
@@ -389,81 +386,41 @@ def _repair_truncated_json(text: str) -> dict | None:
     return None
 
 
-def call_minimax(api_key: str, user_prompt: str) -> dict | None:
-    """Call MiniMax API to generate the executive summary."""
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
+def call_summary_llm(api_key: str, user_prompt: str) -> dict | None:
+    """Call LLM API to generate the executive summary.
 
-    payload = {
-        "model": "MiniMax-M2.5",
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
-        ],
-        "temperature": 0.3,
-        "max_tokens": 4096,
-    }
+    Uses call_llm_json from llm_client, with local truncation-repair fallback.
+    """
+    # JSON call with reasoning — budget caps thinking tokens to keep latency sane
+    result = call_llm_json(
+        user_prompt, SYSTEM_PROMPT, api_key,
+        temperature=0.3, max_tokens=16384, timeout=300,
+        max_retries=MAX_RETRIES, retry_delay=RETRY_DELAY,
+        reasoning=True, thinking_budget=4096,
+    )
+    if result is not None:
+        logger.info("Executive summary generated successfully via LLM")
+        return result
 
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            resp = requests.post(
-                MINIMAX_API_URL, headers=headers, json=payload, timeout=120
-            )
+    # If call_llm_json failed, try one more time with raw text + repair
+    from llm_client import call_llm
+    text = call_llm(
+        user_prompt, SYSTEM_PROMPT, api_key,
+        temperature=0.3, max_tokens=16384, timeout=300,
+        max_retries=2, retry_delay=RETRY_DELAY,
+        reasoning=False,
+    )
+    if text:
+        # Strip markdown fences
+        if text.startswith("```"):
+            text = text.split("\n", 1)[-1]
+            text = text.rsplit("```", 1)[0].strip()
+        repaired = _repair_truncated_json(text)
+        if repaired is not None:
+            logger.warning("Used truncation-repair to recover partial JSON")
+            return repaired
 
-            if resp.status_code == 429:
-                wait = RETRY_DELAY * attempt
-                logger.warning(f"Rate limited, waiting {wait}s (attempt {attempt})")
-                time.sleep(wait)
-                continue
-
-            resp.raise_for_status()
-            data = resp.json()
-
-            choices = data.get("choices", [])
-            if not choices:
-                logger.warning("Empty choices in MiniMax response")
-                return None
-
-            choice = choices[0]
-            finish_reason = choice.get("finish_reason", "")
-            text = choice.get("message", {}).get("content", "").strip()
-
-            if finish_reason == "length":
-                logger.warning(
-                    f"Response truncated (finish_reason=length) on attempt {attempt} "
-                    f"— trying JSON repair"
-                )
-
-            # Handle markdown wrapping
-            if text.startswith("```"):
-                text = text.split("\n", 1)[-1]
-                text = text.rsplit("```", 1)[0].strip()
-
-            # Attempt parse; if it fails due to truncation, try to repair
-            try:
-                result = json.loads(text)
-            except json.JSONDecodeError:
-                repaired = _repair_truncated_json(text)
-                if repaired is not None:
-                    logger.warning("Used truncation-repair to recover partial JSON")
-                    result = repaired
-                else:
-                    raise
-            logger.info("Executive summary generated successfully via MiniMax")
-            return result
-
-        except json.JSONDecodeError as e:
-            logger.warning(f"JSON parse error on attempt {attempt}: {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY)
-        except requests.RequestException as e:
-            logger.warning(f"API request error on attempt {attempt}: {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY)
-
-    logger.error("All MiniMax attempts failed for executive summary")
+    logger.error("All LLM attempts failed for executive summary")
     return None
 
 
@@ -667,7 +624,7 @@ def generate_and_save(
 
     # Build prompt and call LLM
     user_prompt = build_user_prompt(attacks_windowed, threat, articles_windowed, previous_summary)
-    result = call_minimax(api_key, user_prompt)
+    result = call_summary_llm(api_key, user_prompt)
 
     if result is None:
         logger.warning("Using fallback deterministic summary")

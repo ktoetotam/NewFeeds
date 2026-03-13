@@ -9,6 +9,10 @@ Intended to run on a separate cron schedule (e.g. every 30 minutes) from
 the main fetch-and-translate pipeline.
 
 Usage:
+    LLM_API_KEY=... SUPABASE_URL=... SUPABASE_SERVICE_KEY=... \
+        python run_summary.py
+
+    # Legacy (still supported):
     MINIMAX_API_KEY=... SUPABASE_URL=... SUPABASE_SERVICE_KEY=... \
         python run_summary.py
 
@@ -93,9 +97,9 @@ def load_threat_from_supabase() -> dict:
 
 def main():
     # Validate environment
-    api_key = os.environ.get("MINIMAX_API_KEY", "")
+    api_key = os.environ.get("LLM_API_KEY", "")
     if not api_key:
-        logger.error("MINIMAX_API_KEY not set")
+        logger.error("LLM_API_KEY not set")
         sys.exit(1)
 
     if not supabase_db.is_enabled():

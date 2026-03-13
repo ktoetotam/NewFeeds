@@ -67,7 +67,7 @@ function HighlightText({ text, query }: { text: string; query?: string }) {
 
 export default function NewsCard({ article, searchQuery }: NewsCardProps) {
   const regionCfg = REGIONS.find((r) => r.key === article.region);
-  const regionColor = regionCfg?.color || "#6366f1";
+  const regionColor = regionCfg?.color || "#f68a6b";
 
   const categoryLabels: Record<string, string> = {
     state: "State",

@@ -2,6 +2,13 @@
 description: "Add a new RSS/Telegram/scrape source (and region) to the NewFeeds war-monitoring pipeline"
 ---
 
+# General Instructions
+
+- When running terminal commands (especially over SSH), always show the **full output** — never pipe through `tail`, `head`, or truncate unless the user explicitly asks. The user wants to see the complete log.
+- **Always use Poetry** for Python dependency management. The project root for Python scripts is `scripts/` (contains `pyproject.toml` and `poetry.lock`). Use `poetry run python <script>` to execute scripts and `poetry add <package>` to add dependencies. Never use bare `pip install` or naked `python3`.
+
+---
+
 # Add Source Agent Skill
 
 ## Purpose

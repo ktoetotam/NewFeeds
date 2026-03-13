@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-03-13T02:01:25.784584+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 31,
+    "incident_count_6h": 31,
+    "severity_breakdown": {
+      "major": 3,
+      "high": 13,
+      "medium": 12,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 31,
+    "articles_analyzed": 126,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The conflict remains at MAJOR threat level with sustained high-intensity exchanges across the Middle East. US Central Command has confirmed the loss of a refueling aircraft in Iraq, while Iran-aligned forces launched a 44th missile wave targeting Israel and Gulf states. Strategic escalation signals include reports of a Supreme Leader order to close the Strait of Hormuz and confirmed casualties among coalition forces.",
+  "whats_new": [
+    "US Central Command confirmed the loss of a refueling aircraft in Iraq with six personnel on board, upgrading previous claims of a crash.",
+    "Iran's Supreme Leader reportedly ordered the closure of the Strait of Hormuz, though the UN envoy denied current plans to close the chokepoint.",
+    "French President Macron confirmed the identity of the deceased soldier in Iraq as Adjutant-Chef Arnaud Frieon.",
+    "IRGC announced a specific 44th missile wave targeting Israeli cities and US Fifth Fleet positions."
+  ],
+  "confirmed_events": [
+    "Confirmed by multiple sources: US refueling aircraft crashed in western Iraq; US Central Command confirms loss of six personnel (02:03 CET).",
+    "Confirmed by multiple sources: IRGC launched a 44th wave of ballistic missiles targeting Israel and US bases in the region (02:11 CET).",
+    "Confirmed by multiple sources: French soldier killed in drone strike on base near Erbil, Iraqi Kurdistan (02:55 CET).",
+    "Confirmed by multiple sources: UAE, Qatar, and Kuwait intercepted multiple ballistic missiles and drones launched from Iran (02:20 CET).",
+    "Confirmed by multiple sources: Israel intercepted drone and missile activity in northern regions including Zarzir and Haifa (02:20 CET)."
+  ],
+  "unverified_emerging": [
+    "Unverified: IRGC claims US aircraft carrier Abraham Lincoln sustained significant damage and is retreating (Source: Al Masirah TV English).",
+    "Unverified: Israel claims senior Iranian nuclear scientists were killed in the Iraq incident (Source: The Guardian World).",
+    "Unverified: Reports of a fire at Muharraq fuel tanks in Bahrain following Iranian attack (Source: Bahraini Interior Ministry via data feed).",
+    "Unverified: Iranian Central Command claims to have shot down a US aerial refueling aircraft over western Iraq (Source: Iranian Central Command)."
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "UAE cancelled Class 10 and 12 board exams for Indian students due to security concerns (02:20 CET).",
+      "Air raid sirens activated across northern Israel including Zarzir, Haifa, and Kiryat cities impacting civilian movement."
+    ],
+    "supply_chain": [
+      "India invoking emergency powers to secure LPG supplies amid fears of shortage linked to conflict (Source: The Hindu International).",
+      "Strait of Hormuz closure threat reported by Supreme Leader, potentially impacting global oil transit (Source: CNBC Top News).",
+      "Salalah Port in Oman damaged by drone strike, affecting fuel storage tanks (Source: Arab League condemnation)."
+    ],
+    "market_macro": [
+      "Asia-Pacific markets tumbled as investors brace for prolonged Middle East war (Source: CNBC Top News).",
+      "US defense officials report conflict cost exceeded $11.3 billion in first six days (Source: The Guardian World)."
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "High-intensity missile and drone exchanges will continue across Israel, Iraq, and the Gulf. Gulf states will maintain active air defense postures. Economic pressure will increase as energy markets react to Hormuz closure rhetoric.",
+    "escalation_risks": [
+      "Confirmation of US carrier damage could trigger direct naval retaliation.",
+      "Actual closure of the Strait of Hormuz would cause immediate global energy shock.",
+      "Ground invasion scenarios remain a political risk factor discussed within US leadership circles."
+    ],
+    "de_escalation_pathways": [
+      "UN Security Council Resolution 2817 condemns Iranian attacks, providing diplomatic cover for de-escalation.",
+      "Internal US discussions on exit plans suggest potential political pressure to limit conflict duration."
+    ]
+  }
+}

@@ -1,3 +1,6 @@
+[tool.poetry]
+package-mode = false
+
 [project]
 name = "newfeeds-pipeline"
 version = "0.1.0"
@@ -5,7 +8,6 @@ description = ""
 authors = [
     {name = "Your Name",email = "you@example.com"}
 ]
-readme = "README.md"
 requires-python = "^3.11"
 dependencies = [
     "feedparser (>=6.0.12,<7.0.0)",

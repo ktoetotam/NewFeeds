@@ -113,7 +113,9 @@ const ARTICLE_POLL_MS = 10 * 60 * 1000;
 const FAST_POLL_MS = 5 * 60 * 1000;
 
 // Only fetch columns the frontend actually uses (excludes content_original etc.)
-const ARTICLE_COLUMNS = "id,title_original,title_en,summary_en,url,published,fetched_at,effective_time,source_name,source_category,language,region,translated,relevant,countries_mentioned,lat,lng,classification";
+// articles table does NOT have lat, lng, classification — those are attacks-only
+const ARTICLE_COLUMNS = "id,title_original,title_en,summary_en,url,published,fetched_at,effective_time,source_name,source_category,language,region,translated,relevant,countries_mentioned";
+const ATTACK_COLUMNS = "id,title_original,title_en,summary_en,url,published,fetched_at,effective_time,source_name,source_category,language,region,translated,relevant,countries_mentioned,lat,lng,classification,keyword_matches,matched_keywords";
 
 // ── useArticlesByRegion ─────────────────────────────────────
 
@@ -208,7 +210,7 @@ export function useAttackArticles() {
       try {
         const sbQuery = sb
           .from("attacks")
-          .select(ARTICLE_COLUMNS)
+          .select(ATTACK_COLUMNS)
           .order("effective_time", { ascending: false })
           .limit(500)
           .then((r) => r);

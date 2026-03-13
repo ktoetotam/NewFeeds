@@ -75,7 +75,7 @@ export default function AttacksClient() {
               <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
                 Live articles from all monitored regions, translated and relevance-filtered.
               </div>
-              <div style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#3b82f6" }}>
+              <div style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#6a4c93" }}>
                 Go to News Feed →
               </div>
             </div>
@@ -125,7 +125,7 @@ export default function AttacksClient() {
                   ? summary.executive_summary
                   : "AI-generated intelligence briefing covering regional threat assessments, key incidents, and escalation risks."}
               </div>
-              <div style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#3b82f6" }}>
+              <div style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#6a4c93" }}>
                 Read Executive Summary →
               </div>
             </div>

@@ -29,11 +29,10 @@ import re
 import time
 from datetime import datetime, timedelta, timezone
 
-import requests
+from llm_client import call_llm_json, get_api_key as _get_api_key
 
 logger = logging.getLogger(__name__)
 
-MINIMAX_API_URL = "https://api.minimaxi.chat/v1/text/chatcompletion_v2"
 MAX_RETRIES = 5
 RETRY_DELAY = 5
 WINDOW_MINUTES = 60
@@ -224,61 +223,19 @@ def _build_articles_block(articles: list[dict], source_map: dict[str, int]) -> s
     return "\n".join(lines)
 
 
-def _call_minimax(api_key: str, user_prompt: str) -> dict | None:
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": "MiniMax-M2.5",
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
-        ],
-        "temperature": 0.15,
-        "max_tokens": 3000,
-    }
-
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            resp = requests.post(MINIMAX_API_URL, headers=headers, json=payload, timeout=120)
-
-            if resp.status_code == 429:
-                wait = RETRY_DELAY * attempt
-                logger.warning(f"Rate limited, waiting {wait}s (attempt {attempt})")
-                time.sleep(wait)
-                continue
-
-            resp.raise_for_status()
-            data = resp.json()
-
-            choices = data.get("choices", [])
-            if not choices:
-                logger.warning("Empty choices from MiniMax")
-                return None
-
-            text = choices[0].get("message", {}).get("content", "").strip()
-
-            # Strip markdown fences
-            if text.startswith("```"):
-                text = text.split("\n", 1)[-1]
-                text = text.rsplit("```", 1)[0].strip()
-
-            result = json.loads(text)
-            logger.info("Operational briefing generated successfully")
-            return result
-
-        except json.JSONDecodeError as e:
-            logger.warning(f"JSON parse error on attempt {attempt}: {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY)
-        except requests.RequestException as e:
-            logger.warning(f"API error on attempt {attempt}: {e}")
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_DELAY)
-
-    logger.error("All MiniMax attempts failed for operational briefing")
-    return None
+def _call_llm(api_key: str, user_prompt: str) -> dict | None:
+    """Call LLM to generate the operational briefing."""
+    result = call_llm_json(
+        user_prompt, SYSTEM_PROMPT, api_key,
+        temperature=0.15, max_tokens=8192, timeout=300,
+        max_retries=MAX_RETRIES, retry_delay=RETRY_DELAY,
+        reasoning=True, thinking_budget=2048,
+    )
+    if result is not None:
+        logger.info("Operational briefing generated successfully")
+    else:
+        logger.error("All LLM attempts failed for operational briefing")
+    return result
 
 
 def generate_briefing(
@@ -292,7 +249,7 @@ def generate_briefing(
     Returns the enriched briefing dict ready for Supabase.
     """
     if api_key is None:
-        api_key = os.environ.get("MINIMAX_API_KEY", "")
+        api_key = _get_api_key()
 
     # Filter to 1-hour window
     attacks_window, window_start, window_end = _filter_window(attacks, WINDOW_MINUTES)
@@ -322,7 +279,7 @@ def generate_briefing(
         articles_block=_build_articles_block(articles_window, source_map),
     )
 
-    result = _call_minimax(api_key, user_prompt)
+    result = _call_llm(api_key, user_prompt)
 
     if result is None:
         # Deterministic fallback
