@@ -24,7 +24,7 @@ export default function ThreatLevelDisplay({
       ? "#ef4444"
       : threatLevel.trend === "de-escalating"
         ? "#16a34a"
-        : "#8888a0";
+        : "#9a8575";
 
   // 7-day history chart (sparkline)
   const historyScores = threatLevel.history.map((h) => h.score);

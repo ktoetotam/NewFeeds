@@ -42,7 +42,7 @@ function CitedText({ text, sources }: { text: string; sources?: BriefingSource[]
                   rel="noopener noreferrer"
                   title={src.title}
                   style={{
-                    color: "#3b82f6",
+                    color: "#6a4c93",
                     textDecoration: "none",
                     fontWeight: 700,
                     fontSize: "0.75em",
@@ -138,7 +138,7 @@ function CountryCard({ summary, sources }: { summary: CountrySummary; sources?: 
       style={{
         background: "var(--color-surface)",
         border: "1px solid var(--color-border)",
-        borderLeft: "3px solid #3b82f6",
+        borderLeft: "3px solid #6a4c93",
         borderRadius: 8,
         padding: 16,
         marginBottom: 12,
@@ -149,7 +149,7 @@ function CountryCard({ summary, sources }: { summary: CountrySummary; sources?: 
           fontSize: 14,
           fontWeight: 700,
           marginBottom: 10,
-          color: "#3b82f6",
+          color: "#6a4c93",
           display: "flex",
           alignItems: "center",
           gap: 6,
@@ -157,7 +157,7 @@ function CountryCard({ summary, sources }: { summary: CountrySummary; sources?: 
       >
         🏳️ {summary.country}
       </div>
-      <BulletList items={summary.bullets} color="#3b82f6" sources={sources} />
+      <BulletList items={summary.bullets} color="#6a4c93" sources={sources} />
     </div>
   );
 }
@@ -174,8 +174,8 @@ function BriefingContent({ briefing }: { briefing: OperationalBriefingData }) {
           flexWrap: "wrap",
           gap: 12,
           padding: "14px 20px",
-          background: "#3b82f610",
-          border: "1px solid #3b82f630",
+          background: "#6a4c9310",
+          border: "1px solid #6a4c9330",
           borderRadius: 10,
         }}
       >
@@ -185,8 +185,8 @@ function BriefingContent({ briefing }: { briefing: OperationalBriefingData }) {
               width: 40,
               height: 40,
               borderRadius: "50%",
-              background: "#3b82f625",
-              border: "2px solid #3b82f6",
+              background: "#6a4c9325",
+              border: "2px solid #6a4c93",
               display: "flex",
               alignItems: "center",
               justifyContent: "center",
@@ -196,7 +196,7 @@ function BriefingContent({ briefing }: { briefing: OperationalBriefingData }) {
             📧
           </div>
           <div>
-            <div style={{ fontSize: 14, fontWeight: 700, color: "#3b82f6" }}>
+            <div style={{ fontSize: 14, fontWeight: 700, color: "#6a4c93" }}>
               OPERATIONAL BRIEFING
             </div>
             <div style={{ fontSize: 12, color: "var(--color-text-muted)" }}>
@@ -232,9 +232,9 @@ function BriefingContent({ briefing }: { briefing: OperationalBriefingData }) {
       {briefing.caveat && (
         <div
           style={{
-            background: "#f59e0b10",
-            border: "1px solid #f59e0b30",
-            borderLeft: "3px solid #f59e0b",
+            background: "#f68a6b10",
+            border: "1px solid #f68a6b30",
+            borderLeft: "3px solid #f68a6b",
             borderRadius: 8,
             padding: "12px 16px",
             fontSize: 13,
@@ -258,7 +258,7 @@ function BriefingContent({ briefing }: { briefing: OperationalBriefingData }) {
             padding: 20,
             fontSize: 15,
             lineHeight: 1.7,
-            borderLeft: "3px solid #3b82f6",
+            borderLeft: "3px solid #6a4c93",
           }}
         >
           <CitedText text={briefing.executive_summary} sources={briefing.sources} />
@@ -269,7 +269,7 @@ function BriefingContent({ briefing }: { briefing: OperationalBriefingData }) {
       {briefing.trends?.length > 0 && (
         <section>
           <SectionHeader title="Trends (This Hour)" icon="📊" />
-          <BulletList items={briefing.trends} color="#8b5cf6" sources={briefing.sources} />
+          <BulletList items={briefing.trends} color="#6a4c93" sources={briefing.sources} />
         </section>
       )}
 
@@ -313,7 +313,7 @@ function BriefingContent({ briefing }: { briefing: OperationalBriefingData }) {
                   href={s.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ color: "#3b82f6", textDecoration: "underline" }}
+                  style={{ color: "#6a4c93", textDecoration: "underline" }}
                 >
                   {s.title}
                 </a>
@@ -427,7 +427,7 @@ export default function BriefingClient() {
                   marginTop: 4,
                   fontSize: 13,
                   fontWeight: 600,
-                  color: "#3b82f6",
+                  color: "#6a4c93",
                 }}
               >
                 Go to News Feed →
@@ -468,7 +468,7 @@ export default function BriefingClient() {
                   marginTop: 4,
                   fontSize: 13,
                   fontWeight: 600,
-                  color: "#3b82f6",
+                  color: "#6a4c93",
                 }}
               >
                 View Executive Summary →

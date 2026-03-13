@@ -1,5 +1,32 @@
 [
   {
+    "filename": "2026-03-13T02-01-25.784584_plus_00-00.json",
+    "generated_at": "2026-03-13T02:01:25.784584+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 31,
+    "summary_preview": "The conflict remains at MAJOR threat level with sustained high-intensity exchanges across the Middle East. US Central Command has confirmed the loss of a refueling aircraft in Iraq, while Iran-aligned"
+  },
+  {
+    "filename": "2026-03-13T01-43-46.327197_plus_00-00.json",
+    "generated_at": "2026-03-13T01:43:46.327197+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 31,
+    "summary_preview": "Threat level is MAJOR (Level 1) with 31 incidents in the last 24 hours (3 major, 13 high). Trend: stable. Top event categories: drone_strike (8); hezbollah_action (6); ballistic_missile (5); iran_stri"
+  },
+  {
+    "filename": "2026-03-03T12-55-34.112948_plus_00-00.json",
+    "generated_at": "2026-03-03T12:55:34.112948+00:00",
+    "threat_label": "MAJOR",
+    "threat_level": 1,
+    "trend": "stable",
+    "incident_count_24h": 407,
+    "summary_preview": "The Iran-US conflict remains at MAJOR severity with 407 incidents in 24h. The war has expanded geographically with Israel launching a ground incursion into southern Lebanon and Iranian strikes hitting"
+  },
+  {
     "filename": "2026-03-03T03-59-28.895656_plus_00-00.json",
     "generated_at": "2026-03-03T03:59:28.895656+00:00",
     "threat_label": "MAJOR",
@@ -862,32 +889,5 @@
     "trend": "stable",
     "incident_count_24h": 220,
     "summary_preview": "The Iran–US conflict has dramatically escalated with a series of major attacks and retaliatory strikes in the last 24 hours, involving direct military engagements, missile barrages, and regional insta"
-  },
-  {
-    "filename": "2026-03-01T00-04-02.061197_plus_00-00.json",
-    "generated_at": "2026-03-01T00:04:02.061197+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 202,
-    "summary_preview": "The Iran–US conflict has escalated significantly with a series of direct military engagements, including missile barrages, airstrikes, and naval incidents, causing widespread regional instability and "
-  },
-  {
-    "filename": "2026-02-28T23-45-41.133217_plus_00-00.json",
-    "generated_at": "2026-02-28T23:45:41.133217+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 184,
-    "summary_preview": "The Iran–US conflict has escalated significantly, with both sides engaging in direct military actions, including missile strikes, drone attacks, and naval incidents. The involvement of regional actors"
-  },
-  {
-    "filename": "2026-02-28T23-32-23.667843_plus_00-00.json",
-    "generated_at": "2026-02-28T23:32:23.667843+00:00",
-    "threat_label": "MAJOR",
-    "threat_level": 1,
-    "trend": "stable",
-    "incident_count_24h": 170,
-    "summary_preview": "The Iran–US conflict has escalated dramatically with multiple direct military engagements, including coordinated US-Israeli airstrikes on Iran, retaliatory missile attacks by Iran on US bases and regi"
   }
 ]

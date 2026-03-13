@@ -1,5 +1,5 @@
 """
-translate_summarize.py — Translate, assess relevance, and summarize articles using MiniMax API.
+translate_summarize.py — Translate, assess relevance, and summarize articles using LLM API.
 
 Focused on monitoring the Iran–US war and all connected fronts.
 Single LLM call per article:
@@ -15,7 +15,7 @@ import os
 import time
 import threading
 
-import requests
+from llm_client import call_llm, get_api_key
 
 # Lazy import to avoid circular dependency — only used for English pre-filter
 def _get_attack_pattern():
@@ -23,8 +23,6 @@ def _get_attack_pattern():
     return ATTACK_PATTERN
 
 logger = logging.getLogger(__name__)
-
-MINIMAX_API_URL = "https://api.minimaxi.chat/v1/text/chatcompletion_v2"
 
 LANGUAGE_NAMES = {
     "fa": "Persian (Farsi)",
@@ -75,78 +73,7 @@ Respond with ONLY valid JSON: {"r": true or false, "h": "..." or null, "s": "...
 # ──────────────────────────────────────────────────────────────
 
 
-def get_api_key() -> str:
-    """Get MiniMax API key from environment."""
-    key = os.environ.get("MINIMAX_API_KEY", "")
-    if not key:
-        raise ValueError("MINIMAX_API_KEY environment variable not set")
-    return key
-
-
-def call_minimax(prompt: str, system_prompt: str, api_key: str) -> str:
-    """
-    Call MiniMax chat completion API with retry logic.
-
-    Returns the assistant's response text.
-    """
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
-
-    payload = {
-        "model": "MiniMax-M2.5",
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": prompt},
-        ],
-        "temperature": 0.1,
-        "max_tokens": 600,
-    }
-
-    for attempt in range(MAX_RETRIES):
-        try:
-            resp = requests.post(
-                MINIMAX_API_URL,
-                headers=headers,
-                json=payload,
-                timeout=60,
-            )
-
-            if resp.status_code == 429:
-                wait = RETRY_DELAY * (2 ** attempt)
-                logger.warning(f"Rate limited, waiting {wait}s...")
-                time.sleep(wait)
-                continue
-
-            resp.raise_for_status()
-            data = resp.json()
-
-            # Handle MiniMax's own rate-limit response (HTTP 200 but status_code 1002)
-            base_resp = data.get("base_resp", {})
-            if base_resp.get("status_code") == 1002:
-                wait = RETRY_DELAY * (2 ** attempt)
-                logger.warning(f"MiniMax RPM rate limit (1002), waiting {wait}s...")
-                time.sleep(wait)
-                continue
-
-            # Extract response text from MiniMax format
-            choices = data.get("choices", [])
-            if choices:
-                return choices[0].get("message", {}).get("content", "")
-
-            logger.warning(f"Unexpected API response format: {data}")
-            return ""
-
-        except requests.exceptions.Timeout:
-            logger.warning(f"Timeout on attempt {attempt + 1}")
-            time.sleep(RETRY_DELAY)
-        except requests.exceptions.RequestException as e:
-            logger.error(f"API request failed (attempt {attempt + 1}): {e}")
-            if attempt < MAX_RETRIES - 1:
-                time.sleep(RETRY_DELAY * (2 ** attempt))
-
-    return ""
+# get_api_key and call_llm are imported from llm_client
 
 
 def process_article(article: dict, api_key: str) -> dict:
@@ -173,7 +100,11 @@ def process_article(article: dict, api_key: str) -> dict:
         )
 
     try:
-        response_text = call_minimax(prompt, SYSTEM_PROMPT, api_key)
+        response_text = call_llm(
+            prompt, SYSTEM_PROMPT, api_key,
+            temperature=0.1, max_tokens=600, timeout=60,
+            max_retries=MAX_RETRIES, retry_delay=RETRY_DELAY,
+        )
 
         if not response_text:
             article["title_en"] = title

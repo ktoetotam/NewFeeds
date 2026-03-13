@@ -1,0 +1,66 @@
+{
+  "generated_at": "2026-03-13T01:43:46.327197+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 31,
+    "incident_count_6h": 31,
+    "severity_breakdown": {
+      "major": 3,
+      "high": 13,
+      "medium": 12,
+      "low": 3
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 31,
+    "articles_analyzed": 126,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "Threat level is MAJOR (Level 1) with 31 incidents in the last 24 hours (3 major, 13 high). Trend: stable. Top event categories: drone_strike (8); hezbollah_action (6); ballistic_missile (5); iran_strike_on_us (5); proxy_operation (3).",
+  "whats_new": [
+    "31 classified incidents in the last 24 hours",
+    "Threat trend: stable"
+  ],
+  "confirmed_events": [
+    "U.S. military refuelling aircraft crashes; Saudi Arabia and Israel intercept Iranian missiles — A US military refueling aircraft crashed and Iranian missiles were intercepted by Saudi Arabia and Israel during ongoing hostilities.",
+    "Macron Reports Death of French Soldier in Iraq Following Iranian Attack — A French soldier was killed in an attack on a military base near Erbil attributed to Iranian forces.",
+    "Zarzir Council Head on Missile Strike: 'Devastating Impact, Seven Meters from Homes, Completely Destroyed' — A missile strike attributed to Iran-aligned groups destroyed residential structures in Zarzir, Israel, landing seven meters from homes."
+  ],
+  "unverified_emerging": [
+    "Automated fallback — LLM summary unavailable. Review individual attack cards for source-level detail."
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Check regional advisories for Gulf states and Israel."
+    ],
+    "supply_chain": [
+      "Monitor Gulf maritime and Red Sea corridor disruptions."
+    ],
+    "market_macro": [
+      "Expect heightened oil and shipping volatility."
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "With 31 incidents and a stable trend, continued exchange of strikes and interceptions is the base expectation.",
+    "escalation_risks": [
+      "Proxy expansion targeting shipping and allied interests.",
+      "Civilian harm incidents intensifying diplomatic backlash."
+    ],
+    "de_escalation_pathways": "Emergency diplomatic efforts via back-channels remain possible but no concrete signals observed in current data."
+  }
+}

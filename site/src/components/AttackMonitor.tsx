@@ -165,7 +165,7 @@ export default function AttackMonitor({
   };
 
   const severityColors: Record<SeverityFilter, string> = {
-    all: "#6366f1",
+    all: "#f68a6b",
     major: "#dc2626",
     high: "#ea580c",
     medium: "#ca8a04",

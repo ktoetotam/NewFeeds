@@ -88,7 +88,7 @@ export default function HomeClient() {
                 <span
                   style={{
                     background: tlColor,
-                    color: "#fff",
+                    color: "#fef6f0",
                     fontSize: 12,
                     fontWeight: 700,
                     padding: "3px 10px",
@@ -104,7 +104,7 @@ export default function HomeClient() {
                 {majorCount + highCount > 0 && (
                   <>
                     {" "}
-                    <strong style={{ color: "#ef4444" }}>
+                    <strong style={{ color: "#f68a6b" }}>
                       {majorCount + highCount} major/high
                     </strong>{" "}
                     in last 48h.
@@ -174,7 +174,7 @@ export default function HomeClient() {
                   : "AI-generated intelligence briefing covering regional threat assessments, key incidents, and escalation risks."}
               </div>
               <div
-                style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#3b82f6", display: "flex", alignItems: "center", gap: 4 }}
+                style={{ marginTop: 4, fontSize: 13, fontWeight: 600, color: "#6a4c93", display: "flex", alignItems: "center", gap: 4 }}
               >
                 Read Executive Summary →
               </div>

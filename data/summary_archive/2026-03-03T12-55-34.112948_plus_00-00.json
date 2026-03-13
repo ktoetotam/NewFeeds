@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-03-03T12:55:34.112948+00:00",
+  "threat_snapshot": {
+    "level": 1,
+    "label": "MAJOR",
+    "color": "#DC2626",
+    "trend": "stable",
+    "incident_count_24h": 407,
+    "incident_count_6h": 37,
+    "severity_breakdown": {
+      "major": 183,
+      "high": 136,
+      "medium": 86,
+      "low": 2
+    }
+  },
+  "source_count": {
+    "attacks_analyzed": 37,
+    "articles_analyzed": 187,
+    "event_window_hours": 4,
+    "article_window_hours": 2,
+    "regions_covered": [
+      "china",
+      "gulf",
+      "iran",
+      "israel",
+      "middle_east",
+      "proxies",
+      "russia",
+      "south_asia",
+      "western"
+    ]
+  },
+  "executive_summary": "The Iran-US conflict remains at MAJOR severity with 407 incidents in 24h. The war has expanded geographically with Israel launching a ground incursion into southern Lebanon and Iranian strikes hitting the UAE (812 drones/186 missiles), Kuwait (178 missiles/384 drones), and the US embassy in Riyadh. US-Israeli interceptor stockpiles risk depletion within a week according to CNN. A targeted killing of the IRGC Quds Force Lebanon Corps commander was reported in Beirut. China and France are now actively pursuing diplomatic de-escalation.",
+  "whatsetails": [
+    "Israeli ground forces launched incursion into southern Lebanon, killing senior Hezbollah commander (HIGH)",
+    "Iran launched major assault on UAE: 812 drones + 186 ballistic missiles; 3 killed, 755 drones/172 missiles intercepted",
+    "Kuwait Ministry confirms intercepting 178 ballistic missiles and 384 drones from Iran",
+    "Hezbollah intensifies rocket attacks: multiple barrages targeting Haifa, Galilee, Western Galilee",
+    "US embassy in Riyadh attacked with drones causing fire; Saudi Arabia condemns Iranian attack",
+    "Israeli airstrike in Isfahan killed three Iranian family members (HIGH)",
+    "Trump hints at deploying ground troops to Iran while threatening stronger strikes on Tehran"
+  ],
+  "confirmed_events": [
+    "IAEA confirmed US-Israeli strikes damaged entrances to Iran's underground Natanz uranium-enrichment facility",
+    "Death toll from US-Israeli strikes on Iran rises to 787 (Day 4)",
+    "Iranian ballistic missiles struck Tel Aviv and northern Israel (Kfar Yuval, Bet Shemesh) causing fires and civilian casualties",
+    "Hezbollah destroyed Israeli Merkava tank with guided missile in Kfarshouba, southern Lebanon",
+    "Saudi Arabia condemns Iranian attack on US embassy in Riyadh as 'cowardly and unjustified'",
+    "US closed embassies in Kuwait and Saudi Arabia as Iran widened strikes",
+    "UK Prime Minister Starmer considering deploying HMS Duncan warship to Middle East after RAF Cyprus strike"
+  ],
+  "unverified_emerging": [
+    "Report: Target of Beirut assassination is Lebanon Corps commander from Quds Force Daoud Ali Zada (source: unspecified Israeli report) — if confirmed, represents major escalation in IRGC-Israeli shadow war",
+    "UN calls for investigation into strike on school in Minab, Iran — attackers unidentified",
+    "US destroys Iranian drone mothership used for attacks (source: Daily Mail) — limited corroboration",
+    "Germany summons Iran's ambassador over Middle East escalation (source: TASS)"
+  ],
+  "operational_impacts": {
+    "people_travel": [
+      "Pakistan Aviation Authority denies airspace closure reports — airspace remains fully open",
+      "Suez Canal Authority: 56 ships crossed Tuesday carrying 2.6M tons; some major lines suspended transits pending developments"
+    ],
+    "supply_chain": [
+      "Oil supertanker rates hit all-time high as insurers withdraw war risk protection in Middle East",
+      "Fujairah port fire after drone interception; oil facility fire from drone debris — both contained, no injuries",
+      "Suez Canal operations continuing but some shipping lines pausing transits"
+    ],
+    "market_macro": [
+      "Egypt warns war will have major economic repercussions on entire world",
+      "CNN: US and Israeli interceptor stockpiles at risk of depletion within next week — potential air defense gap"
+    ]
+  },
+  "outlook_24_72h": {
+    "base_case": "Conflict enters Day 4 with no signs of de-escalation. Iran continues mass missile/drone attacks on Gulf states and Israel while facing sustained US-Israeli airstrikes on Iranian territory. Israeli ground operation in Lebanon expands the geographic scope. Interceptor depletion risk creates pressure on US/Israeli air defense. Hezbollah and Houthi fronts remain active. China-France diplomatic effort may open channels but faces significant obstacles given leadership losses and kinetic intensity.",
+    "escalation_risks": [
+      "Iranian missile/drone volUME overwhelming interceptor capacity leading to mass casualties in Gulf states or Israel",
+      "Hezbollah escalating to strategic rocket attacks on Israeli population centers",
+      "Israel targeting IRGC commanders in Beirut expanding covert war",
+      "Ground troop deployment by US (as hinted by Trump) would dramatically escalate",
+      "EU nations drawn in through British warship deployment, Cyprus base attacks"
+    ],
+    "de_escalation_pathways": "China-France diplomatic push represents first major de-escalation effort. Iran claims no uranium enrichment at time of strikes (possible diplomatic opening). US domestic protests against war growing. However, Khamenei's death and IRGC decapitation strikes create powerful political momentum against compromise. Any ceasefire would require both sides to claim victory while preserving core interests — difficult given current intensity."
+  }
+}

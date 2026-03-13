@@ -51,12 +51,12 @@ export default async function ArchivesPage() {
             style={{
               fontSize: 13,
               fontWeight: 600,
-              color: "#3b82f6",
+              color: "#6a4c93",
               textDecoration: "none",
               padding: "6px 14px",
-              border: "1px solid #3b82f630",
+              border: "1px solid #6a4c9330",
               borderRadius: 6,
-              background: "#3b82f610",
+              background: "#6a4c9310",
             }}
           >
             ← Current Briefing
@@ -185,12 +185,12 @@ export default async function ArchivesPage() {
                     style={{
                       fontSize: 12,
                       fontWeight: 600,
-                      color: "#3b82f6",
+                      color: "#6a4c93",
                       textDecoration: "none",
                       padding: "4px 8px",
-                      border: "1px solid #3b82f630",
+                      border: "1px solid #6a4c9330",
                       borderRadius: 5,
-                      background: "#3b82f610",
+                      background: "#6a4c9310",
                       textAlign: "center",
                     }}
                   >

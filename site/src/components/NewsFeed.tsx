@@ -113,7 +113,7 @@ export default function NewsFeed({ articlesByRegion }: NewsFeedProps) {
         <TabButton
           active={activeRegion === "all"}
           onClick={() => setActiveRegion("all")}
-          color="#6366f1"
+          color="#f68a6b"
           count={allArticles.length}
         >
           All

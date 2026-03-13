@@ -53,7 +53,7 @@ const AttackCard = forwardRef<HTMLElement, AttackCardProps>(function AttackCard(
   if (!classification) return null;
 
   const regionCfg = REGIONS.find((r) => r.key === article.region);
-  const regionColor = regionCfg?.color || "#6366f1";
+  const regionColor = regionCfg?.color || "#f68a6b";
   const severityColor = SEVERITY_COLORS[classification.severity ?? "low"] || "#16a34a";
 
   const categoryIcons: Record<string, string> = {
@@ -118,7 +118,7 @@ const AttackCard = forwardRef<HTMLElement, AttackCardProps>(function AttackCard(
             cursor: "pointer",
             boxShadow: isSelected
               ? `0 0 0 3px ${severityColor}40`
-              : "0 1px 3px rgba(0,0,0,0.15)",
+              : "0 1px 3px rgba(91,66,48,0.1)",
             transition: "box-shadow 0.2s ease",
             marginTop: 2,
           }}

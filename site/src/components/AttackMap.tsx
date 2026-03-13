@@ -31,13 +31,13 @@ function createNumberedIcon(
   severity: string,
   isSelected: boolean
 ): L.DivIcon {
-  const color = severityColor[severity] ?? "#6366f1";
+  const color = severityColor[severity] ?? "#f68a6b";
   const size = isSelected ? 36 : 28;
   const fontSize = isSelected ? 14 : 12;
   const border = isSelected ? "3px solid #fff" : "2px solid #fff";
   const shadow = isSelected
-    ? "0 0 0 3px " + color + ", 0 2px 8px rgba(0,0,0,0.4)"
-    : "0 1px 4px rgba(0,0,0,0.3)";
+    ? "0 0 0 3px " + color + ", 0 2px 8px rgba(91,66,48,0.2)"
+    : "0 1px 4px rgba(91,66,48,0.15)";
   const zExtra = isSelected ? "z-index:1000;" : "";
 
   return L.divIcon({
@@ -136,7 +136,7 @@ export default function AttackMap({
         const severity = attack.classification?.severity ?? "low";
         const isSelected = attack.id === selectedId;
         const icon = createNumberedIcon(index ?? 0, severity, isSelected);
-        const color = severityColor[severity] ?? "#6366f1";
+        const color = severityColor[severity] ?? "#f68a6b";
 
         return (
           <Marker
@@ -179,12 +179,12 @@ export default function AttackMap({
                     {attack.title_en || attack.title_original}
                   </span>
                 </div>
-                <div style={{ color: "#555", marginBottom: 6, fontSize: 12 }}>
+                <div style={{ color: "#9a8575", marginBottom: 6, fontSize: 12 }} suppressHydrationWarning>
                   📍 {attack.classification?.location} ·{" "}
                   {formatTimeAgo(attack.published, attack.fetched_at)}
                 </div>
                 {attack.classification?.brief && (
-                  <div style={{ lineHeight: 1.5, color: "#333", marginBottom: 6 }}>
+                  <div style={{ lineHeight: 1.5, color: "#5b4230", marginBottom: 6 }}>
                     {attack.classification.brief}
                   </div>
                 )}
@@ -216,8 +216,8 @@ export default function AttackMap({
                         fontSize: 11,
                         padding: "1px 7px",
                         borderRadius: 4,
-                        background: "#f3f4f6",
-                        color: "#666",
+                        background: "#f5e6d8",
+                        color: "#9a8575",
                       }}
                     >
                       {attack.classification.category}

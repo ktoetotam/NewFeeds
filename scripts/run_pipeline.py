@@ -2,9 +2,12 @@
 run_pipeline.py — Main orchestrator for the news fetch → translate → classify → deploy pipeline.
 
 Usage:
-    MINIMAX_API_KEY=... python scripts/run_pipeline.py
-    MINIMAX_API_KEY=... python scripts/run_pipeline.py --steps fetch,translate
+    LLM_API_KEY=... python scripts/run_pipeline.py
+    LLM_API_KEY=... python scripts/run_pipeline.py --steps fetch,translate
     PIPELINE_REGIONS=iran,russia python scripts/run_pipeline.py --steps fetch,translate
+
+    # Legacy (still supported):
+    MINIMAX_API_KEY=... python scripts/run_pipeline.py
 """
 
 import argparse
@@ -194,9 +197,9 @@ def run(steps: set[str] | None = None):
     logger.info("=" * 60)
 
     # Check API key
-    api_key = os.environ.get("MINIMAX_API_KEY", "")
+    api_key = os.environ.get("LLM_API_KEY", "")
     if not api_key:
-        logger.error("MINIMAX_API_KEY not set. Set it as an environment variable.")
+        logger.error("LLM_API_KEY not set. Set it as an environment variable.")
         sys.exit(1)
 
     # Test mode: limit to 3 articles per region

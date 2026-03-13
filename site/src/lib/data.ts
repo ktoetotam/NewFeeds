@@ -52,6 +52,11 @@ const DEFAULT_THREAT_LEVEL: ThreatLevel = {
 
 // ── Supabase row → Article mapper ───────────────────────────
 
+// Only fetch columns the frontend actually uses (excludes content_original etc.)
+// articles table does NOT have lat, lng, classification — those are attacks-only
+const ARTICLE_COLUMNS = "id,title_original,title_en,summary_en,url,published,fetched_at,effective_time,source_name,source_category,language,region,translated,relevant,countries_mentioned";
+const ATTACK_COLUMNS = "id,title_original,title_en,summary_en,url,published,fetched_at,effective_time,source_name,source_category,language,region,translated,relevant,countries_mentioned,lat,lng,classification,keyword_matches,matched_keywords";
+
 function rowToArticle(row: Record<string, unknown>): Article {
   return {
     id: row.id as string,
@@ -87,7 +92,7 @@ export async function getArticlesByRegion(region: RegionKey): Promise<Article[]>
     try {
       const { data, error } = await sb
         .from("articles")
-        .select("*")
+        .select(ARTICLE_COLUMNS)
         .eq("region", region)
         .not("relevant", "is", false)
         .eq("translated", true)
@@ -136,9 +141,9 @@ export async function getAttackArticles(): Promise<Article[]> {
     try {
       const { data, error } = await sb
         .from("attacks")
-        .select("*")
+        .select(ATTACK_COLUMNS)
         .order("effective_time", { ascending: false })
-        .limit(1000);
+        .limit(500);
 
       if (!error && data) {
         return data
