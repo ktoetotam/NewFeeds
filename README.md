@@ -495,18 +495,6 @@ NewFeeds/
 
 ---
 
-## Visualisation colour scheme — "AI Realist" palette
-
-All charts, diagrams, and visual assets use this palette from the [AI Realist](https://msukhareva.substack.com/) brand:
-
-| Role | Hex | Usage |
-|------|-----|-------|
-| Warm coral | `#f68a6b` | Highlights, CTA, emphasis |
-| Deep brown | `#5b4230` | Text, headings, axis labels |
-| Soft cream | `#fef6f0` | Background |
-| Muted purple | `#6a4c93` | Secondary accent, AI elements |
-
----
 
 ## License
 
