@@ -85,8 +85,8 @@ def process_article(article: dict, api_key: str) -> dict:
     """
     language = article.get("language", "en")
     lang_name = LANGUAGE_NAMES.get(language, language)
-    title = article.get("title_original", "")[:200]
-    content = article.get("content_original", "")[:700]
+    title = article.get("title_original", "")[:300]
+    content = article.get("content_original", "")[:1000]
 
     if language == "en":
         prompt = (
