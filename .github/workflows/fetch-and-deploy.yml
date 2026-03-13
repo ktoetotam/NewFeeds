@@ -20,22 +20,11 @@ permissions:
 
 jobs:
   # ───────────────────────────────────────────────────────
-  # Parallel region groups — each runs full pipeline and
-  # pushes directly to Supabase. No fan-in needed.
+  # Single job — all regions share one LLM server (DGX)
   # ───────────────────────────────────────────────────────
-  fetch-regions:
+  fetch-all:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
-    strategy:
-      fail-fast: false
-      matrix:
-        batch:
-          - name: batch-1
-            regions: "iran,russia,turkey"
-          - name: batch-2
-            regions: "gulf,proxies,middle_east"
-          - name: batch-3
-            regions: "china,israel,south_asia,western"
+    timeout-minutes: 60
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -96,7 +85,7 @@ jobs:
             echo "::error::Response contains 'base_resp' — this is a MiniMax endpoint, NOT llama.cpp!"
           fi
 
-      - name: "Run pipeline: ${{ matrix.batch.name }} (${{ matrix.batch.regions }})"
+      - name: "Run pipeline: all regions"
         working-directory: scripts
         env:
           LLM_API_URL: ${{ secrets.LLM_API_URL }}
@@ -105,8 +94,7 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           TEST_MODE: ${{ inputs.test_mode || 'false' }}
-          LLM_CONCURRENCY: "8"
-          LLM_CLASSIFY_CONCURRENCY: "5"
-          PIPELINE_REGIONS: ${{ matrix.batch.regions }}
+          LLM_CONCURRENCY: "4"
+          LLM_CLASSIFY_CONCURRENCY: "3"
         run: poetry run python run_pipeline.py --steps fetch,translate,classify,geocode,threat
 
