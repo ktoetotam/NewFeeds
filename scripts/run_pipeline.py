@@ -197,7 +197,7 @@ def run(steps: set[str] | None = None):
     logger.info("=" * 60)
 
     # Check API key
-    api_key = os.environ.get("LLM_API_KEY", "")
+    api_key = os.environ.get("LLM_API_KEY") or os.environ.get("MINIMAX_API_KEY", "")
     if not api_key:
         logger.error("LLM_API_KEY not set. Set it as an environment variable.")
         sys.exit(1)
