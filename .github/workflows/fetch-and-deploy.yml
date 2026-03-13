@@ -2,7 +2,9 @@ name: Fetch News & Deploy
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 minutes
+    - cron: '*/30 * * * *'   # fallback: re-trigger every 30 min if self-trigger fails
+  repository_dispatch:
+    types: [pipeline-loop]
   workflow_dispatch:
     inputs:
       test_mode:
@@ -97,4 +99,19 @@ jobs:
           LLM_CONCURRENCY: "4"
           LLM_CLASSIFY_CONCURRENCY: "3"
         run: poetry run python run_pipeline.py --steps fetch,translate,classify,geocode,threat
+
+      - name: Re-trigger pipeline loop
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.PIPELINE_PAT }}
+        run: |
+          # Wait 60s to avoid tight loops if the run was very short (e.g. no new articles)
+          sleep 60
+          curl -s -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/repos/${{ github.repository }}/dispatches" \
+            -d '{"event_type":"pipeline-loop"}' \
+          && echo "Re-triggered pipeline" \
+          || echo "::warning::Failed to re-trigger pipeline (will fall back to cron schedule)"
 
