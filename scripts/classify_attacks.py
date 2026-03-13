@@ -107,7 +107,7 @@ location: extract the specific place where the event occurred. If no explicit lo
     try:
         classification = call_llm_json(
             prompt, system_prompt, api_key,
-            temperature=0.1, max_tokens=1000, timeout=60,
+            temperature=0.1, max_tokens=600, timeout=90,
             max_retries=3, retry_delay=5,
         )
 
