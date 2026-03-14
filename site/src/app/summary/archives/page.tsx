@@ -1,7 +1,15 @@
+import type { Metadata } from "next";
 import Header from "@/components/Header";
 import { getArchiveIndex, getThreatLevel, syncArchivesToPublic } from "@/lib/data";
 import { THREAT_LEVEL_COLORS } from "@/lib/types";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Summary Archives",
+  description:
+    "Archive of all AI-generated executive summaries and intelligence briefings — a searchable historical record of conflict developments across monitored regions.",
+  alternates: { canonical: "/summary/archives" },
+};
 
 export default async function ArchivesPage() {
   syncArchivesToPublic();
