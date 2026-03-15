@@ -12,11 +12,11 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "NewFeeds — Global Conflict & Security Monitor",
-    template: "%s | NewFeeds",
+    default: "AI Realist Iran Monitor — Live Middle East Conflict Feed and Briefing",
+    template: "%s | AI Realist Iran Monitor",
   },
   description:
-    "Real-time monitoring of 120+ news sources across Iran, Russia, Israel, Gulf States, China, and proxy actors. AI-translated news, attack tracking, DEFCON-style threat levels, and intelligence briefings.",
+    "Live Middle East conflict feed and briefing by AI Realist. 120+ sources across Iran, Russia, Israel, Gulf States, China, and proxy actors. AI-translated news, attack tracking, threat levels, and intelligence briefings.",
   keywords: [
     "Iran news", "Russia news", "Israel news", "Middle East conflict",
     "war monitor", "military events", "threat level", "OSINT",
@@ -26,17 +26,17 @@ export const metadata: Metadata = {
   authors: [{ name: "NewFeeds" }],
   openGraph: {
     type: "website",
-    siteName: "NewFeeds",
-    title: "NewFeeds — Global Conflict & Security Monitor",
+    siteName: "AI Realist Iran Monitor",
+    title: "AI Realist Iran Monitor — Live Middle East Conflict Feed and Briefing",
     description:
-      "Real-time monitoring of 120+ news sources across Iran, Russia, Israel, Gulf States, China, and proxy actors. AI-translated, attack-classified, threat-levelled.",
+      "Live Middle East conflict feed and briefing by AI Realist. AI-translated news, attack tracking, threat levels, and intelligence briefings.",
     url: siteUrl,
   },
   twitter: {
     card: "summary_large_image",
-    title: "NewFeeds — Global Conflict & Security Monitor",
+    title: "AI Realist Iran Monitor — Live Middle East Conflict Feed and Briefing",
     description:
-      "Real-time monitoring of 120+ news sources across Iran, Russia, Israel, Gulf States, China, and proxy actors.",
+      "Live Middle East conflict feed and briefing by AI Realist. AI-translated news, attack tracking, threat levels, and intelligence briefings.",
   },
   verification: {
     google: "y0xlZYjwDHehVW24-AoixCUYaT50XRVX8KUQaKBX_H0",

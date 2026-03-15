@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const dynamic = "force-static";
-export const alt = "NewFeeds — Global Conflict & Security Monitor";
+export const alt = "AI Realist Iran Monitor — Live Middle East Conflict Feed and Briefing";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -32,34 +32,47 @@ export default function Image() {
             marginBottom: 28,
           }}
         >
-          Global Conflict & Security Monitor
+          by AI Realist · airealist.org
         </div>
 
         {/* Main title */}
         <div
           style={{
-            fontSize: 88,
+            fontSize: 72,
             fontWeight: 800,
             color: "#5b4230",
             lineHeight: 1.05,
-            marginBottom: 36,
+            marginBottom: 28,
           }}
         >
-          NewFeeds
+          Iran Monitor
+        </div>
+
+        {/* Subtitle */}
+        <div
+          style={{
+            fontSize: 34,
+            fontWeight: 700,
+            color: "#f68a6b",
+            lineHeight: 1.2,
+            marginBottom: 32,
+          }}
+        >
+          Live Middle East Conflict Feed & Briefing
         </div>
 
         {/* Description */}
         <div
           style={{
-            fontSize: 28,
+            fontSize: 24,
             color: "#5b4230",
             opacity: 0.75,
             lineHeight: 1.4,
             maxWidth: 820,
-            marginBottom: 56,
+            marginBottom: 48,
           }}
         >
-          120+ sources · 10 regions · 7 languages · real-time AI translation & threat tracking
+          120+ sources · AI-translated news · Attack tracking · Threat levels · Intelligence briefings
         </div>
 
         {/* Bottom stat pills */}
