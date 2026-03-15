@@ -101,18 +101,29 @@ export default function NavCards() {
         </div>
       </Link>
 
-      {/* Briefing by Country */}
-      <Link href="/summary" style={{ textDecoration: "none", color: "inherit", display: "flex" }}>
-        <div style={CARD_STYLE}>
-          <span style={{ fontSize: 18, fontWeight: 700 }}>📋 Briefing by Country</span>
-          <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5, flex: 1 }}>
-            AI-generated intelligence briefing covering regional threat assessments, key incidents, and escalation risks.
-          </div>
-          <div style={{ fontSize: 13, fontWeight: 600, color: "#6a4c93" }}>
-            Read Briefing by Country →
-          </div>
+      {/* Executive Summary + Briefing by Country */}
+      <div style={{ ...CARD_STYLE, cursor: "default" }}>
+        <span style={{ fontSize: 18, fontWeight: 700 }}>📋 Intelligence Briefings</span>
+        <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
+          AI-generated briefings covering threat assessments, key incidents, and escalation risks.
         </div>
-      </Link>
+        <div style={{ display: "flex", flexDirection: "column", gap: 8, flex: 1, marginTop: 4 }}>
+          <Link href="/summary" style={{ textDecoration: "none" }}>
+            <div style={{ padding: "10px 12px", background: "var(--color-bg)", borderRadius: 8, border: "1.5px solid var(--color-border)" }}>
+              <div style={{ fontSize: 13, fontWeight: 700, marginBottom: 2 }}>📊 Executive Summary</div>
+              <div style={{ fontSize: 12, color: "var(--color-text-muted)" }}>Overall threat level & key events</div>
+              <div style={{ fontSize: 12, fontWeight: 600, color: "#6a4c93", marginTop: 4 }}>Read →</div>
+            </div>
+          </Link>
+          <Link href="/briefing" style={{ textDecoration: "none" }}>
+            <div style={{ padding: "10px 12px", background: "var(--color-bg)", borderRadius: 8, border: "1.5px solid var(--color-border)" }}>
+              <div style={{ fontSize: 13, fontWeight: 700, marginBottom: 2 }}>🇳🇱 Briefing by Country</div>
+              <div style={{ fontSize: 12, color: "var(--color-text-muted)" }}>Per-country intelligence breakdown</div>
+              <div style={{ fontSize: 12, fontWeight: 600, color: "#6a4c93", marginTop: 4 }}>Read →</div>
+            </div>
+          </Link>
+        </div>
+      </div>
 
       {/* AI Realist Articles */}
       <div style={CARD_STYLE}>
