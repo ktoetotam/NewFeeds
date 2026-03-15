@@ -102,7 +102,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
           rel="noopener noreferrer"
           style={{ display: "flex", alignItems: "stretch", flexShrink: 0, alignSelf: "stretch" }}
         >
-          <Image src="/ai-realist-logo.svg" alt="AI Realist" width={72} height={72} style={{ borderRadius: 10, width: "auto", height: "100%", minHeight: 56, maxHeight: 80 }} />
+          <Image src="/ai-realist-logo-cropped.png" alt="AI Realist" width={160} height={80} style={{ borderRadius: 6, width: "auto", height: "100%", minHeight: 40, maxHeight: 80 }} />
         </a>
       </div>
 
