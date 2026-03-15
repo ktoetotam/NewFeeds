@@ -54,7 +54,7 @@ const CARD_STYLE: React.CSSProperties = {
 export default function NavCards() {
   const [canNativeShare, setCanNativeShare] = useState(false);
   useEffect(() => {
-    setCanNativeShare(!!navigator.share);
+    setCanNativeShare(!!navigator.share && navigator.maxTouchPoints > 0);
   }, []);
 
   async function handleNativeShare() {
