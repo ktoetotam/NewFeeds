@@ -97,7 +97,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
         </div>
 
         <a
-          href="https://msukhareva.substack.com/"
+          href="https://www.airealist.org/"
           target="_blank"
           rel="noopener noreferrer"
           style={{ display: "flex", alignItems: "stretch", flexShrink: 0, alignSelf: "stretch" }}
