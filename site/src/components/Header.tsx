@@ -45,12 +45,8 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
                 href="https://www.airealist.org/"
                 target="_blank"
                 rel="noopener noreferrer"
-                style={{ fontSize: 20, fontWeight: 700, color: "#f68a6b", textDecoration: "none", marginLeft: 10, letterSpacing: -0.5, display: "inline-flex", alignItems: "center", gap: 8 }}
-              >
-                by
-                <Image src="/ai-realist-logo.svg" alt="AI Realist" width={28} height={28} style={{ display: "inline-block", verticalAlign: "middle", borderRadius: 4 }} />
-                AI Realist
-              </a>
+                style={{ fontSize: 20, fontWeight: 700, color: "#f68a6b", textDecoration: "none", marginLeft: 10, letterSpacing: -0.5 }}
+              >by AI Realist</a>
             </h1>
             <nav style={{ display: "flex", gap: 16, fontSize: 14 }}>
               <Link href="/" style={{ color: "var(--color-text-muted)" }}>
@@ -100,8 +96,14 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
           </div>
         </div>
 
-        <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
-        </div>
+        <a
+          href="https://msukhareva.substack.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ display: "flex", alignItems: "center", flexShrink: 0 }}
+        >
+          <Image src="/ai-realist-logo.svg" alt="AI Realist" width={48} height={48} style={{ borderRadius: 8 }} />
+        </a>
       </div>
 
     </header>
