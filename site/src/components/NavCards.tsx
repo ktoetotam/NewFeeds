@@ -1,4 +1,41 @@
+"use client";
 import Link from "next/link";
+
+const SITE_URL = "https://iran.airealist.org";
+const SHARE_TEXT = "Real-time Iran & Region conflict monitor — AI-translated news, attack tracking, threat levels";
+
+const SHARE_LINKS = [
+  {
+    label: "X",
+    icon: "𝕏",
+    url: `https://twitter.com/intent/tweet?text=${encodeURIComponent(SHARE_TEXT)}&url=${encodeURIComponent(SITE_URL)}`,
+    color: "#000",
+  },
+  {
+    label: "Facebook",
+    icon: "f",
+    url: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(SITE_URL)}`,
+    color: "#1877f2",
+  },
+  {
+    label: "LinkedIn",
+    icon: "in",
+    url: `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(SITE_URL)}`,
+    color: "#0a66c2",
+  },
+  {
+    label: "Telegram",
+    icon: "✈",
+    url: `https://t.me/share/url?url=${encodeURIComponent(SITE_URL)}&text=${encodeURIComponent(SHARE_TEXT)}`,
+    color: "#26a5e4",
+  },
+  {
+    label: "WhatsApp",
+    icon: "W",
+    url: `https://wa.me/?text=${encodeURIComponent(SHARE_TEXT + " " + SITE_URL)}`,
+    color: "#25d366",
+  },
+];
 
 const CARD_STYLE: React.CSSProperties = {
   background: "var(--color-surface)",
@@ -15,6 +52,7 @@ const CARD_STYLE: React.CSSProperties = {
 
 export default function NavCards() {
   return (
+    <>
     <section
       style={{
         display: "grid",
@@ -81,5 +119,36 @@ export default function NavCards() {
         </div>
       </div>
     </section>
+
+    {/* Share bar */}
+    <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 32, flexWrap: "wrap" }}>
+      <span style={{ fontSize: 13, color: "var(--color-text-muted)", fontWeight: 600 }}>Share:</span>
+      {SHARE_LINKS.map(({ label, icon, url, color }) => (
+        <a
+          key={label}
+          href={url}
+          target="_blank"
+          rel="noopener noreferrer"
+          title={`Share on ${label}`}
+          style={{
+            display: "inline-flex",
+            alignItems: "center",
+            justifyContent: "center",
+            width: 34,
+            height: 34,
+            borderRadius: 8,
+            background: color,
+            color: "#fff",
+            fontSize: 13,
+            fontWeight: 700,
+            textDecoration: "none",
+            flexShrink: 0,
+          }}
+        >
+          {icon}
+        </a>
+      ))}
+    </div>
+  </>
   );
 }
