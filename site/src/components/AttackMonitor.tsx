@@ -174,8 +174,19 @@ export default function AttackMonitor({
 
   return (
     <div>
-      <ThreatLevelDisplay threatLevel={threatLevel} />
-
+      {/* Map header row */}
+      <div style={{ display: "flex", justifyContent: "flex-end", marginBottom: 8 }}>
+        {threatLevel?.updated_at && (
+          <span style={{ fontSize: 12, color: "var(--color-text-muted)" }} suppressHydrationWarning>
+            Updated:{" "}
+            {new Date(threatLevel.updated_at).toLocaleTimeString("en-US", {
+              hour: "2-digit",
+              minute: "2-digit",
+              timeZoneName: "short",
+            })}
+          </span>
+        )}
+      </div>
       {/* Map */}
       <div ref={mapRef} style={{ marginBottom: 20 }}>
         <AttackMapClient
