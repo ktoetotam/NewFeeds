@@ -62,13 +62,13 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
                 href="/summary"
                 style={{ color: "var(--color-text-muted)" }}
               >
-                Briefing by Country
+                Executive Summary
               </Link>
               <Link
                 href="/briefing"
                 style={{ color: "var(--color-text-muted)" }}
               >
-                Briefing
+                Briefing by Country
               </Link>
             </nav>
           </div>
