@@ -39,8 +39,13 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
         <div style={{ display: "flex", flexDirection: "column", gap: 4 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
             <h1 style={{ fontSize: 20, fontWeight: 700, letterSpacing: -0.5 }}>
-              <span style={{ color: "#f68a6b" }}>&#9673;</span> Iran &amp; Region
-              Monitor
+              <span style={{ color: "#f68a6b" }}>&#9673;</span> Iran &amp; Region Monitor
+              <a
+                href="https://www.airealist.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ fontSize: 20, fontWeight: 700, color: "#f68a6b", textDecoration: "none", marginLeft: 10, letterSpacing: -0.5 }}
+              >by AI Realist</a>
             </h1>
             <nav style={{ display: "flex", gap: 16, fontSize: 14 }}>
               <Link href="/" style={{ color: "var(--color-text-muted)" }}>
@@ -77,18 +82,6 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
             }}
           >
             <span>
-              Created by{" "}
-              <a
-                href="https://www.airealist.org/"
-                target="_blank"
-                rel="noopener noreferrer"
-                style={{ color: "#f68a6b", fontWeight: 600, textDecoration: "none" }}
-              >
-                AI Realist
-              </a>
-            </span>
-            <span style={{ color: "var(--color-border)" }}>|</span>
-            <span>
               To support this project{" "}
               <a
                 href="https://msukhareva.substack.com/subscribe"
@@ -103,55 +96,6 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
         </div>
 
         <div style={{ display: "flex", alignItems: "center", gap: 16 }}>
-          {/* Threat level badge */}
-          {level && (
-            <Link
-              href="/attacks"
-              style={{
-                display: "flex",
-                alignItems: "center",
-                gap: 8,
-                background: `${levelColor}20`,
-                border: `1px solid ${levelColor}40`,
-                borderRadius: 8,
-                padding: "6px 12px",
-                fontSize: 13,
-                fontWeight: 600,
-                color: levelColor,
-                textDecoration: "none",
-              }}
-            >
-              <span
-                style={{
-                  width: 8,
-                  height: 8,
-                  borderRadius: "50%",
-                  background: levelColor,
-                  display: "inline-block",
-                  animation:
-                    level.level <= 2 ? "pulse 2s infinite" : undefined,
-                }}
-              />
-              THREAT: {level.label}
-              {threatLevel?.trend === "escalating" && " ↑"}
-              {threatLevel?.trend === "de-escalating" && " ↓"}
-            </Link>
-          )}
-
-          {/* Last updated */}
-          {updatedAt && (
-            <span
-              style={{ fontSize: 12, color: "var(--color-text-muted)" }}
-              suppressHydrationWarning
-            >
-              Updated:{" "}
-              {new Date(updatedAt).toLocaleTimeString("en-US", {
-                hour: "2-digit",
-                minute: "2-digit",
-                timeZoneName: "short",
-              })}
-            </span>
-          )}
         </div>
       </div>
 

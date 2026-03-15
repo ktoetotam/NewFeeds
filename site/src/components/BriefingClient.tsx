@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import NavCards from "@/components/NavCards";
 import Header from "@/components/Header";
 import DownloadBriefingsButton from "@/components/DownloadBriefingsButton";
 import { useOperationalBriefing, useThreatLevel } from "@/lib/hooks";
@@ -358,7 +359,7 @@ export default function BriefingClient() {
         <Header threatLevel={threatLevel} updatedAt={threatLevel.updated_at} />
         <main
           style={{
-            maxWidth: 1000,
+            maxWidth: 1400,
             margin: "0 auto",
             padding: "24px 24px 48px",
           }}
@@ -385,97 +386,13 @@ export default function BriefingClient() {
       <Header threatLevel={threatLevel} updatedAt={threatLevel.updated_at} />
       <main
         style={{
-          maxWidth: 1000,
+          maxWidth: 1400,
           margin: "0 auto",
           padding: "24px 24px 48px",
         }}
       >
         {/* Cross-nav cards */}
-        <section
-          style={{
-            display: "grid",
-            gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
-            gap: 16,
-            marginBottom: 32,
-          }}
-        >
-          <Link href="/" style={{ textDecoration: "none", color: "inherit" }}>
-            <div
-              style={{
-                background: "var(--color-surface)",
-                border: "2px solid var(--color-border)",
-                borderRadius: 12,
-                padding: "20px 24px",
-                display: "flex",
-                flexDirection: "column",
-                gap: 10,
-                cursor: "pointer",
-              }}
-            >
-              <span style={{ fontSize: 18, fontWeight: 700 }}>📰 News Feed</span>
-              <div
-                style={{
-                  fontSize: 13,
-                  color: "var(--color-text-muted)",
-                  lineHeight: 1.5,
-                }}
-              >
-                Live articles from all monitored regions.
-              </div>
-              <div
-                style={{
-                  marginTop: 4,
-                  fontSize: 13,
-                  fontWeight: 600,
-                  color: "#6a4c93",
-                }}
-              >
-                Go to News Feed →
-              </div>
-            </div>
-          </Link>
-
-          <Link
-            href="/summary"
-            style={{ textDecoration: "none", color: "inherit" }}
-          >
-            <div
-              style={{
-                background: "var(--color-surface)",
-                border: "2px solid var(--color-border)",
-                borderRadius: 12,
-                padding: "20px 24px",
-                display: "flex",
-                flexDirection: "column",
-                gap: 10,
-                cursor: "pointer",
-              }}
-            >
-              <span style={{ fontSize: 18, fontWeight: 700 }}>
-                📊 Executive Summary
-              </span>
-              <div
-                style={{
-                  fontSize: 13,
-                  color: "var(--color-text-muted)",
-                  lineHeight: 1.5,
-                }}
-              >
-                Full analytical briefing with outlook and impacts.
-              </div>
-              <div
-                style={{
-                  marginTop: 4,
-                  fontSize: 13,
-                  fontWeight: 600,
-                  color: "#6a4c93",
-                }}
-              >
-                View Executive Summary →
-              </div>
-            </div>
-          </Link>
-        </section>
+        <NavCards />
 
         <div
           style={{
