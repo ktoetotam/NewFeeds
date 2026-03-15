@@ -1,8 +1,9 @@
 "use client";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 
 const SITE_URL = "https://iran.airealist.org";
-const SHARE_TEXT = "Real-time Iran & Region conflict monitor — AI-translated news, attack tracking, threat levels";
+const SHARE_TEXT = "AI Realist Iran Monitor — Live Middle East Conflict Feed and Briefing";
 
 const SHARE_LINKS = [
   {
@@ -51,6 +52,19 @@ const CARD_STYLE: React.CSSProperties = {
 };
 
 export default function NavCards() {
+  const [canNativeShare, setCanNativeShare] = useState(false);
+  useEffect(() => {
+    setCanNativeShare(!!navigator.share);
+  }, []);
+
+  async function handleNativeShare() {
+    try {
+      await navigator.share({ title: SHARE_TEXT, url: SITE_URL });
+    } catch {
+      // user cancelled or error — do nothing
+    }
+  }
+
   return (
     <>
     <section
@@ -123,31 +137,52 @@ export default function NavCards() {
     {/* Share bar */}
     <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 32, flexWrap: "wrap" }}>
       <span style={{ fontSize: 13, color: "var(--color-text-muted)", fontWeight: 600 }}>Share:</span>
-      {SHARE_LINKS.map(({ label, icon, url, color }) => (
-        <a
-          key={label}
-          href={url}
-          target="_blank"
-          rel="noopener noreferrer"
-          title={`Share on ${label}`}
+      {canNativeShare ? (
+        <button
+          onClick={handleNativeShare}
           style={{
             display: "inline-flex",
             alignItems: "center",
-            justifyContent: "center",
-            width: 34,
-            height: 34,
+            gap: 8,
+            padding: "7px 16px",
             borderRadius: 8,
-            background: color,
+            background: "#f68a6b",
             color: "#fff",
             fontSize: 13,
             fontWeight: 700,
-            textDecoration: "none",
-            flexShrink: 0,
+            border: "none",
+            cursor: "pointer",
           }}
         >
-          {icon}
-        </a>
-      ))}
+          ↗ Share
+        </button>
+      ) : (
+        SHARE_LINKS.map(({ label, icon, url, color }) => (
+          <a
+            key={label}
+            href={url}
+            target="_blank"
+            rel="noopener noreferrer"
+            title={`Share on ${label}`}
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              justifyContent: "center",
+              width: 34,
+              height: 34,
+              borderRadius: 8,
+              background: color,
+              color: "#fff",
+              fontSize: 13,
+              fontWeight: 700,
+              textDecoration: "none",
+              flexShrink: 0,
+            }}
+          >
+            {icon}
+          </a>
+        ))
+      )}
     </div>
   </>
   );
