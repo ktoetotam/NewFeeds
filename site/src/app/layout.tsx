@@ -38,6 +38,9 @@ export const metadata: Metadata = {
     description:
       "Real-time monitoring of 120+ news sources across Iran, Russia, Israel, Gulf States, China, and proxy actors.",
   },
+  verification: {
+    google: "y0xlZYjwDHehVW24-AoixCUYaT50XRVX8KUQaKBX_H0",
+  },
   robots: {
     index: true,
     follow: true,
