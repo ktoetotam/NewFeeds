@@ -99,7 +99,7 @@ export default function SummaryClient() {
             marginBottom: 6,
           }}
         >
-          <h2 style={{ fontSize: 24, fontWeight: 700 }}>Executive Summary</h2>
+          <h2 style={{ fontSize: 24, fontWeight: 700 }}>Briefing by Country</h2>
           <button
             onClick={handleDownloadAll}
             disabled={downloadLoading}
