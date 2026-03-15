@@ -40,12 +40,12 @@ const SHARE_LINKS = [
 
 const CARD_STYLE: React.CSSProperties = {
   background: "var(--color-surface)",
-  border: "2px solid var(--color-border)",
-  borderRadius: 12,
-  padding: "20px 24px",
+  border: "1.5px solid var(--color-border)",
+  borderRadius: 8,
+  padding: "10px 12px",
   display: "flex",
   flexDirection: "column",
-  gap: 10,
+  gap: 4,
   cursor: "pointer",
   height: "100%",
   boxSizing: "border-box",
@@ -70,16 +70,16 @@ export default function NavCards() {
     <section
       style={{
         display: "grid",
-        gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
-        gap: 16,
-        marginBottom: 32,
+        gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))",
+        gap: 8,
+        marginBottom: 16,
       }}
     >
       {/* News Feed */}
       <Link href="/" style={{ textDecoration: "none", color: "inherit", display: "flex" }}>
         <div style={CARD_STYLE}>
-          <span style={{ fontSize: 18, fontWeight: 700 }}>📰 News Feed</span>
-          <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5, flex: 1 }}>
+          <span style={{ fontSize: 15, fontWeight: 700 }}>📰 News Feed</span>
+          <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.4, flex: 1 }}>
             Live articles from all monitored regions, translated and relevance-filtered.
           </div>
           <div style={{ fontSize: 13, fontWeight: 600, color: "#6a4c93" }}>
@@ -91,8 +91,8 @@ export default function NavCards() {
       {/* Attack Monitor */}
       <Link href="/attacks" style={{ textDecoration: "none", color: "inherit", display: "flex" }}>
         <div style={CARD_STYLE}>
-          <span style={{ fontSize: 18, fontWeight: 700 }}>🎯 Attack Monitor</span>
-          <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5, flex: 1 }}>
+          <span style={{ fontSize: 15, fontWeight: 700 }}>🎯 Attack Monitor</span>
+          <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.4, flex: 1 }}>
             Geolocated military incidents with severity classification and threat-level tracking.
           </div>
           <div style={{ fontSize: 13, fontWeight: 600, color: "#6a4c93" }}>
@@ -103,23 +103,18 @@ export default function NavCards() {
 
       {/* Executive Summary + Briefing by Country */}
       <div style={{ ...CARD_STYLE, cursor: "default" }}>
-        <span style={{ fontSize: 18, fontWeight: 700 }}>📋 Intelligence Briefings</span>
-        <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
-          AI-generated briefings covering threat assessments, key incidents, and escalation risks.
-        </div>
-        <div style={{ display: "flex", flexDirection: "column", gap: 8, flex: 1, marginTop: 4 }}>
+        <span style={{ fontSize: 15, fontWeight: 700 }}>📋 Intelligence Briefings</span>
+        <div style={{ display: "flex", flexDirection: "column", gap: 4, flex: 1 }}>
           <Link href="/summary" style={{ textDecoration: "none" }}>
-            <div style={{ padding: "10px 12px", background: "var(--color-bg)", borderRadius: 8, border: "1.5px solid var(--color-border)" }}>
-              <div style={{ fontSize: 13, fontWeight: 700, marginBottom: 2 }}>📊 Executive Summary</div>
-              <div style={{ fontSize: 12, color: "var(--color-text-muted)" }}>Overall threat level & key events</div>
-              <div style={{ fontSize: 12, fontWeight: 600, color: "#6a4c93", marginTop: 4 }}>Read →</div>
+            <div style={{ padding: "5px 8px", background: "var(--color-bg)", borderRadius: 6, border: "1px solid var(--color-border)" }}>
+              <div style={{ fontSize: 13, fontWeight: 700 }}>📊 Executive Summary</div>
+              <div style={{ fontSize: 12, color: "var(--color-text-muted)", marginTop: 1 }}>Threat level & key events · <span style={{ color: "#6a4c93" }}>Read →</span></div>
             </div>
           </Link>
           <Link href="/briefing" style={{ textDecoration: "none" }}>
-            <div style={{ padding: "10px 12px", background: "var(--color-bg)", borderRadius: 8, border: "1.5px solid var(--color-border)" }}>
-              <div style={{ fontSize: 13, fontWeight: 700, marginBottom: 2 }}>🇳🇱 Briefing by Country</div>
-              <div style={{ fontSize: 12, color: "var(--color-text-muted)" }}>Per-country intelligence breakdown</div>
-              <div style={{ fontSize: 12, fontWeight: 600, color: "#6a4c93", marginTop: 4 }}>Read →</div>
+            <div style={{ padding: "5px 8px", background: "var(--color-bg)", borderRadius: 6, border: "1px solid var(--color-border)" }}>
+              <div style={{ fontSize: 13, fontWeight: 700 }}>🗺️ Briefing by Country</div>
+              <div style={{ fontSize: 12, color: "var(--color-text-muted)", marginTop: 1 }}>Per-country breakdown · <span style={{ color: "#6a4c93" }}>Read →</span></div>
             </div>
           </Link>
         </div>
@@ -127,11 +122,8 @@ export default function NavCards() {
 
       {/* AI Realist Articles */}
       <div style={CARD_STYLE}>
-        <span style={{ fontSize: 18, fontWeight: 700 }}>✍️ AI Realist Articles</span>
-        <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5 }}>
-          Read AI Realist analysis on the topic:
-        </div>
-        <div style={{ display: "flex", flexDirection: "column", gap: 6, flex: 1 }}>
+        <span style={{ fontSize: 15, fontWeight: 700 }}>✍️ AI Realist Articles</span>
+        <div style={{ display: "flex", flexDirection: "column", gap: 4, flex: 1 }}>
           <a href="https://msukhareva.substack.com/p/did-ai-misidentify-the-minab-school" target="_blank" rel="noopener noreferrer" style={{ fontSize: 13, color: "#f68a6b", fontWeight: 600, textDecoration: "none" }}>
             → Did AI misidentify the Minab school?
           </a>
@@ -146,7 +138,7 @@ export default function NavCards() {
     </section>
 
     {/* Share bar */}
-    <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 32, flexWrap: "wrap" }}>
+    <div style={{ display: "flex", alignItems: "center", gap: 8, marginBottom: 24, flexWrap: "wrap" }}>
       <span style={{ fontSize: 13, color: "var(--color-text-muted)", fontWeight: 600 }}>Share:</span>
       {SHARE_LINKS.map(({ label, icon, url, color }) => {
         // LinkedIn: use native share sheet if available (LinkedIn app doesn't handle web share URLs)
