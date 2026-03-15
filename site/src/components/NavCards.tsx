@@ -101,15 +101,15 @@ export default function NavCards() {
         </div>
       </Link>
 
-      {/* Executive Summary */}
+      {/* Briefing by Country */}
       <Link href="/summary" style={{ textDecoration: "none", color: "inherit", display: "flex" }}>
         <div style={CARD_STYLE}>
-          <span style={{ fontSize: 18, fontWeight: 700 }}>📋 Executive Summary</span>
+          <span style={{ fontSize: 18, fontWeight: 700 }}>📋 Briefing by Country</span>
           <div style={{ fontSize: 13, color: "var(--color-text-muted)", lineHeight: 1.5, flex: 1 }}>
             AI-generated intelligence briefing covering regional threat assessments, key incidents, and escalation risks.
           </div>
           <div style={{ fontSize: 13, fontWeight: 600, color: "#6a4c93" }}>
-            Read Executive Summary →
+            Read Briefing by Country →
           </div>
         </div>
       </Link>
