@@ -24,6 +24,7 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
         zIndex: 50,
       }}
     >
+      <style>{`@media (max-width: 640px) { header { position: static !important; } }`}</style>
       <div
         style={{
           maxWidth: 1400,

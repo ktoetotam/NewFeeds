@@ -143,7 +143,7 @@ export default function AttackMap({
             key={`${attack.id}-${index}`}
             position={[attack.lat!, attack.lng!]}
             icon={icon}
-            zIndexOffset={isSelected ? 1000 : 0}
+            zIndexOffset={isSelected ? 10000 : 1000 - (index ?? 999)}
           >
             <Popup maxWidth={300}>
               <div style={{ fontFamily: "sans-serif", fontSize: 13 }}>
