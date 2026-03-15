@@ -137,27 +137,35 @@ export default function NavCards() {
     {/* Share bar */}
     <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 32, flexWrap: "wrap" }}>
       <span style={{ fontSize: 13, color: "var(--color-text-muted)", fontWeight: 600 }}>Share:</span>
-      {canNativeShare ? (
-        <button
-          onClick={handleNativeShare}
-          style={{
-            display: "inline-flex",
-            alignItems: "center",
-            gap: 8,
-            padding: "7px 16px",
-            borderRadius: 8,
-            background: "#f68a6b",
-            color: "#fff",
-            fontSize: 13,
-            fontWeight: 700,
-            border: "none",
-            cursor: "pointer",
-          }}
-        >
-          ↗ Share
-        </button>
-      ) : (
-        SHARE_LINKS.map(({ label, icon, url, color }) => (
+      {SHARE_LINKS.map(({ label, icon, url, color }) => {
+        // LinkedIn: use native share sheet if available (LinkedIn app doesn't handle web share URLs)
+        if (label === "LinkedIn" && canNativeShare) {
+          return (
+            <button
+              key={label}
+              onClick={handleNativeShare}
+              title="Share on LinkedIn"
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                justifyContent: "center",
+                width: 34,
+                height: 34,
+                borderRadius: 8,
+                background: color,
+                color: "#fff",
+                fontSize: 13,
+                fontWeight: 700,
+                border: "none",
+                cursor: "pointer",
+                flexShrink: 0,
+              }}
+            >
+              {icon}
+            </button>
+          );
+        }
+        return (
           <a
             key={label}
             href={url}
@@ -181,8 +189,8 @@ export default function NavCards() {
           >
             {icon}
           </a>
-        ))
-      )}
+        );
+      })}
     </div>
   </>
   );
