@@ -100,9 +100,9 @@ export default function Header({ threatLevel, updatedAt }: HeaderProps) {
           href="https://msukhareva.substack.com/"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ display: "flex", alignItems: "center", flexShrink: 0 }}
+          style={{ display: "flex", alignItems: "stretch", flexShrink: 0, alignSelf: "stretch" }}
         >
-          <Image src="/ai-realist-logo.svg" alt="AI Realist" width={48} height={48} style={{ borderRadius: 8 }} />
+          <Image src="/ai-realist-logo.svg" alt="AI Realist" width={72} height={72} style={{ borderRadius: 10, width: "auto", height: "100%", minHeight: 56, maxHeight: 80 }} />
         </a>
       </div>
 
