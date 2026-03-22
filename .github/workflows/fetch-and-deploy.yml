@@ -1,8 +1,6 @@
 name: Fetch News & Deploy
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'   # fallback: re-trigger every 30 min if self-trigger fails
   workflow_dispatch:
     inputs:
       test_mode:
@@ -107,5 +105,5 @@ jobs:
           sleep 60
           gh workflow run "Fetch News & Deploy" --repo "${{ github.repository }}" \
           && echo "Re-triggered pipeline" \
-          || echo "::warning::Failed to re-trigger pipeline (will fall back to cron schedule)"
+          || echo "::warning::Failed to re-trigger pipeline"
 
