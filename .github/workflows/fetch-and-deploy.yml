@@ -1,8 +1,7 @@
 name: Fetch News & Deploy
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'   # fallback: re-trigger every 30 min if self-trigger fails
+
   workflow_dispatch:
     inputs:
       test_mode:
