@@ -266,7 +266,7 @@ In the Cloudflare Pages project → **Settings** → **Environment variables**, 
 | `NEXT_PUBLIC_SUPABASE_URL` | `https://xxxx.supabase.co` |
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Your Supabase anon key |
 | `NEXT_PUBLIC_BASE_PATH` | *(leave empty)* |
-| `NODE_VERSION` | `20` |
+| `NODE_VERSION` | `22.23.4` |
 
 > **Important:** Do NOT set `NEXT_PUBLIC_BASE_PATH` for Cloudflare — the site deploys at the root.
 
