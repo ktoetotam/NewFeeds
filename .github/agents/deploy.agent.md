@@ -24,7 +24,7 @@ You deploy the NewFeeds static site to Cloudflare Pages.
 - **Env vars** (set in Cloudflare dashboard, not in code):
   - `NEXT_PUBLIC_SUPABASE_URL`
   - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-  - `NODE_VERSION=20`
+  - `NODE_VERSION=22.23.4`
   - `NEXT_PUBLIC_BASE_PATH` left empty (site is at root on Cloudflare)
 
 ## Deployment Workflow
